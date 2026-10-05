@@ -13,9 +13,9 @@ src = re.sub(r'<script type="application/ld\+json">.*?</script>\n?', "", src, fl
 def structural(lang):
     ids = {
         "en": {"over": "about", "seizoenen": "seasons", "wildschonau": "wildschoenau",
-               "bereikbaarheid": "getting-there", "praktisch": "practical", "verblijf": "stay"},
+               "bereikbaarheid": "getting-there", "praktisch": "practical", "verblijf": "stay", "geschiedenis": "history"},
         "de": {"over": "dorf", "seizoenen": "jahreszeiten", "wildschonau": "wildschoenau",
-               "bereikbaarheid": "anreise", "praktisch": "praktisch", "verblijf": "unterkunft"},
+               "bereikbaarheid": "anreise", "praktisch": "praktisch", "verblijf": "unterkunft", "geschiedenis": "geschichte"},
     }[lang]
     pairs = []
     for nl, new in ids.items():
@@ -58,7 +58,7 @@ T["en"] = [
     ('<a href="#getting-there">Route</a>', '<a href="#getting-there">Getting there</a>'),
     ('<a href="#practical">Praktisch</a>', '<a href="#practical">Practical</a>'),
     ('aria-label="Taal"', 'aria-label="Language"'),
-    ('<p class="eyebrow">Tirol · Oostenrijk</p>', '<p class="eyebrow">Tyrol · Austria</p>'),
+    ('<p class="eyebrow">Wildschönau · Tirol · Oostenrijk</p>', '<p class="eyebrow">Wildschönau · Tyrol · Austria</p>'),
     ("Het zonnige bergdorp aan het begin van de Wildschönau. Een plek om te skiën, te wandelen en elk jaar weer thuis te komen.",
      "The sunny mountain village at the entrance to the Wildschönau valley. A place to ski, to hike and to come home to, year after year."),
     ("<li>828 m hoogte</li>", "<li>828 m altitude</li>"),
@@ -67,8 +67,8 @@ T["en"] = [
     ("Hoe kom je er?</a>", "How to get there</a>"),
     ('<p class="eyebrow">Het dorp</p>', '<p class="eyebrow">The village</p>'),
     ("Welkom in Niederau</h2>", "Welcome to Niederau</h2>"),
-    ("<p>Niederau is het eerste dorp dat je bereikt als je vanuit het Inndal bij Wörgl de bergweg omhoog rijdt de Wildschönau in. Het ligt op zo’n 828 meter hoogte in een breed, groen hoogdal, omringd door bergweiden, bossen en toppen in de Kitzbüheler Alpen.</p>",
-     "<p>Niederau is the first village you reach when you drive up the mountain road from Wörgl in the Inn valley into the Wildschönau. It lies at about 828 metres in a wide, green high valley, surrounded by alpine meadows, forests and the peaks of the Kitzbühel Alps.</p>"),
+    ("<p>Niederau ligt in de <strong>Wildschönau</strong>, in <strong>Tirol</strong> (Oostenrijk). Het is het eerste dorp dat je bereikt als je vanuit het Inndal bij Wörgl de bergweg omhoog rijdt het dal in. Het ligt op zo’n 828 meter hoogte in een breed, groen hoogdal, omringd door bergweiden, bossen en toppen in de Kitzbüheler Alpen.</p>",
+     "<p>Niederau lies in the <strong>Wildschönau</strong> valley in <strong>Tyrol</strong> (Austria). It is the first village you reach when you drive up the mountain road from Wörgl in the Inn valley. It lies at about 828 metres in a wide, green high valley, surrounded by alpine meadows, forests and the peaks of the Kitzbühel Alps.</p>"),
     ("<p>Samen met Oberau, Auffach en Thierbach vormt Niederau de gemeente <strong>Wildschönau</strong> in het district Kufstein. Het dorp is van oudsher geliefd bij Nederlandse en Britse gasten: compact, gemoedelijk, met skischolen, pensions en hotels op loopafstand van de lift.</p>",
      "<p>Together with Oberau, Auffach and Thierbach, Niederau forms the municipality of <strong>Wildschönau</strong> in the Kufstein district. The village has long been a favourite with Dutch and British guests: compact and friendly, with ski schools, guesthouses and hotels within walking distance of the lift.</p>"),
     ('aria-label="Niederau in cijfers"', 'aria-label="Niederau in numbers"'),
@@ -212,7 +212,7 @@ T["de"] = [
     ('<a href="#anreise">Route</a>', '<a href="#anreise">Anreise</a>'),
     ('<a href="#praktisch">Praktisch</a>', '<a href="#praktisch">Praktisches</a>'),
     ('aria-label="Taal"', 'aria-label="Sprache"'),
-    ('<p class="eyebrow">Tirol · Oostenrijk</p>', '<p class="eyebrow">Tirol · Österreich</p>'),
+    ('<p class="eyebrow">Wildschönau · Tirol · Oostenrijk</p>', '<p class="eyebrow">Wildschönau · Tirol · Österreich</p>'),
     ("Het zonnige bergdorp aan het begin van de Wildschönau. Een plek om te skiën, te wandelen en elk jaar weer thuis te komen.",
      "Das sonnige Bergdorf am Eingang der Wildschönau. Ein Ort zum Skifahren, zum Wandern und um jedes Jahr wieder nach Hause zu kommen."),
     ("<li>828 m hoogte</li>", "<li>828 m Seehöhe</li>"),
@@ -221,8 +221,8 @@ T["de"] = [
     ("Hoe kom je er?</a>", "Wie kommt man hin?</a>"),
     ('<p class="eyebrow">Het dorp</p>', '<p class="eyebrow">Das Dorf</p>'),
     ("Welkom in Niederau</h2>", "Willkommen in Niederau</h2>"),
-    ("<p>Niederau is het eerste dorp dat je bereikt als je vanuit het Inndal bij Wörgl de bergweg omhoog rijdt de Wildschönau in. Het ligt op zo’n 828 meter hoogte in een breed, groen hoogdal, omringd door bergweiden, bossen en toppen in de Kitzbüheler Alpen.</p>",
-     "<p>Niederau ist das erste Dorf, das man erreicht, wenn man von Wörgl im Inntal die Bergstraße hinauf in die Wildschönau fährt. Es liegt auf rund 828 Metern in einem weiten, grünen Hochtal, umgeben von Almwiesen, Wäldern und den Gipfeln der Kitzbüheler Alpen.</p>"),
+    ("<p>Niederau ligt in de <strong>Wildschönau</strong>, in <strong>Tirol</strong> (Oostenrijk). Het is het eerste dorp dat je bereikt als je vanuit het Inndal bij Wörgl de bergweg omhoog rijdt het dal in. Het ligt op zo’n 828 meter hoogte in een breed, groen hoogdal, omringd door bergweiden, bossen en toppen in de Kitzbüheler Alpen.</p>",
+     "<p>Niederau liegt in der <strong>Wildschönau</strong> in <strong>Tirol</strong> (Österreich). Es ist das erste Dorf, das man erreicht, wenn man von Wörgl im Inntal die Bergstraße hinauf ins Tal fährt. Es liegt auf rund 828 Metern in einem weiten, grünen Hochtal, umgeben von Almwiesen, Wäldern und den Gipfeln der Kitzbüheler Alpen.</p>"),
     ("<p>Samen met Oberau, Auffach en Thierbach vormt Niederau de gemeente <strong>Wildschönau</strong> in het district Kufstein. Het dorp is van oudsher geliefd bij Nederlandse en Britse gasten: compact, gemoedelijk, met skischolen, pensions en hotels op loopafstand van de lift.</p>",
      "<p>Gemeinsam mit Oberau, Auffach und Thierbach bildet Niederau die Gemeinde <strong>Wildschönau</strong> im Bezirk Kufstein. Das Dorf ist seit jeher bei niederländischen und britischen Gästen beliebt: kompakt, gemütlich, mit Skischulen, Pensionen und Hotels in Gehweite zum Lift.</p>"),
     ('aria-label="Niederau in cijfers"', 'aria-label="Niederau in Zahlen"'),
@@ -528,6 +528,56 @@ T["de"] += list(zip(EIGEN_NL, EIGEN_DE))
 CARD_NL = "<p>Met de Wildschönau Premium Card gebruik je in de zomer de bergbanen gratis. Vraag bij je accommodatie of die de kaart aanbiedt.</p>"
 T["en"] += [(CARD_NL, "<p>With the Wildschönau Premium Card the mountain lifts are free in summer. Ask your accommodation whether it offers the card.</p>")]
 T["de"] += [(CARD_NL, "<p>Mit der Wildschönau Premium Card fahren Sie im Sommer gratis mit den Bergbahnen. Fragen Sie Ihre Unterkunft, ob sie die Karte anbietet.</p>")]
+
+HIST_NL = [
+ ('<a href="#history">Geschiedenis</a>', '<a href="#history">History</a>', '<a href="#geschichte">Geschiedenis</a>', '<a href="#geschichte">Geschichte</a>'),
+]
+for nl_en, en, nl_de, de in HIST_NL:
+    T["en"].append((nl_en, en)); T["de"].append((nl_de, de))
+H_NL = [
+ '<p class="eyebrow">Geschiedenis</p>',
+ "Van boerendal tot wintersportdorp</h2>",
+ "<p>Niederau ligt in de Wildschönau, een hoogdal in Tirol (Oostenrijk). Eeuwenlang was het een afgelegen dal van boeren en mijnwerkers. Pas in de twintigste eeuw kwamen de eerste toeristen – en in 1947 begon in Niederau met de eerste stoeltjeslift van Tirol het wintersporttijdperk van het dal.</p>",
+ "<p>Die lift was een kunststuk: ingenieur Sepp Hochmuth bouwde hem vlak na de Tweede Wereldoorlog, volgens de overlevering met motoren en aandrijfwielen van tanks die bij het station van Wörgl waren achtergelaten. Op 14 januari 1947 ging hij open, van Niederau naar het Markbachjoch.</p>",
+ "<br>Eerste schriftelijke vermelding van de Wildschönau.</li>",
+ '<span class="when">16e eeuw</span><br>Mijnbouw: op de hellingen van de Gratlspitz bij Thierbach wordt zilver- en kopererts gewonnen.</li>',
+ '<span class="when">18e eeuw</span><br>Keizerin Maria Theresia geeft 51 boeren het recht om Krautinger te stoken. Ongeveer vijftien boeren gebruiken dat recht nog steeds.</li>',
+ "<br>De Wildschönau wordt een zelfstandige gemeente.</li>",
+ '<span class="when">Begin 20e eeuw</span><br>Een weg door de Kundler Klamm verbindt het dal met het Inndal; de overdekte houten brug dateert van 1913/14. Het huidige wandelpad volgt die oude weg.</li>',
+ '<span class="when">14 januari 1947</span><br>De eerste stoeltjeslift van Tirol opent in Niederau, naar het Markbachjoch. Het begin van het toerisme in het dal.</li>',
+ "<br>Een gondelbaan voor acht personen vervangt de oude stoeltjeslift: de huidige Markbachjochbahn.</li>",
+ "<br>De bergbaan in Niederau viert haar 75-jarig jubileum.</li>",
+]
+H_EN = [
+ '<p class="eyebrow">History</p>',
+ "From farming valley to ski village</h2>",
+ "<p>Niederau lies in the Wildschönau, a high valley in Tyrol (Austria). For centuries it was a remote valley of farmers and miners. The first tourists only arrived in the twentieth century – and in 1947 the valley’s winter sports era began in Niederau with the first chairlift in Tyrol.</p>",
+ "<p>That lift was quite a feat: engineer Sepp Hochmuth built it just after the Second World War, according to local lore using engines and drive wheels from tanks abandoned at Wörgl station. It opened on 14 January 1947, running from Niederau up to the Markbachjoch.</p>",
+ "<br>First written mention of the Wildschönau.</li>",
+ '<span class="when">16th century</span><br>Mining: silver and copper ore is extracted on the slopes of the Gratlspitz near Thierbach.</li>',
+ '<span class="when">18th century</span><br>Empress Maria Theresa grants 51 farmers the right to distil Krautinger. Around fifteen farmers still use that right today.</li>',
+ "<br>The Wildschönau becomes an independent municipality.</li>",
+ '<span class="when">Early 20th century</span><br>A road through the Kundler Klamm links the valley with the Inn valley; the covered wooden bridge dates from 1913/14. Today’s footpath follows that old road.</li>',
+ '<span class="when">14 January 1947</span><br>Tyrol’s first chairlift opens in Niederau, up to the Markbachjoch. The start of tourism in the valley.</li>',
+ "<br>An eight-seater gondola replaces the old chairlift: today’s Markbachjochbahn.</li>",
+ "<br>The mountain railway in Niederau celebrates its 75th anniversary.</li>",
+]
+H_DE = [
+ '<p class="eyebrow">Geschichte</p>',
+ "Vom Bauerntal zum Skidorf</h2>",
+ "<p>Niederau liegt in der Wildschönau, einem Hochtal in Tirol (Österreich). Jahrhundertelang war es ein abgelegenes Tal der Bauern und Bergknappen. Erst im 20. Jahrhundert kamen die ersten Gäste – und 1947 begann in Niederau mit dem ersten Sessellift Tirols das Wintersportzeitalter des Tals.</p>",
+ "<p>Dieser Lift war ein Kunststück: Ing. Sepp Hochmuth baute ihn kurz nach dem Zweiten Weltkrieg, der Überlieferung nach mit Motoren und Antriebsrädern von Panzern, die am Bahnhof Wörgl zurückgelassen worden waren. Am 14. Jänner 1947 wurde er eröffnet, von Niederau hinauf zum Markbachjoch.</p>",
+ "<br>Erste urkundliche Erwähnung der Wildschönau.</li>",
+ '<span class="when">16. Jahrhundert</span><br>Bergbau: An den Hängen der Gratlspitz bei Thierbach werden Silber- und Kupfererze abgebaut.</li>',
+ '<span class="when">18. Jahrhundert</span><br>Kaiserin Maria Theresia verleiht 51 Bauern das Recht, Krautinger zu brennen. Rund fünfzehn Bauern nutzen dieses Recht noch heute.</li>',
+ "<br>Die Wildschönau wird eine eigenständige Gemeinde.</li>",
+ '<span class="when">Anfang 20. Jahrhundert</span><br>Eine Straße durch die Kundler Klamm verbindet das Tal mit dem Inntal; die überdachte Holzbrücke stammt von 1913/14. Der heutige Wanderweg folgt dieser alten Straße.</li>',
+ '<span class="when">14. Jänner 1947</span><br>In Niederau eröffnet der erste Sessellift Tirols, hinauf zum Markbachjoch. Der Beginn des Tourismus im Tal.</li>',
+ "<br>Eine Achter-Gondelbahn ersetzt den alten Sessellift: die heutige Markbachjochbahn.</li>",
+ "<br>Die Bergbahn in Niederau feiert ihr 75-jähriges Jubiläum.</li>",
+]
+T["en"] += list(zip(H_NL, H_EN))
+T["de"] += list(zip(H_NL, H_DE))
 
 ok = True
 for lang in ("en", "de"):

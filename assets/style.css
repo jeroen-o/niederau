@@ -96,13 +96,8 @@ p { margin: 0 0 1em; }
 /* ---------- Hero ---------- */
 .hero {
   position: relative; overflow: hidden;
-  background: linear-gradient(180deg, #9fc6dc 0%, #cfe3ec 45%, #eef4ef 100%);
-  color: #2f2f2f;
   min-height: min(88vh, 760px);
   display: flex; align-items: center;
-}
-@media (prefers-color-scheme: dark) {
-  .hero { background: linear-gradient(180deg, #0d1c2a 0%, #1b3242 50%, #233a35 100%); color: #f2f5f1; }
 }
 .hero-art { position: absolute; inset: auto 0 0 0; width: 100%; height: 62%; }
 .hero-art svg { width: 100%; height: 100%; }
@@ -168,6 +163,14 @@ section.alt { background: var(--bg-alt); }
 .timeline li::before { content: ""; position: absolute; left: -8px; top: 6px; width: 14px; height: 14px; border-radius: 50%; background: var(--bg); border: 3px solid var(--accent); }
 .timeline .when { font-weight: 700; color: var(--accent); font-size: .9rem; letter-spacing: .04em; }
 
+/* Band (geschiedenis) */
+.band { background: #8ba9ba; color: #fff; }
+.band h2, .band .eyebrow, .band a { color: #fff; }
+.band .timeline { border-left-color: rgba(255,255,255,.5); }
+.band .timeline li::before { background: #8ba9ba; border-color: #fff; }
+.band .timeline .when { color: #fff; text-transform: uppercase; letter-spacing: .06em; }
+@media (prefers-color-scheme: dark) { .band { background: #3d4f5a; } .band .timeline li::before { background: #3d4f5a; } }
+
 /* Bereikbaarheid */
 .route { counter-reset: step; list-style: none; padding: 0; margin: 0; }
 .route li { counter-increment: step; position: relative; padding: 0 0 18px 48px; }
@@ -227,14 +230,12 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 @media (max-width: 1240px) { .season-toggle { margin: 8px 0 0; align-self: flex-start; } }
 
 /* Winter: koel licht, besneeuwde heuvels, vallende sneeuw */
-[data-season="winter"] .hero { background: linear-gradient(180deg, #b9cfe0 0%, #e3edf4 55%, #f7fafc 100%); }
 [data-season="winter"] .hill-far { fill: #c9d8e4; opacity: 1; }
 [data-season="winter"] .hill-mid { fill: #e6eef4; }
 [data-season="winter"] .hill-near { fill: #f4f8fb; }
 [data-season="winter"] .hill-front { fill: #ffffff; }
 [data-season="winter"] .trees { fill: #2a4a44; }
 @media (prefers-color-scheme: dark) {
-  [data-season="winter"] .hero { background: linear-gradient(180deg, #0c1826 0%, #1c3044 55%, #2a3f52 100%); }
   [data-season="winter"] .hill-far { fill: #5d7487; }
   [data-season="winter"] .hill-mid { fill: #8197a8; }
   [data-season="winter"] .hill-near { fill: #a9bac7; }
@@ -252,14 +253,23 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 @keyframes snowfall { to { background-position: 60px 260px, -40px 260px, 30px 260px, -20px 260px, 50px 260px; } }
 
 /* Zomer: warm groen, zonnige accenten */
-[data-season="summer"] .hero { background: linear-gradient(180deg, #8ec5e6 0%, #cfe8f2 45%, #eef6e8 100%); }
 [data-season="summer"] .hill-mid { fill: #6aa37f; }
 [data-season="summer"] .hill-near { fill: #3f8a5c; }
 [data-season="summer"] .hill-front { fill: #2c6b45; }
-@media (prefers-color-scheme: dark) {
-  [data-season="summer"] .hero { background: linear-gradient(180deg, #0d1c2a 0%, #1b3242 50%, #233a35 100%); }
-}
 @media (prefers-reduced-motion: reduce) { .snow { animation: none; } }
+
+/* ---------- Hero met echte foto's (winter: eigen foto Niederau, zomer: Niederau in de zomer) ---------- */
+.hero { background-color: #3b4a52; background-size: cover; background-position: center; color: #fff; }
+.hero-art { display: none; }
+[data-season="winter"] .hero { background-image: linear-gradient(90deg, rgba(15,25,35,.5) 0%, rgba(15,25,35,.2) 55%, rgba(15,25,35,0) 100%), url("img/hero-winter.jpg"); }
+[data-season="summer"] .hero { background-image: linear-gradient(90deg, rgba(15,25,35,.6) 0%, rgba(15,25,35,.3) 55%, rgba(15,25,35,.05) 100%), url("img/hero-zomer.jpg"); background-position: center 35%; }
+.hero h1, .hero .lead, .hero .season-line { color: #fff; text-shadow: 0 2px 14px rgba(0,0,0,.45); }
+.hero .eyebrow { color: #fff; opacity: .92; }
+.hero .wrap { padding: 96px 0 110px; }
+.hero .btn.ghost { background: rgba(255,255,255,.92); }
+@media (prefers-color-scheme: dark) {
+  [data-season="winter"] .hero, [data-season="summer"] .hero { background-color: #1c1b19; }
+}
 
 @media print {
   .site-header, .hero-art, .snow, .season-toggle, .menu-btn, .season-switch { display: none !important; }
