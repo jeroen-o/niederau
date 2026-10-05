@@ -25,7 +25,7 @@ LANGS = {
                         "Auffach": "Achter in het dal, aan de voet van de Schatzberg en de verbinding met het Alpbachtal.",
                         "Thierbach": "Kleinste en hoogst gelegen dorp van de Wildschönau."},
            "hotel": "Familiebedrijf en viersterren-wellnesshotel in Niederau, met het skigebied vanaf de voordeur.",
-           "img_alt": "Besneeuwde pistes en liften in de Wildschönau bij Niederau"},
+           "img_alt": "Besneeuwde pistes en liften in Niederau, Wildschönau"},
     "en": {"file": "en/index.html", "url": f"{BASE}/en/", "locale": "en_GB",
            "region": "Niederau, Wildschönau, Tyrol, Austria",
            "dest": "Mountain village at 828 metres in the Wildschönau valley, Kitzbühel Alps, Tyrol (Austria). Sunny and snow-sure; skiing, cross-country skiing, tobogganing, hiking and mountain biking.",
@@ -34,7 +34,7 @@ LANGS = {
                         "Auffach": "At the far end of the valley, at the foot of the Schatzberg and the link to the Alpbach valley.",
                         "Thierbach": "Smallest and highest village of the Wildschönau."},
            "hotel": "Family-run four-star wellness hotel in Niederau, with ski-in access from the front door.",
-           "img_alt": "Snowy slopes and lifts in the Wildschönau near Niederau"},
+           "img_alt": "Snowy slopes and lifts in Niederau, Wildschönau"},
     "de": {"file": "de/index.html", "url": f"{BASE}/de/", "locale": "de_DE",
            "region": "Niederau, Wildschönau, Tirol, Österreich",
            "dest": "Bergdorf auf 828 Metern in der Wildschönau, Kitzbüheler Alpen, Tirol (Österreich). Sonnig und schneesicher; Skifahren, Langlaufen, Rodeln, Wandern und Mountainbiken.",
@@ -43,7 +43,7 @@ LANGS = {
                         "Auffach": "Hinten im Tal, am Fuß des Schatzbergs und der Verbindung ins Alpbachtal.",
                         "Thierbach": "Kleinstes und höchstgelegenes Dorf der Wildschönau."},
            "hotel": "Familienbetrieb und Vier-Sterne-Wellnesshotel in Niederau, Skigebiet ab der Haustür.",
-           "img_alt": "Verschneite Pisten und Lifte in der Wildschönau bei Niederau"},
+           "img_alt": "Verschneite Pisten und Lifte in Niederau, Wildschönau"},
 }
 
 
