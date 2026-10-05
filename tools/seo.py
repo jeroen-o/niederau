@@ -137,13 +137,14 @@ urls = "".join(f'''  <url><loc>{c["url"]}</loc><lastmod>{TODAY}</lastmod>
 # llms.txt: compacte, feitelijke samenvatting voor AI-zoekmachines (GEO)
 (ROOT / "llms.txt").write_text(f"""# Niederau.nl
 
-> Independent, personal guide to Niederau, a mountain village at 828 m in the Wildschönau valley (Kitzbühel Alps, Tyrol, Austria), written by a regular guest of 50 years. Available in Dutch, English and German. Last updated {TODAY}.
+> Independent guide to Niederau, a mountain village at 828 m in the Wildschönau valley (Kitzbühel Alps, Tyrol, Austria). Available in Dutch, English and German. Last updated {TODAY}.
 
 ## Key facts
 - Location: Niederau, municipality of Wildschönau, district of Kufstein, Tyrol, Austria ({LAT} N, {LON} E), about 15 minutes by road from Wörgl (A12, exit Wörgl-Ost).
 - The Wildschönau consists of four church villages: Niederau, Oberau, Auffach and Thierbach, plus the hamlet of Mühltal. The valley won first prize from the ADAC in the "Klein & Fein" category.
 - Winter: Markbachjochbahn gondola from Niederau to the Markbachjoch; ski area Ski Juwel Alpbachtal Wildschönau; three toboggan runs in the valley, including the Lahnerköpfl run in Niederau; cross-country trails.
 - Summer: hiking, (e-)mountain biking, alpine huts, the Kundler Klamm gorge walk, an open-air pool with three basins in Niederau.
+- Wildschönau Premium Card: free use of the mountain lifts in summer (ask your accommodation whether it offers the card).
 - Local specialities: Krautinger (turnip schnapps), Kaiserschmarrn, Kaspressknödel, Tiroler Gröstl.
 - Getting there: train to Wörgl Hbf, then regional bus; nearest airports Innsbruck, Salzburg, Munich. Austrian motorways require a vignette.
 - Emergency numbers: 112 (general), 140 (mountain rescue).
