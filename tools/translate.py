@@ -13,9 +13,9 @@ src = re.sub(r'<script type="application/ld\+json">.*?</script>\n?', "", src, fl
 def structural(lang):
     ids = {
         "en": {"over": "about", "seizoenen": "seasons", "wildschonau": "wildschoenau",
-               "50-jaar": "50-years", "bereikbaarheid": "getting-there", "praktisch": "practical", "verblijf": "stay"},
+               "bereikbaarheid": "getting-there", "praktisch": "practical", "verblijf": "stay"},
         "de": {"over": "dorf", "seizoenen": "jahreszeiten", "wildschonau": "wildschoenau",
-               "50-jaar": "50-jahre", "bereikbaarheid": "anreise", "praktisch": "praktisch", "verblijf": "unterkunft"},
+               "bereikbaarheid": "anreise", "praktisch": "praktisch", "verblijf": "unterkunft"},
     }[lang]
     pairs = []
     for nl, new in ids.items():
@@ -41,11 +41,11 @@ T = {}
 T["en"] = [
     ("<title>Niederau in de Wildschönau (Tirol) – dorp, skiën, wandelen & tips | Niederau.nl</title>",
      "<title>Niederau in the Wildschönau (Tyrol) – village, skiing, hiking & tips | Niederau.nl</title>"),
-    ('content="Alles over Niederau, het zonnige bergdorp in de Wildschönau in Tirol (Oostenrijk): skiën, wandelen, de vier dorpen, Krautinger, bereikbaarheid en praktische tips – van iemand die er al 50 jaar komt."',
-     'content="Everything about Niederau, the sunny mountain village in the Wildschönau valley in Tyrol (Austria): skiing, hiking, the four villages, Krautinger, getting there and practical tips – from someone who has been visiting for 50 years."'),
+    ('content="Alles over Niederau, het zonnige bergdorp in de Wildschönau in Tirol (Oostenrijk): skiën, wandelen, de vier dorpen, Krautinger, bereikbaarheid en praktische tips."',
+     'content="Everything about Niederau, the sunny mountain village in the Wildschönau valley in Tyrol (Austria): skiing, hiking, the four villages, Krautinger, getting there and practical tips."'),
     ('content="Niederau – het hart van de Wildschönau"', 'content="Niederau – the heart of the Wildschönau"'),
-    ('content="Bergdorp op 828 meter in Tirol. Skiën, wandelen en genieten – met tips van een vaste gast sinds 50 jaar."',
-     'content="Mountain village at 828 metres in Tyrol. Skiing, hiking and enjoying life – with tips from a regular guest of 50 years."'),
+    ('content="Bergdorp op 828 meter in Tirol. Skiën, wandelen en genieten in de Wildschönau – met praktische tips."',
+     'content="Mountain village at 828 metres in Tyrol. Skiing, hiking and enjoying life in the Wildschönau – with practical tips."'),
     ('"description": "Bergdorp in de Wildschönau, Tirol, Oostenrijk.",', '"description": "Mountain village in the Wildschönau valley, Tyrol, Austria.",'),
     ('"name": "Wildschönau, Tirol, Oostenrijk"', '"name": "Wildschönau, Tyrol, Austria"'),
     ('"touristType": ["Wintersport", "Wandelen", "Gezinnen"]', '"touristType": ["Winter sports", "Hiking", "Families"]'),
@@ -55,7 +55,6 @@ T["en"] = [
     ('aria-label="Hoofdmenu"', 'aria-label="Main menu"'),
     ('<a href="#about">Het dorp</a>', '<a href="#about">The village</a>'),
     ('<a href="#seasons">Zomer &amp; winter</a>', '<a href="#seasons">Summer &amp; winter</a>'),
-    ('<a href="#50-years">50 jaar</a>', '<a href="#50-years">50 years</a>'),
     ('<a href="#getting-there">Route</a>', '<a href="#getting-there">Getting there</a>'),
     ('<a href="#practical">Praktisch</a>', '<a href="#practical">Practical</a>'),
     ('aria-label="Taal"', 'aria-label="Language"'),
@@ -72,8 +71,6 @@ T["en"] = [
      "<p>Niederau is the first village you reach when you drive up the mountain road from Wörgl in the Inn valley into the Wildschönau. It lies at about 828 metres in a wide, green high valley, surrounded by alpine meadows, forests and the peaks of the Kitzbühel Alps.</p>"),
     ("<p>Samen met Oberau, Auffach en Thierbach vormt Niederau de gemeente <strong>Wildschönau</strong> in het district Kufstein. Het dorp is van oudsher geliefd bij Nederlandse en Britse gasten: compact, gemoedelijk, met skischolen, pensions en hotels op loopafstand van de lift.</p>",
      "<p>Together with Oberau, Auffach and Thierbach, Niederau forms the municipality of <strong>Wildschönau</strong> in the Kufstein district. The village has long been a favourite with Dutch and British guests: compact and friendly, with ski schools, guesthouses and hotels within walking distance of the lift.</p>"),
-    ("<p>Wie hier eenmaal geweest is, komt vaak terug. Dat geldt in ieder geval voor de maker van deze site – al vijftig jaar lang.</p>",
-     "<p>Once you have been here, you tend to come back. That is certainly true for the maker of this site – for fifty years now.</p>"),
     ('aria-label="Niederau in cijfers"', 'aria-label="Niederau in numbers"'),
     ("<span>hoogte van het dorp</span>", "<span>altitude of the village</span>"),
     ("<strong>± 1.500 m</strong><span>Markbachjoch, bereikbaar met de gondel</span>", "<strong>± 1,500 m</strong><span>Markbachjoch, reached by gondola</span>"),
@@ -139,14 +136,6 @@ T["en"] = [
     ("– kaasknoedels, in soep of met salade</li>", "– cheese dumplings, in soup or with salad</li>"),
     ("– gebakken aardappel, spek en ui met een ei</li>", "– fried potatoes, bacon and onion topped with an egg</li>"),
     ("<li><strong>Speckknödel</strong> en verse <strong>almkaas</strong></li>", "<li><strong>Speckknödel</strong> and fresh <strong>alpine cheese</strong></li>"),
-    (">Persoonlijk</p>", ">Personal</p>"),
-    ("Vijftig jaar Niederau</h2>", "Fifty years of Niederau</h2>"),
-    ("<p>Deze site is gemaakt door iemand die al een halve eeuw naar Niederau komt. Wat begon als een vakantie, werd een vaste plek in het jaar. In die tijd zag ik liften komen en gaan, pensions verbouwd worden en kinderen van skileraren zelf skileraar worden. Maar de stilte op een winterochtend, de geur van hooi in de zomer en het uitzicht vanaf het Markbachjoch zijn nooit veranderd.</p>",
-     "<p>This site was made by someone who has been coming to Niederau for half a century. What started as a holiday became a fixed point in the year. In that time I have seen lifts come and go, guesthouses rebuilt and ski instructors’ children become ski instructors themselves. But the silence of a winter morning, the scent of hay in summer and the view from the Markbachjoch have never changed.</p>"),
-    ("<p>Op Niederau.nl deel ik wat ik in al die jaren heb geleerd: waar je heen moet, wanneer het er het mooist is en waarom je er steeds weer naar terugverlangt.</p>",
-     "<p>On Niederau.nl I share what I have learned over all those years: where to go, when it is at its most beautiful and why you keep longing to return.</p>"),
-    ("<!-- TIP: voeg hier eigen foto's toe (oud en nieuw), bijv.", "<!-- TIP: add your own photos here (old and new), e.g."),
-    ("“Je gaat niet naar Niederau. Je komt er terug.”", "“You don’t go to Niederau. You come back to it.”"),
     ('<p class="eyebrow">Bereikbaarheid</p>', '<p class="eyebrow">Getting there</p>'),
     ("Zo kom je in Niederau</h2>", "How to reach Niederau</h2>"),
     ("<h3>Met de auto</h3>", "<h3>By car</h3>"),
@@ -193,13 +182,12 @@ T["en"] = [
     ("<small>Vignet en verkeersinfo</small>", "<small>Vignette and traffic info</small>"),
     ("<small>Treinen naar Wörgl</small>", "<small>Trains to Wörgl</small>"),
     ("<small>Bussen in Tirol</small>", "<small>Buses in Tyrol</small>"),
-    ("Niederau.nl is een onafhankelijke, persoonlijke site en niet verbonden aan de toeristische organisatie of de liftmaatschappij. Controleer actuele tijden en prijzen altijd bij de officiële bronnen.</p>",
-     "Niederau.nl is an independent, personal site and is not affiliated with the tourist board or the lift company. Always check current times and prices with the official sources.</p>"),
-    ("<p>Een persoonlijke gids over Niederau in de Wildschönau, Tirol – gemaakt met liefde voor het dorp, na vijftig jaar vaste gast.</p>",
-     "<p>A personal guide to Niederau in the Wildschönau, Tyrol – made with love for the village by a regular guest of fifty years.</p>"),
+    ("Niederau.nl is een onafhankelijke site en niet verbonden aan de toeristische organisatie of de liftmaatschappij. Controleer actuele tijden en prijzen altijd bij de officiële bronnen.</p>",
+     "Niederau.nl is an independent site and is not affiliated with the tourist board or the lift company. Always check current times and prices with the official sources.</p>"),
+    ("<p>Onafhankelijke gids over Niederau in de Wildschönau, Tirol: het dorp, zomer en winter, route en praktische tips.</p>",
+     "<p>Independent guide to Niederau in the Wildschönau, Tyrol: the village, summer and winter, getting there and practical tips.</p>"),
     ("<h4>Op deze site</h4>", "<h4>On this site</h4>"),
     ("<h4>Meer</h4>", "<h4>More</h4>"),
-    ('<a href="#50-years">50 jaar Niederau</a>', '<a href="#50-years">50 years of Niederau</a>'),
     ('<a href="#practical">Praktische info</a>', '<a href="#practical">Practical info</a>'),
     ("Niederau.nl · Onafhankelijke site, niet verbonden aan officiële instanties.</p>", "Niederau.nl · Independent site, not affiliated with any official body.</p>"),
 ]
@@ -207,11 +195,11 @@ T["en"] = [
 T["de"] = [
     ("<title>Niederau in de Wildschönau (Tirol) – dorp, skiën, wandelen & tips | Niederau.nl</title>",
      "<title>Niederau in der Wildschönau (Tirol) – Dorf, Skifahren, Wandern & Tipps | Niederau.nl</title>"),
-    ('content="Alles over Niederau, het zonnige bergdorp in de Wildschönau in Tirol (Oostenrijk): skiën, wandelen, de vier dorpen, Krautinger, bereikbaarheid en praktische tips – van iemand die er al 50 jaar komt."',
-     'content="Alles über Niederau, das sonnige Bergdorf in der Wildschönau in Tirol (Österreich): Skifahren, Wandern, die vier Dörfer, Krautinger, Anreise und praktische Tipps – von jemandem, der seit 50 Jahren kommt."'),
+    ('content="Alles over Niederau, het zonnige bergdorp in de Wildschönau in Tirol (Oostenrijk): skiën, wandelen, de vier dorpen, Krautinger, bereikbaarheid en praktische tips."',
+     'content="Alles über Niederau, das sonnige Bergdorf in der Wildschönau in Tirol (Österreich): Skifahren, Wandern, die vier Dörfer, Krautinger, Anreise und praktische Tipps."'),
     ('content="Niederau – het hart van de Wildschönau"', 'content="Niederau – das Herz der Wildschönau"'),
-    ('content="Bergdorp op 828 meter in Tirol. Skiën, wandelen en genieten – met tips van een vaste gast sinds 50 jaar."',
-     'content="Bergdorf auf 828 Metern in Tirol. Skifahren, Wandern und Genießen – mit Tipps eines Stammgasts seit 50 Jahren."'),
+    ('content="Bergdorp op 828 meter in Tirol. Skiën, wandelen en genieten in de Wildschönau – met praktische tips."',
+     'content="Bergdorf auf 828 Metern in Tirol. Skifahren, Wandern und Genießen in der Wildschönau – mit praktischen Tipps."'),
     ('"description": "Bergdorp in de Wildschönau, Tirol, Oostenrijk.",', '"description": "Bergdorf in der Wildschönau, Tirol, Österreich.",'),
     ('"name": "Wildschönau, Tirol, Oostenrijk"', '"name": "Wildschönau, Tirol, Österreich"'),
     ('"touristType": ["Wintersport", "Wandelen", "Gezinnen"]', '"touristType": ["Wintersport", "Wandern", "Familien"]'),
@@ -221,7 +209,6 @@ T["de"] = [
     ('<button class="menu-btn" aria-expanded="false" aria-controls="nav">Menu</button>', '<button class="menu-btn" aria-expanded="false" aria-controls="nav">Menü</button>'),
     ('<a href="#dorf">Het dorp</a>', '<a href="#dorf">Das Dorf</a>'),
     ('<a href="#jahreszeiten">Zomer &amp; winter</a>', '<a href="#jahreszeiten">Sommer &amp; Winter</a>'),
-    ('<a href="#50-jahre">50 jaar</a>', '<a href="#50-jahre">50 Jahre</a>'),
     ('<a href="#anreise">Route</a>', '<a href="#anreise">Anreise</a>'),
     ('<a href="#praktisch">Praktisch</a>', '<a href="#praktisch">Praktisches</a>'),
     ('aria-label="Taal"', 'aria-label="Sprache"'),
@@ -238,8 +225,6 @@ T["de"] = [
      "<p>Niederau ist das erste Dorf, das man erreicht, wenn man von Wörgl im Inntal die Bergstraße hinauf in die Wildschönau fährt. Es liegt auf rund 828 Metern in einem weiten, grünen Hochtal, umgeben von Almwiesen, Wäldern und den Gipfeln der Kitzbüheler Alpen.</p>"),
     ("<p>Samen met Oberau, Auffach en Thierbach vormt Niederau de gemeente <strong>Wildschönau</strong> in het district Kufstein. Het dorp is van oudsher geliefd bij Nederlandse en Britse gasten: compact, gemoedelijk, met skischolen, pensions en hotels op loopafstand van de lift.</p>",
      "<p>Gemeinsam mit Oberau, Auffach und Thierbach bildet Niederau die Gemeinde <strong>Wildschönau</strong> im Bezirk Kufstein. Das Dorf ist seit jeher bei niederländischen und britischen Gästen beliebt: kompakt, gemütlich, mit Skischulen, Pensionen und Hotels in Gehweite zum Lift.</p>"),
-    ("<p>Wie hier eenmaal geweest is, komt vaak terug. Dat geldt in ieder geval voor de maker van deze site – al vijftig jaar lang.</p>",
-     "<p>Wer einmal hier war, kommt oft wieder. Das gilt jedenfalls für den Macher dieser Seite – seit fünfzig Jahren.</p>"),
     ('aria-label="Niederau in cijfers"', 'aria-label="Niederau in Zahlen"'),
     ("<span>hoogte van het dorp</span>", "<span>Seehöhe des Dorfes</span>"),
     ("<span>Markbachjoch, bereikbaar met de gondel</span>", "<span>Markbachjoch, mit der Gondel erreichbar</span>"),
@@ -304,14 +289,6 @@ T["de"] = [
     ("– kaasknoedels, in soep of met salade</li>", "– Käseknödel, in der Suppe oder mit Salat</li>"),
     ("– gebakken aardappel, spek en ui met een ei</li>", "– Bratkartoffeln mit Speck und Zwiebeln, mit Spiegelei</li>"),
     ("<li><strong>Speckknödel</strong> en verse <strong>almkaas</strong></li>", "<li><strong>Speckknödel</strong> und frischer <strong>Almkäse</strong></li>"),
-    (">Persoonlijk</p>", ">Persönlich</p>"),
-    ("Vijftig jaar Niederau</h2>", "Fünfzig Jahre Niederau</h2>"),
-    ("<p>Deze site is gemaakt door iemand die al een halve eeuw naar Niederau komt. Wat begon als een vakantie, werd een vaste plek in het jaar. In die tijd zag ik liften komen en gaan, pensions verbouwd worden en kinderen van skileraren zelf skileraar worden. Maar de stilte op een winterochtend, de geur van hooi in de zomer en het uitzicht vanaf het Markbachjoch zijn nooit veranderd.</p>",
-     "<p>Diese Seite stammt von jemandem, der seit einem halben Jahrhundert nach Niederau kommt. Was als Urlaub begann, wurde zu einem festen Punkt im Jahr. In dieser Zeit habe ich Lifte kommen und gehen sehen, Pensionen wurden umgebaut, und Kinder von Skilehrern wurden selbst Skilehrer. Aber die Stille an einem Wintermorgen, der Duft von Heu im Sommer und der Blick vom Markbachjoch haben sich nie verändert.</p>"),
-    ("<p>Op Niederau.nl deel ik wat ik in al die jaren heb geleerd: waar je heen moet, wanneer het er het mooist is en waarom je er steeds weer naar terugverlangt.</p>",
-     "<p>Auf Niederau.nl teile ich, was ich in all den Jahren gelernt habe: wohin man gehen sollte, wann es am schönsten ist und warum man sich immer wieder zurücksehnt.</p>"),
-    ("<!-- TIP: voeg hier eigen foto's toe (oud en nieuw), bijv.", "<!-- TIPP: hier eigene Fotos einfügen (alt und neu), z. B."),
-    ("“Je gaat niet naar Niederau. Je komt er terug.”", "„Nach Niederau fährt man nicht. Man kommt zurück.“"),
     ('<p class="eyebrow">Bereikbaarheid</p>', '<p class="eyebrow">Anreise</p>'),
     ("Zo kom je in Niederau</h2>", "So kommen Sie nach Niederau</h2>"),
     ("<h3>Met de auto</h3>", "<h3>Mit dem Auto</h3>"),
@@ -358,13 +335,12 @@ T["de"] = [
     ("<small>Vignet en verkeersinfo</small>", "<small>Vignette und Verkehrsinfo</small>"),
     ("<small>Treinen naar Wörgl</small>", "<small>Züge nach Wörgl</small>"),
     ("<small>Bussen in Tirol</small>", "<small>Busse in Tirol</small>"),
-    ("Niederau.nl is een onafhankelijke, persoonlijke site en niet verbonden aan de toeristische organisatie of de liftmaatschappij. Controleer actuele tijden en prijzen altijd bij de officiële bronnen.</p>",
-     "Niederau.nl ist eine unabhängige, private Seite und nicht mit dem Tourismusverband oder den Bergbahnen verbunden. Aktuelle Zeiten und Preise bitte immer bei den offiziellen Quellen prüfen.</p>"),
-    ("<p>Een persoonlijke gids over Niederau in de Wildschönau, Tirol – gemaakt met liefde voor het dorp, na vijftig jaar vaste gast.</p>",
-     "<p>Ein persönlicher Führer über Niederau in der Wildschönau, Tirol – mit Liebe zum Dorf gemacht, von einem Stammgast seit fünfzig Jahren.</p>"),
+    ("Niederau.nl is een onafhankelijke site en niet verbonden aan de toeristische organisatie of de liftmaatschappij. Controleer actuele tijden en prijzen altijd bij de officiële bronnen.</p>",
+     "Niederau.nl ist eine unabhängige Seite und nicht mit dem Tourismusverband oder den Bergbahnen verbunden. Aktuelle Zeiten und Preise bitte immer bei den offiziellen Quellen prüfen.</p>"),
+    ("<p>Onafhankelijke gids over Niederau in de Wildschönau, Tirol: het dorp, zomer en winter, route en praktische tips.</p>",
+     "<p>Unabhängiger Führer über Niederau in der Wildschönau, Tirol: das Dorf, Sommer und Winter, Anreise und praktische Tipps.</p>"),
     ("<h4>Op deze site</h4>", "<h4>Auf dieser Seite</h4>"),
     ("<h4>Meer</h4>", "<h4>Mehr</h4>"),
-    ('<a href="#50-jahre">50 jaar Niederau</a>', '<a href="#50-jahre">50 Jahre Niederau</a>'),
     ('<a href="#praktisch">Praktische info</a>', '<a href="#praktisch">Praktische Infos</a>'),
     ("Niederau.nl · Onafhankelijke site, niet verbonden aan officiële instanties.</p>", "Niederau.nl · Unabhängige Seite, nicht mit offiziellen Stellen verbunden.</p>"),
 ]
@@ -534,20 +510,24 @@ T["de"] += [("<li>Paardrijden vanuit het hotel, in de zomer én in de winter</li
 T['en'] += [('<p>Het hoogdal Wildschönau ligt in de Kitzbüheler Alpen en staat bekend als een zonnige en sneeuwzekere bestemming. Mede dankzij de vriendelijke uitstraling won het dal de eerste prijs van de ADAC – de Duitse ANWB – in de categorie “Klein &amp; Fein”.</p>\n      <p>De Wildschönau bestaat uit de vier kerkdorpen Niederau, Oberau, Auffach en Thierbach, plus het gehucht Mühltal. Het dal is bij uitstek geschikt voor ontspannen skiën midden in een prachtige bergwereld. De regio is altijd goed bereikbaar, ligt niet ver van Kufstein en biedt naast traditionele wintersport ook een veelzijdig zomeraanbod.</p>', '<p>The Wildschönau high valley lies in the Kitzbühel Alps and is known as a sunny, snow-sure destination. Thanks in part to its friendly character, the valley won first prize from the ADAC – Germany’s largest motoring club – in the “Klein &amp; Fein” (small and fine) category.</p>\n      <p>The Wildschönau is made up of four church villages – Niederau, Oberau, Auffach and Thierbach – plus the hamlet of Mühltal. The valley is ideal for relaxed skiing amid a magnificent mountain landscape. Always easy to reach and not far from Kufstein, it offers a varied summer programme as well as traditional winter sports.</p>')]
 T['de'] += [('<p>Het hoogdal Wildschönau ligt in de Kitzbüheler Alpen en staat bekend als een zonnige en sneeuwzekere bestemming. Mede dankzij de vriendelijke uitstraling won het dal de eerste prijs van de ADAC – de Duitse ANWB – in de categorie “Klein &amp; Fein”.</p>\n      <p>De Wildschönau bestaat uit de vier kerkdorpen Niederau, Oberau, Auffach en Thierbach, plus het gehucht Mühltal. Het dal is bij uitstek geschikt voor ontspannen skiën midden in een prachtige bergwereld. De regio is altijd goed bereikbaar, ligt niet ver van Kufstein en biedt naast traditionele wintersport ook een veelzijdig zomeraanbod.</p>', '<p>Das Hochtal Wildschönau liegt in den Kitzbüheler Alpen und gilt als sonniges und schneesicheres Urlaubsziel. Nicht zuletzt dank seiner freundlichen Ausstrahlung erhielt das Tal den ersten Preis des ADAC in der Kategorie „Klein &amp; Fein“.</p>\n      <p>Die Wildschönau besteht aus den vier Kirchdörfern Niederau, Oberau, Auffach und Thierbach sowie dem Weiler Mühltal. Das Tal eignet sich besonders für entspanntes Skifahren inmitten einer herrlichen Bergwelt. Die stets gut erreichbare Urlaubsregion liegt nicht weit von Kufstein und bietet neben dem klassischen Wintersport auch ein vielseitiges Sommerangebot.</p>')]
 
-EIGEN_NL = ["Eigen foto’s</h3>",
-  "Uitzicht op de besneeuwde pistes en liften van Niederau bij winterzon (eigen foto)",
-  "Oefenlift en skihut aan de voet van de piste in Niederau, na verse sneeuwval (eigen foto)",
-  "Snowboarder op een zonnige helling in Niederau (eigen foto)"]
-EIGEN_EN = ["My own photos</h3>",
-  "View of the snowy slopes and lifts of Niederau in winter sunshine (own photo)",
-  "Beginners’ lift and ski hut at the foot of the slope in Niederau, after fresh snowfall (own photo)",
-  "Snowboarder on a sunny slope in Niederau (own photo)"]
-EIGEN_DE = ["Eigene Fotos</h3>",
-  "Blick auf die verschneiten Pisten und Lifte von Niederau bei Wintersonne (eigenes Foto)",
-  "Übungslift und Skihütte am Fuß der Piste in Niederau nach frischem Neuschnee (eigenes Foto)",
-  "Snowboarder an einem sonnigen Hang in Niederau (eigenes Foto)"]
+EIGEN_NL = ["Niederau in beeld</h3>",
+  "Uitzicht op de besneeuwde pistes en liften van Niederau bij winterzon",
+  "Oefenlift en skihut aan de voet van de piste in Niederau, na verse sneeuwval",
+  "Snowboarder op een zonnige helling in Niederau"]
+EIGEN_EN = ["Niederau in pictures</h3>",
+  "View of the snowy slopes and lifts of Niederau in winter sunshine",
+  "Beginners’ lift and ski hut at the foot of the slope in Niederau, after fresh snowfall",
+  "Snowboarder on a sunny slope in Niederau"]
+EIGEN_DE = ["Niederau in Bildern</h3>",
+  "Blick auf die verschneiten Pisten und Lifte von Niederau bei Wintersonne",
+  "Übungslift und Skihütte am Fuß der Piste in Niederau nach frischem Neuschnee",
+  "Snowboarder an einem sonnigen Hang in Niederau"]
 T["en"] += list(zip(EIGEN_NL, EIGEN_EN))
 T["de"] += list(zip(EIGEN_NL, EIGEN_DE))
+
+CARD_NL = "<p>Met de Wildschönau Premium Card gebruik je in de zomer de bergbanen gratis. Vraag bij je accommodatie of die de kaart aanbiedt.</p>"
+T["en"] += [(CARD_NL, "<p>With the Wildschönau Premium Card the mountain lifts are free in summer. Ask your accommodation whether it offers the card.</p>")]
+T["de"] += [(CARD_NL, "<p>Mit der Wildschönau Premium Card fahren Sie im Sommer gratis mit den Bergbahnen. Fragen Sie Ihre Unterkunft, ob sie die Karte anbietet.</p>")]
 
 ok = True
 for lang in ("en", "de"):
