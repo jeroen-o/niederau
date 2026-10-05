@@ -202,6 +202,15 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 .copyright { grid-column: 1 / -1; border-top: 1px solid rgba(255,255,255,.12); padding-top: 18px; font-size: .82rem; }
 
 
+/* ---------- Aanbevolen verblijf ---------- */
+.stay-grid { display: grid; grid-template-columns: 1.3fr 1fr; gap: 28px; align-items: start; }
+@media (max-width: 860px) { .stay-grid { grid-template-columns: 1fr; } }
+.stay-photos figure { margin: 0; }
+.stay-main img { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius); box-shadow: var(--shadow); }
+.stay-thumbs { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 12px; }
+.stay-thumbs img { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px; }
+.ad-label { display: inline-block; font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft); background: var(--bg-alt); border: 1px solid var(--line); padding: 2px 8px; border-radius: 6px; margin-bottom: 10px; }
+
 /* ---------- Seizoenen: winter (1 okt – 31 mrt) / zomer (1 apr – 30 sep) ---------- */
 [data-season="winter"] [data-only="summer"],
 [data-season="summer"] [data-only="winter"] { display: none !important; }
