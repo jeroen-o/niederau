@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://niederau.nl/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://niederau.nl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://niederau.nl/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://niederau.nl/de/"/></url>
+  <url><loc>https://niederau.nl/en/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://niederau.nl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://niederau.nl/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://niederau.nl/de/"/></url>
+  <url><loc>https://niederau.nl/de/</loc>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://niederau.nl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://niederau.nl/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://niederau.nl/de/"/></url>
+</urlset>
