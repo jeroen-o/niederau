@@ -534,6 +534,21 @@ T["de"] += [("<li>Paardrijden vanuit het hotel, in de zomer én in de winter</li
 T['en'] += [('<p>Het hoogdal Wildschönau ligt in de Kitzbüheler Alpen en staat bekend als een zonnige en sneeuwzekere bestemming. Mede dankzij de vriendelijke uitstraling won het dal de eerste prijs van de ADAC – de Duitse ANWB – in de categorie “Klein &amp; Fein”.</p>\n      <p>De Wildschönau bestaat uit de vier kerkdorpen Niederau, Oberau, Auffach en Thierbach, plus het gehucht Mühltal. Het dal is bij uitstek geschikt voor ontspannen skiën midden in een prachtige bergwereld. De regio is altijd goed bereikbaar, ligt niet ver van Kufstein en biedt naast traditionele wintersport ook een veelzijdig zomeraanbod.</p>', '<p>The Wildschönau high valley lies in the Kitzbühel Alps and is known as a sunny, snow-sure destination. Thanks in part to its friendly character, the valley won first prize from the ADAC – Germany’s largest motoring club – in the “Klein &amp; Fein” (small and fine) category.</p>\n      <p>The Wildschönau is made up of four church villages – Niederau, Oberau, Auffach and Thierbach – plus the hamlet of Mühltal. The valley is ideal for relaxed skiing amid a magnificent mountain landscape. Always easy to reach and not far from Kufstein, it offers a varied summer programme as well as traditional winter sports.</p>')]
 T['de'] += [('<p>Het hoogdal Wildschönau ligt in de Kitzbüheler Alpen en staat bekend als een zonnige en sneeuwzekere bestemming. Mede dankzij de vriendelijke uitstraling won het dal de eerste prijs van de ADAC – de Duitse ANWB – in de categorie “Klein &amp; Fein”.</p>\n      <p>De Wildschönau bestaat uit de vier kerkdorpen Niederau, Oberau, Auffach en Thierbach, plus het gehucht Mühltal. Het dal is bij uitstek geschikt voor ontspannen skiën midden in een prachtige bergwereld. De regio is altijd goed bereikbaar, ligt niet ver van Kufstein en biedt naast traditionele wintersport ook een veelzijdig zomeraanbod.</p>', '<p>Das Hochtal Wildschönau liegt in den Kitzbüheler Alpen und gilt als sonniges und schneesicheres Urlaubsziel. Nicht zuletzt dank seiner freundlichen Ausstrahlung erhielt das Tal den ersten Preis des ADAC in der Kategorie „Klein &amp; Fein“.</p>\n      <p>Die Wildschönau besteht aus den vier Kirchdörfern Niederau, Oberau, Auffach und Thierbach sowie dem Weiler Mühltal. Das Tal eignet sich besonders für entspanntes Skifahren inmitten einer herrlichen Bergwelt. Die stets gut erreichbare Urlaubsregion liegt nicht weit von Kufstein und bietet neben dem klassischen Wintersport auch ein vielseitiges Sommerangebot.</p>')]
 
+EIGEN_NL = ["Eigen foto’s</h3>",
+  "Uitzicht op besneeuwde pistes en liften in de Wildschönau bij winterzon (eigen foto)",
+  "Oefenlift en skihut aan de voet van de piste in de Wildschönau, na verse sneeuwval (eigen foto)",
+  "Snowboarder op een zonnige helling in de Wildschönau (eigen foto)"]
+EIGEN_EN = ["My own photos</h3>",
+  "View of snowy slopes and lifts in the Wildschönau in winter sunshine (own photo)",
+  "Beginners’ lift and ski hut at the foot of the slope in the Wildschönau, after fresh snowfall (own photo)",
+  "Snowboarder on a sunny slope in the Wildschönau (own photo)"]
+EIGEN_DE = ["Eigene Fotos</h3>",
+  "Blick auf verschneite Pisten und Lifte in der Wildschönau bei Wintersonne (eigenes Foto)",
+  "Übungslift und Skihütte am Fuß der Piste in der Wildschönau nach frischem Neuschnee (eigenes Foto)",
+  "Snowboarder an einem sonnigen Hang in der Wildschönau (eigenes Foto)"]
+T["en"] += list(zip(EIGEN_NL, EIGEN_EN))
+T["de"] += list(zip(EIGEN_NL, EIGEN_DE))
+
 ok = True
 for lang in ("en", "de"):
     html = src
