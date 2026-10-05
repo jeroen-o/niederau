@@ -279,23 +279,10 @@
 
 <main id="main">
 <!-- ===================== HERO ===================== -->
-<section class="hero" id="top" aria-labelledby="h-hero">
-  <div class="snow" aria-hidden="true"></div>
-  <div class="hero-art" aria-hidden="true">
-    <svg viewBox="0 0 1440 480" preserveAspectRatio="xMidYMax slice">
-      <path class="hill-far" d="M0 300 140 170l90 70 120-150 130 120 110-90 140 130 120-160 150 150 110-80 140 110 90-60 100 70v270H0z" fill="#8fb3c4" opacity=".75"/>
-      <path d="M350 90l-38 47 22-8 16 14 14-20 20 12zM930 120l-34 44 20-6 14 12 14-18 20 10zM230 240l-28 26 18-4 14 8z" fill="#fff" opacity=".9"/>
-      <path class="hill-mid" d="M0 340 180 250l140 60 170-110 160 120 150-80 170 100 160-90 140 70 170-60v220H0z" fill="#5f8f80"/>
-      <path class="hill-near" d="M0 390c180-50 320-60 470-30s300 40 470 0 330-50 500-20v140H0z" fill="#2f6b55"/>
-      <path class="hill-front" d="M0 430c240-30 480-30 720 0s480 20 720-10v60H0z" fill="#1f4d3f"/>
-      <g class="trees" fill="#173d31">
-        <path d="M120 430l18-52 18 52zM150 432l14-40 14 40zM1210 420l18-56 18 56zM1244 424l14-42 14 42zM1290 426l12-34 12 34z"/>
-        <path d="M640 395l40-28 40 28v26h-80z" fill="#7a4b2a"/>
-        <path d="M632 397l48-34 48 34-6 4-42-30-42 30z" fill="#4b2c18"/>
-        <path d="M668 402h10v10h-10zM684 402h10v10h-10z" fill="#f5d27a"/>
-      </g>
-    </svg>
-  </div>
+<section class="hero-photo" id="top" aria-hidden="true">
+  <div class="snow"></div>
+</section>
+<section class="intro alt" aria-labelledby="h-hero">
   <div class="wrap">
     <p class="eyebrow">Wildschönau · Tyrol · Austria</p>
     <h1 id="h-hero">Niederau</h1>
@@ -327,7 +314,7 @@
       <li><strong>828 m</strong><span>altitude of the village</span></li>
       <li><strong>± 1,500 m</strong><span>Markbachjoch, reached by gondola</span></li>
       <li><strong>4 villages</strong><span>together the Wildschönau</span></li>
-      <li><strong>100+ km</strong><span>of slopes in Ski Juwel Alpbachtal Wildschönau</span></li>
+      <li><strong>145 km</strong><span>of slopes in Ski Juwel Alpbachtal Wildschönau</span></li>
     </ul>
   </div>
   <div class="wrap">
@@ -336,8 +323,9 @@
       <img data-only="winter" src="../assets/img/niederau-wildschoenau-pistes-liften-winter.jpg" width="1200" height="900" loading="lazy" alt="View of the snowy slopes and lifts of Niederau in winter sunshine">
       <img data-only="winter" src="../assets/img/niederau-wildschoenau-oefenlift-skihut.jpg" width="1200" height="900" loading="lazy" alt="Beginners’ lift and ski hut at the foot of the slope in Niederau, after fresh snowfall">
       <img data-only="winter" src="../assets/img/niederau-wildschoenau-snowboarder.jpg" width="1200" height="900" loading="lazy" alt="Snowboarder on a sunny slope in Niederau">
-      <img data-only="summer" src="../assets/img/wildschoenau-tirol-wandelaars-dal-zomer.jpg" width="1500" height="719" loading="lazy" alt="Hikers looking out over the green Wildschönau high valley in summer">
-      <img data-only="summer" src="../assets/img/wildschoenau-tirol-almterras-zomer.jpg" width="1400" height="657" loading="lazy" alt="Brettljause on an alpine hut terrace with views over the Kitzbühel Alps in the Wildschönau">
+      <img data-only="summer" src="../assets/img/wildschoenau-wandelaars-alm.jpg" width="1200" height="563" loading="lazy" alt="Hikers on a mountain path high above the Wildschönau">
+      <img data-only="summer" src="../assets/img/schoenangeralm-kapel-wildschoenau.jpg" width="1200" height="800" loading="lazy" alt="Chapel at the Schönangeralm with mountain panorama in summer">
+      <img data-only="summer" src="../assets/img/niederau-talfest-koets.jpg" width="1200" height="801" loading="lazy" alt="Horse-drawn carriage in the Talfest procession in Niederau">
     </div>
   </div>
 </section>
@@ -358,27 +346,35 @@
 
     <div class="season-panel" id="p-winter" role="tabpanel" aria-labelledby="t-winter">
       <div class="grid grid-3">
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/niederau-skien-markbachjoch.jpg" width="800" height="450" loading="lazy" alt="Skiers on the sunny slopes of the Markbachjoch above Niederau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 2v20M4 7l16 10M20 7 4 17"/></svg></span>Skiing from the village</h3>
           <p>The Markbachjochbahn gondola takes you from Niederau up to the Markbachjoch. Wide, sunny slopes, ideal for beginners and families, with runs all the way back down to the village.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/ski-juwel-alpbachtal-wildschoenau-familie.jpg" width="800" height="450" loading="lazy" alt="Family skiing in Ski Juwel Alpbachtal Wildschönau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 20 6-10 4 6 3-4 5 8z"/></svg></span>Ski Juwel</h3>
           <p>With the Ski Juwel Alpbachtal Wildschönau lift pass you can also ski the Schatzberg in Auffach and continue over the link into the Alpbach valley. The ski bus runs between the villages.</p>
+          <p>Together 145 km of slopes, 47 lifts, 24 ski huts and three snow parks.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-skischool-kinderen.jpg" width="800" height="450" loading="lazy" alt="Children learning to ski in the Wildschönau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2"/><path d="M12 7v6l-3 7M12 13l3 7M8 10h8"/></svg></span>Ski school &amp; children</h3>
           <p>Niederau has long had strong ski schools with lessons in Dutch, English and German, and nursery slopes close to the village. A great place to learn to ski.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-langlaufloipe.jpg" width="800" height="450" loading="lazy" alt="Cross-country trail through the snowy Wildschönau valley">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 18c4-2 12-2 16 0M6 14l3-8 3 6 3-4 3 6"/></svg></span>Cross-country &amp; winter walks</h3>
           <p>Cross-country trails through the valley and cleared winter footpaths past farms and little chapels. Snowshoeing and tobogganing are popular too: the valley has three toboggan runs, and the Lahnerköpfl run is in Niederau itself.</p>
+          <p>The Penningberg trail (12 km) starts in Niederau; the whole valley has some 30 to 40 km of cross-country trails.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/ski-juwel-skipauze-terras.jpg" width="800" height="450" loading="lazy" alt="A break on a sunny terrace in the ski area">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 22h8M12 15v7M6 3h12l-1 8a5 5 0 0 1-10 0z"/></svg></span>Après-ski</h3>
           <p>Cosy without being over the top: after a day on the slopes, settle into a mountain hut or a village inn for Glühwein, Kaiserschmarrn or a Tyrolean Gröstl.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-winterwandelen-zon.jpg" width="800" height="450" loading="lazy" alt="Winter walkers in the sun above the Wildschönau valley">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M5.6 18.4l2.1-2.1M16.3 7.7l2.1-2.1"/><circle cx="12" cy="12" r="3"/></svg></span>A sunny village</h3>
           <p>Niederau sits open in the valley and gets plenty of sun – wonderful on a terrace in March, when the days grow longer and the snow is still good.</p>
         </article>
@@ -387,33 +383,43 @@
 
     <div class="season-panel" id="p-summer" role="tabpanel" aria-labelledby="t-summer" hidden>
       <div class="grid grid-3">
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-wandelen-gezin.jpg" width="800" height="450" loading="lazy" alt="Family hiking across a mountain meadow in the Wildschönau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 20 6-10 4 6 3-4 5 8z"/></svg></span>Hiking</h3>
           <p>Hundreds of kilometres of waymarked trails: from gentle valley walks to hikes along the ridges around the valley. The gondola gets you up high in a few minutes.</p>
+          <p>The valley has more than 300 km of waymarked trails.</p>
         </article>
         <article class="card">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20c2-6 4-10 8-16M12 4c3 5 5 9 8 16M8 13h8"/></svg></span>Kundler Klamm</h3>
           <p>One of the finest gorge walks in Tyrol: from the Wildschönau down along the wild Wildschönauer Ache to Kundl in the Inn valley.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-e-bike-dal.jpg" width="800" height="450" loading="lazy" alt="E-bikers on a gravel track overlooking the valley">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="17" r="3.5"/><circle cx="18" cy="17" r="3.5"/><path d="M6 17l4-8h5l3 8M10 9l-1-3H7M15 9l1-3h2"/></svg></span>(E-)mountain biking</h3>
           <p>Forest tracks and mountain lanes up to the alpine pastures; with an e-bike even the higher huts are within easy reach.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-alm-brettljause.jpg" width="800" height="450" loading="lazy" alt="Brettljause on an alpine hut terrace overlooking the Kitzbühel Alps">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18M5 21V10l7-5 7 5v11M10 21v-6h4v6"/></svg></span>Alpine pastures &amp; huts</h3>
           <p>In summer many alpine huts are open: cheese, buttermilk, speck and Kaspressknödel with views of the Hohe Tauern and the Kaiser mountains.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/niederau-openluchtzwembad.jpg" width="800" height="450" loading="lazy" alt="Open-air pool with water slide between Niederau and Oberau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="7" r="3"/><circle cx="17" cy="9" r="2"/><path d="M3 21v-2a6 6 0 0 1 12 0v2M15 21v-1a4 4 0 0 1 6-3"/></svg></span>With children</h3>
           <p>Playgrounds, streams to dam, farm animals and short walks with a hut as the reward. The Wildschönau is made for families. On the edge of Niederau there is an open-air pool with three basins and a big water slide.</p>
+          <p>The open-air pool between Niederau and Oberau is heated and has three pools with more than 1,000 m² of water.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/niederau-talfest-optocht.jpg" width="800" height="450" loading="lazy" alt="Procession with brass band during the Talfest in Niederau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg></span>Tradition</h3>
           <p>Brass bands on the village square, church holidays and the Almabtrieb in autumn, when the decorated cattle return from the mountains.</p>
+          <p>The highlight is the Talfest in August, held in turn in Niederau, Oberau and Auffach, with a big procession.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-premium-card-zomer.jpg" width="800" height="450" loading="lazy" alt="Hikers looking out over the green Wildschönau high valley">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="6" width="18" height="12" rx="2"/><path d="M3 10h18M7 15h4"/></svg></span>Premium Card</h3>
           <p>With the Wildschönau Premium Card the mountain lifts are free in summer. Ask your accommodation whether it offers the card.</p>
+          <p>You get the card from participating accommodation. Also included: the hiking bus, the open-air pools, the Bergbauernmuseum z’Bach in Oberau and the Drachenclub for children aged 5 to 14.</p>
         </article>
       </div>
     </div>
@@ -430,22 +436,26 @@
       <p>The Wildschönau is made up of four church villages – Niederau, Oberau, Auffach and Thierbach – plus the hamlet of Mühltal. The valley is ideal for relaxed skiing amid a magnificent mountain landscape. Always easy to reach and not far from Kufstein, it offers a varied summer programme as well as traditional winter sports.</p>
     </div>
     <div class="grid grid-4">
-      <article class="card village here">
+      <article class="card has-img village here">
+        <img class="card-img" src="../assets/img/niederau-dorp-skilift-winter.jpg" width="800" height="450" loading="lazy" alt="Niederau in winter with the drag lift on the edge of the village">
         <span class="alt-badge">828 m</span>
         <h3>Niederau</h3>
         <p>The first and most visited village, with the gondola to the Markbachjoch and the widest choice of accommodation.</p>
       </article>
-      <article class="card village">
+      <article class="card has-img village">
+        <img class="card-img" src="../assets/img/oberau-wildschoenau-winter.jpg" width="800" height="450" loading="lazy" alt="Winter landscape near Oberau in the Wildschönau">
         <span class="alt-badge">± 940 m</span>
         <h3>Oberau</h3>
         <p>The administrative heart of the valley, with the large parish church and a wide, sunny plateau.</p>
       </article>
-      <article class="card village">
+      <article class="card has-img village">
+        <img class="card-img" src="../assets/img/auffach-wildschoenau-e-bike.jpg" width="800" height="450" loading="lazy" alt="Cyclists on a road through the meadows near Auffach">
         <span class="alt-badge">± 870 m</span>
         <h3>Auffach</h3>
         <p>At the far end of the valley, at the foot of the Schatzberg and the link to the Alpbach valley.</p>
       </article>
-      <article class="card village">
+      <article class="card has-img village">
+        <img class="card-img" src="../assets/img/thierbach-wildschoenau-sneeuwschoenwandelen.jpg" width="800" height="450" loading="lazy" alt="Snowshoe hikers in the sun near Thierbach">
         <span class="alt-badge">± 1,150 m</span>
         <h3>Thierbach</h3>
         <p>The smallest and highest village, quiet and with sweeping views over the Inn valley.</p>
@@ -453,11 +463,13 @@
     </div>
 
     <div class="grid grid-2" style="margin-top:22px">
-      <article class="card">
+      <article class="card has-img">
+        <img class="card-img" src="../assets/img/wildschoenauer-krautinger.jpg" width="800" height="450" loading="lazy" alt="Bottle of Wildschönauer Krautinger with two glasses on a wooden railing">
         <h3>Krautinger – the valley’s own schnapps</h3>
         <p>The Wildschönau is known for <em>Krautinger</em>, a strong spirit distilled from white turnips. According to tradition, the valley’s farmers were granted the right to distil it as far back as Empress Maria Theresa. Only a limited number of farms may still make it – you taste it at the farm itself.</p>
       </article>
-      <article class="card">
+      <article class="card has-img">
+        <img class="card-img" src="../assets/img/tiroler-kaiserschmarrn.jpg" width="800" height="450" loading="lazy" alt="Kaiserschmarrn with icing sugar and fruit compote">
         <h3>Tyrolean cooking</h3>
         <ul class="check">
           <li><strong>Kaiserschmarrn</strong> – shredded pancake with icing sugar and apple sauce</li>
@@ -471,13 +483,14 @@
 </section>
 
 <!-- ===================== GESCHIEDENIS ===================== -->
-<section class="band" id="history" aria-labelledby="h-hist">
+<section class="alt" id="history" aria-labelledby="h-hist">
   <div class="wrap split" style="align-items:start">
     <div>
       <p class="eyebrow">History</p>
       <h2 id="h-hist">From farming valley to ski village</h2>
       <p>Niederau lies in the Wildschönau, a high valley in Tyrol (Austria). For centuries it was a remote valley of farmers and miners. The first tourists only arrived in the twentieth century – and in 1947 the valley’s winter sports era began in Niederau with the first chairlift in Tyrol.</p>
       <p>That lift was quite a feat: engineer Sepp Hochmuth built it just after the Second World War, according to local lore using engines and drive wheels from tanks abandoned at Wörgl station. It opened on 14 January 1947, running from Niederau up to the Markbachjoch.</p>
+      <img class="side-img" src="../assets/img/niederau-markbachjochbahn-gondel.jpg" width="1000" height="667" loading="lazy" alt="Markbachjochbahn gondola above Niederau with views over the Alps">
     </div>
     <ol class="timeline">
       <li><span class="when">1193–1195</span><br>First written mention of the Wildschönau.</li>
@@ -493,7 +506,7 @@
 </section>
 
 <!-- ===================== VERBLIJF (partner) ===================== -->
-<section class="alt" id="stay" aria-labelledby="h-stay">
+<section id="stay" aria-labelledby="h-stay">
   <div class="wrap">
     <div class="section-head">
       <p class="eyebrow">Recommended stay</p>
@@ -503,7 +516,7 @@
     <div class="stay-grid">
       <div class="stay-photos">
         <figure class="stay-main" data-only="winter"><img src="../assets/img/hotel-wastlhof-niederau-winteravond.webp" width="700" height="525" loading="lazy" alt="Hotel Wastlhof in the snow in the evening, with its facade lit up"></figure>
-        <figure class="stay-main" data-only="summer"><img src="../assets/img/hotel-wastlhof-niederau-zomer.webp" width="700" height="525" loading="lazy" alt="Hotel Wastlhof in summer, seen from a flowering mountain meadow"></figure>
+        <figure class="stay-main" data-only="summer"><img src="../assets/img/hotel-wastlhof-niederau-zomer-groot.jpg" width="1400" height="831" loading="lazy" alt="Hotel Wastlhof in summer, seen from a flowering mountain meadow"></figure>
         <div class="stay-thumbs">
           <img data-only="winter" src="../assets/img/hotel-wastlhof-niederau-winter.webp" width="700" height="525" loading="lazy" alt="Hotel Wastlhof on a sunny winter day with snowy slopes behind">
           <img data-only="summer" src="../assets/img/hotel-wastlhof-niederau-tuin-zomer.webp" width="700" height="525" loading="lazy" alt="Sunbathing lawn with red parasols in the garden of Hotel Wastlhof">
@@ -515,13 +528,15 @@
         <h3>Why Hotel Wastlhof?</h3>
         <ul class="check">
           <li>Family-run four-star wellness hotel in the centre of Niederau</li>
+          <li>Run by the Brunner family for three generations</li>
           <li data-only="winter">Ski from the front door: after skiing you are straight back home</li>
           <li data-only="winter">Cross-country trails start at the hotel; the Lahnerköpfl toboggan run is right outside (sledges for hire)</li>
           <li data-only="winter">Ski guiding: hostess Margit takes you to her favourite slopes</li>
           <li data-only="winter">Outdoor pool that stays open in winter: swimming surrounded by snow</li>
           <li data-only="summer">Relaxation garden with a generous outdoor pool, sun lawn and parasols</li>
           <li data-only="summer">Guests play tennis free of charge at the Wildschönau tennis complex</li>
-          <li>Horse riding from the hotel, in summer and in winter</li>
+          <li>Own riding stables with some 15 horses, including Haflingers – for more than 50 years</li>
+          <li>Indoor pool (12 × 6 m, approx. 30 °C) and an outdoor pool heated all year round</li>
           <li>Rooms, apartments and suites in the hotel and the new Alpin Lodge</li>
           <li>Information available in several languages, including English</li>
         </ul>
@@ -545,7 +560,7 @@
 </section>
 
 <!-- ===================== BEREIKBAARHEID ===================== -->
-<section id="getting-there" aria-labelledby="h-route">
+<section class="alt" id="getting-there" aria-labelledby="h-route">
   <div class="wrap split">
     <div>
       <p class="eyebrow">Getting there</p>
@@ -589,7 +604,7 @@
 </section>
 
 <!-- ===================== PRAKTISCH ===================== -->
-<section class="alt" id="practical" aria-labelledby="h-prak">
+<section id="practical" aria-labelledby="h-prak">
   <div class="wrap">
     <div class="section-head">
       <p class="eyebrow">Practical</p>
@@ -667,6 +682,7 @@
         <li><a href="#practical">Practical info</a></li>
       </ul>
     </div>
+    <p class="credits">Photos: Wildschönau Tourismus (H. Dabernig, shoot&amp;style, A. Mayr, J. Ehammer), AMTirol, Ski Juwel Alpbachtal Wildschönau, Wildschönauer Bergbahnen, Hotel Wastlhof and own photos.</p>
     <p class="copyright">© <span data-year>2026</span> Niederau.nl · Independent site, not affiliated with any official body.</p>
   </div>
 </footer>

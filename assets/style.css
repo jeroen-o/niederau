@@ -23,25 +23,6 @@
   --script: "Snell Roundhand", "Segoe Script", "Brush Script MT", "Dancing Script", cursive;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --ink: #dedad4;
-    --ink-strong: #f2efe9;
-    --ink-soft: #aaa59e;
-    --bg: #1c1b19;
-    --bg-alt: #25231f;
-    --card: #2a2824;
-    --line: #3b3833;
-    --pine: #d9545c;
-    --pine-dark: #c2434b;
-    --sky: #a3c3d4;
-    --accent: #e3666d;
-    --accent-soft: #3a2626;
-    --gold: #e3666d;
-    --footer: #2e2d2a;
-    --shadow: 0 1px 4px rgba(0, 0, 0, .4);
-  }
-}
 
 *, *::before, *::after { box-sizing: border-box; }
 html { scroll-behavior: smooth; scroll-padding-top: 72px; }
@@ -93,23 +74,19 @@ p { margin: 0 0 1em; }
   .header-lang { margin-left: 0; }
 }
 
-/* ---------- Hero ---------- */
-.hero {
-  position: relative; overflow: hidden;
-  min-height: min(88vh, 760px);
-  display: flex; align-items: center;
-}
-.hero-art { position: absolute; inset: auto 0 0 0; width: 100%; height: 62%; }
-.hero-art svg { width: 100%; height: 100%; }
-.hero .wrap { position: relative; z-index: 2; padding: 80px 0 180px; }
+/* ---------- Fotoband + intro (zoals hotelwastlhof.at) ---------- */
+.hero-photo { position: relative; overflow: hidden; height: clamp(300px, 62vh, 640px); background: #dfe9f0 center / cover no-repeat; }
+[data-season="winter"] .hero-photo { background-image: url("img/niederau-winter-bauernhuis-hero.jpg"); background-position: 70% center; }
+[data-season="summer"] .hero-photo { background-image: url("img/markbachjoch-bergmeer-zomer-hero.jpg"); background-position: center 40%; }
+.intro { padding: 56px 0 60px; }
+.intro .wrap { max-width: 900px; }
 .eyebrow { text-transform: uppercase; letter-spacing: .01em; font-size: clamp(1.15rem, 2vw, 1.4rem); font-weight: 700; color: var(--sky); margin-bottom: 4px; line-height: 1.3; }
-.hero .eyebrow { font-size: .8rem; letter-spacing: .18em; color: var(--accent); margin-bottom: 14px; }
-.hero h1 { font-family: var(--script); color: var(--accent); font-size: clamp(3.4rem, 9vw, 6.2rem); font-weight: 400; margin-bottom: .15em; line-height: 1.05; }
-.hero .lead { font-size: clamp(1.1rem, 2vw, 1.35rem); max-width: 40ch; }
-.hero-facts { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; padding: 0; list-style: none; }
-.hero-facts li { background: rgba(255,255,255,.85); color: #4f4f4f; border-radius: 999px; padding: 5px 14px; font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; }
-@media (prefers-color-scheme: dark) { .hero-facts li { background: rgba(0,0,0,.35); color: #f2f5f1; } }
-.btns { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 30px; }
+.intro .eyebrow { font-size: .8rem; letter-spacing: .16em; color: var(--sky); margin-bottom: 8px; }
+.intro h1 { font-family: var(--script); color: var(--accent); font-size: clamp(3rem, 8vw, 5rem); font-weight: 400; margin: 0 0 .1em; line-height: 1.05; }
+.intro .lead { font-size: clamp(1.05rem, 1.8vw, 1.25rem); max-width: 60ch; color: var(--ink-strong); }
+.hero-facts { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; padding: 0; list-style: none; }
+.hero-facts li { background: var(--card); color: var(--ink); border-radius: 999px; padding: 5px 14px; font-size: .74rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; }
+.btns { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 26px; }
 .btn { display: inline-block; padding: 11px 22px; border-radius: 999px; text-decoration: none; font-weight: 700; font-size: .8rem; text-transform: uppercase; letter-spacing: .07em; background: var(--pine); color: #fff; border: 1px solid var(--pine); }
 .btn:hover { background: var(--pine-dark); border-color: var(--pine-dark); color: #fff; }
 .btn.ghost { background: var(--card); color: var(--ink-strong); border-color: var(--line); }
@@ -163,14 +140,6 @@ section.alt { background: var(--bg-alt); }
 .timeline li::before { content: ""; position: absolute; left: -8px; top: 6px; width: 14px; height: 14px; border-radius: 50%; background: var(--bg); border: 3px solid var(--accent); }
 .timeline .when { font-weight: 700; color: var(--accent); font-size: .9rem; letter-spacing: .04em; }
 
-/* Band (geschiedenis) */
-.band { background: #8ba9ba; color: #fff; }
-.band h2, .band .eyebrow, .band a { color: #fff; }
-.band .timeline { border-left-color: rgba(255,255,255,.5); }
-.band .timeline li::before { background: #8ba9ba; border-color: #fff; }
-.band .timeline .when { color: #fff; text-transform: uppercase; letter-spacing: .06em; }
-@media (prefers-color-scheme: dark) { .band { background: #3d4f5a; } .band .timeline li::before { background: #3d4f5a; } }
-
 /* Bereikbaarheid */
 .route { counter-reset: step; list-style: none; padding: 0; margin: 0; }
 .route li { counter-increment: step; position: relative; padding: 0 0 18px 48px; }
@@ -219,6 +188,13 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
 .gallery img { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: var(--radius); }
 .stay-contact { font-style: normal; margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--line); font-size: .95rem; line-height: 1.6; }
+.card.has-img { padding-top: 0; overflow: hidden; }
+.card-img { display: block; width: calc(100% + 44px); max-width: none; margin: 0 -22px 18px; aspect-ratio: 16 / 9; height: auto; object-fit: cover; }
+.card.has-img .ico { display: none; }
+.card.has-img h3 { margin-top: 0; }
+.village.has-img .alt-badge { top: 12px; right: 12px; }
+.side-img { width: 100%; height: auto; margin-top: 18px; border-radius: var(--radius); box-shadow: var(--shadow); }
+.credits { grid-column: 1 / -1; font-size: .75rem; opacity: .85; margin: 0; }
 .ad-label { display: inline-block; font-size: .7rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft); background: var(--bg-alt); border: 0; padding: 3px 9px; border-radius: var(--radius); margin-bottom: 10px; }
 
 /* ---------- Seizoenen: winter (1 okt – 31 mrt) / zomer (1 apr – 30 sep) ---------- */
@@ -230,17 +206,6 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 @media (max-width: 1240px) { .season-toggle { margin: 8px 0 0; align-self: flex-start; } }
 
 /* Winter: koel licht, besneeuwde heuvels, vallende sneeuw */
-[data-season="winter"] .hill-far { fill: #c9d8e4; opacity: 1; }
-[data-season="winter"] .hill-mid { fill: #e6eef4; }
-[data-season="winter"] .hill-near { fill: #f4f8fb; }
-[data-season="winter"] .hill-front { fill: #ffffff; }
-[data-season="winter"] .trees { fill: #2a4a44; }
-@media (prefers-color-scheme: dark) {
-  [data-season="winter"] .hill-far { fill: #5d7487; }
-  [data-season="winter"] .hill-mid { fill: #8197a8; }
-  [data-season="winter"] .hill-near { fill: #a9bac7; }
-  [data-season="winter"] .hill-front { fill: #c9d5de; }
-}
 .snow { display: none; position: absolute; inset: 0; z-index: 1; pointer-events: none;
   background-image:
     radial-gradient(2px 2px at 20px 30px, #fff 50%, transparent 51%),
@@ -249,27 +214,11 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
     radial-gradient(3px 3px at 300px 40px, #fff 50%, transparent 51%),
     radial-gradient(2px 2px at 380px 200px, #fff 50%, transparent 51%);
   background-size: 400px 260px; opacity: .9; animation: snowfall 14s linear infinite; }
-[data-season="winter"] .snow { display: block; }
 @keyframes snowfall { to { background-position: 60px 260px, -40px 260px, 30px 260px, -20px 260px, 50px 260px; } }
 
 /* Zomer: warm groen, zonnige accenten */
-[data-season="summer"] .hill-mid { fill: #6aa37f; }
-[data-season="summer"] .hill-near { fill: #3f8a5c; }
-[data-season="summer"] .hill-front { fill: #2c6b45; }
 @media (prefers-reduced-motion: reduce) { .snow { animation: none; } }
 
-/* ---------- Hero met echte foto's (winter: eigen foto Niederau, zomer: Niederau in de zomer) ---------- */
-.hero { background-color: #3b4a52; background-size: cover; background-position: center; color: #fff; }
-.hero-art { display: none; }
-[data-season="winter"] .hero { background-image: linear-gradient(90deg, rgba(15,25,35,.5) 0%, rgba(15,25,35,.2) 55%, rgba(15,25,35,0) 100%), url("img/niederau-wildschoenau-winter-panorama.jpg"); }
-[data-season="summer"] .hero { background-image: linear-gradient(90deg, rgba(15,25,35,.6) 0%, rgba(15,25,35,.3) 55%, rgba(15,25,35,.05) 100%), url("img/wildschoenau-tirol-wandelaars-dal-zomer.jpg"); background-position: center 35%; }
-.hero h1, .hero .lead, .hero .season-line { color: #fff; text-shadow: 0 2px 14px rgba(0,0,0,.45); }
-.hero .eyebrow { color: #fff; opacity: .92; }
-.hero .wrap { padding: 96px 0 110px; }
-.hero .btn.ghost { background: rgba(255,255,255,.92); }
-@media (prefers-color-scheme: dark) {
-  [data-season="winter"] .hero, [data-season="summer"] .hero { background-color: #1c1b19; }
-}
 
 @media print {
   .site-header, .hero-art, .snow, .season-toggle, .menu-btn, .season-switch { display: none !important; }
