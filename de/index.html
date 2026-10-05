@@ -279,23 +279,10 @@
 
 <main id="main">
 <!-- ===================== HERO ===================== -->
-<section class="hero" id="top" aria-labelledby="h-hero">
-  <div class="snow" aria-hidden="true"></div>
-  <div class="hero-art" aria-hidden="true">
-    <svg viewBox="0 0 1440 480" preserveAspectRatio="xMidYMax slice">
-      <path class="hill-far" d="M0 300 140 170l90 70 120-150 130 120 110-90 140 130 120-160 150 150 110-80 140 110 90-60 100 70v270H0z" fill="#8fb3c4" opacity=".75"/>
-      <path d="M350 90l-38 47 22-8 16 14 14-20 20 12zM930 120l-34 44 20-6 14 12 14-18 20 10zM230 240l-28 26 18-4 14 8z" fill="#fff" opacity=".9"/>
-      <path class="hill-mid" d="M0 340 180 250l140 60 170-110 160 120 150-80 170 100 160-90 140 70 170-60v220H0z" fill="#5f8f80"/>
-      <path class="hill-near" d="M0 390c180-50 320-60 470-30s300 40 470 0 330-50 500-20v140H0z" fill="#2f6b55"/>
-      <path class="hill-front" d="M0 430c240-30 480-30 720 0s480 20 720-10v60H0z" fill="#1f4d3f"/>
-      <g class="trees" fill="#173d31">
-        <path d="M120 430l18-52 18 52zM150 432l14-40 14 40zM1210 420l18-56 18 56zM1244 424l14-42 14 42zM1290 426l12-34 12 34z"/>
-        <path d="M640 395l40-28 40 28v26h-80z" fill="#7a4b2a"/>
-        <path d="M632 397l48-34 48 34-6 4-42-30-42 30z" fill="#4b2c18"/>
-        <path d="M668 402h10v10h-10zM684 402h10v10h-10z" fill="#f5d27a"/>
-      </g>
-    </svg>
-  </div>
+<section class="hero-photo" id="top" aria-hidden="true">
+  <div class="snow"></div>
+</section>
+<section class="intro alt" aria-labelledby="h-hero">
   <div class="wrap">
     <p class="eyebrow">Wildschönau · Tirol · Österreich</p>
     <h1 id="h-hero">Niederau</h1>
@@ -327,7 +314,7 @@
       <li><strong>828 m</strong><span>Seehöhe des Dorfes</span></li>
       <li><strong>± 1.500 m</strong><span>Markbachjoch, mit der Gondel erreichbar</span></li>
       <li><strong>4 Dörfer</strong><span>bilden die Wildschönau</span></li>
-      <li><strong>100+ km</strong><span>Pisten im Ski Juwel Alpbachtal Wildschönau</span></li>
+      <li><strong>145 km</strong><span>Pisten im Ski Juwel Alpbachtal Wildschönau</span></li>
     </ul>
   </div>
   <div class="wrap">
@@ -336,8 +323,9 @@
       <img data-only="winter" src="../assets/img/niederau-wildschoenau-pistes-liften-winter.jpg" width="1200" height="900" loading="lazy" alt="Blick auf die verschneiten Pisten und Lifte von Niederau bei Wintersonne">
       <img data-only="winter" src="../assets/img/niederau-wildschoenau-oefenlift-skihut.jpg" width="1200" height="900" loading="lazy" alt="Übungslift und Skihütte am Fuß der Piste in Niederau nach frischem Neuschnee">
       <img data-only="winter" src="../assets/img/niederau-wildschoenau-snowboarder.jpg" width="1200" height="900" loading="lazy" alt="Snowboarder an einem sonnigen Hang in Niederau">
-      <img data-only="summer" src="../assets/img/wildschoenau-tirol-wandelaars-dal-zomer.jpg" width="1500" height="719" loading="lazy" alt="Wanderer blicken im Sommer über das grüne Hochtal der Wildschönau">
-      <img data-only="summer" src="../assets/img/wildschoenau-tirol-almterras-zomer.jpg" width="1400" height="657" loading="lazy" alt="Brettljause auf einer Almterrasse mit Blick über die Kitzbüheler Alpen in der Wildschönau">
+      <img data-only="summer" src="../assets/img/wildschoenau-wandelaars-alm.jpg" width="1200" height="563" loading="lazy" alt="Wanderer auf einem Bergweg hoch über der Wildschönau">
+      <img data-only="summer" src="../assets/img/schoenangeralm-kapel-wildschoenau.jpg" width="1200" height="800" loading="lazy" alt="Kapelle bei der Schönangeralm mit Bergpanorama im Sommer">
+      <img data-only="summer" src="../assets/img/niederau-talfest-koets.jpg" width="1200" height="801" loading="lazy" alt="Pferdekutsche im Festumzug des Talfests in Niederau">
     </div>
   </div>
 </section>
@@ -358,27 +346,35 @@
 
     <div class="season-panel" id="p-winter" role="tabpanel" aria-labelledby="t-winter">
       <div class="grid grid-3">
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/niederau-skien-markbachjoch.jpg" width="800" height="450" loading="lazy" alt="Skifahrer auf den sonnigen Pisten am Markbachjoch über Niederau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 2v20M4 7l16 10M20 7 4 17"/></svg></span>Skifahren direkt vom Dorf</h3>
           <p>Die Markbachjochbahn bringt Sie von Niederau hinauf zum Markbachjoch. Breite, sonnige Pisten, ideal für Anfänger und Familien, mit Abfahrten bis ins Dorf.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/ski-juwel-alpbachtal-wildschoenau-familie.jpg" width="800" height="450" loading="lazy" alt="Familie beim Skifahren im Ski Juwel Alpbachtal Wildschönau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 20 6-10 4 6 3-4 5 8z"/></svg></span>Ski Juwel</h3>
           <p>Mit dem Skipass des Ski Juwel Alpbachtal Wildschönau fahren Sie auch am Schatzberg in Auffach und über die Verbindung weiter ins Alpbachtal. Der Skibus pendelt zwischen den Dörfern.</p>
+          <p>Insgesamt 145 Pistenkilometer, 47 Lifte, 24 Skihütten und drei Snowparks.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-skischool-kinderen.jpg" width="800" height="450" loading="lazy" alt="Kinder lernen Skifahren in der Wildschönau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2"/><path d="M12 7v6l-3 7M12 13l3 7M8 10h8"/></svg></span>Skischule &amp; Kinder</h3>
           <p>Niederau hat seit jeher starke Skischulen mit Unterricht auf Niederländisch, Englisch und Deutsch sowie Übungswiesen direkt beim Dorf. Ein schöner Ort, um Skifahren zu lernen.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-langlaufloipe.jpg" width="800" height="450" loading="lazy" alt="Langlaufloipe durch das verschneite Tal der Wildschönau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 18c4-2 12-2 16 0M6 14l3-8 3 6 3-4 3 6"/></svg></span>Langlaufen &amp; Winterwandern</h3>
           <p>Loipen durchs Tal und geräumte Winterwanderwege vorbei an Bauernhöfen und Kapellen. Auch Schneeschuhwandern und Rodeln sind beliebt: Das Tal hat drei Rodelbahnen, die am Lahnerköpfl liegt in Niederau selbst.</p>
+          <p>Die Penningberg-Loipe (12 km) beginnt in Niederau; im ganzen Tal gibt es rund 30 bis 40 km Loipen.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/ski-juwel-skipauze-terras.jpg" width="800" height="450" loading="lazy" alt="Pause auf einer sonnigen Terrasse im Skigebiet">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 22h8M12 15v7M6 3h12l-1 8a5 5 0 0 1-10 0z"/></svg></span>Après-ski</h3>
           <p>Gemütlich, ohne übertrieben zu sein: Nach einem Skitag kehrt man in einer Hütte oder im Dorf ein – auf Glühwein, Kaiserschmarrn oder ein Tiroler Gröstl.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-winterwandelen-zon.jpg" width="800" height="450" loading="lazy" alt="Winterwanderer in der Sonne über dem Tal der Wildschönau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M5.6 18.4l2.1-2.1M16.3 7.7l2.1-2.1"/><circle cx="12" cy="12" r="3"/></svg></span>Sonniges Dorf</h3>
           <p>Niederau liegt offen im Tal und bekommt viel Sonne – herrlich auf einer Terrasse im März, wenn die Tage länger werden und der Schnee noch gut ist.</p>
         </article>
@@ -387,33 +383,43 @@
 
     <div class="season-panel" id="p-summer" role="tabpanel" aria-labelledby="t-summer" hidden>
       <div class="grid grid-3">
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-wandelen-gezin.jpg" width="800" height="450" loading="lazy" alt="Familie wandert über eine Bergwiese in der Wildschönau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 20 6-10 4 6 3-4 5 8z"/></svg></span>Wandern</h3>
           <p>Hunderte Kilometer markierte Wanderwege: von gemütlichen Talwanderungen bis zu Touren über die Bergkämme rund ums Tal. Mit der Gondel ist man in wenigen Minuten oben.</p>
+          <p>Das Tal hat mehr als 300 km markierte Wanderwege.</p>
         </article>
         <article class="card">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20c2-6 4-10 8-16M12 4c3 5 5 9 8 16M8 13h8"/></svg></span>Kundler Klamm</h3>
           <p>Eine der schönsten Klammwanderungen Tirols: von der Wildschönau entlang der wilden Wildschönauer Ache hinunter nach Kundl im Inntal.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-e-bike-dal.jpg" width="800" height="450" loading="lazy" alt="E-Biker auf einem Schotterweg mit Blick über das Tal">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="17" r="3.5"/><circle cx="18" cy="17" r="3.5"/><path d="M6 17l4-8h5l3 8M10 9l-1-3H7M15 9l1-3h2"/></svg></span>(E-)Mountainbiken</h3>
           <p>Forstwege und Bergsträßchen hinauf zu den Almen; mit dem E-Bike sind auch die höher gelegenen Hütten gut erreichbar.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-alm-brettljause.jpg" width="800" height="450" loading="lazy" alt="Brettljause auf einer Almterrasse mit Blick über die Kitzbüheler Alpen">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18M5 21V10l7-5 7 5v11M10 21v-6h4v6"/></svg></span>Almen &amp; Hütten</h3>
           <p>Im Sommer sind viele Almen bewirtschaftet: Käse, Buttermilch, Speck und Kaspressknödel mit Blick auf die Hohen Tauern und das Kaisergebirge.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/niederau-openluchtzwembad.jpg" width="800" height="450" loading="lazy" alt="Freibad mit Rutsche zwischen Niederau und Oberau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="7" r="3"/><circle cx="17" cy="9" r="2"/><path d="M3 21v-2a6 6 0 0 1 12 0v2M15 21v-1a4 4 0 0 1 6-3"/></svg></span>Mit Kindern</h3>
           <p>Spielplätze, Bäche zum Stauen, Bauernhoftiere und kurze Wanderungen mit einer Hütte als Belohnung. Die Wildschönau ist auf Familien eingestellt. Am Ortsrand von Niederau liegt ein Freibad mit drei Becken und einer großen Rutsche.</p>
+          <p>Das Freibad zwischen Niederau und Oberau ist beheizt und hat drei Becken mit mehr als 1.000 m² Wasserfläche.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/niederau-talfest-optocht.jpg" width="800" height="450" loading="lazy" alt="Festumzug mit Musikkapelle beim Talfest in Niederau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg></span>Tradition</h3>
           <p>Blasmusik am Dorfplatz, kirchliche Feiertage und der Almabtrieb im Herbst, wenn das geschmückte Vieh von den Bergen zurückkehrt.</p>
+          <p>Höhepunkt ist das Talfest im August, abwechselnd in Niederau, Oberau und Auffach, mit großem Festumzug.</p>
         </article>
-        <article class="card">
+        <article class="card has-img">
+          <img class="card-img" src="../assets/img/wildschoenau-premium-card-zomer.jpg" width="800" height="450" loading="lazy" alt="Wanderer blicken über das grüne Hochtal der Wildschönau">
           <h3><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="6" width="18" height="12" rx="2"/><path d="M3 10h18M7 15h4"/></svg></span>Premium Card</h3>
           <p>Mit der Wildschönau Premium Card fahren Sie im Sommer gratis mit den Bergbahnen. Fragen Sie Ihre Unterkunft, ob sie die Karte anbietet.</p>
+          <p>Die Karte erhalten Sie bei teilnehmenden Unterkünften. Ebenfalls inklusive: Wanderbus, Freibäder, das Bergbauernmuseum z’Bach in Oberau und der Drachenclub für Kinder von 5 bis 14 Jahren.</p>
         </article>
       </div>
     </div>
@@ -430,22 +436,26 @@
       <p>Die Wildschönau besteht aus den vier Kirchdörfern Niederau, Oberau, Auffach und Thierbach sowie dem Weiler Mühltal. Das Tal eignet sich besonders für entspanntes Skifahren inmitten einer herrlichen Bergwelt. Die stets gut erreichbare Urlaubsregion liegt nicht weit von Kufstein und bietet neben dem klassischen Wintersport auch ein vielseitiges Sommerangebot.</p>
     </div>
     <div class="grid grid-4">
-      <article class="card village here">
+      <article class="card has-img village here">
+        <img class="card-img" src="../assets/img/niederau-dorp-skilift-winter.jpg" width="800" height="450" loading="lazy" alt="Niederau im Winter mit dem Schlepplift am Ortsrand">
         <span class="alt-badge">828 m</span>
         <h3>Niederau</h3>
         <p>Das erste und touristischste Dorf, mit der Gondel zum Markbachjoch und dem größten Angebot an Unterkünften.</p>
       </article>
-      <article class="card village">
+      <article class="card has-img village">
+        <img class="card-img" src="../assets/img/oberau-wildschoenau-winter.jpg" width="800" height="450" loading="lazy" alt="Winterlandschaft bei Oberau in der Wildschönau">
         <span class="alt-badge">± 940 m</span>
         <h3>Oberau</h3>
         <p>Das Verwaltungszentrum des Tals, mit der großen Pfarrkirche und einem weiten, sonnigen Plateau.</p>
       </article>
-      <article class="card village">
+      <article class="card has-img village">
+        <img class="card-img" src="../assets/img/auffach-wildschoenau-e-bike.jpg" width="800" height="450" loading="lazy" alt="Radfahrer auf einem Weg durch die Wiesen bei Auffach">
         <span class="alt-badge">± 870 m</span>
         <h3>Auffach</h3>
         <p>Hinten im Tal, am Fuß des Schatzbergs und der Verbindung ins Alpbachtal.</p>
       </article>
-      <article class="card village">
+      <article class="card has-img village">
+        <img class="card-img" src="../assets/img/thierbach-wildschoenau-sneeuwschoenwandelen.jpg" width="800" height="450" loading="lazy" alt="Schneeschuhwanderer in der Sonne bei Thierbach">
         <span class="alt-badge">± 1.150 m</span>
         <h3>Thierbach</h3>
         <p>Das kleinste und höchstgelegene Dorf, ruhig und mit weitem Blick über das Inntal.</p>
@@ -453,11 +463,13 @@
     </div>
 
     <div class="grid grid-2" style="margin-top:22px">
-      <article class="card">
+      <article class="card has-img">
+        <img class="card-img" src="../assets/img/wildschoenauer-krautinger.jpg" width="800" height="450" loading="lazy" alt="Flasche Wildschönauer Krautinger mit zwei Gläsern auf einem Holzgeländer">
         <h3>Krautinger – der Schnaps des Tals</h3>
         <p>Die Wildschönau ist bekannt für den <em>Krautinger</em>, einen kräftigen Schnaps aus weißen Rüben (Stoppelrüben). Der Überlieferung nach erhielten die Bauern des Tals das Brennrecht schon zur Zeit Kaiserin Maria Theresias. Nur noch eine begrenzte Zahl von Höfen darf ihn brennen – verkostet wird direkt am Hof.</p>
       </article>
-      <article class="card">
+      <article class="card has-img">
+        <img class="card-img" src="../assets/img/tiroler-kaiserschmarrn.jpg" width="800" height="450" loading="lazy" alt="Kaiserschmarrn mit Staubzucker und Fruchtkompott">
         <h3>Tiroler Küche</h3>
         <ul class="check">
           <li><strong>Kaiserschmarrn</strong> – zerrissener Pfannkuchen mit Staubzucker und Apfelmus</li>
@@ -471,13 +483,14 @@
 </section>
 
 <!-- ===================== GESCHIEDENIS ===================== -->
-<section class="band" id="geschichte" aria-labelledby="h-hist">
+<section class="alt" id="geschichte" aria-labelledby="h-hist">
   <div class="wrap split" style="align-items:start">
     <div>
       <p class="eyebrow">Geschichte</p>
       <h2 id="h-hist">Vom Bauerntal zum Skidorf</h2>
       <p>Niederau liegt in der Wildschönau, einem Hochtal in Tirol (Österreich). Jahrhundertelang war es ein abgelegenes Tal der Bauern und Bergknappen. Erst im 20. Jahrhundert kamen die ersten Gäste – und 1947 begann in Niederau mit dem ersten Sessellift Tirols das Wintersportzeitalter des Tals.</p>
       <p>Dieser Lift war ein Kunststück: Ing. Sepp Hochmuth baute ihn kurz nach dem Zweiten Weltkrieg, der Überlieferung nach mit Motoren und Antriebsrädern von Panzern, die am Bahnhof Wörgl zurückgelassen worden waren. Am 14. Jänner 1947 wurde er eröffnet, von Niederau hinauf zum Markbachjoch.</p>
+      <img class="side-img" src="../assets/img/niederau-markbachjochbahn-gondel.jpg" width="1000" height="667" loading="lazy" alt="Gondel der Markbachjochbahn über Niederau mit Blick über die Alpen">
     </div>
     <ol class="timeline">
       <li><span class="when">1193–1195</span><br>Erste urkundliche Erwähnung der Wildschönau.</li>
@@ -493,7 +506,7 @@
 </section>
 
 <!-- ===================== VERBLIJF (partner) ===================== -->
-<section class="alt" id="unterkunft" aria-labelledby="h-stay">
+<section id="unterkunft" aria-labelledby="h-stay">
   <div class="wrap">
     <div class="section-head">
       <p class="eyebrow">Unterkunftstipp</p>
@@ -503,7 +516,7 @@
     <div class="stay-grid">
       <div class="stay-photos">
         <figure class="stay-main" data-only="winter"><img src="../assets/img/hotel-wastlhof-niederau-winteravond.webp" width="700" height="525" loading="lazy" alt="Hotel Wastlhof im Schnee am Abend, mit beleuchteter Fassade"></figure>
-        <figure class="stay-main" data-only="summer"><img src="../assets/img/hotel-wastlhof-niederau-zomer.webp" width="700" height="525" loading="lazy" alt="Hotel Wastlhof im Sommer, von einer blühenden Bergwiese aus gesehen"></figure>
+        <figure class="stay-main" data-only="summer"><img src="../assets/img/hotel-wastlhof-niederau-zomer-groot.jpg" width="1400" height="831" loading="lazy" alt="Hotel Wastlhof im Sommer, von einer blühenden Bergwiese aus gesehen"></figure>
         <div class="stay-thumbs">
           <img data-only="winter" src="../assets/img/hotel-wastlhof-niederau-winter.webp" width="700" height="525" loading="lazy" alt="Hotel Wastlhof an einem sonnigen Wintertag mit verschneiten Hängen dahinter">
           <img data-only="summer" src="../assets/img/hotel-wastlhof-niederau-tuin-zomer.webp" width="700" height="525" loading="lazy" alt="Liegewiese mit roten Sonnenschirmen im Garten des Hotel Wastlhof">
@@ -515,13 +528,15 @@
         <h3>Warum Hotel Wastlhof?</h3>
         <ul class="check">
           <li>Familienbetrieb und Vier-Sterne-Wellnesshotel mitten in Niederau</li>
+          <li>Seit drei Generationen von Familie Brunner geführt</li>
           <li data-only="winter">Skigebiet ab der Haustür: nach dem Skifahren gleich wieder daheim</li>
           <li data-only="winter">Langlaufloipen starten beim Hotel; die Rodelbahn Lahnerköpfl liegt direkt vor der Tür (Rodelverleih)</li>
           <li data-only="winter">Skiguiding: Gastgeberin Margit zeigt Ihnen ihre Lieblingspisten</li>
           <li data-only="winter">Freibecken, das auch im Winter geöffnet ist: Schwimmen mitten im Schnee</li>
           <li data-only="summer">Relax-Garten mit großzügigem Freibecken, Liegewiese und Sonnenschirmen</li>
           <li data-only="summer">Gäste spielen gratis Tennis auf der Wildschönauer Tennisanlage</li>
-          <li>Reiten direkt vom Hotel aus, im Sommer wie im Winter</li>
+          <li>Eigener Reitstall mit rund 15 Pferden, darunter Haflinger – seit mehr als 50 Jahren</li>
+          <li>Hallenbad (12 × 6 m, ca. 30 °C) und ein ganzjährig beheiztes Freibecken</li>
           <li>Zimmer, Appartements und Suiten im Hotel und in der neuen Alpin Lodge</li>
           <li>Informationen auch auf Niederländisch und Englisch</li>
         </ul>
@@ -545,7 +560,7 @@
 </section>
 
 <!-- ===================== BEREIKBAARHEID ===================== -->
-<section id="anreise" aria-labelledby="h-route">
+<section class="alt" id="anreise" aria-labelledby="h-route">
   <div class="wrap split">
     <div>
       <p class="eyebrow">Anreise</p>
@@ -589,7 +604,7 @@
 </section>
 
 <!-- ===================== PRAKTISCH ===================== -->
-<section class="alt" id="praktisch" aria-labelledby="h-prak">
+<section id="praktisch" aria-labelledby="h-prak">
   <div class="wrap">
     <div class="section-head">
       <p class="eyebrow">Praktisches</p>
@@ -667,6 +682,7 @@
         <li><a href="#praktisch">Praktische Infos</a></li>
       </ul>
     </div>
+    <p class="credits">Fotos: Wildschönau Tourismus (H. Dabernig, shoot&amp;style, A. Mayr, J. Ehammer), AMTirol, Ski Juwel Alpbachtal Wildschönau, Wildschönauer Bergbahnen, Hotel Wastlhof und eigene Fotos.</p>
     <p class="copyright">© <span data-year>2026</span> Niederau.nl · Unabhängige Seite, nicht mit offiziellen Stellen verbunden.</p>
   </div>
 </footer>

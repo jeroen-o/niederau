@@ -452,6 +452,9 @@ T["en"] += list(zip(GAL_NL, GAL_EN))
 T["de"] += list(zip(GAL_NL, GAL_DE))
 
 OBSOLETE = {
+    "Wandelaars kijken uit over het groene hoogdal van de Wildschönau in de zomer",
+    "Brettljause op een almterras met uitzicht over de Kitzbüheler Alpen in de Wildschönau",
+    "<li>Paardrijden vanuit het hotel, in de zomer én in de winter</li>",
     '"url": "https://niederau.nl/",', '"inLanguage": "nl",',
     '"description": "Bergdorp in de Wildschönau, Tirol, Oostenrijk.",',
     '"name": "Wildschönau, Tirol, Oostenrijk"', '"touristType": ["Wintersport", "Wandelen", "Gezinnen"]',
@@ -587,6 +590,46 @@ Z_DE = ["Wanderer blicken im Sommer über das grüne Hochtal der Wildschönau",
         "Brettljause auf einer Almterrasse mit Blick über die Kitzbüheler Alpen in der Wildschönau"]
 T["en"] += list(zip(Z_NL, Z_EN))
 T["de"] += list(zip(Z_NL, Z_DE))
+
+# --- Ontwerp met foto's (hotelstijl) ---
+P = [
+ ("Skiërs op de zonnige pistes van het Markbachjoch boven Niederau", "Skiers on the sunny slopes of the Markbachjoch above Niederau", "Skifahrer auf den sonnigen Pisten am Markbachjoch über Niederau"),
+ ("Gezin skiet in Ski Juwel Alpbachtal Wildschönau", "Family skiing in Ski Juwel Alpbachtal Wildschönau", "Familie beim Skifahren im Ski Juwel Alpbachtal Wildschönau"),
+ ("Kinderen leren skiën in de Wildschönau", "Children learning to ski in the Wildschönau", "Kinder lernen Skifahren in der Wildschönau"),
+ ("Langlaufloipe door het besneeuwde dal van de Wildschönau", "Cross-country trail through the snowy Wildschönau valley", "Langlaufloipe durch das verschneite Tal der Wildschönau"),
+ ("Pauze op een zonnig terras in het skigebied", "A break on a sunny terrace in the ski area", "Pause auf einer sonnigen Terrasse im Skigebiet"),
+ ("Winterwandelaars in de zon boven het dal van de Wildschönau", "Winter walkers in the sun above the Wildschönau valley", "Winterwanderer in der Sonne über dem Tal der Wildschönau"),
+ ("Gezin wandelt over een bergweide in de Wildschönau", "Family hiking across a mountain meadow in the Wildschönau", "Familie wandert über eine Bergwiese in der Wildschönau"),
+ ("E-bikers op een grindweg met uitzicht over het dal", "E-bikers on a gravel track overlooking the valley", "E-Biker auf einem Schotterweg mit Blick über das Tal"),
+ ("Brettljause op een almterras met uitzicht over de Kitzbüheler Alpen", "Brettljause on an alpine hut terrace overlooking the Kitzbühel Alps", "Brettljause auf einer Almterrasse mit Blick über die Kitzbüheler Alpen"),
+ ("Openluchtzwembad met glijbaan tussen Niederau en Oberau", "Open-air pool with water slide between Niederau and Oberau", "Freibad mit Rutsche zwischen Niederau und Oberau"),
+ ("Optocht met muziekkapel tijdens het Talfest in Niederau", "Procession with brass band during the Talfest in Niederau", "Festumzug mit Musikkapelle beim Talfest in Niederau"),
+ ("Wandelaars kijken uit over het groene hoogdal van de Wildschönau\"", "Hikers looking out over the green Wildschönau high valley\"", "Wanderer blicken über das grüne Hochtal der Wildschönau\""),
+ ("Niederau in de winter met de sleeplift aan de rand van het dorp", "Niederau in winter with the drag lift on the edge of the village", "Niederau im Winter mit dem Schlepplift am Ortsrand"),
+ ("Winterlandschap bij Oberau in de Wildschönau", "Winter landscape near Oberau in the Wildschönau", "Winterlandschaft bei Oberau in der Wildschönau"),
+ ("Fietsers op een weg door de weiden bij Auffach", "Cyclists on a road through the meadows near Auffach", "Radfahrer auf einem Weg durch die Wiesen bei Auffach"),
+ ("Sneeuwschoenwandelaars in de zon bij Thierbach", "Snowshoe hikers in the sun near Thierbach", "Schneeschuhwanderer in der Sonne bei Thierbach"),
+ ("Fles Wildschönauer Krautinger met twee glaasjes op een houten balustrade", "Bottle of Wildschönauer Krautinger with two glasses on a wooden railing", "Flasche Wildschönauer Krautinger mit zwei Gläsern auf einem Holzgeländer"),
+ ("Kaiserschmarrn met poedersuiker en vruchtencompote", "Kaiserschmarrn with icing sugar and fruit compote", "Kaiserschmarrn mit Staubzucker und Fruchtkompott"),
+ ("Gondel van de Markbachjochbahn boven Niederau met uitzicht over de Alpen", "Markbachjochbahn gondola above Niederau with views over the Alps", "Gondel der Markbachjochbahn über Niederau mit Blick über die Alpen"),
+ ("Wandelaars op een bergpad hoog boven de Wildschönau", "Hikers on a mountain path high above the Wildschönau", "Wanderer auf einem Bergweg hoch über der Wildschönau"),
+ ("Kapel bij de Schönangeralm met bergpanorama in de zomer", "Chapel at the Schönangeralm with mountain panorama in summer", "Kapelle bei der Schönangeralm mit Bergpanorama im Sommer"),
+ ("Paardenkoets in de optocht van het Talfest in Niederau", "Horse-drawn carriage in the Talfest procession in Niederau", "Pferdekutsche im Festumzug des Talfests in Niederau"),
+ ("<p>Samen 145 km piste, 47 liften, 24 skihutten en drie snowparks.</p>", "<p>Together 145 km of slopes, 47 lifts, 24 ski huts and three snow parks.</p>", "<p>Insgesamt 145 Pistenkilometer, 47 Lifte, 24 Skihütten und drei Snowparks.</p>"),
+ ("<p>De Penningberg-loipe (12 km) begint in Niederau; in het hele dal liggen zo’n 30 tot 40 km loipes.</p>", "<p>The Penningberg trail (12 km) starts in Niederau; the whole valley has some 30 to 40 km of cross-country trails.</p>", "<p>Die Penningberg-Loipe (12 km) beginnt in Niederau; im ganzen Tal gibt es rund 30 bis 40 km Loipen.</p>"),
+ ("<p>Het dal telt meer dan 300 km gemarkeerde wandelpaden.</p>", "<p>The valley has more than 300 km of waymarked trails.</p>", "<p>Das Tal hat mehr als 300 km markierte Wanderwege.</p>"),
+ ("<p>Het openluchtzwembad tussen Niederau en Oberau is verwarmd en heeft drie bassins met meer dan 1.000 m² water.</p>", "<p>The open-air pool between Niederau and Oberau is heated and has three pools with more than 1,000 m² of water.</p>", "<p>Das Freibad zwischen Niederau und Oberau ist beheizt und hat drei Becken mit mehr als 1.000 m² Wasserfläche.</p>"),
+ ("<p>Hoogtepunt is het Talfest in augustus, afwisselend in Niederau, Oberau en Auffach, met een grote optocht.</p>", "<p>The highlight is the Talfest in August, held in turn in Niederau, Oberau and Auffach, with a big procession.</p>", "<p>Höhepunkt ist das Talfest im August, abwechselnd in Niederau, Oberau und Auffach, mit großem Festumzug.</p>"),
+ ("<p>Je krijgt de kaart bij deelnemende accommodaties. Ook inbegrepen: de wandelbus, de openluchtzwembaden, het Bergbauernmuseum z’Bach in Oberau en de Drachenclub voor kinderen van 5 tot 14 jaar.</p>", "<p>You get the card from participating accommodation. Also included: the hiking bus, the open-air pools, the Bergbauernmuseum z’Bach in Oberau and the Drachenclub for children aged 5 to 14.</p>", "<p>Die Karte erhalten Sie bei teilnehmenden Unterkünften. Ebenfalls inklusive: Wanderbus, Freibäder, das Bergbauernmuseum z’Bach in Oberau und der Drachenclub für Kinder von 5 bis 14 Jahren.</p>"),
+ ("<li>Al drie generaties gerund door de familie Brunner</li>", "<li>Run by the Brunner family for three generations</li>", "<li>Seit drei Generationen von Familie Brunner geführt</li>"),
+ ("<li>Eigen manege met zo’n 15 paarden, waaronder Haflingers – al meer dan 50 jaar</li>", "<li>Own riding stables with some 15 horses, including Haflingers – for more than 50 years</li>", "<li>Eigener Reitstall mit rund 15 Pferden, darunter Haflinger – seit mehr als 50 Jahren</li>"),
+ ("<li>Binnenzwembad (12 × 6 m, ca. 30 °C) en een buitenzwembad dat het hele jaar verwarmd is</li>", "<li>Indoor pool (12 × 6 m, approx. 30 °C) and an outdoor pool heated all year round</li>", "<li>Hallenbad (12 × 6 m, ca. 30 °C) und ein ganzjährig beheiztes Freibecken</li>"),
+ ("<p class=\"credits\">Foto’s: Wildschönau Tourismus (H. Dabernig, shoot&amp;style, A. Mayr, J. Ehammer), AMTirol, Ski Juwel Alpbachtal Wildschönau, Wildschönauer Bergbahnen, Hotel Wastlhof en eigen foto’s.</p>",
+  "<p class=\"credits\">Photos: Wildschönau Tourismus (H. Dabernig, shoot&amp;style, A. Mayr, J. Ehammer), AMTirol, Ski Juwel Alpbachtal Wildschönau, Wildschönauer Bergbahnen, Hotel Wastlhof and own photos.</p>",
+  "<p class=\"credits\">Fotos: Wildschönau Tourismus (H. Dabernig, shoot&amp;style, A. Mayr, J. Ehammer), AMTirol, Ski Juwel Alpbachtal Wildschönau, Wildschönauer Bergbahnen, Hotel Wastlhof und eigene Fotos.</p>"),
+]
+T["en"] += [(a, b) for a, b, c in P]
+T["de"] += [(a, c) for a, b, c in P]
 
 ok = True
 for lang in ("en", "de"):
