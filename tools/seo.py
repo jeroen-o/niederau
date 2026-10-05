@@ -59,7 +59,9 @@ def build(lang, cfg, page):
            for q, a in re.findall(r"<details>\s*<summary>(.*?)</summary>\s*<p>(.*?)</p>", page, re.S)]
     graph = [
         {"@type": "WebSite", "@id": f"{BASE}/#website", "url": f"{BASE}/", "name": "Niederau.nl",
-         "inLanguage": ["nl", "en", "de"]},
+         "inLanguage": ["nl", "en", "de"], "publisher": {"@id": f"{BASE}/#organisatie"}},
+        {"@type": "Organization", "@id": f"{BASE}/#organisatie", "name": "Niederau.nl", "url": f"{BASE}/",
+         "logo": {"@type": "ImageObject", "url": f"{BASE}/assets/icon-512.png", "width": 512, "height": 512}},
         {"@type": "WebPage", "@id": cfg["url"] + "#webpage", "url": cfg["url"], "name": title,
          "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"},
          "about": {"@id": f"{BASE}/#niederau"}, "dateModified": TODAY,
@@ -67,6 +69,7 @@ def build(lang, cfg, page):
         {"@type": ["TouristDestination", "Place"], "@id": f"{BASE}/#niederau", "name": "Niederau",
          "description": cfg["dest"],
          "geo": {"@type": "GeoCoordinates", "latitude": LAT, "longitude": LON, "elevation": ELEV},
+         "image": [f"{BASE}/assets/img/niederau-winter-bauernhuis-hero-2048.webp", f"{BASE}/assets/img/markbachjoch-bergmeer-zomer-hero-2048.webp", OG_IMAGE],
          "address": {"@type": "PostalAddress", "addressLocality": "Wildschönau", "postalCode": "6314",
                      "addressRegion": "Tirol", "addressCountry": "AT"},
          "containedInPlace": {"@type": "AdministrativeArea", "name": "Wildschönau",
@@ -127,10 +130,13 @@ urls = "".join(f'''  <url><loc>{c["url"]}</loc><lastmod>{TODAY}</lastmod>
     <xhtml:link rel="alternate" hreflang="nl" href="{BASE}/"/>
     <xhtml:link rel="alternate" hreflang="en" href="{BASE}/en/"/>
     <xhtml:link rel="alternate" hreflang="de" href="{BASE}/de/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="{BASE}/en/"/></url>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{BASE}/en/"/>
+    <image:image><image:loc>{BASE}/assets/img/niederau-winter-bauernhuis-hero-2048.webp</image:loc></image:image>
+    <image:image><image:loc>{BASE}/assets/img/markbachjoch-bergmeer-zomer-hero-2048.webp</image:loc></image:image>
+    <image:image><image:loc>{OG_IMAGE}</image:loc></image:image></url>
 ''' for c in LANGS.values())
 (ROOT / "sitemap.xml").write_text(f'''<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 {urls}</urlset>
 ''', encoding="utf-8")
 
