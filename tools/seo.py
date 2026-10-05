@@ -76,7 +76,7 @@ def build(lang, cfg, page):
                               "containedInPlace": {"@type": "AdministrativeArea", "name": "Tirol"}},
          "touristType": ["Wintersport", "Hiking", "Families"],
          "includesAttraction": [{"@type": "TouristAttraction", "name": n} for n in
-                                ("Markbachjoch", "Ski Juwel Alpbachtal Wildschönau", "Kundler Klamm", "Rodelbahn Lahnerköpfl")]},
+                                ("Markbachjoch", "Lanerköpfl", "Ski Juwel Alpbachtal Wildschönau", "Kundler Klamm", "Rodelbahn Lanerköpfl", "Drachental", "Bergbauernmuseum z'Bach")]},
         {"@type": "ItemList", "name": "Wildschönau",
          "itemListElement": [{"@type": "ListItem", "position": i + 1,
                               "item": {"@type": "Place", "name": n, "description": d}}
@@ -154,6 +154,11 @@ urls = "".join(f'''  <url><loc>{c["url"]}</loc><lastmod>{TODAY}</lastmod>
 - Local specialities: Krautinger (turnip schnapps), Kaiserschmarrn, Kaspressknödel, Tiroler Gröstl.
 - Getting there: train to Wörgl Hbf, then regional bus; nearest airports Innsbruck, Salzburg, Munich. Austrian motorways require a vignette.
 - Emergency numbers: 112 (general), 140 (mountain rescue).
+
+## Things to do nearby (approx. driving time from Niederau)
+- In the valley: Drachental family park with the Drachenflitzer alpine coaster (Oberau), Bergbauernmuseum z'Bach (Oberau), Kundler Klamm gorge walk to Kundl, sleigh rides, ice skating, ski touring, Krautinger tasting.
+- Rattenberg, Austria's smallest town, glassblowers (~30 min); Kufstein fortress with the Heldenorgel at noon (~30 min); Hohe Salve above Hopfgarten (~30 min); Museum Tiroler Bauernhöfe in Kramsach (~30 min).
+- Alpbach (~40 min, or on skis via Ski Juwel); Zillertal steam train from Jenbach (~40 min); Swarovski Kristallwelten in Wattens (~45 min); Kitzbühel (~45 min); Achensee (~50 min); Innsbruck with Goldenes Dachl, Nordkettenbahn and Alpenzoo (~1 hour).
 
 ## History
 - 1193–1195: first written mention of the Wildschönau.
