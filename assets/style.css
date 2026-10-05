@@ -209,6 +209,9 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 .stay-main img { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius); box-shadow: var(--shadow); }
 .stay-thumbs { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 12px; }
 .stay-thumbs img { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px; }
+.gallery-title { margin: 40px 0 14px; }
+.gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.gallery img { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 10px; }
 .ad-label { display: inline-block; font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft); background: var(--bg-alt); border: 1px solid var(--line); padding: 2px 8px; border-radius: 6px; margin-bottom: 10px; }
 
 /* ---------- Seizoenen: winter (1 okt – 31 mrt) / zomer (1 apr – 30 sep) ---------- */
