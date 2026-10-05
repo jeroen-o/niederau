@@ -39,10 +39,10 @@ def structural(lang):
 
 T = {}
 T["en"] = [
-    ("<title>Niederau in de Wildschönau (Tirol) – dorp, skiën, wandelen & tips | Niederau.nl</title>",
-     "<title>Niederau in the Wildschönau (Tyrol) – village, skiing, hiking & tips | Niederau.nl</title>"),
-    ('content="Alles over Niederau, het zonnige bergdorp in de Wildschönau in Tirol (Oostenrijk): skiën, wandelen, de vier dorpen, Krautinger, bereikbaarheid en praktische tips."',
-     'content="Everything about Niederau, the sunny mountain village in the Wildschönau valley in Tyrol (Austria): skiing, hiking, the four villages, Krautinger, getting there and practical tips."'),
+    ("<title>Niederau, Wildschönau (Tirol): skiën, wandelen & tips</title>",
+     "<title>Niederau, Wildschönau (Tyrol): skiing, hiking & tips</title>"),
+    ('content="Niederau, zonnig bergdorp in de Wildschönau (Tirol): skiën in Ski Juwel, wandelen, geschiedenis, route en praktische tips – in zomer en winter."',
+     'content="Niederau, sunny mountain village in the Wildschönau (Tyrol): skiing in Ski Juwel, hiking, history, getting there and practical tips – summer and winter."'),
     ('content="Niederau – het hart van de Wildschönau"', 'content="Niederau – the heart of the Wildschönau"'),
     ('content="Bergdorp op 828 meter in Tirol. Skiën, wandelen en genieten in de Wildschönau – met praktische tips."',
      'content="Mountain village at 828 metres in Tyrol. Skiing, hiking and enjoying life in the Wildschönau – with practical tips."'),
@@ -193,10 +193,10 @@ T["en"] = [
 ]
 
 T["de"] = [
-    ("<title>Niederau in de Wildschönau (Tirol) – dorp, skiën, wandelen & tips | Niederau.nl</title>",
-     "<title>Niederau in der Wildschönau (Tirol) – Dorf, Skifahren, Wandern & Tipps | Niederau.nl</title>"),
-    ('content="Alles over Niederau, het zonnige bergdorp in de Wildschönau in Tirol (Oostenrijk): skiën, wandelen, de vier dorpen, Krautinger, bereikbaarheid en praktische tips."',
-     'content="Alles über Niederau, das sonnige Bergdorf in der Wildschönau in Tirol (Österreich): Skifahren, Wandern, die vier Dörfer, Krautinger, Anreise und praktische Tipps."'),
+    ("<title>Niederau, Wildschönau (Tirol): skiën, wandelen & tips</title>",
+     "<title>Niederau, Wildschönau (Tirol): Skifahren, Wandern & Tipps</title>"),
+    ('content="Niederau, zonnig bergdorp in de Wildschönau (Tirol): skiën in Ski Juwel, wandelen, geschiedenis, route en praktische tips – in zomer en winter."',
+     'content="Niederau, sonniges Bergdorf in der Wildschönau (Tirol): Skifahren im Ski Juwel, Wandern, Geschichte, Anreise und Tipps – im Sommer und Winter."'),
     ('content="Niederau – het hart van de Wildschönau"', 'content="Niederau – das Herz der Wildschönau"'),
     ('content="Bergdorp op 828 meter in Tirol. Skiën, wandelen en genieten in de Wildschönau – met praktische tips."',
      'content="Bergdorf auf 828 Metern in Tirol. Skifahren, Wandern und Genießen in der Wildschönau – mit praktischen Tipps."'),
