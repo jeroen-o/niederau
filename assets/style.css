@@ -203,6 +203,7 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 .trips li { padding: 10px 0; border-bottom: 1px solid var(--line); font-size: .95rem; }
 .trips li:last-child { border-bottom: 0; }
 .chip { display: inline-block; font-size: .72rem; font-weight: 700; letter-spacing: .04em; color: var(--sky); background: var(--bg-alt); border-radius: 999px; padding: 1px 9px; margin-left: 6px; vertical-align: 2px; }
+.vvv { margin-top: 28px; }
 .ad-label { display: inline-block; font-size: .7rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft); background: var(--bg-alt); border: 0; padding: 3px 9px; border-radius: var(--radius); margin-bottom: 10px; }
 
 /* ---------- Seizoenen: winter (1 okt – 31 mrt) / zomer (1 apr – 30 sep) ---------- */

@@ -89,6 +89,10 @@ def build(lang, cfg, page):
          "address": {"@type": "PostalAddress", "streetAddress": "Wildschönauerstraße Niederau 206",
                      "postalCode": "6314", "addressLocality": "Wildschönau", "addressCountry": "AT"},
          "containedInPlace": {"@id": f"{BASE}/#niederau"}},
+        {"@type": "TouristInformationCenter", "@id": f"{BASE}/#toeristenbureau", "name": "Wildschönau Tourismus",
+         "url": "https://www.wildschoenau.com/", "telephone": "+43 5339 8255", "email": "info@wildschoenau.com",
+         "address": {"@type": "PostalAddress", "streetAddress": "Hauserweg, Oberau 337", "postalCode": "6311",
+                     "addressLocality": "Wildschönau", "addressCountry": "AT"}},
     ]
     if faq:
         graph.append({"@type": "FAQPage", "@id": cfg["url"] + "#faq", "inLanguage": lang, "mainEntity": faq})
@@ -172,6 +176,9 @@ urls = "".join(f'''  <url><loc>{c["url"]}</loc><lastmod>{TODAY}</lastmod>
 
 ## Partner
 - Hotel Wastlhof (partner of Niederau.nl): four-star wellness hotel run by the Brunner family for three generations, with indoor and year-round heated outdoor pool and its own riding stables (about 15 horses, including Haflingers), Wildschönauerstraße Niederau 206, 6314 Wildschönau, +43 5339 8247, info@hotelwastlhof.at, https://www.hotelwastlhof.at/
+
+## Tourist office
+- Wildschönau Tourismus (tourist office for Niederau and the whole valley): Hauserweg, Oberau 337, 6311 Wildschönau, +43 5339 8255, info@wildschoenau.com, https://www.wildschoenau.com/ – accommodation in all four villages, events, lift and trail information.
 
 ## Pages
 - [Nederlands]({BASE}/): Niederau en de Wildschönau
