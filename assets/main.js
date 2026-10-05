@@ -50,4 +50,31 @@
   // Jaartal in de footer
   var now = new Date().getFullYear();
   document.querySelectorAll('[data-year]').forEach(function (el) { el.textContent = now; });
+
+  // Fotogalerij met lightbox
+  var items = Array.prototype.slice.call(document.querySelectorAll('.g-item'));
+  var lb = document.querySelector('.lightbox');
+  if (items.length && lb && lb.showModal) {
+    var lbImg = lb.querySelector('img');
+    var lbCap = lb.querySelector('figcaption');
+    var cur = 0;
+    var open = function (i) {
+      cur = (i + items.length) % items.length;
+      var im = items[cur].querySelector('img');
+      lbImg.src = items[cur].href;
+      lbImg.alt = im.alt;
+      lbCap.textContent = im.alt;
+    };
+    items.forEach(function (a, i) {
+      a.addEventListener('click', function (e) { e.preventDefault(); open(i); lb.showModal(); });
+    });
+    lb.querySelector('.lb-close').addEventListener('click', function () { lb.close(); });
+    lb.querySelector('.lb-prev').addEventListener('click', function () { open(cur - 1); });
+    lb.querySelector('.lb-next').addEventListener('click', function () { open(cur + 1); });
+    lb.addEventListener('click', function (e) { if (e.target === lb) lb.close(); });
+    lb.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowLeft') open(cur - 1);
+      if (e.key === 'ArrowRight') open(cur + 1);
+    });
+  }
 })();
