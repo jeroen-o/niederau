@@ -13,9 +13,9 @@ src = re.sub(r'<script type="application/ld\+json">.*?</script>\n?', "", src, fl
 def structural(lang):
     ids = {
         "en": {"over": "about", "seizoenen": "seasons", "wildschonau": "wildschoenau",
-               "bereikbaarheid": "getting-there", "praktisch": "practical", "verblijf": "stay", "geschiedenis": "history"},
+               "bereikbaarheid": "getting-there", "praktisch": "practical", "verblijf": "stay", "geschiedenis": "history", "lanerkoepfl": "lanerkoepfl"},
         "de": {"over": "dorf", "seizoenen": "jahreszeiten", "wildschonau": "wildschoenau",
-               "bereikbaarheid": "anreise", "praktisch": "praktisch", "verblijf": "unterkunft", "geschiedenis": "geschichte"},
+               "bereikbaarheid": "anreise", "praktisch": "praktisch", "verblijf": "unterkunft", "geschiedenis": "geschichte", "lanerkoepfl": "lanerkoepfl"},
     }[lang]
     pairs = []
     for nl, new in ids.items():
@@ -630,6 +630,32 @@ P = [
 ]
 T["en"] += [(a, b) for a, b, c in P]
 T["de"] += [(a, c) for a, b, c in P]
+
+L = [
+ ("De huisberg van Niederau</h2>", "Niederau’s home mountain</h2>", "Der Hausberg von Niederau</h2>"),
+ ("<p>Direct boven het dorp rijst het Lanerköpfl op – door het hotel en veel bewoners ook Lahnerköpfl genoemd. Samen met het Markbachjoch vormt het het skigebied van Niederau, met afdalingen die tot in het dorp eindigen.</p>",
+  "<p>Right above the village rises the Lanerköpfl – also written Lahnerköpfl by the hotel and many locals. Together with the Markbachjoch it forms Niederau’s ski area, with runs that end in the village.</p>",
+  "<p>Direkt über dem Dorf erhebt sich das Lanerköpfl – vom Hotel und vielen Einheimischen auch Lahnerköpfl geschrieben. Zusammen mit dem Markbachjoch bildet es das Skigebiet von Niederau, mit Abfahrten bis ins Dorf.</p>"),
+ ("<p><strong>De lift.</strong> Jarenlang bracht een eenpersoons stoeltjeslift de skiërs naar boven. Sinds het seizoen 2008/09 rijdt de Lanerköpflbahn: een snelle vierpersoons stoeltjeslift met kap, van het dalstation op 843 m naar het bergstation op 1.560 m – in zo’n zeven minuten, met plaats voor 1.400 personen per uur.</p>",
+  "<p><strong>The lift.</strong> For many years a single chairlift carried skiers up. Since the 2008/09 season the Lanerköpflbahn has been running: a fast four-seater chairlift with bubble, from the valley station at 843 m to the top station at 1,560 m – in about seven minutes, with room for 1,400 people per hour.</p>",
+  "<p><strong>Der Lift.</strong> Jahrelang brachte ein Einersessellift die Skifahrer nach oben. Seit der Saison 2008/09 fährt die Lanerköpflbahn: eine kuppelbare Vierersesselbahn mit Haube, von der Talstation auf 843 m zur Bergstation auf 1.560 m – in rund sieben Minuten, mit einer Förderleistung von 1.400 Personen pro Stunde.</p>"),
+ ("<p><strong>De afdaling.</strong> De noordhellingen van het Lanerköpfl en het Markbachjoch staan bekend als uitdagend; vooral de Hochberg-afdaling vraagt ook van ervaren skiërs het nodige. Wie het rustiger aan wil doen, oefent beneden op de sleeplift en de oefenweiden aan de rand van het dorp.</p>",
+  "<p><strong>The descent.</strong> The north slopes of the Lanerköpfl and the Markbachjoch are known as challenging; the Hochberg run in particular tests even experienced skiers. If you prefer to take it easy, practise down below on the drag lift and the nursery slopes on the edge of the village.</p>",
+  "<p><strong>Die Abfahrt.</strong> Die Nordhänge von Lanerköpfl und Markbachjoch gelten als anspruchsvoll; vor allem die Hochberg-Abfahrt fordert auch geübte Skifahrer. Wer es ruhiger angehen will, übt unten am Schlepplift und auf den Übungswiesen am Ortsrand.</p>"),
+ ("<p><strong>De rodelbaan.</strong> Het Lanerköpfl is ook de rodelberg van Niederau: vanaf het bergstation loopt een natuurrodelbaan van bijna 6 km langs de Gseng-Alm en de Laner-Alm terug naar het dalstation. Met 736 m hoogteverschil en gemiddeld 14% helling is het een sportieve baan. Kijk vooraf of de baan open is.</p>",
+  "<p><strong>The toboggan run.</strong> The Lanerköpfl is also Niederau’s toboggan mountain: from the top station a natural toboggan run of almost 6 km leads past the Gseng-Alm and the Laner-Alm back to the valley station. With 736 m of descent and an average gradient of 14% it is a sporty run. Check beforehand whether it is open.</p>",
+  "<p><strong>Die Rodelbahn.</strong> Das Lanerköpfl ist auch der Rodelberg von Niederau: Von der Bergstation führt eine fast 6 km lange Naturrodelbahn vorbei an Gseng-Alm und Laner-Alm zurück zur Talstation. Mit 736 m Höhenunterschied und durchschnittlich 14 % Gefälle ist sie eine sportliche Bahn. Bitte vorab prüfen, ob die Bahn geöffnet ist.</p>"),
+ ("Sleeplift, skihut en pistes aan de voet van het Lanerköpfl in Niederau na verse sneeuw", "Drag lift, ski hut and slopes at the foot of the Lanerköpfl in Niederau after fresh snow", "Schlepplift, Skihütte und Pisten am Fuß des Lanerköpfls in Niederau nach Neuschnee"),
+ ('aria-label="Lanerköpfl in cijfers"', 'aria-label="Lanerköpfl in numbers"', 'aria-label="Lanerköpfl in Zahlen"'),
+ ("<span>bergstation Lanerköpflbahn</span>", "<span>top station of the Lanerköpflbahn</span>", "<span>Bergstation Lanerköpflbahn</span>"),
+ ("<span>dalstation in Niederau</span>", "<span>valley station in Niederau</span>", "<span>Talstation in Niederau</span>"),
+ ("<strong>± 7 min</strong><span>naar boven met de vierpersoonslift</span>", "<strong>± 7 min</strong><span>to the top on the four-seater chairlift</span>", "<strong>± 7 Min.</strong><span>Fahrzeit mit der Vierersesselbahn</span>"),
+ ("<span>rodelbaan terug naar het dorp</span>", "<span>toboggan run back to the village</span>", "<span>Rodelbahn zurück ins Dorf</span>"),
+ ("<br>Op het Lanerköpfl vervangt een snelle vierpersoons stoeltjeslift met kap de oude eenpersoons stoeltjeslift.</li>", "<br>On the Lanerköpfl a fast four-seater chairlift with bubble replaces the old single chairlift.</li>", "<br>Am Lanerköpfl ersetzt eine kuppelbare Vierersesselbahn mit Haube den alten Einersessellift.</li>"),
+]
+T["en"] += [(a, b) for a, b, c in L]
+T["de"] += [(a, c) for a, b, c in L]
+T["en"] += [('<a href="#lanerkoepfl">Lanerköpfl</a>', '<a href="#lanerkoepfl">Lanerköpfl</a>')]
 
 ok = True
 for lang in ("en", "de"):

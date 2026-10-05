@@ -83,7 +83,7 @@ def build(lang, cfg, page):
                              for i, (n, d) in enumerate(cfg["villages"].items())]},
         {"@type": "Hotel", "@id": f"{BASE}/#hotel-wastlhof", "name": "Hotel Wastlhof",
          "description": cfg["hotel"], "url": "https://www.hotelwastlhof.at/",
-         "telephone": "+43 5339 8247",
+         "telephone": "+43 5339 8247", "email": "info@hotelwastlhof.at",
          "starRating": {"@type": "Rating", "ratingValue": 4},
          "image": f"{BASE}/assets/img/hotel-wastlhof-niederau-zomer.webp",
          "address": {"@type": "PostalAddress", "streetAddress": "Wildschönauerstraße Niederau 206",
@@ -163,9 +163,10 @@ urls = "".join(f'''  <url><loc>{c["url"]}</loc><lastmod>{TODAY}</lastmod>
 - Early 20th century: road through the Kundler Klamm to the Inn valley (covered wooden bridge 1913/14); today a footpath.
 - 14 January 1947: the first chairlift in Tyrol opened in Niederau (Niederau–Markbachjoch), built by engineer Sepp Hochmuth; the start of tourism in the valley.
 - 1995: an eight-seater gondola replaced the chairlift (today's Markbachjochbahn); 2022: 75th anniversary.
+- 2008/09: on the Lanerköpfl (also Lahnerköpfl), Niederau's home mountain, a fast four-seater chairlift with bubble (843–1,560 m, 1,400 persons/hour) replaced the old single chairlift. Demanding north slopes (Hochberg run); natural toboggan run of almost 6 km (736 m descent, average 14%) from the top station past Gseng-Alm and Laner-Alm.
 
 ## Partner
-- Hotel Wastlhof (partner of Niederau.nl): four-star wellness hotel run by the Brunner family for three generations, with indoor and year-round heated outdoor pool and its own riding stables (about 15 horses, including Haflingers), Wildschönauerstraße Niederau 206, 6314 Wildschönau, +43 5339 8247, https://www.hotelwastlhof.at/
+- Hotel Wastlhof (partner of Niederau.nl): four-star wellness hotel run by the Brunner family for three generations, with indoor and year-round heated outdoor pool and its own riding stables (about 15 horses, including Haflingers), Wildschönauerstraße Niederau 206, 6314 Wildschönau, +43 5339 8247, info@hotelwastlhof.at, https://www.hotelwastlhof.at/
 
 ## Pages
 - [Nederlands]({BASE}/): Niederau en de Wildschönau

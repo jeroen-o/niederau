@@ -65,7 +65,7 @@ p { margin: 0 0 1em; }
 .lang a[aria-current="true"] { color: var(--accent); font-weight: 800; }
 .menu-btn { display: none; margin-left: auto; background: var(--card); border: 0; border-radius: 999px; padding: 6px 10px; color: var(--ink); font: inherit; cursor: pointer; }
 
-@media (max-width: 1240px) {
+@media (max-width: 1300px) {
   .menu-btn { display: block; }
   .nav { display: none; position: absolute; top: 64px; left: 0; right: 0; flex-direction: column; align-items: stretch; background: var(--bg-alt); border-bottom: 1px solid var(--line); padding: 8px 16px 16px; }
   .nav.open { display: flex; }
@@ -207,7 +207,7 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 .season-line { font-weight: 600; margin-top: 4px; }
 .season-toggle { margin-left: 10px; font: inherit; font-size: .7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; cursor: pointer; border: 0; border-radius: 999px; padding: 4px 12px; background: var(--card); color: var(--ink-soft); }
 .season-toggle:hover { color: var(--accent); }
-@media (max-width: 1240px) { .season-toggle { margin: 8px 0 0; align-self: flex-start; } }
+@media (max-width: 1300px) { .season-toggle { margin: 8px 0 0; align-self: flex-start; } }
 
 /* Winter: koel licht, besneeuwde heuvels, vallende sneeuw */
 .snow { display: none; position: absolute; inset: 0; z-index: 1; pointer-events: none;
@@ -225,7 +225,7 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 
 
 /* ---------- Mobiel: grotere tikdoelen (min. 40–48 px) ---------- */
-@media (max-width: 1240px) {
+@media (max-width: 1300px) {
   .lang { gap: 8px; }
   .lang a { padding: 10px 16px; font-size: .8rem; }
   .season-toggle { padding: 10px 18px; font-size: .8rem; }
