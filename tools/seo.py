@@ -14,7 +14,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 BASE = "https://niederau.nl"
 TODAY = datetime.date.today().isoformat()
 LAT, LON, ELEV = 47.4446, 12.0789, 828
-OG_IMAGE = f"{BASE}/assets/img/og-niederau.jpg"
+OG_IMAGE = f"{BASE}/assets/img/niederau-wildschoenau-tirol-1200x630.jpg"
 
 LANGS = {
     "nl": {"file": "index.html", "url": f"{BASE}/", "locale": "nl_NL",
@@ -82,7 +82,7 @@ def build(lang, cfg, page):
          "description": cfg["hotel"], "url": "https://www.hotelwastlhof.at/",
          "telephone": "+43 5339 8247",
          "starRating": {"@type": "Rating", "ratingValue": 4},
-         "image": f"{BASE}/assets/img/wastlhof-zomer.webp",
+         "image": f"{BASE}/assets/img/hotel-wastlhof-niederau-zomer.webp",
          "address": {"@type": "PostalAddress", "streetAddress": "Wildschönauerstraße Niederau 206",
                      "postalCode": "6314", "addressLocality": "Wildschönau", "addressCountry": "AT"},
          "containedInPlace": {"@id": f"{BASE}/#niederau"}},

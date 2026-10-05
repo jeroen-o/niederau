@@ -579,6 +579,15 @@ H_DE = [
 T["en"] += list(zip(H_NL, H_EN))
 T["de"] += list(zip(H_NL, H_DE))
 
+Z_NL = ["Wandelaars kijken uit over het groene hoogdal van de Wildschönau in de zomer",
+        "Brettljause op een almterras met uitzicht over de Kitzbüheler Alpen in de Wildschönau"]
+Z_EN = ["Hikers looking out over the green Wildschönau high valley in summer",
+        "Brettljause on an alpine hut terrace with views over the Kitzbühel Alps in the Wildschönau"]
+Z_DE = ["Wanderer blicken im Sommer über das grüne Hochtal der Wildschönau",
+        "Brettljause auf einer Almterrasse mit Blick über die Kitzbüheler Alpen in der Wildschönau"]
+T["en"] += list(zip(Z_NL, Z_EN))
+T["de"] += list(zip(Z_NL, Z_DE))
+
 ok = True
 for lang in ("en", "de"):
     html = src
