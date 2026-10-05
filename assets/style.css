@@ -1,0 +1,266 @@
+/* Niederau.nl — gedeelde stijl voor NL / EN / DE */
+:root {
+  --ink: #1d2a2f;
+  --ink-soft: #4a5a60;
+  --bg: #fbfaf6;
+  --bg-alt: #f1efe7;
+  --card: #ffffff;
+  --line: #e2ded2;
+  --pine: #1f4d3f;
+  --pine-dark: #143329;
+  --sky: #dbe9f0;
+  --accent: #c0392b;      /* Tiroler rood */
+  --accent-soft: #f6e3e0;
+  --gold: #b88a2e;
+  --radius: 14px;
+  --shadow: 0 6px 24px rgba(20, 40, 35, .08);
+  --max: 1120px;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #e9ece8;
+    --ink-soft: #b3bcb8;
+    --bg: #111a17;
+    --bg-alt: #17221e;
+    --card: #1c2925;
+    --line: #2b3a35;
+    --pine: #7fc2a6;
+    --pine-dark: #0c1512;
+    --sky: #1a2a30;
+    --accent: #e36b5d;
+    --accent-soft: #3a2421;
+    --gold: #d9b15c;
+    --shadow: 0 6px 24px rgba(0, 0, 0, .35);
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 72px; }
+body {
+  margin: 0;
+  font: 17px/1.65 var(--sans);
+  color: var(--ink);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+img, svg { max-width: 100%; display: block; }
+a { color: var(--pine); text-underline-offset: 3px; }
+a:hover { color: var(--accent); }
+h1, h2, h3 { font-family: var(--serif); line-height: 1.2; margin: 0 0 .5em; font-weight: 600; }
+h2 { font-size: clamp(1.8rem, 3.5vw, 2.5rem); }
+h3 { font-size: 1.25rem; }
+p { margin: 0 0 1em; }
+
+.wrap { width: min(var(--max), 100% - 32px); margin-inline: auto; }
+.skip { position: absolute; left: -999px; top: 0; background: var(--pine); color: #fff; padding: 8px 14px; z-index: 100; }
+.skip:focus { left: 8px; top: 8px; }
+
+/* ---------- Header ---------- */
+.site-header {
+  position: sticky; top: 0; z-index: 50;
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: saturate(1.4) blur(10px);
+  border-bottom: 1px solid var(--line);
+}
+.site-header .wrap { display: flex; align-items: center; gap: 20px; height: 64px; }
+.brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); font-family: var(--serif); font-size: 1.3rem; font-weight: 600; }
+.brand svg { width: 30px; height: 30px; }
+.brand small { font-family: var(--sans); font-size: .72rem; color: var(--ink-soft); font-weight: 400; display: block; line-height: 1; letter-spacing: .04em; }
+.nav { margin-left: auto; display: flex; align-items: center; gap: 4px; }
+.nav a { text-decoration: none; color: var(--ink); padding: 8px 10px; border-radius: 8px; font-size: .95rem; }
+.nav a:hover { background: var(--bg-alt); color: var(--pine); }
+.lang { display: flex; gap: 2px; margin-left: 10px; border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+.lang a { padding: 3px 10px; border-radius: 999px; font-size: .8rem; font-weight: 600; text-decoration: none; color: var(--ink-soft); }
+.lang a[aria-current="true"] { background: var(--pine); color: #fff; }
+.menu-btn { display: none; margin-left: auto; background: none; border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; color: var(--ink); font: inherit; cursor: pointer; }
+
+@media (max-width: 900px) {
+  .menu-btn { display: block; }
+  .nav { display: none; position: absolute; top: 64px; left: 0; right: 0; flex-direction: column; align-items: stretch; background: var(--bg); border-bottom: 1px solid var(--line); padding: 8px 16px 16px; }
+  .nav.open { display: flex; }
+  .nav a { padding: 12px 10px; }
+  .lang { margin: 8px 0 0; align-self: flex-start; }
+  .header-lang { margin-left: 0; }
+}
+
+/* ---------- Hero ---------- */
+.hero {
+  position: relative; overflow: hidden;
+  background: linear-gradient(180deg, #9fc6dc 0%, #cfe3ec 45%, #eef4ef 100%);
+  color: #10231d;
+  min-height: min(88vh, 760px);
+  display: flex; align-items: center;
+}
+@media (prefers-color-scheme: dark) {
+  .hero { background: linear-gradient(180deg, #0d1c2a 0%, #1b3242 50%, #233a35 100%); color: #f2f5f1; }
+}
+.hero-art { position: absolute; inset: auto 0 0 0; width: 100%; height: 62%; }
+.hero-art svg { width: 100%; height: 100%; }
+.hero .wrap { position: relative; z-index: 2; padding: 80px 0 180px; }
+.eyebrow { text-transform: uppercase; letter-spacing: .16em; font-size: .78rem; font-weight: 700; color: var(--accent); margin-bottom: 14px; }
+.hero h1 { font-size: clamp(2.6rem, 7vw, 5rem); margin-bottom: .2em; letter-spacing: -.01em; }
+.hero .lead { font-size: clamp(1.1rem, 2vw, 1.35rem); max-width: 40ch; }
+.hero-facts { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; padding: 0; list-style: none; }
+.hero-facts li { background: rgba(255,255,255,.75); color: #10231d; border-radius: 999px; padding: 6px 14px; font-size: .9rem; font-weight: 600; }
+@media (prefers-color-scheme: dark) { .hero-facts li { background: rgba(0,0,0,.35); color: #f2f5f1; } }
+.btns { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 30px; }
+.btn { display: inline-block; padding: 12px 22px; border-radius: 999px; text-decoration: none; font-weight: 600; background: var(--pine); color: #fff; border: 2px solid var(--pine); }
+.btn:hover { background: var(--pine-dark); border-color: var(--pine-dark); color: #fff; }
+.btn.ghost { background: transparent; color: inherit; border-color: currentColor; }
+.btn.ghost:hover { background: rgba(255,255,255,.3); color: inherit; }
+
+/* ---------- Secties ---------- */
+section { padding: 88px 0; }
+section.alt { background: var(--bg-alt); }
+.section-head { max-width: 720px; margin-bottom: 40px; }
+.section-head p { color: var(--ink-soft); font-size: 1.1rem; }
+
+.grid { display: grid; gap: 22px; }
+.grid-2 { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+.grid-3 { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+.grid-4 { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+
+.card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 26px; box-shadow: var(--shadow); }
+.card h3 { display: flex; align-items: center; gap: 10px; }
+.card p:last-child, .card ul:last-child { margin-bottom: 0; }
+.ico { width: 40px; height: 40px; flex: none; border-radius: 10px; background: var(--accent-soft); color: var(--accent); display: grid; place-items: center; }
+.ico svg { width: 22px; height: 22px; }
+
+.split { display: grid; grid-template-columns: 1.1fr .9fr; gap: 48px; align-items: center; }
+@media (max-width: 860px) { .split { grid-template-columns: 1fr; gap: 28px; } }
+
+.facts { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.facts li { background: var(--card); padding: 18px 20px; }
+.facts strong { display: block; font-family: var(--serif); font-size: 1.5rem; color: var(--pine); }
+.facts span { font-size: .9rem; color: var(--ink-soft); }
+
+.check { list-style: none; padding: 0; margin: 0 0 1em; }
+.check li { position: relative; padding-left: 26px; margin-bottom: 8px; }
+.check li::before { content: ""; position: absolute; left: 2px; top: .55em; width: 12px; height: 7px; border-left: 2px solid var(--accent); border-bottom: 2px solid var(--accent); transform: rotate(-45deg); }
+
+/* Seizoenen-tabs */
+.season-switch { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 4px; background: var(--card); margin-bottom: 32px; }
+.season-switch button { font: inherit; font-weight: 600; border: 0; background: none; color: var(--ink-soft); padding: 8px 20px; border-radius: 999px; cursor: pointer; }
+.season-switch button[aria-selected="true"] { background: var(--pine); color: #fff; }
+.season-panel[hidden] { display: none; }
+
+/* Dorpen */
+.village { position: relative; overflow: hidden; }
+.village .alt-badge { position: absolute; top: 18px; right: 18px; font-size: .8rem; font-weight: 700; color: var(--pine); background: var(--sky); padding: 3px 10px; border-radius: 999px; }
+.village.here { border-color: var(--accent); }
+.village.here .alt-badge { background: var(--accent); color: #fff; }
+
+/* Tijdlijn */
+.timeline { list-style: none; margin: 0; padding: 0; border-left: 2px solid var(--line); }
+.timeline li { position: relative; padding: 0 0 26px 26px; }
+.timeline li::before { content: ""; position: absolute; left: -8px; top: 6px; width: 14px; height: 14px; border-radius: 50%; background: var(--bg); border: 3px solid var(--accent); }
+.timeline .when { font-weight: 700; color: var(--accent); font-size: .9rem; letter-spacing: .04em; }
+
+/* Quote / persoonlijk */
+.personal { background: var(--pine); color: #f1f6f2; }
+.personal h2, .personal a { color: #fff; }
+.personal .section-head p { color: #cfe2d8; }
+.big-number { font-family: var(--serif); font-size: clamp(5rem, 14vw, 9rem); line-height: 1; color: #f5d27a; font-weight: 600; }
+blockquote { margin: 0; font-family: var(--serif); font-size: 1.35rem; line-height: 1.5; border-left: 3px solid #f5d27a; padding-left: 22px; }
+
+/* Bereikbaarheid */
+.route { counter-reset: step; list-style: none; padding: 0; margin: 0; }
+.route li { counter-increment: step; position: relative; padding: 0 0 18px 48px; }
+.route li::before { content: counter(step); position: absolute; left: 0; top: 0; width: 32px; height: 32px; border-radius: 50%; background: var(--pine); color: #fff; display: grid; place-items: center; font-weight: 700; font-size: .9rem; }
+
+.map-card svg { width: 100%; height: auto; }
+.map-card text { font-family: var(--sans); }
+
+/* FAQ */
+details { border-bottom: 1px solid var(--line); padding: 18px 0; }
+details summary { cursor: pointer; font-weight: 600; font-size: 1.05rem; list-style: none; display: flex; justify-content: space-between; gap: 16px; }
+details summary::-webkit-details-marker { display: none; }
+details summary::after { content: "+"; font-size: 1.4rem; line-height: 1; color: var(--accent); }
+details[open] summary::after { content: "–"; }
+details p { margin: 12px 0 0; color: var(--ink-soft); }
+
+/* Links */
+.links { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+.links a { display: block; padding: 16px 18px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; text-decoration: none; color: var(--ink); }
+.links a:hover { border-color: var(--pine); }
+.links small { display: block; color: var(--ink-soft); }
+.note { font-size: .88rem; color: var(--ink-soft); }
+
+/* Footer */
+.site-footer { background: var(--pine-dark); color: #c7d6cf; padding: 48px 0 32px; font-size: .92rem; }
+.site-footer a { color: #fff; }
+.site-footer .wrap { display: grid; gap: 28px; grid-template-columns: 2fr 1fr 1fr; }
+@media (max-width: 760px) { .site-footer .wrap { grid-template-columns: 1fr; } }
+.site-footer h4 { color: #fff; margin: 0 0 10px; font-size: 1rem; }
+.site-footer ul { list-style: none; padding: 0; margin: 0; }
+.site-footer li { margin-bottom: 6px; }
+.site-footer .lang { border-color: rgba(255,255,255,.2); display: inline-flex; }
+.site-footer .lang a { color: #c7d6cf; }
+.copyright { grid-column: 1 / -1; border-top: 1px solid rgba(255,255,255,.12); padding-top: 18px; font-size: .82rem; }
+
+
+/* ---------- Aanbevolen verblijf ---------- */
+.stay-grid { display: grid; grid-template-columns: 1.3fr 1fr; gap: 28px; align-items: start; }
+@media (max-width: 860px) { .stay-grid { grid-template-columns: 1fr; } }
+.stay-photos figure { margin: 0; }
+.stay-main img { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius); box-shadow: var(--shadow); }
+.stay-thumbs { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 12px; }
+.stay-thumbs img { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px; }
+.ad-label { display: inline-block; font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft); background: var(--bg-alt); border: 1px solid var(--line); padding: 2px 8px; border-radius: 6px; margin-bottom: 10px; }
+
+/* ---------- Seizoenen: winter (1 okt – 31 mrt) / zomer (1 apr – 30 sep) ---------- */
+[data-season="winter"] [data-only="summer"],
+[data-season="summer"] [data-only="winter"] { display: none !important; }
+.season-line { font-weight: 600; margin-top: 4px; }
+.season-toggle { margin-left: 10px; font: inherit; font-size: .8rem; font-weight: 600; cursor: pointer; border: 1px solid var(--line); border-radius: 999px; padding: 5px 12px; background: var(--card); color: var(--ink); }
+.season-toggle:hover { border-color: var(--pine); color: var(--pine); }
+@media (max-width: 900px) { .season-toggle { margin: 8px 0 0; align-self: flex-start; } }
+
+/* Winter: koel licht, besneeuwde heuvels, vallende sneeuw */
+[data-season="winter"] { --accent: #2f6fa3; --accent-soft: #e1edf7; --gold: #7fa7c9; }
+[data-season="winter"] .hero { background: linear-gradient(180deg, #b9cfe0 0%, #e3edf4 55%, #f7fafc 100%); }
+[data-season="winter"] .hill-far { fill: #c9d8e4; opacity: 1; }
+[data-season="winter"] .hill-mid { fill: #e6eef4; }
+[data-season="winter"] .hill-near { fill: #f4f8fb; }
+[data-season="winter"] .hill-front { fill: #ffffff; }
+[data-season="winter"] .trees { fill: #2a4a44; }
+[data-season="winter"] .personal { background: #1e3a52; }
+[data-season="winter"] .site-footer { background: #13283a; }
+@media (prefers-color-scheme: dark) {
+  [data-season="winter"] { --accent: #8cbbe3; --accent-soft: #1d2e3c; }
+  [data-season="winter"] .hero { background: linear-gradient(180deg, #0c1826 0%, #1c3044 55%, #2a3f52 100%); }
+  [data-season="winter"] .hill-far { fill: #5d7487; }
+  [data-season="winter"] .hill-mid { fill: #8197a8; }
+  [data-season="winter"] .hill-near { fill: #a9bac7; }
+  [data-season="winter"] .hill-front { fill: #c9d5de; }
+}
+.snow { display: none; position: absolute; inset: 0; z-index: 1; pointer-events: none;
+  background-image:
+    radial-gradient(2px 2px at 20px 30px, #fff 50%, transparent 51%),
+    radial-gradient(3px 3px at 120px 80px, #fff 50%, transparent 51%),
+    radial-gradient(2px 2px at 200px 150px, #fff 50%, transparent 51%),
+    radial-gradient(3px 3px at 300px 40px, #fff 50%, transparent 51%),
+    radial-gradient(2px 2px at 380px 200px, #fff 50%, transparent 51%);
+  background-size: 400px 260px; opacity: .9; animation: snowfall 14s linear infinite; }
+[data-season="winter"] .snow { display: block; }
+@keyframes snowfall { to { background-position: 60px 260px, -40px 260px, 30px 260px, -20px 260px, 50px 260px; } }
+
+/* Zomer: warm groen, zonnige accenten */
+[data-season="summer"] .hero { background: linear-gradient(180deg, #8ec5e6 0%, #cfe8f2 45%, #eef6e8 100%); }
+[data-season="summer"] .hill-mid { fill: #6aa37f; }
+[data-season="summer"] .hill-near { fill: #3f8a5c; }
+[data-season="summer"] .hill-front { fill: #2c6b45; }
+@media (prefers-color-scheme: dark) {
+  [data-season="summer"] .hero { background: linear-gradient(180deg, #0d1c2a 0%, #1b3242 50%, #233a35 100%); }
+}
+@media (prefers-reduced-motion: reduce) { .snow { animation: none; } }
+
+@media print {
+  .site-header, .hero-art, .snow, .season-toggle, .menu-btn, .season-switch { display: none !important; }
+  .season-panel[hidden] { display: block !important; }
+  section { padding: 24px 0; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
