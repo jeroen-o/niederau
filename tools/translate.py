@@ -663,6 +663,13 @@ ACT = [('<li><strong>Skiën en snowboarden</strong> – vanaf het Markbachjoch e
 T["en"] += [(a, b) for a, b, c in ACT] + [('<a href="#activities">Activiteiten</a>', '<a href="#activities">Activities</a>')]
 T["de"] += [(a, c) for a, b, c in ACT] + [('<a href="#aktivitaeten">Activiteiten</a>', '<a href="#aktivitaeten">Aktivitäten</a>')]
 
+VVV = [('<h3>Meer accommodatie en informatie: het toeristenbureau</h3>', '<h3>More accommodation and information: the tourist office</h3>', '<h3>Weitere Unterkünfte und Infos: der Tourismusverband</h3>'), ('Zoek je een ander adres, zoals een pension, vakantiewoning of boerderij? Of wil je weten wat er deze week te doen is? Dan kun je terecht bij het toeristenbureau van het dal, Wildschönau Tourismus. Daar vind je accommodatie in alle vier de dorpen, het evenementenprogramma en actuele informatie over liften, loipes en wandelroutes.', 'Looking for somewhere else to stay, such as a guesthouse, holiday flat or farm? Or want to know what’s on this week? The valley’s tourist office, Wildschönau Tourismus, can help. It lists accommodation in all four villages, the events programme and up-to-date information on lifts, trails and hiking routes.', 'Sie suchen eine andere Unterkunft, etwa eine Pension, Ferienwohnung oder einen Bauernhof? Oder möchten wissen, was diese Woche los ist? Dann hilft der Tourismusverband des Tals, Wildschönau Tourismus, weiter – mit Unterkünften in allen vier Dörfern, dem Veranstaltungsprogramm und aktuellen Infos zu Liften, Loipen und Wanderwegen.'), ('Het kantoor zit in Oberau, op een paar minuten rijden van Niederau. Kijk voor de openingstijden op de website.', 'The office is in Oberau, a few minutes’ drive from Niederau. See the website for opening hours.', 'Das Büro befindet sich in Oberau, wenige Autominuten von Niederau entfernt. Öffnungszeiten siehe Website.'), ('href="https://www.wildschoenau.com/nl" rel="noopener" target="_blank">Naar wildschoenau.com</a>', 'href="https://www.wildschoenau.com/en" rel="noopener" target="_blank">Visit wildschoenau.com</a>', 'href="https://www.wildschoenau.com/" rel="noopener" target="_blank">Zu wildschoenau.com</a>'), ('6311 Wildschönau, Oostenrijk', '6311 Wildschönau, Austria', '6311 Wildschönau, Österreich')]
+T["en"] += [(a, b) for a, b, c in VVV]
+T["de"] += [(a, c) for a, b, c in VVV]
+
+T["en"] += [('<span class="ad-label">VVV</span>', '<span class="ad-label">Tourist info</span>')]
+T["de"] += [('<span class="ad-label">VVV</span>', '<span class="ad-label">Tourist-Info</span>')]
+
 ok = True
 for lang in ("en", "de"):
     html = src
