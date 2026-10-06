@@ -1,0 +1,1994 @@
+[
+ {
+  "id": "w49",
+  "drop": true,
+  "drop_reason": "Geen avondrit/zonsondergangprogramma bij de Schatzbergbahn bevestigd; winteropenstelling eindigt rond 16:30 (bron: wildschoenau.com).",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "w8",
+  "drop": true,
+  "drop_reason": "Geen husky-sledetocht in de Wildschönau gevonden; kon niet worden bevestigd.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "w9",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "horse-drawn-sleigh-ride-wildschoenau",
+  "slug_de": "pferdeschlittenfahrt-wildschoenau",
+  "title": {
+   "nl": "Paardenslederit in de Wildschönau",
+   "en": "Horse-drawn sleigh ride in the Wildschönau",
+   "de": "Pferdeschlittenfahrt in der Wildschönau"
+  },
+  "tagline": {
+   "nl": "Op dekens door de sneeuw, getrokken door paarden",
+   "en": "Wrapped in blankets through the snow, pulled by horses",
+   "de": "In Decken gehüllt durch den Schnee, gezogen von Pferden"
+  },
+  "intro": {
+   "nl": "In de winter kun je in de Wildschönau een rit maken met een paardenslee. Je zit onder een deken terwijl de paarden je op een rustig tempo langs besneeuwde weiden en bossen trekken. Het is een ontspannen manier om het winterlandschap te zien, ook als je niet skiet.\n\nAanbieders in het dal werken meestal op afspraak en rijden vaak voor minimaal twee personen. Een bekend adres is de Jausenstation Foisching, waar de ritten volgens de toeristische informatie op de meeste dagen worden aangeboden, maar niet op maandag en dinsdag. Er zijn ook koetsiers die een rit naar een alm combineren met een stop voor een hapje of drankje.",
+   "en": "In winter you can take a horse-drawn sleigh ride in the Wildschönau. You sit under a blanket while the horses pull you at an unhurried pace past snowy meadows and woods. It is a relaxed way to see the winter landscape, even if you do not ski.\n\nOperators in the valley usually work by appointment and often run rides for a minimum of two people. One known address is the Jausenstation Foisching, where, according to tourist information, rides are offered on most days but not on Mondays and Tuesdays. Some drivers also combine a ride to an alpine hut with a stop for a snack or a drink.",
+   "de": "Im Winter kannst du in der Wildschönau eine Fahrt mit dem Pferdeschlitten machen. Du sitzt unter einer Decke, während die Pferde dich gemächlich an verschneiten Wiesen und Wäldern vorbeiziehen. Das ist eine entspannte Art, die Winterlandschaft zu erleben, auch wenn du nicht Ski fährst.\n\nDie Anbieter im Tal arbeiten meist nach Voranmeldung und fahren oft ab zwei Personen. Eine bekannte Adresse ist die Jausenstation Foisching, wo die Fahrten laut Tourismusinformation an den meisten Tagen angeboten werden, nicht aber montags und dienstags. Manche Kutscher verbinden die Fahrt auch mit einem Halt auf einer Alm."
+  },
+  "tips": {
+   "nl": [
+    "Kleed je warm aan: je zit stil en het kan fris zijn.",
+    "Reserveer vooraf, ook voor een rit met kinderen.",
+    "Vraag bij het boeken naar de duur en de route.",
+    "Een rit is ook een mooi cadeau voor opa en oma."
+   ],
+   "en": [
+    "Dress warmly: you sit still and it can get chilly.",
+    "Book ahead, including for rides with children.",
+    "Ask about the duration and route when booking.",
+    "A ride also makes a nice gift for grandparents."
+   ],
+   "de": [
+    "Zieh dich warm an: du sitzt still und es kann kühl werden.",
+    "Melde dich vorab an, auch für Fahrten mit Kindern.",
+    "Frag beim Buchen nach Dauer und Route.",
+    "Eine Fahrt ist auch ein schönes Geschenk für die Großeltern."
+   ]
+  },
+  "practical": {
+   "nl": "Vertrek vanaf het adres van de aanbieder in het dal; boek vooraf via het toeristenbureau, je hotel of de aanbieder zelf. De rit begint ca. 10 tot 20 minuten rijden van Niederau, afhankelijk van de aanbieder.",
+   "en": "Rides start at the operator's address in the valley; book ahead through the tourist office, your hotel or the operator. The starting point is roughly 10 to 20 minutes by car from Niederau, depending on the operator.",
+   "de": "Start ist die Adresse des Anbieters im Tal; buche vorab über das Tourismusbüro, dein Hotel oder direkt beim Anbieter. Der Startpunkt liegt je nach Anbieter ca. 10 bis 20 Fahrminuten von Niederau entfernt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Wisselt per aanbieder",
+    "en": "Varies by operator",
+    "de": "Je nach Anbieter verschieden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 10–20 min rijden",
+    "en": "Approx. 10–20 min by car",
+    "de": "Ca. 10–20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke dagen rijden de paardenslee's?",
+     "en": "Which days do the sleigh rides run?",
+     "de": "An welchen Tagen fahren die Pferdeschlitten?"
+    },
+    "a": {
+     "nl": "Dat hangt af van de aanbieder. Bij Jausenstation Foisching wordt niet gereden op maandag en dinsdag; vraag bij andere aanbieders vooraf naar de dagen.",
+     "en": "It depends on the operator. At Jausenstation Foisching there are no rides on Mondays and Tuesdays; ask other operators about their days in advance.",
+     "de": "Das hängt vom Anbieter ab. Bei der Jausenstation Foisching gibt es montags und dienstags keine Fahrten; bei anderen Anbietern frag vorab nach den Tagen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s103",
+  "drop": true,
+  "drop_reason": "Georganiseerd meehooien voor bezoekers in de Wildschönau niet gevonden; niet te bevestigen.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s105",
+  "drop": true,
+  "drop_reason": "Imkerbezoek met honingproeverij in de Wildschönau niet gevonden; niet te bevestigen.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s114",
+  "drop": true,
+  "drop_reason": "Kasperle-poppentheater in de Wildschönau niet gevonden; niet te bevestigen.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s118",
+  "drop": true,
+  "drop_reason": "Alpenhoorncursus in de Wildschönau niet gevonden; niet te bevestigen.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s119",
+  "drop": false,
+  "drop_reason": "",
+  "place": "thierbach",
+  "slug_en": "thierbach-village-walk",
+  "slug_de": "dorfspaziergang-thierbach",
+  "title": {
+   "nl": "Dorpswandeling Thierbach",
+   "en": "Village walk in Thierbach",
+   "de": "Dorfspaziergang in Thierbach"
+  },
+  "tagline": {
+   "nl": "Het rustige achterste dorp van de Wildschönau",
+   "en": "The quiet inner end of the Wildschönau valley",
+   "de": "Das ruhige hintere Ende der Wildschönau"
+  },
+  "intro": {
+   "nl": "Thierbach is een van de dorpen van de Wildschönau en ligt in het stillere, verder gelegen deel van het dal. Je ziet er Tiroolse boerderijen, een kerkje en weiden met uitzicht op de omliggende bergen. Er zijn geen grote attracties, juist daarom is het een prettige plek voor een ontspannen wandeling.\n\nEen rondje door het dorp en de omgeving kost al snel een uur tot anderhalf uur. Het tempo bepaal je zelf en de route is goed te doen met kinderen en een wandelwagen op de verharde stukken. Voor wie meer wil, beginnen vanuit Thierbach ook langere wandelingen; de Wildschönau noemt Thierbach bovendien als plek voor natuurontdekking met kinderen.",
+   "en": "Thierbach is one of the villages of the Wildschönau and lies in the quieter, more remote part of the valley. You will find Tyrolean farmhouses, a small church and meadows with views of the surrounding mountains. There are no big attractions, which is exactly why it makes a pleasant place for an unhurried walk.\n\nA loop through the village and its surroundings easily takes an hour to an hour and a half. You set the pace, and the paved sections are manageable with children and a pushchair. If you want more, longer hikes also start from Thierbach, and the Wildschönau mentions Thierbach as a place for nature discovery with children.",
+   "de": "Thierbach ist eines der Dörfer der Wildschönau und liegt im ruhigeren, weiter hinten gelegenen Teil des Tals. Du findest hier Tiroler Bauernhöfe, eine kleine Kirche und Wiesen mit Blick auf die umliegenden Berge. Große Attraktionen gibt es nicht, und genau deshalb ist es ein angenehmer Ort für einen gemütlichen Spaziergang.\n\nEine Runde durch das Dorf und die Umgebung dauert schnell eine bis anderthalb Stunden. Das Tempo bestimmst du selbst, und auf den befestigten Abschnitten kommst du auch mit Kindern und Kinderwagen gut voran. Wer mehr möchte, startet von Thierbach aus zu längeren Wanderungen; die Wildschönau nennt Thierbach außerdem als Ort für Naturentdeckungen mit Kindern."
+  },
+  "tips": {
+   "nl": [
+    "Neem een snack en water mee; in een klein dorp zijn weinig voorzieningen.",
+    "Laat de auto bij het dorp staan en loop een rondje.",
+    "Combineer de wandeling met een eenvoudige wandelroute omhoog.",
+    "Let op weidegrond en laat koeien met rust."
+   ],
+   "en": [
+    "Bring a snack and water; a small village has few facilities.",
+    "Leave the car in the village and walk a loop.",
+    "Combine the walk with an easy hike up the slopes.",
+    "Respect pasture land and leave cows alone."
+   ],
+   "de": [
+    "Nimm Snack und Wasser mit; in einem kleinen Dorf gibt es wenig Einkehrmöglichkeiten.",
+    "Stell das Auto im Dorf ab und geh eine Runde zu Fuß.",
+    "Verbinde den Spaziergang mit einer einfachen Wanderung bergauf.",
+    "Achte auf Weideland und lass die Kühe in Ruhe."
+   ]
+  },
+  "practical": {
+   "nl": "Thierbach ligt ca. 10 minuten rijden van Niederau, op het achterste deel van het dal. Je kunt ook lopen of de wandelbus nemen; vraag naar de actuele dienstregeling.",
+   "en": "Thierbach is roughly 10 minutes by car from Niederau, at the far end of the valley. You can also walk or take the hiking bus; ask about the current timetable.",
+   "de": "Thierbach liegt ca. 10 Fahrminuten von Niederau entfernt am hinteren Ende des Tals. Du kannst auch zu Fuß gehen oder den Wanderbus nehmen; erkundige dich nach dem aktuellen Fahrplan."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 10 min rijden",
+    "en": "Approx. 10 min by car",
+    "de": "Ca. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (vooral zomer)",
+    "en": "All year (mainly summer)",
+    "de": "Ganzjährig (vor allem Sommer)"
+   }
+  },
+  "location": {
+   "nl": "Thierbach, Wildschönau",
+   "en": "Thierbach, Wildschönau",
+   "de": "Thierbach, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Thierbach geschikt voor kinderen?",
+     "en": "Is Thierbach suitable for children?",
+     "de": "Ist Thierbach für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, de wandeling is rustig en niet moeilijk. Thierbach wordt in de Wildschönau ook genoemd als plek voor natuurontdekking met kinderen.",
+     "en": "Yes, the walk is quiet and not difficult. Thierbach is also mentioned in the Wildschönau as a place for nature discovery with children.",
+     "de": "Ja, der Spaziergang ist ruhig und nicht schwierig. Thierbach wird in der Wildschönau auch als Ort für Naturentdeckungen mit Kindern genannt."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s127",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "summer-concert-oberau",
+  "slug_de": "platzkonzert-oberau",
+  "title": {
+   "nl": "Platzkonzert in Oberau",
+   "en": "Open-air band concert in Oberau",
+   "de": "Platzkonzert in Oberau"
+  },
+  "tagline": {
+   "nl": "Blaasmuziek van de dorpskapel op de dinsdagavond",
+   "en": "Brass band music from the village band on Tuesday evenings",
+   "de": "Blasmusik der Musikkapelle am Dienstagabend"
+  },
+  "intro": {
+   "nl": "In de zomer geeft de Bundesmusikkapelle Oberau een open-luchtconcert in het centrum van het dorp. Volgens de toeristische agenda is dat elke dinsdagavond om 20:00 uur, in 2026 van 7 juli tot en met 1 september, op het Dreizehnlindenplatz. Het programma loopt uiteen van traditionele blaasmuziek tot modernere klanken.\n\nHet is een eenvoudige, ontspannen avond: je zit of staat op het plein, luistert en ziet het dorp bij elkaar komen. Kinderen vinden de kleurige uniformen en de instrumenten meestal leuk. De toegang is vrij, al zijn weersomstandigheden en data aan verandering onderhevig.",
+   "en": "In summer the Bundesmusikkapelle Oberau gives an open-air concert in the village centre. According to the tourist events calendar it takes place every Tuesday evening at 8 pm, in 2026 from 7 July to 1 September, on the Dreizehnlindenplatz. The programme ranges from traditional brass music to more modern sounds.\n\nIt is a simple, relaxed evening: you sit or stand on the square, listen and watch the village come together. Children usually enjoy the colourful uniforms and the instruments. Entry is free, although dates and weather can change.",
+   "de": "Im Sommer spielt die Bundesmusikkapelle Oberau ein Konzert unter freiem Himmel im Ortszentrum. Laut Veranstaltungskalender findet es jeden Dienstagabend um 20:00 Uhr statt, 2026 vom 7. Juli bis 1. September auf dem Dreizehnlindenplatz. Das Programm reicht von traditioneller Blasmusik bis zu moderneren Klängen.\n\nEs ist ein unkomplizierter, entspannter Abend: Du sitzt oder stehst auf dem Platz, hörst zu und erlebst, wie das Dorf zusammenkommt. Kinder mögen meist die bunten Uniformen und die Instrumente. Der Eintritt ist frei; Termine und Wetter können sich aber ändern."
+  },
+  "tips": {
+   "nl": [
+    "Kom ruim op tijd voor een goede plek.",
+    "Neem een warme trui mee; het wordt 's avonds snel koeler.",
+    "Controleer de actuele data in de evenementenkalender.",
+    "Bij slecht weer kan het concert verplaatst worden."
+   ],
+   "en": [
+    "Arrive in good time for a good spot.",
+    "Bring a warm jumper; evenings cool down quickly.",
+    "Check the current dates in the events calendar.",
+    "In bad weather the concert may be moved."
+   ],
+   "de": [
+    "Komm rechtzeitig für einen guten Platz.",
+    "Nimm eine warme Jacke mit; abends wird es schnell kühl.",
+    "Prüfe die aktuellen Termine im Veranstaltungskalender.",
+    "Bei schlechtem Wetter kann das Konzert verlegt werden."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 minuten rijden van Niederau; je kunt ook de bus nemen of fietsen. Parkeren kan in het dorp.",
+   "en": "Oberau is roughly 5 minutes by car from Niederau; you can also take the bus or cycle. Parking is available in the village.",
+   "de": "Oberau liegt ca. 5 Fahrminuten von Niederau entfernt; du kannst auch Bus oder Fahrrad nehmen. Parken ist im Ort möglich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 5 min rijden",
+    "en": "Approx. 5 min by car",
+    "de": "Ca. 5 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (juli–september)",
+    "en": "Summer (July–September)",
+    "de": "Sommer (Juli–September)"
+   }
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is het concert in Oberau?",
+     "en": "When is the concert in Oberau?",
+     "de": "Wann findet das Konzert in Oberau statt?"
+    },
+    "a": {
+     "nl": "Volgens de agenda elke dinsdag om 20:00 uur, in 2026 tussen 7 juli en 1 september. Controleer de actuele data vooraf.",
+     "en": "According to the calendar every Tuesday at 8 pm, in 2026 between 7 July and 1 September. Check current dates beforehand.",
+     "de": "Laut Kalender jeden Dienstag um 20:00 Uhr, 2026 zwischen 7. Juli und 1. September. Bitte prüfe die aktuellen Termine vorab."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s132",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "hopfgarten-village-walk",
+  "slug_de": "dorfrundgang-hopfgarten",
+  "title": {
+   "nl": "Dorpsronde Hopfgarten",
+   "en": "Village stroll in Hopfgarten",
+   "de": "Dorfrundgang in Hopfgarten"
+  },
+  "tagline": {
+   "nl": "Marktgemeente aan de voet van de Hohe Salve",
+   "en": "A market village at the foot of the Hohe Salve",
+   "de": "Marktgemeinde am Fuß der Hohen Salve"
+  },
+  "intro": {
+   "nl": "Hopfgarten im Brixental is een marktgemeente aan de voet van de Hohe Salve, met smalle straten in het oude centrum. Het is een mooi stuk Brixental voor een korte wandeling tussen huizen, kerk en winkeltjes, zonder de drukte van een groot skidorp.\n\nIn Hopfgarten en het zijdal Kelchsau zijn boerderijwinkels en lokale producenten te vinden. Zo verkoopt de Bauernladl regionale producten van ongeveer 25 boeren, volgens de toeristische informatie op vrijdag (niet op feestdagen). Een wekelijkse boerenmarkt kon niet bevestigd worden, dus controleer dat vooraf als dat voor jou de reden is.",
+   "en": "Hopfgarten im Brixental is a market village at the foot of the Hohe Salve, with narrow lanes in the old centre. It is a pleasant corner of the Brixental for a short walk past houses, church and small shops, without the bustle of a large ski resort.\n\nHopfgarten and the side valley Kelchsau have farm shops and local producers. The Bauernladl sells regional products from about 25 farmers, according to tourist information on Fridays (not on public holidays). A weekly farmers' market could not be confirmed, so check beforehand if that is your reason to go.",
+   "de": "Hopfgarten im Brixental ist eine Marktgemeinde am Fuß der Hohen Salve mit engen Gassen im alten Ortskern. Es ist ein schöner Fleck im Brixental für einen kurzen Spaziergang vorbei an Häusern, Kirche und kleinen Geschäften, ohne den Trubel eines großen Skiortes.\n\nIn Hopfgarten und im Seitental Kelchsau gibt es Hofläden und regionale Produzenten. Der Bauernladl verkauft laut Tourismusinformation freitags (außer an Feiertagen) regionale Produkte von rund 25 Bauern. Einen wöchentlichen Bauernmarkt konnten wir nicht bestätigen; prüfe das also vorab, falls das dein Grund für den Besuch ist."
+  },
+  "tips": {
+   "nl": [
+    "Kijk bij het toeristenbureau voor actuele openingstijden van de Bauernladl.",
+    "Combineer de ronde met een wandeling of lift naar de Hohe Salve.",
+    "Neem contant geld mee voor kleine lokale winkels.",
+    "Plan de ronde buiten de middagpauze van winkels."
+   ],
+   "en": [
+    "Check with the tourist office for the Bauernladl's current opening hours.",
+    "Combine the stroll with a hike or lift up the Hohe Salve.",
+    "Bring some cash for small local shops.",
+    "Avoid the lunchtime closing of shops."
+   ],
+   "de": [
+    "Erkundige dich beim Infobüro nach den aktuellen Öffnungszeiten des Bauernladls.",
+    "Verbinde den Rundgang mit einer Wanderung oder Bergbahnfahrt zur Hohen Salve.",
+    "Nimm etwas Bargeld für kleine Läden mit.",
+    "Plane den Rundgang außerhalb der Mittagspause der Geschäfte."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten ligt ca. 25 minuten rijden van Niederau, via het dal en de B170 in het Brixental. Er is parkeergelegenheid in het centrum.",
+   "en": "Hopfgarten is roughly 25 minutes by car from Niederau, via the valley road and the B170 through the Brixental. Parking is available in the centre.",
+   "de": "Hopfgarten liegt ca. 25 Fahrminuten von Niederau entfernt, über die Talstraße und die B170 durch das Brixental. Im Zentrum gibt es Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min by car",
+    "de": "Ca. 25 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een wekelijkse markt in Hopfgarten?",
+     "en": "Is there a weekly market in Hopfgarten?",
+     "de": "Gibt es in Hopfgarten einen Wochenmarkt?"
+    },
+    "a": {
+     "nl": "Dat konden we niet bevestigen. Wel verkoopt de Bauernladl volgens de toeristische informatie op vrijdag regionale producten; vraag het actuele aanbod na.",
+     "en": "We could not confirm this. According to tourist information the Bauernladl does sell regional products on Fridays; check the current offer.",
+     "de": "Das konnten wir nicht bestätigen. Der Bauernladl verkauft laut Tourismusinformation freitags regionale Produkte; frag das aktuelle Angebot nach."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s136",
+  "drop": false,
+  "drop_reason": "",
+  "place": "westendorf",
+  "slug_en": "westendorf-village-walk",
+  "slug_de": "dorfrundgang-westendorf",
+  "title": {
+   "nl": "Dorpswandeling Westendorf",
+   "en": "Village walk in Westendorf",
+   "de": "Dorfspaziergang in Westendorf"
+  },
+  "tagline": {
+   "nl": "Een SkiWelt-dorp in het Brixental met kerk en winkels",
+   "en": "A Brixental SkiWelt village with church and shops",
+   "de": "Ein SkiWelt-Ort im Brixental mit Kirche und Geschäften"
+  },
+  "intro": {
+   "nl": "Westendorf is een dorp in het Brixental dat bij het skigebied SkiWelt hoort. Het centrum is overzichtelijk: een kerk, een rij huizen langs de hoofdstraat en een aantal winkels, bakkers en cafés. In de zomer is het rustig en gemoedelijk.\n\nEen rondje door het dorp past goed in een uur. Je kunt het combineren met een bezoek aan de plaatselijke Sennerei, de zuivelfabriek, die ook een winkeltje heeft. Vanuit Westendorf vertrekken bovendien liften en wandelroutes, bijvoorbeeld naar het Bergpark Alpinolino, een natuurbelevingspad met speelstations voor kinderen.",
+   "en": "Westendorf is a village in the Brixental that belongs to the SkiWelt ski area. The centre is easy to take in: a church, a row of houses along the main street and a handful of shops, bakeries and cafés. In summer it is quiet and friendly.\n\nA walk around the village fits neatly into an hour. You can combine it with a visit to the local Sennerei, the dairy, which also has a shop. Lifts and hiking routes start from Westendorf too, for instance to the Bergpark Alpinolino, a nature trail with play stations for children.",
+   "de": "Westendorf ist ein Ort im Brixental, der zum Skigebiet SkiWelt gehört. Das Zentrum ist überschaubar: eine Kirche, eine Häuserreihe entlang der Hauptstraße und einige Geschäfte, Bäckereien und Cafés. Im Sommer ist es ruhig und gemütlich.\n\nEine Runde durch den Ort passt gut in eine Stunde. Du kannst sie mit einem Besuch in der örtlichen Sennerei verbinden, die auch einen Laden hat. Von Westendorf starten außerdem Bergbahnen und Wanderwege, zum Beispiel zum Bergpark Alpinolino, einem Naturerlebnisweg mit Spielstationen für Kinder."
+  },
+  "tips": {
+   "nl": [
+    "Combineer de wandeling met een bezoek aan de Sennerei.",
+    "Probeer een lokale bakker voor een broodje onderweg.",
+    "Plan eventueel een uitstapje naar het Bergpark Alpinolino met kinderen.",
+    "Parkeer in het centrum en loop alles te voet."
+   ],
+   "en": [
+    "Combine the walk with a visit to the Sennerei.",
+    "Try a local bakery for a roll along the way.",
+    "Consider a trip to the Bergpark Alpinolino with children.",
+    "Park in the centre and walk everything on foot."
+   ],
+   "de": [
+    "Verbinde den Spaziergang mit einem Besuch in der Sennerei.",
+    "Probiere eine Bäckerei vor Ort für ein Semmerl unterwegs.",
+    "Plane mit Kindern ggf. einen Ausflug in den Bergpark Alpinolino.",
+    "Parke im Zentrum und gehe alles zu Fuß."
+   ]
+  },
+  "practical": {
+   "nl": "Westendorf ligt ca. 30 minuten rijden van Niederau, via de B170 in het Brixental.",
+   "en": "Westendorf is roughly 30 minutes by car from Niederau, via the B170 through the Brixental.",
+   "de": "Westendorf liegt ca. 30 Fahrminuten von Niederau entfernt, über die B170 durch das Brixental."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Westendorf, Brixental",
+   "en": "Westendorf, Brixental",
+   "de": "Westendorf, Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen te doen bij Westendorf?",
+     "en": "What is there for children near Westendorf?",
+     "de": "Was gibt es für Kinder in der Nähe von Westendorf?"
+    },
+    "a": {
+     "nl": "Het Bergpark Alpinolino bij Westendorf combineert natuurbeleving met een wandelpad en speelstations.",
+     "en": "The Bergpark Alpinolino near Westendorf combines nature education with a trail and play stations.",
+     "de": "Der Bergpark Alpinolino bei Westendorf verbindet Naturerlebnis mit einem Wanderweg und Spielstationen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s137",
+  "drop": false,
+  "drop_reason": "",
+  "place": "westendorf",
+  "slug_en": "sennerei-westendorf-dairy",
+  "slug_de": "sennerei-westendorf",
+  "title": {
+   "nl": "Sennerei Westendorf",
+   "en": "Sennerei Westendorf dairy",
+   "de": "Sennerei Westendorf"
+  },
+  "tagline": {
+   "nl": "Kaas en zuivel uit het Brixental, direct bij de maker",
+   "en": "Cheese and dairy from the Brixental, straight from the maker",
+   "de": "Käse und Milchprodukte aus dem Brixental, direkt vom Hersteller"
+  },
+  "intro": {
+   "nl": "De Sennerei Westendorf is een kleine, familiebedrijfachtige zuivelfabriek in het centrum van Westendorf. Er worden onder meer Tilsiter, Bergkäse, bierkaas en Brodakas gemaakt, daarnaast boter, yoghurt, room en kwark. De Brodakas is een specialiteit van het Brixental en volgens de bron alleen hier verkrijgbaar.\n\nBij de Sennerei hoort een winkeltje waar je de producten kunt kopen en proeven wat de streek te bieden heeft. Een georganiseerde kaastour met rondleiding kon niet worden bevestigd; vraag daarom ter plaatse of via het toeristenbureau of een bezoek achter de schermen mogelijk is. Het is een leuke stop als je lokale producten als souvenir wilt meenemen.",
+   "en": "The Sennerei Westendorf is a small, family-run dairy in the centre of Westendorf. Among other things it makes Tilsiter, Bergkäse, beer cheese and Brodakas, as well as butter, yoghurt, cream and curd. Brodakas is a Brixental speciality and, according to the source, only available here.\n\nThe dairy has a shop where you can buy the products and taste what the region has to offer. A organised cheese tour could not be confirmed, so ask on site or via the tourist office whether a look behind the scenes is possible. It is a nice stop if you want to take local products home as souvenirs.",
+   "de": "Die Sennerei Westendorf ist eine kleine, familiär geführte Käserei im Zentrum von Westendorf. Hergestellt werden unter anderem Tilsiter, Bergkäse, Bierkäse und Brodakas sowie Butter, Joghurt, Rahm und Topfen. Der Brodakas ist eine Brixentaler Spezialität und laut Quelle nur hier erhältlich.\n\nZur Sennerei gehört ein Laden, in dem du die Produkte kaufen und probieren kannst, was die Region zu bieten hat. Eine organisierte Käsereiführung konnten wir nicht bestätigen; frag vor Ort oder beim Tourismusbüro, ob ein Blick hinter die Kulissen möglich ist. Es ist ein schöner Stopp, wenn du regionale Produkte als Souvenir mitnehmen möchtest."
+  },
+  "tips": {
+   "nl": [
+    "Kijk vooraf naar de openingstijden; de winkel is niet de hele dag open.",
+    "Probeer de Brodakas, een specialiteit van het Brixental.",
+    "Koop kaas voor onderweg of als souvenir en houd hem koel.",
+    "Vraag of een rondleiding mogelijk is."
+   ],
+   "en": [
+    "Check opening hours beforehand; the shop is not open all day.",
+    "Try the Brodakas, a Brixental speciality.",
+    "Buy cheese for the road or as a souvenir and keep it cool.",
+    "Ask whether a tour is possible."
+   ],
+   "de": [
+    "Prüfe vorab die Öffnungszeiten; der Laden ist nicht ganztägig geöffnet.",
+    "Probiere den Brodakas, eine Brixentaler Spezialität.",
+    "Kaufe Käse für unterwegs oder als Souvenir und halte ihn kühl.",
+    "Frag nach, ob eine Führung möglich ist."
+   ]
+  },
+  "practical": {
+   "nl": "De Sennerei ligt in het centrum van Westendorf, ca. 30 minuten rijden van Niederau. De winkel is volgens de toeristische informatie op de meeste ochtenden open en op enkele middagen; controleer de actuele tijden.",
+   "en": "The Sennerei is in the centre of Westendorf, roughly 30 minutes by car from Niederau. According to tourist information the shop is open on most mornings and some afternoons; check current times.",
+   "de": "Die Sennerei liegt im Zentrum von Westendorf, ca. 30 Fahrminuten von Niederau entfernt. Der Laden ist laut Tourismusinformation an den meisten Vormittagen und einigen Nachmittagen geöffnet; prüfe die aktuellen Zeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 30 tot 60 min.",
+    "en": "Approx. 30 to 60 min.",
+    "de": "Ca. 30 bis 60 Min."
+   },
+   "price": {
+    "nl": "Gratis te bezoeken; producten zijn te koop",
+    "en": "Free to visit; products are for sale",
+    "de": "Besuch kostenlos; Produkte sind käuflich"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Westendorf, Brixental",
+   "en": "Westendorf, Brixental",
+   "de": "Westendorf, Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat maakt de Sennerei Westendorf?",
+     "en": "What does the Sennerei Westendorf make?",
+     "de": "Was stellt die Sennerei Westendorf her?"
+    },
+    "a": {
+     "nl": "Onder meer Tilsiter, Bergkäse, bierkaas en Brodakas, plus boter, yoghurt, room en kwark.",
+     "en": "Among other things Tilsiter, Bergkäse, beer cheese and Brodakas, plus butter, yoghurt, cream and curd.",
+     "de": "Unter anderem Tilsiter, Bergkäse, Bierkäse und Brodakas sowie Butter, Joghurt, Rahm und Topfen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s139",
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "soell-village-walk",
+  "slug_de": "dorfrundgang-soell",
+  "title": {
+   "nl": "Dorpswandeling Söll",
+   "en": "Village walk in Söll",
+   "de": "Dorfspaziergang in Söll"
+  },
+  "tagline": {
+   "nl": "Dorpscentrum met winkels, restaurants en kerk in SkiWelt",
+   "en": "A SkiWelt village centre with shops, restaurants and a church",
+   "de": "Ortszentrum mit Geschäften, Restaurants und Kirche in der SkiWelt"
+  },
+  "intro": {
+   "nl": "Söll ligt aan de voet van de Wilder Kaiser en hoort bij het skigebied SkiWelt. Het dorpscentrum is levendiger dan dat van veel buurdorpen: er zijn winkels, restaurants en cafés, een parochiekerk en sportvoorzieningen. In de zomer zijn er regelmatig evenementen in het dorp.\n\nEen wandeling door het centrum duurt ongeveer een uur en is goed te combineren met een koffiestop of een lunch. Het is een eenvoudige uitstap voor een dag waarop je geen grote plannen hebt, of voor een regenachtige middag waarop je een terras of winkel zoekt. Het landschap rondom, met de rotswanden van de Wilder Kaiser, geeft het dorp een mooie achtergrond.",
+   "en": "Söll lies at the foot of the Wilder Kaiser and belongs to the SkiWelt ski area. Its village centre is livelier than that of many neighbouring villages: there are shops, restaurants and cafés, a parish church and sports facilities. In summer there are regular events in the village.\n\nA walk through the centre takes about an hour and combines well with a coffee stop or lunch. It is an easy outing for a day without big plans, or for a showery afternoon when you are looking for a terrace or a shop. The surrounding landscape, with the rock faces of the Wilder Kaiser, gives the village a fine backdrop.",
+   "de": "Söll liegt am Fuß des Wilden Kaisers und gehört zum Skigebiet SkiWelt. Das Ortszentrum ist lebendiger als das vieler Nachbarorte: Es gibt Geschäfte, Restaurants und Cafés, eine Pfarrkirche und Sporteinrichtungen. Im Sommer finden im Ort regelmäßig Veranstaltungen statt.\n\nEin Spaziergang durch das Zentrum dauert etwa eine Stunde und lässt sich gut mit einer Kaffeepause oder dem Mittagessen verbinden. Es ist ein einfacher Ausflug für einen Tag ohne große Pläne oder für einen verregneten Nachmittag, an dem du eine Terrasse oder ein Geschäft suchst. Die Landschaft ringsum mit den Felswänden des Wilden Kaisers gibt dem Ort eine schöne Kulisse."
+  },
+  "tips": {
+   "nl": [
+    "Kijk bij het toeristenbureau naar zomerevenementen.",
+    "Combineer met een bezoek aan het nabije Kufstein of Ellmau.",
+    "Plan een rustig terras of lunchstop in.",
+    "Bij regen is een wandeling langs de winkels een goed alternatief."
+   ],
+   "en": [
+    "Check with the tourist office for summer events.",
+    "Combine with a visit to nearby Kufstein or Ellmau.",
+    "Plan a relaxed terrace or lunch stop.",
+    "In the rain a stroll past the shops is a good alternative."
+   ],
+   "de": [
+    "Erkundige dich beim Tourismusbüro nach Sommerveranstaltungen.",
+    "Verbinde den Besuch mit dem nahen Kufstein oder Ellmau.",
+    "Plane eine Terrassen- oder Mittagspause ein.",
+    "Bei Regen ist ein Bummel an den Geschäften vorbei eine gute Alternative."
+   ]
+  },
+  "practical": {
+   "nl": "Söll ligt ca. 35 minuten rijden van Niederau, via Wörgl en de richting van de Wilder Kaiser.",
+   "en": "Söll is roughly 35 minutes by car from Niederau, via Wörgl towards the Wilder Kaiser.",
+   "de": "Söll liegt ca. 35 Fahrminuten von Niederau entfernt, über Wörgl in Richtung Wilder Kaiser."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "Approx. 35 min by car",
+    "de": "Ca. 35 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Söll, Wilder Kaiser",
+   "en": "Söll, Wilder Kaiser",
+   "de": "Söll, Wilder Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er in Söll veel te doen buiten het skiseizoen?",
+     "en": "Is there much to do in Söll outside the ski season?",
+     "de": "Gibt es in Söll auch außerhalb der Skisaison etwas zu tun?"
+    },
+    "a": {
+     "nl": "Ja, er zijn winkels, restaurants en in de zomer regelmatig evenementen in het dorp.",
+     "en": "Yes, there are shops, restaurants and regular events in the village in summer.",
+     "de": "Ja, es gibt Geschäfte, Restaurants und im Sommer regelmäßig Veranstaltungen im Ort."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s142",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ellmau",
+  "slug_en": "ellmau-village-walk",
+  "slug_de": "dorfrundgang-ellmau",
+  "title": {
+   "nl": "Dorpswandeling Ellmau",
+   "en": "Village walk in Ellmau",
+   "de": "Dorfspaziergang in Ellmau"
+  },
+  "tagline": {
+   "nl": "Dorp aan de voet van de Wilder Kaiser",
+   "en": "A village at the foot of the Wilder Kaiser",
+   "de": "Ein Dorf am Fuß des Wilden Kaisers"
+  },
+  "intro": {
+   "nl": "Ellmau ligt direct aan de voet van de Wilder Kaiser, het kalkgebergte dat het dorp een karakteristiek silhouet geeft. Het centrum is compact: een kerk, traditionele boerderijen en huizen met bloemenbalkons, en uitzicht op de rotswanden achter het dorp.\n\nEen wandeling door het dorp en de omringende weiden duurt ongeveer een uur. Voor kinderen is er in Ellmau een speelplaats, Ellmis Zauberwelt, met onder meer trampolines, een kasteel met glijbaan en waterpartijen. Het dorp is daardoor een eenvoudige familiebestemming voor een halve dag, met veel ruimte om rustig rond te lopen.",
+   "en": "Ellmau lies right at the foot of the Wilder Kaiser, the limestone range that gives the village its characteristic skyline. The centre is compact: a church, traditional farmhouses and houses with flower balconies, and views of the rock faces behind the village.\n\nA walk through the village and the surrounding meadows takes about an hour. For children there is a playground in Ellmau, Ellmis Zauberwelt, with trampolines, a castle with slide and water features, among other things. That makes the village a simple family destination for half a day, with plenty of room to wander.",
+   "de": "Ellmau liegt direkt am Fuß des Wilden Kaisers, des Kalkgebirges, das dem Ort seine charakteristische Silhouette gibt. Das Zentrum ist überschaubar: eine Kirche, traditionelle Bauernhöfe und Häuser mit Blumenbalkonen sowie Blick auf die Felswände hinter dem Dorf.\n\nEin Spaziergang durch den Ort und die umliegenden Wiesen dauert etwa eine Stunde. Für Kinder gibt es in Ellmau einen Spielplatz, Ellmis Zauberwelt, unter anderem mit Trampolinen, einer Burg mit Rutsche und Wasserspielen. Damit ist der Ort ein einfaches Familienziel für einen halben Tag mit viel Platz zum Schlendern."
+  },
+  "tips": {
+   "nl": [
+    "Neem een camera mee voor de combinatie van dorp en rotswand.",
+    "Plan een stop bij Ellmis Zauberwelt als je met kinderen bent.",
+    "Controleer de openingstijden van de speeltuin vooraf.",
+    "Kleed je in lagen; in de bergen kan het weer snel omslaan."
+   ],
+   "en": [
+    "Bring a camera for the village and rock face together.",
+    "Plan a stop at Ellmis Zauberwelt if you are with children.",
+    "Check the playground's opening times beforehand.",
+    "Dress in layers; mountain weather can change quickly."
+   ],
+   "de": [
+    "Nimm eine Kamera für die Kombination aus Dorf und Felswand mit.",
+    "Plane mit Kindern einen Halt bei Ellmis Zauberwelt ein.",
+    "Prüfe vorab die Öffnungszeiten des Spielplatzes.",
+    "Zieh dich in Schichten an; das Bergwetter kann schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Ellmau ligt ca. 40 minuten rijden van Niederau, via Wörgl en de richting van de Wilder Kaiser.",
+   "en": "Ellmau is roughly 40 minutes by car from Niederau, via Wörgl towards the Wilder Kaiser.",
+   "de": "Ellmau liegt ca. 40 Fahrminuten von Niederau entfernt, über Wörgl in Richtung Wilder Kaiser."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Ellmau, Wilder Kaiser",
+   "en": "Ellmau, Wilder Kaiser",
+   "de": "Ellmau, Wilder Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen in Ellmau?",
+     "en": "What is there for children in Ellmau?",
+     "de": "Was gibt es für Kinder in Ellmau?"
+    },
+    "a": {
+     "nl": "Ellmis Zauberwelt is een speelplaats met onder meer trampolines, een kasteel met glijbaan en waterpartijen.",
+     "en": "Ellmis Zauberwelt is a playground with trampolines, a castle with slide and water features, among other things.",
+     "de": "Ellmis Zauberwelt ist ein Spielplatz mit Trampolinen, Burg mit Rutsche und Wasserspielen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s145",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "scheffau-village-walk",
+  "slug_de": "dorfrundgang-scheffau",
+  "title": {
+   "nl": "Dorpsronde Scheffau",
+   "en": "Village stroll in Scheffau",
+   "de": "Dorfrunde in Scheffau"
+  },
+  "tagline": {
+   "nl": "Rustig dorp aan de Wilder Kaiser, tussen weiden en almen",
+   "en": "A quiet village at the Wilder Kaiser, among meadows and alpine pastures",
+   "de": "Ruhiger Ort am Wilden Kaiser zwischen Wiesen und Almen"
+  },
+  "intro": {
+   "nl": "Scheffau am Wilden Kaiser is een klein dorp in het SkiWelt-gebied, kleiner en stiller dan zijn buren Söll en Ellmau. Het heeft weinig winkels, rustige straten en boerderijen met verzorgde bloementuinen. De ligging aan de voet van de Wilder Kaiser maakt het toch een fraaie plek.\n\nJe kunt een rondje door het dorp lopen en daarna een van de wegen of paden naar de weiden boven het dorp nemen. Daar loop je langs boerderijen en alm-achtige weiden met uitzicht op de bergen. Koeien op of langs het pad horen erbij; houd afstand en sluit hekken achter je.",
+   "en": "Scheffau am Wilden Kaiser is a small village in the SkiWelt area, smaller and quieter than its neighbours Söll and Ellmau. It has few shops, quiet streets and farmhouses with well-kept flower gardens. Its position at the foot of the Wilder Kaiser still makes it an attractive spot.\n\nYou can walk a loop through the village and then follow one of the lanes or paths up to the meadows above it. There you pass farms and pastures with mountain views. Cows on or beside the path are part of the scene; keep your distance and close gates behind you.",
+   "de": "Scheffau am Wilden Kaiser ist ein kleiner Ort im Gebiet der SkiWelt, kleiner und ruhiger als seine Nachbarn Söll und Ellmau. Es gibt wenige Geschäfte, ruhige Straßen und Bauernhöfe mit gepflegten Blumengärten. Die Lage am Fuß des Wilden Kaisers macht ihn dennoch zu einem schönen Ort.\n\nDu kannst eine Runde durch das Dorf gehen und dann einem der Wege hinauf zu den Wiesen oberhalb des Ortes folgen. Dort kommst du an Höfen und Weiden mit Bergblick vorbei. Kühe auf oder neben dem Weg gehören dazu; halte Abstand und schließe Gatter hinter dir."
+  },
+  "tips": {
+   "nl": [
+    "Houd afstand van koeien en weidedieren.",
+    "Neem water en een snack mee; er zijn weinig voorzieningen.",
+    "Draag stevige schoenen als je de weiden op gaat.",
+    "Combineer met een bezoek aan Ellmau of Söll."
+   ],
+   "en": [
+    "Keep your distance from cows and grazing animals.",
+    "Bring water and a snack; there are few facilities.",
+    "Wear sturdy shoes if you head up to the meadows.",
+    "Combine with a visit to Ellmau or Söll."
+   ],
+   "de": [
+    "Halte Abstand zu Kühen und Weidetieren.",
+    "Nimm Wasser und einen Snack mit; es gibt wenige Einkehrmöglichkeiten.",
+    "Trage feste Schuhe, wenn du zu den Wiesen hinaufgehst.",
+    "Verbinde den Besuch mit Ellmau oder Söll."
+   ]
+  },
+  "practical": {
+   "nl": "Scheffau ligt ca. 40 minuten rijden van Niederau, via Wörgl en de richting van de Wilder Kaiser.",
+   "en": "Scheffau is roughly 40 minutes by car from Niederau, via Wörgl towards the Wilder Kaiser.",
+   "de": "Scheffau liegt ca. 40 Fahrminuten von Niederau entfernt, über Wörgl in Richtung Wilder Kaiser."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Scheffau am Wilden Kaiser",
+   "en": "Scheffau am Wilden Kaiser",
+   "de": "Scheffau am Wilden Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Scheffau druk?",
+     "en": "Is Scheffau busy?",
+     "de": "Ist Scheffau überlaufen?"
+    },
+    "a": {
+     "nl": "Nee, het is een klein, rustig dorp met weinig winkels; het is geschikt voor een korte, ontspannen wandeling.",
+     "en": "No, it is a small, quiet village with few shops; it suits a short, relaxed walk.",
+     "de": "Nein, es ist ein kleiner, ruhiger Ort mit wenigen Geschäften und eignet sich für einen kurzen, entspannten Spaziergang."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s149",
+  "drop": false,
+  "drop_reason": "",
+  "place": "brixen-im-thale",
+  "slug_en": "brixen-im-thale-village-walk",
+  "slug_de": "dorfrundgang-brixen-im-thale",
+  "title": {
+   "nl": "Dorpsronde Brixen im Thale",
+   "en": "Village stroll in Brixen im Thale",
+   "de": "Dorfrunde in Brixen im Thale"
+  },
+  "tagline": {
+   "nl": "Rustig dorp in het Brixental met kerk en bloemrijke huizen",
+   "en": "A quiet Brixental village with a church and flowery houses",
+   "de": "Ruhiger Ort im Brixental mit Kirche und blumengeschmückten Häusern"
+  },
+  "intro": {
+   "nl": "Brixen im Thale ligt in het Brixental en heeft een verzorgd dorpscentrum met een kerk als blikvanger. Rondom staan huizen en boerderijen met bloemen voor de ramen en op de balkons. Het is een overzichtelijk dorp waar je binnen een uur alles gezien hebt.\n\nDe wandeling is gemakkelijk te combineren met andere uitstapjes in de omgeving, zoals de bergbaan van het dorp of de zomerrodelbaan in het Brixental. Het is vooral een prettige stop als je onderweg bent door het Brixental en even wilt uitstappen voor een kop koffie of een broodje bij een bakker.",
+   "en": "Brixen im Thale lies in the Brixental and has a well-kept village centre with a church as its eye-catcher. Around it stand houses and farms with flowers at the windows and on balconies. It is a compact village where you can see everything within an hour.\n\nThe walk combines easily with other outings nearby, such as the village's cable car or the summer toboggan run in the Brixental. It is mostly a pleasant stop when you are passing through the Brixental and want to get out for a coffee or a roll from a bakery.",
+   "de": "Brixen im Thale liegt im Brixental und hat ein gepflegtes Ortszentrum mit einer Kirche als Blickfang. Ringsum stehen Häuser und Höfe mit Blumen an Fenstern und Balkonen. Es ist ein überschaubares Dorf, in dem du in einer Stunde alles gesehen hast.\n\nDer Spaziergang lässt sich leicht mit anderen Ausflügen in der Nähe verbinden, etwa der Bergbahn des Ortes oder der Sommerrodelbahn im Brixental. Vor allem ist es ein angenehmer Stopp, wenn du durch das Brixental fährst und für einen Kaffee oder ein Semmerl beim Bäcker kurz aussteigen möchtest."
+  },
+  "tips": {
+   "nl": [
+    "Neem een kijkje in de kerk, maar let op de stilte.",
+    "Combineer met een bergbaan of rodelbaan als je kinderen hebt.",
+    "Parkeer in het centrum en loop het rondje rustig.",
+    "Controleer de openingstijden van lokale winkels."
+   ],
+   "en": [
+    "Take a look inside the church, but keep quiet.",
+    "Combine with a cable car or toboggan run if you have children.",
+    "Park in the centre and take the loop at an easy pace.",
+    "Check opening times of local shops."
+   ],
+   "de": [
+    "Wirf einen Blick in die Kirche, aber bleib leise.",
+    "Verbinde den Besuch mit einer Bergbahn oder Rodelbahn, wenn du Kinder dabeihast.",
+    "Parke im Zentrum und geh die Runde in Ruhe.",
+    "Prüfe die Öffnungszeiten der örtlichen Geschäfte."
+   ]
+  },
+  "practical": {
+   "nl": "Brixen im Thale ligt ca. 30 minuten rijden van Niederau, via de B170 in het Brixental.",
+   "en": "Brixen im Thale is roughly 30 minutes by car from Niederau, via the B170 through the Brixental.",
+   "de": "Brixen im Thale liegt ca. 30 Fahrminuten von Niederau entfernt, über die B170 durch das Brixental."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Brixen im Thale, Brixental",
+   "en": "Brixen im Thale, Brixental",
+   "de": "Brixen im Thale, Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang duurt een bezoek aan Brixen im Thale?",
+     "en": "How long does a visit to Brixen im Thale take?",
+     "de": "Wie lange dauert ein Besuch in Brixen im Thale?"
+    },
+    "a": {
+     "nl": "Een wandeling door het centrum kost ongeveer een uur; combineer met een bergbaan of een andere uitstap voor een halve dag.",
+     "en": "A walk through the centre takes about an hour; combine with a cable car or another outing for half a day.",
+     "de": "Ein Spaziergang durch das Zentrum dauert etwa eine Stunde; kombiniere ihn mit einer Bergbahn oder einem anderen Ausflug für einen halben Tag."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s155",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "st-johann-in-tirol-town-centre",
+  "slug_de": "stadtzentrum-st-johann-in-tirol",
+  "title": {
+   "nl": "Centrum van St. Johann in Tirol",
+   "en": "St. Johann in Tirol town centre",
+   "de": "Zentrum von St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Marktplaats met Lüftlmalerei, kerk en vrijdagmarkt",
+   "en": "A market town with painted facades, a church and a Friday market",
+   "de": "Marktgemeinde mit Lüftlmalerei, Kirche und Freitagsmarkt"
+  },
+  "intro": {
+   "nl": "St. Johann in Tirol is een marktgemeente aan de voet van het Kitzbüheler Horn en de Wilder Kaiser. Het centrum rond het hoofdplein heeft barokke huizen met Lüftlmalerei, beschilderde gevels, zoals het Schellhornhaus uit de 18e eeuw. Daarnaast vind je er een parochiekerk, winkelstraten en cafés.\n\nVolgens de toeristische agenda is er op vrijdag van 10:00 tot 17:00 uur een weekmarkt. Een bezoek duurt ongeveer anderhalf uur; je kunt het goed combineren met een andere uitstap in de regio Kitzbüheler Alpen, zoals Kitzbühel of het Kitzbüheler Horn. Vanuit de stad zie je aan twee kanten bergen.",
+   "en": "St. Johann in Tirol is a market town at the foot of the Kitzbüheler Horn and the Wilder Kaiser. The centre around the main square has baroque houses with Lüftlmalerei, painted facades, such as the 18th-century Schellhornhaus. You will also find a parish church, shopping streets and cafés.\n\nAccording to the tourist events calendar there is a weekly market on Fridays from 10 am to 5 pm. A visit takes about an hour and a half; it combines well with another outing in the Kitzbüheler Alpen region, such as Kitzbühel or the Kitzbüheler Horn. The town has mountains on both sides.",
+   "de": "St. Johann in Tirol ist eine Marktgemeinde am Fuß des Kitzbüheler Horns und des Wilden Kaisers. Das Zentrum rund um den Hauptplatz hat barocke Häuser mit Lüftlmalerei, bemalten Fassaden, wie das Schellhornhaus aus dem 18. Jahrhundert. Dazu kommen eine Pfarrkirche, Einkaufsstraßen und Cafés.\n\nLaut Veranstaltungskalender gibt es freitags von 10:00 bis 17:00 Uhr einen Wochenmarkt. Ein Besuch dauert etwa anderthalb Stunden; du kannst ihn gut mit einem anderen Ausflug in den Kitzbüheler Alpen verbinden, etwa nach Kitzbühel oder aufs Kitzbüheler Horn. Die Stadt hat Berge auf beiden Seiten."
+  },
+  "tips": {
+   "nl": [
+    "Plan je bezoek op vrijdag als je de weekmarkt wilt zien.",
+    "Kijk goed naar de beschilderde gevels (Lüftlmalerei).",
+    "Parkeer in een van de parkeergarages bij het centrum.",
+    "Combineer het met Kitzbühel of het Kitzbüheler Horn."
+   ],
+   "en": [
+    "Plan your visit for a Friday if you want to see the weekly market.",
+    "Look closely at the painted facades (Lüftlmalerei).",
+    "Park in one of the car parks near the centre.",
+    "Combine with Kitzbühel or the Kitzbüheler Horn."
+   ],
+   "de": [
+    "Plane deinen Besuch auf einen Freitag, wenn du den Wochenmarkt sehen möchtest.",
+    "Schau dir die bemalten Fassaden (Lüftlmalerei) genau an.",
+    "Parke in einem der Parkplätze oder Garagen nahe dem Zentrum.",
+    "Verbinde den Besuch mit Kitzbühel oder dem Kitzbüheler Horn."
+   ]
+  },
+  "practical": {
+   "nl": "St. Johann in Tirol ligt ca. 40 minuten rijden van Niederau, via Wörgl en de Brixental-route (B170) of de A12/B178.",
+   "en": "St. Johann in Tirol is roughly 40 minutes by car from Niederau, via Wörgl and the Brixental road (B170) or the A12/B178.",
+   "de": "St. Johann in Tirol liegt ca. 40 Fahrminuten von Niederau entfernt, über Wörgl und die Brixentaler Straße (B170) oder A12/B178."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is de weekmarkt in St. Johann?",
+     "en": "When is the weekly market in St. Johann?",
+     "de": "Wann ist der Wochenmarkt in St. Johann?"
+    },
+    "a": {
+     "nl": "Volgens de toeristische agenda op vrijdag van 10:00 tot 17:00 uur; controleer de actuele tijden vooraf.",
+     "en": "According to the tourist events calendar on Fridays from 10 am to 5 pm; check current times beforehand.",
+     "de": "Laut Veranstaltungskalender freitags von 10:00 bis 17:00 Uhr; bitte prüfe die aktuellen Zeiten vorab."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s167",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hall-in-tirol",
+  "slug_en": "hasegg-castle-mint-tower-hall",
+  "slug_de": "burg-hasegg-muenzerturm-hall",
+  "title": {
+   "nl": "Burg Hasegg en Münze Hall",
+   "en": "Hasegg Castle and Hall Mint",
+   "de": "Burg Hasegg und Münze Hall"
+  },
+  "tagline": {
+   "nl": "Wiegje van de thaler en de dollar in Hall in Tirol",
+   "en": "The cradle of the thaler and the dollar in Hall in Tirol",
+   "de": "Wiege des Talers und des Dollars in Hall in Tirol"
+  },
+  "intro": {
+   "nl": "Burg Hasegg in Hall in Tirol werd voor het eerst in 1306 genoemd en beschermde van oudsher de zoutwinning, de scheepvaart en de oversteek over de Inn. In 1477 verhuisde de landsheerlijke munt van Meran naar Hall, en in 1486 werd hier de eerste zilveren thaler geslagen. Het woord dollar gaat op de thaler terug.\n\nDe 45 meter hoge Münzerturm werd rond 1490 gebouwd. In de burcht zit het Museum Münze Hall, dat meer dan vijfhonderd jaar muntgeschiedenis laat zien, met uitleg over de techniek waarmee munten werden geslagen. De toren kun je beklimmen voor uitzicht over de oude stad, en het museum is leuk voor kinderen die graag zelf dingen uitproberen.",
+   "en": "Hasegg Castle in Hall in Tirol was first mentioned in 1306 and traditionally protected the salt works, the river traffic and the crossing over the Inn. In 1477 the princely mint moved from Merano to Hall, and in 1486 the first silver thaler was struck here. The word dollar goes back to the thaler.\n\nThe 45-metre Münzerturm was built around 1490. The castle houses the Museum Münze Hall, which covers more than five hundred years of minting history with explanations of the technology used to strike coins. You can climb the tower for views over the old town, and the museum suits children who like to try things out.",
+   "de": "Burg Hasegg in Hall in Tirol wurde erstmals 1306 erwähnt und schützte ursprünglich die Salzproduktion, die Schifffahrt und den Innübergang. 1477 wurde die landesfürstliche Münze von Meran nach Hall verlegt, und 1486 wurde hier der erste Silbertaler geprägt. Das Wort Dollar geht auf den Taler zurück.\n\nDer 45 Meter hohe Münzerturm wurde um 1490 erbaut. In der Burg befindet sich das Museum Münze Hall, das mehr als fünfhundert Jahre Münzgeschichte zeigt und die Technik der Münzprägung erklärt. Den Turm kannst du besteigen und hast Aussicht über die Altstadt; das Museum eignet sich für Kinder, die gern selbst etwas ausprobieren."
+  },
+  "tips": {
+   "nl": [
+    "Beklim de toren voor uitzicht op de oude stad.",
+    "Reken op ca. anderhalf uur voor burcht en museum.",
+    "Combineer met een wandeling door de Altstadt van Hall.",
+    "Controleer openingstijden en prijzen vooraf."
+   ],
+   "en": [
+    "Climb the tower for views of the old town.",
+    "Allow about an hour and a half for the castle and museum.",
+    "Combine with a walk through Hall's old town.",
+    "Check opening times and prices beforehand."
+   ],
+   "de": [
+    "Besteige den Turm für den Blick über die Altstadt.",
+    "Rechne mit ca. anderthalb Stunden für Burg und Museum.",
+    "Verbinde den Besuch mit einem Spaziergang durch die Haller Altstadt.",
+    "Prüfe Öffnungszeiten und Preise vorab."
+   ]
+  },
+  "practical": {
+   "nl": "Hall in Tirol ligt ca. 50 minuten rijden van Niederau, via de A12 richting Innsbruck. De burcht ligt aan de rand van de oude stad.",
+   "en": "Hall in Tirol is roughly 50 minutes by car from Niederau, via the A12 towards Innsbruck. The castle is on the edge of the old town.",
+   "de": "Hall in Tirol liegt ca. 50 Fahrminuten von Niederau entfernt, über die A12 Richtung Innsbruck. Die Burg liegt am Rand der Altstadt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar aan te raden",
+    "en": "Recommended from approx. 6 years",
+    "de": "Empfohlen ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "Approx. 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Hall in Tirol",
+   "en": "Hall in Tirol",
+   "de": "Hall in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom heet Hall de wieg van de dollar?",
+     "en": "Why is Hall called the cradle of the dollar?",
+     "de": "Warum gilt Hall als Wiege des Dollars?"
+    },
+    "a": {
+     "nl": "In 1486 werd hier de eerste zilveren thaler geslagen; het woord dollar gaat op thaler terug.",
+     "en": "The first silver thaler was struck here in 1486; the word dollar derives from thaler.",
+     "de": "1486 wurde hier der erste Silbertaler geprägt; das Wort Dollar geht auf Taler zurück."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s168",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hall-in-tirol",
+  "slug_en": "hall-in-tirol-old-town-walk",
+  "slug_de": "altstadt-rundgang-hall-in-tirol",
+  "title": {
+   "nl": "Altstadtwandeling Hall in Tirol",
+   "en": "Old town walk in Hall in Tirol",
+   "de": "Altstadtrundgang in Hall in Tirol"
+  },
+  "tagline": {
+   "nl": "Goed bewaarde middeleeuwse binnenstad aan de Inn",
+   "en": "A well-preserved medieval old town on the Inn",
+   "de": "Gut erhaltene mittelalterliche Altstadt am Inn"
+  },
+  "intro": {
+   "nl": "Hall in Tirol was eeuwenlang een rijke stad dankzij zout en later de munt. Daarvan is veel bewaard gebleven in de oude binnenstad: smalle straten, historische huizen, kerken en het Oberer Stadtplatz. Het is rustiger dan het nabije Innsbruck, maar zeker de moeite waard.\n\nEen wandeling door de Altstadt duurt ongeveer anderhalf uur, langer als je ergens binnen gaat. Je kunt de wandeling combineren met Burg Hasegg en het muntmuseum aan de rand van het centrum. Onderweg zijn er veel terrassen en cafés, dus je kunt de ronde makkelijk uitbreiden tot een halve dag in een gemoedelijke stad.",
+   "en": "For centuries Hall in Tirol was a wealthy town thanks to salt and later the mint. Much of that survives in the old centre: narrow streets, historic houses, churches and the Oberer Stadtplatz. It is quieter than nearby Innsbruck but well worth a visit.\n\nA walk through the old town takes about an hour and a half, longer if you go inside anywhere. You can combine it with Hasegg Castle and the mint museum on the edge of the centre. There are plenty of terraces and cafés on the way, so the round easily stretches into half a day in a relaxed town.",
+   "de": "Hall in Tirol war jahrhundertelang eine reiche Stadt dank Salz und später der Münze. Davon ist in der Altstadt vieles erhalten: enge Gassen, historische Häuser, Kirchen und der Obere Stadtplatz. Es ist ruhiger als das nahe Innsbruck, aber auf jeden Fall einen Besuch wert.\n\nEin Spaziergang durch die Altstadt dauert etwa anderthalb Stunden, länger, wenn du irgendwo einkehrst. Du kannst ihn mit Burg Hasegg und dem Münzmuseum am Rand des Zentrums verbinden. Unterwegs gibt es viele Terrassen und Cafés, sodass die Runde leicht zu einem halben Tag in einer gemütlichen Stadt wird."
+  },
+  "tips": {
+   "nl": [
+    "Combineer de wandeling met Burg Hasegg.",
+    "Plan een koffiestop op een van de terrassen.",
+    "Draag comfortabele schoenen; de straatjes zijn deels bestraat met keien.",
+    "Parkeer aan de rand van het centrum."
+   ],
+   "en": [
+    "Combine the walk with Hasegg Castle.",
+    "Plan a coffee stop on one of the terraces.",
+    "Wear comfortable shoes; some lanes are cobbled.",
+    "Park on the edge of the centre."
+   ],
+   "de": [
+    "Verbinde den Spaziergang mit Burg Hasegg.",
+    "Plane eine Kaffeepause auf einer der Terrassen ein.",
+    "Trage bequeme Schuhe; einige Gassen sind gepflastert.",
+    "Parke am Rand des Zentrums."
+   ]
+  },
+  "practical": {
+   "nl": "Hall in Tirol ligt ca. 50 minuten rijden van Niederau, via de A12 richting Innsbruck. De oude stad is grotendeels autovrij of beperkt toegankelijk; parkeer aan de rand.",
+   "en": "Hall in Tirol is roughly 50 minutes by car from Niederau, via the A12 towards Innsbruck. The old town is largely car-free or restricted; park on the edge.",
+   "de": "Hall in Tirol liegt ca. 50 Fahrminuten von Niederau entfernt, über die A12 Richtung Innsbruck. Die Altstadt ist weitgehend autofrei oder beschränkt befahrbar; parke am Rand."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "Approx. 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Hall in Tirol",
+   "en": "Hall in Tirol",
+   "de": "Hall in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Hall in Tirol een goed alternatief voor Innsbruck?",
+     "en": "Is Hall in Tirol a good alternative to Innsbruck?",
+     "de": "Ist Hall in Tirol eine gute Alternative zu Innsbruck?"
+    },
+    "a": {
+     "nl": "Ja, het is rustiger en overzichtelijker, met een goed bewaarde oude binnenstad.",
+     "en": "Yes, it is quieter and more compact, with a well-preserved old centre.",
+     "de": "Ja, es ist ruhiger und überschaubarer, mit gut erhaltener Altstadt."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s170",
+  "drop": false,
+  "drop_reason": "",
+  "place": "schwaz",
+  "slug_en": "silver-mine-schwaz",
+  "slug_de": "silberbergwerk-schwaz",
+  "title": {
+   "nl": "Silberbergwerk Schwaz",
+   "en": "Silver mine Schwaz",
+   "de": "Silberbergwerk Schwaz"
+  },
+  "tagline": {
+   "nl": "Met het mijntreintje de berg in",
+   "en": "By mine train into the mountain",
+   "de": "Mit der Grubenbahn in den Berg"
+  },
+  "intro": {
+   "nl": "Schwaz was in de late middeleeuwen een van de grootste mijnbouwsteden van Europa. Rond de stad werd zilver gewonnen, en volgens toeristische bronnen kwam een groot deel van het toen verhandelde zilver van hier. Het Silberbergwerk is tegenwoordig een bezoekersmijn.\n\nJe rijdt met een mijntreintje ongeveer 800 meter de berg in en loopt daarna met een gids door gangen waar mijnwerkers eeuwenlang in het donker werkten. Een rondleiding duurt ongeveer anderhalf uur. In de mijn is het het hele jaar koel, rond 12 graden; helm en cape krijg je ter plekke. Daarmee is het ook een prima uitstap voor een warme zomerdag of een regenachtige dag.",
+   "en": "In the late Middle Ages Schwaz was one of Europe's largest mining towns. Silver was extracted around the town, and according to tourist sources a large share of the silver traded at the time came from here. Today the Silberbergwerk is a visitor mine.\n\nA mine train takes you about 800 metres into the mountain, after which you continue on foot with a guide through galleries where miners worked in the dark for centuries. A tour takes about an hour and a half. It is cool in the mine all year, around 12 degrees; helmet and cape are provided on site. That makes it a good outing for a hot summer day or a rainy one.",
+   "de": "Schwaz war im späten Mittelalter eine der größten Bergbaustädte Europas. Rund um die Stadt wurde Silber abgebaut, und laut touristischen Quellen stammte ein großer Teil des damals gehandelten Silbers von hier. Heute ist das Silberbergwerk ein Besucherbergwerk.\n\nMit der Grubenbahn fährst du etwa 800 Meter in den Berg und gehst dann mit einem Guide zu Fuß durch Stollen, in denen Knappen jahrhundertelang im Dunkeln arbeiteten. Eine Führung dauert etwa anderthalb Stunden. Im Berg ist es das ganze Jahr kühl, um die 12 Grad; Helm und Umhang bekommst du vor Ort. Damit ist es ein guter Ausflug für einen heißen Sommertag oder einen Regentag."
+  },
+  "tips": {
+   "nl": [
+    "Neem warme kleding en stevige schoenen mee; het is er rond 12 °C.",
+    "Het mijntreintje is een hoogtepunt voor kinderen.",
+    "Reserveer of controleer de rondleidingtijden vooraf.",
+    "Plan anderhalf uur voor de rondleiding."
+   ],
+   "en": [
+    "Bring warm clothing and sturdy shoes; it is around 12 °C inside.",
+    "The mine train is a highlight for children.",
+    "Reserve or check tour times beforehand.",
+    "Allow an hour and a half for the tour."
+   ],
+   "de": [
+    "Nimm warme Kleidung und feste Schuhe mit; im Berg hat es um die 12 °C.",
+    "Die Grubenbahn ist ein Höhepunkt für Kinder.",
+    "Reserviere oder prüfe die Führungszeiten vorab.",
+    "Plane anderthalb Stunden für die Führung ein."
+   ]
+  },
+  "practical": {
+   "nl": "Schwaz ligt ca. 40 minuten rijden van Niederau, via de A12 richting Innsbruck (afrit Schwaz).",
+   "en": "Schwaz is roughly 40 minutes by car from Niederau, via the A12 towards Innsbruck (exit Schwaz).",
+   "de": "Schwaz liegt ca. 40 Fahrminuten von Niederau entfernt, über die A12 Richtung Innsbruck (Ausfahrt Schwaz)."
+  },
+  "facts": {
+   "age": {
+    "nl": "Geschikt voor kinderen vanaf kleuterleeftijd; informeer vooraf",
+    "en": "Suitable for children from pre-school age; check beforehand",
+    "de": "Für Kinder ab Kindergartenalter geeignet; bitte vorab erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Schwaz, Inntal",
+   "en": "Schwaz, Inn Valley",
+   "de": "Schwaz, Inntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe koud is het in de mijn?",
+     "en": "How cold is it in the mine?",
+     "de": "Wie kalt ist es im Bergwerk?"
+    },
+    "a": {
+     "nl": "Het hele jaar rond 12 graden; neem dus warme kleding mee, ook in de zomer.",
+     "en": "Around 12 degrees all year, so bring warm clothing even in summer.",
+     "de": "Das ganze Jahr um die 12 Grad; nimm also auch im Sommer warme Kleidung mit."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s172",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kufstein",
+  "slug_en": "kufstein-fortress",
+  "slug_de": "festung-kufstein",
+  "title": {
+   "nl": "Festung Kufstein",
+   "en": "Kufstein Fortress",
+   "de": "Festung Kufstein"
+  },
+  "tagline": {
+   "nl": "Vesting boven de Inn met dagelijks het Heldenorgel",
+   "en": "A fortress above the Inn with the Heldenorgel played daily",
+   "de": "Festung über dem Inn mit täglicher Heldenorgel"
+  },
+  "intro": {
+   "nl": "De Festung Kufstein torent boven de stad en de Inn uit en is een van de bekendste bezienswaardigheden in het Kufsteinerland. Vanaf de muren heb je uitzicht over de stad, de rivier en de bergen eromheen. Het complex heeft meerdere tentoonstellingen over de geschiedenis van de vesting.\n\nBekend is het Heldenorgel, het eerste en grootste openluchtorgel ter wereld met 4.948 pijpen. Het speelt dagelijks rond 12:00 uur ongeveer tien minuten, en in juli en augustus ook om 18:00 uur; het concert is bij de entree inbegrepen. Je kunt naar boven lopen via de overdekte trap of de Kaiser-Maximilian-panoramalift nemen. Dat laatste is handig met jonge kinderen.",
+   "en": "Kufstein Fortress rises above the town and the Inn and is one of the best-known sights of the Kufsteinerland. From the walls you look out over the town, the river and the mountains around it. The complex holds several exhibitions on the history of the fortress.\n\nThe Heldenorgel is famous: the first and largest open-air organ in the world, with 4,948 pipes. It plays daily at around noon for about ten minutes, and in July and August also at 6 pm; the concert is included in the admission price. You can walk up via the covered stairs or take the Kaiser Maximilian panoramic lift, which is handy with young children.",
+   "de": "Die Festung Kufstein thront über der Stadt und dem Inn und ist eine der bekanntesten Sehenswürdigkeiten im Kufsteinerland. Von den Mauern aus hast du Aussicht auf die Stadt, den Fluss und die umliegenden Berge. Die Anlage beherbergt mehrere Ausstellungen zur Geschichte der Festung.\n\nBekannt ist die Heldenorgel, die erste und größte Freiluftorgel der Welt mit 4.948 Pfeifen. Sie spielt täglich gegen 12:00 Uhr etwa zehn Minuten lang, im Juli und August auch um 18:00 Uhr; das Konzert ist im Eintrittspreis enthalten. Hinauf gehst du über die überdachte Treppe oder mit dem Kaiser-Maximilian-Panoramalift, was mit kleinen Kindern praktisch ist."
+  },
+  "tips": {
+   "nl": [
+    "Zorg dat je om 12:00 uur bij het orgel bent.",
+    "Gebruik de panoramalift als de kinderen nog klein zijn.",
+    "Neem een jas mee; het kan boven waaien.",
+    "Controleer openingstijden en prijzen vooraf."
+   ],
+   "en": [
+    "Be at the organ for noon.",
+    "Use the panoramic lift if the children are small.",
+    "Bring a jacket; it can be breezy at the top.",
+    "Check opening times and prices beforehand."
+   ],
+   "de": [
+    "Sei um 12:00 Uhr bei der Orgel.",
+    "Nutze den Panoramalift, wenn die Kinder noch klein sind.",
+    "Nimm eine Jacke mit; oben kann es windig sein.",
+    "Prüfe Öffnungszeiten und Preise vorab."
+   ]
+  },
+  "practical": {
+   "nl": "Kufstein ligt ca. 30 minuten rijden van Niederau, via de A12 richting Kufstein. In de stad kun je parkeren en met de lift of trap naar de vesting.",
+   "en": "Kufstein is roughly 30 minutes by car from Niederau, via the A12 towards Kufstein. Park in town and go up to the fortress by lift or stairs.",
+   "de": "Kufstein liegt ca. 30 Fahrminuten von Niederau entfernt, über die A12 Richtung Kufstein. Parke in der Stadt und fahre oder gehe hinauf zur Festung."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "Approx. 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Kufstein, Kufsteinerland",
+   "en": "Kufstein, Kufsteinerland",
+   "de": "Kufstein, Kufsteinerland"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe laat speelt het Heldenorgel?",
+     "en": "When does the Heldenorgel play?",
+     "de": "Wann spielt die Heldenorgel?"
+    },
+    "a": {
+     "nl": "Dagelijks rond 12:00 uur, in juli en augustus ook om 18:00 uur; het concert duurt ongeveer tien minuten en is bij de entree inbegrepen.",
+     "en": "Daily around noon, and in July and August also at 6 pm; the concert lasts about ten minutes and is included in the admission price.",
+     "de": "Täglich gegen 12:00 Uhr, im Juli und August auch um 18:00 Uhr; das Konzert dauert etwa zehn Minuten und ist im Eintritt enthalten."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s178",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "kitzbuehel-old-town",
+  "slug_de": "altstadt-kitzbuehel",
+  "title": {
+   "nl": "Altstadt van Kitzbühel",
+   "en": "Kitzbühel old town",
+   "de": "Altstadt von Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Pastelkleurige gevels en bergstadsfeer in Tirol",
+   "en": "Pastel facades and mountain-town atmosphere in Tyrol",
+   "de": "Pastellfarbene Fassaden und Bergstadtflair in Tirol"
+  },
+  "intro": {
+   "nl": "Kitzbühel is vooral bekend van het skiën en de Hahnenkamm-race, maar in de zomer is het ook een prettige stad voor een wandeling. De Vorderstadt heeft huizen met pastelkleurige gevels, er zijn kerken zoals de Liebfrauenkirche en er zijn veel winkels, van internationale merken tot lokale specialiteiten.\n\nEen rondje door de oude binnenstad duurt ongeveer anderhalf uur, meer als je ergens gaat zitten. De stad heeft een andere sfeer dan de dorpen in het Brixental: chiquer en drukker, met veel terrassen. Het is een goede keuze voor een halve dag waarop je zowel cultuur als winkelen wilt combineren, en een bezoek past ook goed bij een lift of wandeling op het Kitzbüheler Horn.",
+   "en": "Kitzbühel is best known for skiing and the Hahnenkamm race, but in summer it is also a pleasant town for a stroll. The Vorderstadt has houses with pastel facades, there are churches such as the Liebfrauenkirche, and plenty of shops, from international brands to local specialities.\n\nA loop through the old town takes about an hour and a half, more if you sit down somewhere. The town has a different feel from the villages in the Brixental: smarter and busier, with many terraces. It is a good choice for half a day when you want to combine culture and shopping, and a visit also fits well with a lift ride or walk on the Kitzbüheler Horn.",
+   "de": "Kitzbühel ist vor allem für das Skifahren und das Hahnenkammrennen bekannt, aber im Sommer ist die Stadt auch für einen Bummel angenehm. Die Vorderstadt hat Häuser mit pastellfarbenen Fassaden, es gibt Kirchen wie die Liebfrauenkirche und viele Geschäfte, von internationalen Marken bis zu lokalen Spezialitäten.\n\nEine Runde durch die Altstadt dauert etwa anderthalb Stunden, mehr, wenn du dich irgendwo hinsetzt. Die Stadt hat ein anderes Flair als die Dörfer im Brixental: schicker und belebter, mit vielen Terrassen. Sie ist eine gute Wahl für einen halben Tag, an dem du Kultur und Shoppen verbinden möchtest, und passt auch gut zu einer Bergbahnfahrt oder Wanderung am Kitzbüheler Horn."
+  },
+  "tips": {
+   "nl": [
+    "Kijk naar de gevels in de Vorderstadt.",
+    "Plan een koffiestop op een terras.",
+    "Combineer met een uitstap naar het Kitzbüheler Horn.",
+    "Zomers is er parkeergelegenheid aan de rand van het centrum."
+   ],
+   "en": [
+    "Look at the facades in the Vorderstadt.",
+    "Plan a coffee stop on a terrace.",
+    "Combine with a trip to the Kitzbüheler Horn.",
+    "In summer there is parking on the edge of the centre."
+   ],
+   "de": [
+    "Schau dir die Fassaden in der Vorderstadt an.",
+    "Plane eine Kaffeepause auf einer Terrasse ein.",
+    "Verbinde den Besuch mit einem Ausflug zum Kitzbüheler Horn.",
+    "Im Sommer gibt es Parkmöglichkeiten am Rand des Zentrums."
+   ]
+  },
+  "practical": {
+   "nl": "Kitzbühel ligt ca. 45 minuten rijden van Niederau, via Wörgl en de B170 door het Brixental.",
+   "en": "Kitzbühel is roughly 45 minutes by car from Niederau, via Wörgl and the B170 through the Brixental.",
+   "de": "Kitzbühel liegt ca. 45 Fahrminuten von Niederau entfernt, über Wörgl und die B170 durch das Brixental."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "Approx. 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel",
+   "en": "Kitzbühel",
+   "de": "Kitzbühel"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Kitzbühel ook in de zomer de moeite waard?",
+     "en": "Is Kitzbühel worth visiting in summer?",
+     "de": "Lohnt sich Kitzbühel auch im Sommer?"
+    },
+    "a": {
+     "nl": "Ja, de oude binnenstad met pastelkleurige gevels, winkels en terrassen is ook zonder skiseizoen een prettige stop.",
+     "en": "Yes, the old town with pastel facades, shops and terraces is a pleasant stop even outside the ski season.",
+     "de": "Ja, die Altstadt mit pastellfarbenen Fassaden, Geschäften und Terrassen ist auch außerhalb der Skisaison ein angenehmer Stopp."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s185",
+  "drop": false,
+  "drop_reason": "",
+  "place": "rattenberg",
+  "slug_en": "rattenberg-glassblowing",
+  "slug_de": "glasblaeser-rattenberg",
+  "title": {
+   "nl": "Glasblazen in Rattenberg",
+   "en": "Glassblowing in Rattenberg",
+   "de": "Glasbläser in Rattenberg"
+  },
+  "tagline": {
+   "nl": "De kleinste stad van Oostenrijk en haar glastraditie",
+   "en": "Austria's smallest town and its glass tradition",
+   "de": "Österreichs kleinste Stadt und ihre Glastradition"
+  },
+  "intro": {
+   "nl": "Rattenberg aan de Inn is met zo'n 400 inwoners de kleinste stad van Oostenrijk. Het middeleeuwse stadsbeeld is vrijwel intact gebleven, en de stad staat bekend om haar glasverwerkende bedrijven en winkels met kristalglas.\n\nBij Kisslinger Kristall-Glas kun je volgens de bronnen van maandag tot en vrijdag glasblazers aan het werk zien, en je kunt onder begeleiding van een glasblazer zelf een glazen bol blazen die je meeneemt. Dat is een leuke ervaring voor kinderen. Combineer het met een wandeling door de smalle straten van de oude stad en een bezoek aan de winkels.",
+   "en": "With about 400 inhabitants, Rattenberg on the Inn is Austria's smallest town. Its medieval townscape has survived almost intact, and the town is known for its glassmaking businesses and crystal glass shops.\n\nAt Kisslinger Kristall-Glas you can, according to sources, watch glassblowers at work from Monday to Friday, and with a glassblower's help you can blow a glass sphere of your own to take home. That is a fun experience for children. Combine it with a stroll through the narrow streets of the old town and a visit to the shops.",
+   "de": "Rattenberg am Inn ist mit rund 400 Einwohnern die kleinste Stadt Österreichs. Das mittelalterliche Stadtbild ist nahezu vollständig erhalten, und die Stadt ist bekannt für ihre glasverarbeitenden Betriebe und Kristallglasgeschäfte.\n\nBei Kisslinger Kristall-Glas kannst du laut Quellen von Montag bis Freitag Glasbläsern bei der Arbeit zusehen, und mit Hilfe eines Glasbläsers kannst du eine eigene Glaskugel blasen und mitnehmen. Das ist ein schönes Erlebnis für Kinder. Verbinde es mit einem Spaziergang durch die engen Gassen der Altstadt und einem Besuch in den Geschäften."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf of demonstraties plaatsvinden (maandag tot vrijdag).",
+    "Zelf glas blazen kan, maar vraag naar prijs en leeftijd.",
+    "Glas is breekbaar; pak souvenirs goed in.",
+    "Plan tijd in voor een wandeling door de oude stad."
+   ],
+   "en": [
+    "Check beforehand that demonstrations are on (Monday to Friday).",
+    "You can blow glass yourself, but ask about price and age limit.",
+    "Glass is fragile; pack souvenirs well.",
+    "Allow time for a walk through the old town."
+   ],
+   "de": [
+    "Prüfe vorab, ob Vorführungen stattfinden (Montag bis Freitag).",
+    "Du kannst selbst Glas blasen, frag aber nach Preis und Altersgrenze.",
+    "Glas ist zerbrechlich; verpacke Souvenirs gut.",
+    "Plane Zeit für einen Spaziergang durch die Altstadt ein."
+   ]
+  },
+  "practical": {
+   "nl": "Rattenberg ligt ca. 25 minuten rijden van Niederau, in het Alpbachtal; neem de A12 en rijd naar Rattenberg/Kramsach. Parkeren kan aan de rand van de stad.",
+   "en": "Rattenberg is roughly 25 minutes by car from Niederau, in the Alpbachtal; take the A12 to Rattenberg/Kramsach. Parking is on the edge of the town.",
+   "de": "Rattenberg liegt ca. 25 Fahrminuten von Niederau entfernt im Alpbachtal; nimm die A12 nach Rattenberg/Kramsach. Parken ist am Stadtrand möglich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "Approx. 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Kijken vaak gratis; zelf blazen kost extra",
+    "en": "Watching is often free; blowing your own costs extra",
+    "de": "Zuschauen oft kostenlos; selbst blasen kostet extra"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min by car",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Rattenberg, Alpbachtal",
+   "en": "Rattenberg, Alpbachtal",
+   "de": "Rattenberg, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kan ik glasblazers aan het werk zien?",
+     "en": "Can I watch glassblowers at work?",
+     "de": "Kann ich Glasbläsern bei der Arbeit zusehen?"
+    },
+    "a": {
+     "nl": "Bij Kisslinger Kristall-Glas volgens de bronnen van maandag tot vrijdag; controleer de tijden vooraf.",
+     "en": "At Kisslinger Kristall-Glas, according to sources, Monday to Friday; check times beforehand.",
+     "de": "Bei Kisslinger Kristall-Glas laut Quellen von Montag bis Freitag; bitte prüfe die Zeiten vorab."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s190",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "stams-abbey",
+  "slug_de": "stift-stams",
+  "title": {
+   "nl": "Stift Stams",
+   "en": "Stams Abbey",
+   "de": "Stift Stams"
+  },
+  "tagline": {
+   "nl": "Cisterciënzerabdij uit 1273 in het Inntal",
+   "en": "A Cistercian abbey from 1273 in the Inn Valley",
+   "de": "Zisterzienserstift von 1273 im Inntal"
+  },
+  "intro": {
+   "nl": "Stift Stams is een Cisterciënzerabdij die in 1273 werd gesticht door graaf Meinhard II van Görz-Tirol en zijn vrouw Elisabeth van Beieren. De abdijkerk kreeg in 1983 de status van basilica minor. Het gebouw bevat onder meer een vorstengraf, een rijk versierde preekstoel, gewelf- en muurschilderingen en het bekende Lebensbaum-altaar.\n\nVolgens de toeristische informatie zijn er van juni tot september rondleidingen op de meeste dagen. Er worden ook evenementen gehouden; concerten konden we niet bevestigd krijgen, dus vraag de actuele agenda na als je daarvoor komt. Het is een rustige, culturele stop in het Inntal, geschikt voor tieners en volwassenen die van kunst en geschiedenis houden.",
+   "en": "Stams Abbey is a Cistercian monastery founded in 1273 by Count Meinhard II of Görz-Tyrol and his wife Elisabeth of Bavaria. The abbey church was raised to the status of basilica minor in 1983. The building contains a princes' crypt, a richly decorated pulpit, vault and wall paintings and the well-known Tree of Life altar.\n\nAccording to tourist information, guided tours run on most days from June to September. Events are held as well; concerts could not be confirmed, so ask for the current programme if that is why you are going. It is a quiet cultural stop in the Inn Valley, suited to teenagers and adults who enjoy art and history.",
+   "de": "Stift Stams ist ein Zisterzienserkloster, das 1273 von Graf Meinhard II. von Görz-Tirol und seiner Frau Elisabeth von Bayern gegründet wurde. Die Stiftskirche wurde 1983 zur Basilica minor erhoben. Im Gebäude finden sich unter anderem eine Fürstengruft, eine reich verzierte Kanzel, Gewölbe- und Wandmalereien und der bekannte Lebensbaum-Altar.\n\nLaut Tourismusinformation gibt es von Juni bis September an den meisten Tagen Führungen. Auch Veranstaltungen werden abgehalten; Konzerte konnten wir nicht bestätigen, frag also das aktuelle Programm nach, falls du deswegen kommst. Es ist ein ruhiger kultureller Stopp im Inntal, geeignet für Jugendliche und Erwachsene, die Kunst und Geschichte mögen."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf de tijden van rondleidingen; in de zomer kunnen die beperkt zijn door evenementen.",
+    "Draag gepaste kleding; het is een werkend klooster.",
+    "Vraag naar de actuele concertagenda als je muziek wilt horen.",
+    "Combineer met een bezoek aan Innsbruck of Hall in Tirol."
+   ],
+   "en": [
+    "Check guided-tour times beforehand; events can limit them in summer.",
+    "Dress appropriately; it is a working monastery.",
+    "Ask for the current concert programme if you want to hear music.",
+    "Combine with a visit to Innsbruck or Hall in Tirol."
+   ],
+   "de": [
+    "Prüfe vorab die Führungszeiten; Veranstaltungen können sie im Sommer einschränken.",
+    "Kleide dich angemessen; es ist ein aktives Kloster.",
+    "Frag nach dem aktuellen Konzertprogramm, wenn du Musik hören möchtest.",
+    "Verbinde den Besuch mit Innsbruck oder Hall in Tirol."
+   ]
+  },
+  "practical": {
+   "nl": "Stams ligt in het Oberinntal, ca. 1 uur en 10 minuten rijden van Niederau, via de A12 richting Innsbruck en verder westwaarts (afrit Stams/Mötz).",
+   "en": "Stams is in the Upper Inn Valley, roughly 1 hour 10 minutes by car from Niederau, via the A12 towards Innsbruck and further west (exit Stams/Mötz).",
+   "de": "Stams liegt im Oberinntal, ca. 1 Stunde 10 Minuten Fahrt von Niederau entfernt, über die A12 Richtung Innsbruck und weiter westlich (Ausfahrt Stams/Mötz)."
+  },
+  "facts": {
+   "age": {
+    "nl": "Geschikt voor tieners en volwassenen",
+    "en": "Suited to teenagers and adults",
+    "de": "Geeignet für Jugendliche und Erwachsene"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 tot 2 uur",
+    "en": "Approx. 1.5 to 2 hours",
+    "de": "Ca. 1,5 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 10 min rijden",
+    "en": "Approx. 1 hour 10 min by car",
+    "de": "Ca. 1 Std. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar; rondleidingen vooral juni–september",
+    "en": "All year; guided tours mainly June–September",
+    "de": "Ganzjährig; Führungen vor allem Juni–September"
+   }
+  },
+  "location": {
+   "nl": "Stams, Oberinntal",
+   "en": "Stams, Upper Inn Valley",
+   "de": "Stams, Oberinntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is Stift Stams gesticht?",
+     "en": "When was Stams Abbey founded?",
+     "de": "Wann wurde Stift Stams gegründet?"
+    },
+    "a": {
+     "nl": "In 1273, door graaf Meinhard II van Görz-Tirol en zijn vrouw Elisabeth van Beieren.",
+     "en": "In 1273, by Count Meinhard II of Görz-Tyrol and his wife Elisabeth of Bavaria.",
+     "de": "1273, durch Graf Meinhard II. von Görz-Tirol und seine Frau Elisabeth von Bayern."
+    }
+   }
+  ]
+ }
+]

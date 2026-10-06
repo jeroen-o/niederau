@@ -1,0 +1,1297 @@
+[
+ {
+  "id": "w43",
+  "drop": true,
+  "drop_reason": "Concrete locaties (Dorfstadl/Wastlalm Bar), programma en tijden niet te bevestigen; niet verifieerbaar als aparte activiteit"
+ },
+ {
+  "id": "w47",
+  "drop": true,
+  "drop_reason": "Aanbod, prijs en skischool-website niet te bevestigen (skischule-total.at klopt niet)"
+ },
+ {
+  "id": "s1",
+  "drop": true,
+  "drop_reason": "Route en 'Wildschönbach' niet te bevestigen (rivier heet Wildschönauer Ache); te generiek"
+ },
+ {
+  "id": "s110",
+  "drop": true,
+  "drop_reason": "Roofvogelshow in Wildschönau niet te vinden"
+ },
+ {
+  "id": "s117",
+  "drop": true,
+  "drop_reason": "Boerderijbezoek met dieren voeren in Thierbach niet te bevestigen"
+ },
+ {
+  "id": "s121",
+  "drop": true,
+  "drop_reason": "Route Oberau-Bründlalm/Markbachjoch en hutten niet te bevestigen; Markbachjoch is gedekt door s18"
+ },
+ {
+  "id": "s123",
+  "drop": true,
+  "drop_reason": "Geen bestaande activiteit; rivier 'Wildschönbach' klopt niet"
+ },
+ {
+  "id": "s124",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "schatzberg-alpine-rose-hike-auffach",
+  "slug_de": "schatzberg-almrosen-wanderung-auffach",
+  "title": {
+   "nl": "Alpenrozen op de Schatzberg",
+   "en": "Alpine roses on the Schatzberg",
+   "de": "Almrosenblüte am Schatzberg"
+  },
+  "tagline": {
+   "nl": "Met de gondel uit Auffach naar bloeiende alpenweiden",
+   "en": "By cable car from Auffach to flowering alpine pastures",
+   "de": "Mit der Gondel ab Auffach zu blühenden Almwiesen"
+  },
+  "intro": {
+   "nl": "De Schatzberg boven Auffach is in de zomer een eenvoudig te bereiken wandelberg. De Schatzbergbahn, een gondel met een tussenstation bij Koglmoos, brengt je in enkele minuten naar het bergstation op ongeveer 1.770 m. Daar begint een netwerk van paden over alpenweiden, waar je nauwelijks hoogtemeters hoeft te maken.\n\nIn het begin van de zomer, meestal rond eind juni en begin juli, kunnen op de hellingen de alpenrozen bloeien. Het precieze moment hangt af van hoogte en weer. Bij het bergstation staat de Schatzberg Alm, bij het tussenstation het restaurant Koglmoos. Zo is er altijd een plek om te rusten, ook met jonge kinderen.",
+   "en": "The Schatzberg above Auffach is an easy summer hiking mountain. The Schatzbergbahn, a gondola with a middle station at Koglmoos, takes you in a few minutes to the top station at roughly 1,770 m. From there a network of paths crosses alpine pastures, so you hardly need to climb any further.\n\nIn early summer, usually around late June and early July, alpine roses can flower on the slopes. The exact timing depends on altitude and weather. The Schatzberg Alm stands at the top station and the Koglmoos restaurant at the middle station, so there is always somewhere to rest, even with small children.",
+   "de": "Der Schatzberg oberhalb von Auffach ist im Sommer ein leicht erreichbarer Wanderberg. Die Schatzbergbahn, eine Gondelbahn mit Mittelstation Koglmoos, bringt dich in wenigen Minuten zur Bergstation auf rund 1.770 m. Von dort führen Wege über Almwiesen, sodass kaum zusätzliche Höhenmeter nötig sind.\n\nZu Beginn des Sommers, meist Ende Juni und Anfang Juli, können an den Hängen die Almrosen blühen. Der genaue Zeitpunkt hängt von Höhenlage und Wetter ab. An der Bergstation liegt die Schatzberg Alm, an der Mittelstation das Restaurant Koglmoos, sodass sich auch mit kleinen Kindern leicht eine Rast einlegen lässt."
+  },
+  "tips": {
+   "nl": [
+    "Reis in de tweede helft van juni of begin juli voor de meeste kans op bloei; vraag bij het bergstation naar de actuele situatie.",
+    "Neem wandelschoenen en een warme laag mee; boven kan het ook in de zomer fris zijn.",
+    "Check de bedrijfstijden van de gondel; die sluit in de namiddag en is alleen in het zomerseizoen open.",
+    "Kijk niet te dichtbij naar weidende koeien en blijf op de paden: de alpenrozen zijn beschermd."
+   ],
+   "en": [
+    "Travel in the second half of June or early July for the best chance of bloom, and ask at the station about current conditions.",
+    "Bring hiking shoes and a warm layer; it can be cool at the top even in summer.",
+    "Check the gondola's operating times; it closes in the afternoon and only runs in the summer season.",
+    "Keep your distance from grazing cows and stay on the paths; alpine roses are protected."
+   ],
+   "de": [
+    "Fahre in der zweiten Junihälfte oder Anfang Juli, dann ist die Blüte am wahrscheinlichsten; frag an der Station nach dem aktuellen Stand.",
+    "Nimm Wanderschuhe und eine warme Schicht mit; oben kann es auch im Sommer frisch sein.",
+    "Prüfe die Betriebszeiten der Gondel; sie schließt am Nachmittag und fährt nur im Sommerbetrieb.",
+    "Halte Abstand zu weidenden Kühen und bleib auf den Wegen; Almrosen sind geschützt."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt in het achterste deel van het Wildschönauer dal, ca. 10 minuten rijden vanaf Niederau. De gondel start in het dorp en rijdt in de zomer doorgaans van begin juni tot begin oktober; de tijden verschillen per jaar.",
+   "en": "Auffach lies in the inner part of the Wildschönau valley, about 10 minutes by car from Niederau. The gondola starts in the village and generally runs from early June to early October; times differ each year.",
+   "de": "Auffach liegt im hinteren Teil des Wildschönauer Tals, etwa 10 Autominuten von Niederau entfernt. Die Gondel startet im Ort und fährt im Sommer in der Regel von Anfang Juni bis Anfang Oktober; die Zeiten ändern sich jährlich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10 min rijden",
+    "en": "About 10 min by car",
+    "de": "Ca. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. juni tot begin oktober)",
+    "en": "Summer (approx. June to early October)",
+    "de": "Sommer (ca. Juni bis Anfang Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "https://www.skijuwel.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer bloeien de alpenrozen op de Schatzberg?",
+     "en": "When do the alpine roses bloom on the Schatzberg?",
+     "de": "Wann blühen die Almrosen am Schatzberg?"
+    },
+    "a": {
+     "nl": "Meestal eind juni en begin juli, maar het hangt af van hoogte en weer. Informeer vooraf bij de bergbahn.",
+     "en": "Usually in late June and early July, but it depends on altitude and weather. Ask the cable car operator beforehand.",
+     "de": "Meist Ende Juni und Anfang Juli, es hängt aber von Höhenlage und Wetter ab. Frag vorab bei der Bergbahn nach."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s128",
+  "drop": true,
+  "drop_reason": "Vogelexcursie met ornitholoog niet te bevestigen"
+ },
+ {
+  "id": "s129",
+  "drop": true,
+  "drop_reason": "Picknick/koeienalm bij Auffach te generiek en niet te bevestigen"
+ },
+ {
+  "id": "s131",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "hohe-salve-summit-hopfgarten",
+  "slug_de": "hohe-salve-gipfel-hopfgarten",
+  "title": {
+   "nl": "Hohe Salve vanuit Hopfgarten",
+   "en": "Hohe Salve from Hopfgarten",
+   "de": "Hohe Salve ab Hopfgarten"
+  },
+  "tagline": {
+   "nl": "Panoramaberg met bedevaartskerkje boven het Brixental",
+   "en": "Panorama peak with a pilgrimage chapel above the Brixental",
+   "de": "Aussichtsberg mit Wallfahrtskirchlein über dem Brixental"
+  },
+  "intro": {
+   "nl": "De Hohe Salve (1.829 m) staat bekend als een van de beste uitkijkpunten van Tirol. Vanuit Hopfgarten im Brixental breng je de Salvenbahn naar boven, waarna je in korte tijd bij de top bent. Het uitzicht reikt over de Kitzbüheler Alpen, de Wilder Kaiser en, bij helder weer, tot de ijstoppen van de Hohe Tauern.\n\nOp de top staat het Salvenkirchlein, een bedevaartskerkje uit 1777 dat als de hoogstgelegen bedevaartskerk van Oostenrijk wordt beschreven. Er zijn berghutten en wandelpaden in verschillende lengtes, dus de tocht past bij gezinnen die liever rustig rondkijken én bij wie een halve dag wil wandelen. Je kunt ook lopend vanuit het dal omhoog.",
+   "en": "The Hohe Salve (1,829 m) is known as one of Tyrol's best viewpoints. From Hopfgarten im Brixental the Salvenbahn lifts you up, and you reach the summit in a short time. The view stretches across the Kitzbühel Alps and the Wilder Kaiser and, in clear weather, as far as the glaciated peaks of the Hohe Tauern.\n\nThe Salvenkirchlein on the summit is a pilgrimage chapel dating from 1777, described as the highest-situated pilgrimage church in Austria. There are mountain huts and walking trails of various lengths, so the trip suits families who simply want to enjoy the views as well as those who want a half-day hike. You can also walk up from the valley.",
+   "de": "Die Hohe Salve (1.829 m) gilt als einer der besten Aussichtsberge Tirols. Von Hopfgarten im Brixental bringt dich die Salvenbahn nach oben, danach ist der Gipfel schnell erreicht. Die Aussicht reicht über die Kitzbüheler Alpen und den Wilden Kaiser und bei klarem Wetter bis zu den vergletscherten Gipfeln der Hohen Tauern.\n\nAuf dem Gipfel steht das Salvenkirchlein, eine Wallfahrtskirche von 1777, die als höchstgelegene Wallfahrtskirche Österreichs beschrieben wird. Es gibt Berghütten und Wanderwege unterschiedlicher Länge, sodass der Ausflug sowohl für Familien passt, die nur die Aussicht genießen wollen, als auch für alle, die einen halben Tag wandern möchten. Du kannst auch zu Fuß aus dem Tal aufsteigen."
+  },
+  "tips": {
+   "nl": [
+    "Ga bij voorkeur 's ochtends, dan is het zicht vaak het helderst.",
+    "Neem een jas mee; op de top is het merkbaar frisser dan in het dal.",
+    "Bekijk eerst de weersvoorspelling en de bedrijfstijden van de Salvenbahn.",
+    "Draag stevige schoenen als je over de paden wilt lopen."
+   ],
+   "en": [
+    "Go in the morning if you can; visibility is often best then.",
+    "Take a jacket; it is noticeably cooler at the top than in the valley.",
+    "Check the weather forecast and the Salvenbahn's operating times first.",
+    "Wear sturdy shoes if you plan to walk the trails."
+   ],
+   "de": [
+    "Fahre am besten vormittags, dann ist die Sicht oft am klarsten.",
+    "Nimm eine Jacke mit; auf dem Gipfel ist es spürbar kühler als im Tal.",
+    "Prüfe vorher Wetterbericht und Betriebszeiten der Salvenbahn.",
+    "Trag feste Schuhe, wenn du die Wege abwandern willst."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten ligt ca. 25 minuten rijden van Niederau, via Wörgl en het Brixental. Parkeren is mogelijk bij het dalstation. De bahn rijdt in de zomerperiode, doorgaans van eind mei tot in oktober.",
+   "en": "Hopfgarten is about 25 minutes by car from Niederau, via Wörgl and the Brixental. Parking is available at the valley station. The lift runs during the summer season, generally from late May to October.",
+   "de": "Hopfgarten liegt ca. 25 Autominuten von Niederau entfernt, über Wörgl und das Brixental. Am Tal­station kannst du parken. Die Bahn fährt im Sommer, in der Regel von Ende Mai bis in den Oktober."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "About 25 min by car",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot oktober)",
+    "en": "Summer (approx. May to October)",
+    "de": "Sommer (ca. Mai bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "url": "https://www.kitzbueheler-alpen.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog ligt de Hohe Salve en wat staat er op de top?",
+     "en": "How high is the Hohe Salve and what is on the summit?",
+     "de": "Wie hoch ist die Hohe Salve und was steht auf dem Gipfel?"
+    },
+    "a": {
+     "nl": "De top ligt op 1.829 m. Er staat het Salvenkirchlein, een bedevaartskerkje uit 1777.",
+     "en": "The summit is at 1,829 m. The Salvenkirchlein, a pilgrimage chapel from 1777, stands there.",
+     "de": "Der Gipfel liegt auf 1.829 m. Dort steht das Salvenkirchlein, eine Wallfahrtskirche von 1777."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s135",
+  "drop": false,
+  "drop_reason": "",
+  "place": "westendorf",
+  "slug_en": "choralpe-hiking-westendorf",
+  "slug_de": "choralpe-wandern-westendorf",
+  "title": {
+   "nl": "Choralpe bij Westendorf",
+   "en": "Choralpe near Westendorf",
+   "de": "Choralpe bei Westendorf"
+  },
+  "tagline": {
+   "nl": "Rustige bergwandeling in het Brixental met gezinsroutes",
+   "en": "A quiet Brixental mountain walk with family trails",
+   "de": "Ruhige Bergwanderung im Brixental mit Familienwegen"
+  },
+  "intro": {
+   "nl": "De Choralpe is het wandelgebied boven Westendorf in het Brixental. In de zomer brengt de Alpenrosenbahn je omhoog, waarna je meteen op de bergweiden staat. Vandaar vertrekken paden langs berghutten en over rustige ruggen, met uitzicht op de omliggende Kitzbüheler Alpen.\n\nVoor gezinnen zijn er korte thematische wandelingen met kijkpunten en speelse onderdelen, zodat kinderen onderweg iets te ontdekken hebben. Wie meer wil, kan langere rondes lopen. Het gebied voelt over het algemeen minder druk dan de bekendste uitkijkbergen in de regio, al hangt dat van het weer en de vakantieperiode af.",
+   "en": "The Choralpe is the hiking area above Westendorf in the Brixental. In summer the Alpenrosenbahn takes you up, and you are on the mountain pastures straight away. Paths lead from there past mountain huts and along quiet ridges, with views of the surrounding Kitzbühel Alps.\n\nFor families there are short themed trails with viewpoints and playful stops, giving children something to discover along the way. If you want more, you can walk longer loops. The area generally feels less busy than the best-known viewpoints in the region, although this depends on the weather and holiday periods.",
+   "de": "Die Choralpe ist das Wandergebiet oberhalb von Westendorf im Brixental. Im Sommer bringt dich die Alpenrosenbahn nach oben, und du stehst gleich auf den Almwiesen. Von dort führen Wege an Berghütten vorbei und über ruhige Rücken, mit Blick auf die umliegenden Kitzbüheler Alpen.\n\nFür Familien gibt es kurze Themenwege mit Aussichtspunkten und spielerischen Stationen, sodass Kinder unterwegs etwas entdecken können. Wer mehr möchte, wandert längere Runden. Das Gebiet wirkt meist ruhiger als die bekanntesten Aussichtsberge der Region, das hängt aber von Wetter und Ferienzeit ab."
+  },
+  "tips": {
+   "nl": [
+    "Kies een korte thematische route als je kinderen jonger dan zes jaar hebt.",
+    "Plan een hutstop in; veel hutten serveren eenvoudige Tiroler gerechten.",
+    "Controleer vooraf de bedrijfstijden; de bahn sluit in de namiddag.",
+    "Neem zonnebrand en een regenjas mee; het weer in de bergen kan snel omslaan."
+   ],
+   "en": [
+    "Choose a short themed trail if your children are under six.",
+    "Plan a hut stop; many huts serve simple Tyrolean dishes.",
+    "Check the operating times beforehand; the lift closes in the afternoon.",
+    "Bring sun cream and a rain jacket; mountain weather can change quickly."
+   ],
+   "de": [
+    "Wähle einen kurzen Themenweg, wenn deine Kinder jünger als sechs sind.",
+    "Plane eine Hüttenrast ein; viele Hütten servieren einfache Tiroler Gerichte.",
+    "Prüfe vorab die Betriebszeiten; die Bahn schließt am Nachmittag.",
+    "Nimm Sonnenschutz und eine Regenjacke mit; das Bergwetter kann schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Westendorf ligt ca. 35 minuten rijden van Niederau, via Wörgl of Hopfgarten. De Alpenrosenbahn rijdt in de zomer doorgaans van eind mei tot eind oktober; de exacte tijden verschillen per jaar.",
+   "en": "Westendorf is about 35 minutes by car from Niederau, via Wörgl or Hopfgarten. The Alpenrosenbahn generally runs from late May to late October in summer; exact times differ each year.",
+   "de": "Westendorf liegt ca. 35 Autominuten von Niederau entfernt, über Wörgl oder Hopfgarten. Die Alpenrosenbahn fährt im Sommer in der Regel von Ende Mai bis Ende Oktober; die genauen Zeiten ändern sich jährlich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot oktober)",
+    "en": "Summer (approx. May to October)",
+    "de": "Sommer (ca. Mai bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Westendorf, Brixental",
+   "en": "Westendorf, Brixental",
+   "de": "Westendorf, Brixental"
+  },
+  "url": "https://www.skiwelt.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Choralpe geschikt voor kinderen?",
+     "en": "Is the Choralpe suitable for children?",
+     "de": "Ist die Choralpe für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, er zijn korte thematische wandelingen voor gezinnen, naast langere routes voor wie meer wil lopen.",
+     "en": "Yes, there are short themed family trails as well as longer routes for those who want to walk further.",
+     "de": "Ja, es gibt kurze Themenwege für Familien und längere Routen für alle, die weiter wandern möchten."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s138",
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "hohe-salve-from-soell",
+  "slug_de": "hohe-salve-ab-soell",
+  "title": {
+   "nl": "Hohe Salve vanuit Söll",
+   "en": "Hohe Salve from Söll",
+   "de": "Hohe Salve ab Söll"
+  },
+  "tagline": {
+   "nl": "Bergbahn en wandelen op de Hohe Salve aan de kant van de Wilder Kaiser",
+   "en": "Cable car and hiking on the Hohe Salve on the Wilder Kaiser side",
+   "de": "Bergbahn und Wandern an der Hohen Salve auf der Seite des Wilden Kaisers"
+  },
+  "intro": {
+   "nl": "Söll ligt aan de voet van de Wilder Kaiser en heeft een eigen bergbahn naar het gebied rond de Hohe Salve (1.829 m). Dit is een tweede toegang tot dezelfde berg die ook vanuit Hopfgarten bereikbaar is, maar nu vanaf de kant van het Kufsteinerland. Boven kun je wandelen over de ruggen, hutten bezoeken en het uitzicht op de Wilder Kaiser bekijken.\n\nOok vliegen paragliders in de regio vaak vanaf de omliggende hellingen; informeer bij een lokale aanbieder of tandemvluchten mogelijk zijn. Het dorp Söll zelf is levendig en heeft winkels, terrassen en restaurants, handig voor een afsluitend ijsje of een warme maaltijd na de wandeling.",
+   "en": "Söll lies at the foot of the Wilder Kaiser and has its own cable car to the area around the Hohe Salve (1,829 m). It is a second way up the same mountain that can also be reached from Hopfgarten, but from the Kufsteinerland side. At the top you can walk along ridges, visit huts and enjoy the view of the Wilder Kaiser.\n\nParagliders also often take off from the surrounding slopes in the region; ask a local operator whether tandem flights are possible. The village of Söll itself is lively, with shops, terraces and restaurants, handy for an ice cream or a hot meal after your walk.",
+   "de": "Söll liegt am Fuß des Wilden Kaisers und hat eine eigene Bergbahn in das Gebiet rund um die Hohe Salve (1.829 m). Es ist ein zweiter Zugang zum selben Berg, der auch von Hopfgarten erreichbar ist, nun aber von der Seite des Kufsteinerlands. Oben kannst du über Rücken wandern, Hütten besuchen und den Blick auf den Wilden Kaiser genießen.\n\nAuch Gleitschirmflieger starten in der Region oft von den umliegenden Hängen; frag bei einem örtlichen Anbieter, ob Tandemflüge möglich sind. Der Ort Söll selbst ist lebendig, mit Geschäften, Terrassen und Restaurants, praktisch für ein Eis oder eine warme Mahlzeit nach der Wanderung."
+  },
+  "tips": {
+   "nl": [
+    "Kies een dag met helder weer; dan zie je de Wilder Kaiser op zijn mooist.",
+    "Combineer de dag met een wandeling op de bergrug en een hutstop.",
+    "Informeer vooraf naar tandemvluchten als dat je interesseert.",
+    "Neem een jas mee; boven is het frisser dan in het dal."
+   ],
+   "en": [
+    "Pick a clear day; the Wilder Kaiser looks best then.",
+    "Combine the day with a ridge walk and a hut stop.",
+    "Ask about tandem flights beforehand if you are interested.",
+    "Take a jacket; it is cooler at the top than in the valley."
+   ],
+   "de": [
+    "Such dir einen klaren Tag aus; dann zeigt sich der Wilde Kaiser am schönsten.",
+    "Verbinde den Tag mit einer Wanderung auf dem Bergrücken und einer Hüttenrast.",
+    "Erkundige dich vorab nach Tandemflügen, falls dich das interessiert.",
+    "Nimm eine Jacke mit; oben ist es kühler als im Tal."
+   ]
+  },
+  "practical": {
+   "nl": "Söll ligt ca. 35 minuten rijden van Niederau, via Wörgl. De bergbahn rijdt in de zomer doorgaans van mei tot oktober; controleer de actuele tijden.",
+   "en": "Söll is about 35 minutes by car from Niederau, via Wörgl. The cable car generally runs from May to October in summer; check the current times.",
+   "de": "Söll liegt ca. 35 Autominuten von Niederau entfernt, über Wörgl. Die Bergbahn fährt im Sommer in der Regel von Mai bis Oktober; prüfe die aktuellen Zeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot oktober)",
+    "en": "Summer (approx. May to October)",
+    "de": "Sommer (ca. Mai bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Söll, Wilder Kaiser",
+   "en": "Söll, Wilder Kaiser",
+   "de": "Söll, Wilder Kaiser"
+  },
+  "url": "https://www.skiwelt.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je de Hohe Salve zowel vanuit Söll als vanuit Hopfgarten bereiken?",
+     "en": "Can you reach the Hohe Salve from both Söll and Hopfgarten?",
+     "de": "Kann man die Hohe Salve sowohl von Söll als auch von Hopfgarten erreichen?"
+    },
+    "a": {
+     "nl": "Ja, de berg heeft bergbahnen aan beide kanten. Kies de kant die het beste bij je dagplanning past.",
+     "en": "Yes, the mountain has cable cars on both sides. Choose the side that best fits your day.",
+     "de": "Ja, der Berg hat Bergbahnen auf beiden Seiten. Wähle die Seite, die am besten zu deinem Tagesplan passt."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s146",
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "brandstadl-scheffau",
+  "slug_de": "brandstadl-scheffau",
+  "title": {
+   "nl": "Brandstadl bij Scheffau",
+   "en": "Brandstadl above Scheffau",
+   "de": "Brandstadl bei Scheffau"
+  },
+  "tagline": {
+   "nl": "Wandelen en spelen met de Wilder Kaiser als achtergrond",
+   "en": "Walking and playing with the Wilder Kaiser as a backdrop",
+   "de": "Wandern und Spielen mit dem Wilden Kaiser als Kulisse"
+  },
+  "intro": {
+   "nl": "In Scheffau am Wilden Kaiser brengt de Brandstadlbahn, een gondel met acht plaatsen, je in de zomer naar ongeveer 1.650 m. Rond het bergstation ligt een mooi wandelgebied met uitzicht op de rotswanden van de Wilder Kaiser. Dichtbij het station vind je ook de KaiserWelt, een speelwereld voor gezinnen.\n\nDaar kunnen kinderen edelstenen zoeken, klimmen en langs beekjes spelen. Voor wandelaars zijn er eenvoudige paden naar onder meer het Jochstub'nsee en de panoramaroute naar het bergstation Hartkaiser in Ellmau. Het is een goede keuze voor wie het combineert met een halve dag spelen of een rustige tocht met de kinderen.",
+   "en": "In Scheffau am Wilden Kaiser the Brandstadlbahn, an eight-seat gondola, takes you in summer to around 1,650 m. Around the top station lies a pleasant walking area with views of the Wilder Kaiser rock walls. Close to the station you will also find the KaiserWelt, a play area for families.\n\nThere, children can search for gemstones, climb and play beside streams. For walkers there are easy paths to places such as the Jochstub'nsee and the panorama route to the Hartkaiser station in Ellmau. It is a good choice if you want half a day of play or a gentle outing with the children.",
+   "de": "In Scheffau am Wilden Kaiser bringt dich im Sommer die Brandstadlbahn, eine Achter-Gondel, auf rund 1.650 m. Rund um die Bergstation liegt ein schönes Wandergebiet mit Blick auf die Felswände des Wilden Kaisers. In der Nähe der Station findest du außerdem die KaiserWelt, eine Erlebniswelt für Familien.\n\nDort können Kinder Edelsteine suchen, klettern und an Bächen spielen. Für Wanderer gibt es leichte Wege, unter anderem zum Jochstub'nsee und die Panoramaroute zur Bergstation Hartkaiser in Ellmau. Es ist eine gute Wahl für einen halben Tag Spiel oder einen gemütlichen Ausflug mit den Kindern."
+  },
+  "tips": {
+   "nl": [
+    "Plan zeker tijd in voor de KaiserWelt als je met kinderen reist.",
+    "De panoramaroute naar Ellmau is langer; reken uit hoe je terugkomt.",
+    "Neem regenkleding mee; de weersomslag in de bergen gaat snel.",
+    "Controleer de bedrijfstijden van de bahn voor je vertrekt."
+   ],
+   "en": [
+    "Allow time for the KaiserWelt if you travel with children.",
+    "The panorama route to Ellmau is longer; work out how you will get back.",
+    "Bring rain gear; mountain weather changes quickly.",
+    "Check the lift's operating times before you leave."
+   ],
+   "de": [
+    "Plane Zeit für die KaiserWelt ein, wenn du mit Kindern unterwegs bist.",
+    "Die Panoramaroute nach Ellmau ist länger; überlege, wie du zurückkommst.",
+    "Nimm Regenkleidung mit; das Wetter schlägt in den Bergen schnell um.",
+    "Prüfe die Betriebszeiten der Bahn, bevor du losfährst."
+   ]
+  },
+  "practical": {
+   "nl": "Scheffau ligt ca. 40 minuten rijden van Niederau, via Wörgl en Söll. De Brandstadlbahn rijdt in de zomer doorgaans van half mei tot half oktober; tijden verschillen per jaar.",
+   "en": "Scheffau is about 40 minutes by car from Niederau, via Wörgl and Söll. The Brandstadlbahn generally runs from mid-May to mid-October in summer; times vary each year.",
+   "de": "Scheffau liegt ca. 40 Autominuten von Niederau entfernt, über Wörgl und Söll. Die Brandstadlbahn fährt im Sommer in der Regel von Mitte Mai bis Mitte Oktober; die Zeiten variieren jährlich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "About 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot oktober)",
+    "en": "Summer (approx. May to October)",
+    "de": "Sommer (ca. Mai bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Scheffau am Wilden Kaiser",
+   "en": "Scheffau am Wilden Kaiser",
+   "de": "Scheffau am Wilden Kaiser"
+  },
+  "url": "https://www.skiwelt.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen te doen bij het bergstation van Scheffau?",
+     "en": "What can children do at the Scheffau top station?",
+     "de": "Was können Kinder an der Bergstation in Scheffau machen?"
+    },
+    "a": {
+     "nl": "Er is de KaiserWelt met onder meer edelstenen zoeken, klimmen en spelen bij beekjes.",
+     "en": "There is the KaiserWelt, with gem searching, climbing and playing by streams.",
+     "de": "Es gibt die KaiserWelt mit Edelsteinsuche, Klettern und Spielen an Bächen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s15",
+  "drop": true,
+  "drop_reason": "Zonsopgangswandeling met gids via Hotel Wastlhof niet te bevestigen"
+ },
+ {
+  "id": "s150",
+  "drop": true,
+  "drop_reason": "Ringroute Söll-Hopfgarten niet te bevestigen; overlapt s131/s138"
+ },
+ {
+  "id": "s151",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hintertux",
+  "slug_en": "hintertux-glacier-summer",
+  "slug_de": "hintertuxer-gletscher-sommer",
+  "title": {
+   "nl": "Hintertuxer Gletscher in de zomer",
+   "en": "Hintertux Glacier in summer",
+   "de": "Hintertuxer Gletscher im Sommer"
+  },
+  "tagline": {
+   "nl": "Gletsjerlucht, ijsgrot en hooggebergte in het Zillertal",
+   "en": "Glacier air, an ice cave and high mountains in the Zillertal",
+   "de": "Gletscherluft, Eispalast und Hochgebirge im Zillertal"
+  },
+  "intro": {
+   "nl": "De Hintertuxer Gletscher, aan het einde van het Tuxertal in het Zillertal, is ook in de zomer een bezoek waard. Met de gletsjerbahnen kom je tot ruim 3.000 m hoogte, in een landschap van ijs en rots dat sterk afsteekt tegen het dal. Op de gletsjer wordt skiën in de zomer niet altijd aangeboden; dat hangt van de sneeuwcondities af.\n\nEen bijzondere stop is het Natur Eis Palast bij het bergstation van de Gletscherbus 3, een systeem van natuurlijke ijsgrotten met ijskristallen en een gletsjermeer. De temperatuur is er rond het vriespunt. Voor gezinnen is het vooral een dagje hooggebergte beleven; reken op kou, ook als het in het dal warm is.",
+   "en": "The Hintertux Glacier, at the end of the Tuxertal in the Zillertal, is worth a visit in summer too. The glacier lifts take you to well over 3,000 m, into a landscape of ice and rock that contrasts sharply with the valley. Skiing on the glacier is not always offered in summer; it depends on snow conditions.\n\nA special stop is the Natur Eis Palast near the top station of the Gletscherbus 3, a system of natural ice caves with ice crystals and a glacier lake. The temperature there hovers around freezing. For families it is mainly a day of experiencing the high mountains; expect cold, even when the valley is warm.",
+   "de": "Der Hintertuxer Gletscher am Ende des Tuxertals im Zillertal lohnt auch im Sommer einen Besuch. Mit den Gletscherbahnen gelangst du auf weit über 3.000 m, in eine Landschaft aus Eis und Fels, die sich stark vom Tal unterscheidet. Skifahren auf dem Gletscher wird im Sommer nicht immer angeboten; es hängt von den Schneeverhältnissen ab.\n\nEin besonderer Halt ist der Natur Eis Palast an der Bergstation der Gletscherbus 3, ein System natürlicher Eishöhlen mit Eiskristallen und einem Gletschersee. Dort herrschen Temperaturen um den Gefrierpunkt. Für Familien ist es vor allem ein Tag Hochgebirge erleben; rechne mit Kälte, auch wenn es im Tal warm ist."
+  },
+  "tips": {
+   "nl": [
+    "Neem warme kleding, een muts en handschoenen mee, ook in augustus.",
+    "Bekijk vooraf of skiën op de gletsjer in jouw week mogelijk is.",
+    "Start vroeg; boven trekt het in de middag vaak dicht.",
+    "Draag stevige schoenen en let op de hoogte met jonge kinderen."
+   ],
+   "en": [
+    "Take warm clothes, a hat and gloves, even in August.",
+    "Check beforehand whether glacier skiing is possible during your week.",
+    "Start early; it often clouds over at the top in the afternoon.",
+    "Wear sturdy shoes and be mindful of the altitude with young children."
+   ],
+   "de": [
+    "Nimm warme Kleidung, Mütze und Handschuhe mit, auch im August.",
+    "Prüfe vorab, ob Skifahren auf dem Gletscher in deiner Woche möglich ist.",
+    "Starte früh; oben zieht es nachmittags oft zu.",
+    "Trag feste Schuhe und achte mit kleinen Kindern auf die Höhe."
+   ]
+  },
+  "practical": {
+   "nl": "Hintertux ligt ca. 1 uur 15 minuten rijden van Niederau, via Wörgl en het Zillertal. Reken voor de rit naar boven extra tijd en bekijk de actuele bedrijfstijden.",
+   "en": "Hintertux is about 1 hour 15 minutes by car from Niederau, via Wörgl and the Zillertal. Allow extra time for the ride up and check the current operating times.",
+   "de": "Hintertux liegt ca. 1 Stunde 15 Minuten Autofahrt von Niederau entfernt, über Wörgl und das Zillertal. Plane für die Auffahrt zusätzliche Zeit ein und prüfe die aktuellen Betriebszeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden (let op kou en hoogte)",
+    "en": "All ages (mind cold and altitude)",
+    "de": "Für alle Altersgruppen (Kälte und Höhe beachten)"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 15 min rijden",
+    "en": "About 1 h 15 min by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (zomeraanbod wisselt)",
+    "en": "Year-round (summer offer varies)",
+    "de": "Ganzjährig (Sommerangebot variiert)"
+   }
+  },
+  "location": {
+   "nl": "Hintertux, Zillertal",
+   "en": "Hintertux, Zillertal",
+   "de": "Hintertux, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je in de zomer skiën op de Hintertuxer Gletscher?",
+     "en": "Can you ski on the Hintertux Glacier in summer?",
+     "de": "Kann man im Sommer am Hintertuxer Gletscher Ski fahren?"
+    },
+    "a": {
+     "nl": "Soms, maar niet altijd. Het hangt van de sneeuwcondities af, dus informeer vooraf.",
+     "en": "Sometimes, but not always. It depends on snow conditions, so ask beforehand.",
+     "de": "Manchmal, aber nicht immer. Es hängt von den Schneeverhältnissen ab, daher bitte vorab erfragen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s160",
+  "drop": false,
+  "drop_reason": "",
+  "place": "jenbach",
+  "slug_en": "karwendel-walk-pertisau-achensee",
+  "slug_de": "karwendel-wanderung-pertisau-achensee",
+  "title": {
+   "nl": "Karwendel-wandeling bij Pertisau",
+   "en": "Karwendel walk near Pertisau",
+   "de": "Karwendel-Wanderung bei Pertisau"
+  },
+  "tagline": {
+   "nl": "Wandelen boven het Achensee met uitzicht op Karwendel en Rofan",
+   "en": "Walking above the Achensee with Karwendel and Rofan views",
+   "de": "Wandern über dem Achensee mit Blick auf Karwendel und Rofan"
+  },
+  "intro": {
+   "nl": "Pertisau ligt aan het Achensee, het grootste meer van Tirol, en is een startpunt voor wandelingen het Karwendel in. Het Karwendel is een uitgestrekt natuurpark met ruige kalkwanden. Vanaf Pertisau lopen paden omhoog door bos en over alpenweiden, met af en toe een uitzicht over het meer en het Rofangebergte aan de overzijde.\n\nEr zijn routes van korte rondjes tot langere tochten. Steile paden vragen om goede wandelschoenen en een basisconditie, dus de langere routes passen vooral bij ouders met oudere kinderen. Wie het rustig wil houden, kan langs het meer wandelen en een boottocht of een zwempauze inplannen.",
+   "en": "Pertisau lies on the Achensee, Tyrol's largest lake, and is a starting point for walks into the Karwendel. The Karwendel is an extensive nature park with rugged limestone walls. From Pertisau, paths climb through forest and over alpine pastures, with the occasional view over the lake and the Rofan mountains opposite.\n\nRoutes range from short loops to longer outings. Steep paths call for good hiking shoes and basic fitness, so the longer routes suit mainly parents with older children. If you want to keep it relaxed, you can walk along the lake and plan a boat trip or a swim.",
+   "de": "Pertisau liegt am Achensee, dem größten See Tirols, und ist Ausgangspunkt für Wanderungen ins Karwendel. Das Karwendel ist ein weitläufiger Naturpark mit schroffen Kalkwänden. Von Pertisau führen Wege durch Wald und über Almwiesen nach oben, mit gelegentlichem Blick über den See und auf das Rofangebirge gegenüber.\n\nEs gibt Routen von kurzen Runden bis zu längeren Touren. Steile Wege verlangen gute Wanderschuhe und Grundkondition, daher passen die längeren Routen vor allem zu Eltern mit älteren Kindern. Wer es ruhig angehen will, spaziert am See entlang und plant eine Bootsfahrt oder eine Badepause ein."
+  },
+  "tips": {
+   "nl": [
+    "Start vroeg; in de ochtend is het meestal rustiger en helderder.",
+    "Draag goede wandelschoenen; sommige paden zijn steil.",
+    "Neem voldoende water mee; langs de route zijn niet overal voorzieningen.",
+    "Combineer de wandeling met een stop aan het meer."
+   ],
+   "en": [
+    "Start early; mornings are usually quieter and clearer.",
+    "Wear good hiking shoes; some paths are steep.",
+    "Bring enough water; there are not facilities everywhere along the route.",
+    "Combine the walk with a stop at the lake."
+   ],
+   "de": [
+    "Starte früh; am Vormittag ist es meist ruhiger und klarer.",
+    "Trag gute Wanderschuhe; manche Wege sind steil.",
+    "Nimm genug Wasser mit; nicht überall an der Strecke gibt es Einkehrmöglichkeiten.",
+    "Verbinde die Wanderung mit einem Halt am See."
+   ]
+  },
+  "practical": {
+   "nl": "Pertisau ligt ca. 50 minuten tot 1 uur rijden van Niederau, via de A12 (afrit Jenbach) en de weg naar het Achensee. Er is parkeergelegenheid in het dorp; de routes beginnen daar of in de buurt.",
+   "en": "Pertisau is about 50 minutes to 1 hour by car from Niederau, via the A12 (Jenbach exit) and the road to the Achensee. There is parking in the village; the routes start there or nearby.",
+   "de": "Pertisau liegt ca. 50 Minuten bis 1 Stunde Autofahrt von Niederau entfernt, über die A12 (Ausfahrt Jenbach) und die Straße zum Achensee. Im Ort gibt es Parkmöglichkeiten; die Routen beginnen dort oder in der Nähe."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar (afhankelijk van de route)",
+    "en": "From approx. 8 years (depending on the route)",
+    "de": "Ab ca. 8 Jahren (je nach Route)"
+   },
+   "duration": {
+    "nl": "Ca. 3 tot 5 uur, afhankelijk van de route",
+    "en": "About 3 to 5 hours, depending on the route",
+    "de": "Ca. 3 bis 5 Stunden, je nach Route"
+   },
+   "price": {
+    "nl": "Wandelen is gratis",
+    "en": "Walking is free",
+    "de": "Wandern ist kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 50 min tot 1 u rijden",
+    "en": "About 50 min to 1 h by car",
+    "de": "Ca. 50 Min. bis 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Pertisau, Achensee",
+   "en": "Pertisau, Achensee",
+   "de": "Pertisau, Achensee"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Karwendel-wandeling geschikt voor kinderen?",
+     "en": "Is the Karwendel walk suitable for children?",
+     "de": "Ist die Karwendel-Wanderung für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Korte routes bij het meer wel; de langere paden zijn steil en passen vooral bij oudere kinderen.",
+     "en": "Short routes near the lake yes; the longer paths are steep and suit mainly older children.",
+     "de": "Kurze Routen am See ja; die längeren Wege sind steil und passen eher zu älteren Kindern."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s164",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "pillersee-walks-alpine-pastures",
+  "slug_de": "pillersee-wanderungen-almwiesen",
+  "title": {
+   "nl": "Wandelen bij de Pillersee",
+   "en": "Walking around the Pillersee",
+   "de": "Wandern am Pillersee"
+  },
+  "tagline": {
+   "nl": "Rustige routes in het Pillerseetal onder de Loferer Steinberge",
+   "en": "Quiet routes in the Pillerseetal below the Loferer Steinberge",
+   "de": "Ruhige Wege im Pillerseetal unter den Loferer Steinbergen"
+  },
+  "intro": {
+   "nl": "Het Pillerseetal ligt ten noordoosten van Kitzbühel, rond de plaatsen St. Ulrich am Pillersee, St. Jakob in Haus en Fieberbrunn. In de zomer vind je er wandelpaden langs het meer en omhoog naar alpenweiden. Het uitzicht omvat de kalkwanden van de Loferer Steinberge.\n\nHet gebied staat bekend als rustiger dan de grote namen van de regio. Je kunt kiezen tussen korte tochten langs het water en langere routes door het bos naar de alm. Wandelkaarten en tips zijn verkrijgbaar bij de toeristenbureaus in het dal.",
+   "en": "The Pillerseetal lies north-east of Kitzbühel, around the villages of St. Ulrich am Pillersee, St. Jakob in Haus and Fieberbrunn. In summer you will find walking paths along the lake and up to alpine pastures. The view takes in the limestone walls of the Loferer Steinberge.\n\nThe area is known for being quieter than the region's bigger names. You can choose between short outings along the water and longer routes through forest up to the alm. Walking maps and tips are available from the tourist offices in the valley.",
+   "de": "Das Pillerseetal liegt nordöstlich von Kitzbühel, rund um St. Ulrich am Pillersee, St. Jakob in Haus und Fieberbrunn. Im Sommer findest du Wanderwege am See entlang und hinauf zu Almwiesen. Die Aussicht umfasst die Kalkwände der Loferer Steinberge.\n\nDie Region gilt als ruhiger als die großen Namen der Gegend. Du kannst zwischen kurzen Ausflügen am Wasser und längeren Routen durch den Wald zur Alm wählen. Wanderkarten und Tipps gibt es bei den Tourismusbüros im Tal."
+  },
+  "tips": {
+   "nl": [
+    "Haal een wandelkaart bij het toeristenbureau voor de actuele routes.",
+    "Plan een stop bij het meer en eventueel een zwempauze.",
+    "Draag goede schoenen als je naar de alpenweiden omhoog loopt.",
+    "Check het weer; in de bergen kan het snel omslaan."
+   ],
+   "en": [
+    "Pick up a walking map at the tourist office for current routes.",
+    "Plan a stop at the lake and possibly a swim.",
+    "Wear good shoes if you climb up to the alpine pastures.",
+    "Check the weather; it can change quickly in the mountains."
+   ],
+   "de": [
+    "Hol dir im Tourismusbüro eine Wanderkarte für aktuelle Routen.",
+    "Plane einen Halt am See und gegebenenfalls eine Badepause ein.",
+    "Trag gute Schuhe, wenn du zu den Almwiesen aufsteigst.",
+    "Prüfe das Wetter; in den Bergen kann es schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Het Pillerseetal ligt ca. 1 uur rijden van Niederau, via Wörgl, Kitzbühel en St. Johann. De routes starten meestal in of nabij de dorpen; parkeren is in de regel mogelijk.",
+   "en": "The Pillerseetal is about 1 hour by car from Niederau, via Wörgl, Kitzbühel and St. Johann. Routes mostly start in or near the villages; parking is generally available.",
+   "de": "Das Pillerseetal liegt ca. 1 Stunde Autofahrt von Niederau entfernt, über Wörgl, Kitzbühel und St. Johann. Die Routen starten meist in oder nahe den Orten; Parkplätze sind in der Regel vorhanden."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden (afhankelijk van de route)",
+    "en": "All ages (depending on the route)",
+    "de": "Für alle Altersgruppen (je nach Route)"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "About 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen is gratis",
+    "en": "Walking is free",
+    "de": "Wandern ist kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 1 u rijden",
+    "en": "About 1 h by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Pillerseetal, Tirol",
+   "en": "Pillerseetal, Tyrol",
+   "de": "Pillerseetal, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt de Pillersee?",
+     "en": "Where is the Pillersee?",
+     "de": "Wo liegt der Pillersee?"
+    },
+    "a": {
+     "nl": "In het Pillerseetal ten noordoosten van Kitzbühel, bij St. Ulrich am Pillersee.",
+     "en": "In the Pillerseetal north-east of Kitzbühel, near St. Ulrich am Pillersee.",
+     "de": "Im Pillerseetal nordöstlich von Kitzbühel, bei St. Ulrich am Pillersee."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s165",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "alpbach-village-visit",
+  "slug_de": "alpbach-dorfbesuch",
+  "title": {
+   "nl": "Alpbach, bloemendorp in Tirol",
+   "en": "Alpbach, Tyrol's flower village",
+   "de": "Alpbach, das Blumendorf in Tirol"
+  },
+  "tagline": {
+   "nl": "Houten boerderijen, bloemen en bergen in een zijdal van de Inn",
+   "en": "Timber farmhouses, flowers and mountains in a side valley of the Inn",
+   "de": "Holzhäuser, Blumen und Berge in einem Seitental des Inntals"
+  },
+  "intro": {
+   "nl": "Alpbach ligt in een zijdal van het Inntal, in het Alpbachtal, en staat bekend om zijn eenheid in bouwstijl: houten huizen met veel bloemen aan de balkons. Het dorp is meer dan eens bekroond voor zijn schoonheid en wordt vaak als een van de mooiste dorpen van Oostenrijk genoemd.\n\nJe kunt er een halve dag rondlopen langs de kerk, boerderijen en terrassen. In augustus is het dorp ook bekend door het Europäisches Forum Alpbach, een internationaal congres. De omliggende heuvels bieden korte wandelingen en uitzicht over het dal, dus het dorp combineert goed met een bergtocht of een wandeling over de weiden.",
+   "en": "Alpbach lies in a side valley of the Inn valley, in the Alpbachtal, and is known for its unity of building style: timber houses with plenty of flowers on the balconies. The village has been honoured more than once for its beauty and is often named among the most beautiful villages in Austria.\n\nYou can spend half a day strolling past the church, farmhouses and terraces. In August the village is also known for the Europäisches Forum Alpbach, an international congress. The surrounding hills offer short walks and views over the valley, so the village combines well with a mountain trip or a walk across the meadows.",
+   "de": "Alpbach liegt in einem Seitental des Inntals, im Alpbachtal, und ist bekannt für seine einheitliche Bauweise: Holzhäuser mit viel Blumenschmuck an den Balkonen. Das Dorf wurde mehrfach für seine Schönheit ausgezeichnet und wird oft zu den schönsten Dörfern Österreichs gezählt.\n\nDu kannst einen halben Tag an Kirche, Bauernhäusern und Terrassen vorbei flanieren. Im August ist der Ort außerdem durch das Europäische Forum Alpbach bekannt, einen internationalen Kongress. Die umliegenden Hügel bieten kurze Spaziergänge und Aussicht über das Tal, sodass sich der Besuch gut mit einer Bergfahrt oder einem Spaziergang über die Wiesen verbinden lässt."
+  },
+  "tips": {
+   "nl": [
+    "Kom in de ochtend; dan is het rustiger en het licht mooier voor foto's.",
+    "Houd er rekening mee dat de weg naar het dorp smal en bochtig kan zijn.",
+    "Combineer het bezoek met de Wiedersbergerhornbahn voor uitzicht.",
+    "Bekijk de agenda als je een bepaald evenement wilt zien."
+   ],
+   "en": [
+    "Come in the morning; it is quieter and the light is better for photos.",
+    "Bear in mind that the road to the village can be narrow and winding.",
+    "Combine the visit with the Wiedersbergerhornbahn for views.",
+    "Check the events calendar if you want to see a particular event."
+   ],
+   "de": [
+    "Komm am Vormittag; dann ist es ruhiger und das Licht schöner für Fotos.",
+    "Beachte, dass die Straße ins Dorf eng und kurvig sein kann.",
+    "Verbinde den Besuch mit der Wiedersbergerhornbahn für die Aussicht.",
+    "Schau in den Veranstaltungskalender, wenn du eine bestimmte Veranstaltung sehen möchtest."
+   ]
+  },
+  "practical": {
+   "nl": "Alpbach ligt ca. 35 minuten rijden van Niederau, via Brixlegg of de Inntalautobahn en het Alpbachtal. De weg naar het dorp is plaatselijk smal; er zijn parkeerplaatsen bij het dorp.",
+   "en": "Alpbach is about 35 minutes by car from Niederau, via Brixlegg or the Inn valley motorway and the Alpbachtal. The road to the village is narrow in places; there are car parks near the village.",
+   "de": "Alpbach liegt ca. 35 Autominuten von Niederau entfernt, über Brixlegg oder die Inntalautobahn und das Alpbachtal. Die Straße ins Dorf ist stellenweise eng; in Dorfnähe gibt es Parkplätze."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Een wandeling door het dorp is gratis",
+    "en": "A walk through the village is free",
+    "de": "Ein Spaziergang durch das Dorf ist kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "Year-round",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Alpbach, Alpbachtal",
+   "en": "Alpbach, Alpbachtal",
+   "de": "Alpbach, Alpbachtal"
+  },
+  "url": "https://www.alpbachtal.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom staat Alpbach bekend?",
+     "en": "What is Alpbach known for?",
+     "de": "Wofür ist Alpbach bekannt?"
+    },
+    "a": {
+     "nl": "Voor zijn eenheid in bouwstijl met houten huizen en veel bloemen, en voor het Europäisches Forum Alpbach in augustus.",
+     "en": "For its uniform timber architecture with plenty of flowers, and for the Europäisches Forum Alpbach in August.",
+     "de": "Für seine einheitliche Holzarchitektur mit viel Blumenschmuck und für das Europäische Forum Alpbach im August."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s166",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "wiedersbergerhorn-cable-car-alpbach",
+  "slug_de": "wiedersbergerhornbahn-alpbach",
+  "title": {
+   "nl": "Wiedersbergerhornbahn Alpbach",
+   "en": "Wiedersbergerhornbahn, Alpbach",
+   "de": "Wiedersbergerhornbahn Alpbach"
+  },
+  "tagline": {
+   "nl": "Met de gondel naar alpenweiden en het Lauserland",
+   "en": "By gondola to alpine pastures and the Lauserland",
+   "de": "Mit der Gondel zu Almwiesen und ins Lauserland"
+  },
+  "intro": {
+   "nl": "De Wiedersbergerhornbahn in Alpbach is een gondel met zes plaatsen die je in de zomer naar een wandel- en weidegebied op ongeveer 1.850 m brengt. Boven liggen hutten, weiden met vee en panoramapaden rond het Wiedersberger Horn, met uitzicht op de naburige dalen.\n\nVoor gezinnen is er het Lauserland, met diverse speel- en belevingsstations bij het bergstation. Rond eind juni en begin juli kan de alpenroos er mooi bloeien. Het aanbod is geschikt voor een rustige halve dag, bijvoorbeeld met een hutstop, maar ook als startpunt voor langere wandelingen.",
+   "en": "The Wiedersbergerhornbahn in Alpbach is a six-seat gondola that takes you in summer to a hiking and pasture area at around 1,850 m. At the top there are huts, grazing cattle and panorama paths around the Wiedersberger Horn, with views of the neighbouring valleys.\n\nFor families there is the Lauserland, with various play and adventure stations near the top station. Around late June and early July the alpine rose can bloom beautifully. It suits a relaxed half day, for example with a hut stop, but also serves as a starting point for longer hikes.",
+   "de": "Die Wiedersbergerhornbahn in Alpbach ist eine Sechser-Gondel, die dich im Sommer in ein Wander- und Almgebiet auf rund 1.850 m bringt. Oben gibt es Hütten, weidendes Vieh und Panoramawege rund um das Wiedersberger Horn, mit Blick auf die Nachbartäler.\n\nFür Familien gibt es das Lauserland mit verschiedenen Spiel- und Erlebnisstationen an der Bergstation. Etwa Ende Juni und Anfang Juli kann die Almrose hier schön blühen. Das Angebot passt zu einem entspannten halben Tag, zum Beispiel mit Hüttenrast, dient aber auch als Ausgangspunkt für längere Wanderungen."
+  },
+  "tips": {
+   "nl": [
+    "Kijk of je een Alpbachtal Card hebt; die kan de bahn in de zomer gratis maken.",
+    "Plan tijd in voor de speelstations van het Lauserland.",
+    "Neem een extra laag kleding mee; boven kan het fris zijn.",
+    "Combineer de rit met een wandeling door het dorp Alpbach."
+   ],
+   "en": [
+    "Check whether you have an Alpbachtal Card; it can make the lift free in summer.",
+    "Allow time for the Lauserland play stations.",
+    "Bring an extra layer; it can be cool at the top.",
+    "Combine the trip with a walk through Alpbach village."
+   ],
+   "de": [
+    "Prüfe, ob du eine Alpbachtal Card hast; sie kann die Bahn im Sommer kostenlos machen.",
+    "Plane Zeit für die Spielstationen im Lauserland ein.",
+    "Nimm eine zusätzliche Schicht mit; oben kann es kühl sein.",
+    "Verbinde die Fahrt mit einem Spaziergang durch das Dorf Alpbach."
+   ]
+  },
+  "practical": {
+   "nl": "Het dalstation ligt in het Alpbachtal, ca. 35 tot 40 minuten rijden van Niederau. De bahn rijdt in de zomer doorgaans van eind mei tot in november; controleer de actuele tijden.",
+   "en": "The valley station is in the Alpbachtal, about 35 to 40 minutes by car from Niederau. The lift generally runs from late May to November in summer; check the current times.",
+   "de": "Die Talstation liegt im Alpbachtal, ca. 35 bis 40 Autominuten von Niederau entfernt. Die Bahn fährt im Sommer in der Regel von Ende Mai bis November; prüfe die aktuellen Zeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 35 tot 40 min rijden",
+    "en": "About 35 to 40 min by car",
+    "de": "Ca. 35 bis 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot november)",
+    "en": "Summer (approx. May to November)",
+    "de": "Sommer (ca. Mai bis November)"
+   }
+  },
+  "location": {
+   "nl": "Alpbach, Alpbachtal",
+   "en": "Alpbach, Alpbachtal",
+   "de": "Alpbach, Alpbachtal"
+  },
+  "url": "https://www.alpbachtal.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het Lauserland?",
+     "en": "What is the Lauserland?",
+     "de": "Was ist das Lauserland?"
+    },
+    "a": {
+     "nl": "Een speel- en belevingsgebied voor gezinnen bij het bergstation van de Wiedersbergerhornbahn.",
+     "en": "A play and adventure area for families near the top station of the Wiedersbergerhornbahn.",
+     "de": "Ein Spiel- und Erlebnisbereich für Familien an der Bergstation der Wiedersbergerhornbahn."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s173",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "alm-hike-st-johann-tirol",
+  "slug_de": "almwanderung-st-johann-in-tirol",
+  "title": {
+   "nl": "Almwandeling bij St. Johann in Tirol",
+   "en": "Alm hike near St. Johann in Tirol",
+   "de": "Almwanderung bei St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Panorama op de Wilder Kaiser en de Kitzbüheler Alpen",
+   "en": "Panorama of the Wilder Kaiser and the Kitzbühel Alps",
+   "de": "Panorama auf den Wilden Kaiser und die Kitzbüheler Alpen"
+  },
+  "intro": {
+   "nl": "St. Johann in Tirol ligt in een brede vallei tussen de Wilder Kaiser en de Kitzbüheler Alpen. In de zomer lopen er wandelroutes door weiden en bos naar alpenhutten, met uitzicht op de ruige Kaiserwanden aan de ene kant en de zachtere bergen van de Kitzbüheler Alpen aan de andere.\n\nEr zijn routes van korte rondjes tot langere dagwandelingen. Op de hutten kun je meestal een eenvoudige Tiroler hap en drink nemen, bijvoorbeeld karnemelk of een broodplank. Informeer bij het toeristenbureau welke route het best bij jullie conditie en de leeftijd van de kinderen past.",
+   "en": "St. Johann in Tirol lies in a broad valley between the Wilder Kaiser and the Kitzbühel Alps. In summer, walking routes lead through meadows and forest to alpine huts, with views of the rugged Kaiser walls on one side and the gentler mountains of the Kitzbühel Alps on the other.\n\nRoutes range from short loops to longer day hikes. At the huts you can usually get a simple Tyrolean snack and drink, such as buttermilk or a platter of bread and cold cuts. Ask the tourist office which route best matches your fitness and your children's ages.",
+   "de": "St. Johann in Tirol liegt in einem breiten Tal zwischen dem Wilden Kaiser und den Kitzbüheler Alpen. Im Sommer führen Wanderwege durch Wiesen und Wald zu Almhütten, mit Blick auf die schroffen Kaiserwände auf der einen und die sanfteren Berge der Kitzbüheler Alpen auf der anderen Seite.\n\nEs gibt Routen von kurzen Runden bis zu längeren Tageswanderungen. Auf den Hütten bekommt man meist eine einfache Tiroler Brotzeit und Getränke, etwa Buttermilch oder eine Jause. Frag im Tourismusbüro, welche Route am besten zu eurer Kondition und dem Alter der Kinder passt."
+  },
+  "tips": {
+   "nl": [
+    "Haal een wandelkaart bij het toeristenbureau.",
+    "Vertrek bij voorkeur 's ochtends; in de zomer kan het in de middag onweren.",
+    "Draag goede schoenen en neem water mee.",
+    "Kies voor jonge kinderen een korte route met een hut als doel."
+   ],
+   "en": [
+    "Pick up a walking map from the tourist office.",
+    "Set off in the morning if possible; thunderstorms can occur in summer afternoons.",
+    "Wear good shoes and bring water.",
+    "For young children choose a short route with a hut as the goal."
+   ],
+   "de": [
+    "Hol dir eine Wanderkarte im Tourismusbüro.",
+    "Starte möglichst vormittags; im Sommer kann es nachmittags gewittern.",
+    "Trag gute Schuhe und nimm Wasser mit.",
+    "Wähle für kleine Kinder eine kurze Route mit einer Hütte als Ziel."
+   ]
+  },
+  "practical": {
+   "nl": "St. Johann in Tirol ligt ca. 50 minuten rijden van Niederau, via Wörgl en Kitzbühel of via Kufstein. De routes starten meestal in of nabij het dorp; er zijn parkeergelegenheden.",
+   "en": "St. Johann in Tirol is about 50 minutes by car from Niederau, via Wörgl and Kitzbühel or via Kufstein. Routes mostly start in or near the village; parking is available.",
+   "de": "St. Johann in Tirol liegt ca. 50 Autominuten von Niederau entfernt, über Wörgl und Kitzbühel oder über Kufstein. Die Routen beginnen meist im oder nahe dem Ort; es gibt Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar (afhankelijk van de route)",
+    "en": "From approx. 6 years (depending on the route)",
+    "de": "Ab ca. 6 Jahren (je nach Route)"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "About 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen is gratis",
+    "en": "Walking is free",
+    "de": "Wandern ist kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "About 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welk uitzicht heb je tijdens de wandeling bij St. Johann?",
+     "en": "What views do you get on the hike near St. Johann?",
+     "de": "Welche Aussicht hat man bei der Wanderung bei St. Johann?"
+    },
+    "a": {
+     "nl": "Je ziet de Wilder Kaiser en de Kitzbüheler Alpen, afhankelijk van de route.",
+     "en": "You see the Wilder Kaiser and the Kitzbühel Alps, depending on the route.",
+     "de": "Je nach Route siehst du den Wilden Kaiser und die Kitzbüheler Alpen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s179",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "hahnenkamm-summer-kitzbuehel",
+  "slug_de": "hahnenkamm-sommer-kitzbuehel",
+  "title": {
+   "nl": "Hahnenkamm in de zomer",
+   "en": "Hahnenkamm in summer",
+   "de": "Hahnenkamm im Sommer"
+  },
+  "tagline": {
+   "nl": "Met de gondel boven Kitzbühel: wandelen, uitzicht en hutten",
+   "en": "By cable car above Kitzbühel: walking, views and huts",
+   "de": "Mit der Gondel über Kitzbühel: Wandern, Aussicht und Hütten"
+  },
+  "intro": {
+   "nl": "De Hahnenkamm is de berg boven Kitzbühel, in de winter bekend van de Streif-afdaling. In de zomer is het een wandel- en fietsberg. De Hahnenkammbahn gaat vanuit het centrum van Kitzbühel naar het bergstation op ongeveer 1.650 m. Het hoogste punt van de berg, de Ehrenbachhöhe, ligt op 1.802 m.\n\nVanaf het bergstation vertrekken wandelpaden met uitzicht op de Kitzbüheler Alpen en verder, onder meer een route langs meertjes en naar de Ehrenbachhöhe. Er zijn berghutten voor een pauze, en voor wie van activiteit houdt zijn er ook fietsroutes. De rit omhoog begint direct in de stad, wat het geschikt maakt voor een halve dag.",
+   "en": "The Hahnenkamm is the mountain above Kitzbühel, known in winter for the Streif downhill. In summer it is a hiking and biking mountain. The Hahnenkammbahn runs from the centre of Kitzbühel to the top station at around 1,650 m. The mountain's highest point, the Ehrenbachhöhe, is at 1,802 m.\n\nFrom the top station, hiking paths lead off with views of the Kitzbühel Alps and beyond, including a route past small lakes to the Ehrenbachhöhe. There are mountain huts for a break, and for those who like activity there are also cycling routes. The ride up starts right in town, which makes it suitable for half a day.",
+   "de": "Der Hahnenkamm ist der Berg über Kitzbühel, im Winter bekannt durch die Streif-Abfahrt. Im Sommer ist er ein Wander- und Radberg. Die Hahnenkammbahn fährt vom Zentrum von Kitzbühel zur Bergstation auf rund 1.650 m. Der höchste Punkt des Bergs, die Ehrenbachhöhe, liegt auf 1.802 m.\n\nVon der Bergstation führen Wanderwege mit Blick auf die Kitzbüheler Alpen und darüber hinaus, unter anderem eine Route an kleinen Seen vorbei zur Ehrenbachhöhe. Es gibt Berghütten für eine Pause, und wer Bewegung mag, findet auch Radrouten. Die Auffahrt beginnt direkt in der Stadt, was sich für einen halben Tag eignet."
+  },
+  "tips": {
+   "nl": [
+    "Kies een dag met helder weer voor het meeste uitzicht.",
+    "Loop een deel van de route naar de Ehrenbachhöhe als je een korte wandeling wilt.",
+    "Combineer de dag met een bezoek aan de binnenstad van Kitzbühel.",
+    "Controleer de bedrijfstijden van de bahn vooraf."
+   ],
+   "en": [
+    "Choose a clear day for the best views.",
+    "Walk part of the route to the Ehrenbachhöhe if you want a short hike.",
+    "Combine the day with a visit to Kitzbühel's town centre.",
+    "Check the lift's operating times in advance."
+   ],
+   "de": [
+    "Wähle einen klaren Tag für die beste Aussicht.",
+    "Geh einen Teil der Route zur Ehrenbachhöhe, wenn du eine kurze Wanderung möchtest.",
+    "Verbinde den Tag mit einem Besuch der Kitzbüheler Innenstadt.",
+    "Prüfe vorab die Betriebszeiten der Bahn."
+   ]
+  },
+  "practical": {
+   "nl": "Kitzbühel ligt ca. 50 minuten rijden van Niederau, via Wörgl en de B170. De Hahnenkammbahn start in de buurt van het centrum; in de stad zijn betaalde parkeergelegenheden.",
+   "en": "Kitzbühel is about 50 minutes by car from Niederau, via Wörgl and the B170. The Hahnenkammbahn starts close to the centre; there is paid parking in town.",
+   "de": "Kitzbühel liegt ca. 50 Autominuten von Niederau entfernt, über Wörgl und die B170. Die Hahnenkammbahn startet nahe dem Zentrum; in der Stadt gibt es gebührenpflichtige Parkplätze."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "About 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel",
+   "en": "Kitzbühel",
+   "de": "Kitzbühel"
+  },
+  "url": "https://www.kitzbuehel.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog is de Hahnenkamm?",
+     "en": "How high is the Hahnenkamm?",
+     "de": "Wie hoch ist der Hahnenkamm?"
+    },
+    "a": {
+     "nl": "Het bergstation ligt op ongeveer 1.650 m; het hoogste punt, de Ehrenbachhöhe, op 1.802 m.",
+     "en": "The top station is at around 1,650 m; the highest point, the Ehrenbachhöhe, is at 1,802 m.",
+     "de": "Die Bergstation liegt auf rund 1.650 m; der höchste Punkt, die Ehrenbachhöhe, auf 1.802 m."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s18",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "markbachjoch-picnic-niederau",
+  "slug_de": "markbachjoch-picknick-niederau",
+  "title": {
+   "nl": "Picknick op het Markbachjoch",
+   "en": "Picnic on the Markbachjoch",
+   "de": "Picknick am Markbachjoch"
+  },
+  "tagline": {
+   "nl": "Met de gondel uit Niederau naar de alpenweiden voor een picknick met uitzicht",
+   "en": "By gondola from Niederau to alpine pastures for a picnic with a view",
+   "de": "Mit der Gondel ab Niederau zur Almwiese für ein Picknick mit Aussicht"
+  },
+  "intro": {
+   "nl": "Het Markbachjoch ligt direct boven Niederau. De Markbachjochbahn, een gondel met acht plaatsen, brengt je in de zomer van ongeveer 835 m naar 1.465 m. Dat maakt het een van de makkelijkste manieren om vanuit het dorp op de berg te komen, ook met kleine kinderen of buggy's op de eerste paden.\n\nBoven liggen wandelpaden met uitzicht op de Wilder Kaiser, hutten en een speelplek. Een picknick past er goed: koop vooraf in het dorp brood, kaas en fruit, neem een kleed mee en zoek een plek met uitzicht. Wie liever loopt, kan ook te voet omhoog of omlaag. Er zijn korte routes naar onder meer de Norderbergalm en de Kasalm.",
+   "en": "The Markbachjoch lies directly above Niederau. The Markbachjochbahn, an eight-seat gondola, takes you in summer from about 835 m to 1,465 m. That makes it one of the easiest ways to reach the mountain from the village, even with small children or pushchairs on the first paths.\n\nAt the top there are walking trails with views of the Wilder Kaiser, huts and a playground. A picnic fits well: buy bread, cheese and fruit in the village beforehand, bring a blanket and find a spot with a view. If you prefer to walk, you can also go up or down on foot. There are short routes to places such as the Norderbergalm and the Kasalm.",
+   "de": "Das Markbachjoch liegt direkt oberhalb von Niederau. Die Markbachjochbahn, eine Achter-Gondel, bringt dich im Sommer von etwa 835 m auf 1.465 m. Damit ist es eine der einfachsten Möglichkeiten, vom Dorf auf den Berg zu kommen, auch mit kleinen Kindern oder Kinderwagen auf den ersten Wegen.\n\nOben gibt es Wanderwege mit Blick auf den Wilden Kaiser, Hütten und einen Spielplatz. Ein Picknick passt gut: Kauf vorher im Dorf Brot, Käse und Obst, nimm eine Decke mit und such dir einen Platz mit Aussicht. Wer lieber geht, kann auch zu Fuß hinauf oder hinunter. Es gibt kurze Routen unter anderem zur Norderbergalm und zur Kasalm."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf de weersvoorspelling en neem een jas mee.",
+    "Neem een kleed, afval­zak en voldoende water mee.",
+    "Blijf bij weidend vee op afstand en laat hekken zoals ze waren.",
+    "Combineer het picknick met de speelplek of een hutstop."
+   ],
+   "en": [
+    "Check the weather forecast beforehand and bring a jacket.",
+    "Bring a blanket, a rubbish bag and enough water.",
+    "Keep your distance from grazing cattle and leave gates as you found them.",
+    "Combine the picnic with the playground or a hut stop."
+   ],
+   "de": [
+    "Prüfe vorab den Wetterbericht und nimm eine Jacke mit.",
+    "Nimm eine Decke, einen Müllbeutel und genug Wasser mit.",
+    "Halte Abstand zu weidendem Vieh und lass Gatter so, wie du sie vorgefunden hast.",
+    "Verbinde das Picknick mit dem Spielplatz oder einer Hüttenrast."
+   ]
+  },
+  "practical": {
+   "nl": "De Markbachjochbahn start in Niederau zelf, in het dorp. Je bent er in enkele minuten, te voet of met de auto. De bahn rijdt in de zomer doorgaans van mei tot half oktober; controleer de actuele tijden.",
+   "en": "The Markbachjochbahn starts in Niederau itself, in the village. You are there within minutes, on foot or by car. The lift generally runs from May to mid-October in summer; check the current times.",
+   "de": "Die Markbachjochbahn startet in Niederau selbst, im Ort. Du bist in wenigen Minuten dort, zu Fuß oder mit dem Auto. Die Bahn fährt im Sommer in der Regel von Mai bis Mitte Oktober; prüfe die aktuellen Zeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur, afhankelijk van de route",
+    "en": "About 2 to 4 hours, depending on the route",
+    "de": "Ca. 2 bis 4 Stunden, je nach Route"
+   },
+   "price": {
+    "nl": "Picknick zelf meebrengen; bahn kost extra",
+    "en": "Bring your own picnic; the lift costs extra",
+    "de": "Picknick selbst mitbringen; die Bahn kostet extra"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot half oktober)",
+    "en": "Summer (approx. May to mid-October)",
+    "de": "Sommer (ca. Mai bis Mitte Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
+  "url": "https://www.skijuwel.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe kom je op het Markbachjoch?",
+     "en": "How do you get to the Markbachjoch?",
+     "de": "Wie kommt man aufs Markbachjoch?"
+    },
+    "a": {
+     "nl": "Met de Markbachjochbahn vanuit Niederau, of te voet. Het bergstation ligt op 1.465 m.",
+     "en": "By the Markbachjochbahn from Niederau, or on foot. The top station is at 1,465 m.",
+     "de": "Mit der Markbachjochbahn ab Niederau oder zu Fuß. Die Bergstation liegt auf 1.465 m."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s188",
+  "drop": true,
+  "drop_reason": "Forellenpark/zoetwaterakwarium in Kramsach niet te vinden (wel Museum Tiroler Bauernhöfe en Reintalersee)"
+ }
+]
