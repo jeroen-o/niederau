@@ -139,6 +139,14 @@ urls = "".join(f'''  <url><loc>{c["url"]}</loc><lastmod>{TODAY}</lastmod>
     <image:image><image:loc>{BASE}/assets/img/markbachjoch-bergmeer-zomer-hero-2048.webp</image:loc></image:image>
     <image:image><image:loc>{OG_IMAGE}</image:loc></image:image></url>
 ''' for c in LANGS.values())
+urls += "".join(f'''  <url><loc>{u}</loc><lastmod>{TODAY}</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="{BASE}/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="{BASE}/en/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="{BASE}/de/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{BASE}/en/markbachjoch/"/>
+    <image:image><image:loc>{BASE}/assets/img/niederau-markbachjochbahn-gondel.webp</image:loc></image:image>
+    <image:image><image:loc>{BASE}/assets/img/niederau-skien-markbachjoch.webp</image:loc></image:image></url>
+''' for u in (f"{BASE}/markbachjoch/", f"{BASE}/en/markbachjoch/", f"{BASE}/de/markbachjoch/"))
 (ROOT / "sitemap.xml").write_text(f'''<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 {urls}</urlset>
@@ -196,6 +204,11 @@ urls = "".join(f'''  <url><loc>{c["url"]}</loc><lastmod>{TODAY}</lastmod>
 - Dogs: EU pet passport, microchip and valid rabies vaccination required; ask accommodation beforehand (policies differ); keep dogs on a lead on alpine pastures with cattle; clear up droppings; cross-country trails and prepared slopes are for skiers.
 - Horses: Hotel Wastlhof has had riding stables for 50+ years (about 15 horses incl. Haflingers, indoor school, outdoor arena with show-jumping course; lessons, pony rides for ages 3–6, outrides for experienced riders). Bringing your own horse is only possible where guest boxes exist: ask the accommodation or the tourist office in advance.
 
+## Markbachjoch (own page: /markbachjoch/, /en/markbachjoch/, /de/markbachjoch/)
+- The Markbachjoch (summit about 1,496 m) is the house mountain of Niederau and has the oldest mountain lift of the Wildschönau: the first chairlift in Tyrol opened here on 14 January 1947 (construction began 1946, engineer Sepp Hochmuth; self-built with wooden boards, wires, water pipes and an old tank engine). A two-person chairlift (Swoboda) followed in 1972; since 1995 the eight-person gondola Markbachjochbahn (Doppelmayr, ride about 6 minutes, about 1,200 persons/hour) runs from Niederau. 75th anniversary in 2022.
+- Huts and restaurants: Rübezahl-Hütte (panorama inn with sun terrace near the top station), Markbachjochalm (playground, petting zoo), Schnapshütte (snack bar at the valley station), Norderbergalm (about 1,360 m, roughly 30 minutes' walk). Opening times vary by season.
+- Summer: hiking to the Rosskopf (via Halsgatterl) or Feldalphorn, forest-edge walk to Penningdörfl, paragliding take-off below the hut. Winter: wide sunny slopes for beginners and families, steeper north slopes (Hochberg run).
+
 ## Tourist office
 - Wildschönau Tourismus (tourist office for Niederau and the whole valley): Hauserweg, Oberau 337, 6311 Wildschönau, +43 5339 8255, info@wildschoenau.com, https://www.wildschoenau.com/ – accommodation in all four villages, events, lift and trail information.
 
@@ -203,5 +216,6 @@ urls = "".join(f'''  <url><loc>{c["url"]}</loc><lastmod>{TODAY}</lastmod>
 - [Nederlands]({BASE}/): Niederau en de Wildschönau
 - [English]({BASE}/en/): Niederau and the Wildschönau
 - [Deutsch]({BASE}/de/): Niederau und die Wildschönau
+- [Markbachjoch (NL)]({BASE}/markbachjoch/), [Markbachjoch (EN)]({BASE}/en/markbachjoch/), [Markbachjoch (DE)]({BASE}/de/markbachjoch/): lifts, huts, history
 """, encoding="utf-8")
 print("sitemap.xml en llms.txt bijgewerkt")

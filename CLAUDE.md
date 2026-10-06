@@ -9,3 +9,4 @@
 - Geen externe API's, geen build-stap voor de site zelf, geen localStorage; Nederlandse getalnotatie.
 - Feiten alleen uit betrouwbare bron (hotel, toeristische organisatie of de eigenaar); onzekere feiten voorzichtig formuleren.
 - Schrijf alle teksten zelf, in eigen woorden. Neem nooit teksten over van hotelwastlhof.at, wildschoenau.com of andere sites; alleen feiten. Controleer met de 6-woordenscan tegen de hotelexport als die beschikbaar is.
+- De losse pagina `markbachjoch/` (NL) met `en/markbachjoch/` en `de/markbachjoch/` wordt volledig gegenereerd door `tools/subpages.py` (teksten per taal naast elkaar, eigen SEO/GEO-blok); die drie bestanden nooit los bewerken. Sitemap en llms.txt staan in `tools/seo.py`.

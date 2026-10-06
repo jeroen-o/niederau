@@ -5,3 +5,4 @@ set -e
 cd "$(dirname "$0")/.."
 python3 tools/translate.py
 python3 tools/seo.py
+python3 tools/subpages.py
