@@ -192,7 +192,7 @@ if _reg.exists():
 
 ## Partner
 - Hotel Wastlhof (partner of Niederau.nl): four-star wellness hotel run by the Brunner family for three generations, with indoor and year-round heated outdoor pool and its own riding stables (about 15 horses, including Haflingers), Wildschönauerstraße Niederau 206, 6314 Wildschönau, +43 5339 8247, info@hotelwastlhof.at, https://www.hotelwastlhof.at/
-- Photo gallery (section #fotos on every page): about 45 photos of Niederau and the Wildschönau through the seasons; many photos were kindly provided by Hotel Wastlhof, which the site thanks for their use.
+- Photo gallery (section #fotos on every page): about 130 photos of Niederau and the Wildschönau through the seasons (selection on the home page; full gallery by season at https://niederau.nl/en/photos/); many photos were kindly provided by Hotel Wastlhof, which the site thanks for their use.
 
 ## Seasons and calendar
 - Spring (March–May): sunny skiing in March, quiet April/May, many lifts and huts pause between seasons; higher trails can hold snow into May.

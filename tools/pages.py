@@ -27,6 +27,7 @@ UI = {
  "n_place": ("Omgeving", "Around Niederau", "Umgebung"),
  "events_h": ("Terugkerende evenementen", "Recurring events", "Wiederkehrende Veranstaltungen"),
  "guides_h": ("Handige gidsen", "Useful guides", "Hilfreiche Ratgeber"),
+ "n_photos": ("Foto’s", "Photos", "Fotos"),
  "n_about": ("Over deze site", "About this site", "Über diese Seite"),
  "n_guides": ("Gidsen", "Guides", "Ratgeber"),
  "read_more": ("Lees meer", "Read more", "Mehr lesen"),
@@ -349,6 +350,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
         <li><a href="{u_events(lang)}">{ui("n_events", lang)}</a></li>
         <li><a href="{u_guides(lang)}">{ui("n_guides", lang)}</a></li>
         <li><a href="{u_about(lang)}">{ui("n_about", lang)}</a></li>
+        <li><a href="{u_photos(lang)}">{ui("n_photos", lang)}</a></li>
         <li><a href="/{PREFIX[lang]}markbachjoch/">{ui("n_mb", lang)}</a></li>
       </ul>
     </div>
@@ -827,6 +829,49 @@ def build_about():
         write(urls[lang], shell(lang, "about", urls, f"{name} | Niederau.nl", desc, body, ld))
     registry.append(("about", urls, None))
 
+PHOTOS_PG = {
+ "slug": ("fotos", "photos", "fotos"),
+ "title": ("Foto’s van Niederau en de Wildschönau", "Photos of Niederau and the Wildschönau", "Fotos von Niederau und der Wildschönau"),
+ "tagline": ("Alle foto’s van het dal, per seizoen", "All photos of the valley, by season", "Alle Fotos aus dem Tal, nach Jahreszeit"),
+ "intro": ("Een verzameling foto’s van Niederau en omgeving: pistes en liften in de winter, wandelpaden, meren en weiden in de zomer en herfst, en beelden van onze partner Hotel Wastlhof. Tik of klik op een foto om hem groter te bekijken.",
+           "A collection of photos of Niederau and the surrounding area: slopes and lifts in winter, footpaths, lakes and meadows in summer and autumn, and pictures from our partner Hotel Wastlhof. Tap or click a photo to enlarge it.",
+           "Eine Sammlung von Fotos aus Niederau und Umgebung: Pisten und Lifte im Winter, Wanderwege, Seen und Wiesen im Sommer und Herbst sowie Bilder unseres Partners Hotel Wastlhof. Tippen oder klicken Sie auf ein Foto, um es zu vergrößern."),
+ "sec": {
+  "winter": ("Winter", "Winter", "Winter"),
+  "summer": ("Zomer en herfst", "Summer and autumn", "Sommer und Herbst"),
+  "hotel": ("Hotel Wastlhof", "Hotel Wastlhof", "Hotel Wastlhof")},
+ "secp": {
+  "winter": ("Pistes, liften, rodelbanen en winterlandschappen.", "Slopes, lifts, toboggan runs and winter landscapes.", "Pisten, Lifte, Rodelbahnen und Winterlandschaften."),
+  "summer": ("Wandelen, fietsen, water, dieren en uitzichten buiten de wintermaanden.", "Hiking, cycling, water, animals and views outside the winter months.", "Wandern, Radfahren, Wasser, Tiere und Aussichten außerhalb der Wintermonate."),
+  "hotel": ("Foto’s die onze partner Hotel Wastlhof beschikbaar stelde. Hartelijk dank voor het gebruik van de beelden.", "Photos kindly provided by our partner Hotel Wastlhof. Many thanks for the use of the images.", "Fotos, die unser Partner Hotel Wastlhof zur Verfügung gestellt hat. Herzlichen Dank für die Nutzung der Bilder.")},
+ "dlg": {"label": ("Fotogalerij", "Photo gallery", "Fotogalerie"), "close": ("Sluiten", "Close", "Schließen"), "prev": ("Vorige foto", "Previous photo", "Vorheriges Foto"), "next": ("Volgende foto", "Next photo", "Nächstes Foto")},
+}
+def u_photos(lang): return f"/{PREFIX[lang]}{PHOTOS_PG['slug'][LANGS.index(lang)]}/"
+def photo_group(f, hotel):
+    if hotel or "wastlhof" in f: return "hotel"
+    if any(k in f for k in WINTER_F + ("piste", "sleeplift", "sleeen", "rodelbaan-bergzicht")): return "winter"
+    return "summer"
+def build_photos():
+    urls = {l: u_photos(l) for l in LANGS}
+    groups = {"winter": [], "summer": [], "hotel": []}
+    for f, alts, kws, hotel in PHOTOS: groups[photo_group(f, hotel)].append((f, alts))
+    for lang in LANGS:
+        i = LANGS.index(lang); name = PHOTOS_PG["title"][i]
+        cr, cr_ld = crumbs(lang, [(name, urls[lang])])
+        secs = ""
+        for g in ("winter", "summer", "hotel"):
+            items = "".join(f'<a class="g-item" href="/assets/img/{f}.webp"><img src="/assets/img/{f}.webp" alt="{e(alts[min(i, len(alts)-1)])}" loading="lazy" decoding="async" width="800" height="600"></a>' for f, alts in groups[g])
+            secs += f'<section class="{"alt" if g != "winter" else ""}" aria-labelledby="h-{g}"><div class="wrap"><h2 id="h-{g}">{e(PHOTOS_PG["sec"][g][i])}</h2><p>{e(PHOTOS_PG["secp"][g][i])}</p><div class="photo-grid">{items}</div></div></section>'
+        d = PHOTOS_PG["dlg"]
+        dlg = f'<dialog class="lightbox" aria-label="{e(d["label"][i])}"><button class="lb-close" type="button" aria-label="{e(d["close"][i])}">×</button><button class="lb-prev" type="button" aria-label="{e(d["prev"][i])}">‹</button><figure><figcaption></figcaption></figure><button class="lb-next" type="button" aria-label="{e(d["next"][i])}">›</button></dialog>'
+        body = f'<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(PHOTOS_PG["tagline"][i])}</p><p>{e(PHOTOS_PG["intro"][i])}</p></div></section>{secs}{dlg}'
+        desc = trim_desc(PHOTOS_PG["tagline"][i] + ". " + PHOTOS_PG["intro"][i])
+        imgs = [{"@type": "ImageObject", "contentUrl": f"{BASE}/assets/img/{f}.webp", "name": alts[min(i, len(alts)-1)]} for g in groups.values() for f, alts in g]
+        ld = [{"@type": "ImageGallery", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}, "image": imgs},
+              dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})]
+        write(urls[lang], shell(lang, "photos", urls, f"{name} | Niederau.nl", desc, body, ld, img="hotel-wastlhof-niederau-zomer-groot"))
+    registry.append(("photos", urls, None))
+
 def main():
     # oude uitvoer opruimen (alleen gegenereerde mappen)
     for kind in list(DIRS):
@@ -837,6 +882,7 @@ def main():
     for r in regions: build_region(r)
     for t in themes: build_theme(t)
     build_about()
+    build_photos()
     build_events()
     build_event_details()
     build_guides()

@@ -292,3 +292,4 @@ main h1 { overflow-wrap: anywhere; hyphens: auto; }
 .album-fig img { width: 100%; height: auto; border-radius: 10px; display: block; }
 .album-fig figcaption { font-size: .88rem; color: var(--ink-soft); margin-top: 6px; }
 @media (max-width: 760px) { .album { grid-template-columns: 1fr; } }
+.gal-more { margin: 22px 0 0; text-align: center; }
