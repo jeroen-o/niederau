@@ -224,7 +224,7 @@ if _reg.exists():
 - Overviews: winter ({BASE}/activiteiten/winter/), summer ({BASE}/activiteiten/zomer/), what to do when it rains ({BASE}/activiteiten/regendag/) and with kids ({BASE}/activiteiten/met-kinderen/); English and German versions under /en/activities/ and /de/aktivitaeten/.
 - Events calendar (recurring events such as Krautinger Week, Wildschönau valley festival, Almabtrieb, Advent, ski opening): {BASE}/en/events/ (NL {BASE}/agenda/, DE {BASE}/de/veranstaltungen/). Dates vary by year; check with the organiser.
 
-- All guides (overview): {BASE}/en/guides/ (NL {BASE}/gids/, DE {BASE}/de/ratgeber/): when to visit, getting there, guest cards, skiing with kids, safety in the mountains, day trips, hiking routes, cycling and mountain biking, a summer week and a winter week, choosing accommodation, holiday with a dog, riding and bringing your horse, food and drink.
+- All guides (overview): {BASE}/en/guides/ (NL {BASE}/gids/, DE {BASE}/de/ratgeber/): when to visit, getting there, guest cards, skiing with kids, safety in the mountains, day trips, hiking routes, cycling and mountain biking, a summer week and a winter week, choosing accommodation, holiday with a dog, riding and bringing your horse, food and drink, Ski Juwel ski area, toboggan runs, swimming and lakes, the four Wildschönau villages compared, cross-country skiing and winter walking.
 - Guides: when to visit Niederau month by month ({BASE}/en/guides/when-to-visit/; NL {BASE}/gids/wanneer-naar-niederau/, DE {BASE}/de/ratgeber/beste-reisezeit/) and food and drink in the Wildschönau ({BASE}/en/guides/food-and-drink/; NL {BASE}/gids/eten-en-drinken/, DE {BASE}/de/ratgeber/essen-und-trinken/).
 
 ## Tourist office
