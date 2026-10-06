@@ -1875,5 +1875,73 @@
   ],
   [],
   false
+ ],
+ [
+  "niederau-zomer-kerkje-gehucht-groene-heuvels",
+  [
+   "Wit kerkje met een uivormig torentje en een paar boerderijen in een gehucht tussen groene weiden en beboste heuvels",
+   "White chapel with an onion-shaped spire and a few farmhouses in a hamlet among green meadows and wooded hills",
+   "Weiße Kirche mit Zwiebelturm und einigen Bauernhöfen in einem Weiler zwischen grünen Wiesen und bewaldeten Hügeln"
+  ],
+  [],
+  false
+ ],
+ [
+  "niederau-winter-pistenraupe-gondelbaan-uitzicht",
+  [
+   "Pistenraupe op een bergtop naast het mastpiloon van een gondelbaan, met uitzicht over besneeuwde bergketens",
+   "Snow groomer on a mountain top next to a gondola pylon, with a view over snowy mountain ranges",
+   "Pistenraupe auf einem Berggipfel neben einer Gondelstütze, mit Blick über verschneite Bergketten"
+  ],
+  [
+   "pistenraupe",
+   "gondel",
+   "liften",
+   "skiën",
+   "piste"
+  ],
+  false
+ ],
+ [
+  "niederau-winter-sneeuwhelling-bergpanorama-schaduwen",
+  [
+   "Besneeuwde berghelling met zachte schaduwen en uitzicht op bergketens onder een gestreepte lucht",
+   "Snowy mountain slope with soft shadows and a view of mountain ranges under a streaky sky",
+   "Verschneiter Berghang mit weichen Schatten und Blick auf Bergketten unter einem gestreiften Himmel"
+  ],
+  [
+   "winterlandschap",
+   "sneeuwschoenwandelen",
+   "skitour",
+   "winterwandelen",
+   "uitzicht"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-alpine-coaster-drachenflug-schuur",
+  [
+   "Houten schuur met een houten figuur en de letters ‘Drachenfl…’, naast de rails van een alpine coaster op een groene helling",
+   "Wooden barn with a carved figure and the letters ‘Drachenfl…’, beside the rails of an alpine coaster on a green slope",
+   "Holzscheune mit geschnitztem Figürchen und den Buchstaben ‘Drachenfl…’ neben den Schienen einer Alpine Coaster an einem grünen Hang"
+  ],
+  [
+   "alpine coaster",
+   "coaster",
+   "drachenflug",
+   "achtbaan",
+   "zomerrodelbaan"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-bergweg-station-wolken",
+  [
+   "Grindpad over een grashelling naar een bergstation en wandelaars, onder een blauwe lucht met grote wolken",
+   "Gravel path across a grassy slope towards a mountain station and walkers, under a blue sky with big clouds",
+   "Schotterweg über einen Grashang zu einer Bergstation und Wanderern unter blauem Himmel mit großen Wolken"
+  ],
+  [],
+  false
  ]
 ]
