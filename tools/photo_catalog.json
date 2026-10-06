@@ -1503,5 +1503,83 @@
    "winterlandschap"
   ],
   false
+ ],
+ [
+  "niederau-winter-houten-sleeen-rij",
+  [
+   "Rij houten sleeën met rode en zwarte zittingen, tegen een houten hekje op een bestrate plek in de winter",
+   "Row of wooden sleds with red and black seats, leaning against a wooden fence on a paved spot in winter",
+   "Reihe hölzerner Schlitten mit roten und schwarzen Sitzen an einem Holzzaun auf einem gepflasterten Platz im Winter"
+  ],
+  [
+   "sleeën",
+   "slee",
+   "rodelen",
+   "sledeverhuur",
+   "rodelbaan",
+   "verlichte rodelbaan"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-bergbron-drankjes-honesty-bar",
+  [
+   "Houten drinkbak met bergwater waarin kratten flessen koelen, met een geldkistje en een bordje met prijzen voor drankjes en een bordje voor hondenbezitters",
+   "Wooden trough of mountain water cooling crates of bottles, with a cash box and a sign with drink prices and a notice for dog owners",
+   "Hölzerner Brunnentrog mit Bergwasser, in dem Flaschenkisten kühlen, dazu eine Geldkassette, ein Preisschild für Getränke und ein Hinweis für Hundebesitzer"
+  ],
+  [
+   "berghut",
+   "alm",
+   "wandelen",
+   "honesty",
+   "zelfbediening"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-uitzicht-bergbank-heuvels",
+  [
+   "Zomers uitzicht over groene heuvels en bergketens vanaf een houten bankje, met wolken aan de lucht",
+   "Summer view over green hills and mountain ranges from a wooden bench, with clouds in the sky",
+   "Sommerlicher Blick über grüne Hügel und Bergketten von einer Holzbank, mit Wolken am Himmel"
+  ],
+  [
+   "uitzicht",
+   "wandelen",
+   "panorama",
+   "zomer"
+  ],
+  false
+ ],
+ [
+  "niederau-ijsgrot-blauw-ijspegels",
+  [
+   "Blauwe ijsgrot met ijspegels en gelaagd ijs",
+   "Blue ice cave with icicles and layered ice",
+   "Blaue Eishöhle mit Eiszapfen und geschichtetem Eis"
+  ],
+  [
+   "ijsgrot",
+   "ijs",
+   "gletsjer"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-alpine-coaster-baan",
+  [
+   "Stalen baan van een alpine coaster kronkelt over een groene helling onder een grijze lucht",
+   "Steel track of an alpine coaster winding across a green slope under a grey sky",
+   "Stahlbahn einer Alpine Coaster, die sich über einen grünen Hang unter grauem Himmel windet"
+  ],
+  [
+   "alpine coaster",
+   "coaster",
+   "achtbaan",
+   "zomerrodelbaan",
+   "rodelbaan"
+  ],
+  false
  ]
 ]
