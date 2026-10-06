@@ -875,9 +875,29 @@
 "date": "2026-10-06",
 "hash": "382445376030cb1358b180169939bc6b326435f7"
 },
+"agenda/almabtrieb-auffach-2027/index.html": {
+"date": "2026-10-06",
+"hash": "f4bb1a849f5cd77e26eadef3b49086776864e02e"
+},
+"agenda/hahnenkammrennen-kitzbuhel-2027/index.html": {
+"date": "2026-10-06",
+"hash": "3f0e875c1ffa5b56cbddf46c226568c04b6c4ed1"
+},
 "agenda/index.html": {
 "date": "2026-10-06",
-"hash": "270695abcbd53f650e9227f1baba88e783aeebe2"
+"hash": "2d889b7ffe75219b5f15660320670345f00df875"
+},
+"agenda/krautingerwoche-wildschonau/index.html": {
+"date": "2026-10-06",
+"hash": "e208347f7bb3ff1613e6d261eacaa50da232cb7e"
+},
+"agenda/start-skiseizoen-ski-juwel-2026-27/index.html": {
+"date": "2026-10-06",
+"hash": "23c95a89fcd83e38bbee7d8d31ff83ae04d6fa60"
+},
+"agenda/talfest-wildschonau-2027/index.html": {
+"date": "2026-10-06",
+"hash": "0b2bdcf1507c01a7bfc52c0f1ce5de29ce0fa531"
 },
 "de/aktivitaeten/abenteuer/3d-bogenschiessen-koessen/index.html": {
 "date": "2026-10-06",
@@ -1869,7 +1889,7 @@
 },
 "de/ueber-uns/index.html": {
 "date": "2026-10-06",
-"hash": "a4b0676da7bec149b160e66fbd06e015423e70de"
+"hash": "7cbf58852ac819b9caffa7dd3f37b6061442e8ec"
 },
 "de/umgebung/achenkirch/index.html": {
 "date": "2026-10-06",
@@ -2219,13 +2239,33 @@
 "date": "2026-10-06",
 "hash": "fb39162ca6aa468bd17c7a545416d508a1cc7687"
 },
+"de/veranstaltungen/almabtrieb-auffach-2027/index.html": {
+"date": "2026-10-06",
+"hash": "3b68e47f9c590178984cd0831a14a0b788ee187c"
+},
+"de/veranstaltungen/hahnenkammrennen-kitzbuehel-2027/index.html": {
+"date": "2026-10-06",
+"hash": "8101dfbefcd331d541c71d41972cda76853af94d"
+},
 "de/veranstaltungen/index.html": {
 "date": "2026-10-06",
-"hash": "30c5e95a25eae9ad2b2cdeed1257d89cc46e817a"
+"hash": "1db8051bbda1c590af24e499bc282dd9ae04a8f4"
+},
+"de/veranstaltungen/krautingerwoche-wildschoenau/index.html": {
+"date": "2026-10-06",
+"hash": "6914d35b263d502e11047bf171de5e42de2f94e7"
+},
+"de/veranstaltungen/saisonstart-ski-juwel-2026-27/index.html": {
+"date": "2026-10-06",
+"hash": "6327aa4f5b8684ec72ff4260c19b76e63d3d50be"
+},
+"de/veranstaltungen/wildschoenauer-talfest-2027/index.html": {
+"date": "2026-10-06",
+"hash": "d8af7457571cd054f81b140b54ce616e38452867"
 },
 "en/about/index.html": {
 "date": "2026-10-06",
-"hash": "594a5bfae0757e1e4c4d47fa686785a5c6129eb2"
+"hash": "cbf6fb4f1bf723f41eb7f8d6fbfe49dc06c8f9de"
 },
 "en/activities/adventure/3d-archery-koessen/index.html": {
 "date": "2026-10-06",
@@ -3103,9 +3143,29 @@
 "date": "2026-10-06",
 "hash": "4c068582fd7e8daaaf2f5e55e99dee1833198273"
 },
+"en/events/almabtrieb-auffach-2027/index.html": {
+"date": "2026-10-06",
+"hash": "4d9bdbccc8a3736d235461caea7907d8defa1991"
+},
+"en/events/hahnenkamm-races-kitzbuehel-2027/index.html": {
+"date": "2026-10-06",
+"hash": "5cdad92bf4d2f7f6c3f9717c318bcab777c3b786"
+},
 "en/events/index.html": {
 "date": "2026-10-06",
-"hash": "ec2113053c4b852da46c6b0dc481e4583e26e7bf"
+"hash": "c5f3e30b736bcffd740ebb34b9be43ea24647e3d"
+},
+"en/events/krautinger-week-wildschoenau/index.html": {
+"date": "2026-10-06",
+"hash": "665ee5ea37a9efe9c8ae520e4729abe6d2f37564"
+},
+"en/events/ski-juwel-season-opening-2026-27/index.html": {
+"date": "2026-10-06",
+"hash": "0fa368ea5db27ff7ddeea66c898c6a5d3f241f26"
+},
+"en/events/wildschoenau-valley-festival-2027/index.html": {
+"date": "2026-10-06",
+"hash": "178be9c09d5477fcfe671ee58d584682352410fb"
 },
 "en/guides/a-week-in-niederau-summer/index.html": {
 "date": "2026-10-06",
@@ -4005,7 +4065,7 @@
 },
 "over/index.html": {
 "date": "2026-10-06",
-"hash": "bc8e26e5d24ec56641fe167b6dae0e14abfd797b"
+"hash": "a2008d8532a9f5674f6e11aa2e024127e24bcbf6"
 },
 "regio/alpbachtal/index.html": {
 "date": "2026-10-06",

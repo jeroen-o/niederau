@@ -781,6 +781,16 @@ ABOUT = {
  "intro": ("Niederau.nl is een persoonlijke gids over Niederau in de Wildschönau (Tirol). Ik kom er al ongeveer vijftig jaar en heb het dal in al die tijd zien veranderen. Ik wilde alles wat ik zelf graag had willen weten op één plek verzamelen, in het Nederlands, Engels en Duits, zodat je zonder zoeken je verblijf en je uitstapjes kunt plannen.",
            "Niederau.nl is a personal guide to Niederau in the Wildschönau (Tyrol). I have been coming here for about fifty years and have watched the valley change over that time. I wanted to gather everything I would have liked to know myself in one place, in Dutch, English and German, so that you can plan your stay and your outings without searching around.",
            "Niederau.nl ist ein persönlicher Reiseführer zu Niederau in der Wildschönau (Tirol). Ich komme seit etwa fünfzig Jahren hierher und habe das Tal in dieser Zeit sich verändern sehen. Ich wollte alles, was ich selbst gern gewusst hätte, an einem Ort sammeln, auf Niederländisch, Englisch und Deutsch, damit Sie Ihren Aufenthalt und Ihre Ausflüge ohne langes Suchen planen können."),
+ "album_h": ("Uit mijn eigen album", "From my own album", "Aus meinem eigenen Album"),
+ "album_p": ("Twee oude foto’s uit mijn eigen fotoalbum, van lang geleden in de bergen.", "Two old photos from my own album, taken a long time ago in the mountains.", "Zwei alte Fotos aus meinem eigenen Album, vor langer Zeit in den Bergen aufgenommen."),
+ "album": [
+  ("familiealbum-kinderen-op-ski-bergen", 478, 358,
+   ("Oude foto van vier kinderen in rode en blauwe skikleding met ski’s in de sneeuw, met bergtoppen op de achtergrond", "Old photo of four children in red and blue ski clothing with skis in the snow, with mountain peaks behind them", "Altes Foto von vier Kindern in roter und blauer Skikleidung mit Skiern im Schnee, dahinter Berggipfel"),
+   ("Uit het familiealbum: vier kinderen op ski’s.", "From the family album: four children on skis.", "Aus dem Familienalbum: vier Kinder auf Skiern.")),
+  ("familiealbum-twee-skiers-sneeuw-bergen", 1204, 903,
+   ("Oude foto van twee mannen in skikleding in de sneeuw die iets drinken, met besneeuwde bergen op de achtergrond", "Old photo of two men in ski clothing standing in the snow having a drink, with snowy mountains behind them", "Altes Foto von zwei Männern in Skikleidung, die im Schnee etwas trinken, dahinter verschneite Berge"),
+   ("Uit het familiealbum: even rusten in de sneeuw.", "From the family album: a break in the snow.", "Aus dem Familienalbum: eine Pause im Schnee.")),
+ ],
  "sections": [
   (("Onafhankelijk, met één partner", "Independent, with one partner", "Unabhängig, mit einem Partner"),
    ("Niederau.nl is een onafhankelijke site en niet verbonden aan een toeristenbureau of gemeente. Hotel Wastlhof in Niederau is partner van deze site en stelde foto’s beschikbaar. Dat is een persoonlijke aanbeveling: er is geen vergoeding betaald of ontvangen en er zijn geen affiliatelinks.",
@@ -807,7 +817,9 @@ def build_about():
         i = LANGS.index(lang); name = ABOUT["title"][i]
         cr, cr_ld = crumbs(lang, [(name, urls[lang])])
         secs = "".join(f"<h2>{e(h[i])}</h2><p>{e(p[i])}</p>" for h, p in ABOUT["sections"])
-        body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(ABOUT["tagline"][i])}</p><p>{e(ABOUT["intro"][i])}</p></div></section>
+        figs = "".join(f'<figure class="album-fig"><img src="/assets/img/{f}.webp" width="{w}" height="{h}" loading="lazy" alt="{e(al[i])}"><figcaption>{e(cp[i])}</figcaption></figure>' for f, w, h, al, cp in ABOUT["album"])
+        body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(ABOUT["tagline"][i])}</p><p>{e(ABOUT["intro"][i])}</p>
+<h2>{e(ABOUT["album_h"][i])}</h2><p>{e(ABOUT["album_p"][i])}</p><div class="album">{figs}</div></div></section>
 <section class="alt"><div class="wrap">{secs}</div></section>'''
         desc = trim_desc(ABOUT["tagline"][i] + ". " + ABOUT["intro"][i])
         ld = [{"@type": "AboutPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
