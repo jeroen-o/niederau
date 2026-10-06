@@ -1,0 +1,1888 @@
+[
+ {
+  "id": "s168",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hall-in-tirol",
+  "slug_en": "hall-in-tirol-old-town-walk",
+  "slug_de": "altstadt-rundgang-hall-in-tirol",
+  "title": {
+   "nl": "Altstadtwandeling Hall in Tirol",
+   "en": "Old town walk in Hall in Tirol",
+   "de": "Altstadtrundgang in Hall in Tirol"
+  },
+  "tagline": {
+   "nl": "Goed bewaarde middeleeuwse binnenstad aan de Inn",
+   "en": "A well-preserved medieval old town on the Inn",
+   "de": "Gut erhaltene mittelalterliche Altstadt am Inn"
+  },
+  "intro": {
+   "nl": "Hall in Tirol was eeuwenlang een rijke stad dankzij zout en later de munt. Het zout uit het Halltal werd al in de 13e eeuw gewonnen en bleef zo'n 800 jaar de belangrijkste bron van inkomsten; in 1303 kreeg Hall stadsrechten. De oude binnenstad, een van de grootste historische stadskernen van Tirol, ligt rond het Oberer Stadtplatz, met het ongeveer 700 jaar oude raadhuis, de parochiekerk St. Nikolaus, smalle straten en kleine winkels. Het is rustiger dan het nabije Innsbruck.\n\nEen wandeling door de Altstadt duurt ongeveer anderhalf uur, langer als je ergens binnengaat. Boven de stad ligt Burg Hasegg, bekend om de Münzerturm waar de beroemde Taler werden geslagen; de munt dateert uit de 15e eeuw. In het Bergbaumuseum, in een voormalig vorstenhuis, zie je hoe het werk in de zoutmijn eruitzag.\n\nOnderweg zijn er terrassen en cafés, dus de ronde is makkelijk uit te breiden tot een halve dag. Voor kinderen zijn vooral de torens, de steegjes en de verhalen over munten en zout leuk.",
+   "en": "For centuries Hall in Tirol was a wealthy town thanks to salt and later the mint. Salt from the Halltal was already being produced in the 13th century and remained the main source of income for some 800 years; Hall received town rights in 1303. The old centre, one of the largest historic town cores in Tyrol, is arranged around the Oberer Stadtplatz, with the roughly 700-year-old town hall, the parish church of St Nicholas, narrow streets and small shops. It is quieter than nearby Innsbruck.\n\nA walk through the old town takes about an hour and a half, longer if you go inside anywhere. Above the town stands Hasegg Castle, known for the Münzerturm where the famous Taler coins were struck; the mint dates from the 15th century. In the Bergbaumuseum, housed in a former prince's house, you can see what work in the salt mine was like.\n\nThere are terraces and cafés on the way, so the walk easily stretches into half a day. Children tend to enjoy the towers, the little lanes and the stories about coins and salt.",
+   "de": "Hall in Tirol war jahrhundertelang eine reiche Stadt dank Salz und später der Münze. Das Salz aus dem Halltal wurde schon im 13. Jahrhundert gewonnen und blieb rund 800 Jahre die wichtigste Einnahmequelle; 1303 erhielt Hall das Stadtrecht. Die Altstadt, eine der größten historischen Stadtkerne Tirols, gruppiert sich um den Oberen Stadtplatz mit dem rund 700 Jahre alten Rathaus, der Pfarrkirche St. Nikolaus, engen Gassen und kleinen Geschäften. Es ist ruhiger als das nahe Innsbruck.\n\nEin Spaziergang durch die Altstadt dauert etwa anderthalb Stunden, länger, wenn du irgendwo einkehrst. Oberhalb der Stadt liegt Burg Hasegg, bekannt für den Münzerturm, in dem die berühmten Taler geprägt wurden; die Münze stammt aus dem 15. Jahrhundert. Im Bergbaumuseum, einem ehemaligen Fürstenhaus, siehst du, wie die Arbeit im Salzbergwerk aussah.\n\nUnterwegs gibt es Terrassen und Cafés, sodass die Runde leicht zu einem halben Tag wird. Kindern gefallen vor allem die Türme, die kleinen Gassen und die Geschichten über Münzen und Salz."
+  },
+  "tips": {
+   "nl": [
+    "Combineer de wandeling met Burg Hasegg en de Münzerturm.",
+    "Plan een koffiestop op een van de terrassen.",
+    "Draag comfortabele schoenen; de straatjes zijn deels bestraat met keien.",
+    "Parkeer aan de rand van het centrum.",
+    "Kijk in het Bergbaumuseum als je meer over de zouthistorie van Hall wilt weten."
+   ],
+   "en": [
+    "Combine the walk with Hasegg Castle and the Münzerturm.",
+    "Plan a coffee stop on one of the terraces.",
+    "Wear comfortable shoes; some lanes are cobbled.",
+    "Park on the edge of the centre.",
+    "Look into the Bergbaumuseum if you want to learn more about Hall's salt history."
+   ],
+   "de": [
+    "Verbinde den Spaziergang mit Burg Hasegg und dem Münzerturm.",
+    "Plane eine Kaffeepause auf einer der Terrassen ein.",
+    "Trage bequeme Schuhe; einige Gassen sind gepflastert.",
+    "Parke am Rand des Zentrums.",
+    "Wirf einen Blick ins Bergbaumuseum, wenn dich die Salzgeschichte Halls interessiert."
+   ]
+  },
+  "practical": {
+   "nl": "Hall in Tirol ligt in het Inntal, ca. 50 minuten rijden van Niederau, via de A12 richting Innsbruck. De oude stad is grotendeels autovrij of beperkt toegankelijk; parkeer aan de rand en loop het laatste stuk. Het centrum is compact, dus alles is te voet te bereiken. Ook met de trein is Hall bereikbaar, maar met de auto is het vanuit de Wildschönau doorgaans het eenvoudigst.",
+   "en": "Hall in Tirol lies in the Inn Valley, roughly 50 minutes by car from Niederau, via the A12 towards Innsbruck. The old town is largely car-free or restricted; park on the edge and walk the last stretch. The centre is compact, so everything can be reached on foot. Hall can also be reached by train, but from the Wildschönau the car is usually the simplest option.",
+   "de": "Hall in Tirol liegt im Inntal, ca. 50 Fahrminuten von Niederau entfernt, über die A12 Richtung Innsbruck. Die Altstadt ist weitgehend autofrei oder beschränkt befahrbar; parke am Rand und geh das letzte Stück zu Fuß. Das Zentrum ist kompakt, alles ist zu Fuß erreichbar. Auch mit dem Zug ist Hall erreichbar, aus der Wildschönau ist das Auto aber meist am einfachsten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "Approx. 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Hall in Tirol",
+   "en": "Hall in Tirol",
+   "de": "Hall in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Hall in Tirol een goed alternatief voor Innsbruck?",
+     "en": "Is Hall in Tirol a good alternative to Innsbruck?",
+     "de": "Ist Hall in Tirol eine gute Alternative zu Innsbruck?"
+    },
+    "a": {
+     "nl": "Ja, het is rustiger en overzichtelijker, met een goed bewaarde oude binnenstad.",
+     "en": "Yes, it is quieter and more compact, with a well-preserved old centre.",
+     "de": "Ja, es ist ruhiger und überschaubarer, mit gut erhaltener Altstadt."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waarom was Hall in Tirol vroeger rijk?",
+     "en": "Why was Hall in Tirol wealthy in the past?",
+     "de": "Warum war Hall in Tirol früher reich?"
+    },
+    "a": {
+     "nl": "Door het zout uit het Halltal, dat zo'n 800 jaar werd gewonnen, en later door de munt in Burg Hasegg.",
+     "en": "Thanks to the salt from the Halltal, produced for some 800 years, and later the mint at Hasegg Castle.",
+     "de": "Durch das Salz aus dem Halltal, das rund 800 Jahre gewonnen wurde, und später durch die Münze auf Burg Hasegg."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat kun je behalve de straten nog bekijken?",
+     "en": "What can you see besides the streets?",
+     "de": "Was gibt es außer den Gassen zu sehen?"
+    },
+    "a": {
+     "nl": "Het raadhuis, de parochiekerk St. Nikolaus, Burg Hasegg met de Münzerturm en het Bergbaumuseum.",
+     "en": "The town hall, the parish church of St Nicholas, Hasegg Castle with the Münzerturm and the Bergbaumuseum.",
+     "de": "Das Rathaus, die Pfarrkirche St. Nikolaus, Burg Hasegg mit dem Münzerturm und das Bergbaumuseum."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "slug_nl": "hall-in-tirol-altstadt-wandeling"
+ },
+ {
+  "id": "s207",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "alpine-garden-patscherkofel-innsbruck",
+  "slug_de": "alpengarten-patscherkofel-innsbruck",
+  "title": {
+   "nl": "Alpengarten Patscherkofel",
+   "en": "Patscherkofel Alpine Garden",
+   "de": "Alpengarten Patscherkofel"
+  },
+  "tagline": {
+   "nl": "Botanische berg­tuin van de universiteit boven Innsbruck-Igls",
+   "en": "University botanical alpine garden above Innsbruck-Igls",
+   "de": "Botanischer Alpengarten der Universität oberhalb von Innsbruck-Igls"
+  },
+  "intro": {
+   "nl": "De Alpengarten bij het bergstation van de Patscherkofelbahn hoort sinds 1930 bij de Universiteit van Innsbruck en geldt als de hoogstgelegen botanische tuin van Oostenrijk. Hij ligt tussen ca. 1.890 en 1.950 m, vlak onder het Patscherkofelhaus, op de grens waar bos overgaat in open berglandschap. Dat maakt het een geschikte plek om te laten zien hoe plantengemeenschappen op die hoogte eruitzien.\n\nDe tuin werd in 1935 geopend. Daarna was hij ruim twintig jaar gesloten; sinds 1994 is hij dankzij een nieuw aangelegde, bewegwijzerde rondwandeling weer voor het publiek toegankelijk. Onderweg zie je dwergstruikheide, bergbos en hoge kruidenweiden. De universiteit doet hier ook onderzoek naar hoe alpiene planten, vooral naaldbomen, omgaan met kou en droogte.\n\nDe tuin is in de zomermaanden (ongeveer juni tot eind september) overdag vrij toegankelijk. Je kunt de wandeling kort houden of combineren met een route over de Patscherkofel, een rustige uitstap voor gezinnen met interesse in natuur. Informeer vooraf naar de bedrijfstijden van de gondel.",
+   "en": "The Alpengarten near the top station of the Patscherkofelbahn has belonged to the University of Innsbruck since 1930 and is regarded as Austria's highest-altitude botanical garden. It lies between about 1,890 and 1,950 m, just below the Patscherkofelhaus, where forest gives way to open mountain terrain. That makes it a good place to see what plant communities look like at this altitude.\n\nThe garden opened in 1935. It was then closed for more than twenty years; since 1994 a newly built, signposted circular path has made it accessible to the public again. Along the way you see dwarf-shrub heath, mountain forest and high herb meadows. The university also researches here how alpine plants, conifers in particular, cope with cold and drought.\n\nThe garden is freely accessible during the day in the summer months (roughly June to the end of September). You can keep the walk short or combine it with a route on the Patscherkofel, a calm outing for families interested in nature. Check the operating times of the gondola beforehand.",
+   "de": "Der Alpengarten an der Bergstation der Patscherkofelbahn gehört seit 1930 zur Universität Innsbruck und gilt als höchstgelegener botanischer Garten Österreichs. Er liegt zwischen etwa 1.890 und 1.950 m, knapp unterhalb des Patscherkofelhauses, dort, wo der Wald in offenes Berggelände übergeht. Das macht ihn zu einem guten Ort, um zu sehen, wie Pflanzengemeinschaften in dieser Höhe aussehen.\n\nDer Garten wurde 1935 eröffnet. Danach war er über zwanzig Jahre geschlossen; seit 1994 ist er dank eines neu angelegten, beschilderten Rundwegs wieder öffentlich zugänglich. Unterwegs sieht man Zwergstrauchheide, Bergwald und Hochstaudenfluren. Die Universität erforscht hier außerdem, wie alpine Pflanzen, vor allem Nadelgehölze, mit Kälte und Trockenheit zurechtkommen.\n\nDer Garten ist in den Sommermonaten (etwa Juni bis Ende September) tagsüber frei zugänglich. Man kann die Runde kurz halten oder mit einer Wanderung am Patscherkofel verbinden, ein ruhiger Ausflug für naturinteressierte Familien. Betriebszeiten der Bahn vorab prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Laat kinderen planten zoeken; maak er een spel van.",
+    "Neem een jas mee: boven is het koeler dan in het dal.",
+    "Controleer vooraf de bedrijfstijden van de gondel.",
+    "Draag stevige schoenen en een jas; op bijna 2.000 m is het weer snel anders dan in het dal.",
+    "Lees de bordjes langs de rondwandeling; ze leggen de plantengemeenschappen uit."
+   ],
+   "en": [
+    "Let children look for plants and make it a game.",
+    "Take a jacket; it is cooler up top than in the valley.",
+    "Check the gondola's operating times beforehand.",
+    "Wear sturdy shoes; at almost 2,000 m the weather can change quickly compared with the valley.",
+    "Read the signs along the circular path; they explain the plant communities."
+   ],
+   "de": [
+    "Lass Kinder Pflanzen suchen und mach ein Spiel daraus.",
+    "Nimm eine Jacke mit; oben ist es kühler als im Tal.",
+    "Prüfe vorab die Betriebszeiten der Bahn.",
+    "Trage feste Schuhe; auf knapp 2.000 m kann das Wetter schnell anders sein als im Tal.",
+    "Lies die Tafeln am Rundweg; sie erklären die Pflanzengemeinschaften."
+   ]
+  },
+  "practical": {
+   "nl": "Igls ligt bij Innsbruck, ca. 1 uur rijden vanaf Niederau via de A12. Vanaf Igls gaat de Patscherkofelbahn omhoog; de tuin ligt bij het bergstation op ruim 1.900 m. De tuin zelf is in de zomer vrij toegankelijk, de gondel kost extra en rijdt alleen in bepaalde maanden. Controleer vooraf de actuele tijden van de bergbaan.",
+   "en": "Igls is near Innsbruck, about 1 hour by car from Niederau via the A12. The Patscherkofelbahn runs up from Igls; the garden is at the top station at over 1,900 m. The garden itself is freely accessible in summer, the gondola costs extra and only runs in certain months. Check the current times of the cable car beforehand.",
+   "de": "Igls liegt bei Innsbruck, ca. 1 Stunde Fahrt von Niederau über die A12. Von Igls fährt die Patscherkofelbahn hinauf; der Garten liegt an der Bergstation auf über 1.900 m. Der Garten selbst ist im Sommer frei zugänglich, die Bahn kostet extra und fährt nur in bestimmten Monaten. Aktuelle Zeiten der Bergbahn vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur tuin; gondel extra",
+    "en": "About 1.5 hours for the garden; gondola extra",
+    "de": "Ca. 1,5 Std. Garten; Gondel extra"
+   },
+   "price": {
+    "nl": "Tuin vrij toegankelijk; gondel kost extra",
+    "en": "Garden freely accessible; gondola costs extra",
+    "de": "Garten frei zugänglich; Bahn kostet extra"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Igls, Innsbruck",
+   "en": "Igls, Innsbruck",
+   "de": "Igls, Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt de Alpengarten Patscherkofel?",
+     "en": "Where is the Patscherkofel Alpine Garden?",
+     "de": "Wo liegt der Alpengarten Patscherkofel?"
+    },
+    "a": {
+     "nl": "Bij het bergstation van de Patscherkofelbahn boven Igls, op ruim 1.900 meter.",
+     "en": "By the top station of the Patscherkofelbahn above Igls, at over 1,900 metres.",
+     "de": "An der Bergstation der Patscherkofelbahn oberhalb von Igls, auf über 1.900 Metern."
+    }
+   },
+   {
+    "q": {
+     "nl": "Moet je entree betalen voor de tuin?",
+     "en": "Do you have to pay to enter the garden?",
+     "de": "Muss man für den Garten Eintritt zahlen?"
+    },
+    "a": {
+     "nl": "Nee, de tuin is in de zomer overdag vrij toegankelijk; alleen de gondel kost geld.",
+     "en": "No, the garden is freely accessible during the day in summer; only the gondola costs money.",
+     "de": "Nein, der Garten ist im Sommer tagsüber frei zugänglich; nur die Bahn kostet Geld."
+    }
+   },
+   {
+    "q": {
+     "nl": "Sinds wanneer bestaat de tuin?",
+     "en": "How long has the garden existed?",
+     "de": "Seit wann gibt es den Garten?"
+    },
+    "a": {
+     "nl": "De universiteit kreeg het terrein in 1930, de tuin opende in 1935 en is sinds 1994 na een lange sluiting weer toegankelijk.",
+     "en": "The university received the site in 1930, the garden opened in 1935 and, after a long closure, has been accessible again since 1994.",
+     "de": "Die Universität erhielt das Gelände 1930, der Garten wurde 1935 eröffnet und ist nach langer Schließung seit 1994 wieder zugänglich."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "attracties",
+  "season": "summer",
+  "slug_nl": "alpengarten-patscherkofel-innsbruck"
+ },
+ {
+  "id": "s149",
+  "drop": false,
+  "drop_reason": "",
+  "place": "brixen-im-thale",
+  "slug_en": "brixen-im-thale-village-walk",
+  "slug_de": "dorfrundgang-brixen-im-thale",
+  "title": {
+   "nl": "Dorpsronde Brixen im Thale",
+   "en": "Village stroll in Brixen im Thale",
+   "de": "Dorfrunde in Brixen im Thale"
+  },
+  "tagline": {
+   "nl": "Rustig dorp in het Brixental met grote parochiekerk en Brixner Stadl",
+   "en": "A quiet Brixental village with a large parish church and the Brixner Stadl",
+   "de": "Ruhiger Ort im Brixental mit großer Pfarrkirche und Brixner Stadl"
+  },
+  "intro": {
+   "nl": "Brixen im Thale ligt in het Brixental, ongeveer 11 km ten westen van Kitzbühel. Aan het dorpsplein staat de grote parochiekerk Mariä Himmelfahrt, een laatbarok-klassiek gebouw dat tussen 1790 en 1795 naar plannen van hofarchitect Wolfgang Hagenauer werd gebouwd en in 1797 werd gewijd. In 1812 werd ze dekenaatskerk van het Brixental. Ze is zo'n 38 m lang en heeft een dubbele torenfaçade; binnen vallen het hoogaltaar van gepolijst roodbruin stucmarmer, de zijaltaren en een rijk versierd orgel op.\n\nDe kerk en het compacte dorp zijn in ongeveer een uur te bekijken. Bij de kerk horen ook diverse kapellen, waarvan twee bedevaartskerken. Een andere bezienswaardigheid is de Brixner Stadl, een houten schuur uit de 19e eeuw die nu als cultureel centrum voor concerten en tentoonstellingen dient.\n\nHet is een prettige stop als je toch door het Brixental rijdt, bijvoorbeeld op weg naar Kitzbühel of Westendorf. Rond het dorp liggen weiden en wandelpaden voor wie er langer wil blijven.",
+   "en": "Brixen im Thale lies in the Brixental, about 11 km west of Kitzbühel. On the village square stands the large parish church of Mariä Himmelfahrt, a late Baroque-Classicist building constructed between 1790 and 1795 to plans by court architect Wolfgang Hagenauer and consecrated in 1797. In 1812 it became the deanery church of the Brixental. It is about 38 m long with a double-tower facade; inside you will notice the high altar of polished reddish-brown stucco marble, the side altars and an ornate organ.\n\nThe church and the compact village can be seen in about an hour. The parish also includes several chapels, two of them pilgrimage churches. Another sight is the Brixner Stadl, a 19th-century wooden barn now used as a cultural venue for concerts and exhibitions.\n\nIt is a pleasant stop when you are driving through the Brixental anyway, for instance on the way to Kitzbühel or Westendorf. Meadows and walking paths around the village invite those who want to stay longer.",
+   "de": "Brixen im Thale liegt im Brixental, etwa 11 km westlich von Kitzbühel. Am Dorfplatz steht die große Pfarrkirche Mariä Himmelfahrt, ein spätbarock-klassizistischer Bau, der zwischen 1790 und 1795 nach Plänen des Hofarchitekten Wolfgang Hagenauer errichtet und 1797 geweiht wurde. 1812 wurde sie Dekanatskirche des Brixentals. Sie ist rund 38 m lang und hat eine Doppelturmfassade; im Inneren fallen der Hochaltar aus poliertem rotbraunem Stuckmarmor, die Seitenaltäre und eine prunkvolle Orgel auf.\n\nKirche und kompakter Ort sind in etwa einer Stunde zu sehen. Zur Pfarre gehören außerdem mehrere Kapellen, zwei davon Wallfahrtskirchen. Eine weitere Sehenswürdigkeit ist der Brixner Stadl, ein hölzerner Stadel aus dem 19. Jahrhundert, der heute als Kulturraum für Konzerte und Ausstellungen dient.\n\nEs ist ein angenehmer Stopp, wenn du ohnehin durch das Brixental fährst, etwa auf dem Weg nach Kitzbühel oder Westendorf. Wiesen und Wanderwege rund um den Ort laden ein, länger zu bleiben."
+  },
+  "tips": {
+   "nl": [
+    "Neem een kijkje in de kerk, maar let op de stilte.",
+    "Check het programma van de Brixner Stadl voor concerten en tentoonstellingen.",
+    "Parkeer in het centrum en loop het rondje rustig.",
+    "Combineer met een andere uitstap in het Brixental.",
+    "Kijk in de kerk goed naar het hoogaltaar en het orgel."
+   ],
+   "en": [
+    "Take a look inside the church, but keep quiet.",
+    "Check the Brixner Stadl programme for concerts and exhibitions.",
+    "Park in the centre and take the loop at an easy pace.",
+    "Combine with another outing in the Brixental.",
+    "Take a close look at the high altar and the organ inside the church."
+   ],
+   "de": [
+    "Wirf einen Blick in die Kirche, aber bleib leise.",
+    "Prüfe das Programm des Brixner Stadls für Konzerte und Ausstellungen.",
+    "Parke im Zentrum und geh die Runde in Ruhe.",
+    "Verbinde den Besuch mit einem anderen Ausflug im Brixental.",
+    "Schau dir in der Kirche Hochaltar und Orgel genau an."
+   ]
+  },
+  "practical": {
+   "nl": "Brixen im Thale ligt ca. 30 minuten rijden van Niederau, via de B170 in het Brixental. Het dorp ligt langs de doorgaande weg tussen Wörgl en Kitzbühel, dus het is eenvoudig te combineren met een andere bestemming in het dal. De kerk staat aan het dorpsplein, waar je als bezoeker kunt stoppen en het dorp te voet verkent.",
+   "en": "Brixen im Thale is roughly 30 minutes by car from Niederau, via the B170 through the Brixental. The village lies on the main road between Wörgl and Kitzbühel, so it is easy to combine with another destination in the valley. The church stands on the village square, where you can stop and explore the village on foot.",
+   "de": "Brixen im Thale liegt ca. 30 Fahrminuten von Niederau entfernt, über die B170 durch das Brixental. Der Ort liegt an der Durchgangsstraße zwischen Wörgl und Kitzbühel und lässt sich daher leicht mit einem anderen Ziel im Tal verbinden. Die Kirche steht am Dorfplatz, wo man halten und den Ort zu Fuß erkunden kann."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Brixen im Thale, Brixental",
+   "en": "Brixen im Thale, Brixental",
+   "de": "Brixen im Thale, Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang duurt een bezoek aan Brixen im Thale?",
+     "en": "How long does a visit to Brixen im Thale take?",
+     "de": "Wie lange dauert ein Besuch in Brixen im Thale?"
+    },
+    "a": {
+     "nl": "Een wandeling door het centrum met de kerk kost ongeveer een uur; combineer met een andere uitstap voor een halve dag.",
+     "en": "A walk through the centre including the church takes about an hour; combine with another outing for half a day.",
+     "de": "Ein Spaziergang durch das Zentrum mit der Kirche dauert etwa eine Stunde; kombiniere ihn mit einem anderen Ausflug für einen halben Tag."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is bijzonder aan de parochiekerk?",
+     "en": "What is special about the parish church?",
+     "de": "Was ist an der Pfarrkirche besonders?"
+    },
+    "a": {
+     "nl": "Ze is een van de grootste kerken van het Tiroolse laagland, ontworpen door Wolfgang Hagenauer, met een hoogaltaar van stucmarmer en een rijk orgel.",
+     "en": "It is one of the largest churches in the Tyrolean lowlands, designed by Wolfgang Hagenauer, with a stucco-marble high altar and an ornate organ.",
+     "de": "Sie ist eine der größten Kirchen im Tiroler Unterland, entworfen von Wolfgang Hagenauer, mit einem Hochaltar aus Stuckmarmor und einer prunkvollen Orgel."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is de Brixner Stadl?",
+     "en": "What is the Brixner Stadl?",
+     "de": "Was ist der Brixner Stadl?"
+    },
+    "a": {
+     "nl": "Een houten schuur uit de 19e eeuw die nu als cultureel centrum voor concerten en tentoonstellingen wordt gebruikt.",
+     "en": "A 19th-century wooden barn now used as a cultural venue for concerts and exhibitions.",
+     "de": "Ein hölzerner Stadel aus dem 19. Jahrhundert, der heute als Kulturraum für Konzerte und Ausstellungen genutzt wird."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "slug_nl": "brixen-im-thale-dorpsronde"
+ },
+ {
+  "id": "s227",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "kitzbueheler-horn-alpine-flower-garden",
+  "slug_de": "kitzbueheler-horn-alpenblumengarten",
+  "title": {
+   "nl": "Kitzbüheler Horn en Alpenblumengarten",
+   "en": "Kitzbüheler Horn and Alpine Flower Garden",
+   "de": "Kitzbüheler Horn und Alpenblumengarten"
+  },
+  "tagline": {
+   "nl": "Bloemrijke bergwandelingen en een botanische tuin hoog boven Kitzbühel",
+   "en": "Flower-rich mountain walks and a botanical garden high above Kitzbühel",
+   "de": "Blumenreiche Bergwanderungen und ein Alpenblumengarten hoch über Kitzbühel"
+  },
+  "intro": {
+   "nl": "Het Kitzbüheler Horn is met 1.996 meter een van de bergen boven Kitzbühel. Met de Hornbahn, die in de zomer van mei tot begin oktober rijdt, ben je snel boven. De Hornbahn I brengt je naar het middenstation of, met de Horn-Gipfelbahn, helemaal naar de top, waar je 360 graden uitzicht hebt over de Alpen. De Hornbahn II gaat naar het Alpenhaus, waar een kleine speeltuin ligt en waar de gezinsroutes beginnen.\n\nDe Alpenblumengarten beslaat ongeveer 20.000 m² en toont meer dan 400 soorten alpenplanten uit verschillende delen van de wereld. De wandeling door de tuin is een gemakkelijke gezinsroute van ca. 2 km, goed voor ongeveer een uur. Wat er bloeit hangt af van het seizoen, van het late voorjaar tot in de herfst.\n\nWie nog energie heeft, loopt vanaf het Alpenhaus verder richting de top. Voor kinderen is er bovendien een klimpad bij het bovenstation. Boven heb je uitzicht over Kitzbühel en de omringende bergen.",
+   "en": "The Kitzbüheler Horn, at 1,996 metres, is one of the mountains above Kitzbühel. The Hornbahn, which runs in summer from May to early October, gets you up quickly. Hornbahn I takes you to the middle station or, with the Horn-Gipfelbahn, all the way to the summit with a 360-degree panorama of the Alps. Hornbahn II goes to the Alpenhaus, where there is a small playground and where the family routes begin.\n\nThe Alpenblumengarten covers about 20,000 m² and shows more than 400 species of alpine plants from different parts of the world. The walk through the garden is an easy family route of about 2 km, taking around an hour. What is in bloom depends on the season, from late spring into autumn.\n\nIf you still have energy, you can continue from the Alpenhaus towards the summit. For children there is also a climbing trail near the top station. From above you have views over Kitzbühel and the surrounding mountains.",
+   "de": "Das Kitzbüheler Horn ist mit 1.996 Metern einer der Berge über Kitzbühel. Mit der Hornbahn, die im Sommer von Mai bis Anfang Oktober fährt, ist man schnell oben. Die Hornbahn I bringt Sie zur Mittelstation oder mit der Horn-Gipfelbahn bis zum Gipfel mit 360-Grad-Panorama über die Alpen. Die Hornbahn II führt zum Alpenhaus, wo es einen kleinen Spielplatz gibt und die Familienrouten beginnen.\n\nDer Alpenblumengarten umfasst rund 20.000 m² und zeigt mehr als 400 Alpenpflanzenarten aus verschiedenen Teilen der Welt. Der Rundgang durch den Garten ist eine leichte Familienwanderung von ca. 2 km und dauert etwa eine Stunde. Was blüht, hängt von der Jahreszeit ab, vom Spätfrühling bis in den Herbst.\n\nWer noch Energie hat, geht vom Alpenhaus weiter Richtung Gipfel. Für Kinder gibt es außerdem einen Kletterpfad bei der Bergstation. Von oben hat man Aussicht über Kitzbühel und die umliegenden Berge."
+  },
+  "tips": {
+   "nl": [
+    "Kies een heldere dag voor het beste uitzicht.",
+    "Neem een jas mee; het is boven koeler dan in het dal.",
+    "Kies een wandelroute die past bij de leeftijd van de kinderen.",
+    "Laat de kinderen bij het Alpenhaus even op de speeltuin uitrazen voordat je verder loopt.",
+    "Plan de bloemen in het late voorjaar of de zomer als je veel kleur wilt zien."
+   ],
+   "en": [
+    "Choose a clear day for the best views.",
+    "Bring a jacket; it is cooler up top than in the valley.",
+    "Choose a walking route to suit the children's ages.",
+    "Let the children burn off energy at the playground by the Alpenhaus before you set off.",
+    "Visit in late spring or summer if you want to see plenty of colour."
+   ],
+   "de": [
+    "Wählen Sie einen klaren Tag für die beste Aussicht.",
+    "Nehmen Sie eine Jacke mit; oben ist es kühler als im Tal.",
+    "Wählen Sie eine Wanderroute passend zum Alter der Kinder.",
+    "Lassen Sie die Kinder am Alpenhaus auf dem Spielplatz toben, bevor Sie losgehen.",
+    "Kommen Sie im späten Frühling oder Sommer, wenn Sie viel Blütenfarbe sehen möchten."
+   ]
+  },
+  "practical": {
+   "nl": "Kitzbühel ligt ca. 50 minuten rijden van Niederau, via Wörgl en de B170 door het Brixental. De Hornbahn rijdt in de zomer ongeveer van mei tot begin oktober; controleer vooraf de actuele tijden. Er zijn twee bergbanen: de ene gaat naar het Alpenhaus, de andere naar de top. Kies afhankelijk van de leeftijd van de kinderen en de gewenste wandelafstand.",
+   "en": "Kitzbühel is about 50 minutes by car from Niederau, via Wörgl and the B170 through the Brixental. The Hornbahn runs in summer roughly from May to early October; check current times beforehand. There are two cable cars: one to the Alpenhaus, the other to the summit. Choose according to the children's ages and the walking distance you want.",
+   "de": "Kitzbühel liegt ca. 50 Autominuten von Niederau entfernt, über Wörgl und die B170 durch das Brixental. Die Hornbahn fährt im Sommer etwa von Mai bis Anfang Oktober; aktuelle Zeiten vorab prüfen. Es gibt zwei Bergbahnen: eine zum Alpenhaus, die andere zum Gipfel. Wählen Sie je nach Alter der Kinder und gewünschter Gehstrecke."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden (gemakkelijke route)",
+    "en": "All ages (easy route)",
+    "de": "Alle Altersgruppen (leichte Route)"
+   },
+   "duration": {
+    "nl": "Ca. 3–4 uur",
+    "en": "About 3–4 hours",
+    "de": "Ca. 3–4 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "About 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (mei tot begin oktober)",
+    "en": "Summer (May to early October)",
+    "de": "Sommer (Mai bis Anfang Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Kitzbüheler Horn, Kitzbühel",
+   "en": "Kitzbüheler Horn, Kitzbühel",
+   "de": "Kitzbüheler Horn, Kitzbühel"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is de Alpenblumengarten?",
+     "en": "What is the Alpenblumengarten?",
+     "de": "Was ist der Alpenblumengarten?"
+    },
+    "a": {
+     "nl": "Een botanische tuin van ca. 20.000 m² met meer dan 400 soorten alpenplanten op het Kitzbüheler Horn.",
+     "en": "A botanical garden of about 20,000 m² with more than 400 species of alpine plants on the Kitzbüheler Horn.",
+     "de": "Ein botanischer Garten von ca. 20.000 m² mit mehr als 400 Alpenpflanzenarten am Kitzbüheler Horn."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe hoog is het Kitzbüheler Horn?",
+     "en": "How high is the Kitzbüheler Horn?",
+     "de": "Wie hoch ist das Kitzbüheler Horn?"
+    },
+    "a": {
+     "nl": "De top ligt op 1.996 meter.",
+     "en": "The summit is at 1,996 metres.",
+     "de": "Der Gipfel liegt auf 1.996 Metern."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er iets voor kinderen boven?",
+     "en": "Is there anything for children up top?",
+     "de": "Gibt es oben etwas für Kinder?"
+    },
+    "a": {
+     "nl": "Ja, bij het Alpenhaus is een kleine speeltuin en bij het bovenstation een klimpad voor kinderen.",
+     "en": "Yes, there is a small playground at the Alpenhaus and a climbing trail for children near the top station.",
+     "de": "Ja, am Alpenhaus gibt es einen kleinen Spielplatz und bei der Bergstation einen Kletterpfad für Kinder."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "wandelen",
+  "season": "summer",
+  "slug_nl": "kitzbuheler-horn-wandeling"
+ },
+ {
+  "id": "w6",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "ice-skating-familypark-drachental",
+  "slug_de": "eislaufen-familienpark-drachental",
+  "title": {
+   "nl": "IJsschaatsen in de Wildschönau",
+   "en": "Ice skating in the Wildschönau",
+   "de": "Eislaufen in der Wildschönau"
+  },
+  "tagline": {
+   "nl": "Schaatsen op de ijsbaan van het Familienpark Drachental",
+   "en": "Skating on the rink at the Familienpark Drachental",
+   "de": "Eislaufen auf der Eisbahn im Familienpark Drachental"
+  },
+  "intro": {
+   "nl": "In de winter is er in het Familienpark Drachental in Oberau een ijsbaan. Schaatsen kun je ter plaatse huren, en met vooraf aanmelden is ook ijsstockschieten (curling op Tiroolse wijze) mogelijk. Het is een prima idee voor een middag buiten de pistes: kinderen oefenen op het ijs, ouders kijken mee of doen mee.\n\nHet park heeft in de winter meer te bieden dan alleen de ijsbaan. Er is onder meer een 5D-bioscoop, een ruimte om te ballen in de buik van de draak, een gezinspiste met een sleeplift en het bistro Drachenherz. In sommige winters komt daar een snowtubing-baan bij, waarop je op een opgeblazen band van een geprepareerde sneeuwhelling glijdt, en op bepaalde avonden zijn er muziek en eten.\n\nHet park is in de regel gesloten op maandag en open van dinsdag tot en met zondag van 10:00 tot 18:00 uur, maar tijden kunnen wisselen. Controleer vooraf de openingstijden en de entreeprijs van de ijsbaan. Neem warme handschoenen en een muts mee; op het ijs wordt het snel koud.",
+   "en": "In winter the Familienpark Drachental in Oberau has an ice rink. Skates can be hired on site, and with advance registration ice stock shooting (a Tyrolean cousin of curling) is also possible. It is a good idea for an afternoon off the slopes: children practise on the ice while parents watch or join in.\n\nIn winter the park offers more than just the rink. Among other things there is a 5D cinema, a space for ball games in the belly of the dragon, a family ski slope with a drag lift and the Drachenherz bistro. In some winters a snow-tubing track is added, where you slide down a prepared snow slope on an inflated tyre, and on certain evenings there is music and food.\n\nThe park is generally closed on Mondays and open Tuesday to Sunday from 10 am to 6 pm, but times can vary. Check opening times and the rink's entry price beforehand. Bring warm gloves and a hat; it gets cold quickly on the ice.",
+   "de": "Im Winter gibt es im Familienpark Drachental in Oberau eine Eislaufbahn. Schlittschuhe können vor Ort geliehen werden, und mit Voranmeldung ist auch Eisstockschießen möglich. Das ist eine gute Idee für einen Nachmittag abseits der Pisten: Kinder üben auf dem Eis, Eltern schauen zu oder laufen mit.\n\nIm Winter bietet der Park mehr als nur die Eisbahn. Es gibt unter anderem ein 5D-Kino, einen Raum zum Ballspielen im Bauch des Drachen, eine Familienpiste mit Schlepplift und das Bistro Drachenherz. In manchen Wintern kommt eine Snow-Tubing-Bahn dazu, auf der man auf einem luftgefüllten Reifen einen präparierten Schneehang hinabgleitet, und an bestimmten Abenden gibt es Musik und Kulinarik.\n\nDer Park hat in der Regel montags Ruhetag und ist dienstags bis sonntags von 10:00 bis 18:00 Uhr geöffnet, die Zeiten können aber wechseln. Prüfen Sie vorab Öffnungszeiten und Eintrittspreis der Eisbahn. Nehmen Sie warme Handschuhe und eine Mütze mit; auf dem Eis wird es schnell kalt."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf openingstijden en prijzen.",
+    "Draag warme handschoenen en een muts.",
+    "Een helm is voor beginners een verstandige keuze.",
+    "Meld je vooraf aan als je ijsstockschieten wilt proberen.",
+    "Combineer de ijsbaan met een bezoek aan het bistro of een van de andere winterattracties in het park."
+   ],
+   "en": [
+    "Check opening times and prices beforehand.",
+    "Wear warm gloves and a hat.",
+    "A helmet is a sensible choice for beginners.",
+    "Register in advance if you want to try ice stock shooting.",
+    "Combine the rink with a visit to the bistro or one of the park's other winter attractions."
+   ],
+   "de": [
+    "Öffnungszeiten und Preise vorab prüfen.",
+    "Warme Handschuhe und Mütze tragen.",
+    "Ein Helm ist für Anfänger sinnvoll.",
+    "Für Eisstockschießen vorab anmelden.",
+    "Die Eisbahn mit einem Besuch im Bistro oder einer der anderen Winterattraktionen im Park verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Het Familienpark Drachental ligt in het gebied Kirchen bij Oberau, ca. 5 tot 10 minuten rijden van Niederau. Dat maakt het een eenvoudige uitweg als de pistes druk zijn of het weer tegenzit. Controleer de actuele tijden bij het park of de VVV, want de openingstijden in het winterseizoen kunnen afwijken van die in de zomer.",
+   "en": "The Familienpark Drachental is in the Kirchen area near Oberau, about 5 to 10 minutes by car from Niederau. That makes it an easy alternative when the slopes are busy or the weather is poor. Check current times with the park or the tourist office, as opening hours in the winter season can differ from those in summer.",
+   "de": "Der Familienpark Drachental liegt im Ortsteil Kirchen bei Oberau, ca. 5 bis 10 Autominuten von Niederau. Damit ist er eine einfache Alternative, wenn die Pisten voll sind oder das Wetter schlecht ist. Aktuelle Zeiten beim Park oder Tourismusverband prüfen, denn die Öffnungszeiten im Winter können von denen im Sommer abweichen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 tot 10 min rijden",
+    "en": "About 5 to 10 min by car",
+    "de": "Ca. 5 bis 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Familienpark Drachental, Kirchen bij Oberau",
+   "en": "Familienpark Drachental, Kirchen near Oberau",
+   "de": "Familienpark Drachental, Kirchen bei Oberau"
+  },
+  "url": "https://www.drachental.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je schaatsen huren?",
+     "en": "Can you hire skates?",
+     "de": "Kann man Schlittschuhe leihen?"
+    },
+    "a": {
+     "nl": "Ja, schaatsen zijn ter plaatse te huren; controleer wel de actuele tijden en prijzen.",
+     "en": "Yes, skates can be hired on site; do check current times and prices.",
+     "de": "Ja, Schlittschuhe können vor Ort geliehen werden; aktuelle Zeiten und Preise bitte prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je ook ijsstockschieten?",
+     "en": "Can you also try ice stock shooting?",
+     "de": "Kann man auch Eisstockschießen?"
+    },
+    "a": {
+     "nl": "Ja, met vooraf aanmelden is ijsstockschieten mogelijk.",
+     "en": "Yes, ice stock shooting is possible with advance registration.",
+     "de": "Ja, mit Voranmeldung ist Eisstockschießen möglich."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is er verder te doen in het park in de winter?",
+     "en": "What else is there to do in the park in winter?",
+     "de": "Was gibt es im Winter sonst im Park zu tun?"
+    },
+    "a": {
+     "nl": "Onder meer een 5D-bioscoop, een gezinspiste met sleeplift en het bistro Drachenherz.",
+     "en": "Among other things a 5D cinema, a family ski slope with a drag lift and the Drachenherz bistro.",
+     "de": "Unter anderem ein 5D-Kino, eine Familienpiste mit Schlepplift und das Bistro Drachenherz."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "winterpret",
+  "season": "winter",
+  "slug_nl": "ijsschaatsen-wildschonau"
+ },
+ {
+  "id": "s230",
+  "drop": false,
+  "drop_reason": "",
+  "place": "reutte",
+  "slug_en": "plansee-lake-reutte",
+  "slug_de": "plansee-see-reutte",
+  "title": {
+   "nl": "Plansee bij Reutte",
+   "en": "Plansee near Reutte",
+   "de": "Plansee bei Reutte"
+  },
+  "tagline": {
+   "nl": "Het op één na grootste meer van Tirol, om te zwemmen en te wandelen",
+   "en": "Tyrol's second-largest lake, for swimming and walking",
+   "de": "Tirols zweitgrößter See zum Baden und Wandern"
+  },
+  "intro": {
+   "nl": "Het Plansee ligt in de Naturparkregion Reutte en is na de Achensee het grootste meer van Tirol. Het is ongeveer zes kilometer lang, heeft twee bekkens van ongeveer 78 en 72 meter diep en staat bekend om zijn heldere water. Via een kanaal is het verbonden met het kleinere Heiterwanger See. In de zomer wordt het water gemiddeld zo'n 19 tot 22 graden.\n\nAan de oever vind je een ligweide van circa 4.000 m² met een steenachtige waterkant, speeltuintjes, een kiosk en een rondvaartdienst. Douches en kleedcabines ontbreken, maar bij restaurants en kiosken zijn toiletten. Dit is dus een natuurlijke badplek, geen zwembadcomplex. Je kunt er zwemmen, picknicken en langs het water wandelen; een gezinsvriendelijke wandelroute loopt rond het meer.\n\nHet is een lange rit vanaf Niederau, dus plan het als dagtocht, eventueel gecombineerd met andere bezienswaardigheden rond Reutte.",
+   "en": "The Plansee lies in the Reutte nature park region and, after the Achensee, is the largest lake in Tyrol. It is about six kilometres long, has two basins about 78 and 72 metres deep and is known for its clear water. A canal links it to the smaller Heiterwanger See. In summer the water typically reaches around 19 to 22 degrees.\n\nOn the shore there is a lawn of roughly 4,000 m² with a stony water's edge, small playgrounds, a kiosk and a boat service. There are no showers or changing cabins, but toilets are available at restaurants and kiosks. This is a natural swimming spot, not a pool complex. You can swim, picnic and walk along the water; a family-friendly walking route runs around the lake.\n\nIt is a long drive from Niederau, so plan it as a day trip, perhaps combined with other sights around Reutte.",
+   "de": "Der Plansee liegt in der Naturparkregion Reutte und ist nach dem Achensee der größte See Tirols. Er ist etwa sechs Kilometer lang, hat zwei Becken mit etwa 78 und 72 Metern Tiefe und ist für sein klares Wasser bekannt. Über einen Kanal ist er mit dem kleineren Heiterwanger See verbunden. Im Sommer erreicht das Wasser meist etwa 19 bis 22 Grad.\n\nAm Ufer gibt es eine Liegewiese von rund 4.000 m² mit steinigem Ufer, kleine Spielplätze, einen Kiosk und eine Schifffahrt. Duschen und Umkleidekabinen fehlen, Toiletten gibt es aber bei Restaurants und Kiosken. Es ist also ein natürlicher Badeplatz, keine Badeanlage. Man kann schwimmen, picknicken und am Wasser spazieren; ein familienfreundlicher Rundweg führt um den See.\n\nVon Niederau ist die Fahrt lang, planen Sie daher einen Tagesausflug, eventuell kombiniert mit anderen Sehenswürdigkeiten rund um Reutte."
+  },
+  "tips": {
+   "nl": [
+    "Neem badschoenen mee: de waterkant is steenachtig.",
+    "Er zijn geen douches of kleedcabines; neem een handdoek en droge kleren mee.",
+    "Het water van een bergmeer is fris, ook in de zomer.",
+    "Neem een picknick mee en maak er een hele dag van.",
+    "Wil je het meer verkennen zonder te zwemmen, loop dan een stuk van de rondwandeling."
+   ],
+   "en": [
+    "Bring water shoes: the water's edge is stony.",
+    "There are no showers or changing cabins; bring a towel and dry clothes.",
+    "The water of a mountain lake is cool even in summer.",
+    "Pack a picnic and make a full day of it.",
+    "If you want to explore the lake without swimming, walk part of the circular route."
+   ],
+   "de": [
+    "Nehmen Sie Badeschuhe mit: Das Ufer ist steinig.",
+    "Es gibt keine Duschen oder Umkleiden; Handtuch und trockene Kleidung mitnehmen.",
+    "Das Wasser eines Bergsees ist auch im Sommer frisch.",
+    "Packen Sie ein Picknick ein und machen Sie einen ganzen Tag daraus.",
+    "Wer den See ohne Baden erkunden möchte, geht ein Stück des Rundwegs."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 1,5 tot 2 uur met de auto via de A12 en de Fernpass-route richting Reutte. Daarom vooral geschikt als dagtocht. Het meer ligt vlak bij de grens met Beieren, in de regio rond Reutte. Zorg dat je eten, drinken en badspullen meeneemt; de badplek zelf is vrij toegankelijk, maar voorzieningen als kiosken en restaurants hebben eigen tijden.",
+   "en": "From Niederau it is about 1.5 to 2 hours by car via the A12 and the Fernpass route towards Reutte. It is therefore best as a day trip. The lake lies close to the Bavarian border, in the region around Reutte. Bring food, drink and swimming things; the bathing spot itself is freely accessible, but facilities such as kiosks and restaurants keep their own hours.",
+   "de": "Von Niederau fahren Sie etwa 1,5 bis 2 Stunden mit dem Auto über die A12 und die Fernpass-Route Richtung Reutte. Daher eher als Tagesausflug geeignet. Der See liegt nahe der bayerischen Grenze, in der Region um Reutte. Nehmen Sie Verpflegung und Badesachen mit; der Badeplatz selbst ist frei zugänglich, Einrichtungen wie Kioske und Restaurants haben aber eigene Zeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Vrij toegankelijke badplek; kosten wisselen per voorziening",
+    "en": "Freely accessible bathing spot; costs vary by facility",
+    "de": "Frei zugänglicher Badeplatz; Kosten je nach Einrichtung"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 tot 2 uur rijden",
+    "en": "Approx. 1.5 to 2 hours by car",
+    "de": "Ca. 1,5 bis 2 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Plansee, Naturparkregion Reutte",
+   "en": "Plansee, Reutte nature park region",
+   "de": "Plansee, Naturparkregion Reutte"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn er douches of kleedcabines bij het Plansee?",
+     "en": "Are there showers or changing cabins at the Plansee?",
+     "de": "Gibt es am Plansee Duschen oder Umkleidekabinen?"
+    },
+    "a": {
+     "nl": "Nee, bij de badplek ontbreken douches en kleedcabines. Toiletten vind je bij restaurants en kiosken.",
+     "en": "No, showers and changing cabins are not available at the bathing spot. Toilets are at restaurants and kiosks.",
+     "de": "Nein, am Badeplatz gibt es keine Duschen und Umkleidekabinen. Toiletten finden Sie bei Restaurants und Kiosken."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe warm wordt het water?",
+     "en": "How warm does the water get?",
+     "de": "Wie warm wird das Wasser?"
+    },
+    "a": {
+     "nl": "In de zomer meestal zo'n 19 tot 22 graden, dus fris maar goed te doen.",
+     "en": "Usually around 19 to 22 degrees in summer, so cool but manageable.",
+     "de": "Im Sommer meist etwa 19 bis 22 Grad, also frisch, aber gut auszuhalten."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je rond het Plansee wandelen?",
+     "en": "Can you walk around the Plansee?",
+     "de": "Kann man um den Plansee wandern?"
+    },
+    "a": {
+     "nl": "Ja, er loopt een gezinsvriendelijke wandelroute rond het meer; je kunt ook maar een deel lopen.",
+     "en": "Yes, a family-friendly walking route runs around the lake; you can also walk just a section.",
+     "de": "Ja, ein familienfreundlicher Rundweg führt um den See; man kann auch nur ein Stück gehen."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "slug_nl": "plansee-meer-wandelen-en-zwemmen-reutte"
+ },
+ {
+  "id": "s199",
+  "drop": false,
+  "drop_reason": "",
+  "place": "st-johann-in-tirol",
+  "slug_en": "helicopter-flight-st-johann",
+  "slug_de": "hubschrauber-rundflug-st-johann",
+  "title": {
+   "nl": "Helikopter-rondvlucht vanaf St. Johann",
+   "en": "Helicopter sightseeing flight from St. Johann",
+   "de": "Hubschrauber-Rundflug ab St. Johann"
+  },
+  "tagline": {
+   "nl": "Bergen en meren vanuit de lucht, vertrek bij Erpfendorf",
+   "en": "Mountains and lakes from the air, departing near Erpfendorf",
+   "de": "Berge und Seen aus der Luft, Abflug bei Erpfendorf"
+  },
+  "intro": {
+   "nl": "Vanaf het heliport bij Erpfendorf, vlak bij St. Johann in Tirol, worden rondvluchten per helikopter gevlogen. Een aanbieder in de regio is Heli Austria. Het heliport ligt in het open dal van St. Johann, omringd door de Wilder Kaiser, het Kitzbüheler Horn en de Loferer Steinberge, en ligt ongeveer twintig minuten rijden van Kitzbühel.\n\nTijdens een rondvlucht zie je de Kitzbüheler Alpen, de Wilder Kaiser en de omliggende dalen en meren van boven. Een korte vlucht van ongeveer een halfuur biedt plaats aan maximaal vijf passagiers; langere vluchten duren tot een uur. Ze worden vaak als charter voor een kleine groep aangeboden, waardoor de kosten per vlucht hoog kunnen zijn.\n\nHet is dus eerder iets voor een bijzondere gelegenheid dan een standaard gezinsuitje. Vlucht en tijdstip hangen af van het weer; informeer vooraf naar prijs, duur en leeftijdsgrenzen.",
+   "en": "Scenic helicopter flights depart from the heliport at Erpfendorf, close to St. Johann in Tirol. One operator in the region is Heli Austria. The heliport sits in the open valley of St. Johann, surrounded by the Wilder Kaiser, the Kitzbüheler Horn and the Loferer Steinberge, about twenty minutes by car from Kitzbühel.\n\nOn a flight you see the Kitzbühel Alps, the Wilder Kaiser and the surrounding valleys and lakes from above. A short flight of about half an hour seats a maximum of five passengers; longer flights last up to an hour. They are often offered as a charter for a small group, so the cost per flight can be high.\n\nIt is therefore more of a special-occasion treat than a standard family outing. Flights and times depend on the weather; ask in advance about price, duration and age limits.",
+   "de": "Vom Heliport bei Erpfendorf, nahe St. Johann in Tirol, starten Rundflüge mit dem Hubschrauber. Ein Anbieter in der Region ist Heli Austria. Der Heliport liegt im offenen Tal von St. Johann, umgeben von Wildem Kaiser, Kitzbüheler Horn und Loferer Steinbergen, etwa zwanzig Autominuten von Kitzbühel entfernt.\n\nBei einem Rundflug sehen Sie die Kitzbüheler Alpen, den Wilden Kaiser sowie die umliegenden Täler und Seen von oben. Ein kurzer Flug von etwa einer halben Stunde bietet Platz für höchstens fünf Passagiere; längere Flüge dauern bis zu einer Stunde. Sie werden oft als Charter für eine kleine Gruppe angeboten, sodass der Preis pro Flug hoch sein kann.\n\nEs ist daher eher etwas für einen besonderen Anlass als ein gewöhnlicher Familienausflug. Flug und Zeitpunkt hängen vom Wetter ab; fragen Sie vorab nach Preis, Dauer und Altersgrenzen."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf naar de totale prijs per vlucht en hoeveel personen mee kunnen.",
+    "Boek bij voorkeur ruim van tevoren en houd rekening met een uitwijkdatum.",
+    "Neem een camera mee, maar vraag naar de regels voor foto's aan boord.",
+    "Kies een heldere dag: bij goed zicht komen de Wilder Kaiser en de meren het mooist uit.",
+    "Draag losse, comfortabele kleding en vermijd lange sjaals of wapperende spullen bij het instappen."
+   ],
+   "en": [
+    "Ask beforehand for the total price per flight and how many people can join.",
+    "Book well ahead and allow for a back-up date.",
+    "Bring a camera, but ask about the rules for taking photos on board.",
+    "Pick a clear day: with good visibility the Wilder Kaiser and the lakes look their best.",
+    "Wear loose, comfortable clothing and avoid long scarves or loose items when boarding."
+   ],
+   "de": [
+    "Fragen Sie vorab nach dem Gesamtpreis pro Flug und wie viele Personen mitfliegen können.",
+    "Buchen Sie möglichst früh und planen Sie einen Ausweichtermin ein.",
+    "Nehmen Sie eine Kamera mit, fragen Sie aber nach den Regeln für Fotos an Bord.",
+    "Wählen Sie einen klaren Tag: Bei guter Sicht kommen Wilder Kaiser und Seen am schönsten zur Geltung.",
+    "Tragen Sie bequeme, anliegende Kleidung und vermeiden Sie lange Schals oder lose Gegenstände beim Einsteigen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 50 minuten rijden naar St. Johann in Tirol en het heliport bij Erpfendorf. Reserveer vooraf; losse vluchten zonder afspraak zijn niet gebruikelijk. Vraag bij het boeken naar het precieze verzamelpunt, de duur en wat er bij slecht weer gebeurt, zodat je een alternatief achter de hand hebt.",
+   "en": "From Niederau it is about 50 minutes by car to St. Johann in Tirol and the heliport at Erpfendorf. Book beforehand; flights without an appointment are not usual. When booking, ask about the exact meeting point, the duration and what happens in bad weather, so that you have an alternative at hand.",
+   "de": "Von Niederau sind es ca. 50 Minuten Fahrt nach St. Johann in Tirol und zum Heliport bei Erpfendorf. Bitte vorab reservieren; Flüge ohne Termin sind nicht üblich. Fragen Sie bei der Buchung nach dem genauen Treffpunkt, der Dauer und dem Vorgehen bei schlechtem Wetter, damit Sie eine Alternative parat haben."
+  },
+  "facts": {
+   "age": {},
+   "duration": {
+    "nl": "Ca. 30 tot 60 min vlucht",
+    "en": "About 30 to 60 min flight",
+    "de": "Ca. 30 bis 60 Min. Flug"
+   },
+   "price": {
+    "nl": "Duur; prijs per vlucht hoog, informeer vooraf",
+    "en": "Costly; price per flight is high, check beforehand",
+    "de": "Teuer; Preis pro Flug hoch, bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "About 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Vooral zomer, weerafhankelijk",
+    "en": "Mainly summer, weather permitting",
+    "de": "Vor allem Sommer, wetterabhängig"
+   }
+  },
+  "location": {
+   "nl": "Erpfendorf / St. Johann in Tirol",
+   "en": "Erpfendorf / St. Johann in Tirol",
+   "de": "Erpfendorf / St. Johann in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar vertrekken helikoptervluchten bij St. Johann?",
+     "en": "Where do helicopter flights near St. Johann depart from?",
+     "de": "Wo starten Hubschrauberflüge bei St. Johann?"
+    },
+    "a": {
+     "nl": "Vanaf het heliport bij Erpfendorf, dichtbij St. Johann in Tirol.",
+     "en": "From the heliport at Erpfendorf, close to St. Johann in Tirol.",
+     "de": "Vom Heliport bei Erpfendorf, nahe St. Johann in Tirol."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoeveel mensen kunnen er mee op een korte vlucht?",
+     "en": "How many people can join a short flight?",
+     "de": "Wie viele Personen können bei einem kurzen Flug mitfliegen?"
+    },
+    "a": {
+     "nl": "Bij een vlucht van ongeveer een halfuur maximaal vijf passagiers; bevestig dit bij het boeken.",
+     "en": "On a flight of about half an hour, a maximum of five passengers; confirm this when booking.",
+     "de": "Bei einem Flug von etwa einer halben Stunde höchstens fünf Passagiere; bitte bei der Buchung bestätigen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Welke bergen zie je tijdens de vlucht?",
+     "en": "Which mountains do you see on the flight?",
+     "de": "Welche Berge sieht man beim Flug?"
+    },
+    "a": {
+     "nl": "Onder meer de Wilder Kaiser, het Kitzbüheler Horn en de Loferer Steinberge, plus dalen en meren.",
+     "en": "Among others the Wilder Kaiser, the Kitzbüheler Horn and the Loferer Steinberge, plus valleys and lakes.",
+     "de": "Unter anderem den Wilden Kaiser, das Kitzbüheler Horn und die Loferer Steinberge sowie Täler und Seen."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "avontuur",
+  "season": "summer",
+  "slug_nl": "helikopter-rondvlucht-boven-de-alpen"
+ },
+ {
+  "id": "s271",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "koessen",
+  "slug_en": "3d-archery-koessen",
+  "slug_de": "3d-bogenschiessen-koessen",
+  "title": {
+   "nl": "3D-boogschieten in Kössen",
+   "en": "3D archery in Kössen",
+   "de": "3D-Bogenschießen in Kössen"
+  },
+  "tagline": {
+   "nl": "Met pijl en boog door het bos op zoek naar 3D-doelen",
+   "en": "Stalk 3D targets through the forest with a bow",
+   "de": "Mit Pfeil und Bogen durch den Wald zu 3D-Zielen"
+  },
+  "intro": {
+   "nl": "In Kössen, in het Kaiserwinkl, kun je onder begeleiding boogschieten op een bosparcours. Na een korte oefenronde op een schijf loop je door het terrein en zoek je 3D-doelen in de vorm van dieren. De route voert door schaduwrijk bos, wat fijn is op warme dagen.\n\nDe activiteit duurt ongeveer twee uur en is bedoeld voor gezinnen; kinderen vanaf ca. 8 jaar kunnen meedoen. Je hebt geen ervaring nodig, want je krijgt uitleg en materiaal. Het is een rustige, geconcentreerde sport die ook voor ouders een leuke uitdaging is: je leert eerst de basis van het traditionele boogschieten en past die daarna toe op het parcours.\n\nAanmelden en verzamelen gaat via de aanbieder SportundNatur in Kössen, een avontuurlijk sportbedrijf dat ook canyoning, rafting en trekking organiseert. Het bedrijf richt zich op ervaringen in de natuur zonder vaste installaties in het landschap.",
+   "en": "In Kössen, in the Kaiserwinkl, you can try guided archery on a forest course. After a short practice round on a target you walk through the terrain looking for 3D targets shaped like animals. The route runs through shady woodland, which is welcome on warm days.\n\nThe activity takes about two hours and suits families; children from about 8 years old can join. No experience is needed because you get instruction and equipment. It is a calm, focused sport that also challenges the parents: you first learn the basics of traditional archery and then apply them on the course.\n\nRegistration and the meeting point are handled by the provider SportundNatur in Kössen, an adventure sports company that also runs canyoning, rafting and trekking. The company focuses on nature experiences without permanent installations in the landscape.",
+   "de": "In Kössen im Kaiserwinkl kann man unter Anleitung auf einem Waldparcours Bogenschießen. Nach einer kurzen Übungsrunde an der Scheibe geht es durch das Gelände, wo 3D-Tierfiguren als Ziele warten. Die Strecke führt durch schattigen Wald, was an warmen Tagen angenehm ist.\n\nDie Aktivität dauert etwa zwei Stunden und eignet sich für Familien; Kinder ab ca. 8 Jahren können teilnehmen. Erfahrung ist nicht nötig, denn Einweisung und Ausrüstung sind dabei. Es ist ein ruhiger, konzentrierter Sport, der auch Eltern fordert: Zuerst lernt man die Grundlagen des traditionellen Bogenschießens und wendet sie dann auf dem Parcours an.\n\nAnmeldung und Treffpunkt laufen über den Anbieter SportundNatur in Kössen, einen Abenteuer-Sportanbieter, der auch Canyoning, Rafting und Trekking veranstaltet. Der Anbieter setzt auf Naturerlebnisse ohne feste Installationen in der Landschaft."
+  },
+  "tips": {
+   "nl": [
+    "Meld je vooraf aan; plekken zijn beperkt.",
+    "Draag stevige schoenen en kleding die bij het weer past.",
+    "Vraag naar prijzen en groepsgrootte bij de aanbieder.",
+    "Met de gastenkaart van het Kaiserwinkl kan een korting gelden; informeer ernaar.",
+    "Neem water mee en smeer je in tegen muggen en teken; je loopt twee uur door het bos."
+   ],
+   "en": [
+    "Book in advance; places are limited.",
+    "Wear sturdy shoes and clothing suited to the weather.",
+    "Ask the provider about prices and group size.",
+    "A discount may apply with the Kaiserwinkl guest card; ask about it.",
+    "Bring water and use insect repellent; you will be walking through woodland for two hours."
+   ],
+   "de": [
+    "Vorab anmelden; die Plätze sind begrenzt.",
+    "Feste Schuhe und wettergerechte Kleidung tragen.",
+    "Preise und Gruppengröße beim Anbieter erfragen.",
+    "Mit der Kaiserwinkl-Gästekarte kann es eine Ermäßigung geben; einfach nachfragen.",
+    "Wasser mitnehmen und Insektenschutz verwenden; man ist zwei Stunden im Wald unterwegs."
+   ]
+  },
+  "practical": {
+   "nl": "Kössen ligt ca. 1 uur rijden van Niederau, in het Kaiserwinkl, bij de grens met Beieren. Aanmelden en verzamelen gaat via de aanbieder (SportundNatur) in Kössen; bevestig tijden en plek bij het boeken. Combineer de activiteit eventueel met een bezoek aan het Kaiserwinkl, bijvoorbeeld voor een wandeling of een duik in een meer in de buurt.",
+   "en": "Kössen is about an hour's drive from Niederau, in the Kaiserwinkl, near the Bavarian border. Registration and meeting are via the provider (SportundNatur) in Kössen; confirm time and place when booking. You can combine the activity with a visit to the Kaiserwinkl, for example for a walk or a swim in a nearby lake.",
+   "de": "Kössen liegt ca. 1 Stunde Autofahrt von Niederau entfernt im Kaiserwinkl, nahe der bayerischen Grenze. Anmeldung und Treffpunkt laufen über den Anbieter (SportundNatur) in Kössen; Zeit und Ort bei der Buchung bestätigen lassen. Die Aktivität lässt sich mit einem Besuch im Kaiserwinkl verbinden, etwa für eine Wanderung oder einen Sprung in einen nahen See."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From about 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 hour by car",
+    "de": "Ca. 1 Stunde Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kössen, Kaiserwinkl",
+   "en": "Kössen, Kaiserwinkl",
+   "de": "Kössen, Kaiserwinkl"
+  },
+  "url": "http://sportundnatur.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Vanaf welke leeftijd kun je meedoen?",
+     "en": "What is the minimum age?",
+     "de": "Ab welchem Alter kann man teilnehmen?"
+    },
+    "a": {
+     "nl": "Vanaf ca. 8 jaar; bevestig dit bij het boeken.",
+     "en": "From about 8 years; confirm when booking.",
+     "de": "Ab ca. 8 Jahren; bitte bei der Buchung bestätigen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Heb je ervaring met boogschieten nodig?",
+     "en": "Do you need archery experience?",
+     "de": "Braucht man Erfahrung im Bogenschießen?"
+    },
+    "a": {
+     "nl": "Nee, je krijgt uitleg en materiaal en begint met een korte oefenronde op een schijf.",
+     "en": "No, you get instruction and equipment and start with a short practice round on a target.",
+     "de": "Nein, Einweisung und Ausrüstung sind dabei, und man beginnt mit einer kurzen Übungsrunde an der Scheibe."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang duurt het parcours?",
+     "en": "How long does the course take?",
+     "de": "Wie lange dauert der Parcours?"
+    },
+    "a": {
+     "nl": "De activiteit duurt ongeveer twee uur, inclusief uitleg en oefenronde.",
+     "en": "The activity takes about two hours, including instruction and the practice round.",
+     "de": "Die Aktivität dauert etwa zwei Stunden, einschließlich Einweisung und Übungsrunde."
+    }
+   }
+  ],
+  "theme": "avontuur",
+  "season": "summer",
+  "slug_nl": "boogschieten-kossen"
+ },
+ {
+  "id": "s127",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "summer-concert-oberau",
+  "slug_de": "platzkonzert-oberau",
+  "title": {
+   "nl": "Platzkonzert in Oberau",
+   "en": "Open-air band concert in Oberau",
+   "de": "Platzkonzert in Oberau"
+  },
+  "tagline": {
+   "nl": "Blaasmuziek van de dorpskapel op de dinsdagavond",
+   "en": "Brass band music from the village band on Tuesday evenings",
+   "de": "Blasmusik der Musikkapelle am Dienstagabend"
+  },
+  "intro": {
+   "nl": "In de zomer geeft de Bundesmusikkapelle Oberau elke dinsdagavond om 20:00 uur een open-luchtconcert in het centrum van het dorp, bij het muziekpaviljoen op het Dreizehnlindenplatz. In 2026 loopt de reeks van 7 juli tot en met 1 september, negen concerten in totaal. Het programma loopt uiteen van traditionele blaasmuziek tot modernere klanken.\n\nDe kapel is niet nieuw: in 2019 vierde ze haar 210-jarig bestaan tijdens het Wildschönauer Talfest. Blaasmuziek hoort in Tirol bij het dorpsleven, en juist op zo'n avond zie je hoe de kapel met de bewoners en gasten verbonden is.\n\nHet is een eenvoudige, ontspannen avond: je zit of staat op het plein, luistert en ziet het dorp bij elkaar komen. Kinderen vinden de instrumenten meestal leuk. Er zijn drankjes verkrijgbaar. Controleer de actuele data vooraf, want die kunnen bij slecht weer veranderen.",
+   "en": "In summer the Bundesmusikkapelle Oberau gives an open-air concert every Tuesday evening at 8 pm in the village centre, at the bandstand on the Dreizehnlindenplatz. In 2026 the series runs from 7 July to 1 September, nine concerts in all. The programme ranges from traditional brass music to more modern sounds.\n\nThe band is far from new: in 2019 it celebrated its 210th anniversary during the Wildschönauer Talfest. Brass music is part of village life in Tyrol, and an evening like this shows how closely the band is tied to residents and guests.\n\nIt is a simple, relaxed evening: you sit or stand on the square, listen and watch the village come together. Children usually enjoy the instruments. Refreshments are available. Check the current dates beforehand, as they can change in bad weather.",
+   "de": "Im Sommer spielt die Bundesmusikkapelle Oberau jeden Dienstagabend um 20:00 Uhr ein Konzert unter freiem Himmel im Ortszentrum, am Musikpavillon auf dem Dreizehnlindenplatz. 2026 läuft die Reihe vom 7. Juli bis 1. September, insgesamt neun Konzerte. Das Programm reicht von traditioneller Blasmusik bis zu moderneren Klängen.\n\nDie Kapelle ist keineswegs neu: 2019 feierte sie beim Wildschönauer Talfest ihr 210-jähriges Bestehen. Blasmusik gehört in Tirol zum Dorfleben, und gerade an einem solchen Abend sieht man, wie eng die Kapelle mit Einheimischen und Gästen verbunden ist.\n\nEs ist ein unkomplizierter, entspannter Abend: Sie sitzen oder stehen auf dem Platz, hören zu und erleben, wie das Dorf zusammenkommt. Kinder mögen meist die Instrumente. Erfrischungen gibt es vor Ort. Prüfen Sie die aktuellen Termine vorab, da sie sich bei schlechtem Wetter ändern können."
+  },
+  "tips": {
+   "nl": [
+    "Kom ruim op tijd voor een goede plek.",
+    "Neem een warme trui mee; het wordt 's avonds snel koeler.",
+    "Controleer de actuele data in de evenementenkalender.",
+    "Bij slecht weer kan het concert veranderen of vervallen.",
+    "Combineer met een etentje in het dorp voor het concert begint."
+   ],
+   "en": [
+    "Arrive in good time for a good spot.",
+    "Bring a warm jumper; evenings cool down quickly.",
+    "Check the current dates in the events calendar.",
+    "In bad weather the concert may change or be cancelled.",
+    "Combine it with dinner in the village before the concert begins."
+   ],
+   "de": [
+    "Kommen Sie rechtzeitig für einen guten Platz.",
+    "Nehmen Sie eine warme Jacke mit; abends wird es schnell kühl.",
+    "Prüfen Sie die aktuellen Termine im Veranstaltungskalender.",
+    "Bei schlechtem Wetter kann das Konzert geändert werden oder ausfallen.",
+    "Verbinden Sie den Abend mit einem Abendessen im Ort vor Konzertbeginn."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 minuten rijden van Niederau. Het concert is bij het muziekpaviljoen op het Dreizehnlindenplatz in het dorpscentrum. Omdat het concert om 20:00 uur begint en 's avonds in de bergen snel afkoelt, loont het om iets eerder te komen. Controleer de actuele data in de evenementenkalender van de Wildschönau.",
+   "en": "Oberau is roughly 5 minutes by car from Niederau. The concert is at the bandstand on the Dreizehnlindenplatz in the village centre. As it starts at 8 pm and evenings in the mountains cool down quickly, it pays to arrive a little early. Check the current dates in the Wildschönau events calendar.",
+   "de": "Oberau liegt ca. 5 Fahrminuten von Niederau entfernt. Das Konzert findet am Musikpavillon auf dem Dreizehnlindenplatz im Ortszentrum statt. Da es um 20:00 Uhr beginnt und es abends in den Bergen schnell kühl wird, lohnt es sich, etwas früher zu kommen. Aktuelle Termine im Veranstaltungskalender der Wildschönau prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 min rijden",
+    "en": "Approx. 5 min by car",
+    "de": "Ca. 5 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (2026: 7 juli tot 1 september)",
+    "en": "Summer (2026: 7 July to 1 September)",
+    "de": "Sommer (2026: 7. Juli bis 1. September)"
+   }
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is het concert in Oberau?",
+     "en": "When is the concert in Oberau?",
+     "de": "Wann findet das Konzert in Oberau statt?"
+    },
+    "a": {
+     "nl": "Elke dinsdag om 20:00 uur, in 2026 van 7 juli tot en met 1 september. Controleer de actuele data vooraf.",
+     "en": "Every Tuesday at 8 pm, in 2026 from 7 July to 1 September. Check current dates beforehand.",
+     "de": "Jeden Dienstag um 20:00 Uhr, 2026 vom 7. Juli bis 1. September. Bitte prüfen Sie die aktuellen Termine vorab."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar is het concert precies?",
+     "en": "Where exactly is the concert?",
+     "de": "Wo genau findet das Konzert statt?"
+    },
+    "a": {
+     "nl": "Bij het muziekpaviljoen op het Dreizehnlindenplatz in het centrum van Oberau.",
+     "en": "At the bandstand on the Dreizehnlindenplatz in the centre of Oberau.",
+     "de": "Am Musikpavillon auf dem Dreizehnlindenplatz im Zentrum von Oberau."
+    }
+   },
+   {
+    "q": {
+     "nl": "Welke muziek speelt de kapel?",
+     "en": "What music does the band play?",
+     "de": "Welche Musik spielt die Kapelle?"
+    },
+    "a": {
+     "nl": "Van traditionele blaasmuziek tot modernere klanken.",
+     "en": "From traditional brass music to more modern sounds.",
+     "de": "Von traditioneller Blasmusik bis zu moderneren Klängen."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "slug_nl": "zomerconcert-op-het-dorpsplein-oberau"
+ },
+ {
+  "id": "s178",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "kitzbuehel-old-town",
+  "slug_de": "altstadt-kitzbuehel",
+  "title": {
+   "nl": "Altstadt van Kitzbühel",
+   "en": "Kitzbühel old town",
+   "de": "Altstadt von Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Autovrije straten met erkers en gotische gevels in Tirol",
+   "en": "Car-free streets with oriels and Gothic gables in Tyrol",
+   "de": "Autofreie Gassen mit Erkern und gotischen Giebeln in Tirol"
+  },
+  "intro": {
+   "nl": "Kitzbühel is vooral bekend van het skiën en de Hahnenkamm-race, maar in de zomer is het ook een prettige stad voor een wandeling. De stad kreeg in 1271 stadsrechten van hertog Lodewijk II van Beieren; zilver- en kopermijnen brachten in de 16e en 17e eeuw welvaart. De twee hoofdstraten, Vorderstadt en Hinterstadt, zijn voetgangersgebied. De huizen hebben erkers en gotische gevels, en er zijn winkels van internationale merken tot lokale specialiteiten.\n\nDe twee kerken liggen naast elkaar en vormen de historische kern. De Liebfrauenkirche is een gotisch gebouw uit de 14e eeuw met twee verdiepingen en een barokke uiendak uit de 17e eeuw. De parochiekerk St. Andreas is een laatgotische hallenkerk uit 1435 tot 1506, met een romaanse toren van de eerste kerk.\n\nEen rondje door de oude binnenstad duurt ongeveer anderhalf uur, meer als je ergens gaat zitten. De stad heeft een andere sfeer dan de dorpen in het Brixental: chiquer en drukker, met veel terrassen. Het past goed bij een halve dag en is te combineren met een bergbaan of wandeling op het Kitzbüheler Horn.",
+   "en": "Kitzbühel is best known for skiing and the Hahnenkamm race, but in summer it is also a pleasant town for a stroll. The town received its town rights in 1271 from Duke Louis II of Bavaria; silver and copper mining brought prosperity in the 16th and 17th centuries. The two main streets, Vorderstadt and Hinterstadt, are pedestrian areas. The houses have oriels and Gothic gables, and the shops range from international brands to local specialities.\n\nThe two churches stand side by side and form the historic core. The Liebfrauenkirche is a two-storey Gothic building from the 14th century with a Baroque onion dome added in the 17th. The parish church of St Andrew is a late Gothic hall church built between 1435 and 1506, with a Romanesque tower surviving from the first church.\n\nA loop through the old town takes about an hour and a half, more if you sit down somewhere. The town has a different feel from the villages in the Brixental: smarter and busier, with many terraces. It suits half a day and combines well with a cable car ride or walk on the Kitzbüheler Horn.",
+   "de": "Kitzbühel ist vor allem für das Skifahren und das Hahnenkammrennen bekannt, aber im Sommer ist die Stadt auch für einen Bummel angenehm. Die Stadt erhielt 1271 von Herzog Ludwig II. von Bayern das Stadtrecht; Silber- und Kupferbergbau brachten im 16. und 17. Jahrhundert Wohlstand. Die beiden Hauptstraßen, Vorderstadt und Hinterstadt, sind Fußgängerzonen. Die Häuser haben Erker und gotische Giebel, und die Geschäfte reichen von internationalen Marken bis zu lokalen Spezialitäten.\n\nDie beiden Kirchen stehen nebeneinander und bilden den historischen Kern. Die Liebfrauenkirche ist ein zweigeschossiger gotischer Bau aus dem 14. Jahrhundert mit einer barocken Zwiebelhaube aus dem 17. Jahrhundert. Die Pfarrkirche St. Andreas ist eine spätgotische Hallenkirche, die zwischen 1435 und 1506 entstand, mit einem romanischen Turm der ersten Kirche.\n\nEine Runde durch die Altstadt dauert etwa anderthalb Stunden, mehr, wenn du dich irgendwo hinsetzt. Die Stadt hat ein anderes Flair als die Dörfer im Brixental: schicker und belebter, mit vielen Terrassen. Sie passt zu einem halben Tag und lässt sich gut mit einer Bergbahnfahrt oder Wanderung am Kitzbüheler Horn verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Kijk naar de erkers en gevels in de Vorderstadt en Hinterstadt.",
+    "Plan een koffiestop op een terras.",
+    "Combineer met een uitstap naar het Kitzbüheler Horn.",
+    "Loop even binnen in de Liebfrauenkirche en de parochiekerk, die vlak naast elkaar staan.",
+    "Kom doordeweeks of vroeg op de dag als je het rustiger wilt hebben."
+   ],
+   "en": [
+    "Look at the oriels and gables on the Vorderstadt and Hinterstadt.",
+    "Plan a coffee stop on a terrace.",
+    "Combine with a trip to the Kitzbüheler Horn.",
+    "Step inside the Liebfrauenkirche and the parish church, which stand right next to each other.",
+    "Come on a weekday or early in the day if you prefer it quieter."
+   ],
+   "de": [
+    "Schau dir die Erker und Giebel in Vorderstadt und Hinterstadt an.",
+    "Plane eine Kaffeepause auf einer Terrasse ein.",
+    "Verbinde den Besuch mit einem Ausflug zum Kitzbüheler Horn.",
+    "Geh kurz in die Liebfrauenkirche und die Pfarrkirche, die direkt nebeneinander stehen.",
+    "Komm unter der Woche oder früh am Tag, wenn du es ruhiger magst."
+   ]
+  },
+  "practical": {
+   "nl": "Kitzbühel ligt ca. 45 minuten rijden van Niederau, via Wörgl en de B170 door het Brixental. In het centrum is een groot deel van de straten autovrij, dus parkeer aan de rand of in een garage in de buurt en loop de rest. Het centrum is compact en goed te belopen; reken op een halve dag als je ook wilt eten of winkelen.",
+   "en": "Kitzbühel is roughly 45 minutes by car from Niederau, via Wörgl and the B170 through the Brixental. Much of the centre is car-free, so park on the edge or in a nearby car park and walk the rest. The centre is compact and easy to walk; allow half a day if you also want to eat or shop.",
+   "de": "Kitzbühel liegt ca. 45 Fahrminuten von Niederau entfernt, über Wörgl und die B170 durch das Brixental. Im Zentrum ist ein großer Teil der Straßen autofrei, parke daher am Rand oder in einem nahen Parkhaus und geh den Rest zu Fuß. Das Zentrum ist kompakt und gut zu Fuß erkundbar; rechne mit einem halben Tag, wenn du auch essen oder einkaufen möchtest."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "Approx. 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel",
+   "en": "Kitzbühel",
+   "de": "Kitzbühel"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Kitzbühel ook in de zomer de moeite waard?",
+     "en": "Is Kitzbühel worth visiting in summer?",
+     "de": "Lohnt sich Kitzbühel auch im Sommer?"
+    },
+    "a": {
+     "nl": "Ja, de oude binnenstad met voetgangersstraten, kerken, winkels en terrassen is ook zonder skiseizoen een prettige stop.",
+     "en": "Yes, the old town with its pedestrian streets, churches, shops and terraces is a pleasant stop even outside the ski season.",
+     "de": "Ja, die Altstadt mit Fußgängerzonen, Kirchen, Geschäften und Terrassen ist auch außerhalb der Skisaison ein angenehmer Stopp."
+    }
+   },
+   {
+    "q": {
+     "nl": "Sinds wanneer is Kitzbühel een stad?",
+     "en": "Since when has Kitzbühel been a town?",
+     "de": "Seit wann ist Kitzbühel eine Stadt?"
+    },
+    "a": {
+     "nl": "Sinds 1271, toen hertog Lodewijk II van Beieren de nederzetting stadsrechten gaf.",
+     "en": "Since 1271, when Duke Louis II of Bavaria granted the settlement town rights.",
+     "de": "Seit 1271, als Herzog Ludwig II. von Bayern der Siedlung das Stadtrecht verlieh."
+    }
+   },
+   {
+    "q": {
+     "nl": "Welke kerken staan er in het centrum?",
+     "en": "Which churches are in the centre?",
+     "de": "Welche Kirchen stehen im Zentrum?"
+    },
+    "a": {
+     "nl": "De gotische Liebfrauenkirche en de laatgotische parochiekerk St. Andreas, naast elkaar.",
+     "en": "The Gothic Liebfrauenkirche and the late Gothic parish church of St Andrew, side by side.",
+     "de": "Die gotische Liebfrauenkirche und die spätgotische Pfarrkirche St. Andreas, nebeneinander."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "slug_nl": "kitzbuhel-altstadt-en-centrum-ontdekken"
+ },
+ {
+  "id": "s197",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "patscherkofel-cable-car-igls",
+  "slug_de": "patscherkofelbahn-igls",
+  "title": {
+   "nl": "Patscherkofelbahn (Igls)",
+   "en": "Patscherkofel cable car, Igls",
+   "de": "Patscherkofelbahn in Igls"
+  },
+  "tagline": {
+   "nl": "Met de kabelbaan van Igls naar de Innsbrucker huisberg",
+   "en": "By cable car from Igls up Innsbruck's local mountain",
+   "de": "Mit der Bahn von Igls auf Innsbrucks Hausberg"
+  },
+  "intro": {
+   "nl": "De Patscherkofelbahn vertrekt in Igls, een dorp tegen Innsbruck aan, en brengt je naar het bergstation op ruim 1.900 meter. Het is de huisberg van Innsbruck, met uitzicht over de stad, het Inntal en honderden bergtoppen. De gondelbaan rijdt in de zomer van eind mei tot eind oktober. Het dalstation ligt ongeveer 7 km van de afrit van de snelweg bij Innsbruck.\n\nBoven vind je een uitgebreid netwerk van wandelpaden, van korte rondjes tot tochten naar de top (2.248 m). De klim naar de top is ongeveer 280 hoogtemeter en kost zo'n 50 tot 60 minuten. Het bergstation is drempelvrij gebouwd, zodat je er zelfs met een kinderwagen kunt komen.\n\nDe Zirbenweg loopt tussen de bergstations van de Patscherkofelbahn en de Glungezerbahn: een technisch eenvoudig hoogtepad door oude arvenbossen, met weinig hoogteverschil en daarom ook met kinderen goed te doen. Bij het bergstation ligt bovendien de Alpengarten van de universiteit. Combineer de tocht met een bezoek aan de binnenstad van Innsbruck, maar plan het zo dat je niet alles op één dag wilt doen.",
+   "en": "The Patscherkofelbahn departs from Igls, a village on the edge of Innsbruck, and takes you to the top station at over 1,900 metres. It is Innsbruck's local mountain, with views over the city, the Inn valley and hundreds of peaks. In summer the cable car runs from late May to late October. The valley station is about 7 km from the motorway exit at Innsbruck.\n\nUp top there is an extensive network of walking paths, from short loops to the summit (2,248 m). The climb to the summit is about 280 metres of ascent and takes roughly 50 to 60 minutes. The top station was built barrier-free, so you can even get there with a pushchair.\n\nThe Zirbenweg runs between the mountain stations of the Patscherkofelbahn and the Glungezerbahn: a technically easy high-level path through old stone pine forest, with little change in height and therefore manageable with children. The university's Alpengarten is also next to the top station. You can combine the trip with Innsbruck's old town, but plan it so that you do not try to do everything in one day.",
+   "de": "Die Patscherkofelbahn startet in Igls, einem Dorf am Rand von Innsbruck, und bringt dich zur Bergstation auf über 1.900 Metern. Es ist Innsbrucks Hausberg, mit Blick auf die Stadt, das Inntal und hunderte Gipfel. Im Sommer fährt die Bahn von Ende Mai bis Ende Oktober. Die Talstation liegt etwa 7 km von der Autobahnabfahrt bei Innsbruck entfernt.\n\nOben gibt es ein dichtes Netz an Wanderwegen, von kurzen Runden bis zum Gipfel (2.248 m). Der Aufstieg zum Gipfel hat rund 280 Höhenmeter und dauert etwa 50 bis 60 Minuten. Die Bergstation wurde barrierefrei gebaut, sodass man sogar mit Kinderwagen hinkommt.\n\nDer Zirbenweg verläuft zwischen den Bergstationen der Patscherkofelbahn und der Glungezerbahn: ein technisch einfacher Höhenweg durch alte Zirbenwälder mit wenig Höhenunterschied und daher auch mit Kindern gut machbar. Neben der Bergstation liegt außerdem der Alpengarten der Universität. Du kannst den Ausflug mit der Innsbrucker Altstadt verbinden, plane aber nicht zu viel für einen Tag."
+  },
+  "tips": {
+   "nl": [
+    "Kies de wandelroute passend bij de kinderen; boven zijn korte en langere paden.",
+    "Neem een jas mee; het is boven koeler dan in de stad.",
+    "Combineer met een bezoek aan Innsbruck als het weer onzeker is.",
+    "Loop met kleine kinderen een stuk van de Zirbenweg; het pad heeft weinig hoogteverschil.",
+    "Bezoek de Alpengarten bij het bergstation voor een korte, rustige wandeling tussen alpenplanten."
+   ],
+   "en": [
+    "Choose a walking route to suit the children; there are shorter and longer paths at the top.",
+    "Bring a jacket; it is cooler up top than in the city.",
+    "Combine with a visit to Innsbruck if the weather is uncertain.",
+    "With small children, walk a section of the Zirbenweg; the path has little change in height.",
+    "Visit the Alpengarten by the top station for a short, quiet walk among alpine plants."
+   ],
+   "de": [
+    "Wähle eine Wanderroute passend zu den Kindern; oben gibt es kürzere und längere Wege.",
+    "Nimm eine Jacke mit; oben ist es kühler als in der Stadt.",
+    "Verbinde den Ausflug mit einem Innsbruck-Besuch, falls das Wetter unsicher ist.",
+    "Geh mit kleinen Kindern ein Stück des Zirbenwegs; der Weg hat wenig Höhenunterschied.",
+    "Besuche den Alpengarten an der Bergstation für einen kurzen, ruhigen Spaziergang zwischen Alpenpflanzen."
+   ]
+  },
+  "practical": {
+   "nl": "Igls ligt ca. 1 uur rijden van Niederau, via de A12 richting Innsbruck en daarna de afrit naar Igls (ongeveer 7 km). De bergbaan rijdt in de zomer ongeveer eind mei tot eind oktober; controleer vooraf de actuele tijden. Het bergstation is drempelvrij, ook geschikt voor een kinderwagen.",
+   "en": "Igls is about 1 hour by car from Niederau, via the A12 towards Innsbruck and then the exit towards Igls (about 7 km). In summer the cable car runs roughly from late May to late October; check current times beforehand. The top station is barrier-free and suitable for a pushchair.",
+   "de": "Igls liegt ca. 1 Stunde Autofahrt von Niederau entfernt, über die A12 Richtung Innsbruck und dann die Abfahrt Richtung Igls (etwa 7 km). Im Sommer fährt die Bahn etwa von Ende Mai bis Ende Oktober; aktuelle Zeiten vorab prüfen. Die Bergstation ist barrierefrei und auch für Kinderwagen geeignet."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 h by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Igls, Innsbruck",
+   "en": "Igls, Innsbruck",
+   "de": "Igls, Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar vertrekt de Patscherkofelbahn?",
+     "en": "Where does the Patscherkofelbahn depart?",
+     "de": "Wo startet die Patscherkofelbahn?"
+    },
+    "a": {
+     "nl": "In Igls, een dorp bij Innsbruck.",
+     "en": "In Igls, a village by Innsbruck.",
+     "de": "In Igls, einem Ort bei Innsbruck."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang duurt de wandeling naar de top?",
+     "en": "How long does the walk to the summit take?",
+     "de": "Wie lange dauert der Weg zum Gipfel?"
+    },
+    "a": {
+     "nl": "Vanaf het bergstation ongeveer 50 tot 60 minuten, met ca. 280 hoogtemeter naar de top op 2.248 m.",
+     "en": "From the top station about 50 to 60 minutes, with around 280 metres of ascent to the summit at 2,248 m.",
+     "de": "Von der Bergstation etwa 50 bis 60 Minuten, mit rund 280 Höhenmetern zum Gipfel auf 2.248 m."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is de Zirbenweg geschikt voor kinderen?",
+     "en": "Is the Zirbenweg suitable for children?",
+     "de": "Ist der Zirbenweg für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, het pad is technisch eenvoudig en heeft weinig hoogteverschil; je kunt ook maar een stuk lopen.",
+     "en": "Yes, the path is technically easy with little change in height; you can also walk just a section.",
+     "de": "Ja, der Weg ist technisch einfach und hat wenig Höhenunterschied; man kann auch nur ein Stück gehen."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "wandelen",
+  "season": "summer",
+  "slug_nl": "patscherkofel-gondel-innsbruck-igls"
+ },
+ {
+  "id": "s65",
+  "drop": false,
+  "drop_reason": "",
+  "place": "jenbach",
+  "slug_en": "zillertalbahn-steam-train",
+  "slug_de": "zillertalbahn-dampfzug",
+  "title": {
+   "nl": "Zillertalbahn stoomtrein",
+   "en": "Zillertalbahn steam train",
+   "de": "Zillertalbahn Dampfzug"
+  },
+  "tagline": {
+   "nl": "Met de stoomtrein van Jenbach naar Mayrhofen",
+   "en": "By steam train from Jenbach to Mayrhofen",
+   "de": "Mit dem Dampfzug von Jenbach nach Mayrhofen"
+  },
+  "intro": {
+   "nl": "De Zillertalbahn is een smalspoorlijn (760 mm) die over 32 kilometer door het Zillertal rijdt van Jenbach naar Mayrhofen. De lijn werd in 1902 geopend en was al in het ontwerp op toerisme gericht, met stations dicht bij de dorpen. In de zomer rijdt op bepaalde dagen een stoomtrein, met een rustige snelheid van ongeveer 35 km/u. De rit duurt zo'n anderhalf uur.\n\nDe stoomtrein rijdt grofweg van begin mei tot begin oktober, maar niet dagelijks: in het voorjaar vooral in het weekend, in de zomer op bepaalde doordeweekse dagen en in september vaker. De rijdagen verschillen per jaar, dus controleer ze vooraf.\n\nAan het eind van de lijn heb je in Mayrhofen tijd voor een wandeling of een kop koffie voordat de trein terugrijdt. Voor kinderen is de rit zelf al de attractie: de oude wagons, de stoom en het uitzicht over het dal. Naast de stoomtrein zet de Zillertalbahn ook gewone treinen in voor forenzen en toeristen.",
+   "en": "The Zillertalbahn is a narrow-gauge railway (760 mm) that runs 32 kilometres through the Zillertal valley from Jenbach to Mayrhofen. The line opened in 1902 and was designed for tourism from the start, with stations close to the villages. In summer a steam train runs on selected days at a leisurely speed of about 35 km/h. The journey takes around an hour and a half.\n\nThe steam train runs roughly from early May to early October, but not daily: mostly at weekends in spring, on selected weekdays in summer and more often in September. Running days differ from year to year, so check them beforehand.\n\nAt the end of the line you have time in Mayrhofen for a stroll or a coffee before the train returns. For children the ride itself is the attraction: the old carriages, the steam and the views over the valley. Besides the steam train, the Zillertalbahn also runs regular trains for commuters and tourists.",
+   "de": "Die Zillertalbahn ist eine Schmalspurbahn (760 mm), die auf 32 Kilometern von Jenbach nach Mayrhofen durch das Zillertal fährt. Die Strecke wurde 1902 eröffnet und war von Anfang an auf den Tourismus ausgerichtet, mit Bahnhöfen nahe der Dörfer. Im Sommer verkehrt an bestimmten Tagen ein Dampfzug mit gemütlichen etwa 35 km/h. Die Fahrt dauert rund anderthalb Stunden.\n\nDer Dampfzug fährt grob von Anfang Mai bis Anfang Oktober, aber nicht täglich: im Frühjahr vor allem am Wochenende, im Sommer an bestimmten Wochentagen und im September häufiger. Die Fahrtage unterscheiden sich von Jahr zu Jahr, also vorab prüfen.\n\nAm Ziel in Mayrhofen bleibt Zeit für einen Spaziergang oder einen Kaffee, bevor der Zug zurückfährt. Für Kinder ist die Fahrt selbst schon das Erlebnis: die alten Wagen, der Dampf und die Aussicht über das Tal. Neben dem Dampfzug setzt die Zillertalbahn auch normale Züge für Pendler und Touristen ein."
+  },
+  "tips": {
+   "nl": [
+    "Controleer de rijdagen van de stoomtrein; die rijdt niet dagelijks.",
+    "Reserveer of informeer vooraf over beschikbare plaatsen.",
+    "Kijk naar de dienstregeling voor heen- en terugrit.",
+    "Neem een kleine versnapering mee voor onderweg.",
+    "Zit bij voorkeur aan de kant van het dal waar het uitzicht het mooist is en let op rook en roet bij open ramen."
+   ],
+   "en": [
+    "Check the steam train's running days; it does not run daily.",
+    "Book or ask beforehand about available seats.",
+    "Check the timetable for the outward and return trips.",
+    "Bring a small snack for the journey.",
+    "Watch for smoke and soot if you open a window, and keep a layer handy in case it is breezy."
+   ],
+   "de": [
+    "Fahrtage des Dampfzugs vorab prüfen; er fährt nicht täglich.",
+    "Vorab reservieren oder nach freien Plätzen fragen.",
+    "Fahrplan für Hin- und Rückfahrt prüfen.",
+    "Einen kleinen Snack für unterwegs mitnehmen.",
+    "Bei offenem Fenster auf Rauch und Ruß achten und eine Jacke griffbereit haben, falls es windig wird."
+   ]
+  },
+  "practical": {
+   "nl": "Het station in Jenbach ligt ca. 40 minuten rijden van Niederau, via de A12. Je kunt er ook met de trein komen via Wörgl. Een enkele reis naar Mayrhofen duurt met de stoomtrein ongeveer anderhalf uur; plan dus een halve tot hele dag. Controleer vooraf rijdagen, tijden en tarieven.",
+   "en": "Jenbach station is about 40 minutes by car from Niederau, via the A12. You can also reach it by train via Wörgl. A one-way trip to Mayrhofen by steam train takes about an hour and a half, so plan half a day to a full day. Check running days, times and fares beforehand.",
+   "de": "Der Bahnhof Jenbach liegt ca. 40 Minuten Fahrt von Niederau entfernt, über die A12. Auch mit dem Zug via Wörgl erreichbar. Eine einfache Fahrt nach Mayrhofen dauert mit dem Dampfzug etwa anderthalb Stunden; planen Sie also einen halben bis ganzen Tag. Fahrtage, Zeiten und Preise vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur enkele reis; dagtrip mogelijk",
+    "en": "Approx. 1.5 hours one way; day trip possible",
+    "de": "Ca. 1,5 Std. einfache Fahrt; Tagesausflug möglich"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden naar Jenbach",
+    "en": "Approx. 40 min by car to Jenbach",
+    "de": "Ca. 40 Min. Fahrt nach Jenbach"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot begin oktober), op bepaalde dagen",
+    "en": "Summer (roughly May to early October), on selected days",
+    "de": "Sommer (ca. Mai bis Anfang Oktober), an bestimmten Tagen"
+   }
+  },
+  "location": {
+   "nl": "Jenbach tot Mayrhofen, Zillertal",
+   "en": "Jenbach to Mayrhofen, Zillertal",
+   "de": "Jenbach bis Mayrhofen, Zillertal"
+  },
+  "url": "https://www.zillertalbahn.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is het traject van de Zillertalbahn?",
+     "en": "How long is the Zillertalbahn route?",
+     "de": "Wie lang ist die Strecke der Zillertalbahn?"
+    },
+    "a": {
+     "nl": "Het traject tussen Jenbach en Mayrhofen is 32 kilometer lang.",
+     "en": "The route between Jenbach and Mayrhofen is 32 kilometres long.",
+     "de": "Die Strecke zwischen Jenbach und Mayrhofen ist 32 Kilometer lang."
+    }
+   },
+   {
+    "q": {
+     "nl": "Sinds wanneer rijdt de Zillertalbahn?",
+     "en": "Since when has the Zillertalbahn been running?",
+     "de": "Seit wann fährt die Zillertalbahn?"
+    },
+    "a": {
+     "nl": "De lijn is in 1902 geopend.",
+     "en": "The line opened in 1902.",
+     "de": "Die Strecke wurde 1902 eröffnet."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe snel rijdt de stoomtrein?",
+     "en": "How fast does the steam train go?",
+     "de": "Wie schnell fährt der Dampfzug?"
+    },
+    "a": {
+     "nl": "Ongeveer 35 km/u; de rit van Jenbach naar Mayrhofen duurt zo'n anderhalf uur.",
+     "en": "About 35 km/h; the journey from Jenbach to Mayrhofen takes around an hour and a half.",
+     "de": "Etwa 35 km/h; die Fahrt von Jenbach nach Mayrhofen dauert rund anderthalb Stunden."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "attracties",
+  "season": "summer",
+  "slug_nl": "zillertalbahn-stoomtrein"
+ },
+ {
+  "id": "s229",
+  "drop": false,
+  "drop_reason": "",
+  "place": "schwaz",
+  "slug_en": "summer-concerts-schwaz",
+  "slug_de": "sommerkonzerte-schwaz",
+  "title": {
+   "nl": "Zomerconcerten in Schwaz",
+   "en": "Summer concerts in Schwaz",
+   "de": "Sommerkonzerte in Schwaz"
+  },
+  "tagline": {
+   "nl": "Serenades in het klooster en orgelconcerten in de stadsparochiekerk",
+   "en": "Serenades in the cloister and organ concerts in the town parish church",
+   "de": "Serenaden im Kloster und Orgelkonzerte in der Stadtpfarrkirche"
+  },
+  "intro": {
+   "nl": "In juli en augustus zijn er in Schwaz regelmatig zomerconcerten. De serenades vinden plaats in de arcadegang of, bij mooi weer, op de binnenplaats van het franciscanenklooster, een traditie die al sinds 1948 bestaat. De kloosterkerk, zo'n 500 jaar oud, geldt als een van de mooiste bedelordekerken van de Alpen en vormt een sfeervolle achtergrond. Daarnaast zijn er wekelijkse orgelconcerten in de stedelijke parochiekerk, met het grootste symfonische orgel van Tirol.\n\nSchwaz was in de middeleeuwen als zilverstad ver buiten de regio bekend en was eeuwenlang een rijke mijnstad. Dat is aan de stad nog te zien. Een concertavond past goed in een dagje stad, bijvoorbeeld met een wandeling door het compacte centrum vooraf.\n\nDe serenades gelden al decennia als een van de culturele hoogtepunten van de zomer in Schwaz. Data en tijden wisselen per jaar, dus raadpleeg het actuele programma. De concerten zijn vooral iets voor tieners en volwassenen.",
+   "en": "In July and August Schwaz regularly hosts summer concerts. The serenades are held in the arcade passage or, in good weather, in the courtyard of the Franciscan monastery, a tradition going back to 1948. The monastery church, around 500 years old, is regarded as one of the most beautiful mendicant-order churches in the Alps and makes an atmospheric backdrop. There are also weekly organ concerts in the town parish church, which has the largest symphonic organ in Tyrol.\n\nIn the Middle Ages Schwaz was known far beyond the region as a silver town and was a wealthy mining town for centuries. It still shows. A concert evening fits well into a day in town, for example with a walk through the compact centre beforehand.\n\nThe serenades have counted for decades among the cultural highlights of the Schwaz summer. Dates and times change from year to year, so check the current programme. The concerts suit teenagers and adults best.",
+   "de": "Im Juli und August gibt es in Schwaz regelmäßig Sommerkonzerte. Die Serenaden finden im Arkadengang oder bei schönem Wetter im Innenhof des Franziskanerklosters statt, eine Tradition seit 1948. Die rund 500 Jahre alte Klosterkirche gilt als eine der schönsten Bettelordenskirchen des Alpenraums und bietet eine stimmungsvolle Kulisse. Dazu kommen wöchentliche Orgelkonzerte in der Stadtpfarrkirche mit der größten symphonischen Orgel Tirols.\n\nSchwaz war im Mittelalter als Silberstadt weit über die Region hinaus bekannt und jahrhundertelang eine reiche Bergbaustadt. Das sieht man noch. Ein Konzertabend passt gut in einen Stadttag, etwa mit einem Spaziergang durch das kompakte Zentrum davor.\n\nDie Serenaden zählen seit Jahrzehnten zu den kulturellen Höhepunkten des Schwazer Sommers. Termine und Zeiten ändern sich von Jahr zu Jahr, prüfen Sie daher das aktuelle Programm. Die Konzerte eignen sich vor allem für Jugendliche und Erwachsene."
+  },
+  "tips": {
+   "nl": [
+    "Controleer het actuele programma; data en locaties wisselen per jaar.",
+    "Kom iets eerder en loop door het centrum van Schwaz.",
+    "Neem een jas mee; in de kerk en de kloostergang kan het koel zijn.",
+    "Informeer vooraf of er kaarten nodig zijn.",
+    "Kijk ook naar de franciscanenkerk zelf; ze is ongeveer 500 jaar oud."
+   ],
+   "en": [
+    "Check the current programme; dates and venues change each year.",
+    "Arrive a little early and stroll through the centre of Schwaz.",
+    "Bring a jacket; the church and cloister can be cool.",
+    "Ask in advance whether tickets are required.",
+    "Take a look at the Franciscan church itself; it is roughly 500 years old."
+   ],
+   "de": [
+    "Prüfen Sie das aktuelle Programm; Termine und Orte wechseln jedes Jahr.",
+    "Kommen Sie etwas früher und spazieren Sie durch das Zentrum von Schwaz.",
+    "Nehmen Sie eine Jacke mit; in Kirche und Klostergang kann es kühl sein.",
+    "Fragen Sie vorab, ob Karten nötig sind.",
+    "Schauen Sie sich auch die Franziskanerkirche selbst an; sie ist rund 500 Jahre alt."
+   ]
+  },
+  "practical": {
+   "nl": "Schwaz ligt in het Inntal, ca. 45 tot 50 minuten rijden vanaf Niederau via de A12. Het centrum is compact en goed te belopen; parkeren kan in het centrum. Het klooster en de stadsparochiekerk liggen op loopafstand van elkaar. Controleer het actuele programma voor data, tijden en locaties voordat je vertrekt.",
+   "en": "Schwaz is in the Inn Valley, about 45 to 50 minutes by car from Niederau via the A12. The centre is compact and easy to walk; parking is available in town. The monastery and the town parish church are within walking distance of each other. Check the current programme for dates, times and venues before you set off.",
+   "de": "Schwaz liegt im Inntal, etwa 45 bis 50 Autominuten von Niederau entfernt über die A12. Das Zentrum ist kompakt und gut zu Fuß erkundbar; Parken ist im Ort möglich. Kloster und Stadtpfarrkirche liegen fußläufig beieinander. Prüfen Sie vor der Abfahrt das aktuelle Programm für Termine, Zeiten und Orte."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vooral tieners en volwassenen",
+    "en": "Mainly teenagers and adults",
+    "de": "Vor allem Jugendliche und Erwachsene"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 tot 2 uur per concert",
+    "en": "Approx. 1.5 to 2 hours per concert",
+    "de": "Ca. 1,5 bis 2 Stunden pro Konzert"
+   },
+   "price": {
+    "nl": "Wisselt per concert; informeer vooraf",
+    "en": "Varies by concert; ask in advance",
+    "de": "Je nach Konzert unterschiedlich; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 45 tot 50 min rijden",
+    "en": "Approx. 45 to 50 min by car",
+    "de": "Ca. 45 bis 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (juli en augustus)",
+    "en": "Summer (July and August)",
+    "de": "Sommer (Juli und August)"
+   }
+  },
+  "location": {
+   "nl": "Schwaz, Inntal",
+   "en": "Schwaz, Inn Valley",
+   "de": "Schwaz, Inntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar vinden de concerten in Schwaz plaats?",
+     "en": "Where do the concerts in Schwaz take place?",
+     "de": "Wo finden die Konzerte in Schwaz statt?"
+    },
+    "a": {
+     "nl": "De serenades in het franciscanenklooster, de orgelconcerten in de stedelijke parochiekerk.",
+     "en": "The serenades in the Franciscan monastery, the organ concerts in the town parish church.",
+     "de": "Die Serenaden im Franziskanerkloster, die Orgelkonzerte in der Stadtpfarrkirche."
+    }
+   },
+   {
+    "q": {
+     "nl": "Sinds wanneer zijn er serenades in het klooster?",
+     "en": "Since when have there been serenades in the monastery?",
+     "de": "Seit wann gibt es Serenaden im Kloster?"
+    },
+    "a": {
+     "nl": "De eerste serenade in de kloostergang was in 1948.",
+     "en": "The first serenade in the cloister took place in 1948.",
+     "de": "Die erste Serenade im Kreuzgang fand 1948 statt."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer zijn de zomerconcerten?",
+     "en": "When are the summer concerts?",
+     "de": "Wann finden die Sommerkonzerte statt?"
+    },
+    "a": {
+     "nl": "In juli en augustus; de exacte data wisselen per jaar.",
+     "en": "In July and August; the exact dates change each year.",
+     "de": "Im Juli und August; die genauen Termine wechseln jedes Jahr."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "slug_nl": "sommermusik-schwaz-festival"
+ },
+ {
+  "id": "s93",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "hofburg-innsbruck",
+  "slug_de": "hofburg-innsbruck",
+  "title": {
+   "nl": "Hofburg Innsbruck",
+   "en": "Hofburg Innsbruck",
+   "de": "Hofburg Innsbruck"
+  },
+  "tagline": {
+   "nl": "Keizerlijk paleis met staatsvertrekken uit de tijd van Maria Theresia",
+   "en": "Imperial palace with state rooms from the era of Maria Theresa",
+   "de": "Kaiserliche Residenz mit Prunkräumen aus der Zeit Maria Theresias"
+  },
+  "intro": {
+   "nl": "De Hofburg aan de oostkant van de Innsbrucker oude stad was een Habsburgse residentie. In de 15e eeuw liet aartshertog Sigmund de Rijke hier een burcht bouwen, die keizer Maximiliaan I uitbreidde. Keizerin Maria Theresia liet het gebouw in de 18e eeuw in Weense rococostijl verbouwen; die stijl is nog steeds te zien.\n\nBezoekers lopen door de staatsvertrekken en de keizerlijke appartementen, die niet lang geleden zijn gerestaureerd. Het meest opvallend is de Riesensaal, een zaal van ruim 31 meter lang met levensgrote portretten van Maria Theresia, haar man en hun kinderen. Sinds 2019 is er bovendien een vaste tentoonstelling over keizer Maximiliaan I.\n\nVoor kinderen is het vooral een verhalenmuseum over het leven aan het hof; plan er ca. anderhalf uur voor. Het gebouw is toegankelijk voor rolstoelgebruikers. Aan de overkant ligt de Hofgarten, handig voor een pauze.",
+   "en": "The Hofburg at the eastern edge of Innsbruck's old town was a Habsburg residence. In the 15th century Archduke Sigmund the Wealthy had a castle built here, which Emperor Maximilian I then extended. In the 18th century Empress Maria Theresa had the building rebuilt in Viennese rococo style; that style can still be seen today.\n\nVisitors walk through the state rooms and the imperial apartments, which were restored not long ago. Most striking is the Giant Hall (Riesensaal), more than 31 metres long, with life-size portraits of Maria Theresa, her husband and their children. Since 2019 there has also been a permanent exhibition about Emperor Maximilian I.\n\nFor children it is mainly a storytelling museum about court life; allow about an hour and a half. The building is accessible to wheelchair users. The Hofgarten lies opposite, handy for a break.",
+   "de": "Die Hofburg am östlichen Rand der Innsbrucker Altstadt war eine Residenz der Habsburger. Im 15. Jahrhundert ließ Erzherzog Sigmund der Münzreiche hier eine Burg errichten, die Kaiser Maximilian I. erweiterte. Kaiserin Maria Theresia ließ das Gebäude im 18. Jahrhundert im Wiener Rokokostil umbauen; dieser Stil ist bis heute zu sehen.\n\nBesucher gehen durch die Prunkräume und die Kaiserappartements, die vor einigen Jahren restauriert wurden. Am eindrucksvollsten ist der Riesensaal, über 31 Meter lang, mit lebensgroßen Porträts Maria Theresias, ihres Mannes und ihrer Kinder. Seit 2019 gibt es außerdem eine Dauerausstellung über Kaiser Maximilian I.\n\nFür Kinder ist es vor allem ein Erzählmuseum über das Leben am Hof; rund anderthalb Stunden einplanen. Das Gebäude ist für Rollstuhlfahrer zugänglich. Der Hofgarten liegt gegenüber und eignet sich für eine Pause."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij de kassa naar een audiogids of een kinderroute.",
+    "Combineer met het nabijgelegen Goldenes Dachl en de oude binnenstad.",
+    "Neem na het bezoek een pauze in de Hofgarten.",
+    "Controleer vooraf de openingstijden en prijzen.",
+    "Kijk ook in de tentoonstelling over Maximiliaan I als je meer over de geschiedenis wilt weten."
+   ],
+   "en": [
+    "Ask at the ticket desk about an audio guide or a children's trail.",
+    "Combine with the nearby Goldenes Dachl and the old town.",
+    "Take a break in the Hofgarten after your visit.",
+    "Check opening times and prices beforehand.",
+    "Look into the Maximilian I exhibition if you want to learn more of the history."
+   ],
+   "de": [
+    "An der Kasse nach Audioguide oder Kinderführung fragen.",
+    "Mit dem nahen Goldenen Dachl und der Altstadt verbinden.",
+    "Nach dem Besuch eine Pause im Hofgarten einlegen.",
+    "Öffnungszeiten und Preise vorab prüfen.",
+    "Die Ausstellung zu Maximilian I. lohnt sich, wenn man mehr über die Geschichte erfahren möchte."
+   ]
+  },
+  "practical": {
+   "nl": "De Hofburg ligt in het centrum van Innsbruck, ca. 50 tot 60 minuten rijden van Niederau via de A12. Parkeer in een garage in de buurt of kom met de trein vanaf Wörgl; informeer vooraf naar openingstijden. Vanaf de Hofburg loop je in enkele minuten naar het Goldenes Dachl en de rest van de oude stad.",
+   "en": "The Hofburg is in central Innsbruck, about 50 to 60 minutes' drive from Niederau via the A12. Park in a nearby car park or take the train from Wörgl; check opening times beforehand. From the Hofburg it is a few minutes' walk to the Goldenes Dachl and the rest of the old town.",
+   "de": "Die Hofburg liegt im Zentrum von Innsbruck, ca. 50 bis 60 Fahrminuten von Niederau entfernt über die A12. Parke in einem nahen Parkhaus oder fahre mit der Bahn ab Wörgl; Öffnungszeiten vorab prüfen. Von der Hofburg sind es wenige Gehminuten zum Goldenen Dachl und zum Rest der Altstadt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vooral leuk vanaf ca. 6 jaar",
+    "en": "Most fun from about 6 years",
+    "de": "Vor allem ab ca. 6 Jahren spannend"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Entree wisselt; kinderen betalen minder, informeer vooraf",
+    "en": "Admission varies; children pay less, check beforehand",
+    "de": "Eintritt variiert; Kinder zahlen weniger, vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 tot 60 min rijden",
+    "en": "About 50 to 60 min by car",
+    "de": "Ca. 50 bis 60 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck, Tirol",
+   "en": "Innsbruck, Tyrol",
+   "de": "Innsbruck, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang duurt een bezoek aan de Hofburg?",
+     "en": "How long does a Hofburg visit take?",
+     "de": "Wie lange dauert ein Besuch der Hofburg?"
+    },
+    "a": {
+     "nl": "Reken op ongeveer anderhalf uur voor de staatsvertrekken en appartementen.",
+     "en": "Allow about an hour and a half for the state rooms and apartments.",
+     "de": "Für Prunkräume und Appartements sollte man etwa anderthalb Stunden einplanen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is de Riesensaal?",
+     "en": "What is the Riesensaal?",
+     "de": "Was ist der Riesensaal?"
+    },
+    "a": {
+     "nl": "Een zaal van ruim 31 meter lang met portretten van Maria Theresia, haar man en hun kinderen.",
+     "en": "A hall more than 31 metres long with portraits of Maria Theresa, her husband and their children.",
+     "de": "Ein über 31 Meter langer Saal mit Porträts Maria Theresias, ihres Mannes und ihrer Kinder."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wie liet de Hofburg in rococostijl verbouwen?",
+     "en": "Who had the Hofburg rebuilt in rococo style?",
+     "de": "Wer ließ die Hofburg im Rokokostil umbauen?"
+    },
+    "a": {
+     "nl": "Keizerin Maria Theresia, in de 18e eeuw.",
+     "en": "Empress Maria Theresa, in the 18th century.",
+     "de": "Kaiserin Maria Theresia im 18. Jahrhundert."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "dagtochten",
+  "season": "summer",
+  "slug_nl": "hofburg-innsbruck"
+ },
+ {
+  "id": "s287",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "imst-rosengarten-gorge",
+  "slug_de": "rosengartenschlucht-imst",
+  "title": {
+   "nl": "Rosengartenschlucht Imst",
+   "en": "Rosengarten Gorge, Imst",
+   "de": "Rosengartenschlucht Imst"
+  },
+  "tagline": {
+   "nl": "Korte kloofwandeling met watervallen vlak bij het centrum van Imst",
+   "en": "Short gorge walk with waterfalls close to Imst town centre",
+   "de": "Kurze Schluchtwanderung mit Wasserfällen nahe dem Zentrum von Imst"
+  },
+  "intro": {
+   "nl": "De Rosengartenschlucht begint op enkele minuten lopen van het centrum van Imst, bij de Johanneskirche, en loopt ongeveer 1,5 tot 2 km omhoog naar de Blaue Grotte in Hoch-Imst. Het pad volgt de Schinderbach langs rotswanden en bruggetjes. De wanden bestaan uit rifkalksteen die meer dan 230 miljoen jaar geleden in het Trias is ontstaan, en de kloof geldt als een van de waardevolste biotopen van Tirol.\n\nDe Blaue Grotte is een oude, door mensen gemaakte mijn met twee watervallen; al in de Romeinse tijd werd hier naar zilverhoudend loodglans gezocht. De kloof is van begin of half mei tot ongeveer eind oktober vrij toegankelijk en gratis. Bij onweer, hagel of hevige regen kan hij onbegaanbaar zijn, en in de winter is hij gesloten.\n\nHet is een korte, afwisselende wandeling die kinderen vaak spannend vinden; het pad is hier en daar nat en glad. Wie wil, loopt een grotere ronde van ongeveer 4,5 km en 3 uur vanaf het centrum van Imst. Combineer de wandeling met een bezoek aan het stadje.",
+   "en": "The Rosengarten Gorge starts a few minutes' walk from the centre of Imst, at the Johanneskirche, and runs about 1.5 to 2 km uphill to the Blaue Grotte in Hoch-Imst. The path follows the Schinderbach past rock walls and small bridges. The walls are made of reef limestone formed more than 230 million years ago in the Triassic, and the gorge is regarded as one of Tyrol's most valuable biotopes.\n\nThe Blaue Grotte is an old, man-made mine with two waterfalls; as early as Roman times people searched here for silver-bearing lead glance. From early or mid-May to roughly the end of October the gorge is freely accessible and free of charge. In storms, hail or heavy rain it may be impassable, and in winter it is closed.\n\nIt is a short, varied walk that children often find exciting; the path is wet and slippery in places. If you want more, a larger circuit of about 4.5 km and 3 hours starts from the centre of Imst. Combine the walk with a visit to the town.",
+   "de": "Die Rosengartenschlucht beginnt wenige Gehminuten vom Zentrum von Imst an der Johanneskirche und führt rund 1,5 bis 2 km bergauf zur Blauen Grotte in Hoch-Imst. Der Weg folgt dem Schinderbach vorbei an Felswänden und kleinen Brücken. Die Wände bestehen aus Riffkalk, der vor über 230 Millionen Jahren in der Trias entstand, und die Schlucht gilt als eines der wertvollsten Biotope Tirols.\n\nDie Blaue Grotte ist ein altes, von Menschen geschaffenes Bergwerk mit zwei Wasserfällen; schon in römischer Zeit suchte man hier nach silberhaltigem Bleiglanz. Von Anfang oder Mitte Mai bis etwa Ende Oktober ist die Schlucht frei zugänglich und kostenlos. Bei Gewitter, Hagel oder starkem Regen kann sie unpassierbar sein, im Winter ist sie geschlossen.\n\nEs ist eine kurze, abwechslungsreiche Wanderung, die Kindern oft Spaß macht; der Weg ist stellenweise nass und rutschig. Wer mehr möchte, geht eine größere Runde von etwa 4,5 km und 3 Stunden ab dem Zentrum von Imst. Verbinden Sie die Wanderung mit einem Besuch der Stadt."
+  },
+  "tips": {
+   "nl": [
+    "Draag stevige schoenen met profiel; het pad kan nat en glad zijn.",
+    "Ga niet bij onweer of na hevige regen.",
+    "Neem een dun jack mee: in de kloof is het koeler dan buiten.",
+    "Houd kleine kinderen bij de bruggetjes en langs de rotswanden bij de hand.",
+    "Kijk goed naar de rotswanden; ze zijn meer dan 230 miljoen jaar oud."
+   ],
+   "en": [
+    "Wear sturdy shoes with good grip; the path can be wet and slippery.",
+    "Do not go during storms or after heavy rain.",
+    "Bring a light jacket: it is cooler in the gorge than outside.",
+    "Keep small children by the hand at the bridges and along the rock walls.",
+    "Look closely at the rock walls; they are more than 230 million years old."
+   ],
+   "de": [
+    "Tragen Sie festes Schuhwerk mit Profil; der Weg kann nass und rutschig sein.",
+    "Gehen Sie nicht bei Gewitter oder nach starkem Regen.",
+    "Nehmen Sie eine dünne Jacke mit: In der Schlucht ist es kühler als draußen.",
+    "Nehmen Sie kleine Kinder an Brücken und Felswänden an die Hand.",
+    "Schauen Sie sich die Felswände genau an; sie sind über 230 Millionen Jahre alt."
+   ]
+  },
+  "practical": {
+   "nl": "Imst ligt ca. 1 uur en 15 minuten rijden van Niederau, via de A12 richting Innsbruck en verder westwaarts. De kloof begint op loopafstand van het centrum. In de winter, van november tot april of mei, is de kloof gesloten; controleer in het voor- en najaar of het pad al of nog open is.",
+   "en": "Imst is about 1 hour 15 minutes by car from Niederau, via the A12 towards Innsbruck and further west. The gorge starts within walking distance of the centre. In winter, from November to April or May, the gorge is closed; in spring and autumn check whether the path is open yet or still open.",
+   "de": "Imst ist ca. 1 Stunde 15 Minuten Fahrt von Niederau entfernt, über die A12 Richtung Innsbruck und weiter westwärts. Die Schlucht beginnt fußläufig vom Zentrum. Im Winter, von November bis April oder Mai, ist die Schlucht gesperrt; prüfen Sie im Frühjahr und Herbst, ob der Weg schon oder noch geöffnet ist."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From approx. 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis toegankelijk",
+    "en": "Free admission",
+    "de": "Eintritt frei"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 15 min rijden",
+    "en": "Approx. 1 h 15 min drive",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Ca. mei tot oktober",
+    "en": "Approx. May to October",
+    "de": "Ca. Mai bis Oktober"
+   }
+  },
+  "location": {
+   "nl": "Imst, Oberinntal (Tirol)",
+   "en": "Imst, Upper Inn Valley (Tyrol)",
+   "de": "Imst, Oberinntal (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kost de Rosengartenschlucht entree?",
+     "en": "Does the Rosengarten Gorge charge admission?",
+     "de": "Kostet die Rosengartenschlucht Eintritt?"
+    },
+    "a": {
+     "nl": "Nee, de kloof is gratis en van half mei tot ongeveer eind oktober vrij toegankelijk.",
+     "en": "No, the gorge is free and freely accessible from about mid-May to the end of October.",
+     "de": "Nein, die Schlucht ist kostenlos und von etwa Mitte Mai bis Ende Oktober frei zugänglich."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is de Blaue Grotte?",
+     "en": "What is the Blaue Grotte?",
+     "de": "Was ist die Blaue Grotte?"
+    },
+    "a": {
+     "nl": "Een oude, door mensen gemaakte mijn met twee watervallen aan het eind van de kloof.",
+     "en": "An old, man-made mine with two waterfalls at the end of the gorge.",
+     "de": "Ein altes, von Menschen geschaffenes Bergwerk mit zwei Wasserfällen am Ende der Schlucht."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is de kloof open in de winter?",
+     "en": "Is the gorge open in winter?",
+     "de": "Ist die Schlucht im Winter geöffnet?"
+    },
+    "a": {
+     "nl": "Nee, in de winter is de kloof gesloten; hij is ongeveer van mei tot eind oktober toegankelijk.",
+     "en": "No, the gorge is closed in winter; it is accessible roughly from May to the end of October.",
+     "de": "Nein, im Winter ist die Schlucht gesperrt; sie ist etwa von Mai bis Ende Oktober zugänglich."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "wandelen",
+  "season": "summer",
+  "slug_nl": "imst-gorge-rosengartenschlucht"
+ }
+]
