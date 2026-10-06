@@ -1,0 +1,1472 @@
+[
+ {
+  "id": "s212",
+  "drop": false,
+  "drop_reason": "",
+  "place": "woergl",
+  "slug_en": "playground-woergl",
+  "slug_de": "spielplatz-woergl",
+  "title": {
+   "nl": "Kinderland Wörgl",
+   "en": "Children’s playground in Wörgl",
+   "de": "Kinderspielplatz Wörgl"
+  },
+  "tagline": {
+   "nl": "Speelplek voor de jongste kinderen in Wörgl",
+   "en": "A play area for the youngest children in Wörgl",
+   "de": "Spielplatz für die Jüngsten in Wörgl"
+  },
+  "intro": {
+   "nl": "Volgens onze bron heeft Wörgl een gratis speelplek voor jonge kinderen in een groene omgeving in de stad, met klimrekken, glijbanen en een zandbak. Het is een prima korte stop als je toch in Wörgl bent, bijvoorbeeld voor boodschappen of onderweg naar een andere bestemming.\n\nDe speelplek is vooral geschikt voor kinderen van ongeveer twee tot acht jaar en een bezoek duurt doorgaans een uur. Een koffietentje en een supermarkt zijn in de buurt te vinden. De exacte ligging en uitrusting konden we niet zelf controleren; vraag het ter plaatse of bij de toeristische dienst van Wörgl.",
+   "en": "According to our source, Wörgl has a free play area for young children in a green setting in town, with climbing frames, slides and a sandpit. It is a good short stop if you are in Wörgl anyway, for example for shopping or on the way to another destination.\n\nThe play area suits children of roughly two to eight, and a visit usually takes an hour. A coffee spot and a supermarket can be found nearby. We could not check the exact location and equipment ourselves; ask on site or at the Wörgl tourist office.",
+   "de": "Laut unserer Quelle hat Wörgl einen kostenlosen Spielplatz für kleine Kinder im Grünen mitten in der Stadt, mit Klettergerüsten, Rutschen und einem Sandkasten. Er ist ein guter kurzer Zwischenstopp, wenn man ohnehin in Wörgl ist, etwa zum Einkaufen oder auf dem Weg zu einem anderen Ziel.\n\nDer Spielplatz eignet sich für Kinder von etwa zwei bis acht Jahren, ein Besuch dauert meist eine Stunde. Ein Café und ein Supermarkt sind in der Nähe zu finden. Genaue Lage und Ausstattung konnten wir nicht selbst prüfen; bitte vor Ort oder beim Tourismusbüro Wörgl nachfragen."
+  },
+  "tips": {
+   "nl": [
+    "Handig als korte stop onderweg.",
+    "Neem water en een snack mee.",
+    "Zoek schaduw op warme dagen.",
+    "Combineer met een bezoek aan het centrum."
+   ],
+   "en": [
+    "Handy as a short stop on the way.",
+    "Bring water and a snack.",
+    "Look for shade on hot days.",
+    "Combine with a visit to the town centre."
+   ],
+   "de": [
+    "Praktisch als kurzer Zwischenstopp.",
+    "Wasser und einen Snack mitnehmen.",
+    "An heißen Tagen Schatten suchen.",
+    "Mit einem Bummel durch das Zentrum verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Wörgl in ca. 20 minuten rijden. Wörgl heeft ook een treinstation.",
+   "en": "From Niederau, Wörgl is about 20 minutes by car. Wörgl also has a railway station.",
+   "de": "Von Niederau sind es ca. 20 Minuten Fahrt nach Wörgl. Wörgl hat auch einen Bahnhof."
+  },
+  "facts": {
+   "age": {
+    "nl": "Ca. 2 tot 8 jaar",
+    "en": "Approx. ages 2 to 8",
+    "de": "Ca. 2 bis 8 Jahre"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 20 min rijden",
+    "en": "Approx. 20 min by car",
+    "de": "Ca. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Vooral zomer",
+    "en": "Mostly summer",
+    "de": "Vor allem Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wörgl, Inntal",
+   "en": "Wörgl, Inn Valley",
+   "de": "Wörgl, Inntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kost de speelplek geld?",
+     "en": "Does the play area cost anything?",
+     "de": "Kostet der Spielplatz etwas?"
+    },
+    "a": {
+     "nl": "Volgens onze bron is hij gratis; controleer dat ter plaatse.",
+     "en": "According to our source it is free; confirm on site.",
+     "de": "Laut unserer Quelle ist er kostenlos; vor Ort bestätigen."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Kinderland Wörgl",
+  "_orig_loc": "Wörgl (15 min)"
+ },
+ {
+  "id": "s214",
+  "drop": false,
+  "drop_reason": "",
+  "place": "thiersee",
+  "slug_en": "leisure-area-thiersee",
+  "slug_de": "freizeitanlage-thiersee",
+  "title": {
+   "nl": "Freizeitanlage Thiersee",
+   "en": "Thiersee leisure area",
+   "de": "Freizeitanlage Thiersee"
+  },
+  "tagline": {
+   "nl": "Sport en spel bij het Thiersee",
+   "en": "Sports and games by Lake Thiersee",
+   "de": "Sport und Spiel am Thiersee"
+  },
+  "intro": {
+   "nl": "Bij het Thiersee, in het Kufsteinerland, ligt volgens onze bron een recreatiegebied waar je naast zwemmen ook kunt tennissen, minigolfen en volleyballen. De omgeving is groen en rustig, wat het geschikt maakt voor een ontspannen familiedag.\n\nMinigolf is er voor alle leeftijden; wie nog nooit heeft getennist kan naar verluidt ook lessen volgen, en beachvolleybal is eenvoudig te combineren met een duik in het meer. Omdat we de precieze faciliteiten en tarieven niet zelf konden controleren, is het verstandig vooraf bij de toeristenbalie van Thiersee of bij de faciliteit zelf na te vragen wat er geopend is.",
+   "en": "According to our source, by Lake Thiersee in the Kufsteinerland there is a leisure area where, besides swimming, you can play tennis, mini golf and volleyball. The surroundings are green and quiet, which suits a relaxed family day.\n\nMini golf is for all ages; beginners are said to be able to take tennis lessons, and beach volleyball combines easily with a dip in the lake. Since we could not check the exact facilities and rates ourselves, it is wise to ask the Thiersee tourist office or the facility itself beforehand what is open.",
+   "de": "Am Thiersee im Kufsteinerland gibt es laut unserer Quelle eine Freizeitanlage, auf der man neben dem Baden auch Tennis, Minigolf und Volleyball spielen kann. Die Umgebung ist grün und ruhig, was sich für einen entspannten Familientag eignet.\n\nMinigolf ist für alle Altersgruppen gedacht; Anfänger können angeblich auch Tennisstunden nehmen, und Beachvolleyball lässt sich leicht mit einem Sprung in den See verbinden. Da wir die genauen Einrichtungen und Preise nicht selbst prüfen konnten, empfiehlt es sich, vorab beim Tourismusbüro Thiersee oder bei der Anlage nachzufragen, was geöffnet ist. Plane reichlich Zeit ein und prüfe vorab Wetter und aktuelle Informationen, damit der Besuch entspannt verläuft."
+  },
+  "tips": {
+   "nl": [
+    "Neem zwemkleding mee voor het meer.",
+    "Vraag naar minigolf en beachvolleybal ter plaatse.",
+    "Reserveer tennisbanen of lessen vooraf.",
+    "Kies een droge dag."
+   ],
+   "en": [
+    "Bring swimwear for the lake.",
+    "Ask about mini golf and beach volleyball on site.",
+    "Book tennis courts or lessons in advance.",
+    "Choose a dry day."
+   ],
+   "de": [
+    "Badesachen für den See mitnehmen.",
+    "Vor Ort nach Minigolf und Beachvolleyball fragen.",
+    "Tennisplätze oder Stunden vorab buchen.",
+    "Einen trockenen Tag wählen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Thiersee in ca. 40 minuten rijden, via Kufstein. Informeer vooraf naar prijzen en openingstijden.",
+   "en": "From Niederau, Thiersee is about 40 minutes by car, via Kufstein. Check prices and opening times beforehand.",
+   "de": "Von Niederau sind es ca. 40 Minuten Fahrt nach Thiersee, über Kufstein. Preise und Öffnungszeiten vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Thiersee, Kufsteinerland",
+   "en": "Thiersee, Kufsteinerland",
+   "de": "Thiersee, Kufsteinerland"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat kun je er doen?",
+     "en": "What can you do there?",
+     "de": "Was kann man dort machen?"
+    },
+    "a": {
+     "nl": "Volgens onze bron tennissen, minigolfen, volleyballen en zwemmen; controleer ter plaatse wat geopend is.",
+     "en": "According to our source tennis, mini golf, volleyball and swimming; check on site what is open.",
+     "de": "Laut unserer Quelle Tennis, Minigolf, Volleyball und Baden; vor Ort prüfen, was geöffnet ist."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Freizeitanlage Thiersee (sport en spel)",
+  "_orig_loc": "Thiersee (30 min)"
+ },
+ {
+  "id": "s219",
+  "drop": false,
+  "drop_reason": "",
+  "place": "brixlegg",
+  "slug_en": "leisure-area-brixlegg",
+  "slug_de": "freizeitanlage-brixlegg",
+  "title": {
+   "nl": "Freizeitanlage Brixlegg",
+   "en": "Brixlegg leisure area",
+   "de": "Freizeitanlage Brixlegg"
+  },
+  "tagline": {
+   "nl": "Speeltuinen, sport en zwembad in Brixlegg",
+   "en": "Playgrounds, sports and a pool in Brixlegg",
+   "de": "Spielplätze, Sport und Bad in Brixlegg"
+  },
+  "intro": {
+   "nl": "Volgens onze bron biedt de Freizeitanlage in Brixlegg, in het Alpbachtal, een combinatie van een buitenzwembad, speeltuinen, beachvolleybal en tennisbanen. Het is een lokale plek zonder massatoerisme, waar kinderen kunnen spelen en ouders kunnen ontspannen.\n\nHet is goed te combineren met een bezoek aan Rattenberg, bekend om zijn glasblazers, of aan het bergdorp Alpbach. De meeste voorzieningen zouden gratis of goedkoop zijn, maar dat konden we niet zelf controleren. Informeer daarom vooraf bij de gemeente of de toeristenbalie naar de actuele voorzieningen, openingstijden en tarieven. Plan ruim de tijd en kijk vooraf even naar het weer en de actuele informatie, zodat het bezoek ontspannen verloopt.",
+   "en": "According to our source, the leisure area in Brixlegg, in the Alpbachtal, offers a combination of an outdoor pool, playgrounds, beach volleyball and tennis courts. It is a local spot without mass tourism, where children can play and parents can relax.\n\nIt combines well with a visit to Rattenberg, known for its glassblowers, or the mountain village of Alpbach. Most facilities are said to be free or inexpensive, but we could not check this ourselves. Please ask the municipality or the tourist office beforehand about current facilities, opening hours and rates.",
+   "de": "Laut unserer Quelle bietet die Freizeitanlage in Brixlegg im Alpbachtal eine Kombination aus Freibad, Spielplätzen, Beachvolleyball und Tennisplätzen. Es ist ein lokaler Ort ohne Massentourismus, an dem Kinder spielen und Eltern entspannen können.\n\nGut kombinierbar ist ein Besuch in Rattenberg, bekannt für seine Glasbläser, oder im Bergdorf Alpbach. Die meisten Einrichtungen sollen kostenlos oder günstig sein, das konnten wir aber nicht selbst prüfen. Bitte vorab bei der Gemeinde oder dem Tourismusbüro nach aktuellen Einrichtungen, Öffnungszeiten und Preisen fragen. Plane reichlich Zeit ein und prüfe vorab Wetter und aktuelle Informationen, damit der Besuch entspannt verläuft. Auch für Eltern mit Kleinkindern ist der Ausflug gut machbar."
+  },
+  "tips": {
+   "nl": [
+    "Neem zwemkleding mee.",
+    "Combineer met Rattenberg of Alpbach.",
+    "Controleer vooraf de openingstijden van het zwembad.",
+    "Neem een picknick mee."
+   ],
+   "en": [
+    "Bring swimwear.",
+    "Combine with Rattenberg or Alpbach.",
+    "Check the pool’s opening times beforehand.",
+    "Bring a picnic."
+   ],
+   "de": [
+    "Badesachen mitnehmen.",
+    "Mit Rattenberg oder Alpbach kombinieren.",
+    "Öffnungszeiten des Bades vorab prüfen.",
+    "Ein Picknick mitnehmen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Brixlegg in ca. 25 minuten rijden via de A12. Informeer vooraf naar tarieven.",
+   "en": "From Niederau, Brixlegg is about 25 minutes by car via the A12. Check fares beforehand.",
+   "de": "Von Niederau sind es ca. 25 Minuten Fahrt nach Brixlegg über die A12. Preise vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min by car",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Brixlegg, Alpbachtal",
+   "en": "Brixlegg, Alpbachtal",
+   "de": "Brixlegg, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er in de buurt te doen?",
+     "en": "What else is there nearby?",
+     "de": "Was gibt es in der Nähe?"
+    },
+    "a": {
+     "nl": "Rattenberg met zijn glasblazers en het bergdorp Alpbach liggen vlakbij.",
+     "en": "Rattenberg with its glassblowers and the mountain village of Alpbach are close by.",
+     "de": "Rattenberg mit seinen Glasbläsern und das Bergdorf Alpbach liegen in der Nähe."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Freizeitpark Brixlegg en omgeving",
+  "_orig_loc": "Brixlegg (30 min)"
+ },
+ {
+  "id": "s222",
+  "drop": false,
+  "drop_reason": "",
+  "place": "zell-am-ziller",
+  "slug_en": "leisure-park-zell-am-ziller",
+  "slug_de": "freizeitpark-zell-am-ziller",
+  "title": {
+   "nl": "Freizeitpark Zell am Ziller",
+   "en": "Zell am Ziller leisure park",
+   "de": "Freizeitpark Zell am Ziller"
+  },
+  "tagline": {
+   "nl": "Sport en spel voor gezinnen in het Zillertal",
+   "en": "Sport and play for families in the Zillertal",
+   "de": "Sport und Spiel für Familien im Zillertal"
+  },
+  "intro": {
+   "nl": "Volgens onze bron heeft Zell am Ziller een sport- en vrijetijdsgebied voor gezinnen, met onder meer tennisbanen, minigolf, een trampolineparcours en een waterspeelplaats voor kinderen. Het dorp zelf is gezellig en leent zich voor een rustige middag.\n\nHet is een goede aanvulling op een middag zwemmen of een bezoek aan het Zillertal. Welke voorzieningen er precies zijn en wat ze kosten, konden we niet zelf controleren; de prijzen lopen volgens de bron uiteen. Informeer daarom vooraf bij de toeristenbalie van Zell am Ziller naar het actuele aanbod, de openingstijden en eventuele leeftijdsgrenzen.",
+   "en": "According to our source, Zell am Ziller has a sports and leisure area for families, with tennis courts, mini golf, a trampoline course and a water play area for children, among other things. The village itself is pleasant and suits a relaxed afternoon.\n\nIt is a good complement to an afternoon of swimming or a visit to the Zillertal. We could not check exactly which facilities exist or what they cost; prices vary according to the source. Please ask the Zell am Ziller tourist office beforehand about the current offer, opening hours and any age limits.",
+   "de": "Laut unserer Quelle hat Zell am Ziller ein Sport- und Freizeitgelände für Familien, unter anderem mit Tennisplätzen, Minigolf, einem Trampolinparcours und einem Wasserspielplatz für Kinder. Der Ort selbst ist gemütlich und eignet sich für einen ruhigen Nachmittag.\n\nEs ist eine gute Ergänzung zu einem Badenachmittag oder einem Besuch im Zillertal. Welche Einrichtungen es genau gibt und was sie kosten, konnten wir nicht selbst prüfen; die Preise unterscheiden sich laut Quelle. Bitte vorab beim Tourismusbüro Zell am Ziller nach dem aktuellen Angebot, den Öffnungszeiten und Altersgrenzen fragen. Plane reichlich Zeit ein und prüfe vorab Wetter und aktuelle Informationen, damit der Besuch entspannt verläuft."
+  },
+  "tips": {
+   "nl": [
+    "Minigolf is meestal leuk voor alle leeftijden.",
+    "Vraag naar tennislessen voor beginners.",
+    "Neem zwemkleding mee voor de waterspeelplaats.",
+    "Bezoek ook het dorpscentrum."
+   ],
+   "en": [
+    "Mini golf is usually fun for all ages.",
+    "Ask about tennis lessons for beginners.",
+    "Bring swimwear for the water play area.",
+    "Also visit the village centre."
+   ],
+   "de": [
+    "Minigolf macht meist allen Altersgruppen Spaß.",
+    "Nach Tennisstunden für Anfänger fragen.",
+    "Badesachen für den Wasserspielplatz mitnehmen.",
+    "Auch das Dorfzentrum besuchen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Zell am Ziller in ca. 50 minuten rijden, via Wörgl en het Zillertal. Informeer vooraf naar prijzen.",
+   "en": "From Niederau, Zell am Ziller is about 50 minutes by car, via Wörgl and the Zillertal. Check prices beforehand.",
+   "de": "Von Niederau sind es ca. 50 Minuten Fahrt nach Zell am Ziller, über Wörgl und das Zillertal. Preise vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "Approx. 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Zell am Ziller, Zillertal",
+   "en": "Zell am Ziller, Zillertal",
+   "de": "Zell am Ziller, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen?",
+     "en": "What is there for children?",
+     "de": "Was gibt es für Kinder?"
+    },
+    "a": {
+     "nl": "Volgens onze bron minigolf, een trampolineparcours en een waterspeelplaats; controleer het actuele aanbod.",
+     "en": "According to our source mini golf, a trampoline course and a water play area; check the current offer.",
+     "de": "Laut unserer Quelle Minigolf, ein Trampolinparcours und ein Wasserspielplatz; das aktuelle Angebot prüfen."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Freizeitpark Zell am Ziller",
+  "_orig_loc": "Zell am Ziller (45 min)"
+ },
+ {
+  "id": "s265",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "leisure-park-wipptal",
+  "slug_de": "freizeitpark-wipptal",
+  "title": {
+   "nl": "Freizeitpark Wipptal",
+   "en": "Wipptal leisure park",
+   "de": "Freizeitpark Wipptal"
+  },
+  "tagline": {
+   "nl": "Speelpark voor jonge kinderen ten zuiden van Innsbruck",
+   "en": "Play park for young children south of Innsbruck",
+   "de": "Spielpark für kleine Kinder südlich von Innsbruck"
+  },
+  "intro": {
+   "nl": "Het Wipptal is de vallei naar de Brennerpas, ten zuiden van Innsbruck. Volgens onze bron ligt in Matrei am Brenner een speelpark voor jonge kinderen met klimtoestellen, waterattracties, een klein dierenpark en een speelweide. Het is er rustiger dan op de bekendere plekken in Tirol.\n\nHet park is vooral geschikt voor kinderen van ongeveer twee tot twaalf jaar. Horeca is er volgens de bron schaars, dus eten meenemen is verstandig. Omdat we het aanbod en de tarieven niet zelf konden controleren, is het goed om vooraf bij de toeristenbalie van het Wipptal na te gaan of het park open is en wat er te doen is.",
+   "en": "The Wipptal is the valley leading to the Brenner Pass, south of Innsbruck. According to our source, Matrei am Brenner has a play park for young children with climbing equipment, water features, a small animal park and a play meadow. It is quieter than the better-known places in Tyrol.\n\nThe park mainly suits children of about two to twelve. Catering is said to be scarce, so bringing food is wise. Since we could not check the offer and rates ourselves, it is a good idea to ask the Wipptal tourist office beforehand whether the park is open and what there is to do.",
+   "de": "Das Wipptal ist das Tal zum Brennerpass, südlich von Innsbruck. Laut unserer Quelle gibt es in Matrei am Brenner einen Spielpark für kleine Kinder mit Klettergeräten, Wasserattraktionen, einem kleinen Tierpark und einer Spielwiese. Hier ist es ruhiger als an den bekannteren Orten Tirols.\n\nDer Park eignet sich vor allem für Kinder von etwa zwei bis zwölf Jahren. Gastronomie soll es nur wenig geben, daher ist Verpflegung mitzubringen ratsam. Da wir Angebot und Preise nicht selbst prüfen konnten, sollte man vorab beim Tourismusbüro Wipptal erfragen, ob der Park geöffnet ist und was geboten wird."
+  },
+  "tips": {
+   "nl": [
+    "Neem eten en drinken mee.",
+    "Kijk vooraf of het park open is.",
+    "Neem reservekleding mee voor de waterattracties.",
+    "Combineer met een uitstapje naar Innsbruck."
+   ],
+   "en": [
+    "Bring food and drink.",
+    "Check beforehand whether the park is open.",
+    "Pack spare clothes for the water features.",
+    "Combine with a trip to Innsbruck."
+   ],
+   "de": [
+    "Essen und Trinken mitnehmen.",
+    "Vorab prüfen, ob der Park geöffnet ist.",
+    "Wechselkleidung für die Wasserattraktionen einpacken.",
+    "Mit einem Ausflug nach Innsbruck verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Matrei am Brenner in ca. 1 uur 10 minuten rijden, via Innsbruck en de A13. Informeer vooraf naar tarieven en openingstijden.",
+   "en": "From Niederau, Matrei am Brenner is about 1 hour 10 minutes by car, via Innsbruck and the A13. Check fares and opening times beforehand.",
+   "de": "Von Niederau sind es ca. 1 Stunde 10 Minuten Fahrt nach Matrei am Brenner, über Innsbruck und die A13. Preise und Öffnungszeiten vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Ca. 2 tot 12 jaar",
+    "en": "Approx. ages 2 to 12",
+    "de": "Ca. 2 bis 12 Jahre"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 10 min rijden",
+    "en": "Approx. 1 hr 10 min by car",
+    "de": "Ca. 1 Std. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Matrei am Brenner, Wipptal",
+   "en": "Matrei am Brenner, Wipptal",
+   "de": "Matrei am Brenner, Wipptal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er eten te koop in het park?",
+     "en": "Is food available at the park?",
+     "de": "Gibt es im Park Verpflegung?"
+    },
+    "a": {
+     "nl": "Volgens onze bron is er weinig horeca; neem eten mee.",
+     "en": "According to our source there is little catering; bring food.",
+     "de": "Laut unserer Quelle gibt es wenig Gastronomie; Verpflegung mitbringen."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Wipptal Freizeitpark",
+  "_orig_loc": "Matrei am Brenner (60 min)"
+ },
+ {
+  "id": "s87",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "kufstein",
+  "slug_en": "western-town-kufstein-area",
+  "slug_de": "westernstadt-raum-kufstein",
+  "title": {
+   "nl": "Westernstadt bij Kufstein",
+   "en": "Western town near Kufstein",
+   "de": "Westernstadt bei Kufstein"
+  },
+  "tagline": {
+   "nl": "Cowboysfeer en speelplezier voor kleine kinderen",
+   "en": "Cowboy atmosphere and play for small children",
+   "de": "Cowboy-Atmosphäre und Spielspaß für kleine Kinder"
+  },
+  "intro": {
+   "nl": "In de omgeving van Kufstein wordt een kleine westernthemapark genoemd, bedoeld voor jonge kinderen. Je loopt er langs nagebouwde cowboyhuisjes, en de kinderen kunnen er verkleden en spelen met cowboyhoeden en lasso's. De sfeer is eenvoudig en overzichtelijk, meer een rustig familie-uitje dan een grote attractie.\n\nDe gegevens over dit park zijn niet gecontroleerd. Informeer daarom vooraf via het toeristenbureau van Kufstein naar de exacte locatie, het seizoen en de openingstijden, want die kunnen per jaar verschillen. Het past vooral bij kleuters en jonge schoolkinderen en is te combineren met een bezoek aan Kufstein zelf, bijvoorbeeld de vesting.",
+   "en": "A small Western-themed park is mentioned in the area around Kufstein, meant for young children. You walk past built cowboy-style houses, and the children can dress up and play with cowboy hats and lassos. The atmosphere is simple and easy to grasp, more a calm family outing than a big attraction.\n\nThe details of this park have not been checked. Ask the Kufstein tourist office beforehand about the exact location, the season and opening times, as these can differ from year to year. It suits toddlers and young school children best and can be combined with a visit to Kufstein itself, for instance the fortress.",
+   "de": "In der Umgebung von Kufstein wird ein kleiner Westernpark genannt, der sich an kleine Kinder richtet. Man geht an nachgebauten Cowboyhäuschen vorbei, und die Kinder können sich verkleiden und mit Cowboyhüten und Lassos spielen. Die Atmosphäre ist einfach und überschaubar, eher ein ruhiger Familienausflug als eine große Attraktion.\n\nDie Angaben zu diesem Park wurden nicht überprüft. Erkundige dich daher vorab beim Tourismusbüro Kufstein nach genauem Standort, Saison und Öffnungszeiten, da diese sich von Jahr zu Jahr ändern können. Er passt vor allem zu Kleinkindern und jüngeren Schulkindern und lässt sich mit einem Besuch in Kufstein selbst verbinden, etwa der Festung."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf naar locatie en openingstijden; die zijn seizoensgebonden.",
+    "Combineer met een bezoek aan Kufstein voor een volledige dag.",
+    "Past het best bij kleuters en jonge kinderen."
+   ],
+   "en": [
+    "Ask about the location and opening times beforehand; they are seasonal.",
+    "Combine with a visit to Kufstein for a full day.",
+    "Best suited to toddlers and young children."
+   ],
+   "de": [
+    "Erkundige dich vorab nach Standort und Öffnungszeiten; sie sind saisonabhängig.",
+    "Verbinde den Besuch mit Kufstein für einen ganzen Tag.",
+    "Passt am besten zu Kleinkindern und jüngeren Kindern."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 40 minuten rijden naar Kufstein, via de A12. Vraag het toeristenbureau van Kufstein naar de precieze locatie.",
+   "en": "From Niederau it is about 40 minutes by car to Kufstein, via the A12. Ask the Kufstein tourist office for the exact location.",
+   "de": "Von Niederau sind es ca. 40 Minuten Fahrt nach Kufstein, über die A12. Frage das Tourismusbüro Kufstein nach dem genauen Standort."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vooral kleuters en jonge kinderen",
+    "en": "Mainly toddlers and young children",
+    "de": "Vor allem Kleinkinder und jüngere Kinder"
+   },
+   "duration": {
+    "nl": "Ca. een halve dag",
+    "en": "About half a day",
+    "de": "Ca. ein halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preis variiert; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "About 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer; informeer naar openingstijden",
+    "en": "Summer; ask about opening times",
+    "de": "Sommer; Öffnungszeiten erfragen"
+   }
+  },
+  "location": {
+   "nl": "Omgeving Kufstein",
+   "en": "Kufstein area",
+   "de": "Raum Kufstein"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is de westernstad open?",
+     "en": "When is the Western town open?",
+     "de": "Wann ist die Westernstadt geöffnet?"
+    },
+    "a": {
+     "nl": "Dat is niet gecontroleerd; informeer vooraf bij het toeristenbureau van Kufstein.",
+     "en": "This has not been checked; ask the Kufstein tourist office beforehand.",
+     "de": "Das wurde nicht geprüft; bitte vorab beim Tourismusbüro Kufstein erfragen."
+    }
+   }
+  ],
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Westernstadt Gärberbach",
+  "_orig_loc": "Omgeving Kufstein (40 min)"
+ },
+ {
+  "id": "s92",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "kufstein",
+  "slug_en": "summer-toboggan-kufstein",
+  "slug_de": "sommerrodelbahn-kufstein",
+  "title": {
+   "nl": "Zomerrodelbaan bij Kufstein",
+   "en": "Summer toboggan run near Kufstein",
+   "de": "Sommerrodelbahn bei Kufstein"
+  },
+  "tagline": {
+   "nl": "Een snelle rit bergaf, te combineren met de vesting van Kufstein",
+   "en": "A fast ride downhill, easy to combine with Kufstein fortress",
+   "de": "Eine schnelle Talfahrt, gut kombinierbar mit der Festung Kufstein"
+  },
+  "intro": {
+   "nl": "Bij Kufstein wordt een zomerrodelbaan genoemd, in de buurt van de Festung Kufstein. Je zit in een karretje of slee op rails en bepaalt zelf het tempo met een rem. De baan voert bergaf door het groen, met uitzicht over het Inndal.\n\nDeze gegevens zijn niet gecontroleerd en kunnen onjuist zijn. Vraag daarom vooraf bij het toeristenbureau van Kufstein na of de baan bestaat, waar de start ligt en wat de regels zijn voor leeftijd en meerijden. Meestal mogen jonge kinderen alleen mee met een volwassene. Een rit is snel gedaan, dus de baan werkt vooral als leuke toevoeging aan een stadsbezoek, en de rit wordt vaak herhaald.",
+   "en": "A summer toboggan run is mentioned near Kufstein, close to Kufstein fortress. You sit in a small cart or sled on rails and control your speed with a brake. The track leads downhill through greenery, with views over the Inn valley.\n\nThese details have not been checked and may be wrong. Ask the Kufstein tourist office beforehand whether the run exists, where it starts and what the rules are for age and riding together. Young children can usually only ride with an adult. A ride is over quickly, so the run mainly works as a fun addition to a visit to the town, and rides are often repeated.",
+   "de": "Bei Kufstein wird eine Sommerrodelbahn genannt, in der Nähe der Festung Kufstein. Man sitzt in einem kleinen Wagen oder Schlitten auf Schienen und bestimmt das Tempo mit einer Bremse. Die Bahn führt bergab durch das Grün, mit Blick über das Inntal.\n\nDiese Angaben wurden nicht überprüft und können falsch sein. Frage daher vorab beim Tourismusbüro Kufstein nach, ob die Bahn existiert, wo sie startet und welche Regeln für Alter und Mitfahren gelten. Kleine Kinder dürfen meist nur mit einem Erwachsenen mitfahren. Eine Fahrt ist schnell vorbei, daher ist die Bahn vor allem eine nette Ergänzung zu einem Stadtbesuch, und Fahrten werden oft wiederholt."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf of de baan bestaat en open is.",
+    "Vraag naar de leeftijdsgrens en of kinderen alleen mogen rijden.",
+    "Combineer met de vesting en de oude binnenstad van Kufstein."
+   ],
+   "en": [
+    "Check beforehand that the run exists and is open.",
+    "Ask about age limits and whether children may ride alone.",
+    "Combine with the fortress and the old town of Kufstein."
+   ],
+   "de": [
+    "Prüfe vorab, ob die Bahn existiert und geöffnet ist.",
+    "Frage nach Altersgrenzen und ob Kinder allein fahren dürfen.",
+    "Verbinde sie mit der Festung und der Altstadt von Kufstein."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 40 minuten rijden naar Kufstein, via de A12. Informeer vooraf naar het exacte startpunt.",
+   "en": "From Niederau it is about 40 minutes by car to Kufstein, via the A12. Ask beforehand about the exact starting point.",
+   "de": "Von Niederau sind es ca. 40 Minuten Fahrt nach Kufstein, über die A12. Erkundige dich vorab nach dem genauen Startpunkt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kinderen met een volwassene; zelfstandig vanaf oudere leeftijd, informeer vooraf",
+    "en": "Children with an adult; alone from an older age, check beforehand",
+    "de": "Kinder mit Erwachsenem; allein ab höherem Alter, bitte vorab erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preis variiert; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "About 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer; informeer naar openingstijden",
+    "en": "Summer; ask about opening times",
+    "de": "Sommer; Öffnungszeiten erfragen"
+   }
+  },
+  "location": {
+   "nl": "Kufstein",
+   "en": "Kufstein",
+   "de": "Kufstein"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Vanaf welke leeftijd mogen kinderen mee?",
+     "en": "From what age can children ride?",
+     "de": "Ab welchem Alter dürfen Kinder mitfahren?"
+    },
+    "a": {
+     "nl": "Dat verschilt per baan; informeer vooraf bij de exploitant of het toeristenbureau.",
+     "en": "That differs per run; ask the operator or tourist office beforehand.",
+     "de": "Das ist je nach Bahn unterschiedlich; bitte vorab beim Betreiber oder Tourismusbüro erfragen."
+    }
+   }
+  ],
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Kufstein Sommerrodelbahn",
+  "_orig_loc": "Kufstein (30 min)"
+ },
+ {
+  "id": "s11",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "niederau",
+  "slug_en": "climbing-bouldering-wildschoenau",
+  "slug_de": "klettern-bouldern-wildschoenau",
+  "title": {
+   "nl": "Klimmen en boulderen in de Wildschönau",
+   "en": "Climbing and bouldering in the Wildschönau",
+   "de": "Klettern und Bouldern in der Wildschönau"
+  },
+  "tagline": {
+   "nl": "Eerste klimervaring voor kinderen, met begeleiding",
+   "en": "A first climbing experience for children, with guidance",
+   "de": "Erste Klettererfahrung für Kinder, mit Begleitung"
+  },
+  "intro": {
+   "nl": "Voor gezinnen die willen klimmen noemt de bron een klimtuin met boulderroutes en routes met touw, bedoeld voor verschillende niveaus. Kleine kinderen beginnen op lage boulderroutes zonder touw, oudere kinderen klimmen met touw en klimgordel onder begeleiding van een ervaren klimmer of gids.\n\nOf en waar deze klimtuin precies ligt, is niet gecontroleerd. Vraag daarom bij het toeristenbureau in Niederau naar het actuele aanbod, de aanmelding en het materiaal, want klimschoenen en gordels worden meestal uitgeleend. Voor beginners is begeleiding belangrijk. Klimmen is vooral leuk omdat kinderen zichtbaar trots zijn op wat ze zelf bereiken, en je hoeft er geen ervaring voor te hebben. Kies bij warm weer de koele uren van de dag.",
+   "en": "For families who want to climb, the source mentions a climbing garden with bouldering routes and roped routes for different levels. Small children start on low bouldering routes without a rope, while older children climb with a rope and harness under the guidance of an experienced climber or guide.\n\nWhether and where exactly this climbing garden is has not been checked. Ask the tourist office in Niederau about the current offer, booking and equipment, since climbing shoes and harnesses are usually lent out. Guidance is important for beginners. Climbing is fun mainly because children are visibly proud of what they achieve themselves, and you need no experience. In warm weather, choose the cooler hours of the day.",
+   "de": "Für Familien, die klettern möchten, nennt die Quelle einen Klettergarten mit Boulderrouten und Seilrouten für verschiedene Niveaus. Kleine Kinder beginnen an niedrigen Boulderrouten ohne Seil, ältere Kinder klettern mit Seil und Gurt unter Anleitung einer erfahrenen Kletterin oder eines Bergführers.\n\nOb und wo genau dieser Klettergarten liegt, wurde nicht überprüft. Frage daher beim Tourismusbüro in Niederau nach dem aktuellen Angebot, der Anmeldung und der Ausrüstung, denn Kletterschuhe und Gurte werden meist verliehen. Für Anfänger ist Begleitung wichtig. Klettern macht vor allem Spaß, weil Kinder sichtbar stolz auf das sind, was sie selbst schaffen, und Erfahrung braucht man nicht. Wähle bei warmem Wetter die kühleren Tageszeiten."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf naar aanmelding en materiaalverhuur.",
+    "Draag stevige of gesloten schoenen als er geen klimschoenen zijn.",
+    "Kies bij warm weer de koele uren, want rotsen warmen op."
+   ],
+   "en": [
+    "Ask beforehand about booking and equipment hire.",
+    "Wear sturdy or closed shoes if no climbing shoes are available.",
+    "In warm weather choose the cooler hours, as rock heats up."
+   ],
+   "de": [
+    "Erkundige dich vorab nach Anmeldung und Materialverleih.",
+    "Trage feste oder geschlossene Schuhe, falls es keine Kletterschuhe gibt.",
+    "Wähle bei warmem Wetter die kühleren Stunden, da sich Fels aufheizt."
+   ]
+  },
+  "practical": {
+   "nl": "Het aanbod ligt in de Wildschönau; vraag het toeristenbureau in Niederau naar de precieze plek. Vanaf Niederau is het naar verwachting een kort ritje.",
+   "en": "The offer is in the Wildschönau; ask the tourist office in Niederau for the exact spot. From Niederau it is expected to be a short drive.",
+   "de": "Das Angebot liegt in der Wildschönau; frage das Tourismusbüro in Niederau nach dem genauen Ort. Von Niederau aus ist es voraussichtlich eine kurze Fahrt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 5 jaar",
+    "en": "From about 5 years",
+    "de": "Ab ca. 5 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preis variiert; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "In de Wildschönau; ca. 5 tot 15 min rijden",
+    "en": "In the Wildschönau; about 5 to 15 min by car",
+    "de": "In der Wildschönau; ca. 5 bis 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Heb je ervaring nodig om te klimmen?",
+     "en": "Do you need experience to climb?",
+     "de": "Braucht man Erfahrung zum Klettern?"
+    },
+    "a": {
+     "nl": "Nee, beginners starten op lage routes met begeleiding.",
+     "en": "No, beginners start on low routes with guidance.",
+     "de": "Nein, Anfänger beginnen an niedrigen Routen mit Begleitung."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Klimtuin & Boulderen",
+  "_orig_loc": "Wildschönau"
+ },
+ {
+  "id": "s111",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "niederau",
+  "slug_en": "tyrolean-folk-games-niederau",
+  "slug_de": "tiroler-volksspiele-niederau",
+  "title": {
+   "nl": "Tiroler volksspelen",
+   "en": "Tyrolean folk games",
+   "de": "Tiroler Volksspiele"
+  },
+  "tagline": {
+   "nl": "Kegelen, ringwerpen en andere oude spelen in de buitenlucht",
+   "en": "Skittles, ring toss and other traditional outdoor games",
+   "de": "Kegeln, Ringwerfen und andere alte Spiele im Freien"
+  },
+  "intro": {
+   "nl": "Traditionele Tiroler spelen worden vaak buiten gespeeld en zijn voor alle leeftijden geschikt. Genoemd worden onder meer Waldkegeln, een kegelspel in het bos, Nagelbalken, waarbij je een spijker in een balk probeert te slaan, ringwerpen en blikgooien. Ze zijn eenvoudig uit te leggen en vragen weinig materiaal.\n\nDe bron noemt het dorp Niederau als plek en vaste evenementdagen. Dat is niet gecontroleerd; vraag het toeristenbureau of er in de periode van je verblijf een dorpsfeest of spelmiddag is. Bij zulke gelegenheden is de sfeer meestal gezellig en kun je meedoen zonder voorbereiding. Je kunt het ook thuis nabootsen door een eigen gezinswedstrijd te organiseren met een kleine prijs voor de winnaar.",
+   "en": "Traditional Tyrolean games are often played outdoors and suit all ages. Examples mentioned are Waldkegeln, a skittles game in the forest, Nagelbalken, where you try to drive a nail into a beam, ring toss and can throwing. They are simple to explain and need little equipment.\n\nThe source names the village of Niederau as the location and fixed event days. This has not been checked; ask the tourist office whether there is a village festival or games afternoon during your stay. On such occasions the atmosphere is usually cheerful and you can join in without preparation. You can also imitate it yourselves by organising a family contest with a small prize for the winner.",
+   "de": "Traditionelle Tiroler Spiele werden oft im Freien gespielt und eignen sich für alle Altersgruppen. Genannt werden unter anderem Waldkegeln, ein Kegelspiel im Wald, Nagelbalken, bei dem man einen Nagel in einen Balken schlagen muss, Ringwerfen und Dosenwerfen. Sie sind einfach zu erklären und brauchen wenig Material.\n\nDie Quelle nennt das Dorf Niederau als Ort sowie feste Veranstaltungstage. Das wurde nicht überprüft; frage das Tourismusbüro, ob während deines Aufenthalts ein Dorffest oder ein Spielenachmittag stattfindet. Bei solchen Anlässen ist die Stimmung meist gesellig, und man kann ohne Vorbereitung mitmachen. Man kann es auch selbst nachspielen, indem man einen Familienwettbewerb mit einem kleinen Preis für den Sieger veranstaltet."
+  },
+  "tips": {
+   "nl": [
+    "Vraag het toeristenbureau naar dorpsfeesten of spelmiddagen in jouw periode.",
+    "Nagelbalken is moeilijker dan het lijkt; geef kinderen een proefronde.",
+    "Organiseer een gezinswedstrijd met een kleine prijs voor de winnaar."
+   ],
+   "en": [
+    "Ask the tourist office about village festivals or games afternoons during your stay.",
+    "Nagelbalken is harder than it looks; give children a practice round.",
+    "Organise a family contest with a small prize for the winner."
+   ],
+   "de": [
+    "Frage das Tourismusbüro nach Dorffesten oder Spielenachmittagen in deiner Zeit.",
+    "Nagelbalken ist schwieriger als es aussieht; gib den Kindern eine Probierrunde.",
+    "Veranstalte einen Familienwettbewerb mit einem kleinen Preis für den Sieger."
+   ]
+  },
+  "practical": {
+   "nl": "De spelen vinden volgens de bron plaats in of bij Niederau, dus op loopafstand of een paar minuten rijden. Informeer naar data en plaats.",
+   "en": "According to the source the games take place in or near Niederau, so within walking distance or a few minutes' drive. Ask about dates and place.",
+   "de": "Laut Quelle finden die Spiele in oder bei Niederau statt, also zu Fuß oder wenige Fahrminuten entfernt. Frage nach Terminen und Ort."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Wisselt; soms gratis bij evenementen",
+    "en": "Varies; sometimes free at events",
+    "de": "Variiert; bei Veranstaltungen teils kostenlos"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is Nagelbalken?",
+     "en": "What is Nagelbalken?",
+     "de": "Was ist Nagelbalken?"
+    },
+    "a": {
+     "nl": "Een Tiroler spel waarbij je met een hamer een spijker zo snel mogelijk in een houten balk slaat.",
+     "en": "A Tyrolean game in which you drive a nail into a wooden beam with a hammer as quickly as possible.",
+     "de": "Ein Tiroler Spiel, bei dem man mit dem Hammer möglichst schnell einen Nagel in einen Holzbalken schlägt."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Tiroler traditionele spelen",
+  "_orig_loc": "Dorp Niederau / Wildschönau"
+ },
+ {
+  "id": "s112",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "auffach",
+  "slug_en": "outdoor-climbing-wall-auffach",
+  "slug_de": "kletterwand-auffach",
+  "title": {
+   "nl": "Klimwand bij Auffach",
+   "en": "Climbing wall near Auffach",
+   "de": "Kletterwand bei Auffach"
+  },
+  "tagline": {
+   "nl": "Kennismaken met klimmen, met touw, gordel en begeleiding",
+   "en": "Getting to know climbing, with rope, harness and guidance",
+   "de": "Klettern kennenlernen, mit Seil, Gurt und Begleitung"
+  },
+  "intro": {
+   "nl": "Bij Auffach in de Wildschönau wordt een buitenklimwand genoemd waar kinderen kunnen kennismaken met klimmen. De wand is lager en eenvoudiger dan een klettersteig en daardoor geschikt als eerste ervaring. Je klimt met klimgordel en touw, met een instructeur die meekijkt en zekert.\n\nOf deze wand er daadwerkelijk is en onder welke voorwaarden je kunt klimmen, is niet gecontroleerd. Vraag het toeristenbureau naar de actuele mogelijkheden, het aanmelden en de leeftijdsgrens. Materiaal wordt meestal verstrekt. Gesloten schoenen zijn verplicht, en een zonnige ochtend is prettig, omdat de rots dan nog niet te warm is. Het is een actieve bezigheid van een paar uur voor kinderen die graag klimmen en klauteren.",
+   "en": "An outdoor climbing wall near Auffach in the Wildschönau is mentioned, where children can get to know climbing. The wall is lower and simpler than a via ferrata, which makes it suitable as a first experience. You climb with harness and rope, with an instructor who watches and belays.\n\nWhether this wall actually exists, and on what terms you can climb, has not been checked. Ask the tourist office about current options, booking and age limits. Equipment is usually provided. Closed shoes are required, and a sunny morning is pleasant because the rock is not yet too warm. It is an active few hours for children who like to climb and scramble.",
+   "de": "Bei Auffach in der Wildschönau wird eine Kletterwand im Freien genannt, an der Kinder das Klettern kennenlernen können. Die Wand ist niedriger und einfacher als ein Klettersteig und eignet sich daher als erste Erfahrung. Man klettert mit Gurt und Seil, ein Instruktor schaut zu und sichert.\n\nOb diese Wand tatsächlich existiert und unter welchen Bedingungen man klettern kann, wurde nicht überprüft. Frage das Tourismusbüro nach aktuellen Möglichkeiten, Anmeldung und Altersgrenze. Die Ausrüstung wird meist gestellt. Geschlossene Schuhe sind Pflicht, und ein sonniger Vormittag ist angenehm, weil der Fels dann noch nicht zu warm ist. Eine aktive Beschäftigung für ein paar Stunden für Kinder, die gern klettern."
+  },
+  "tips": {
+   "nl": [
+    "Draag gesloten schoenen en comfortabele kleding.",
+    "Vraag vooraf naar aanmelden en de leeftijdsgrens.",
+    "Kies een ochtend; dan is de rots koeler."
+   ],
+   "en": [
+    "Wear closed shoes and comfortable clothes.",
+    "Ask beforehand about booking and the age limit.",
+    "Choose a morning; the rock is cooler then."
+   ],
+   "de": [
+    "Trage geschlossene Schuhe und bequeme Kleidung.",
+    "Frage vorab nach Anmeldung und Altersgrenze.",
+    "Wähle einen Vormittag; dann ist der Fels kühler."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 15 minuten rijden van Niederau, aan het eind van het dal. Vraag het toeristenbureau naar de precieze plek.",
+   "en": "Auffach is about 15 minutes by car from Niederau, at the head of the valley. Ask the tourist office for the exact spot.",
+   "de": "Auffach liegt ca. 15 Minuten Fahrt von Niederau entfernt, am Ende des Tals. Frage das Tourismusbüro nach dem genauen Ort."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 5 jaar",
+    "en": "From about 5 years",
+    "de": "Ab ca. 5 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preis variiert; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 15 min rijden",
+    "en": "About 15 min by car",
+    "de": "Ca. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is eigen klimmateriaal nodig?",
+     "en": "Do you need your own climbing gear?",
+     "de": "Braucht man eigene Kletterausrüstung?"
+    },
+    "a": {
+     "nl": "Meestal wordt het materiaal verstrekt; vraag dit vooraf na.",
+     "en": "Equipment is usually provided; check this beforehand.",
+     "de": "Die Ausrüstung wird meist gestellt; bitte vorab erfragen."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Klimwand buiten Auffach",
+  "_orig_loc": "Auffach"
+ },
+ {
+  "id": "s116",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "niederau",
+  "slug_en": "disc-golf-wildschoenau",
+  "slug_de": "frisbeegolf-wildschoenau",
+  "title": {
+   "nl": "Frisbeegolf in de Wildschönau",
+   "en": "Disc golf in the Wildschönau",
+   "de": "Frisbeegolf in der Wildschönau"
+  },
+  "tagline": {
+   "nl": "Ontspannen spelen met een frisbee in het berglandschap",
+   "en": "A relaxed game with a flying disc in the mountain landscape",
+   "de": "Entspanntes Spielen mit der Frisbee in der Berglandschaft"
+  },
+  "intro": {
+   "nl": "Frisbeegolf werkt als golf, maar je gooit een frisbee in plaats van een bal te slaan. Het doel is een korf of paal, en je telt de worpen. Volgens de bron is er in de Wildschönau een informeel parcours in het groene landschap, met doelen bij bomen, over een beek en langs een bergweide. Het is geen officieel park, maar juist daardoor ontspannen.\n\nDeze gegevens zijn niet gecontroleerd. Vraag het toeristenbureau in Niederau of het parcours er is en waar je frisbees kunt huren, of neem er zelf een mee. Een backhandworp gaat meestal het verst. Op weides met vee moet je rekening houden met de dieren en weidehekken respecteren. Reken op ca. anderhalf uur en geef elke speler een eigen scorekaart voor wat extra spanning.",
+   "en": "Disc golf works like golf, but you throw a flying disc instead of hitting a ball. The target is a basket or pole, and you count your throws. According to the source there is an informal course in the Wildschönau in the green landscape, with targets by trees, across a stream and along a mountain pasture. It is not an official park, which is exactly what makes it relaxed.\n\nThese details have not been checked. Ask the tourist office in Niederau whether the course exists and where you can hire discs, or bring your own. A backhand throw usually goes furthest. On pastures with livestock, keep the animals in mind and respect fences. Plan on about an hour and a half, and give each player a scorecard for extra excitement.",
+   "de": "Frisbeegolf funktioniert wie Golf, nur wirft man eine Frisbee-Scheibe statt einen Ball zu schlagen. Ziel ist ein Korb oder Pfosten, und man zählt die Würfe. Laut Quelle gibt es in der Wildschönau einen informellen Parcours in der grünen Landschaft, mit Zielen an Bäumen, über einen Bach und entlang einer Bergweide. Es ist kein offizieller Park, gerade das macht es entspannt.\n\nDiese Angaben wurden nicht überprüft. Frage das Tourismusbüro in Niederau, ob es den Parcours gibt und wo man Scheiben leihen kann, oder bring eine eigene mit. Ein Rückhandwurf fliegt meist am weitesten. Auf Weiden mit Vieh nimmt man Rücksicht auf die Tiere und respektiert Zäune. Rechne mit etwa eineinhalb Stunden und gib jedem Spieler eine Zählkarte für mehr Spannung."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf of het parcours er is en waar je een frisbee kunt huren.",
+    "Respecteer weidehekken en houd afstand van vee.",
+    "Houd de score bij voor extra spanning."
+   ],
+   "en": [
+    "Ask beforehand whether the course exists and where you can hire a disc.",
+    "Respect fences and keep your distance from livestock.",
+    "Keep score for extra excitement."
+   ],
+   "de": [
+    "Frage vorab, ob es den Parcours gibt und wo man eine Scheibe leihen kann.",
+    "Respektiere Weidezäune und halte Abstand zu Vieh.",
+    "Führt Punkte für mehr Spannung."
+   ]
+  },
+  "practical": {
+   "nl": "Het parcours ligt volgens de bron in de Wildschönau; vraag het toeristenbureau in Niederau om uitleg over de plek. Voor de meeste verblijfplaatsen is het een korte rit.",
+   "en": "According to the source the course is in the Wildschönau; ask the tourist office in Niederau where it is. For most accommodation it is a short drive.",
+   "de": "Laut Quelle liegt der Parcours in der Wildschönau; frage das Tourismusbüro in Niederau nach dem Ort. Von den meisten Unterkünften ist es eine kurze Fahrt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From about 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Huur of aankoop frisbee; informeer vooraf",
+    "en": "Disc hire or purchase; check beforehand",
+    "de": "Leihe oder Kauf einer Scheibe; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "In de Wildschönau",
+    "en": "In the Wildschönau",
+    "de": "In der Wildschönau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is frisbeegolf?",
+     "en": "What is disc golf?",
+     "de": "Was ist Frisbeegolf?"
+    },
+    "a": {
+     "nl": "Een spel als golf, maar je gooit een frisbee naar een korf of paal en telt de worpen.",
+     "en": "A game like golf, but you throw a flying disc at a basket or pole and count your throws.",
+     "de": "Ein Spiel wie Golf, bei dem man eine Frisbee auf einen Korb oder Pfosten wirft und die Würfe zählt."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Frisbee-golf in het berglandschap",
+  "_orig_loc": "Wildschönau"
+ },
+ {
+  "id": "s180",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "woergl",
+  "slug_en": "high-ropes-course-woergl",
+  "slug_de": "hochseilgarten-woergl",
+  "title": {
+   "nl": "Klimpark bij Wörgl",
+   "en": "Rope course near Wörgl",
+   "de": "Hochseilgarten bei Wörgl"
+  },
+  "tagline": {
+   "nl": "Klimmen en balanceren tussen de bomen, voor beginners en gevorderden",
+   "en": "Climbing and balancing among the trees, for beginners and advanced",
+   "de": "Klettern und Balancieren zwischen den Bäumen, für Anfänger und Fortgeschrittene"
+  },
+  "intro": {
+   "nl": "Een klimpark of hoogteparcours in de bomen is een bekende gezinsactiviteit. Volgens de bron is er zo'n park bij Wörgl, met routes op verschillende hoogtes: eenvoudige parcoursen vlak boven de grond voor beginners en hogere routes in de boomkruinen voor wie meer uitdaging zoekt. Je bent daarbij altijd vastgezet met een veiligheidssysteem.\n\nOf dit park bestaat en waar het precies ligt, is niet gecontroleerd. Vraag het toeristenbureau of Wörgl naar het actuele aanbod en reserveer vooraf. Voor nieuwe bezoekers is meestal een korte instructie verplicht. Draag sportieve kleding zonder losse onderdelen, gesloten schoenen en bind lang haar vast. Neem pauzes, want je armen worden sneller moe dan je denkt. Het is een actieve activiteit van ca. twee tot drie uur.",
+   "en": "A rope course in the trees is a well-known family activity. According to the source there is such a park near Wörgl, with routes at different heights: simple courses just above the ground for beginners and higher routes in the treetops for those seeking more challenge. You are always secured with a safety system.\n\nWhether this park exists and where exactly it is has not been checked. Ask the tourist office or Wörgl about the current offer and book beforehand. New visitors usually have to take a short briefing. Wear sporty clothing without loose parts and closed shoes, and tie back long hair. Take breaks, since your arms tire faster than you think. It is an active outing of about two to three hours.",
+   "de": "Ein Hochseilgarten in den Bäumen ist eine bekannte Familienaktivität. Laut Quelle gibt es einen solchen Park bei Wörgl, mit Routen in unterschiedlichen Höhen: einfache Parcours knapp über dem Boden für Anfänger und höhere Routen in den Baumkronen für alle, die mehr Herausforderung suchen. Man ist dabei stets mit einem Sicherungssystem gesichert.\n\nOb dieser Park existiert und wo genau er liegt, wurde nicht überprüft. Frage das Tourismusbüro oder Wörgl nach dem aktuellen Angebot und reserviere vorab. Neue Besucher müssen meist eine kurze Einweisung absolvieren. Trage sportliche Kleidung ohne lose Teile und geschlossene Schuhe und binde lange Haare zusammen. Mache Pausen, denn die Arme ermüden schneller als gedacht. Eine aktive Unternehmung von etwa zwei bis drei Stunden."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf en vraag naar de minimumlengte of leeftijd.",
+    "Draag sportieve kleding zonder losse onderdelen en gesloten schoenen.",
+    "Neem tussendoor pauzes; je armen worden moe."
+   ],
+   "en": [
+    "Book beforehand and ask about minimum height or age.",
+    "Wear sporty clothes without loose parts and closed shoes.",
+    "Take breaks along the way; your arms tire."
+   ],
+   "de": [
+    "Reserviere vorab und frage nach Mindestgröße oder Alter.",
+    "Trage sportliche Kleidung ohne lose Teile und geschlossene Schuhe.",
+    "Mache zwischendurch Pausen; die Arme ermüden."
+   ]
+  },
+  "practical": {
+   "nl": "Wörgl ligt ca. 20 minuten rijden van Niederau, via de dalweg naar de A12. Informeer vooraf naar de exacte locatie.",
+   "en": "Wörgl is about 20 minutes by car from Niederau, via the valley road to the A12. Ask beforehand about the exact location.",
+   "de": "Wörgl liegt ca. 20 Minuten Fahrt von Niederau entfernt, über die Talstraße zur A12. Erkundige dich vorab nach dem genauen Standort."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From about 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preis variiert; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 20 min rijden",
+    "en": "About 20 min by car",
+    "de": "Ca. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wörgl",
+   "en": "Wörgl",
+   "de": "Wörgl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is een instructie verplicht?",
+     "en": "Is a briefing compulsory?",
+     "de": "Ist eine Einweisung Pflicht?"
+    },
+    "a": {
+     "nl": "Bij klimparken is een korte veiligheidsinstructie voor nieuwe bezoekers gebruikelijk; vraag het vooraf na.",
+     "en": "At rope courses a short safety briefing for new visitors is usual; check beforehand.",
+     "de": "Bei Hochseilgärten ist eine kurze Sicherheitseinweisung für neue Besucher üblich; bitte vorab erfragen."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Hochseilgarten Wörgl",
+  "_orig_loc": "Wörgl (15 min)"
+ },
+ {
+  "id": "s255",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "woergl",
+  "slug_en": "high-ropes-course-woergl",
+  "slug_de": "hochseilgarten-woergl",
+  "title": {
+   "nl": "Hochseilgarten Wörgl",
+   "en": "High ropes course Wörgl",
+   "de": "Hochseilgarten Wörgl"
+  },
+  "tagline": {
+   "nl": "Klimparcours en touwen in de boomtoppen",
+   "en": "Climbing courses and ropes in the treetops",
+   "de": "Klettern und Seilbrücken in den Baumwipfeln"
+  },
+  "intro": {
+   "nl": "Een hoogteparcours bestaat uit hangbruggen, touwen en soms een ritslijn, op wisselende hoogte tussen de bomen. Volgens de beschrijving heeft dit park in Wörgl meerdere niveaus, van een kort parcours voor de jongste klimmers tot uitdagender routes voor tieners en volwassenen.\n\nVeiligheidsmateriaal zoals helm en harnas wordt doorgaans verstrekt. Het is een activiteit voor een droge dag; bij regen is klimmen minder prettig en vaak niet mogelijk. Omdat dit adres niet extra is gecontroleerd, is het verstandig vooraf te bellen of online te kijken of het park open is en welke leeftijds- of lengtegrens geldt.",
+   "en": "A high ropes course consists of suspended bridges, ropes and sometimes a zip line at varying heights between the trees. According to the description, this park in Wörgl has several levels, from a short course for the youngest climbers to more demanding routes for teenagers and adults.\n\nSafety gear such as a helmet and harness is normally provided. It is an activity for a dry day; climbing in the rain is less pleasant and often not possible. As this address has not been double-checked, it is wise to confirm in advance that the park is open and which age or height limits apply.",
+   "de": "Ein Hochseilgarten besteht aus Hängebrücken, Seilen und manchmal einer Seilrutsche in unterschiedlicher Höhe zwischen den Bäumen. Laut Beschreibung hat dieser Park in Wörgl mehrere Schwierigkeitsstufen, vom kurzen Parcours für die Jüngsten bis zu anspruchsvolleren Routen für Jugendliche und Erwachsene.\n\nSicherheitsausrüstung wie Helm und Gurt wird in der Regel gestellt. Es ist eine Aktivität für trockene Tage; bei Regen ist Klettern unangenehm und oft nicht möglich. Da diese Angabe nicht zusätzlich geprüft wurde, sollte man vorab klären, ob der Park geöffnet ist und welche Alters- oder Größengrenzen gelten."
+  },
+  "tips": {
+   "nl": [
+    "Draag gesloten schoenen en kleding die kan vuil worden.",
+    "Kies een droge dag.",
+    "Vraag vooraf naar leeftijd en minimale lengte."
+   ],
+   "en": [
+    "Wear closed shoes and clothes that can get dirty.",
+    "Choose a dry day.",
+    "Ask beforehand about age and minimum height."
+   ],
+   "de": [
+    "Geschlossene Schuhe und Kleidung, die schmutzig werden darf.",
+    "Einen trockenen Tag wählen.",
+    "Vorab nach Alter und Mindestgröße fragen."
+   ]
+  },
+  "practical": {
+   "nl": "Wörgl ligt ca. 25 minuten rijden van Niederau, aan de A12. Informeer vooraf naar de precieze ligging, de openingstijden en reserveren.",
+   "en": "Wörgl is about 25 minutes by car from Niederau, on the A12. Ask in advance about the exact location, opening times and booking.",
+   "de": "Wörgl liegt ca. 25 Autominuten von Niederau entfernt an der A12. Genauen Standort, Öffnungszeiten und Reservierung vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar (informeer)",
+    "en": "From about 6 years (ask)",
+    "de": "Ab ca. 6 Jahren (erfragen)"
+   },
+   "duration": {
+    "nl": "Ca. 2-3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "About 25 minutes by car",
+    "de": "Ca. 25 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Zomer, droog weer",
+    "en": "Summer, dry weather",
+    "de": "Sommer, trockenes Wetter"
+   }
+  },
+  "location": {
+   "nl": "Wörgl",
+   "en": "Wörgl",
+   "de": "Wörgl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wordt het materiaal verstrekt?",
+     "en": "Is the equipment provided?",
+     "de": "Wird die Ausrüstung gestellt?"
+    },
+    "a": {
+     "nl": "Bij hoogteparcoursen is dat meestal zo; bevestig het bij boeking.",
+     "en": "This is usually the case at high ropes courses; confirm when booking.",
+     "de": "In Hochseilgärten ist das meist so; bitte bei der Buchung bestätigen."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Boomkroonpad Wörgl (Hochseilgarten)",
+  "_orig_loc": "Wörgl (20 min)"
+ },
+ {
+  "id": "s33",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "niederau",
+  "slug_en": "hut-overnight-markbachjoch",
+  "slug_de": "huettenuebernachtung-markbachjoch",
+  "title": {
+   "nl": "Overnachten in een berghut",
+   "en": "Overnight stay in a mountain hut",
+   "de": "Übernachten auf einer Berghütte"
+  },
+  "tagline": {
+   "nl": "Eén nacht hoog in de bergen boven Niederau",
+   "en": "One night high in the mountains above Niederau",
+   "de": "Eine Nacht hoch in den Bergen über Niederau"
+  },
+  "intro": {
+   "nl": "Voor gezinnen die iets bijzonders zoeken kan een nacht in een eenvoudige berghut een mooi avontuur zijn. Je wandelt omhoog, eet in de hut, slaapt in een slaapzaal in je slaapzak en daalt de volgende ochtend weer af. Het Markbachjoch boven Niederau is een bekend wandelgebied met meerdere alpenhutten.\n\nVolgens de bron duurt de wandeling ca. 3 uur en is dit geschikt voor kinderen vanaf ca. 8 jaar. Of er op het Markbachjoch zelf overnacht kan worden, is niet bevestigd; veel hutten in de buurt zijn vooral eetgelegenheden. Vraag daarom bij de toeristische dienst welke hut een overnachting aanbiedt en reserveer ruim vooraf.",
+   "en": "For families looking for something special, a night in a simple mountain hut can be a fine adventure. You walk up, eat at the hut, sleep in a dormitory in your sleeping bag and walk down again the next morning. The Markbachjoch above Niederau is a well-known hiking area with several alpine huts.\n\nAccording to the source the walk takes about 3 hours and suits children from about 8. Whether you can stay overnight at the Markbachjoch itself is not confirmed; many huts nearby are mainly places to eat. Ask the tourist office which hut offers overnight stays and book well ahead.",
+   "de": "Für Familien, die etwas Besonderes suchen, kann eine Nacht in einer einfachen Berghütte ein schönes Abenteuer sein. Man wandert hinauf, isst auf der Hütte, schläft im Lager im Schlafsack und steigt am nächsten Morgen wieder ab. Das Markbachjoch über Niederau ist ein bekanntes Wandergebiet mit mehreren Almhütten.\n\nLaut Quelle dauert der Aufstieg ca. 3 Stunden und eignet sich für Kinder ab ca. 8 Jahren. Ob man am Markbachjoch selbst übernachten kann, ist nicht bestätigt; viele Hütten in der Nähe sind vor allem Einkehrmöglichkeiten. Beim Tourismusverband nachfragen, welche Hütte Übernachtungen anbietet, und früh reservieren."
+  },
+  "tips": {
+   "nl": [
+    "Neem een slaapzak en een hoofdlamp mee.",
+    "Pak warme kleding in; het is 's nachts koud.",
+    "Reserveer ruim vooraf en vraag wat het eten kost."
+   ],
+   "en": [
+    "Bring a sleeping bag and a headlamp.",
+    "Pack warm clothing; nights are cold.",
+    "Book well ahead and ask what meals cost."
+   ],
+   "de": [
+    "Schlafsack und Stirnlampe mitnehmen.",
+    "Warme Kleidung einpacken; die Nächte sind kalt.",
+    "Früh buchen und nach den Preisen fürs Essen fragen."
+   ]
+  },
+  "practical": {
+   "nl": "Het Markbachjoch is vanuit Niederau bereikbaar met de gondel of te voet. Informeer naar de hut, het aanmelden en de route.",
+   "en": "The Markbachjoch can be reached from Niederau by gondola or on foot. Ask about the hut, registration and route.",
+   "de": "Das Markbachjoch ist von Niederau mit der Gondel oder zu Fuß erreichbar. Nach Hütte, Anmeldung und Route fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From about 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Overnachting",
+    "en": "Overnight",
+    "de": "Übernachtung"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Markbachjoch, Niederau",
+   "en": "Markbachjoch, Niederau",
+   "de": "Markbachjoch, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet je reserveren?",
+     "en": "Do you have to book?",
+     "de": "Muss man reservieren?"
+    },
+    "a": {
+     "nl": "Ja, vooraf reserveren is verstandig; de plekken zijn beperkt.",
+     "en": "Yes, booking ahead is wise; places are limited.",
+     "de": "Ja, eine Reservierung ist ratsam; die Plätze sind begrenzt."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Overnachting Berghut",
+  "_orig_loc": "Markbachjoch Hütte"
+ },
+ {
+  "id": "s39",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "niederau",
+  "slug_en": "slackline-niederau",
+  "slug_de": "slackline-niederau",
+  "title": {
+   "nl": "Slacklinen in Niederau",
+   "en": "Slacklining in Niederau",
+   "de": "Slacklinen in Niederau"
+  },
+  "tagline": {
+   "nl": "Balanceren op een band, voor jong en oud",
+   "en": "Balancing on a line, for young and old",
+   "de": "Balancieren auf dem Band für Jung und Alt"
+  },
+  "intro": {
+   "nl": "Slacklinen is balanceren op een smalle, elastische band tussen twee bomen of palen. Het lijkt moeilijker dan het is, en kinderen leren er balans en concentratie mee. Volgens de bron zijn er bij het sportgedeelte van Niederau meerdere lijnen op verschillende hoogtes, dicht bij de tennisbanen.\n\nOf de lijnen er permanent staan en vrij te gebruiken zijn, is niet bevestigd. Neem anders zelf een slackline mee en gebruik die op een veilige plek met gezonde bomen. Begin laag boven de grond en houd je armen opzij voor het evenwicht. Het is gratis en past in een vrij uur.",
+   "en": "Slacklining means balancing on a narrow, elastic band between two trees or posts. It looks harder than it is, and children learn balance and concentration. According to the source there are several lines at different heights at Niederau's sports area, close to the tennis courts.\n\nWhether the lines are permanently installed and free to use is not confirmed. Otherwise bring your own slackline and use it in a safe spot with healthy trees. Start low above the ground and keep your arms out to the sides for balance. It is free and fits an idle hour.",
+   "de": "Slacklinen heißt, auf einem schmalen, elastischen Band zwischen zwei Bäumen oder Pfosten zu balancieren. Es sieht schwieriger aus, als es ist, und Kinder üben Balance und Konzentration. Laut Quelle gibt es am Sportbereich von Niederau mehrere Leinen in unterschiedlicher Höhe, nahe den Tennisplätzen.\n\nOb die Leinen dauerhaft installiert und frei nutzbar sind, ist nicht bestätigt. Sonst eine eigene Slackline mitbringen und an einem sicheren Ort mit gesunden Bäumen nutzen. Niedrig über dem Boden beginnen und die Arme seitlich halten. Es ist kostenlos und passt in eine freie Stunde."
+  },
+  "tips": {
+   "nl": [
+    "Begin laag boven de grond.",
+    "Loop op blote voeten of in dunne schoenen.",
+    "Houd je armen opzij voor balans."
+   ],
+   "en": [
+    "Start low above the ground.",
+    "Go barefoot or in thin shoes.",
+    "Keep your arms out for balance."
+   ],
+   "de": [
+    "Niedrig über dem Boden beginnen.",
+    "Barfuß oder in dünnen Schuhen gehen.",
+    "Die Arme seitlich für das Gleichgewicht halten."
+   ]
+  },
+  "practical": {
+   "nl": "Het sportgedeelte ligt in Niederau, op ca. 10 minuten lopen van veel accommodaties. Vraag bij de toeristische dienst of de lijnen beschikbaar zijn.",
+   "en": "The sports area is in Niederau, about a 10-minute walk from many accommodations. Ask the tourist office whether the lines are available.",
+   "de": "Der Sportbereich liegt in Niederau, ca. 10 Gehminuten von vielen Unterkünften. Beim Tourismusbüro nachfragen, ob die Leinen verfügbar sind."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 5 jaar",
+    "en": "From about 5 years",
+    "de": "Ab ca. 5 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Niederau",
+   "en": "Niederau",
+   "de": "Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kost het iets?",
+     "en": "Does it cost anything?",
+     "de": "Kostet es etwas?"
+    },
+    "a": {
+     "nl": "Volgens de bron niet; bevestig dat ter plekke.",
+     "en": "According to the source it is free; confirm on site.",
+     "de": "Laut Quelle kostenlos; vor Ort bestätigen."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Slackline Park",
+  "_orig_loc": "Sportpark Niederau"
+ }
+]

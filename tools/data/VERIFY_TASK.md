@@ -2,7 +2,7 @@
 
 Lees eerst `/home/user/niederau/tools/data/SPEC.md` (regels; let op: eigen woorden, voorzichtige feiten).
 
-Input: `/home/user/niederau/tools/data/in2/vN.json` (≈15 items). Elk item is de huidige, nog onbevestigde pagina-inhoud (schema zoals in `ACT_TASK.md`; extra velden `_theme`, `_season`, `_orig_title`, `_orig_loc` zijn hulpinfo).
+Input: `/home/user/niederau/tools/data/in2/ of /in3/vN.json` (≈15 items). Elk item is de huidige, nog onbevestigde pagina-inhoud (schema zoals in `ACT_TASK.md`; extra velden `_theme`, `_season`, `_orig_title`, `_orig_loc` zijn hulpinfo).
 
 **Zoekbudget (streng):** je mag in totaal maximaal 16 WebSearch-aanroepen doen (`mode: "standard"`), ongeveer één per item; dit budget is gedeeld met andere agents, dus overschrijd het niet. Zoek gericht (naam + plaats + "Tirol"). Gebruik WebFetch niet (geblokkeerd).
 

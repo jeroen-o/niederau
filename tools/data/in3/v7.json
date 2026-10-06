@@ -1,0 +1,1390 @@
+[
+ {
+  "id": "s141",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ellmau",
+  "slug_en": "ellmis-zauberwelt-ellmau",
+  "slug_de": "ellmis-zauberwelt-ellmau",
+  "title": {
+   "nl": "Ellmi’s Zauberwelt Ellmau",
+   "en": "Ellmi’s Zauberwelt, Ellmau",
+   "de": "Ellmi’s Zauberwelt Ellmau"
+  },
+  "tagline": {
+   "nl": "Sprookjesachtig speelparadijs op de Hartkaiser",
+   "en": "A fairy-tale adventure world on the Hartkaiser",
+   "de": "Märchenhafte Erlebniswelt am Hartkaiser"
+  },
+  "intro": {
+   "nl": "Ellmi’s Zauberwelt ligt bij het bergstation van de Hartkaiserbahn, op ruim 1.500 meter hoogte boven Ellmau. Het thema is Ellmi, een tovenaarskikker wiens mislukte toverspreuken voor vreemde dingen zorgen: omgekeerde bomen, koboldstemmen, een betoverd bos en een verwunschen vijver.\n\nNaast de speurtocht langs deze plekken is er een grote speelplaats met trampolines, glijbanen, een klimpark en een sprookjesbos vol geluiden. Het plateau bij het bergstation is geschikt voor kinderwagens, dus ook gezinnen met peuters kunnen er terecht. Reken op een halve tot hele dag, afhankelijk van de leeftijd van de kinderen.",
+   "en": "Ellmi’s Zauberwelt sits next to the top station of the Hartkaiserbahn, more than 1,500 metres above Ellmau. The theme is Ellmi, a wizard frog whose failed spells cause strange things: upside-down trees, goblin voices, an enchanted forest and a bewitched pond.\n\nBesides the trail past these spots, there is a large playground with trampolines, slides, a climbing park and a fairy-tale wood full of sounds. The plateau at the top station is suitable for pushchairs, so families with toddlers are welcome too. Plan on half a day or a full day, depending on the children’s ages.",
+   "de": "Ellmi’s Zauberwelt liegt an der Bergstation der Hartkaiserbahn, auf über 1.500 Metern über Ellmau. Im Mittelpunkt steht Ellmi, ein Zauberfrosch, dessen misslungene Zaubersprüche für Überraschungen sorgen: verkehrte Bäume, Koboldstimmen, ein Zauberwald und ein verwunschener Teich.\n\nNeben dem Rundweg zu diesen Stationen gibt es einen großen Spielplatz mit Trampolinen, Rutschen, Kletterpark und einem Märchenwald voller Geräusche. Das Plateau an der Bergstation ist kinderwagentauglich, auch Familien mit Kleinkindern sind also gut aufgehoben. Je nach Alter der Kinder reicht der Besuch für einen halben oder ganzen Tag. Wer mag, kann die Tour mit einer Rast an einer Hütte verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Neem een jasje mee; het kan boven frisser zijn dan in het dal.",
+    "Kies stevige schoenen, ook al zijn de meeste paden rustig te lopen.",
+    "Voor kleine kinderen is de plek met een kinderwagen goed te doen.",
+    "Zin in een lunch? Neem een picknick mee of plan een stop bij een berghut."
+   ],
+   "en": [
+    "Take a jacket; it can be cooler up top than in the valley.",
+    "Wear sturdy shoes, even though most paths are easy.",
+    "The area works well with a pushchair for little ones.",
+    "Pack a picnic or plan a stop at a mountain hut for lunch."
+   ],
+   "de": [
+    "Nimm eine Jacke mit; oben ist es oft kühler als im Tal.",
+    "Feste Schuhe sind ratsam, auch wenn die meisten Wege einfach sind.",
+    "Mit Kinderwagen ist das Gelände für die Kleinen gut machbar.",
+    "Packe ein Picknick ein oder plane eine Einkehr in einer Hütte."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau rijd je in ca. 40 minuten naar Ellmau, via Wörgl en Söll. Daar neem je de Hartkaiserbahn omhoog; de speelwereld ligt direct bij het bergstation. Het park is volgens de regio in de zomer dagelijks open; controleer vooraf de actuele tijden en liftprijzen.",
+   "en": "From Niederau it is about 40 minutes by car to Ellmau, via Wörgl and Söll. Take the Hartkaiserbahn gondola up; the play world is right by the top station. According to the region it is open daily in summer; check current hours and lift prices beforehand.",
+   "de": "Von Niederau fährt man in ca. 40 Minuten nach Ellmau, über Wörgl und Söll. Dort bringt die Hartkaiserbahn dich nach oben; die Erlebniswelt liegt direkt an der Bergstation. Laut Region ist sie im Sommer täglich geöffnet; aktuelle Zeiten und Bahnpreise vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 2 jaar",
+    "en": "Ages 2 and up",
+    "de": "Ab ca. 2 Jahren"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Ticket voor de gondel; prijs wisselt, informeer vooraf",
+    "en": "Gondola ticket needed; prices vary, check beforehand",
+    "de": "Bergbahnticket nötig; Preise wechseln, vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Ellmau, Hartkaiser (Wilder Kaiser)",
+   "en": "Ellmau, Hartkaiser (Wilder Kaiser)",
+   "de": "Ellmau, Hartkaiser (Wilder Kaiser)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Ellmi’s Zauberwelt geschikt voor een kinderwagen?",
+     "en": "Is Ellmi’s Zauberwelt suitable for pushchairs?",
+     "de": "Ist Ellmi’s Zauberwelt kinderwagentauglich?"
+    },
+    "a": {
+     "nl": "Het plateau bij het bergstation en de meeste paden zijn geschikt voor kinderwagens.",
+     "en": "The plateau by the top station and most paths are suitable for pushchairs.",
+     "de": "Das Plateau an der Bergstation und die meisten Wege sind kinderwagentauglich."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Ellmi’s Zauberwelt Ellmau",
+  "_orig_loc": "Ellmau (25 min)"
+ },
+ {
+  "id": "s158",
+  "drop": false,
+  "drop_reason": "",
+  "place": "jenbach",
+  "slug_en": "achensee-boat-trip",
+  "slug_de": "achensee-schifffahrt",
+  "title": {
+   "nl": "Schip over het Achensee",
+   "en": "Boat trip on Lake Achensee",
+   "de": "Schifffahrt auf dem Achensee"
+  },
+  "tagline": {
+   "nl": "Rondvaart tussen Karwendel en Rofan",
+   "en": "A cruise between the Karwendel and Rofan mountains",
+   "de": "Rundfahrt zwischen Karwendel und Rofan"
+  },
+  "intro": {
+   "nl": "Sinds 1887 varen er schepen over het Achensee, het grootste meer van Tirol. De eerste boot was het stoomschip St. Josef, dat de abt van het klooster Fiecht liet bouwen. Tegenwoordig doen moderne schepen dienst, zoals de motorboot Tirol uit 1995 die plaats biedt aan 600 passagiers en toegankelijk is voor rolstoelgebruikers.\n\nOp het water zie je het smaragdgroene meer omringd door de steile wanden van Karwendel en Rofan. Je kunt een rondvaart maken of op- en uitstappen bij een van de aanlegplaatsen langs de oever, bijvoorbeeld om te wandelen. Voor kinderen is het varen zelf al een belevenis, en bij mooi weer is het uitzicht schitterend.",
+   "en": "Boats have sailed on Lake Achensee, Tyrol’s largest lake, since 1887. The first vessel was the steamship St. Josef, built on the initiative of the abbot of Fiecht Abbey. Today modern ships run the service, such as the motor ship Tirol from 1995, which carries up to 600 passengers and is accessible for wheelchair users.\n\nOut on the water you see the emerald-green lake framed by the steep walls of the Karwendel and Rofan ranges. You can take a round trip or hop on and off at one of the landing stages along the shore, for example to go for a walk. For children the boat ride is an outing in itself, and in good weather the views are superb.",
+   "de": "Seit 1887 fahren Schiffe über den Achensee, den größten See Tirols. Das erste Schiff war der Dampfer St. Josef, den der Abt des Stifts Fiecht in Auftrag gab. Heute sind moderne Schiffe im Einsatz, etwa das Motorschiff Tirol von 1995 mit Platz für 600 Fahrgäste und rollstuhlgerechter Ausstattung.\n\nAuf dem Wasser siehst du den smaragdgrünen See, umrahmt von den steilen Wänden von Karwendel und Rofan. Du kannst eine Rundfahrt machen oder an einer der Anlegestellen am Ufer aus- und zusteigen, zum Beispiel für eine Wanderung. Für Kinder ist die Fahrt selbst schon ein Erlebnis, und bei schönem Wetter ist die Aussicht prächtig."
+  },
+  "tips": {
+   "nl": [
+    "Combineer de boot met de Achenseebahn of de Rofanbahn voor een volle dag.",
+    "Neem een windjack mee; op het water waait het vaak.",
+    "Kijk vooraf naar de dienstregeling; de vaartijden wisselen per seizoen.",
+    "Stap tussendoor uit voor een wandeling langs de oever."
+   ],
+   "en": [
+    "Combine the boat with the Achenseebahn or the Rofanbahn for a full day.",
+    "Bring a windproof jacket; it is often breezy on the water.",
+    "Check the timetable beforehand; sailing times vary by season.",
+    "Hop off for a walk along the shore."
+   ],
+   "de": [
+    "Kombiniere das Schiff mit der Achenseebahn oder der Rofanbahn für einen ganzen Tag.",
+    "Eine windfeste Jacke ist ratsam, auf dem Wasser weht oft Wind.",
+    "Den Fahrplan vorab prüfen; die Zeiten wechseln je nach Saison.",
+    "Zwischendurch aussteigen und am Ufer wandern."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 55 minuten rijden naar het Achensee, via de A12 en Jenbach. Bij Seespitz (Maurach) sluit de Achenseebahn aan op de aanlegplaats. Informeer vooraf naar dienstregeling en tarieven.",
+   "en": "From Niederau it is about 55 minutes by car to Lake Achensee, via the A12 and Jenbach. At Seespitz (Maurach) the Achenseebahn connects with the landing stage. Check timetable and fares beforehand.",
+   "de": "Von Niederau sind es ca. 55 Minuten Fahrt zum Achensee, über die A12 und Jenbach. In Seespitz (Maurach) schließt die Achenseebahn an die Schiffsanlegestelle an. Fahrplan und Tarife vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur, afhankelijk van de tocht",
+    "en": "Approx. 1 to 2 hours, depending on the trip",
+    "de": "Ca. 1 bis 2 Stunden, je nach Fahrt"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "Approx. 55 min by car",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ook buiten het hoogseizoen)",
+    "en": "Summer (also outside peak season)",
+    "de": "Sommer (auch außerhalb der Hauptsaison)"
+   }
+  },
+  "location": {
+   "nl": "Achensee, Tirol",
+   "en": "Lake Achensee, Tyrol",
+   "de": "Achensee, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Sinds wanneer vaart er een schip op het Achensee?",
+     "en": "Since when has there been a boat service on Lake Achensee?",
+     "de": "Seit wann fahren Schiffe auf dem Achensee?"
+    },
+    "a": {
+     "nl": "Sinds 1887, toen het stoomschip St. Josef in dienst kwam.",
+     "en": "Since 1887, when the steamship St. Josef entered service.",
+     "de": "Seit 1887, als der Dampfer St. Josef in Dienst gestellt wurde."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Achterbahn-veerdienst op het Achensee",
+  "_orig_loc": "Achensee (45 min)"
+ },
+ {
+  "id": "s159",
+  "drop": false,
+  "drop_reason": "",
+  "place": "jenbach",
+  "slug_en": "achenseebahn-cog-railway",
+  "slug_de": "achenseebahn-zahnradbahn",
+  "title": {
+   "nl": "Achenseebahn stoomtandradbaan",
+   "en": "Achenseebahn steam cog railway",
+   "de": "Achenseebahn Dampfzahnradbahn"
+  },
+  "tagline": {
+   "nl": "Historische stoomtrein van Jenbach naar het Achensee",
+   "en": "Historic steam train from Jenbach to Lake Achensee",
+   "de": "Historische Dampfzahnradbahn von Jenbach zum Achensee"
+  },
+  "intro": {
+   "nl": "De Achenseebahn is een smalspoor-tandradbaan die sinds 1889 rijdt en geldt als de oudste stoomtandradbaan van Europa. De lijn is 6,8 kilometer lang en klimt ongeveer 440 meter, met hellingen tot circa 16 procent, van Jenbach naar halte Seespitz bij het Achensee.\n\nDe rit duurt ongeveer een uur en wordt nog altijd met stoomlocomotieven gereden. De trein werd gered en geherstructureerd, en volgens de provincie is de exploitatievergunning verlengd tot 2034. Voor kinderen is de stomende locomotief het hoogtepunt; volwassenen genieten van het bos en het uitzicht onderweg. Plan ruim de tijd en kijk vooraf even naar het weer en de actuele informatie, zodat het bezoek ontspannen verloopt.",
+   "en": "The Achenseebahn is a narrow-gauge cog railway running since 1889, and is regarded as Europe’s oldest steam-operated cog railway. The line is 6.8 kilometres long and climbs about 440 metres, with gradients up to roughly 16 per cent, from Jenbach to the Seespitz stop at Lake Achensee.\n\nThe ride takes about an hour and is still hauled by steam locomotives. The railway was rescued and restructured, and according to the Tyrolean government its operating licence has been extended to 2034. For children the steaming locomotive is the highlight; adults enjoy the forest and views along the way.",
+   "de": "Die Achenseebahn ist eine Schmalspur-Zahnradbahn, die seit 1889 fährt und als älteste dampfbetriebene Zahnradbahn Europas gilt. Die Strecke ist 6,8 Kilometer lang und überwindet rund 440 Höhenmeter bei Steigungen von bis zu etwa 16 Prozent, von Jenbach zur Haltestelle Seespitz am Achensee.\n\nDie Fahrt dauert etwa eine Stunde und wird weiterhin mit Dampflokomotiven bewältigt. Die Bahn wurde gerettet und neu aufgestellt; laut Land Tirol ist die Betriebskonzession bis 2034 verlängert. Für Kinder ist die dampfende Lok das Highlight, Erwachsene genießen Wald und Aussicht. Plane reichlich Zeit ein und prüfe vorab Wetter und aktuelle Informationen, damit der Besuch entspannt verläuft."
+  },
+  "tips": {
+   "nl": [
+    "Combineer de trein met de boot op het Achensee voor een volle dag.",
+    "Controleer vooraf de rijdagen; het is een historische lijn met een eigen dienstregeling.",
+    "Kom op tijd; de treinen zijn bij mooi weer vaak druk.",
+    "Neem een extra laagje mee, boven bij het meer is het frisser."
+   ],
+   "en": [
+    "Combine the train with the boat on Lake Achensee for a full day.",
+    "Check the running days beforehand; this heritage line has its own timetable.",
+    "Arrive in good time; trains are often busy in nice weather.",
+    "Bring an extra layer; it is cooler up at the lake."
+   ],
+   "de": [
+    "Kombiniere die Bahn mit dem Schiff auf dem Achensee für einen ganzen Tag.",
+    "Fahrtage vorab prüfen; die historische Bahn hat einen eigenen Fahrplan.",
+    "Komm rechtzeitig; bei Schönwetter sind die Züge oft voll.",
+    "Eine zusätzliche Schicht einpacken, am See ist es kühler."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Jenbach in ca. 40 minuten te bereiken via de A12; het station van de Achenseebahn ligt bij het hoofdstation. Je kunt er ook met de trein komen. Controleer vooraf de rijdagen en tarieven.",
+   "en": "From Niederau, Jenbach is about 40 minutes away via the A12; the Achenseebahn station is next to the main station. You can also arrive by train. Check running days and fares beforehand.",
+   "de": "Von Niederau erreichst du Jenbach in ca. 40 Minuten über die A12; der Bahnhof der Achenseebahn liegt beim Hauptbahnhof. Auch die Anreise mit dem Zug ist möglich. Fahrtage und Preise vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur enkele reis",
+    "en": "Approx. 1 hour one way",
+    "de": "Ca. 1 Stunde einfache Fahrt"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden naar Jenbach",
+    "en": "Approx. 40 min by car to Jenbach",
+    "de": "Ca. 40 Min. Fahrt nach Jenbach"
+   },
+   "season": {
+    "nl": "Zomer (vanaf eind april)",
+    "en": "Summer (from late April)",
+    "de": "Sommer (ab Ende April)"
+   }
+  },
+  "location": {
+   "nl": "Jenbach tot Achensee, Tirol",
+   "en": "Jenbach to Lake Achensee, Tyrol",
+   "de": "Jenbach bis Achensee, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang duurt de rit met de Achenseebahn?",
+     "en": "How long is the Achenseebahn ride?",
+     "de": "Wie lange dauert die Fahrt mit der Achenseebahn?"
+    },
+    "a": {
+     "nl": "De rit van Jenbach naar het Achensee duurt ongeveer een uur.",
+     "en": "The ride from Jenbach to Lake Achensee takes about an hour.",
+     "de": "Die Fahrt von Jenbach zum Achensee dauert etwa eine Stunde."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Achenseebahn tandradtrein Jenbach",
+  "_orig_loc": "Jenbach / Achensee (40 min)"
+ },
+ {
+  "id": "s192",
+  "drop": false,
+  "drop_reason": "",
+  "place": "koessen",
+  "slug_en": "zahmer-kaiser-leisure-park-koessen",
+  "slug_de": "freizeitpark-zahmer-kaiser-koessen",
+  "title": {
+   "nl": "Freizeitpark Zahmer Kaiser Kössen",
+   "en": "Zahmer Kaiser leisure park, Kössen",
+   "de": "Freizeitpark Zahmer Kaiser Kössen"
+  },
+  "tagline": {
+   "nl": "Trampolines en airbag-springen in het Kaiserwinkl",
+   "en": "Trampolines and airbag jumping in the Kaiserwinkl",
+   "de": "Trampoline und Bagjump im Kaiserwinkl"
+  },
+  "intro": {
+   "nl": "In Kössen, in de regio Kaiserwinkl, ligt het Freizeitpark Zahmer Kaiser. De blikvanger is een grote trampoline-installatie met zes springvlakken, waar je salto’s en andere sprongen kunt oefenen. Daarnaast zijn er Bagjump-airbags, waarop je zacht landt na een sprong.\n\nDe regio is erg gericht op gezinnen en de Zahmer Kaiser-bergbahn in de buurt heeft ook activiteiten voor kinderen. Het park is vooral leuk voor kinderen en tieners met veel energie. Welke attracties precies geopend zijn en wat ze kosten, wisselt; kijk dus vooraf op de website van het park of bij de toeristenbalie van Kössen.",
+   "en": "The Freizeitpark Zahmer Kaiser is in Kössen, in the Kaiserwinkl region. The eye-catcher is a large trampoline facility with six jumping surfaces, where you can practise somersaults and other tricks. There are also Bagjump airbags that give a soft landing after a jump.\n\nThe region is very family-oriented, and the nearby Zahmer Kaiser cable car also offers activities for children. The park is mostly fun for energetic children and teens. Which attractions are open and what they cost can change, so check the park’s website or the Kössen tourist office beforehand.",
+   "de": "In Kössen im Kaiserwinkl liegt der Freizeitpark Zahmer Kaiser. Blickfang ist eine große Trampolinanlage mit sechs Sprungflächen, auf der man Saltos und andere Sprünge üben kann. Dazu gibt es Bagjump-Airbags, auf denen man nach dem Sprung weich landet.\n\nDie Region ist stark auf Familien ausgerichtet, und auch die nahe Bergbahn Zahmer Kaiser bietet Aktivitäten für Kinder. Der Park macht vor allem energiegeladenen Kindern und Teenagern Spaß. Welche Attraktionen geöffnet sind und was sie kosten, kann wechseln; vorab auf der Website des Parks oder beim Tourismusbüro Kössen nachfragen. Plane reichlich Zeit ein und prüfe vorab Wetter und aktuelle Informationen, damit der Besuch entspannt verläuft."
+  },
+  "tips": {
+   "nl": [
+    "Draag sportieve kleding en schone sokken voor de trampolines.",
+    "Controleer vooraf de openingstijden en minimumleeftijd per attractie.",
+    "Combineer met de bergbahn Zahmer Kaiser voor een volledig dagje.",
+    "Neem iets te drinken mee; springen maakt dorstig."
+   ],
+   "en": [
+    "Wear sports clothes and clean socks for the trampolines.",
+    "Check opening times and minimum age per attraction beforehand.",
+    "Combine with the Zahmer Kaiser cable car for a full day out.",
+    "Bring something to drink; jumping is thirsty work."
+   ],
+   "de": [
+    "Sportliche Kleidung und saubere Socken für die Trampoline anziehen.",
+    "Öffnungszeiten und Mindestalter pro Attraktion vorab prüfen.",
+    "Mit der Bergbahn Zahmer Kaiser zu einem ganzen Ausflugstag verbinden.",
+    "Etwas zu trinken mitnehmen; Springen macht durstig."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Kössen in ca. 55 minuten te bereiken, via Wörgl en Kufstein of Walchsee. Kössen ligt vlak bij de Duitse grens. Informeer vooraf naar openingstijden en prijzen.",
+   "en": "From Niederau, Kössen is about 55 minutes away, via Wörgl and Kufstein or Walchsee. Kössen is close to the German border. Check opening times and prices beforehand.",
+   "de": "Von Niederau erreichst du Kössen in ca. 55 Minuten, über Wörgl und Kufstein oder Walchsee. Kössen liegt nahe der deutschen Grenze. Öffnungszeiten und Preise vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kinderen en tieners",
+    "en": "Children and teens",
+    "de": "Kinder und Jugendliche"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "Approx. 55 min by car",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer; informeer naar openingstijden",
+    "en": "Summer; check opening times",
+    "de": "Sommer; Öffnungszeiten erfragen"
+   }
+  },
+  "location": {
+   "nl": "Kössen, Kaiserwinkl",
+   "en": "Kössen, Kaiserwinkl",
+   "de": "Kössen, Kaiserwinkl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat kun je doen in het Freizeitpark Zahmer Kaiser?",
+     "en": "What can you do at the Zahmer Kaiser leisure park?",
+     "de": "Was kann man im Freizeitpark Zahmer Kaiser machen?"
+    },
+    "a": {
+     "nl": "Onder meer springen op een trampoline-installatie met zes springvlakken en op Bagjump-airbags.",
+     "en": "Among other things, jump on a trampoline facility with six surfaces and on Bagjump airbags.",
+     "de": "Unter anderem auf einer Trampolinanlage mit sechs Sprungflächen und auf Bagjump-Airbags springen."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Erlebnispark Zahmer Kaiser (Kössen)",
+  "_orig_loc": "Kössen, Kaiserwinkl (35 min)"
+ },
+ {
+  "id": "s202",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "salvenaland-hopfgarten",
+  "slug_de": "salvenaland-hopfgarten",
+  "title": {
+   "nl": "Salvenaland Hopfgarten",
+   "en": "Salvenaland Hopfgarten",
+   "de": "Salvenaland Hopfgarten"
+  },
+  "tagline": {
+   "nl": "Speelpark met zwemmeer in het Brixental",
+   "en": "Leisure park with a bathing lake in the Brixental",
+   "de": "Freizeitpark mit Badesee im Brixental"
+  },
+  "intro": {
+   "nl": "Salvenaland is een recreatiepark met zwemmeer in Hopfgarten im Brixental, bedoeld voor gezinnen met kinderen. Het meer heeft onder meer een ijsberg, een moonwalk, een waterwip en een glijbaan. Op het aangrenzende terrein vind je een speeltuin met een zomerrodelbaan, minigolf, een minikartbaan en een groot springkussen.\n\nOok zijn er velden voor volleybal en basketbal en een skatepark. Zo is er voor kinderen van verschillende leeftijden iets te doen, en kunnen ouders aan het water ontspannen. Het park is volgens gidsen in de zomermaanden open; controleer vooraf de actuele tijden.",
+   "en": "Salvenaland is a leisure park with a bathing lake in Hopfgarten im Brixental, aimed at families with children. The lake has features such as an iceberg, a moonwalk, a water seesaw and a slide. The adjoining grounds hold a playground with a summer toboggan run, mini golf, a mini-kart track and a large bouncy castle.\n\nThere are also volleyball and basketball courts and a skate park. So children of different ages have something to do while parents relax by the water. According to guides the park is open in the summer months; check current times beforehand.",
+   "de": "Das Salvenaland ist ein Freizeitpark mit Badesee in Hopfgarten im Brixental, ausgerichtet auf Familien mit Kindern. Im See gibt es unter anderem einen Eisberg, einen Moonwalk, eine Wasserwippe und eine Rutsche. Auf dem angrenzenden Gelände findest du einen Spielplatz mit Sommerrodelbahn, Minigolf, eine Minikartbahn und eine große Hüpfburg.\n\nAußerdem gibt es Volleyball- und Basketballfelder sowie einen Skatepark. So haben Kinder verschiedener Altersstufen etwas zu tun, und die Eltern können am Wasser entspannen. Laut Reiseführern ist der Park in den Sommermonaten geöffnet; aktuelle Zeiten vorab prüfen. Plane reichlich Zeit ein und prüfe vorab Wetter und aktuelle Informationen, damit der Besuch entspannt verläuft."
+  },
+  "tips": {
+   "nl": [
+    "Neem zwemkleding en een handdoek mee voor het meer.",
+    "Kies een warme dag; het water is dan het leukst.",
+    "Controleer de leeftijdsgrenzen bij de kart- en rodelbaan.",
+    "Reken op een halve tot hele dag."
+   ],
+   "en": [
+    "Bring swimwear and a towel for the lake.",
+    "Pick a warm day; the water is most fun then.",
+    "Check age limits for the kart and toboggan tracks.",
+    "Plan on half a day to a full day."
+   ],
+   "de": [
+    "Badesachen und Handtuch für den See mitbringen.",
+    "Einen warmen Tag wählen; dann macht das Wasser am meisten Spaß.",
+    "Altersgrenzen für Kart- und Rodelbahn prüfen.",
+    "Einen halben bis ganzen Tag einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Hopfgarten in ca. 25 minuten rijden. Je kunt ook fietsen of wandelen langs de panoramaroute. Informeer vooraf naar tarieven en openingstijden.",
+   "en": "From Niederau, Hopfgarten is about 25 minutes by car. You can also cycle or walk along the panorama route. Check prices and opening times beforehand.",
+   "de": "Von Niederau sind es ca. 25 Minuten Fahrt nach Hopfgarten. Auch mit dem Rad oder zu Fuß über die Panoramaroute erreichbar. Preise und Öffnungszeiten vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinnen met kinderen",
+    "en": "Families with children",
+    "de": "Familien mit Kindern"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min by car",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij Salvenaland zwemmen?",
+     "en": "Can you swim at Salvenaland?",
+     "de": "Kann man im Salvenaland baden?"
+    },
+    "a": {
+     "nl": "Ja, het park heeft een zwemmeer met onder meer een ijsberg, moonwalk en glijbaan.",
+     "en": "Yes, the park has a bathing lake with features such as an iceberg, moonwalk and slide.",
+     "de": "Ja, der Park hat einen Badesee mit unter anderem Eisberg, Moonwalk und Rutsche."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Freizeitpark Hopfgarten (Brixentaler Kinderland)",
+  "_orig_loc": "Hopfgarten (20 min)"
+ },
+ {
+  "id": "s235",
+  "drop": false,
+  "drop_reason": "",
+  "place": "koessen",
+  "slug_en": "winklmoosalm-reit-im-winkl",
+  "slug_de": "winklmoosalm-reit-im-winkl",
+  "title": {
+   "nl": "Winklmoosalm en Dürrnbachhorn",
+   "en": "Winklmoosalm and Dürrnbachhorn",
+   "de": "Winklmoosalm und Dürrnbachhorn"
+  },
+  "tagline": {
+   "nl": "Wandelen boven Reit im Winkl, net over de Duitse grens",
+   "en": "Mountain walks above Reit im Winkl, just over the German border",
+   "de": "Wandern oberhalb von Reit im Winkl, direkt hinter der Grenze"
+  },
+  "intro": {
+   "nl": "De Winklmoosalm ligt in de Chiemgauer Alpen boven Reit im Winkl, net over de grens in Beieren. In de zomer is het een uitgangspunt voor wandelingen en mountainbiketochten. Een populaire wandeling voert naar de Dürrnbachhorn (1.776 m), die ook met kinderen te doen is.\n\nEen enkele stoeltjeslift uit 1959 verbindt de Winklmoosalm (ca. 1.190 m) met het hoger gelegen deel op ca. 1.610 m. Vanaf Seegatterl leidt een tolweg naar de alm; 's zomers kom je er dus gemakkelijk met de auto, 's winters alleen met de lift of een taxi. Op de alm is een berghut te vinden voor een rustpauze.",
+   "en": "The Winklmoosalm lies in the Chiemgau Alps above Reit im Winkl, just across the border in Bavaria. In summer it is a starting point for hikes and mountain-bike tours. A popular walk leads to the Dürrnbachhorn (1,776 m), which is doable with children.\n\nA single-seat chairlift dating from 1959 links the Winklmoosalm (about 1,190 m) with the upper area at about 1,610 m. From Seegatterl a toll road leads up to the alp, so in summer you can easily drive there, while in winter access is only by lift or taxi. There is a mountain hut on the alp for a break.",
+   "de": "Die Winklmoosalm liegt in den Chiemgauer Alpen oberhalb von Reit im Winkl, gleich hinter der Grenze in Bayern. Im Sommer ist sie Ausgangspunkt für Wanderungen und Mountainbike-Touren. Eine beliebte Wanderung führt auf das Dürrnbachhorn (1.776 m), das sich auch mit Kindern gehen lässt.\n\nEin Einersessellift von 1959 verbindet die Winklmoosalm (ca. 1.190 m) mit dem oberen Bereich auf ca. 1.610 m. Von Seegatterl führt eine Mautstraße zur Alm; im Sommer ist sie also bequem mit dem Auto erreichbar, im Winter nur mit der Bahn oder per Taxi. Auf der Alm gibt es eine Hütte für eine Pause."
+  },
+  "tips": {
+   "nl": [
+    "Neem wandelschoenen en regenkleding mee; het weer in de bergen wisselt snel.",
+    "Houd rekening met tol voor de weg naar de alm.",
+    "Kies een korte wandeling als je kleine kinderen hebt.",
+    "Neem een geldig identiteitsbewijs mee voor de grensovergang."
+   ],
+   "en": [
+    "Bring hiking boots and rain gear; mountain weather changes fast.",
+    "Allow for the toll on the road up to the alp.",
+    "Choose a short walk if you have small children.",
+    "Carry valid ID for the border crossing."
+   ],
+   "de": [
+    "Wanderschuhe und Regenkleidung mitnehmen; das Bergwetter wechselt schnell.",
+    "Mit Maut auf der Zufahrtsstraße zur Alm rechnen.",
+    "Mit kleinen Kindern eine kurze Wanderung wählen.",
+    "Gültigen Ausweis für den Grenzübertritt mitführen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau rijd je in ca. 1 uur 10 minuten naar Reit im Winkl, via Kufstein en Kössen. Ga voor Seegatterl en de tolweg naar de alm. Betrouwbare gegevens over zomeropenstelling van de lift ontbreken; informeer vooraf.",
+   "en": "From Niederau it is about 1 hour 10 minutes by car to Reit im Winkl, via Kufstein and Kössen. Head for Seegatterl and the toll road up to the alp. Reliable details on summer operation of the lift are lacking; check beforehand.",
+   "de": "Von Niederau sind es ca. 1 Stunde 10 Minuten Fahrt nach Reit im Winkl, über Kufstein und Kössen. Weiter nach Seegatterl und über die Mautstraße zur Alm. Verlässliche Angaben zum Sommerbetrieb des Lifts fehlen; vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Wandelaars; ook met kinderen te doen",
+    "en": "Walkers; doable with children",
+    "de": "Wanderer; auch mit Kindern machbar"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 10 min rijden",
+    "en": "Approx. 1 hr 10 min by car",
+    "de": "Ca. 1 Std. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Reit im Winkl, Beieren (Duitsland)",
+   "en": "Reit im Winkl, Bavaria (Germany)",
+   "de": "Reit im Winkl, Bayern (Deutschland)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe kom je bij de Winklmoosalm?",
+     "en": "How do you get to the Winklmoosalm?",
+     "de": "Wie kommt man zur Winklmoosalm?"
+    },
+    "a": {
+     "nl": "Vanaf Seegatterl leidt een tolweg naar de alm; in de zomer is dat met de auto te doen.",
+     "en": "From Seegatterl a toll road leads to the alp; in summer you can drive there.",
+     "de": "Von Seegatterl führt eine Mautstraße zur Alm; im Sommer ist sie mit dem Auto befahrbar."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Winklmoosalm gondel Reit im Winkl (Duitsland)",
+  "_orig_loc": "Reit im Winkl, Duitsland (45 min)"
+ },
+ {
+  "id": "s241",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "ruhpolding-leisure-park",
+  "slug_de": "freizeitpark-ruhpolding",
+  "title": {
+   "nl": "Freizeitpark Ruhpolding",
+   "en": "Freizeitpark Ruhpolding",
+   "de": "Freizeitpark Ruhpolding"
+  },
+  "tagline": {
+   "nl": "Familiepark met veel attracties in de Chiemgau",
+   "en": "Family theme park with many attractions in the Chiemgau",
+   "de": "Familienpark mit vielen Attraktionen im Chiemgau"
+  },
+  "intro": {
+   "nl": "Het Freizeitpark Ruhpolding ligt in het Beierse Chiemgau, tussen München en Salzburg. Het is een sprookjes- en avonturenpark met naar eigen opgave zo’n zestig attracties, van de bergachtbaan Gipfelstürmer en een dinosaurusberg tot een kristalmijn en een glijbanenparadijs.\n\nOok de gemoedelijke Bockerlbahn hoort bij het aanbod, zodat zowel jongere als oudere kinderen aan hun trekken komen. Het park is in het seizoen, grofweg van het voorjaar tot in november, geopend. Door de reistijd is het een volledige dagtrip; controleer vooraf de actuele openingstijden en prijzen. Plan ruim de tijd en kijk vooraf even naar het weer en de actuele informatie, zodat het bezoek ontspannen verloopt.",
+   "en": "The Freizeitpark Ruhpolding lies in Bavaria’s Chiemgau, between Munich and Salzburg. It is a fairy-tale and adventure park with around 60 attractions by its own count, from the Gipfelstürmer mountain roller coaster and a dinosaur mountain to a crystal mine and a slide paradise.\n\nThe cosy Bockerlbahn train is part of the offer too, so both younger and older children have plenty to do. The park is open in season, roughly from spring until November. Given the travel time it makes a full day out; check current opening hours and prices beforehand.",
+   "de": "Der Freizeitpark Ruhpolding liegt im bayerischen Chiemgau, zwischen München und Salzburg. Es ist ein Märchen- und Abenteuerpark mit nach eigenen Angaben rund 60 Attraktionen, von der Achterbahn Gipfelstürmer und einem Dinoberg bis zum Kristallbergwerk und Rutschenparadies.\n\nAuch die gemütliche Bockerlbahn gehört zum Angebot, sodass jüngere und ältere Kinder auf ihre Kosten kommen. Der Park ist in der Saison geöffnet, grob vom Frühjahr bis in den November. Wegen der Anfahrt ist es ein ganzer Tagesausflug; aktuelle Öffnungszeiten und Preise vorab prüfen. Plane reichlich Zeit ein und prüfe vorab Wetter und aktuelle Informationen, damit der Besuch entspannt verläuft."
+  },
+  "tips": {
+   "nl": [
+    "Kom vroeg en laat de dag rustig beginnen.",
+    "Neem een regenjas mee, een deel van het park is buiten.",
+    "Kijk vooraf naar de lengte-eisen per attractie.",
+    "Informeer naar gezinstarieven en kindertarieven."
+   ],
+   "en": [
+    "Arrive early and start the day at a relaxed pace.",
+    "Bring a rain jacket, as much of the park is outdoors.",
+    "Check the height requirements per attraction beforehand.",
+    "Ask about family and child rates."
+   ],
+   "de": [
+    "Früh kommen und den Tag ruhig angehen.",
+    "Regenjacke mitnehmen, ein Großteil des Parks liegt im Freien.",
+    "Größenvorgaben pro Attraktion vorab prüfen.",
+    "Nach Familien- und Kindertarifen fragen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Ruhpolding in ca. 1 uur 20 minuten rijden, via Kufstein en de Beierse grens. Het park ligt in Duitsland; neem een identiteitsbewijs mee. Informeer vooraf naar prijzen.",
+   "en": "From Niederau, Ruhpolding is about 1 hour 20 minutes by car, via Kufstein and the Bavarian border. It is in Germany; bring ID. Check prices beforehand.",
+   "de": "Von Niederau sind es ca. 1 Stunde 20 Minuten Fahrt nach Ruhpolding, über Kufstein und die bayerische Grenze. Der Park liegt in Deutschland; Ausweis mitnehmen. Preise vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinnen met kinderen",
+    "en": "Families with children",
+    "de": "Familien mit Kindern"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 20 min rijden",
+    "en": "Approx. 1 hr 20 min by car",
+    "de": "Ca. 1 Std. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Voorjaar tot november",
+    "en": "Spring to November",
+    "de": "Frühjahr bis November"
+   }
+  },
+  "location": {
+   "nl": "Ruhpolding, Beieren (Duitsland)",
+   "en": "Ruhpolding, Bavaria (Germany)",
+   "de": "Ruhpolding, Bayern (Deutschland)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke attracties heeft het Freizeitpark Ruhpolding?",
+     "en": "Which attractions does Freizeitpark Ruhpolding have?",
+     "de": "Welche Attraktionen hat der Freizeitpark Ruhpolding?"
+    },
+    "a": {
+     "nl": "Onder meer de bergachtbaan Gipfelstürmer, een dinosaurusberg, een kristalmijn en een glijbanenparadijs.",
+     "en": "Among others the Gipfelstürmer mountain roller coaster, a dinosaur mountain, a crystal mine and a slide paradise.",
+     "de": "Unter anderem die Achterbahn Gipfelstürmer, ein Dinoberg, ein Kristallbergwerk und ein Rutschenparadies."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Familienpark Ruhpolding (Duitsland, Beieren)",
+  "_orig_loc": "Ruhpolding, Duitsland (45 min)"
+ },
+ {
+  "id": "s56",
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "hexenwasser-soell",
+  "slug_de": "hexenwasser-soell",
+  "title": {
+   "nl": "Hexenwasser Söll",
+   "en": "Hexenwasser Söll",
+   "de": "Hexenwasser Söll"
+  },
+  "tagline": {
+   "nl": "Waterspeelwereld met heksenthema op Hochsöll",
+   "en": "A witch-themed water adventure world on Hochsöll",
+   "de": "Wasser-Erlebniswelt mit Hexenthema auf der Hochsöll"
+  },
+  "intro": {
+   "nl": "Hexenwasser is een belevingswereld rond water op Hochsöll, boven Söll in het Wilder Kaiser-gebied. Je bereikt hem met de gondelbahn Hochsöll. Langs een rondwandeling vanaf het middenstation, via de Stöcklalm en de Simonalm, staan allerlei waterattracties en kleine verrassingen.\n\nEr zijn binnen- en buitenwaterstations, een bijenkorf met imker en een oude boerderij die als heksenhoofdkwartier dient. Zo leren kinderen speels over oude gebruiken en natuurwonderen. Een groot deel is geschikt voor kinderwagens; het blotevoetenpad en enkele themawegen niet. Vanaf hier brengt het tweede deel van de gondel je ook naar de Hohe Salve (1.829 m).",
+   "en": "Hexenwasser is a water-themed adventure world on Hochsöll, above Söll in the Wilder Kaiser area. You reach it by the Hochsöll gondola. A circular walk from the mid-station, past the Stöcklalm and Simonalm, is lined with water attractions and small surprises.\n\nThere are indoor and outdoor water stations, a beehive with a beekeeper, and an old farmhouse serving as a witch’s headquarters. Children learn playfully about old customs and natural wonders. Large parts are pushchair-friendly; the barefoot path and some themed trails are not. From here the second gondola section also takes you to the Hohe Salve (1,829 m).",
+   "de": "Das Hexenwasser ist eine Wasser-Erlebniswelt auf der Hochsöll, oberhalb von Söll im Gebiet Wilder Kaiser. Erreichbar ist sie mit der Gondelbahn Hochsöll. Entlang eines Rundwegs von der Mittelstation über Stöcklalm und Simonalm warten Wasserstationen und kleine Überraschungen.\n\nEs gibt Wasserstationen drinnen und draußen, einen Bienenstock mit Imker und ein altes Bauernhaus als Hexenhauptquartier. Kinder lernen spielerisch alte Bräuche und Naturwunder kennen. Große Teile sind kinderwagentauglich, der Barfußweg und einzelne Themenwege nicht. Von hier führt die zweite Gondelsektion außerdem zur Hohen Salve (1.829 m). Plane reichlich Zeit ein und prüfe vorab Wetter und aktuelle Informationen, damit der Besuch entspannt verläuft."
+  },
+  "tips": {
+   "nl": [
+    "Neem reservekleding mee; kinderen worden hier zeker nat.",
+    "Het blotevoetenpad is niet geschikt voor kinderwagens.",
+    "Combineer met de Hohe Salve als je nog energie hebt.",
+    "Plan een pauze bij de Stöcklalm of Simonalm."
+   ],
+   "en": [
+    "Pack spare clothes; children will certainly get wet here.",
+    "The barefoot path is not suitable for pushchairs.",
+    "Combine with the Hohe Salve if you have energy left.",
+    "Plan a break at the Stöcklalm or Simonalm."
+   ],
+   "de": [
+    "Wechselkleidung einpacken; Kinder werden hier garantiert nass.",
+    "Der Barfußweg ist nicht kinderwagengeeignet.",
+    "Mit der Hohen Salve verbinden, wenn noch Energie da ist.",
+    "Eine Pause an der Stöcklalm oder Simonalm einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Söll in ca. 35 minuten rijden. Parkeer bij het dalstation van de gondelbahn Hochsöll en rijd omhoog naar het Hexenwasser. Informeer vooraf naar openingstijden en prijzen.",
+   "en": "From Niederau, Söll is about 35 minutes by car. Park at the valley station of the Hochsöll gondola and ride up to the Hexenwasser. Check opening times and prices beforehand.",
+   "de": "Von Niederau sind es ca. 35 Minuten Fahrt nach Söll. An der Talstation der Gondelbahn Hochsöll parken und zum Hexenwasser hinauffahren. Öffnungszeiten und Preise vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinnen met kinderen",
+    "en": "Families with children",
+    "de": "Familien mit Kindern"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Gondel; prijs wisselt, informeer vooraf",
+    "en": "Gondola fare; prices vary, check beforehand",
+    "de": "Gondel; Preise wechseln, vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "Approx. 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hochsöll, Söll (Wilder Kaiser)",
+   "en": "Hochsöll, Söll (Wilder Kaiser)",
+   "de": "Hochsöll, Söll (Wilder Kaiser)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe kom je bij het Hexenwasser?",
+     "en": "How do you get to the Hexenwasser?",
+     "de": "Wie kommt man zum Hexenwasser?"
+    },
+    "a": {
+     "nl": "Met de gondelbahn Hochsöll vanuit Söll; vanaf het middenstation loop je een rondje met waterstations.",
+     "en": "By the Hochsöll gondola from Söll; from the mid-station you follow a circular route with water stations.",
+     "de": "Mit der Gondelbahn Hochsöll ab Söll; von der Mittelstation geht es auf einem Rundweg zu den Wasserstationen."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Hexenwasser Söll (Wilder Kaiser)",
+  "_orig_loc": "Söll (35 min)"
+ },
+ {
+  "id": "s60",
+  "drop": false,
+  "drop_reason": "",
+  "place": "jenbach",
+  "slug_en": "rofanseilbahn-achensee",
+  "slug_de": "rofanseilbahn-achensee",
+  "title": {
+   "nl": "Rofanseilbahn Achensee",
+   "en": "Rofanseilbahn, Achensee",
+   "de": "Rofanseilbahn Achensee"
+  },
+  "tagline": {
+   "nl": "Met de kabelbaan naar het Rofangebergte boven het Achensee",
+   "en": "By cable car into the Rofan mountains above Lake Achensee",
+   "de": "Mit der Seilbahn ins Rofangebirge oberhalb des Achensees"
+  },
+  "intro": {
+   "nl": "De Rofanseilbahn vertrekt in Maurach aan het Achensee en brengt je omhoog het Rofangebergte in, bij de Erfurter Hütte op ruim 1.800 meter. Vanaf het bergstation vertrekken veel wandelroutes, van rustige panoramawandelingen tot zware bergtochten naar de omliggende toppen.\n\nVoor kinderen is er de AIRROFAN, een vliegtoestel in de vorm van een adelaar dat zo’n 80 km/u haalt en meer dan 200 meter onder de Gschöllkopf (2.040 m) zweeft. De kabelbaan rijdt in de zomer doorlopend en in het voor- en najaar met aangepaste tijden. Het uitzicht reikt over het meer en de bergen eromheen.",
+   "en": "The Rofanseilbahn starts in Maurach on Lake Achensee and takes you up into the Rofan mountains, near the Erfurter Hütte at over 1,800 metres. Many walking routes start from the top station, from gentle panoramic walks to demanding mountain tours to the surrounding peaks.\n\nFor children there is the AIRROFAN, an eagle-shaped flying device that reaches around 80 km/h and glides more than 200 metres below the Gschöllkopf (2,040 m). In summer the cable car runs continuously, with adjusted hours in spring and autumn. The views stretch over the lake and the mountains around it.",
+   "de": "Die Rofanseilbahn startet in Maurach am Achensee und bringt dich hinauf ins Rofangebirge, zur Erfurter Hütte auf über 1.800 Metern. Von der Bergstation führen viele Wanderwege los, von gemütlichen Panoramawegen bis zu anspruchsvollen Touren auf die umliegenden Gipfel.\n\nFür Kinder gibt es den AIRROFAN, ein adlerförmiges Fluggerät, das etwa 80 km/h erreicht und über 200 Meter unter dem Gschöllkopf (2.040 m) schwebt. Im Sommer fährt die Bahn durchgehend, im Frühjahr und Herbst gelten angepasste Zeiten. Der Blick reicht über den See und die umliegenden Berge. Plane reichlich Zeit ein und prüfe vorab Wetter und aktuelle Informationen, damit der Besuch entspannt verläuft."
+  },
+  "tips": {
+   "nl": [
+    "Neem wandelschoenen en een warme trui mee; boven is het frisser.",
+    "Kijk naar het weer; bij helder zicht is het uitzicht het mooist.",
+    "Controleer de leeftijds- en lengte-eisen voor de AIRROFAN.",
+    "Combineer met de boot of de Achenseebahn."
+   ],
+   "en": [
+    "Bring hiking boots and a warm sweater; it is cooler up top.",
+    "Check the weather; views are best in clear conditions.",
+    "Check age and height requirements for the AIRROFAN.",
+    "Combine with the boat or the Achenseebahn."
+   ],
+   "de": [
+    "Wanderschuhe und einen warmen Pullover mitnehmen; oben ist es kühler.",
+    "Aufs Wetter achten; bei klarer Sicht ist die Aussicht am schönsten.",
+    "Alters- und Größenvorgaben für den AIRROFAN prüfen.",
+    "Mit dem Schiff oder der Achenseebahn kombinieren."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Maurach in ca. 55 minuten rijden via de A12, afrit Jenbach/Achensee. Je kunt ook met de Achenseebahn naar Seespitz en lopen of een bus nemen. Informeer vooraf naar tarieven.",
+   "en": "From Niederau, Maurach is about 55 minutes by car via the A12, exit Jenbach/Achensee. You can also take the Achenseebahn to Seespitz and walk or take a bus. Check fares beforehand.",
+   "de": "Von Niederau erreichst du Maurach in ca. 55 Minuten über die A12, Ausfahrt Jenbach/Achensee. Alternativ mit der Achenseebahn nach Seespitz und zu Fuß oder per Bus weiter. Tarife vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "Approx. 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "Approx. 55 min by car",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (en winter)",
+    "en": "Summer (and winter)",
+    "de": "Sommer (und Winter)"
+   }
+  },
+  "location": {
+   "nl": "Maurach, Achensee, Rofangebergte",
+   "en": "Maurach, Lake Achensee, Rofan mountains",
+   "de": "Maurach, Achensee, Rofangebirge"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is de AIRROFAN?",
+     "en": "What is the AIRROFAN?",
+     "de": "Was ist der AIRROFAN?"
+    },
+    "a": {
+     "nl": "Een adelaarsvormig vliegtoestel dat ongeveer 80 km/u haalt en onder de Gschöllkopf zweeft.",
+     "en": "An eagle-shaped flying device that reaches about 80 km/h and glides below the Gschöllkopf.",
+     "de": "Ein adlerförmiges Fluggerät, das etwa 80 km/h erreicht und unter dem Gschöllkopf schwebt."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Rofanbahn Achensee",
+  "_orig_loc": "Achensee (45 min)"
+ },
+ {
+  "id": "s65",
+  "drop": false,
+  "drop_reason": "",
+  "place": "jenbach",
+  "slug_en": "zillertalbahn-steam-train",
+  "slug_de": "zillertalbahn-dampfzug",
+  "title": {
+   "nl": "Zillertalbahn stoomtrein",
+   "en": "Zillertalbahn steam train",
+   "de": "Zillertalbahn Dampfzug"
+  },
+  "tagline": {
+   "nl": "Met de stoomtrein van Jenbach naar Mayrhofen",
+   "en": "By steam train from Jenbach to Mayrhofen",
+   "de": "Mit dem Dampfzug von Jenbach nach Mayrhofen"
+  },
+  "intro": {
+   "nl": "De Zillertalbahn is een smalspoorlijn die sinds 1902 door het Zillertal rijdt. In de zomer rijdt op bepaalde dagen een stoomtrein over het traject van 32 kilometer tussen Jenbach en Mayrhofen, met een rustige snelheid van ongeveer 35 km/u. Onderweg stopt de trein op meerdere haltes in het dal.\n\nIn de stoomtrein zit onder meer een buffetwagen, een open wagon en een speelwagon voor kinderen; de trein is rolstoeltoegankelijk. Het aantal plaatsen is beperkt, dus reserveren loopt vaak het best. Aan het einde van de lijn heb je in Mayrhofen tijd voor een wandeling of een bezoek aan een café.",
+   "en": "The Zillertalbahn is a narrow-gauge railway that has run through the Zillertal valley since 1902. In summer, a steam train runs on selected days along the 32-kilometre route between Jenbach and Mayrhofen at a leisurely speed of around 35 km/h. The train calls at several stops in the valley.\n\nThe steam train includes a buffet car, an open carriage and a play carriage for children, and is wheelchair accessible. Seats are limited, so booking ahead is usually wise. At the end of the line you have time in Mayrhofen for a stroll or a coffee.",
+   "de": "Die Zillertalbahn ist eine Schmalspurbahn, die seit 1902 durch das Zillertal fährt. Im Sommer verkehrt an bestimmten Tagen ein Dampfzug auf der 32 Kilometer langen Strecke zwischen Jenbach und Mayrhofen, mit gemütlichen etwa 35 km/h. Unterwegs hält der Zug an mehreren Stationen im Tal.\n\nIm Dampfzug gibt es unter anderem einen Buffetwagen, einen offenen Wagen und einen Spielwagen für Kinder; der Zug ist rollstuhlgerecht. Die Plätze sind begrenzt, eine Reservierung ist meist ratsam. Am Ziel in Mayrhofen bleibt Zeit für einen Spaziergang oder einen Kaffee. Plane reichlich Zeit ein und prüfe vorab Wetter und aktuelle Informationen, damit der Besuch entspannt verläuft."
+  },
+  "tips": {
+   "nl": [
+    "Controleer de rijdagen van de stoomtrein; die rijdt niet dagelijks.",
+    "Reserveer vooraf, de plaatsen zijn beperkt.",
+    "Op het traject kun je op 10 haltes in- of uitstappen.",
+    "Neem een kleine versnapering mee of eet in de buffetwagen (niet in de prijs inbegrepen)."
+   ],
+   "en": [
+    "Check the steam train’s running days; it does not run daily.",
+    "Book ahead, as seats are limited.",
+    "You can board or alight at ten stops along the route.",
+    "Bring a snack or eat in the buffet car (not included in the fare)."
+   ],
+   "de": [
+    "Fahrtage des Dampfzugs vorab prüfen; er fährt nicht täglich.",
+    "Vorab reservieren, die Plätze sind begrenzt.",
+    "Auf der Strecke kann man an zehn Haltestellen zu- oder aussteigen.",
+    "Snack mitbringen oder im Buffetwagen essen (nicht im Fahrpreis enthalten)."
+   ]
+  },
+  "practical": {
+   "nl": "Het station in Jenbach ligt ca. 40 minuten rijden van Niederau. Je kunt er ook met de trein komen via Wörgl. In het Zillertal stap je op de meeste haltes zelf in of uit.",
+   "en": "Jenbach station is about 40 minutes by car from Niederau. You can also reach it by train via Wörgl. In the Zillertal you can board or alight at most stops yourself.",
+   "de": "Der Bahnhof Jenbach liegt ca. 40 Minuten Fahrt von Niederau entfernt. Auch mit dem Zug via Wörgl erreichbar. Im Zillertal kann man an den meisten Haltestellen selbst zu- oder aussteigen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur enkele reis; dagtrip mogelijk",
+    "en": "Approx. 1.5 hours one way; day trip possible",
+    "de": "Ca. 1,5 Std. einfache Fahrt; Tagesausflug möglich"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden naar Jenbach",
+    "en": "Approx. 40 min by car to Jenbach",
+    "de": "Ca. 40 Min. Fahrt nach Jenbach"
+   },
+   "season": {
+    "nl": "Zomer, op bepaalde dagen",
+    "en": "Summer, on selected days",
+    "de": "Sommer, an bestimmten Tagen"
+   }
+  },
+  "location": {
+   "nl": "Jenbach tot Mayrhofen, Zillertal",
+   "en": "Jenbach to Mayrhofen, Zillertal",
+   "de": "Jenbach bis Mayrhofen, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is het traject van de Zillertalbahn?",
+     "en": "How long is the Zillertalbahn route?",
+     "de": "Wie lang ist die Strecke der Zillertalbahn?"
+    },
+    "a": {
+     "nl": "Het traject tussen Jenbach en Mayrhofen is 32 kilometer lang.",
+     "en": "The route between Jenbach and Mayrhofen is 32 kilometres long.",
+     "de": "Die Strecke zwischen Jenbach und Mayrhofen ist 32 Kilometer lang."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Zillertalbahn Stoomtrein",
+  "_orig_loc": "Zillertal (35 min)"
+ },
+ {
+  "id": "s225",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "",
+  "slug_en": "adventure-park-achensee",
+  "slug_de": "abenteuerpark-achensee",
+  "title": {
+   "nl": "Hochseilgarten Achensee",
+   "en": "High ropes course at Achensee",
+   "de": "Hochseilgarten am Achensee"
+  },
+  "tagline": {
+   "nl": "Klimparcours in de boomtoppen aan het Achensee",
+   "en": "Treetop climbing courses by Lake Achensee",
+   "de": "Klettern in den Baumwipfeln am Achensee"
+  },
+  "intro": {
+   "nl": "Het Abenteuerpark Achensee ligt bij Achenkirch, aan de weg langs het Achensee, niet ver van de scheepsaanlegplaats Achenseehof. Het park heeft zeven parcoursen in verschillende moeilijkheidsgraden, op ongeveer 2 tot 15 meter hoogte. Je loopt over bruggen en netten, balanceert over zwaaiende boomstammen en sluit af met een Flying Fox.\n\nBehalve klimmen is er in het park meer te doen: er zijn onder meer een slacklinebaan, een speelplaats, boogschieten en een outdoor escape game. Daardoor is het een goede keuze voor een gezin met kinderen van wisselende leeftijd, bijvoorbeeld als aanvulling op een dag aan het meer. Let op: het park ligt in Achenkirch en niet in Pertisau.",
+   "en": "The Abenteuerpark Achensee is in Achenkirch, on the road along Lake Achensee and close to the Achenseehof boat landing. It has seven courses of varying difficulty at heights of roughly 2 to 15 metres. You cross bridges and nets, balance along swinging logs and finish with a flying fox.\n\nClimbing is not the only thing on offer: the park also has a slackline course, a playground, archery and an outdoor escape game. That makes it a good choice for families with children of different ages, for instance as part of a day at the lake. Note that the park is in Achenkirch rather than Pertisau.",
+   "de": "Der Abenteuerpark Achensee liegt in Achenkirch an der Achenseestraße, nicht weit von der Schiffsanlegestelle Achenseehof. Er hat sieben Parcours unterschiedlicher Schwierigkeit in etwa 2 bis 15 Metern Höhe. Man geht über Brücken und Netze, balanciert über schwingende Baumstämme und endet mit einem Flying Fox.\n\nNeben dem Klettern gibt es weitere Angebote: unter anderem eine Slackline-Strecke, einen Spielplatz, Bogenschießen und ein Outdoor-Escape-Game. Das passt gut für Familien mit Kindern verschiedenen Alters, etwa als Ergänzung zu einem Tag am See. Der Park liegt in Achenkirch und nicht in Pertisau."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf naar de minimale lengte of leeftijd per parcours.",
+    "Draag stevige, gesloten schoenen en kleding waarin je kunt bewegen.",
+    "Combineer het bezoek met een boottocht of een wandeling langs het Achensee.",
+    "Kijk vooraf naar openingstijden; die hangen af van seizoen en weer."
+   ],
+   "en": [
+    "Ask beforehand about the minimum height or age for each course.",
+    "Wear sturdy, closed shoes and clothes you can move in.",
+    "Combine the visit with a boat trip or a walk along Lake Achensee.",
+    "Check opening times in advance; they depend on season and weather."
+   ],
+   "de": [
+    "Frage vorab nach Mindestgröße oder Mindestalter pro Parcours.",
+    "Feste, geschlossene Schuhe und bewegliche Kleidung tragen.",
+    "Der Besuch lässt sich mit einer Schifffahrt oder einem Spaziergang am Achensee verbinden.",
+    "Öffnungszeiten vorab prüfen; sie hängen von Saison und Wetter ab."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau rijd je ca. 1 uur via Wörgl en de A12 (afrit Jenbach) richting Achensee en Achenkirch. Parkeren is mogelijk bij het park; controleer actuele informatie op de website van het park of van de regio.",
+   "en": "From Niederau it is about an hour by car via Wörgl and the A12 (Jenbach exit) towards Lake Achensee and Achenkirch. Check current details with the park or the regional tourist office.",
+   "de": "Von Niederau fährt man ca. 1 Stunde über Wörgl und die A12 (Ausfahrt Jenbach) zum Achensee und nach Achenkirch. Aktuelle Details bitte beim Park oder beim Tourismusverband erfragen."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 hour by car",
+    "de": "Ca. 1 Stunde Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (informeer naar openingstijden)",
+    "en": "Summer (check opening times)",
+    "de": "Sommer (Öffnungszeiten erfragen)"
+   }
+  },
+  "location": {
+   "nl": "Achenkirch, Achensee",
+   "en": "Achenkirch, Lake Achensee",
+   "de": "Achenkirch, Achensee"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Ligt het klimpark in Pertisau of Achenkirch?",
+     "en": "Is the climbing park in Pertisau or Achenkirch?",
+     "de": "Liegt der Kletterpark in Pertisau oder Achenkirch?"
+    },
+    "a": {
+     "nl": "Het Abenteuerpark Achensee ligt in Achenkirch, aan de hoofdweg langs het meer tussen Maurach en Achenkirch.",
+     "en": "The Abenteuerpark Achensee is in Achenkirch, on the main road along the lake between Maurach and Achenkirch.",
+     "de": "Der Abenteuerpark Achensee liegt in Achenkirch an der Hauptstraße am See zwischen Maurach und Achenkirch."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Hochseilgarten Achensee",
+  "_orig_loc": "Achensee (45 min)"
+ },
+ {
+  "id": "s271",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "koessen",
+  "slug_en": "3d-archery-koessen",
+  "slug_de": "3d-bogenschiessen-koessen",
+  "title": {
+   "nl": "3D-boogschieten in Kössen",
+   "en": "3D archery in Kössen",
+   "de": "3D-Bogenschießen in Kössen"
+  },
+  "tagline": {
+   "nl": "Met pijl en boog door het bos op zoek naar 3D-doelen",
+   "en": "Stalk 3D targets through the forest with a bow",
+   "de": "Mit Pfeil und Bogen auf Waldparcours"
+  },
+  "intro": {
+   "nl": "In Kössen, aan de voet van de Wilder Kaiser, kun je onder begeleiding boogschieten op een bosparcours. Na een korte oefening op een schijf loop je door het terrein en zoek je 3D-doelen in de vorm van dieren. De route voert door schaduwrijk bos, wat fijn is op warme dagen.\n\nDe activiteit duurt ongeveer twee uur en is bedoeld voor het hele gezin; kinderen vanaf ca. 8 jaar kunnen meedoen. Je hebt geen ervaring nodig, want je krijgt uitleg en materiaal. Het is een rustige, geconcentreerde sport die ook voor ouders een leuke uitdaging is.",
+   "en": "In Kössen, at the foot of the Wilder Kaiser, you can try guided archery on a forest course. After a short practice round on a target you walk through the terrain looking for 3D targets shaped like animals. The route runs through shady woodland, which is welcome on warm days.\n\nThe activity takes about two hours and suits the whole family; children from about 8 years old can join. No experience is needed because you get instruction and equipment. It is a calm, focused sport that also challenges the parents.",
+   "de": "In Kössen am Fuß des Wilden Kaisers kann man unter Anleitung auf einem Waldparcours Bogenschießen. Nach einer kurzen Übung an der Scheibe geht es durch das Gelände, wo 3D-Tierfiguren als Ziele warten. Die Strecke führt durch schattigen Wald, was an warmen Tagen angenehm ist.\n\nDie Aktivität dauert etwa zwei Stunden und eignet sich für die ganze Familie; Kinder ab ca. 8 Jahren können teilnehmen. Erfahrung ist nicht nötig, denn Einweisung und Ausrüstung sind dabei. Es ist ein ruhiger, konzentrierter Sport, der auch Eltern fordert."
+  },
+  "tips": {
+   "nl": [
+    "Meld je vooraf aan; plekken zijn beperkt.",
+    "Draag stevige schoenen en kleding die bij het weer past.",
+    "Vraag naar prijzen en groepsgrootte bij de aanbieder.",
+    "Bij de Kaiserwinkl-gastenkaart kan een korting gelden; informeer ernaar."
+   ],
+   "en": [
+    "Book in advance; places are limited.",
+    "Wear sturdy shoes and clothing suited to the weather.",
+    "Ask the provider about prices and group size.",
+    "A guest-card discount may apply; ask about it."
+   ],
+   "de": [
+    "Vorab anmelden; die Plätze sind begrenzt.",
+    "Feste Schuhe und wettergerechte Kleidung tragen.",
+    "Preise und Gruppengröße beim Anbieter erfragen.",
+    "Mit Gästekarte kann es eine Ermäßigung geben; einfach nachfragen."
+   ]
+  },
+  "practical": {
+   "nl": "Kössen ligt ca. 1 uur rijden van Niederau, in het Kufsteinerland bij de Wilder Kaiser. Het verzamelpunt is bij de aanbieder (SportundNatur) in Kössen; bevestig tijden en plek bij het boeken.",
+   "en": "Kössen is about an hour's drive from Niederau, in the Kufsteinerland next to the Wilder Kaiser. The meeting point is with the provider (SportundNatur) in Kössen; confirm time and place when booking.",
+   "de": "Kössen liegt ca. 1 Stunde Autofahrt von Niederau entfernt im Kufsteinerland am Wilden Kaiser. Treffpunkt ist beim Anbieter (SportundNatur) in Kössen; Zeit und Ort bei der Buchung bestätigen lassen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From about 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 hour by car",
+    "de": "Ca. 1 Stunde Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kössen, Kufsteinerland",
+   "en": "Kössen, Kufsteinerland",
+   "de": "Kössen, Kufsteinerland"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Vanaf welke leeftijd kun je meedoen?",
+     "en": "What is the minimum age?",
+     "de": "Ab welchem Alter kann man teilnehmen?"
+    },
+    "a": {
+     "nl": "Volgens de beschrijving van de aanbieder vanaf ca. 8 jaar; bevestig dit bij het boeken.",
+     "en": "According to the provider, from about 8 years; confirm when booking.",
+     "de": "Laut Anbieter ab ca. 8 Jahren; bitte bei der Buchung bestätigen."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Boogschieten Kössen",
+  "_orig_loc": "Kössen (30 min)"
+ },
+ {
+  "id": "s139",
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "soell-village-walk",
+  "slug_de": "dorfrundgang-soell",
+  "title": {
+   "nl": "Dorpswandeling Söll",
+   "en": "Village walk in Söll",
+   "de": "Dorfspaziergang in Söll"
+  },
+  "tagline": {
+   "nl": "Dorpscentrum met winkels, restaurants en kerk in SkiWelt",
+   "en": "A SkiWelt village centre with shops, restaurants and a church",
+   "de": "Ortszentrum mit Geschäften, Restaurants und Kirche in der SkiWelt"
+  },
+  "intro": {
+   "nl": "Söll ligt aan de voet van de Wilder Kaiser en hoort bij het skigebied SkiWelt. Het dorpscentrum is levendiger dan dat van veel buurdorpen: er zijn winkels, restaurants en cafés, een parochiekerk en sportvoorzieningen. In de zomer zijn er regelmatig evenementen in het dorp.\n\nEen wandeling door het centrum duurt ongeveer een uur en is goed te combineren met een koffiestop of een lunch. Het is een eenvoudige uitstap voor een dag waarop je geen grote plannen hebt, of voor een regenachtige middag waarop je een terras of winkel zoekt. Het landschap rondom, met de rotswanden van de Wilder Kaiser, geeft het dorp een mooie achtergrond.",
+   "en": "Söll lies at the foot of the Wilder Kaiser and belongs to the SkiWelt ski area. Its village centre is livelier than that of many neighbouring villages: there are shops, restaurants and cafés, a parish church and sports facilities. In summer there are regular events in the village.\n\nA walk through the centre takes about an hour and combines well with a coffee stop or lunch. It is an easy outing for a day without big plans, or for a showery afternoon when you are looking for a terrace or a shop. The surrounding landscape, with the rock faces of the Wilder Kaiser, gives the village a fine backdrop.",
+   "de": "Söll liegt am Fuß des Wilden Kaisers und gehört zum Skigebiet SkiWelt. Das Ortszentrum ist lebendiger als das vieler Nachbarorte: Es gibt Geschäfte, Restaurants und Cafés, eine Pfarrkirche und Sporteinrichtungen. Im Sommer finden im Ort regelmäßig Veranstaltungen statt.\n\nEin Spaziergang durch das Zentrum dauert etwa eine Stunde und lässt sich gut mit einer Kaffeepause oder dem Mittagessen verbinden. Es ist ein einfacher Ausflug für einen Tag ohne große Pläne oder für einen verregneten Nachmittag, an dem du eine Terrasse oder ein Geschäft suchst. Die Landschaft ringsum mit den Felswänden des Wilden Kaisers gibt dem Ort eine schöne Kulisse."
+  },
+  "tips": {
+   "nl": [
+    "Kijk bij het toeristenbureau naar zomerevenementen.",
+    "Combineer met een bezoek aan het nabije Kufstein of Ellmau.",
+    "Plan een rustig terras of lunchstop in.",
+    "Bij regen is een wandeling langs de winkels een goed alternatief."
+   ],
+   "en": [
+    "Check with the tourist office for summer events.",
+    "Combine with a visit to nearby Kufstein or Ellmau.",
+    "Plan a relaxed terrace or lunch stop.",
+    "In the rain a stroll past the shops is a good alternative."
+   ],
+   "de": [
+    "Erkundige dich beim Tourismusbüro nach Sommerveranstaltungen.",
+    "Verbinde den Besuch mit dem nahen Kufstein oder Ellmau.",
+    "Plane eine Terrassen- oder Mittagspause ein.",
+    "Bei Regen ist ein Bummel an den Geschäften vorbei eine gute Alternative."
+   ]
+  },
+  "practical": {
+   "nl": "Söll ligt ca. 35 minuten rijden van Niederau, via Wörgl en de richting van de Wilder Kaiser.",
+   "en": "Söll is roughly 35 minutes by car from Niederau, via Wörgl towards the Wilder Kaiser.",
+   "de": "Söll liegt ca. 35 Fahrminuten von Niederau entfernt, über Wörgl in Richtung Wilder Kaiser."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "Approx. 35 min by car",
+    "de": "Ca. 35 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Söll, Wilder Kaiser",
+   "en": "Söll, Wilder Kaiser",
+   "de": "Söll, Wilder Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er in Söll veel te doen buiten het skiseizoen?",
+     "en": "Is there much to do in Söll outside the ski season?",
+     "de": "Gibt es in Söll auch außerhalb der Skisaison etwas zu tun?"
+    },
+    "a": {
+     "nl": "Ja, er zijn winkels, restaurants en in de zomer regelmatig evenementen in het dorp.",
+     "en": "Yes, there are shops, restaurants and regular events in the village in summer.",
+     "de": "Ja, es gibt Geschäfte, Restaurants und im Sommer regelmäßig Veranstaltungen im Ort."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "cultuur",
+  "_season": "summer",
+  "_orig_title": "Söll dorpswandeling en kerk",
+  "_orig_loc": "Söll (20 min)"
+ },
+ {
+  "id": "s142",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ellmau",
+  "slug_en": "ellmau-village-walk",
+  "slug_de": "dorfrundgang-ellmau",
+  "title": {
+   "nl": "Dorpswandeling Ellmau",
+   "en": "Village walk in Ellmau",
+   "de": "Dorfspaziergang in Ellmau"
+  },
+  "tagline": {
+   "nl": "Dorp aan de voet van de Wilder Kaiser",
+   "en": "A village at the foot of the Wilder Kaiser",
+   "de": "Ein Dorf am Fuß des Wilden Kaisers"
+  },
+  "intro": {
+   "nl": "Ellmau ligt direct aan de voet van de Wilder Kaiser, het kalkgebergte dat het dorp een karakteristiek silhouet geeft. Het centrum is compact: een kerk, traditionele boerderijen en huizen met bloemenbalkons, en uitzicht op de rotswanden achter het dorp.\n\nEen wandeling door het dorp en de omringende weiden duurt ongeveer een uur. Voor kinderen is er in Ellmau een speelplaats, Ellmis Zauberwelt, met onder meer trampolines, een kasteel met glijbaan en waterpartijen. Het dorp is daardoor een eenvoudige familiebestemming voor een halve dag, met veel ruimte om rustig rond te lopen.",
+   "en": "Ellmau lies right at the foot of the Wilder Kaiser, the limestone range that gives the village its characteristic skyline. The centre is compact: a church, traditional farmhouses and houses with flower balconies, and views of the rock faces behind the village.\n\nA walk through the village and the surrounding meadows takes about an hour. For children there is a playground in Ellmau, Ellmis Zauberwelt, with trampolines, a castle with slide and water features, among other things. That makes the village a simple family destination for half a day, with plenty of room to wander.",
+   "de": "Ellmau liegt direkt am Fuß des Wilden Kaisers, des Kalkgebirges, das dem Ort seine charakteristische Silhouette gibt. Das Zentrum ist überschaubar: eine Kirche, traditionelle Bauernhöfe und Häuser mit Blumenbalkonen sowie Blick auf die Felswände hinter dem Dorf.\n\nEin Spaziergang durch den Ort und die umliegenden Wiesen dauert etwa eine Stunde. Für Kinder gibt es in Ellmau einen Spielplatz, Ellmis Zauberwelt, unter anderem mit Trampolinen, einer Burg mit Rutsche und Wasserspielen. Damit ist der Ort ein einfaches Familienziel für einen halben Tag mit viel Platz zum Schlendern."
+  },
+  "tips": {
+   "nl": [
+    "Neem een camera mee voor de combinatie van dorp en rotswand.",
+    "Plan een stop bij Ellmis Zauberwelt als je met kinderen bent.",
+    "Controleer de openingstijden van de speeltuin vooraf.",
+    "Kleed je in lagen; in de bergen kan het weer snel omslaan."
+   ],
+   "en": [
+    "Bring a camera for the village and rock face together.",
+    "Plan a stop at Ellmis Zauberwelt if you are with children.",
+    "Check the playground's opening times beforehand.",
+    "Dress in layers; mountain weather can change quickly."
+   ],
+   "de": [
+    "Nimm eine Kamera für die Kombination aus Dorf und Felswand mit.",
+    "Plane mit Kindern einen Halt bei Ellmis Zauberwelt ein.",
+    "Prüfe vorab die Öffnungszeiten des Spielplatzes.",
+    "Zieh dich in Schichten an; das Bergwetter kann schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Ellmau ligt ca. 40 minuten rijden van Niederau, via Wörgl en de richting van de Wilder Kaiser.",
+   "en": "Ellmau is roughly 40 minutes by car from Niederau, via Wörgl towards the Wilder Kaiser.",
+   "de": "Ellmau liegt ca. 40 Fahrminuten von Niederau entfernt, über Wörgl in Richtung Wilder Kaiser."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Ellmau, Wilder Kaiser",
+   "en": "Ellmau, Wilder Kaiser",
+   "de": "Ellmau, Wilder Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen in Ellmau?",
+     "en": "What is there for children in Ellmau?",
+     "de": "Was gibt es für Kinder in Ellmau?"
+    },
+    "a": {
+     "nl": "Ellmis Zauberwelt is een speelplaats met onder meer trampolines, een kasteel met glijbaan en waterpartijen.",
+     "en": "Ellmis Zauberwelt is a playground with trampolines, a castle with slide and water features, among other things.",
+     "de": "Ellmis Zauberwelt ist ein Spielplatz mit Trampolinen, Burg mit Rutsche und Wasserspielen."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "cultuur",
+  "_season": "summer",
+  "_orig_title": "Ellmau dorpswandeling Wilder Kaiser",
+  "_orig_loc": "Ellmau (25 min)"
+ }
+]

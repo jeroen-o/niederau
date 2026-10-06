@@ -1,0 +1,1373 @@
+[
+ {
+  "id": "s153",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "day-trip-innsbruck",
+  "slug_de": "tagesausflug-innsbruck",
+  "title": {
+   "nl": "Dagtrip Innsbruck",
+   "en": "Day trip to Innsbruck",
+   "de": "Tagesausflug nach Innsbruck"
+  },
+  "tagline": {
+   "nl": "Tiroler hoofdstad met oude binnenstad, Gouden Dakje en bergbaan",
+   "en": "The Tyrolean capital with its old town, Golden Roof and mountain railway",
+   "de": "Tirols Hauptstadt mit Altstadt, Goldenem Dachl und Bergbahn"
+  },
+  "intro": {
+   "nl": "Innsbruck ligt op ca. een uur van Niederau en combineert een middeleeuwse binnenstad met bergen die letterlijk boven de straten oprijzen. Rond de smalle straten van de Altstadt staat het Goldenes Dachl, een erker met een verguld dak uit de late middeleeuwen, vlakbij de keizerlijke Hofburg.\n\nMet de Nordkettenbahn vanaf het centrum kom je in korte tijd op grote hoogte, waar het uitzicht over de stad en de Inntal reikt. Kinderen vinden de Alpenzoo en de oude binnenstad vaak de leukste onderdelen. Parkeren in het centrum is beperkt en kan duur zijn; park-and-ride of de trein vanaf Wörgl is vaak praktischer.",
+   "en": "Innsbruck is about an hour from Niederau and pairs a medieval old town with mountains that rise right above the streets. In the narrow lanes of the Altstadt stands the Goldenes Dachl, a late-medieval oriel with a gilded roof, close to the imperial Hofburg.\n\nThe Nordkettenbahn from the centre takes you to high altitude quickly, with views across the city and the Inn valley. Children often enjoy the Alpine Zoo and the old town most. Parking in the centre is limited and can be expensive; park and ride, or the train from Wörgl, is often more practical.",
+   "de": "Innsbruck liegt rund eine Stunde von Niederau entfernt und verbindet eine mittelalterliche Altstadt mit Bergen, die direkt über den Straßen aufragen. In den engen Gassen der Altstadt steht das Goldene Dachl, ein spätmittelalterlicher Erker mit vergoldetem Dach, unweit der kaiserlichen Hofburg.\n\nMit der Nordkettenbahn ab dem Zentrum gelangt man rasch in große Höhe, mit Blick über die Stadt und das Inntal. Kinder mögen oft den Alpenzoo und die Altstadt am meisten. Parkplätze im Zentrum sind begrenzt und teils teuer; Park & Ride oder die Bahn ab Wörgl sind oft praktischer."
+  },
+  "tips": {
+   "nl": [
+    "Kom bij voorkeur met de trein of gebruik een P+R; parkeren in het centrum is lastig.",
+    "Vraag naar de Innsbruck Card als je meerdere bezienswaardigheden wilt bezoeken; reken zelf na of dat loont.",
+    "Combineer de oude binnenstad met een bezoek aan Hofburg of Alpenzoo.",
+    "Let bij de bergbaan op het weer; bij mist is het uitzicht beperkt."
+   ],
+   "en": [
+    "Take the train or use a park and ride; parking in the centre is tricky.",
+    "Ask about the Innsbruck Card if you want to see several sights; work out yourself whether it pays off.",
+    "Combine the old town with a visit to the Hofburg or the Alpine Zoo.",
+    "Check the weather before taking the mountain railway; in fog the view is limited."
+   ],
+   "de": [
+    "Am besten mit der Bahn anreisen oder Park & Ride nutzen; Parken im Zentrum ist schwierig.",
+    "Zur Innsbruck Card informieren, wenn mehrere Sehenswürdigkeiten geplant sind; selbst nachrechnen, ob sie sich lohnt.",
+    "Altstadt mit einem Besuch der Hofburg oder des Alpenzoos verbinden.",
+    "Vor der Bergbahn das Wetter prüfen; bei Nebel ist die Aussicht eingeschränkt."
+   ]
+  },
+  "practical": {
+   "nl": "Met de auto is Innsbruck ca. 50 tot 60 minuten rijden via de A12 (Oostenrijkse vignet nodig). De trein vanaf Wörgl Hbf doet er ruim een halfuur over; Wörgl ligt ca. 20 minuten van Niederau.",
+   "en": "By car Innsbruck is about 50 to 60 minutes along the A12 (Austrian motorway vignette required). The train from Wörgl Hbf takes a little over half an hour; Wörgl is about 20 minutes from Niederau.",
+   "de": "Mit dem Auto ist Innsbruck über die A12 in ca. 50 bis 60 Minuten erreichbar (österreichische Vignette nötig). Der Zug ab Wörgl Hbf braucht gut eine halbe Stunde; Wörgl liegt etwa 20 Minuten von Niederau entfernt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganztägig"
+   },
+   "price": {
+    "nl": "Wisselt per bezienswaardigheid; informeer vooraf",
+    "en": "Varies by sight; check beforehand",
+    "de": "Je nach Sehenswürdigkeit unterschiedlich; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 tot 60 min rijden",
+    "en": "About 50 to 60 min by car",
+    "de": "Ca. 50 bis 60 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck, Tirol",
+   "en": "Innsbruck, Tyrol",
+   "de": "Innsbruck, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Innsbruck beter met trein of auto te bezoeken?",
+     "en": "Is Innsbruck better visited by train or car?",
+     "de": "Ist Innsbruck besser mit Bahn oder Auto zu besuchen?"
+    },
+    "a": {
+     "nl": "De trein vanaf Wörgl is vaak het gemakkelijkst, omdat parkeren in het centrum beperkt is. Met de auto kun je een P+R gebruiken.",
+     "en": "The train from Wörgl is often easiest because parking in the centre is limited. By car you can use a park and ride.",
+     "de": "Die Bahn ab Wörgl ist oft am bequemsten, da Parkplätze im Zentrum begrenzt sind. Mit dem Auto bietet sich Park & Ride an."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "dagtochten",
+  "_season": "summer",
+  "_orig_title": "Dagtrip Innsbruck per trein of auto",
+  "_orig_loc": "Innsbruck (55 min)"
+ },
+ {
+  "id": "w32",
+  "drop": false,
+  "drop_reason": "",
+  "place": "wattens",
+  "slug_en": "swarovski-crystal-worlds",
+  "slug_de": "swarovski-kristallwelten",
+  "title": {
+   "nl": "Swarovski Kristallwelten",
+   "en": "Swarovski Crystal Worlds",
+   "de": "Swarovski Kristallwelten"
+  },
+  "tagline": {
+   "nl": "Kunst en kristal in en onder de reus van Wattens, met speeltoren",
+   "en": "Art and crystal in and beneath the Giant at Wattens, with a play tower",
+   "de": "Kunst und Kristall im und unter dem Riesen von Wattens, mit Spielturm"
+  },
+  "intro": {
+   "nl": "De Swarovski Kristallwelten liggen in Wattens, bij het hoofdkantoor van het kristalbedrijf. De ingang is een groot hoofd van een reus met een waterstraal uit zijn mond; daaronder liggen de Wunderkammern, een reeks kunstzinnige kamers waarin kristal, licht en kunst samenkomen.\n\nVoor gezinnen is er een speeltoren op meerdere niveaus en een doolhof, naast een park met kunstwerken. Het is een binnenprogramma dat ook bij slecht weer werkt. Reken op twee tot drie uur, en bekijk vooraf de actuele openingstijden en entreeprijzen op de officiële site; er is ook een winkel en een restaurant.",
+   "en": "The Swarovski Crystal Worlds are in Wattens, next to the crystal company's headquarters. The entrance is a large giant's head with a stream of water from its mouth; beneath it lie the Chambers of Wonder, a series of artistic rooms combining crystal, light and art.\n\nFor families there is a play tower on several levels and a maze, plus a park with artworks. It is an indoor-friendly programme that also works in poor weather. Allow two to three hours, and check current opening hours and admission prices on the official site beforehand; there is also a shop and a restaurant.",
+   "de": "Die Swarovski Kristallwelten liegen in Wattens, neben dem Hauptsitz des Kristallunternehmens. Der Eingang ist ein großer Riesenkopf, aus dessen Mund Wasser fließt; darunter liegen die Wunderkammern, eine Reihe künstlerischer Räume, in denen Kristall, Licht und Kunst zusammenkommen.\n\nFür Familien gibt es einen Spielturm auf mehreren Ebenen und ein Labyrinth sowie einen Park mit Kunstwerken. Das Programm funktioniert gut drinnen und damit auch bei schlechtem Wetter. Zwei bis drei Stunden einplanen und vorab aktuelle Öffnungszeiten und Eintrittspreise auf der offiziellen Seite prüfen; es gibt auch Shop und Restaurant."
+  },
+  "tips": {
+   "nl": [
+    "Koop tickets zo mogelijk online en controleer de actuele openingstijden.",
+    "Kom op een doordeweekse ochtend voor minder drukte.",
+    "Plan de speeltoren in voor kinderen die moe worden van de kunst.",
+    "Parkeren is ter plaatse mogelijk; informeer naar de kosten."
+   ],
+   "en": [
+    "Buy tickets online where possible and check current opening hours.",
+    "Come on a weekday morning for fewer crowds.",
+    "Plan the play tower for children who tire of the art.",
+    "Parking is available on site; check the cost."
+   ],
+   "de": [
+    "Tickets wenn möglich online kaufen und aktuelle Öffnungszeiten prüfen.",
+    "An einem Werktagvormittag kommen, dann ist es ruhiger.",
+    "Den Spielturm für Kinder einplanen, die der Kunst überdrüssig werden.",
+    "Parken ist vor Ort möglich; die Kosten vorab erfragen."
+   ]
+  },
+  "practical": {
+   "nl": "Wattens ligt ca. 40 tot 45 minuten rijden van Niederau, via de A12 richting Innsbruck, afrit Wattens. Met openbaar vervoer kom je via Innsbruck of Wattens met een bus.",
+   "en": "Wattens is about 40 to 45 minutes' drive from Niederau, via the A12 towards Innsbruck, exit Wattens. By public transport you travel via Innsbruck or Wattens with a bus.",
+   "de": "Wattens liegt ca. 40 bis 45 Fahrminuten von Niederau entfernt, über die A12 Richtung Innsbruck, Abfahrt Wattens. Mit öffentlichen Verkehrsmitteln geht es über Innsbruck oder Wattens mit dem Bus."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Entree wisselt; informeer vooraf",
+    "en": "Admission varies; check beforehand",
+    "de": "Eintritt variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 40 tot 45 min rijden",
+    "en": "About 40 to 45 min by car",
+    "de": "Ca. 40 bis 45 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Wattens, Tirol",
+   "en": "Wattens, Tyrol",
+   "de": "Wattens, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een speelgebied voor kinderen?",
+     "en": "Is there a play area for children?",
+     "de": "Gibt es einen Spielbereich für Kinder?"
+    },
+    "a": {
+     "nl": "Ja, er is een speeltoren met meerdere niveaus en een doolhof.",
+     "en": "Yes, there is a multi-level play tower and a maze.",
+     "de": "Ja, es gibt einen Spielturm mit mehreren Ebenen und ein Labyrinth."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "dagtochten",
+  "_season": "winter",
+  "_orig_title": "Swarovski Kristallwelten Wattens",
+  "_orig_loc": "Wattens (40 min)"
+ },
+ {
+  "id": "w48",
+  "drop": false,
+  "drop_reason": "",
+  "place": "jenbach",
+  "slug_en": "zillertalbahn-steam-train",
+  "slug_de": "zillertalbahn-dampfzug",
+  "title": {
+   "nl": "Zillertalbahn stoomtrein",
+   "en": "Zillertalbahn steam train",
+   "de": "Zillertalbahn Dampfzug"
+  },
+  "tagline": {
+   "nl": "Met de smalspoor-stoomtrein van Jenbach naar Mayrhofen",
+   "en": "By narrow-gauge steam train from Jenbach to Mayrhofen",
+   "de": "Mit der Schmalspur-Dampfbahn von Jenbach nach Mayrhofen"
+  },
+  "intro": {
+   "nl": "De Zillertalbahn is een smalspoorlijn van Jenbach in het Inntal naar Mayrhofen in het Zillertal. De route is ca. 32 tot 33 kilometer lang en loopt door dorpen, weiden en langs de rivier de Ziller. De stoomtreinrit duurt ongeveer anderhalf uur per richting.\n\nDe stoomtrein rijdt volgens bronnen alleen op bepaalde dagen, ongeveer van mei tot begin oktober; in de winter rijden de gewone treinen. De stoomtrein heeft een buffetwagen, een open wagon en een kinderwagon. Gezinnen kunnen onderweg uitstappen, bijvoorbeeld in Mayrhofen voor een wandeling of eten. Controleer vooraf het rooster op de officiële site.",
+   "en": "The Zillertalbahn is a narrow-gauge line from Jenbach in the Inn valley to Mayrhofen in the Zillertal. The route is about 32 to 33 kilometres long and runs through villages and meadows alongside the Ziller river. The steam journey takes about an hour and a half each way.\n\nAccording to sources, the steam train only runs on certain days, roughly from May to early October; in winter the regular trains run. The steam train has a buffet car, an open carriage and a children's carriage. Families can get off en route, for example in Mayrhofen for a walk or a meal. Check the timetable on the official site beforehand.",
+   "de": "Die Zillertalbahn ist eine Schmalspurbahn von Jenbach im Inntal nach Mayrhofen im Zillertal. Die Strecke ist etwa 32 bis 33 Kilometer lang und führt durch Dörfer und Wiesen entlang der Ziller. Die Dampffahrt dauert etwa anderthalb Stunden pro Richtung.\n\nDer Dampfzug fährt laut Quellen nur an bestimmten Tagen, ungefähr von Mai bis Anfang Oktober; im Winter verkehren die regulären Züge. Der Dampfzug hat einen Buffetwagen, einen offenen Wagen und einen Kinderwagen. Familien können unterwegs aussteigen, zum Beispiel in Mayrhofen für einen Spaziergang oder eine Mahlzeit. Den Fahrplan vorab auf der offiziellen Seite prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Controleer het rooster: stoomtreinen rijden niet elke dag en niet in de winter.",
+    "Neem een wagon met open zijkanten voor foto's, maar kleed je warm.",
+    "Reserveer bij drukte of met een groep.",
+    "Plan een stop in Mayrhofen voor lunch of wandeling."
+   ],
+   "en": [
+    "Check the timetable: steam trains do not run every day, nor in winter.",
+    "Take the open carriage for photos, but dress warmly.",
+    "Book in busy periods or with a group.",
+    "Plan a stop in Mayrhofen for lunch or a walk."
+   ],
+   "de": [
+    "Fahrplan prüfen: Dampfzüge fahren nicht täglich und nicht im Winter.",
+    "Für Fotos den offenen Wagen wählen, aber warm anziehen.",
+    "Bei Andrang oder mit Gruppe reservieren.",
+    "Einen Halt in Mayrhofen für Mittagessen oder Spaziergang einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Het station van Jenbach ligt ca. 35 tot 40 minuten rijden van Niederau, via de A12. Je kunt ook met de trein naar Jenbach en daar overstappen op de Zillertalbahn.",
+   "en": "Jenbach station is about 35 to 40 minutes' drive from Niederau, via the A12. You can also take the train to Jenbach and change onto the Zillertalbahn.",
+   "de": "Der Bahnhof Jenbach liegt ca. 35 bis 40 Fahrminuten von Niederau entfernt, über die A12. Man kann auch mit der Bahn nach Jenbach fahren und dort in die Zillertalbahn umsteigen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 3 uur retour, plus stop",
+    "en": "About 3 hours return, plus a stop",
+    "de": "Ca. 3 Stunden hin und zurück, plus Aufenthalt"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 35 tot 40 min rijden naar Jenbach",
+    "en": "About 35 to 40 min by car to Jenbach",
+    "de": "Ca. 35 bis 40 Min. mit dem Auto nach Jenbach"
+   },
+   "season": {
+    "nl": "Stoomtrein ca. mei tot begin oktober; gewone treinen hele jaar",
+    "en": "Steam train roughly May to early October; regular trains all year",
+    "de": "Dampfzug ca. Mai bis Anfang Oktober; reguläre Züge ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Jenbach en Zillertal",
+   "en": "Jenbach and Zillertal",
+   "de": "Jenbach und Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Rijdt de stoomtrein in de winter?",
+     "en": "Does the steam train run in winter?",
+     "de": "Fährt der Dampfzug im Winter?"
+    },
+    "a": {
+     "nl": "Volgens bronnen rijdt de stoomtrein ongeveer van mei tot begin oktober op bepaalde dagen; in de winter rijden gewone treinen.",
+     "en": "According to sources the steam train runs on certain days roughly from May to early October; regular trains run in winter.",
+     "de": "Laut Quellen fährt der Dampfzug ungefähr von Mai bis Anfang Oktober an bestimmten Tagen; im Winter verkehren reguläre Züge."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "dagtochten",
+  "_season": "winter",
+  "_orig_title": "Zillertalbahn Historische Stoomtrein",
+  "_orig_loc": "Zillertal (35 min)"
+ },
+ {
+  "id": "s140",
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "skiwelt-mountain-biking-soell",
+  "slug_de": "skiwelt-mountainbike-soell",
+  "title": {
+   "nl": "Mountainbiken in de SkiWelt bij Söll",
+   "en": "Mountain biking in the SkiWelt near Söll",
+   "de": "Mountainbiken in der SkiWelt bei Söll"
+  },
+  "tagline": {
+   "nl": "Bergbaanritten en trails in het zomerse SkiWelt-gebied",
+   "en": "Cable car rides and trails in the SkiWelt summer area",
+   "de": "Bergbahnfahrten und Trails im Sommer-SkiWelt-Gebiet"
+  },
+  "intro": {
+   "nl": "In de zomer draaien in het gebied rond Söll bergbanen die ook fietsers meenemen. Zo kun je omhoog met de lift en via paden en bosweggetjes weer afdalen, zonder eerst een zware klim te maken. Het aanbod loopt van rustige routes tot technischer terrein.\n\nSöll ligt aan de voet van de Wilde Kaiser en is een logische uitvalsbasis voor een dagje fietsen. De SkiWelt bundelt informatie over routes en bergbanen, en in het dorp zijn verhuurders te vinden. Voor kinderen en beginners kies je de makkelijkere routes; neem altijd een helm mee.",
+   "en": "In summer, cable cars around Söll also carry bikes. You can ride up by lift and come back down on trails and forest tracks without a hard climb first. Options range from easy routes to more technical terrain.\n\nSöll lies at the foot of the Wilder Kaiser and is a natural base for a day on the bike. SkiWelt publishes route and lift information, and rental shops can be found in the village. Beginners and children should stick to the easier routes; always bring a helmet.",
+   "de": "Im Sommer fahren im Gebiet um Söll Bergbahnen, die auch Radfahrer mitnehmen. So geht es bequem mit dem Lift nach oben und über Wege und Forstpisten wieder bergab, ohne vorher eine harte Auffahrt. Das Angebot reicht von leichten Strecken bis zu technischerem Gelände.\n\nSöll liegt am Fuß des Wilden Kaisers und ist ein guter Ausgangspunkt für einen Radtag. Die SkiWelt informiert über Strecken und Bergbahnen, im Ort gibt es Verleihstationen. Kinder und Anfänger wählen die leichteren Strecken; ein Helm gehört immer dazu."
+  },
+  "tips": {
+   "nl": [
+    "Draag altijd een helm, bij technische trails ook bescherming.",
+    "Check vooraf of de gondel fietsen meeneemt en wanneer hij rijdt.",
+    "Huur een e-mountainbike als je niet te veel wilt klimmen."
+   ],
+   "en": [
+    "Always wear a helmet, and protection on technical trails.",
+    "Check beforehand whether the lift takes bikes and when it runs.",
+    "Rent an e-mountain bike if you want to avoid long climbs."
+   ],
+   "de": [
+    "Immer Helm tragen, auf technischen Trails auch Protektoren.",
+    "Vorab prüfen, ob die Bahn Räder mitnimmt und wann sie fährt.",
+    "Ein E-Mountainbike mieten, wenn man lange Anstiege vermeiden möchte."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau is Söll ca. 30 minuten rijden, via Wörgl. Informeer bij het toeristenbureau naar actuele routes en openingstijden van de bergbanen.",
+   "en": "Söll is about 30 minutes from Niederau by car, via Wörgl. Ask the tourist office for current routes and lift times.",
+   "de": "Von Niederau ist Söll ca. 30 Minuten mit dem Auto entfernt, über Wörgl. Aktuelle Strecken und Betriebszeiten erfragt man beim Tourismusbüro."
+  },
+  "facts": {
+   "age": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "Söll, Wilder Kaiser",
+   "en": "Söll, Wilder Kaiser",
+   "de": "Söll, Wilder Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je fietsen meenemen in de gondel?",
+     "en": "Can you take bikes on the lift?",
+     "de": "Kann man Räder in der Bahn mitnehmen?"
+    },
+    "a": {
+     "nl": "In de SkiWelt rijden in de zomer bergbanen die fietsers meenemen; check de actuele tijden vooraf.",
+     "en": "SkiWelt runs summer lifts that carry bikes; check current times beforehand.",
+     "de": "In der SkiWelt fahren im Sommer Bahnen, die Räder mitnehmen; aktuelle Zeiten vorab prüfen."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "fietsen",
+  "_season": "summer",
+  "_orig_title": "SkiWelt MTB-trails Söll",
+  "_orig_loc": "Söll (20 min)"
+ },
+ {
+  "id": "s147",
+  "drop": false,
+  "drop_reason": "",
+  "place": "brixen-im-thale",
+  "slug_en": "brixen-im-thale-biking",
+  "slug_de": "radfahren-brixen-im-thale",
+  "title": {
+   "nl": "Fietsen en mountainbiken bij Brixen im Thale",
+   "en": "Cycling and mountain biking at Brixen im Thale",
+   "de": "Radfahren und Mountainbiken in Brixen im Thale"
+  },
+  "tagline": {
+   "nl": "Fietsen vanaf de dalstation, van berghut-route tot trail",
+   "en": "Cycling from the valley station, from alm routes to trails",
+   "de": "Radeln ab der Talstation, von Almroute bis Trail"
+  },
+  "intro": {
+   "nl": "Brixen im Thale ligt in het Brixental en hoort bij de SkiWelt. Vanuit het dorp lopen bosweggetjes omhoog naar berghutten, zoals de Kandleralm op ruim 1.100 m, een mooi doel voor een middagtocht. Wie liever niet klimt, kan de bergbaan gebruiken.\n\nHet gebied is geschikt voor gezinnen met fietsende kinderen, mits je de moeilijkheid van de route bewust kiest. Bij de dalstation en in het dorp kun je meestal fietsen huren. Een e-bike maakt de klim voor volwassenen een stuk lichter.",
+   "en": "Brixen im Thale lies in the Brixental and is part of the SkiWelt. From the village, forest tracks lead up to mountain inns such as the Kandleralm at just over 1,100 m, a nice goal for an afternoon ride. If you prefer not to climb, you can use the cable car.\n\nThe area suits families with cycling children, provided you pick routes of the right difficulty. Bikes can usually be rented near the valley station and in the village. An e-bike makes the climb much easier for adults.",
+   "de": "Brixen im Thale liegt im Brixental und gehört zur SkiWelt. Vom Ort führen Forstwege hinauf zu Almhütten wie der Kandleralm auf gut 1.100 m, ein schönes Ziel für eine Nachmittagstour. Wer nicht klettern möchte, kann die Bergbahn nutzen.\n\nDas Gebiet eignet sich für Familien mit radelnden Kindern, wenn man den Schwierigkeitsgrad der Strecke bewusst wählt. In der Nähe der Talstation und im Ort lassen sich meist Räder leihen. Ein E-Bike erleichtert den Anstieg für Erwachsene deutlich."
+  },
+  "tips": {
+   "nl": [
+    "Kies een hut als doel, dat motiveert kinderen.",
+    "Neem een helm mee en controleer de remmen voor vertrek.",
+    "Gebruik een e-bike voor de klim als niveaus in het gezin verschillen."
+   ],
+   "en": [
+    "Pick an alm as the goal; it motivates children.",
+    "Bring a helmet and check the brakes before setting off.",
+    "Use an e-bike for the climb if fitness levels differ in the family."
+   ],
+   "de": [
+    "Eine Almhütte als Ziel wählen, das motiviert Kinder.",
+    "Helm mitnehmen und vor dem Start die Bremsen prüfen.",
+    "Für den Anstieg ein E-Bike nutzen, wenn die Fitness in der Familie unterschiedlich ist."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau is Brixen im Thale ca. 35 minuten rijden via Wörgl en het Brixental. Vraag naar de actuele routes en bergbaantijden.",
+   "en": "Brixen im Thale is about 35 minutes from Niederau by car via Wörgl and the Brixental. Ask for current routes and lift times.",
+   "de": "Von Niederau erreicht man Brixen im Thale in ca. 35 Minuten mit dem Auto über Wörgl und das Brixental. Aktuelle Strecken und Bahnzeiten erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "Brixen im Thale, Brixental",
+   "en": "Brixen im Thale, Brixental",
+   "de": "Brixen im Thale, Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een berghut bereikbaar op de fiets?",
+     "en": "Is there an alm reachable by bike?",
+     "de": "Gibt es eine Alm, die man mit dem Rad erreicht?"
+    },
+    "a": {
+     "nl": "Ja, bijvoorbeeld de Kandleralm op ruim 1.100 m via een bosweg vanuit het dorp.",
+     "en": "Yes, for example the Kandleralm at just over 1,100 m via a forest track from the village.",
+     "de": "Ja, zum Beispiel die Kandleralm auf gut 1.100 m über einen Forstweg ab dem Ort."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "fietsen",
+  "_season": "summer",
+  "_orig_title": "Brixen im Thale fietsen en MTB",
+  "_orig_loc": "Brixen im Thale (20 min)"
+ },
+ {
+  "id": "s162",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "pillerseetal-mountain-biking",
+  "slug_de": "mountainbike-pillerseetal",
+  "title": {
+   "nl": "Mountainbiken in het Pillerseetal",
+   "en": "Mountain biking in the Pillerseetal",
+   "de": "Mountainbiken im PillerseeTal"
+  },
+  "tagline": {
+   "nl": "Een groot bikegebied met trails voor alle niveaus",
+   "en": "A large bike region with trails for all levels",
+   "de": "Eine große Bikeregion mit Trails für alle Niveaus"
+  },
+  "intro": {
+   "nl": "Het Pillerseetal rond Fieberbrunn en St. Ulrich am Pillersee noemt zich het grootste bikegebied van Oostenrijk: ruim 80 km aan lijnen en trails, bereikbaar met meerdere bergbanen. Door de koppeling met Saalbach Hinterglemm en Leogang is er keuze genoeg voor wie meerdere dagen wil rijden.\n\nVoor gezinnen zijn de rustige dalroutes en de makkelijkere trails het meest geschikt, terwijl gevorderden bovenin technischer terrein vinden. Het is een gebied dat minder druk is dan de bekendste namen, maar wel serieus uitgerust. Vraag ter plaatse naar kaarten en de actuele toestand van de trails.",
+   "en": "The Pillerseetal around Fieberbrunn and St. Ulrich am Pillersee bills itself as Austria's largest bike region: over 80 km of lines and trails reached by several cable cars. Its link with Saalbach Hinterglemm and Leogang gives plenty of choice for multi-day riders.\n\nFamilies will find the quiet valley routes and easier trails most suitable, while experienced riders will find more technical terrain higher up. The area is calmer than the best-known names but properly equipped. Ask locally for maps and current trail conditions.",
+   "de": "Das PillerseeTal rund um Fieberbrunn und St. Ulrich am Pillersee nennt sich Österreichs größte Bikeregion: über 80 km Lines und Trails, erreichbar mit mehreren Bergbahnen. Durch die Verbindung mit Saalbach Hinterglemm und Leogang gibt es genug Auswahl für mehrtägige Touren.\n\nFür Familien eignen sich die ruhigen Talrouten und leichteren Trails am besten, Fortgeschrittene finden weiter oben technischeres Gelände. Die Region ist ruhiger als die bekanntesten Namen, aber gut ausgestattet. Vor Ort nach Karten und dem aktuellen Zustand der Trails fragen."
+  },
+  "tips": {
+   "nl": [
+    "Kies voor kinderen de rustige dalroutes.",
+    "Draag een helm en bij steile trails ook bescherming.",
+    "Informeer naar de bergbaantijden voordat je vertrekt."
+   ],
+   "en": [
+    "Choose the quiet valley routes for children.",
+    "Wear a helmet, and protection on steep trails.",
+    "Check the lift times before you set off."
+   ],
+   "de": [
+    "Für Kinder die ruhigen Talrouten wählen.",
+    "Helm tragen, auf steilen Trails auch Protektoren.",
+    "Vor der Abfahrt die Betriebszeiten der Bergbahnen prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "Het Pillerseetal ligt ca. 1 uur rijden van Niederau, via Wörgl en Kitzbühel of St. Johann in Tirol. Het is een goede keuze voor een volle dag.",
+   "en": "The Pillerseetal is about 1 hour by car from Niederau, via Wörgl and Kitzbühel or St. Johann in Tirol. It suits a full day out.",
+   "de": "Das PillerseeTal liegt ca. 1 Stunde Autofahrt von Niederau entfernt, über Wörgl und Kitzbühel oder St. Johann in Tirol. Es eignet sich für einen ganzen Tag."
+  },
+  "facts": {
+   "age": {},
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "Pillerseetal, Fieberbrunn",
+   "en": "Pillerseetal, Fieberbrunn",
+   "de": "PillerseeTal, Fieberbrunn"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe groot is het bikegebied?",
+     "en": "How big is the bike region?",
+     "de": "Wie groß ist die Bikeregion?"
+    },
+    "a": {
+     "nl": "Het gebied meldt ruim 80 km aan lijnen en trails met meerdere bergbanen.",
+     "en": "The region reports over 80 km of lines and trails with several cable cars.",
+     "de": "Die Region nennt über 80 km Lines und Trails mit mehreren Bergbahnen."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "fietsen",
+  "_season": "summer",
+  "_orig_title": "MTB Pillerseetal trailnetwerk",
+  "_orig_loc": "Pillerseetal (40 min)"
+ },
+ {
+  "id": "s242",
+  "drop": false,
+  "drop_reason": "",
+  "place": "zell-am-ziller",
+  "slug_en": "zillertal-cycle-path-mayrhofen-zell",
+  "slug_de": "zillertal-radweg-mayrhofen-zell",
+  "title": {
+   "nl": "Zillertal-fietsroute Mayrhofen–Zell am Ziller",
+   "en": "Zillertal cycle path Mayrhofen to Zell am Ziller",
+   "de": "Zillertal-Radweg Mayrhofen–Zell am Ziller"
+  },
+  "tagline": {
+   "nl": "Een vlakke fietsroute langs de rivier door het Zillertal",
+   "en": "A flat ride along the river through the Zillertal",
+   "de": "Eine flache Radtour am Fluss durch das Zillertal"
+  },
+  "intro": {
+   "nl": "De Zillertal-radweg is ongeveer 30 km lang en loopt over de dalbodem van het Zillertal. Het traject takt bij de Zillerbrug af van de Innradweg en volgt via Uderns, Kaltenbach en Aschau de lijn van de Zillertalbahn naar Zell am Ziller; daarna gaat het langs de rivier naar Mayrhofen.\n\nDe route is vrijwel vlak en daardoor populair bij gezinnen. Je kunt gedeeltes fietsen, bijvoorbeeld Mayrhofen–Zell am Ziller, en terugkeren met trein of bus. Zell am Ziller is een goede plek voor een lunchstop. Controleer vooraf of de trein fietsen meeneemt.",
+   "en": "The Zillertal cycle path is about 30 km long and follows the valley floor. It branches off the Inn cycle path at the Ziller bridge and runs via Uderns, Kaltenbach and Aschau alongside the Zillertalbahn to Zell am Ziller, then along the river to Mayrhofen.\n\nThe route is almost flat and popular with families. You can ride sections, for example Mayrhofen to Zell am Ziller, and return by train or bus. Zell am Ziller is a good lunch stop. Check beforehand whether the train carries bikes.",
+   "de": "Der Zillertal-Radweg ist etwa 30 km lang und folgt dem Talboden. Er zweigt an der Zillerbrücke vom Innradweg ab und führt über Uderns, Kaltenbach und Aschau entlang der Zillertalbahn nach Zell am Ziller, dann am Fluss weiter nach Mayrhofen.\n\nDie Strecke ist nahezu flach und bei Familien beliebt. Man kann Abschnitte fahren, etwa Mayrhofen–Zell am Ziller, und mit Zug oder Bus zurückkehren. Zell am Ziller eignet sich gut für eine Mittagspause. Vorab prüfen, ob der Zug Räder mitnimmt."
+  },
+  "tips": {
+   "nl": [
+    "Fiets een deelstuk en keer terug met trein of bus.",
+    "Plan een lunchstop in Zell am Ziller.",
+    "Informeer vooraf naar fietsvervoer in de trein."
+   ],
+   "en": [
+    "Ride a section and return by train or bus.",
+    "Plan a lunch stop in Zell am Ziller.",
+    "Ask about bike transport on the train in advance."
+   ],
+   "de": [
+    "Einen Teilabschnitt radeln und mit Zug oder Bus zurückfahren.",
+    "Eine Mittagspause in Zell am Ziller einplanen.",
+    "Den Radtransport im Zug vorab erfragen."
+   ]
+  },
+  "practical": {
+   "nl": "Zell am Ziller ligt ca. 50 minuten rijden van Niederau, Mayrhofen ca. 1 uur. Vraag ter plaatse naar fietsverhuur.",
+   "en": "Zell am Ziller is about 50 minutes by car from Niederau, Mayrhofen about 1 hour. Ask locally about bike rental.",
+   "de": "Zell am Ziller ist ca. 50 Minuten Autofahrt von Niederau entfernt, Mayrhofen ca. 1 Stunde. Radverleih vor Ort erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "Zillertal",
+   "en": "Zillertal",
+   "de": "Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de route vlak?",
+     "en": "Is the route flat?",
+     "de": "Ist die Strecke flach?"
+    },
+    "a": {
+     "nl": "Vrijwel, het is een route over de dalbodem en populair bij gezinnen.",
+     "en": "Almost entirely; it runs along the valley floor and is popular with families.",
+     "de": "Weitgehend; sie führt über den Talboden und ist bei Familien beliebt."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "fietsen",
+  "_season": "summer",
+  "_orig_title": "Fietsen Zillertal-route (Mayrhofen–Zell am Ziller)",
+  "_orig_loc": "Zillertal (45 min)"
+ },
+ {
+  "id": "s74",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "fieberbrunn-bike-area-streuboden",
+  "slug_de": "bike-area-streuboden-fieberbrunn",
+  "title": {
+   "nl": "Bike Area Streuboden in Fieberbrunn",
+   "en": "Bike Area Streuboden in Fieberbrunn",
+   "de": "Bike Area Streuboden in Fieberbrunn"
+  },
+  "tagline": {
+   "nl": "Flowtrail, lijnen en pumptrack bij Fieberbrunn",
+   "en": "Flow trail, lines and pump track at Fieberbrunn",
+   "de": "Flowtrail, Lines und Pumptrack bei Fieberbrunn"
+  },
+  "intro": {
+   "nl": "De Bike Area Streuboden bij Fieberbrunn in het Pillerseetal ontstond in 2021 en omvat een flowtrail, drie lijnen en een pumptrack tussen het midden- en dalstation van de Streubödenbahn. Daarnaast loopt de Schweinestberg-trail van ca. 4 km met golvende stukken en brede bochten.\n\nHet is een goede plek voor kinderen en tieners die al zelfverzekerd fietsen en voor beginners in bikeparks. Met de bergbaan ga je met je fiets omhoog en rijd je zelf weer naar beneden. Draag helm en bescherming, en controleer vooraf de openingstijden.",
+   "en": "The Bike Area Streuboden near Fieberbrunn in the Pillerseetal opened in 2021 and has a flow trail, three lines and a pump track between the middle and valley stations of the Streuböden lift. The Schweinestberg trail of about 4 km adds undulating sections and wide berms.\n\nIt is a good spot for children and teenagers who already ride confidently, and for bike-park beginners. The lift takes you and your bike up and you ride back down. Wear a helmet and protection, and check opening times beforehand.",
+   "de": "Die Bike Area Streuboden bei Fieberbrunn im PillerseeTal entstand 2021 und umfasst einen Flowtrail, drei Lines und einen Pumptrack zwischen Mittel- und Talstation der Streubödenbahn. Dazu kommt der Schweinestberg-Trail von rund 4 km mit welligen Passagen und breiten Kurven.\n\nSie ist ein guter Ort für Kinder und Jugendliche, die schon sicher radeln, und für Bikepark-Einsteiger. Die Bahn bringt dich samt Rad nach oben, runter fährst du selbst. Helm und Protektoren tragen und Öffnungszeiten vorab prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Begin op de flowtrail voordat je andere lijnen probeert.",
+    "Draag helm en bescherming.",
+    "Check de bergbaantijden en trailstatus vooraf."
+   ],
+   "en": [
+    "Start on the flow trail before trying other lines.",
+    "Wear a helmet and protection.",
+    "Check lift times and trail status beforehand."
+   ],
+   "de": [
+    "Zuerst auf dem Flowtrail üben, bevor man andere Lines probiert.",
+    "Helm und Protektoren tragen.",
+    "Bahnzeiten und Trailstatus vorab prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "Fieberbrunn ligt ca. 1 uur rijden van Niederau, via Wörgl en Kitzbühel of St. Johann in Tirol. Reken op een volle dag.",
+   "en": "Fieberbrunn is about 1 hour by car from Niederau, via Wörgl and Kitzbühel or St. Johann in Tirol. Plan a full day.",
+   "de": "Fieberbrunn liegt ca. 1 Stunde Autofahrt von Niederau entfernt, über Wörgl und Kitzbühel oder St. Johann in Tirol. Ein ganzer Tag ist sinnvoll."
+  },
+  "facts": {
+   "age": {},
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "Fieberbrunn, Pillerseetal",
+   "en": "Fieberbrunn, Pillerseetal",
+   "de": "Fieberbrunn, PillerseeTal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er te doen in de Bike Area?",
+     "en": "What is in the bike area?",
+     "de": "Was gibt es in der Bike Area?"
+    },
+    "a": {
+     "nl": "Een flowtrail, drie lijnen en een pumptrack, plus de Schweinestberg-trail.",
+     "en": "A flow trail, three lines and a pump track, plus the Schweinestberg trail.",
+     "de": "Einen Flowtrail, drei Lines und einen Pumptrack sowie den Schweinestberg-Trail."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "fietsen",
+  "_season": "summer",
+  "_orig_title": "Fieberbrunn Bikepark",
+  "_orig_loc": "Fieberbrunn (50 min)"
+ },
+ {
+  "id": "s99",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "brixental-cycle-route",
+  "slug_de": "radweg-brixental",
+  "title": {
+   "nl": "Fietsen door het Brixental",
+   "en": "Cycling through the Brixental",
+   "de": "Radfahren durch das Brixental"
+  },
+  "tagline": {
+   "nl": "Een lange dalroute langs Hopfgarten, Westendorf en Kirchberg",
+   "en": "A long valley route past Hopfgarten, Westendorf and Kirchberg",
+   "de": "Eine lange Talroute vorbei an Hopfgarten, Westendorf und Kirchberg"
+  },
+  "intro": {
+   "nl": "Het Brixental biedt een lange fietsroute door het dal, langs dorpen als Hopfgarten, Brixen im Thale, Westendorf en Kirchberg richting Kitzbühel. Het traject loopt grotendeels door de dalbodem, met af en toe een klim. Je kunt het hele stuk rijden of een deel kiezen.\n\nLangs de route liggen weiden, rivieroevers en horeca voor een lunchstop. Met een e-bike maak je de stukken met hoogteverschil makkelijker, en met de bus of trein kun je terugkeren. Haal een kaart bij het toeristenbureau en controleer vooraf de actuele route.",
+   "en": "The Brixental offers a long cycle route through the valley, past villages such as Hopfgarten, Brixen im Thale, Westendorf and Kirchberg towards Kitzbühel. It mostly runs along the valley floor with the occasional climb. You can ride the whole stretch or choose a section.\n\nAlong the way are meadows, riverbanks and places to eat for a lunch stop. An e-bike makes the hillier parts easier, and you can return by bus or train. Pick up a map at the tourist office and check the current route beforehand.",
+   "de": "Das Brixental bietet eine lange Radroute durch das Tal, vorbei an Orten wie Hopfgarten, Brixen im Thale, Westendorf und Kirchberg Richtung Kitzbühel. Die Strecke verläuft überwiegend auf dem Talboden, ab und zu gibt es einen Anstieg. Man kann die ganze Strecke fahren oder einen Abschnitt wählen.\n\nUnterwegs gibt es Wiesen, Flussufer und Einkehrmöglichkeiten für eine Mittagspause. Mit dem E-Bike werden die hügeligeren Teile leichter, zurück geht es mit Bus oder Zug. Eine Karte gibt es im Tourismusbüro, die aktuelle Strecke vorab prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Kies een deeltraject als de hele route te lang is.",
+    "Huur een e-bike voor de hoogteverschillen.",
+    "Keer terug met bus of trein."
+   ],
+   "en": [
+    "Pick a section if the full route is too long.",
+    "Rent an e-bike for the hills.",
+    "Return by bus or train."
+   ],
+   "de": [
+    "Einen Teilabschnitt wählen, wenn die ganze Strecke zu lang ist.",
+    "Für die Anstiege ein E-Bike mieten.",
+    "Mit Bus oder Zug zurückfahren."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten ligt ca. 25 minuten rijden van Niederau en is een goed startpunt. Verhuur vind je in de dorpen in het Brixental.",
+   "en": "Hopfgarten is about 25 minutes by car from Niederau and a good starting point. Rental is available in the Brixental villages.",
+   "de": "Hopfgarten ist ca. 25 Minuten Autofahrt von Niederau entfernt und ein guter Startpunkt. Verleih gibt es in den Orten des Brixentals."
+  },
+  "facts": {
+   "age": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "Brixental",
+   "en": "Brixental",
+   "de": "Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik de hele route fietsen?",
+     "en": "Do I have to ride the whole route?",
+     "de": "Muss ich die ganze Strecke fahren?"
+    },
+    "a": {
+     "nl": "Nee, je kunt een deel kiezen en met bus of trein terugkeren.",
+     "en": "No, you can choose a section and return by bus or train.",
+     "de": "Nein, man kann einen Abschnitt wählen und mit Bus oder Zug zurückkehren."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "fietsen",
+  "_season": "summer",
+  "_orig_title": "Brixental Cycle Route",
+  "_orig_loc": "Brixental (20 min)"
+ },
+ {
+  "id": "w26",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "skiwelt-wilder-kaiser-day-trip",
+  "slug_de": "skiwelt-wilder-kaiser-tagesausflug",
+  "title": {
+   "nl": "Dagtrip naar de SkiWelt Wilder Kaiser-Brixental",
+   "en": "Day trip to SkiWelt Wilder Kaiser-Brixental",
+   "de": "Tagesausflug in die SkiWelt Wilder Kaiser-Brixental"
+  },
+  "tagline": {
+   "nl": "Een van de grootste skigebieden van Oostenrijk, vlakbij",
+   "en": "One of Austria's largest ski areas, close by",
+   "de": "Eines der größten Skigebiete Österreichs, ganz in der Nähe"
+  },
+  "intro": {
+   "nl": "De SkiWelt Wilder Kaiser-Brixental is een van de grootste skigebieden van Oostenrijk, met ca. 275 tot 288 piste-km (bronnen noemen verschillende cijfers). Acht tot negen dorpen zijn met bergbanen met elkaar verbonden, waaronder Hopfgarten, Brixen im Thale, Westendorf, Söll en Ellmau.\n\nVoor een afwisselende dag buiten het Ski Juwel is dit een logische keuze. Er zijn veel makkelijke pistes, snowparks en bergrestaurants. Een SkiWelt-dagpas wordt apart verkocht; vraag bij de kassa naar de actuele prijzen en of je Ski Juwel-pas korting geeft. Begin in Hopfgarten of Söll.",
+   "en": "SkiWelt Wilder Kaiser-Brixental is one of Austria's largest ski areas, with roughly 275 to 288 km of pistes (sources give different figures). Eight to nine villages are linked by lifts, including Hopfgarten, Brixen im Thale, Westendorf, Söll and Ellmau.\n\nFor a varied day away from the Ski Juwel it is a natural choice. There are many easy slopes, snow parks and mountain restaurants. A SkiWelt day pass is sold separately; ask at the ticket office for current prices and whether your Ski Juwel pass earns a discount. Start from Hopfgarten or Söll.",
+   "de": "Die SkiWelt Wilder Kaiser-Brixental ist eines der größten Skigebiete Österreichs mit rund 275 bis 288 Pistenkilometern (Quellen nennen unterschiedliche Zahlen). Acht bis neun Orte sind durch Bergbahnen verbunden, darunter Hopfgarten, Brixen im Thale, Westendorf, Söll und Ellmau.\n\nFür einen abwechslungsreichen Tag außerhalb des Ski Juwel ist sie eine naheliegende Wahl. Es gibt viele leichte Pisten, Snowparks und Bergrestaurants. Eine SkiWelt-Tageskarte wird separat verkauft; an der Kasse nach aktuellen Preisen und möglichen Ermäßigungen mit dem Ski-Juwel-Pass fragen. Start in Hopfgarten oder Söll."
+  },
+  "tips": {
+   "nl": [
+    "Start in Hopfgarten of Söll, afhankelijk van waar je naartoe wilt.",
+    "Download de SkiWelt-app voor liftstatus.",
+    "Eet vroeg, bergrestaurants zijn rond de middag druk."
+   ],
+   "en": [
+    "Start in Hopfgarten or Söll, depending on where you want to ski.",
+    "Download the SkiWelt app for lift status.",
+    "Eat early, as mountain restaurants are busy around midday."
+   ],
+   "de": [
+    "In Hopfgarten oder Söll starten, je nach Ziel.",
+    "Die SkiWelt-App für den Liftstatus herunterladen.",
+    "Früh essen, die Bergrestaurants sind mittags voll."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten ligt ca. 25 minuten rijden van Niederau. Parkeren kan bij de dalstations; vraag of een shuttle beschikbaar is.",
+   "en": "Hopfgarten is about 25 minutes by car from Niederau. Parking is available near the valley stations; ask whether a shuttle runs.",
+   "de": "Hopfgarten ist ca. 25 Minuten Autofahrt von Niederau entfernt. An den Talstationen kann man parken; nach einem Shuttle fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "SkiWelt Wilder Kaiser-Brixental",
+   "en": "SkiWelt Wilder Kaiser-Brixental",
+   "de": "SkiWelt Wilder Kaiser-Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel kilometer piste heeft de SkiWelt?",
+     "en": "How many km of pistes does SkiWelt have?",
+     "de": "Wie viele Pistenkilometer hat die SkiWelt?"
+    },
+    "a": {
+     "nl": "Bronnen noemen ca. 275 tot 288 piste-km.",
+     "en": "Sources give roughly 275 to 288 km of pistes.",
+     "de": "Quellen nennen ca. 275 bis 288 Pistenkilometer."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "skieen",
+  "_season": "winter",
+  "_orig_title": "SkiWelt Wilder Kaiser — Dagtrip",
+  "_orig_loc": "SkiWelt Wilder Kaiser (Hopfgarten, Söll e.a.)"
+ },
+ {
+  "id": "s131",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "hohe-salve-summit-hopfgarten",
+  "slug_de": "hohe-salve-gipfel-hopfgarten",
+  "title": {
+   "nl": "Hohe Salve vanuit Hopfgarten",
+   "en": "Hohe Salve from Hopfgarten",
+   "de": "Hohe Salve ab Hopfgarten"
+  },
+  "tagline": {
+   "nl": "Panoramaberg met bedevaartskerkje boven het Brixental",
+   "en": "Panorama peak with a pilgrimage chapel above the Brixental",
+   "de": "Aussichtsberg mit Wallfahrtskirchlein über dem Brixental"
+  },
+  "intro": {
+   "nl": "De Hohe Salve (1.829 m) staat bekend als een van de beste uitkijkpunten van Tirol. Vanuit Hopfgarten im Brixental breng je de Salvenbahn naar boven, waarna je in korte tijd bij de top bent. Het uitzicht reikt over de Kitzbüheler Alpen, de Wilder Kaiser en, bij helder weer, tot de ijstoppen van de Hohe Tauern.\n\nOp de top staat het Salvenkirchlein, een bedevaartskerkje uit 1777 dat als de hoogstgelegen bedevaartskerk van Oostenrijk wordt beschreven. Er zijn berghutten en wandelpaden in verschillende lengtes, dus de tocht past bij gezinnen die liever rustig rondkijken én bij wie een halve dag wil wandelen. Je kunt ook lopend vanuit het dal omhoog.",
+   "en": "The Hohe Salve (1,829 m) is known as one of Tyrol's best viewpoints. From Hopfgarten im Brixental the Salvenbahn lifts you up, and you reach the summit in a short time. The view stretches across the Kitzbühel Alps and the Wilder Kaiser and, in clear weather, as far as the glaciated peaks of the Hohe Tauern.\n\nThe Salvenkirchlein on the summit is a pilgrimage chapel dating from 1777, described as the highest-situated pilgrimage church in Austria. There are mountain huts and walking trails of various lengths, so the trip suits families who simply want to enjoy the views as well as those who want a half-day hike. You can also walk up from the valley.",
+   "de": "Die Hohe Salve (1.829 m) gilt als einer der besten Aussichtsberge Tirols. Von Hopfgarten im Brixental bringt dich die Salvenbahn nach oben, danach ist der Gipfel schnell erreicht. Die Aussicht reicht über die Kitzbüheler Alpen und den Wilden Kaiser und bei klarem Wetter bis zu den vergletscherten Gipfeln der Hohen Tauern.\n\nAuf dem Gipfel steht das Salvenkirchlein, eine Wallfahrtskirche von 1777, die als höchstgelegene Wallfahrtskirche Österreichs beschrieben wird. Es gibt Berghütten und Wanderwege unterschiedlicher Länge, sodass der Ausflug sowohl für Familien passt, die nur die Aussicht genießen wollen, als auch für alle, die einen halben Tag wandern möchten. Du kannst auch zu Fuß aus dem Tal aufsteigen."
+  },
+  "tips": {
+   "nl": [
+    "Ga bij voorkeur 's ochtends, dan is het zicht vaak het helderst.",
+    "Neem een jas mee; op de top is het merkbaar frisser dan in het dal.",
+    "Bekijk eerst de weersvoorspelling en de bedrijfstijden van de Salvenbahn.",
+    "Draag stevige schoenen als je over de paden wilt lopen."
+   ],
+   "en": [
+    "Go in the morning if you can; visibility is often best then.",
+    "Take a jacket; it is noticeably cooler at the top than in the valley.",
+    "Check the weather forecast and the Salvenbahn's operating times first.",
+    "Wear sturdy shoes if you plan to walk the trails."
+   ],
+   "de": [
+    "Fahre am besten vormittags, dann ist die Sicht oft am klarsten.",
+    "Nimm eine Jacke mit; auf dem Gipfel ist es spürbar kühler als im Tal.",
+    "Prüfe vorher Wetterbericht und Betriebszeiten der Salvenbahn.",
+    "Trag feste Schuhe, wenn du die Wege abwandern willst."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten ligt ca. 25 minuten rijden van Niederau, via Wörgl en het Brixental. Parkeren is mogelijk bij het dalstation. De bahn rijdt in de zomerperiode, doorgaans van eind mei tot in oktober.",
+   "en": "Hopfgarten is about 25 minutes by car from Niederau, via Wörgl and the Brixental. Parking is available at the valley station. The lift runs during the summer season, generally from late May to October.",
+   "de": "Hopfgarten liegt ca. 25 Autominuten von Niederau entfernt, über Wörgl und das Brixental. Am Tal­station kannst du parken. Die Bahn fährt im Sommer, in der Regel von Ende Mai bis in den Oktober."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "About 25 min by car",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot oktober)",
+    "en": "Summer (approx. May to October)",
+    "de": "Sommer (ca. Mai bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog ligt de Hohe Salve en wat staat er op de top?",
+     "en": "How high is the Hohe Salve and what is on the summit?",
+     "de": "Wie hoch ist die Hohe Salve und was steht auf dem Gipfel?"
+    },
+    "a": {
+     "nl": "De top ligt op 1.829 m. Er staat het Salvenkirchlein, een bedevaartskerkje uit 1777.",
+     "en": "The summit is at 1,829 m. The Salvenkirchlein, a pilgrimage chapel from 1777, stands there.",
+     "de": "Der Gipfel liegt auf 1.829 m. Dort steht das Salvenkirchlein, eine Wallfahrtskirche von 1777."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "wandelen",
+  "_season": "summer",
+  "_orig_title": "Hohe Salve panoramabelvedere (Hopfgarten)",
+  "_orig_loc": "Hopfgarten im Brixental (20 min)"
+ },
+ {
+  "id": "s146",
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "brandstadl-scheffau",
+  "slug_de": "brandstadl-scheffau",
+  "title": {
+   "nl": "Brandstadl bij Scheffau",
+   "en": "Brandstadl above Scheffau",
+   "de": "Brandstadl bei Scheffau"
+  },
+  "tagline": {
+   "nl": "Wandelen en spelen met de Wilder Kaiser als achtergrond",
+   "en": "Walking and playing with the Wilder Kaiser as a backdrop",
+   "de": "Wandern und Spielen mit dem Wilden Kaiser als Kulisse"
+  },
+  "intro": {
+   "nl": "In Scheffau am Wilden Kaiser brengt de Brandstadlbahn, een gondel met acht plaatsen, je in de zomer naar ongeveer 1.650 m. Rond het bergstation ligt een mooi wandelgebied met uitzicht op de rotswanden van de Wilder Kaiser. Dichtbij het station vind je ook de KaiserWelt, een speelwereld voor gezinnen.\n\nDaar kunnen kinderen edelstenen zoeken, klimmen en langs beekjes spelen. Voor wandelaars zijn er eenvoudige paden naar onder meer het Jochstub'nsee en de panoramaroute naar het bergstation Hartkaiser in Ellmau. Het is een goede keuze voor wie het combineert met een halve dag spelen of een rustige tocht met de kinderen.",
+   "en": "In Scheffau am Wilden Kaiser the Brandstadlbahn, an eight-seat gondola, takes you in summer to around 1,650 m. Around the top station lies a pleasant walking area with views of the Wilder Kaiser rock walls. Close to the station you will also find the KaiserWelt, a play area for families.\n\nThere, children can search for gemstones, climb and play beside streams. For walkers there are easy paths to places such as the Jochstub'nsee and the panorama route to the Hartkaiser station in Ellmau. It is a good choice if you want half a day of play or a gentle outing with the children.",
+   "de": "In Scheffau am Wilden Kaiser bringt dich im Sommer die Brandstadlbahn, eine Achter-Gondel, auf rund 1.650 m. Rund um die Bergstation liegt ein schönes Wandergebiet mit Blick auf die Felswände des Wilden Kaisers. In der Nähe der Station findest du außerdem die KaiserWelt, eine Erlebniswelt für Familien.\n\nDort können Kinder Edelsteine suchen, klettern und an Bächen spielen. Für Wanderer gibt es leichte Wege, unter anderem zum Jochstub'nsee und die Panoramaroute zur Bergstation Hartkaiser in Ellmau. Es ist eine gute Wahl für einen halben Tag Spiel oder einen gemütlichen Ausflug mit den Kindern."
+  },
+  "tips": {
+   "nl": [
+    "Plan zeker tijd in voor de KaiserWelt als je met kinderen reist.",
+    "De panoramaroute naar Ellmau is langer; reken uit hoe je terugkomt.",
+    "Neem regenkleding mee; de weersomslag in de bergen gaat snel.",
+    "Controleer de bedrijfstijden van de bahn voor je vertrekt."
+   ],
+   "en": [
+    "Allow time for the KaiserWelt if you travel with children.",
+    "The panorama route to Ellmau is longer; work out how you will get back.",
+    "Bring rain gear; mountain weather changes quickly.",
+    "Check the lift's operating times before you leave."
+   ],
+   "de": [
+    "Plane Zeit für die KaiserWelt ein, wenn du mit Kindern unterwegs bist.",
+    "Die Panoramaroute nach Ellmau ist länger; überlege, wie du zurückkommst.",
+    "Nimm Regenkleidung mit; das Wetter schlägt in den Bergen schnell um.",
+    "Prüfe die Betriebszeiten der Bahn, bevor du losfährst."
+   ]
+  },
+  "practical": {
+   "nl": "Scheffau ligt ca. 40 minuten rijden van Niederau, via Wörgl en Söll. De Brandstadlbahn rijdt in de zomer doorgaans van half mei tot half oktober; tijden verschillen per jaar.",
+   "en": "Scheffau is about 40 minutes by car from Niederau, via Wörgl and Söll. The Brandstadlbahn generally runs from mid-May to mid-October in summer; times vary each year.",
+   "de": "Scheffau liegt ca. 40 Autominuten von Niederau entfernt, über Wörgl und Söll. Die Brandstadlbahn fährt im Sommer in der Regel von Mitte Mai bis Mitte Oktober; die Zeiten variieren jährlich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "About 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot oktober)",
+    "en": "Summer (approx. May to October)",
+    "de": "Sommer (ca. Mai bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Scheffau am Wilden Kaiser",
+   "en": "Scheffau am Wilden Kaiser",
+   "de": "Scheffau am Wilden Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen te doen bij het bergstation van Scheffau?",
+     "en": "What can children do at the Scheffau top station?",
+     "de": "Was können Kinder an der Bergstation in Scheffau machen?"
+    },
+    "a": {
+     "nl": "Er is de KaiserWelt met onder meer edelstenen zoeken, klimmen en spelen bij beekjes.",
+     "en": "There is the KaiserWelt, with gem searching, climbing and playing by streams.",
+     "de": "Es gibt die KaiserWelt mit Edelsteinsuche, Klettern und Spielen an Bächen."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "wandelen",
+  "_season": "summer",
+  "_orig_title": "Gondel Scheffau naar SkiWelt-plateau",
+  "_orig_loc": "Scheffau am Wilden Kaiser (25 min)"
+ },
+ {
+  "id": "s151",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hintertux",
+  "slug_en": "hintertux-glacier-summer",
+  "slug_de": "hintertuxer-gletscher-sommer",
+  "title": {
+   "nl": "Hintertuxer Gletscher in de zomer",
+   "en": "Hintertux Glacier in summer",
+   "de": "Hintertuxer Gletscher im Sommer"
+  },
+  "tagline": {
+   "nl": "Gletsjerlucht, ijsgrot en hooggebergte in het Zillertal",
+   "en": "Glacier air, an ice cave and high mountains in the Zillertal",
+   "de": "Gletscherluft, Eispalast und Hochgebirge im Zillertal"
+  },
+  "intro": {
+   "nl": "De Hintertuxer Gletscher, aan het einde van het Tuxertal in het Zillertal, is ook in de zomer een bezoek waard. Met de gletsjerbahnen kom je tot ruim 3.000 m hoogte, in een landschap van ijs en rots dat sterk afsteekt tegen het dal. Op de gletsjer wordt skiën in de zomer niet altijd aangeboden; dat hangt van de sneeuwcondities af.\n\nEen bijzondere stop is het Natur Eis Palast bij het bergstation van de Gletscherbus 3, een systeem van natuurlijke ijsgrotten met ijskristallen en een gletsjermeer. De temperatuur is er rond het vriespunt. Voor gezinnen is het vooral een dagje hooggebergte beleven; reken op kou, ook als het in het dal warm is.",
+   "en": "The Hintertux Glacier, at the end of the Tuxertal in the Zillertal, is worth a visit in summer too. The glacier lifts take you to well over 3,000 m, into a landscape of ice and rock that contrasts sharply with the valley. Skiing on the glacier is not always offered in summer; it depends on snow conditions.\n\nA special stop is the Natur Eis Palast near the top station of the Gletscherbus 3, a system of natural ice caves with ice crystals and a glacier lake. The temperature there hovers around freezing. For families it is mainly a day of experiencing the high mountains; expect cold, even when the valley is warm.",
+   "de": "Der Hintertuxer Gletscher am Ende des Tuxertals im Zillertal lohnt auch im Sommer einen Besuch. Mit den Gletscherbahnen gelangst du auf weit über 3.000 m, in eine Landschaft aus Eis und Fels, die sich stark vom Tal unterscheidet. Skifahren auf dem Gletscher wird im Sommer nicht immer angeboten; es hängt von den Schneeverhältnissen ab.\n\nEin besonderer Halt ist der Natur Eis Palast an der Bergstation der Gletscherbus 3, ein System natürlicher Eishöhlen mit Eiskristallen und einem Gletschersee. Dort herrschen Temperaturen um den Gefrierpunkt. Für Familien ist es vor allem ein Tag Hochgebirge erleben; rechne mit Kälte, auch wenn es im Tal warm ist."
+  },
+  "tips": {
+   "nl": [
+    "Neem warme kleding, een muts en handschoenen mee, ook in augustus.",
+    "Bekijk vooraf of skiën op de gletsjer in jouw week mogelijk is.",
+    "Start vroeg; boven trekt het in de middag vaak dicht.",
+    "Draag stevige schoenen en let op de hoogte met jonge kinderen."
+   ],
+   "en": [
+    "Take warm clothes, a hat and gloves, even in August.",
+    "Check beforehand whether glacier skiing is possible during your week.",
+    "Start early; it often clouds over at the top in the afternoon.",
+    "Wear sturdy shoes and be mindful of the altitude with young children."
+   ],
+   "de": [
+    "Nimm warme Kleidung, Mütze und Handschuhe mit, auch im August.",
+    "Prüfe vorab, ob Skifahren auf dem Gletscher in deiner Woche möglich ist.",
+    "Starte früh; oben zieht es nachmittags oft zu.",
+    "Trag feste Schuhe und achte mit kleinen Kindern auf die Höhe."
+   ]
+  },
+  "practical": {
+   "nl": "Hintertux ligt ca. 1 uur 15 minuten rijden van Niederau, via Wörgl en het Zillertal. Reken voor de rit naar boven extra tijd en bekijk de actuele bedrijfstijden.",
+   "en": "Hintertux is about 1 hour 15 minutes by car from Niederau, via Wörgl and the Zillertal. Allow extra time for the ride up and check the current operating times.",
+   "de": "Hintertux liegt ca. 1 Stunde 15 Minuten Autofahrt von Niederau entfernt, über Wörgl und das Zillertal. Plane für die Auffahrt zusätzliche Zeit ein und prüfe die aktuellen Betriebszeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden (let op kou en hoogte)",
+    "en": "All ages (mind cold and altitude)",
+    "de": "Für alle Altersgruppen (Kälte und Höhe beachten)"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 15 min rijden",
+    "en": "About 1 h 15 min by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (zomeraanbod wisselt)",
+    "en": "Year-round (summer offer varies)",
+    "de": "Ganzjährig (Sommerangebot variiert)"
+   }
+  },
+  "location": {
+   "nl": "Hintertux, Zillertal",
+   "en": "Hintertux, Zillertal",
+   "de": "Hintertux, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je in de zomer skiën op de Hintertuxer Gletscher?",
+     "en": "Can you ski on the Hintertux Glacier in summer?",
+     "de": "Kann man im Sommer am Hintertuxer Gletscher Ski fahren?"
+    },
+    "a": {
+     "nl": "Soms, maar niet altijd. Het hangt van de sneeuwcondities af, dus informeer vooraf.",
+     "en": "Sometimes, but not always. It depends on snow conditions, so ask beforehand.",
+     "de": "Manchmal, aber nicht immer. Es hängt von den Schneeverhältnissen ab, daher bitte vorab erfragen."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "wandelen",
+  "_season": "summer",
+  "_orig_title": "Hintertux Gletsjer in de zomer",
+  "_orig_loc": "Hintertux, Zillertal (60 min)"
+ },
+ {
+  "id": "s160",
+  "drop": false,
+  "drop_reason": "",
+  "place": "jenbach",
+  "slug_en": "karwendel-walk-pertisau-achensee",
+  "slug_de": "karwendel-wanderung-pertisau-achensee",
+  "title": {
+   "nl": "Karwendel-wandeling bij Pertisau",
+   "en": "Karwendel walk near Pertisau",
+   "de": "Karwendel-Wanderung bei Pertisau"
+  },
+  "tagline": {
+   "nl": "Wandelen boven het Achensee met uitzicht op Karwendel en Rofan",
+   "en": "Walking above the Achensee with Karwendel and Rofan views",
+   "de": "Wandern über dem Achensee mit Blick auf Karwendel und Rofan"
+  },
+  "intro": {
+   "nl": "Pertisau ligt aan het Achensee, het grootste meer van Tirol, en is een startpunt voor wandelingen het Karwendel in. Het Karwendel is een uitgestrekt natuurpark met ruige kalkwanden. Vanaf Pertisau lopen paden omhoog door bos en over alpenweiden, met af en toe een uitzicht over het meer en het Rofangebergte aan de overzijde.\n\nEr zijn routes van korte rondjes tot langere tochten. Steile paden vragen om goede wandelschoenen en een basisconditie, dus de langere routes passen vooral bij ouders met oudere kinderen. Wie het rustig wil houden, kan langs het meer wandelen en een boottocht of een zwempauze inplannen.",
+   "en": "Pertisau lies on the Achensee, Tyrol's largest lake, and is a starting point for walks into the Karwendel. The Karwendel is an extensive nature park with rugged limestone walls. From Pertisau, paths climb through forest and over alpine pastures, with the occasional view over the lake and the Rofan mountains opposite.\n\nRoutes range from short loops to longer outings. Steep paths call for good hiking shoes and basic fitness, so the longer routes suit mainly parents with older children. If you want to keep it relaxed, you can walk along the lake and plan a boat trip or a swim.",
+   "de": "Pertisau liegt am Achensee, dem größten See Tirols, und ist Ausgangspunkt für Wanderungen ins Karwendel. Das Karwendel ist ein weitläufiger Naturpark mit schroffen Kalkwänden. Von Pertisau führen Wege durch Wald und über Almwiesen nach oben, mit gelegentlichem Blick über den See und auf das Rofangebirge gegenüber.\n\nEs gibt Routen von kurzen Runden bis zu längeren Touren. Steile Wege verlangen gute Wanderschuhe und Grundkondition, daher passen die längeren Routen vor allem zu Eltern mit älteren Kindern. Wer es ruhig angehen will, spaziert am See entlang und plant eine Bootsfahrt oder eine Badepause ein."
+  },
+  "tips": {
+   "nl": [
+    "Start vroeg; in de ochtend is het meestal rustiger en helderder.",
+    "Draag goede wandelschoenen; sommige paden zijn steil.",
+    "Neem voldoende water mee; langs de route zijn niet overal voorzieningen.",
+    "Combineer de wandeling met een stop aan het meer."
+   ],
+   "en": [
+    "Start early; mornings are usually quieter and clearer.",
+    "Wear good hiking shoes; some paths are steep.",
+    "Bring enough water; there are not facilities everywhere along the route.",
+    "Combine the walk with a stop at the lake."
+   ],
+   "de": [
+    "Starte früh; am Vormittag ist es meist ruhiger und klarer.",
+    "Trag gute Wanderschuhe; manche Wege sind steil.",
+    "Nimm genug Wasser mit; nicht überall an der Strecke gibt es Einkehrmöglichkeiten.",
+    "Verbinde die Wanderung mit einem Halt am See."
+   ]
+  },
+  "practical": {
+   "nl": "Pertisau ligt ca. 50 minuten tot 1 uur rijden van Niederau, via de A12 (afrit Jenbach) en de weg naar het Achensee. Er is parkeergelegenheid in het dorp; de routes beginnen daar of in de buurt.",
+   "en": "Pertisau is about 50 minutes to 1 hour by car from Niederau, via the A12 (Jenbach exit) and the road to the Achensee. There is parking in the village; the routes start there or nearby.",
+   "de": "Pertisau liegt ca. 50 Minuten bis 1 Stunde Autofahrt von Niederau entfernt, über die A12 (Ausfahrt Jenbach) und die Straße zum Achensee. Im Ort gibt es Parkmöglichkeiten; die Routen beginnen dort oder in der Nähe."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar (afhankelijk van de route)",
+    "en": "From approx. 8 years (depending on the route)",
+    "de": "Ab ca. 8 Jahren (je nach Route)"
+   },
+   "duration": {
+    "nl": "Ca. 3 tot 5 uur, afhankelijk van de route",
+    "en": "About 3 to 5 hours, depending on the route",
+    "de": "Ca. 3 bis 5 Stunden, je nach Route"
+   },
+   "price": {
+    "nl": "Wandelen is gratis",
+    "en": "Walking is free",
+    "de": "Wandern ist kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 50 min tot 1 u rijden",
+    "en": "About 50 min to 1 h by car",
+    "de": "Ca. 50 Min. bis 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Pertisau, Achensee",
+   "en": "Pertisau, Achensee",
+   "de": "Pertisau, Achensee"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Karwendel-wandeling geschikt voor kinderen?",
+     "en": "Is the Karwendel walk suitable for children?",
+     "de": "Ist die Karwendel-Wanderung für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Korte routes bij het meer wel; de langere paden zijn steil en passen vooral bij oudere kinderen.",
+     "en": "Short routes near the lake yes; the longer paths are steep and suit mainly older children.",
+     "de": "Kurze Routen am See ja; die längeren Wege sind steil und passen eher zu älteren Kindern."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "wandelen",
+  "_season": "summer",
+  "_orig_title": "Karwendel-wandeling boven het Achensee",
+  "_orig_loc": "Achensee, Pertisau (45 min)"
+ }
+]
