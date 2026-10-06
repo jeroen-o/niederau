@@ -1707,5 +1707,65 @@
    "cultuur"
   ],
   false
+ ],
+ [
+  "niederau-zomer-klimpark-boomplatform",
+  [
+   "Houten platform hoog in de bomen van een klimpark, gezien van onderaf",
+   "Wooden platform high in the trees of a high-ropes course, seen from below",
+   "Holzplattform hoch in den Bäumen eines Kletterparks, von unten gesehen"
+  ],
+  [
+   "klimpark",
+   "klimmen",
+   "hoogteparcours",
+   "touwenparcours"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-meer-zwemmer-avondlicht",
+  [
+   "Zwemmer in een rustig bergmeer in het avondlicht, met een bosrijke oever en heuvels",
+   "Swimmer in a calm mountain lake in the evening light, with a wooded shore and hills",
+   "Schwimmer in einem ruhigen Bergsee im Abendlicht, mit bewaldetem Ufer und Hügeln"
+  ],
+  [],
+  false
+ ],
+ [
+  "niederau-zomer-meer-schemering-bergen",
+  [
+   "Bergmeer in de schemering met donkere bergen en een dorp aan de oever onder een roze-blauwe lucht",
+   "Mountain lake at dusk with dark mountains and a village on the shore under a pink-blue sky",
+   "Bergsee in der Dämmerung mit dunklen Bergen und einem Dorf am Ufer unter rosa-blauem Himmel"
+  ],
+  [],
+  false
+ ],
+ [
+  "niederau-winter-skier-reeks-gletsjer",
+  [
+   "Reeks van een skiër in oranje jas die een bocht maakt op een brede, zonnige gletsjerpiste",
+   "Sequence of a skier in an orange jacket carving a turn on a wide, sunny glacier slope",
+   "Bildsequenz einer Skifahrerin oder eines Skifahrers in orangefarbener Jacke beim Schwung auf einer breiten, sonnigen Gletscherpiste"
+  ],
+  [],
+  false
+ ],
+ [
+  "niederau-winter-piste-sneeuwkanonnen-blauwe-lucht",
+  [
+   "Skipiste met werkende sneeuwkanonnen onder een diepblauwe lucht, met bos en een liftstation",
+   "Ski slope with working snow cannons under a deep blue sky, with forest and a lift station",
+   "Skipiste mit laufenden Schneekanonen unter tiefblauem Himmel, mit Wald und einer Liftstation"
+  ],
+  [
+   "sneeuwkanonnen",
+   "piste",
+   "pistes",
+   "skiën"
+  ],
+  false
  ]
 ]
