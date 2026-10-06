@@ -66,6 +66,46 @@ UI = {
 }
 def ui(k, lang): return UI[k][LANGS.index(lang)]
 
+
+# ---------- foto-keuze uit eigen fotobibliotheek ----------
+PHOTOS = json.load(open(ROOT / "tools" / "photo_catalog.json", encoding="utf-8"))
+LOCAL_PLACES = {"niederau", "oberau", "auffach", "thierbach", "muehltal"}
+LOCAL_WORDS = ("wildschönau", "niederau", "markbachjoch", "schatzberg", "auffach", "oberau", "thierbach", "mühltal", "kundler", "wastlhof")
+WINTER_F = ("ski", "snow", "sneeuw", "winter", "pistes", "langlauf", "oefenlift", "lanerk", "snowboard")
+SUMMER_F = ("wandel", "bloemen", "e-bike", "paard", "bergmeertje", "openluchtzwembad", "lente", "herfst", "alpenbloemen", "lama", "zomer", "krauting", "talfest", "sterren", "kapel", "brettljause", "premium")
+
+def is_local(a):
+    text = " ".join([L(a.get("title", {}), "nl"), L(a.get("tagline", {}), "nl")]).lower()
+    return a.get("place") in LOCAL_PLACES or (not a.get("place") and any(w in text for w in LOCAL_WORDS))
+
+def photo_for(a):
+    """Beste eigen foto voor een activiteit in/bij Wildschönau; None als er geen passende is."""
+    text = " ".join([L(a.get("title", {}), "nl"), L(a.get("tagline", {}), "nl"), a.get("theme", "")]).lower()
+    local = a.get("place") in LOCAL_PLACES or (not a.get("place") and any(w in text for w in LOCAL_WORDS))
+    if not local: return None
+    best, score = [], 0
+    for f, alts, kws, hotel in PHOTOS:
+        if hotel != ("wastlhof" in text): continue
+        w = any(k in f for k in WINTER_F); su = any(k in f for k in SUMMER_F)
+        if hotel: w, su = "winter" in f, "zomer" in f
+        if w and not su and a["season"] != "winter": continue
+        if su and not w and a["season"] != "summer": continue
+        sc = sum(1 for k in kws if k in text)
+        if hotel:
+            sc = 1 + (1 if "zwembad" in text and "zwembad" in f else 0) + (1 if ("wellness" in text or " spa" in text) and "wellness" in f else 0)
+        if sc > score: best, score = [(f, alts, hotel)], sc
+        elif sc == score and sc > 0: best.append((f, alts, hotel))
+    if not best: return None
+    return best[sum(map(ord, a["id"])) % len(best)]
+
+def photo_html(f, lang):
+    for ff, alts, _k, h in PHOTOS:
+        if ff == f: return f'<img class="side-img" src="/assets/img/{f}.webp" width="1000" height="667" loading="lazy" alt="{e(alts[LANGS.index(lang)])}">'
+    return ""
+
+PLACE_PHOTO = {"oberau": "oberau-wildschoenau-winter", "thierbach": "thierbach-wildschoenau-sneeuwschoenwandelen", "auffach": "auffach-wildschoenau-e-bike", "muehltal": "muehltal-herfst-wandelen-gezin"}
+REGION_PHOTO = {"wildschoenau": "niederau-wildschoenau-pistes-liften-winter"}
+
 # thema-afbeeldingen (bestaande eigen/hotelfoto's) met beschrijvende alt
 THEME_IMG = {
  "wandelen": ("wildschoenau-wandelpad-alm", ("Wandelpad door de weiden naar een alm", "Footpath through the meadows to an alpine hut", "Wanderweg über die Wiesen zu einer Alm")),
@@ -319,7 +359,12 @@ def build_act(a):
         if rel[:6]:
             rel_h = f'<section class="alt"><div class="wrap"><h2>{ui("more_theme", lang)}</h2>' + card_list([(L(x["title"], lang), L(x.get("tagline", {}), lang), u_act(x, lang), season_badge(x, lang)) for x in rel[:6]], lang) + f'<p><a href="{u_theme(a["theme"], lang)}">{ui("all_act", lang)} →</a></p></div></section>'
         faq_s, faq_ld = faq_html(a.get("faq"), lang)
-        img, alt = THEME_IMG.get(a["theme"], (None, ("", "", "")))
+        ph = photo_for(a)
+        if ph: img, alt = ph[0], tuple(ph[1])
+        elif is_local(a):
+            gen = "niederau-wildschoenau-pistes-liften-winter" if a["season"] == "winter" else "wildschoenau-wandelpad-alm"
+            img, alt = next((f, tuple(al)) for f, al, _k, _h in PHOTOS if f == gen)
+        else: img, alt = None, ("", "", "")
         side = f'<img class="side-img" src="/assets/img/{img}.webp" width="1000" height="667" loading="lazy" alt="{e(alt[LANGS.index(lang)])}">' if img else ""
         body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{e(th_short)} · {season_badge(a, lang)}</p><h1 id="h-top">{e(title_n)}</h1><p class="lead">{e(L(a.get("tagline", {}), lang))}</p>{intro}{pl}{link}</div>
@@ -367,7 +412,7 @@ def build_place(p):
         faq_s, faq_ld = faq_html(p.get("faq"), lang)
         body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{e(reg_name)}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(p.get("tagline", {}), lang))}</p>{intro}{link}</div>
-<div>{facts}</div></div></section>
+<div>{facts}{photo_html(PLACE_PHOTO.get(p["slug"], ""), lang) if PLACE_PHOTO.get(p["slug"]) else ""}</div></div></section>
 <section class="alt"><div class="wrap split" style="align-items:start"><div>{hl_h}</div><div>{gt_h}<p class="note">{ui("check", lang)}</p></div></div></section>
 {act_h}{faq_s}'''
         desc = (L(p.get("tagline", {}), lang) + " " + " ".join(paras(L(p.get("intro", {}), lang)))[:170]).strip()[:300]
@@ -400,7 +445,7 @@ def build_region(r):
         faq_s, faq_ld = faq_html(d.get("faq"), lang)
         body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{ui("region", lang)}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(d.get("tagline", {}), lang))}</p>{intro}</div>
-<div>{hl_h}{gt_h}</div></div></section>
+<div>{photo_html(REGION_PHOTO.get(r, ""), lang) if REGION_PHOTO.get(r) else ""}{hl_h}{gt_h}</div></div></section>
 {pl_h}{faq_s}'''
         desc = (L(d.get("tagline", {}), lang) + " " + " ".join(paras(L(d.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [

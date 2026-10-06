@@ -1,0 +1,607 @@
+[
+ [
+  "hotel-wastlhof-niederau-zomer-groot",
+  [
+   "Hotel Wastlhof in de zomer, omringd door groene weiden",
+   "Hotel Wastlhof in summer, surrounded by green meadows",
+   "Hotel Wastlhof im Sommer, umgeben von grünen Wiesen"
+  ],
+  [
+   "wastlhof"
+  ],
+  true
+ ],
+ [
+  "hotel-wastlhof-niederau-winter",
+  [
+   "Hotel Wastlhof in de winter",
+   "Hotel Wastlhof in winter",
+   "Hotel Wastlhof im Winter"
+  ],
+  [
+   "wastlhof"
+  ],
+  true
+ ],
+ [
+  "hotel-wastlhof-niederau-buitenzwembad-bergen",
+  [
+   "Buitenzwembad van Hotel Wastlhof met uitzicht op de bergen",
+   "Outdoor pool at Hotel Wastlhof with mountain views",
+   "Außenpool des Hotels Wastlhof mit Bergblick"
+  ],
+  [
+   "wastlhof zwembad",
+   "wastlhof buitenbad"
+  ],
+  true
+ ],
+ [
+  "hotel-wastlhof-niederau-buitenzwembad-winter",
+  [
+   "Buitenzwembad van Hotel Wastlhof in de winter",
+   "Outdoor pool at Hotel Wastlhof in winter",
+   "Außenpool des Hotels Wastlhof im Winter"
+  ],
+  [
+   "wastlhof"
+  ],
+  true
+ ],
+ [
+  "hotel-wastlhof-niederau-buitenzwembad-zomer",
+  [
+   "Buitenzwembad van Hotel Wastlhof in de zomer",
+   "Outdoor pool at Hotel Wastlhof in summer",
+   "Außenpool des Hotels Wastlhof im Sommer"
+  ],
+  [
+   "wastlhof"
+  ],
+  true
+ ],
+ [
+  "hotel-wastlhof-niederau-wellness",
+  [
+   "Wellnessruimte van Hotel Wastlhof",
+   "Wellness area at Hotel Wastlhof",
+   "Wellnessbereich des Hotels Wastlhof"
+  ],
+  [
+   "wastlhof wellness",
+   "wastlhof spa",
+   "wellness"
+  ],
+  true
+ ],
+ [
+  "hotel-wastlhof-niederau-wellness-winter",
+  [
+   "Ontspannen in de wellness van Hotel Wastlhof in de winter",
+   "Relaxing in the wellness area of Hotel Wastlhof in winter",
+   "Entspannen im Wellnessbereich des Hotels Wastlhof im Winter"
+  ],
+  [
+   "wastlhof spa"
+  ],
+  true
+ ],
+ [
+  "hotel-wastlhof-niederau-tuin-zomer",
+  [
+   "Tuin van Hotel Wastlhof in de zomer",
+   "Garden of Hotel Wastlhof in summer",
+   "Garten des Hotels Wastlhof im Sommer"
+  ],
+  [
+   "wastlhof"
+  ],
+  true
+ ],
+ [
+  "hotel-wastlhof-niederau-zomeravond",
+  [
+   "Hotel Wastlhof op een zomeravond",
+   "Hotel Wastlhof on a summer evening",
+   "Hotel Wastlhof an einem Sommerabend"
+  ],
+  [
+   "wastlhof"
+  ],
+  true
+ ],
+ [
+  "hotel-wastlhof-niederau-winteravond",
+  [
+   "Hotel Wastlhof op een winteravond",
+   "Hotel Wastlhof on a winter evening",
+   "Hotel Wastlhof an einem Winterabend"
+  ],
+  [
+   "wastlhof"
+  ],
+  true
+ ],
+ [
+  "hotel-wastlhof-niederau-zomer",
+  [
+   "Hotel Wastlhof en omgeving in de zomer",
+   "Hotel Wastlhof and its surroundings in summer",
+   "Hotel Wastlhof und Umgebung im Sommer"
+  ],
+  [
+   "wastlhof"
+  ],
+  true
+ ],
+ [
+  "niederau-skien-markbachjoch",
+  [
+   "Skiën op de Markbachjoch bij Niederau",
+   "Skiing on the Markbachjoch near Niederau",
+   "Skifahren am Markbachjoch bei Niederau"
+  ],
+  [
+   "markbachjoch ski",
+   "skiën",
+   "skigebied",
+   "pistes"
+  ],
+  false
+ ],
+ [
+  "niederau-markbachjochbahn-gondel",
+  [
+   "Gondel van de Markbachjochbahn",
+   "Gondola of the Markbachjochbahn",
+   "Gondel der Markbachjochbahn"
+  ],
+  [
+   "markbachjoch",
+   "bergbaan"
+  ],
+  false
+ ],
+ [
+  "niederau-wildschoenau-pistes-liften-winter",
+  [
+   "Pistes en liften bij Niederau in de winter",
+   "Slopes and lifts near Niederau in winter",
+   "Pisten und Lifte bei Niederau im Winter"
+  ],
+  [
+   "pistes",
+   "liften",
+   "ski juwel"
+  ],
+  false
+ ],
+ [
+  "niederau-lanerkoepfl-oefenlift",
+  [
+   "Oefenlift op de Lanerköpfl",
+   "Practice lift on the Lanerköpfl",
+   "Übungslift am Lanerköpfl"
+  ],
+  [
+   "lanerköpfl",
+   "oefenlift",
+   "rodel"
+  ],
+  false
+ ],
+ [
+  "niederau-wildschoenau-snowboarder",
+  [
+   "Snowboarder op de piste in de Wildschönau",
+   "Snowboarder on the slopes in the Wildschönau",
+   "Snowboarder auf der Piste in der Wildschönau"
+  ],
+  [
+   "snowboard"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-skischool-kinderen",
+  [
+   "Kinderen in de skischool",
+   "Children at ski school",
+   "Kinder in der Skischule"
+  ],
+  [
+   "skischool",
+   "skiles",
+   "kinderski"
+  ],
+  false
+ ],
+ [
+  "ski-juwel-alpbachtal-wildschoenau-familie",
+  [
+   "Gezin in het skigebied Ski Juwel Alpbachtal Wildschönau",
+   "Family in the Ski Juwel Alpbachtal Wildschönau ski area",
+   "Familie im Skigebiet Ski Juwel Alpbachtal Wildschönau"
+  ],
+  [
+   "ski juwel",
+   "gezin ski"
+  ],
+  false
+ ],
+ [
+  "ski-juwel-skipauze-terras",
+  [
+   "Skipauze op een zonnig terras",
+   "Ski break on a sunny terrace",
+   "Skipause auf einer sonnigen Terrasse"
+  ],
+  [
+   "skihut",
+   "skipauze"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-langlaufloipe",
+  [
+   "Langlaufloipe in het dal",
+   "Cross-country trail in the valley",
+   "Langlaufloipe im Tal"
+  ],
+  [
+   "langlauf",
+   "loipe"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-winterwandelen-zon",
+  [
+   "Winterwandelen in de zon",
+   "Winter walking in the sun",
+   "Winterwandern in der Sonne"
+  ],
+  [
+   "winterwandel",
+   "winterwandeling"
+  ],
+  false
+ ],
+ [
+  "thierbach-wildschoenau-sneeuwschoenwandelen",
+  [
+   "Sneeuwschoenwandelen bij Thierbach",
+   "Snowshoeing near Thierbach",
+   "Schneeschuhwandern bei Thierbach"
+  ],
+  [
+   "sneeuwschoen"
+  ],
+  false
+ ],
+ [
+  "oberau-wildschoenau-winter",
+  [
+   "Oberau in de winter",
+   "Oberau in winter",
+   "Oberau im Winter"
+  ],
+  [
+   "oberau"
+  ],
+  false
+ ],
+ [
+  "niederau-openluchtzwembad",
+  [
+   "Openluchtzwembad in Niederau",
+   "Open-air pool in Niederau",
+   "Freibad in Niederau"
+  ],
+  [
+   "openluchtbad",
+   "openluchtzwembad",
+   "zwembad niederau",
+   "strandbad"
+  ],
+  false
+ ],
+ [
+  "niederau-lente-bloemenweide",
+  [
+   "Bloemenweide in Niederau in de lente",
+   "Flower meadow in Niederau in spring",
+   "Blumenwiese in Niederau im Frühling"
+  ],
+  [
+   "lente",
+   "bloemenweide"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-alpenbloemen-schatzberg",
+  [
+   "Alpenbloemen op de Schatzberg",
+   "Alpine flowers on the Schatzberg",
+   "Alpenblumen am Schatzberg"
+  ],
+  [
+   "alpenbloem",
+   "alpenroos",
+   "kruiden",
+   "bloemen",
+   "botanische"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-wandelaars-alm",
+  [
+   "Wandelaars bij een alm",
+   "Hikers at an alpine hut",
+   "Wanderer bei einer Alm"
+  ],
+  [
+   "alm wandel",
+   "hut wandel",
+   "almwandeling"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-wandelpad-alm",
+  [
+   "Wandelpad door de weiden naar de alm",
+   "Footpath through the meadows to the alpine hut",
+   "Wanderweg über die Wiesen zur Alm"
+  ],
+  [
+   "wandelen",
+   "wandeling",
+   "wandelroute",
+   "almwandeling"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-wandelweg-stoeltjeslift",
+  [
+   "Wandelweg langs de stoeltjeslift",
+   "Hiking trail along the chairlift",
+   "Wanderweg entlang des Sessellifts"
+  ],
+  [
+   "stoeltjeslift",
+   "bergbaan wandel"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-wandelen-gezin",
+  [
+   "Gezin wandelt door de bergen",
+   "Family hiking in the mountains",
+   "Familie beim Wandern in den Bergen"
+  ],
+  [
+   "gezinswandeling",
+   "wandelen met kinderen",
+   "kinderwagen",
+   "familiewandeling"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-bergmeertje",
+  [
+   "Bergmeertje in de Wildschönau",
+   "Mountain lake in the Wildschönau",
+   "Bergsee in der Wildschönau"
+  ],
+  [
+   "bergmeer",
+   "meer",
+   "zwemmen"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-e-bike-dal",
+  [
+   "Op de e-bike door het dal",
+   "E-biking through the valley",
+   "Mit dem E-Bike durchs Tal"
+  ],
+  [
+   "e-bike",
+   "fietsen",
+   "mountainbike",
+   "fietstocht"
+  ],
+  false
+ ],
+ [
+  "auffach-wildschoenau-e-bike",
+  [
+   "E-bikers bij Auffach",
+   "E-bikers near Auffach",
+   "E-Biker bei Auffach"
+  ],
+  [
+   "e-bike",
+   "fietsen",
+   "mountainbike"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-paardrijden-bergweide",
+  [
+   "Paardrijden op een bergweide",
+   "Horse riding on a mountain pasture",
+   "Reiten auf einer Bergwiese"
+  ],
+  [
+   "paard",
+   "pony",
+   "rijden"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-boerderijdieren-lama",
+  [
+   "Lama bij een boerderij",
+   "Llama at a farm",
+   "Lama auf einem Bauernhof"
+  ],
+  [
+   "lama",
+   "boerderij",
+   "dieren",
+   "alpaca",
+   "aaien"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-sterrenhemel-boom",
+  [
+   "Sterrenhemel boven de Wildschönau",
+   "Starry sky above the Wildschönau",
+   "Sternenhimmel über der Wildschönau"
+  ],
+  [
+   "sterren"
+  ],
+  false
+ ],
+ [
+  "muehltal-herfst-wandelen-gezin",
+  [
+   "Herfstwandeling in Mühltal",
+   "Autumn walk in Mühltal",
+   "Herbstwanderung im Mühltal"
+  ],
+  [
+   "herfst",
+   "mühltal"
+  ],
+  false
+ ],
+ [
+  "schoenangeralm-kapel-wildschoenau",
+  [
+   "Kapel bij de Schönangeralm",
+   "Chapel near the Schönangeralm",
+   "Kapelle bei der Schönangeralm"
+  ],
+  [
+   "schönangeralm",
+   "kapel"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-alm-brettljause",
+  [
+   "Brettljause op een alm",
+   "Brettljause (Tyrolean cold-cut platter) at an alpine hut",
+   "Brettljause auf einer Alm"
+  ],
+  [
+   "brettljause",
+   "alm",
+   "hut",
+   "eten",
+   "restaurant"
+  ],
+  false
+ ],
+ [
+  "tiroler-kaiserschmarrn",
+  [
+   "Tiroler Kaiserschmarrn",
+   "Tyrolean Kaiserschmarrn",
+   "Tiroler Kaiserschmarrn"
+  ],
+  [
+   "kaiserschmarrn",
+   "koken",
+   "kookworkshop",
+   "bakken"
+  ],
+  false
+ ],
+ [
+  "wildschoenauer-krautinger",
+  [
+   "Wildschönauer Krautinger, de streekspecialiteit",
+   "Wildschönauer Krautinger, the local speciality",
+   "Wildschönauer Krautinger, die regionale Spezialität"
+  ],
+  [
+   "krautinger",
+   "proeverij",
+   "likeur",
+   "distilleer"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-krautingerwoche-museumskirchtag",
+  [
+   "Krautingerwoche en museumskirchtag",
+   "Krautinger Week and museum fair",
+   "Krautingerwoche und Museumskirchtag"
+  ],
+  [
+   "krautingerwoche",
+   "museumskirchtag"
+  ],
+  false
+ ],
+ [
+  "niederau-talfest-optocht",
+  [
+   "Optocht tijdens het dalfeest in Niederau",
+   "Parade during the valley festival in Niederau",
+   "Umzug beim Talfest in Niederau"
+  ],
+  [
+   "talfest",
+   "optocht",
+   "dorpsfeest",
+   "dalfeest"
+  ],
+  false
+ ],
+ [
+  "niederau-talfest-koets",
+  [
+   "Koets tijdens het dalfeest",
+   "Horse-drawn carriage at the valley festival",
+   "Kutsche beim Talfest"
+  ],
+  [
+   "koets",
+   "paardenkoets"
+  ],
+  false
+ ],
+ [
+  "wildschoenau-premium-card-zomer",
+  [
+   "Zomerse dag in de Wildschönau",
+   "A summer day in the Wildschönau",
+   "Ein Sommertag in der Wildschönau"
+  ],
+  [
+   "premium card",
+   "zomerkaart"
+  ],
+  false
+ ]
+]
