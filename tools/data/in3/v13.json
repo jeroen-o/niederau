@@ -1,0 +1,1162 @@
+[
+ {
+  "id": "s84",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "area-47-oetztal",
+  "slug_de": "area-47-oetztal",
+  "title": {
+   "nl": "Area 47 in het Ötztal",
+   "en": "Area 47 in the Ötztal",
+   "de": "Area 47 im Ötztal"
+  },
+  "tagline": {
+   "nl": "Groot outdoorpark met waterpark, klimmen en avontuurlijke activiteiten",
+   "en": "Large outdoor adventure park with water park, climbing and adventure activities",
+   "de": "Großer Outdoorpark mit Wasserpark, Klettern und Abenteueraktivitäten"
+  },
+  "intro": {
+   "nl": "Area 47 is een groot outdoor- en avonturenpark bij het station Ötztal-Bahnhof, in de gemeente Haiming. Het terrein is verdeeld in zones voor onder meer water, klimmen, mountainbiken en wakeboarden. Een Freizeitpark Haiming onder die naam is niet te vinden; Area 47 is de plek die het dichtst bij die beschrijving komt.\n\nOnder de attracties vallen een waterpark met glijbanen, een hoge touwroute, een van de hoogste kunstmatige klimwanden van Oostenrijk en een zipline. Ook zijn er geleide activiteiten zoals raften en canyoning, meestal voor oudere kinderen en tieners. Per onderdeel gelden leeftijds- en lengtegrenzen, dus kies samen met de kinderen vooraf wat past.",
+   "en": "Area 47 is a large outdoor and adventure park at Ötztal-Bahnhof station, in the municipality of Haiming. The grounds are divided into zones for water, climbing, mountain biking and wakeboarding, among others. A Freizeitpark Haiming under that name could not be found; Area 47 is the place that comes closest to that description.\n\nAttractions include a water park with slides, a high rope course, one of Austria's highest artificial climbing walls and a zip line. There are also guided activities such as rafting and canyoning, mostly for older children and teenagers. Age and height limits apply per activity, so decide with the children beforehand what suits them.",
+   "de": "Area 47 ist ein großer Outdoor- und Abenteuerpark beim Bahnhof Ötztal-Bahnhof in der Gemeinde Haiming. Das Gelände ist in Zonen unter anderem für Wasser, Klettern, Mountainbiken und Wakeboarden gegliedert. Einen Freizeitpark Haiming unter diesem Namen gibt es nicht; Area 47 ist der Ort, der dieser Beschreibung am nächsten kommt.\n\nZu den Attraktionen zählen ein Wasserpark mit Rutschen, ein hoher Seilparcours, eine der höchsten künstlichen Kletterwände Österreichs und eine Zipline. Dazu kommen geführte Aktivitäten wie Rafting und Canyoning, meist für ältere Kinder und Jugendliche. Je nach Angebot gelten Alters- und Größengrenzen, entscheidet daher vorab gemeinsam mit den Kindern, was passt."
+  },
+  "tips": {
+   "nl": [
+    "Neem badkleding, handdoeken en wisselkleding mee.",
+    "Kijk vooraf naar leeftijds- en lengtegrenzen per activiteit.",
+    "Reserveer geleide activiteiten zoals raften of canyoning vooraf."
+   ],
+   "en": [
+    "Bring swimwear, towels and spare clothes.",
+    "Check age and height limits for each activity beforehand.",
+    "Book guided activities such as rafting or canyoning in advance."
+   ],
+   "de": [
+    "Bade­kleidung, Handtücher und Wechselkleidung mitnehmen.",
+    "Alters- und Größengrenzen der einzelnen Aktivitäten vorab prüfen.",
+    "Geführte Aktivitäten wie Rafting oder Canyoning vorab reservieren."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 1 uur en 15 minuten rijden via de A12 richting Innsbruck en verder naar het Ötztal. Het park ligt direct bij het station Ötztal-Bahnhof.",
+   "en": "From Niederau it is about 1 hour 15 minutes by car via the A12 towards Innsbruck and on to the Ötztal. The park is right by Ötztal-Bahnhof station.",
+   "de": "Von Niederau sind es ca. 1 Stunde 15 Minuten Fahrt über die A12 Richtung Innsbruck und weiter ins Ötztal. Der Park liegt direkt am Bahnhof Ötztal-Bahnhof."
+  },
+  "facts": {
+   "age": {
+    "nl": "Per activiteit verschillend; veel onderdelen voor kinderen vanaf het basisschoolleeftijd",
+    "en": "Varies by activity; many parts suit primary-school children and up",
+    "de": "Je nach Aktivität unterschiedlich; vieles ab Grundschulalter"
+   },
+   "duration": {
+    "nl": "Een halve tot hele dag",
+    "en": "Half a day to a full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt per onderdeel; informeer vooraf",
+    "en": "Price varies by activity; check beforehand",
+    "de": "Preis je nach Angebot; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 15 min rijden",
+    "en": "About 1 h 15 min by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Vooral zomer",
+    "en": "Mainly summer",
+    "de": "Vor allem Sommer"
+   }
+  },
+  "location": {
+   "nl": "Haiming, Ötztal",
+   "en": "Haiming, Ötztal",
+   "de": "Haiming, Ötztal"
+  },
+  "url": "https://www.area47.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is Area 47?",
+     "en": "What is Area 47?",
+     "de": "Was ist Area 47?"
+    },
+    "a": {
+     "nl": "Een groot outdoor- en avonturenpark in het Ötztal met water-, klim- en andere sportzones.",
+     "en": "A large outdoor and adventure park in the Ötztal with water, climbing and other sports zones.",
+     "de": "Ein großer Outdoor- und Abenteuerpark im Ötztal mit Wasser-, Kletter- und weiteren Sportzonen."
+    }
+   }
+  ],
+  "verified": true,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Freizeitpark Haiming (Ötztal)",
+  "_orig_loc": "Haiming, Ötztal (50 min)"
+ },
+ {
+  "id": "s96",
+  "drop": false,
+  "drop_reason": "",
+  "place": "westendorf",
+  "slug_en": "alpenrosenbahn-westendorf",
+  "slug_de": "alpenrosenbahn-westendorf",
+  "title": {
+   "nl": "Alpenrosenbahn Westendorf",
+   "en": "Alpenrosenbahn, Westendorf",
+   "de": "Alpenrosenbahn Westendorf"
+  },
+  "tagline": {
+   "nl": "Gondel, Alpinolino-beleving en kogelbaan boven Westendorf",
+   "en": "Gondola, Alpinolino adventure world and ball run above Westendorf",
+   "de": "Gondel, ErlebnisWelt Alpinolino und Kugelbahn oberhalb von Westendorf"
+  },
+  "intro": {
+   "nl": "Een alpine coaster of zomerrodelbaan in Westendorf is niet te vinden. Wel biedt Westendorf in het Brixental een goede gezinsuitstap met de Alpenrosenbahn I en II, die je naar de Talkaser op ca. 1.770 m brengt.\n\nBoven ligt de ErlebnisWelt Alpinolino, een route met kleine avonturen en natuurstations voor kinderen. Ook is er de Spoggolino, de langste kogelbaan van Tirol, die vanaf de Choralpe terug naar het station van de Alpenrosenbahn loopt. Vanaf de Talkaser kun je daarnaast wandelen over alpenweiden. Het geheel is rustig, overzichtelijk en geschikt voor kinderen vanaf de kleuterleeftijd. De baan rijdt in de zomer van het late voorjaar tot in de herfst.",
+   "en": "There is no alpine coaster or summer toboggan run in Westendorf to be found. Westendorf in the Brixental does, however, offer a good family outing with the Alpenrosenbahn I and II, which takes you to the Talkaser at about 1,770 m.\n\nUp top is the ErlebnisWelt Alpinolino, a route with small adventures and nature stations for children. There is also the Spoggolino, Tyrol's longest ball run, which leads from the Choralpe back to the Alpenrosenbahn station. From the Talkaser you can also walk across alpine meadows. Everything is calm and easy to grasp, suitable for children from pre-school age. In summer the lift runs from late spring into autumn.",
+   "de": "Eine Alpine Coaster oder Sommerrodelbahn in Westendorf ließ sich nicht finden. Dafür bietet Westendorf im Brixental mit der Alpenrosenbahn I und II einen guten Familienausflug, die dich zur Talkaser auf ca. 1.770 m bringt.\n\nOben liegt die ErlebnisWelt Alpinolino, ein Weg mit kleinen Abenteuern und Naturstationen für Kinder. Dazu kommt der Spoggolino, die längste Kugelbahn Tirols, die von der Choralpe zurück zur Station der Alpenrosenbahn führt. Von der Talkaser aus kann man zudem über Almwiesen wandern. Alles ist ruhig und überschaubar, geeignet für Kinder ab dem Vorschulalter. Im Sommer fährt die Bahn vom späten Frühjahr bis in den Herbst."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf de actuele dienstregeling van de bergbaan.",
+    "Neem een jas mee; op ca. 1.770 m is het koeler dan in het dal.",
+    "Plan voor de Spoggolino-kogelbaan wat extra tijd in."
+   ],
+   "en": [
+    "Check the lift's current timetable beforehand.",
+    "Bring a jacket; at about 1,770 m it is cooler than in the valley.",
+    "Allow some extra time for the Spoggolino ball run."
+   ],
+   "de": [
+    "Prüfe vorab den aktuellen Fahrplan der Bergbahn.",
+    "Nimm eine Jacke mit; auf ca. 1.770 m ist es kühler als im Tal.",
+    "Plane für die Kugelbahn Spoggolino etwas mehr Zeit ein."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 35 minuten rijden naar Westendorf, via Wörgl en het Brixental. Het dalstation van de Alpenrosenbahn ligt in het dorp.",
+   "en": "From Niederau it is about 35 minutes by car to Westendorf, via Wörgl and the Brixental. The valley station of the Alpenrosenbahn is in the village.",
+   "de": "Von Niederau sind es ca. 35 Minuten Fahrt nach Westendorf, über Wörgl und das Brixental. Die Talstation der Alpenrosenbahn liegt im Ort."
+  },
+  "facts": {
+   "age": {
+    "nl": "Geschikt voor kinderen vanaf de kleuterleeftijd",
+    "en": "Suitable for children from pre-school age",
+    "de": "Geeignet für Kinder ab dem Vorschulalter"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "About 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preis variiert; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (late lente tot herfst)",
+    "en": "Summer (late spring to autumn)",
+    "de": "Sommer (Spätfrühling bis Herbst)"
+   }
+  },
+  "location": {
+   "nl": "Westendorf, Brixental",
+   "en": "Westendorf, Brixental",
+   "de": "Westendorf, Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een alpine coaster in Westendorf?",
+     "en": "Is there an alpine coaster in Westendorf?",
+     "de": "Gibt es in Westendorf eine Alpine Coaster?"
+    },
+    "a": {
+     "nl": "Dat is niet gevonden. Wel is er de Spoggolino, een kogelbaan voor kinderen, bij de Alpenrosenbahn.",
+     "en": "None was found. There is, however, the Spoggolino, a ball run for children, at the Alpenrosenbahn.",
+     "de": "Eine solche wurde nicht gefunden. Es gibt aber den Spoggolino, eine Kugelbahn für Kinder, bei der Alpenrosenbahn."
+    }
+   }
+  ],
+  "verified": true,
+  "_theme": "attracties",
+  "_season": "summer",
+  "_orig_title": "Westendorf Sommerrodelbahn",
+  "_orig_loc": "Westendorf (25 min)"
+ },
+ {
+  "id": "s143",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ellmau",
+  "slug_en": "via-ferrata-ellmau-wilder-kaiser",
+  "slug_de": "klettersteige-ellmau-wilder-kaiser",
+  "title": {
+   "nl": "Klettersteige bij Ellmau (Wilder Kaiser)",
+   "en": "Via ferratas near Ellmau (Wilder Kaiser)",
+   "de": "Klettersteige bei Ellmau (Wilder Kaiser)"
+  },
+  "tagline": {
+   "nl": "Van oefensteig tot sportief: via ferrata's in het Kaisergebergte",
+   "en": "From practice route to sporty: via ferratas in the Kaiser mountains",
+   "de": "Vom Übungssteig bis sportlich: Klettersteige im Kaisergebirge"
+  },
+  "intro": {
+   "nl": "Rond Ellmau in de Wilder Kaiser liggen meerdere klettersteigen, elk met een eigen moeilijkheid. Een enkele route onder de naam Klettersteig Wilder Kaiser met niveau D is niet te bevestigen. Wel bestaan er bijvoorbeeld de oefenklettersteig bij de Gaudeamushütte (ca. B/C), de Jubiläumssteig (ca. A/B) en de sportieve, korte Klamml-klettersteig (D).\n\nDe oefensteig is geschikt om kennis te maken met het materiaal en de techniek voordat je een langere route kiest. Voor kinderen en beginners is een gids of een cursus sterk aan te raden; veiligheid gaat voor. Je klimt aan kabels, ijzeren sporten en ladders langs de kalksteenwanden, met uitzicht over de Kaiser. Controleer altijd weer, route en eigen conditie voor je vertrekt.",
+   "en": "Around Ellmau in the Wilder Kaiser there are several via ferratas, each with its own difficulty. A single route called Klettersteig Wilder Kaiser at grade D could not be confirmed. There are, though, for instance the practice via ferrata at the Gaudeamushütte (about B/C), the Jubiläumssteig (about A/B) and the short, sporty Klamml via ferrata (D).\n\nThe practice route is a good way to get to know the equipment and technique before choosing a longer one. For children and beginners a guide or course is strongly advised; safety comes first. You climb along cables, iron rungs and ladders on the limestone walls, with views across the Kaiser. Always check the weather, route and your own fitness before setting out.",
+   "de": "Rund um Ellmau im Wilden Kaiser gibt es mehrere Klettersteige mit jeweils eigenem Schwierigkeitsgrad. Eine einzelne Route namens Klettersteig Wilder Kaiser mit Schwierigkeit D ließ sich nicht bestätigen. Es gibt aber zum Beispiel den Übungsklettersteig bei der Gaudeamushütte (ca. B/C), den Jubiläumssteig (ca. A/B) und den kurzen, sportlichen Klamml-Klettersteig (D).\n\nDer Übungssteig eignet sich, um Ausrüstung und Technik kennenzulernen, bevor man eine längere Route wählt. Für Kinder und Anfänger sind Bergführer oder Kurs dringend zu empfehlen; Sicherheit geht vor. Man klettert an Seilen, Eisenstiften und Leitern entlang der Kalkwände, mit Blick über den Kaiser. Prüfe vor dem Start immer Wetter, Route und die eigene Kondition."
+  },
+  "tips": {
+   "nl": [
+    "Begin met de oefenklettersteig voordat je een zwaardere route kiest.",
+    "Helm, klimgordel en klettersteigset zijn verplicht; huur ze bij een sportwinkel of via een gids.",
+    "Ga alleen bij droog, stabiel weer en laat je bij twijfel begeleiden door een berggids."
+   ],
+   "en": [
+    "Start with the practice route before choosing a harder one.",
+    "Helmet, harness and via ferrata set are essential; rent them from a sports shop or through a guide.",
+    "Only go in dry, stable weather and, if in doubt, go with a mountain guide."
+   ],
+   "de": [
+    "Beginne mit dem Übungssteig, bevor du eine schwerere Route wählst.",
+    "Helm, Klettergurt und Klettersteigset sind Pflicht; leihe sie im Sportgeschäft oder über einen Bergführer aus.",
+    "Geh nur bei trockenem, stabilem Wetter und im Zweifel mit einem Bergführer."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 40 minuten rijden naar Ellmau, via Wörgl en Söll. Vanuit het dorp lopen de paden naar de verschillende hutten en klimroutes.",
+   "en": "From Niederau it is about 40 minutes by car to Ellmau, via Wörgl and Söll. From the village, trails lead to the various huts and climbing routes.",
+   "de": "Von Niederau sind es ca. 40 Minuten Fahrt nach Ellmau, über Wörgl und Söll. Vom Ort führen Wege zu den verschiedenen Hütten und Klettersteigen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Tieners en volwassenen; kinderen alleen met gids en ervaring",
+    "en": "Teenagers and adults; children only with a guide and experience",
+    "de": "Jugendliche und Erwachsene; Kinder nur mit Bergführer und Erfahrung"
+   },
+   "duration": {
+    "nl": "Ca. 3 tot 5 uur, afhankelijk van de route",
+    "en": "About 3 to 5 hours, depending on the route",
+    "de": "Ca. 3 bis 5 Stunden, je nach Route"
+   },
+   "price": {
+    "nl": "Materiaalhuur en gids: informeer vooraf",
+    "en": "Equipment hire and guide: check beforehand",
+    "de": "Ausrüstungsverleih und Bergführer: bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "About 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer, bij droog weer",
+    "en": "Summer, in dry weather",
+    "de": "Sommer, bei trockenem Wetter"
+   }
+  },
+  "location": {
+   "nl": "Ellmau, Wilder Kaiser",
+   "en": "Ellmau, Wilder Kaiser",
+   "de": "Ellmau, Wilder Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke klettersteig bij Ellmau is geschikt voor beginners?",
+     "en": "Which via ferrata near Ellmau suits beginners?",
+     "de": "Welcher Klettersteig bei Ellmau eignet sich für Anfänger?"
+    },
+    "a": {
+     "nl": "De oefenklettersteig bij de Gaudeamushütte is bedoeld om kennis te maken met de techniek; ga bij voorkeur met een gids.",
+     "en": "The practice via ferrata at the Gaudeamushütte is meant for getting to know the technique; ideally go with a guide.",
+     "de": "Der Übungsklettersteig bei der Gaudeamushütte dient zum Kennenlernen der Technik; am besten mit Bergführer."
+    }
+   }
+  ],
+  "verified": true,
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Klettersteig Wilder Kaiser (Ellmau)",
+  "_orig_loc": "Ellmau (25 min)"
+ },
+ {
+  "id": "s163",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "buchensteinwand-jakobskreuz",
+  "slug_de": "buchensteinwand-jakobskreuz",
+  "title": {
+   "nl": "Buchensteinwand en Jakobskreuz",
+   "en": "Buchensteinwand and Jakobskreuz",
+   "de": "Buchensteinwand und Jakobskreuz"
+  },
+  "tagline": {
+   "nl": "Stoeltjeslift naar de Pillersee-berg met het begaanbare gipfelkruis",
+   "en": "Chairlift up the Pillersee mountain with the walk-in summit cross",
+   "de": "Sesselbahn auf den Pillerseeberg mit dem begehbaren Gipfelkreuz"
+  },
+  "intro": {
+   "nl": "De Buchensteinwand ligt in het Pillerseetal, tussen St. Ulrich am Pillersee en St. Jakob in Haus. Een gezinsvriendelijke stoeltjeslift, de Bergbahn Pillersee, brengt je in korte tijd omhoog. Een gecertificeerde klettersteig voor kinderen is niet bevestigd; dit is vooral een wandel- en uitzichtsuitje.\n\nHet bekendste punt is het Jakobskreuz, op ca. 1.460 m: een ca. 30 m hoog, begaanbaar gipfelkruis, het grootste in zijn soort. Vanaf het bergstation ben je er in een paar minuten te voet, ook met een kinderwagen. Verder zijn er wandelroutes, een bloemenpad en een speelplek bij het bergmeer. Het is een rustige dagtocht met veel uitzicht, geschikt voor het hele gezin en ook voor wie weinig wil lopen.",
+   "en": "The Buchensteinwand lies in the Pillerseetal, between St. Ulrich am Pillersee and St. Jakob in Haus. A family-friendly chairlift, the Bergbahn Pillersee, takes you up quickly. A certified family via ferrata could not be confirmed; this is mainly a walking and viewpoint outing.\n\nThe best-known spot is the Jakobskreuz, at about 1,460 m: a roughly 30 m high summit cross you can walk into, the largest of its kind. From the top station it is a few minutes on foot, also with a pushchair. There are also walking routes, a flower trail and a play area at the mountain lake. It is a calm day out with plenty of views, suitable for the whole family and for those who do not want to walk far.",
+   "de": "Die Buchensteinwand liegt im Pillerseetal, zwischen St. Ulrich am Pillersee und St. Jakob in Haus. Eine familienfreundliche Sesselbahn, die Bergbahn Pillersee, bringt dich schnell nach oben. Einen zertifizierten Familienklettersteig ließ sich nicht bestätigen; es ist vor allem ein Wander- und Aussichtsausflug.\n\nDer bekannteste Punkt ist das Jakobskreuz auf ca. 1.460 m: ein rund 30 m hohes, begehbares Gipfelkreuz, das größte seiner Art. Von der Bergstation sind es wenige Minuten zu Fuß, auch mit Kinderwagen. Dazu gibt es Wanderwege, einen Blumenlehrpfad und einen Spielplatz am Bergsee. Ein ruhiger Tagesausflug mit viel Aussicht, geeignet für die ganze Familie und auch für alle, die nicht weit laufen möchten."
+  },
+  "tips": {
+   "nl": [
+    "Het Jakobskreuz is vanaf het bergstation in enkele minuten te voet bereikbaar, ook met een kinderwagen.",
+    "Neem een jas mee; boven kan het harder waaien dan in het dal.",
+    "Combineer de uitkijk met de speelplek bij het bergmeer."
+   ],
+   "en": [
+    "The Jakobskreuz is a few minutes' walk from the top station, also with a pushchair.",
+    "Bring a jacket; it can be windier at the top than in the valley.",
+    "Combine the viewpoint with the play area at the mountain lake."
+   ],
+   "de": [
+    "Das Jakobskreuz ist von der Bergstation in wenigen Minuten zu Fuß erreichbar, auch mit Kinderwagen.",
+    "Nimm eine Jacke mit; oben kann es windiger sein als im Tal.",
+    "Verbinde den Aussichtspunkt mit dem Spielplatz am Bergsee."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 55 minuten rijden naar St. Ulrich am Pillersee, via Wörgl en Kitzbühel. Het dalstation van de Bergbahn Pillersee heeft parkeergelegenheid.",
+   "en": "From Niederau it is about 55 minutes by car to St. Ulrich am Pillersee, via Wörgl and Kitzbühel. The valley station of the Bergbahn Pillersee has parking.",
+   "de": "Von Niederau sind es ca. 55 Minuten Fahrt nach St. Ulrich am Pillersee, über Wörgl und Kitzbühel. An der Talstation der Bergbahn Pillersee gibt es Parkplätze."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "About 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Prijs bergbaan wisselt; informeer vooraf",
+    "en": "Cable car prices vary; check beforehand",
+    "de": "Bergbahnpreise variieren; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "About 55 min by car",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Pillerseetal, Tirol",
+   "en": "Pillerseetal, Tyrol",
+   "de": "Pillerseetal, Tirol"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/en/pital/so/hiking/buchensteinwand.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het Jakobskreuz?",
+     "en": "What is the Jakobskreuz?",
+     "de": "Was ist das Jakobskreuz?"
+    },
+    "a": {
+     "nl": "Een ca. 30 m hoog, begaanbaar gipfelkruis op de Buchensteinwand, in een paar minuten te voet van het bergstation.",
+     "en": "A roughly 30 m high summit cross you can walk into on the Buchensteinwand, a few minutes on foot from the top station.",
+     "de": "Ein rund 30 m hohes, begehbares Gipfelkreuz auf der Buchensteinwand, wenige Gehminuten von der Bergstation."
+    }
+   }
+  ],
+  "verified": true,
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Klettergarten Buchensteinwand Pillersee",
+  "_orig_loc": "Pillersee (40 min)"
+ },
+ {
+  "id": "s199",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "helicopter-flight-st-johann",
+  "slug_de": "hubschrauber-rundflug-st-johann",
+  "title": {
+   "nl": "Helikopter-rondvlucht vanaf St. Johann",
+   "en": "Helicopter sightseeing flight from St. Johann",
+   "de": "Hubschrauber-Rundflug ab St. Johann"
+  },
+  "tagline": {
+   "nl": "Bergen en meren vanuit de lucht, vertrek bij Erpfendorf",
+   "en": "Mountains and lakes from the air, departing near Erpfendorf",
+   "de": "Berge und Seen aus der Luft, Abflug bei Erpfendorf"
+  },
+  "intro": {
+   "nl": "Vanaf het heliport bij Erpfendorf, vlak bij St. Johann in Tirol, worden rondvluchten per helikopter gevlogen. Een aanbieder in de regio is Heli Austria. Een operator onder de naam Heli Tirol is niet gevonden.\n\nTijdens een rondvlucht zie je de Kitzbüheler Alpen, de Wilder Kaiser en de omliggende dalen en meren van boven. Vluchten duren doorgaans van een halfuur tot een uur en worden vaak als charter voor een kleine groep aangeboden, waardoor de kosten per vlucht hoog kunnen zijn. Het is dus eerder iets voor een bijzondere gelegenheid dan een standaard gezinsuitje. Vlucht en tijdstip hangen af van het weer; informeer vooraf naar prijs, duur en leeftijdsgrenzen.",
+   "en": "Helicopter sightseeing flights are operated from the heliport at Erpfendorf, close to St. Johann in Tirol. One operator in the region is Heli Austria. An operator called Heli Tirol could not be found.\n\nOn a flight you see the Kitzbühel Alps, the Wilder Kaiser and the surrounding valleys and lakes from above. Flights usually last between half an hour and an hour and are often offered as a charter for a small group, so the cost per flight can be high. It is therefore more for a special occasion than a standard family outing. Flight and timing depend on the weather; ask beforehand about price, duration and age limits.",
+   "de": "Vom Heliport bei Erpfendorf, nahe St. Johann in Tirol, werden Hubschrauber-Rundflüge angeboten. Ein Anbieter in der Region ist Heli Austria. Einen Betreiber namens Heli Tirol gibt es nicht.\n\nBei einem Rundflug siehst du die Kitzbüheler Alpen, den Wilden Kaiser sowie die umliegenden Täler und Seen von oben. Flüge dauern meist zwischen einer halben und einer Stunde und werden oft als Charter für eine kleine Gruppe angeboten, sodass die Kosten pro Flug hoch sein können. Es ist daher eher etwas für einen besonderen Anlass als ein normaler Familienausflug. Flug und Zeitpunkt hängen vom Wetter ab; frage vorab nach Preis, Dauer und Altersgrenzen."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf naar de totale prijs per vlucht en hoeveel personen mee kunnen.",
+    "Boek bij voorkeur ruim van tevoren en houd rekening met een uitwijkdatum.",
+    "Neem een camera mee, maar vraag naar de regels voor foto's aan boord."
+   ],
+   "en": [
+    "Ask beforehand for the total price per flight and how many people can join.",
+    "Book well ahead and allow for a back-up date.",
+    "Bring a camera, but ask about the rules for taking photos on board."
+   ],
+   "de": [
+    "Frage vorab nach dem Gesamtpreis pro Flug und wie viele Personen mitfliegen können.",
+    "Buche möglichst früh und plane einen Ausweichtermin ein.",
+    "Nimm eine Kamera mit, frage aber nach den Regeln für Fotos an Bord."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 50 minuten rijden naar St. Johann in Tirol en het heliport bij Erpfendorf. Reserveer vooraf; losse vluchten zonder afspraak zijn niet gebruikelijk.",
+   "en": "From Niederau it is about 50 minutes by car to St. Johann in Tirol and the heliport at Erpfendorf. Book beforehand; flights without an appointment are not usual.",
+   "de": "Von Niederau sind es ca. 50 Minuten Fahrt nach St. Johann in Tirol und zum Heliport bei Erpfendorf. Bitte vorab reservieren; Flüge ohne Termin sind nicht üblich."
+  },
+  "facts": {
+   "age": {},
+   "duration": {
+    "nl": "Ca. 30 tot 60 min vlucht",
+    "en": "About 30 to 60 min flight",
+    "de": "Ca. 30 bis 60 Min. Flug"
+   },
+   "price": {
+    "nl": "Duur; prijs per vlucht hoog, informeer vooraf",
+    "en": "Costly; price per flight is high, check beforehand",
+    "de": "Teuer; Preis pro Flug hoch, bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "About 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Vooral zomer, weerafhankelijk",
+    "en": "Mainly summer, weather permitting",
+    "de": "Vor allem Sommer, wetterabhängig"
+   }
+  },
+  "location": {
+   "nl": "Erpfendorf / St. Johann in Tirol",
+   "en": "Erpfendorf / St. Johann in Tirol",
+   "de": "Erpfendorf / St. Johann in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar vertrekken helikoptervluchten bij St. Johann?",
+     "en": "Where do helicopter flights depart near St. Johann?",
+     "de": "Wo starten Hubschrauberflüge bei St. Johann?"
+    },
+    "a": {
+     "nl": "Vanaf het heliport bij Erpfendorf, dichtbij St. Johann in Tirol.",
+     "en": "From the heliport at Erpfendorf, close to St. Johann in Tirol.",
+     "de": "Vom Heliport bei Erpfendorf, nahe St. Johann in Tirol."
+    }
+   }
+  ],
+  "verified": true,
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Helikopter rondvlucht boven de Alpen",
+  "_orig_loc": "Vertreklocaties diverse vliegvelden Tirol"
+ },
+ {
+  "id": "s216",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "minigolf-kirchdorf-st-johann",
+  "slug_de": "minigolf-kirchdorf-st-johann",
+  "title": {
+   "nl": "Minigolf bij Kirchdorf (St. Johann)",
+   "en": "Minigolf near Kirchdorf (St. Johann)",
+   "de": "Minigolf bei Kirchdorf (St. Johann)"
+  },
+  "tagline": {
+   "nl": "Een ontspannen potje minigolf voor het hele gezin",
+   "en": "A relaxed round of mini golf for the whole family",
+   "de": "Eine entspannte Runde Minigolf für die ganze Familie"
+  },
+  "intro": {
+   "nl": "In het gebied rond Wörgl is geen vaste, publieke minigolfbaan bevestigd. Wel is er een goed bereikbare baan bij Hotel Neuwirt in Kirchdorf in Tirol, in de regio St. Johann, met twaalf holes. Dit is een gewone baan die voor iedereen toegankelijk is, ook voor wie niet in het hotel verblijft.\n\nMinigolf is een ontspannen tussendoortje: een korte, sportieve wedstrijd waaraan jong en oud kunnen meedoen, zonder voorkennis of materiaal. Materiaal wordt ter plekke uitgeleend. Reken op ongeveer een uur, en combineer het met een ijsje of een kop koffie. Het is vooral een goede optie voor een middag waarop je niet te ver wilt rijden of wanneer de kinderen hun energie kwijt moeten.",
+   "en": "No permanent public mini-golf course could be confirmed in the Wörgl area. There is, however, a course that is easy to reach at Hotel Neuwirt in Kirchdorf in Tirol, in the St. Johann region, with twelve holes. It is an ordinary course open to everyone, including people not staying at the hotel.\n\nMini golf is a relaxed in-between activity: a short, sporty contest that young and old can take part in without prior knowledge or equipment. Equipment is lent on site. Allow about an hour and combine it with an ice cream or a coffee. It is mainly a good option for an afternoon when you do not want to drive far, or when the children need to burn off energy.",
+   "de": "Im Raum Wörgl ließ sich keine feste öffentliche Minigolfanlage bestätigen. Gut erreichbar ist dagegen eine Anlage beim Hotel Neuwirt in Kirchdorf in Tirol, in der Region St. Johann, mit zwölf Bahnen. Sie ist eine normale Anlage, die allen offensteht, auch Gästen, die nicht im Hotel wohnen.\n\nMinigolf ist ein entspanntes Zwischendurch: ein kurzer, sportlicher Wettkampf, bei dem Jung und Alt ohne Vorkenntnisse oder eigene Ausrüstung mitmachen können. Das Material wird vor Ort verliehen. Rechne mit etwa einer Stunde und verbinde es mit einem Eis oder einem Kaffee. Eine gute Option für einen Nachmittag ohne weite Fahrt oder wenn die Kinder sich austoben wollen."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf of de baan open is en of reserveren nodig is.",
+    "Houd de score bij; dat maakt het voor kinderen extra spannend.",
+    "Combineer met een bezoek aan St. Johann in Tirol of een ijsje na afloop."
+   ],
+   "en": [
+    "Check beforehand whether the course is open and whether you need to book.",
+    "Keep score; it makes it more exciting for children.",
+    "Combine with a visit to St. Johann in Tirol or an ice cream afterwards."
+   ],
+   "de": [
+    "Prüfe vorab, ob die Anlage geöffnet ist und ob eine Reservierung nötig ist.",
+    "Führt Punkte; das macht es für Kinder spannender.",
+    "Verbinde es mit einem Besuch in St. Johann in Tirol oder einem Eis danach."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 50 minuten rijden naar Kirchdorf in Tirol, via Wörgl en Kitzbühel. Informeer vooraf bij het hotel of toeristenbureau naar openingstijden.",
+   "en": "From Niederau it is about 50 minutes by car to Kirchdorf in Tirol, via Wörgl and Kitzbühel. Ask the hotel or tourist office beforehand about opening times.",
+   "de": "Von Niederau sind es ca. 50 Minuten Fahrt nach Kirchdorf in Tirol, über Wörgl und Kitzbühel. Erkundige dich vorab beim Hotel oder Tourismusbüro nach den Öffnungszeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Rond € 3 tot € 5 per persoon; informeer vooraf",
+    "en": "Around € 3 to € 5 per person; check beforehand",
+    "de": "Rund 3 bis 5 € pro Person; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "About 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kirchdorf in Tirol, regio St. Johann",
+   "en": "Kirchdorf in Tirol, St. Johann region",
+   "de": "Kirchdorf in Tirol, Region St. Johann"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er minigolf bij Wörgl?",
+     "en": "Is there mini golf near Wörgl?",
+     "de": "Gibt es Minigolf bei Wörgl?"
+    },
+    "a": {
+     "nl": "Dat is niet bevestigd. Bij Kirchdorf in Tirol, regio St. Johann, ligt wel een baan met twaalf holes.",
+     "en": "That could not be confirmed. There is a twelve-hole course at Kirchdorf in Tirol, in the St. Johann region.",
+     "de": "Das ließ sich nicht bestätigen. Bei Kirchdorf in Tirol, Region St. Johann, liegt aber eine Anlage mit zwölf Bahnen."
+    }
+   }
+  ],
+  "verified": true,
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Midgetgolf of minigolf regio Wörgl",
+  "_orig_loc": "Wörgl en omgeving (15 min)"
+ },
+ {
+  "id": "s294",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "zell-am-ziller",
+  "slug_en": "canoeing-ziller",
+  "slug_de": "kanufahren-ziller",
+  "title": {
+   "nl": "Kanoën in het Zillertal",
+   "en": "Canoeing in the Zillertal",
+   "de": "Kanufahren im Zillertal"
+  },
+  "tagline": {
+   "nl": "Rustig pagaaien op de rivier in het brede dal",
+   "en": "Calm paddling on the river in the wide valley",
+   "de": "Ruhiges Paddeln auf dem Fluss im breiten Tal"
+  },
+  "intro": {
+   "nl": "De Ziller stroomt door het Zillertal en mondt bij Strass in de Inn uit. Een kanotocht met gids over de rustiger stukken is geschikt voor beginners: kleine stroomversnellingen, ondiepe plekken en veel natuur. Zo maak je kennis met pagaaien zonder dat het meteen spannend wordt.\n\nDe tocht is vooral voor kinderen vanaf ca. 10 jaar en volwassenen. Je wordt waarschijnlijk nat, dus neem badkleding en droge kleren mee. Welke aanbieders actief zijn en welke stukken van de rivier bevaren worden, is hier niet bevestigd; vraag het bij de toeristische dienst van het Zillertal.",
+   "en": "The Ziller flows through the Zillertal and joins the Inn at Strass. A guided canoe trip over the calmer stretches suits beginners: small rapids, shallow spots and plenty of nature. It is an introduction to paddling without immediately being daunting.\n\nThe trip is mainly for children from about 10 and adults. You will probably get wet, so bring swimwear and dry clothes. Which providers are active and which river sections are used has not been confirmed here; ask the Zillertal tourist office.",
+   "de": "Die Ziller fließt durch das Zillertal und mündet bei Strass in den Inn. Eine geführte Kanutour auf den ruhigeren Abschnitten eignet sich für Anfänger: kleine Stromschnellen, flache Stellen und viel Natur. So lernt man das Paddeln kennen, ohne dass es gleich aufregend wird.\n\nDie Tour richtet sich vor allem an Kinder ab ca. 10 Jahren und Erwachsene. Man wird wahrscheinlich nass, daher Badekleidung und trockene Kleidung mitnehmen. Welche Anbieter aktiv sind und welche Flussabschnitte befahren werden, ist hier nicht bestätigt; beim Tourismusverband Zillertal nachfragen."
+  },
+  "tips": {
+   "nl": [
+    "Neem droge kleding en een handdoek mee.",
+    "Vraag naar zwemvaardigheid en leeftijd.",
+    "Kies een dag met stabiel weer."
+   ],
+   "en": [
+    "Bring dry clothes and a towel.",
+    "Ask about swimming ability and age.",
+    "Choose a day with stable weather."
+   ],
+   "de": [
+    "Trockene Kleidung und Handtuch mitnehmen.",
+    "Nach Schwimmfähigkeit und Alter fragen.",
+    "Einen Tag mit stabilem Wetter wählen."
+   ]
+  },
+  "practical": {
+   "nl": "Het Zillertal ligt ca. 1 uur rijden van Niederau, via de A12 en de Zillertal-weg. Informeer naar aanbieders en startpunt.",
+   "en": "The Zillertal is about an hour by car from Niederau, via the A12 and the Zillertal road. Ask about providers and starting point.",
+   "de": "Das Zillertal liegt ca. 1 Stunde Autofahrt von Niederau entfernt, über die A12 und die Zillertalstraße. Anbieter und Startpunkt erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 10 jaar (informeer)",
+    "en": "From about 10 years (ask)",
+    "de": "Ab ca. 10 Jahren (erfragen)"
+   },
+   "duration": {
+    "nl": "Ca. 2-3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 60 min rijden",
+    "en": "About 60 minutes by car",
+    "de": "Ca. 60 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Zillertal",
+   "en": "Zillertal",
+   "de": "Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het geschikt voor beginners?",
+     "en": "Is it suitable for beginners?",
+     "de": "Ist es für Anfänger geeignet?"
+    },
+    "a": {
+     "nl": "Op de rustiger stukken met een gids wel; vraag naar de moeilijkheid.",
+     "en": "On the calmer stretches with a guide, yes; ask about difficulty.",
+     "de": "Auf den ruhigeren Abschnitten mit Guide ja; nach dem Schwierigkeitsgrad fragen."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Kanoën op de Ziller",
+  "_orig_loc": "Zillertal (50 min)"
+ },
+ {
+  "id": "w21",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "winter-walk-niederau-oberau",
+  "slug_de": "winterwanderung-niederau-oberau",
+  "title": {
+   "nl": "Winterwandeling Niederau en Oberau",
+   "en": "Winter walk between Niederau and Oberau",
+   "de": "Winterwanderung Niederau und Oberau"
+  },
+  "tagline": {
+   "nl": "Makkelijke, vlakke winterwandeling langs boerderijen, ook met buggy",
+   "en": "Easy, flat winter walk past farms, also with a buggy",
+   "de": "Leichte, flache Winterwanderung an Höfen vorbei, auch mit Buggy"
+  },
+  "intro": {
+   "nl": "Tussen Niederau en Oberau loopt een eenvoudige winterwandeling langs de beek en traditionele Tiroler boerderijen. Het vlakke deel langs het water is volgens de bron ook met een sneeuwbuggy te doen, waardoor de route geschikt is voor gezinnen met kleine kinderen en voor grootouders.\n\nOnderweg zie je bevroren beekjes, houten bruggetjes en uitzicht op de Kitzbüheler Alpen. Er zijn een kortere variant van ca. 3 km en een langere van ca. 6 km; reken op 1 tot 3 uur. De route start in het centrum van Niederau en is vanuit veel accommodaties te voet te bereiken. De route is niet bevestigd: vraag bij het toeristenbureau naar de actuele toestand van de paden.",
+   "en": "Between Niederau and Oberau an easy winter walk runs along the stream and past traditional Tyrolean farms. According to the source the flat stretch beside the water can also be done with a snow buggy, so the route suits families with small children and grandparents.\n\nAlong the way you see frozen brooks, wooden bridges and views of the Kitzbühel Alps. There is a shorter option of about 3 km and a longer one of about 6 km; allow 1 to 3 hours. The route starts in the centre of Niederau and can be reached on foot from many accommodations. The route is not confirmed: ask the tourist office about current path conditions.",
+   "de": "Zwischen Niederau und Oberau führt ein leichter Winterweg am Bach entlang und an traditionellen Tiroler Höfen vorbei. Laut Quelle ist der flache Abschnitt am Wasser auch mit dem Schneebuggy machbar, die Strecke eignet sich also für Familien mit kleinen Kindern und für Großeltern.\n\nUnterwegs sehen Sie gefrorene Bäche, Holzbrücken und Ausblicke auf die Kitzbüheler Alpen. Es gibt eine kürzere Variante von ca. 3 km und eine längere von ca. 6 km; rechnen Sie mit 1 bis 3 Stunden. Die Route startet im Zentrum von Niederau und ist von vielen Unterkünften zu Fuß erreichbar. Die Route ist nicht bestätigt: Fragen Sie beim Tourismusbüro nach dem aktuellen Zustand der Wege."
+  },
+  "tips": {
+   "nl": [
+    "Draag warme laarzen met grip; het kan glad zijn.",
+    "Neem een thermoskan met warme drank mee.",
+    "Kies de kortere variant als de kinderen moe worden."
+   ],
+   "en": [
+    "Wear warm boots with grip; it can be slippery.",
+    "Take a flask of hot drink.",
+    "Choose the shorter option if the children tire."
+   ],
+   "de": [
+    "Tragen Sie warme Stiefel mit Profil; es kann glatt sein.",
+    "Nehmen Sie eine Thermoskanne mit Heißgetränk mit.",
+    "Wählen Sie die kürzere Variante, wenn die Kinder müde werden."
+   ]
+  },
+  "practical": {
+   "nl": "De wandeling begint in het centrum van Niederau; Oberau ligt ca. 10 minuten rijden verderop in het dal. Informeer naar de actuele toestand van de paden.",
+   "en": "The walk starts in the centre of Niederau; Oberau is about 10 minutes by car further up the valley. Ask about current path conditions.",
+   "de": "Die Wanderung beginnt im Zentrum von Niederau; Oberau liegt ca. 10 Fahrminuten weiter im Tal. Fragen Sie nach dem aktuellen Zustand der Wege."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 3 uur",
+    "en": "Approx. 1 to 3 hours",
+    "de": "Ca. 1 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "In Niederau zelf",
+    "en": "In Niederau itself",
+    "de": "In Niederau selbst"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Niederau en Oberau, Wildschönau (Tirol)",
+   "en": "Niederau and Oberau, Wildschönau (Tyrol)",
+   "de": "Niederau und Oberau, Wildschönau (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kan ik de winterwandeling tussen Niederau en Oberau met een buggy doen?",
+     "en": "Can I do the winter walk between Niederau and Oberau with a buggy?",
+     "de": "Kann ich die Winterwanderung zwischen Niederau und Oberau mit Buggy machen?"
+    },
+    "a": {
+     "nl": "Het vlakke deel langs het water zou met een sneeuwbuggy kunnen; informeer naar de toestand van de paden.",
+     "en": "The flat stretch beside the water should be possible with a snow buggy; ask about path conditions.",
+     "de": "Der flache Abschnitt am Wasser sollte mit Schneebuggy möglich sein; fragen Sie nach dem Zustand der Wege."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "wandelen",
+  "_season": "winter",
+  "_orig_title": "Winterwandeling Wildschönalm",
+  "_orig_loc": "Niederau – Oberau"
+ },
+ {
+  "id": "s174",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "",
+  "slug_en": "tennis-st-johann-in-tirol",
+  "slug_de": "tennis-st-johann-in-tirol",
+  "title": {
+   "nl": "Tennis in St. Johann in Tirol",
+   "en": "Tennis in St. Johann in Tirol",
+   "de": "Tennis in St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Tennissen met uitzicht op de bergen in het Leukental",
+   "en": "Tennis with mountain views in the Leukental",
+   "de": "Tennis mit Bergblick im Leukental"
+  },
+  "intro": {
+   "nl": "St. Johann in Tirol heeft volgens de bron meerdere tennisbanen met uitzicht op de omringende bergen, ook voor kinderen en beginners met lessen. In de regio zijn doorgaans zowel buitenbanen als overdekte banen te vinden, wat handig is bij wisselend bergweer.\n\nDe precieze baanlocatie, tarieven en lesmogelijkheden zijn niet gecontroleerd. Vraag het toeristenbureau van St. Johann of het sportcentrum naar het actuele aanbod en reserveer een baan vooraf. Rackets en ballen kunnen meestal worden gehuurd, en voor jonge kinderen bestaat vaak een vorm van minitennis. Het past goed bij een sportieve ochtend tussen de wandeldagen in, en een terras bij de banen maakt er vaak een gezellige pauze van.",
+   "en": "According to the source, St. Johann in Tirol has several tennis courts with views of the surrounding mountains, with lessons for children and beginners. The region usually has both outdoor and indoor courts, which is handy in changeable mountain weather.\n\nThe exact court location, rates and lessons have not been checked. Ask the St. Johann tourist office or the sports centre about the current offer and book a court beforehand. Rackets and balls can usually be hired, and a form of mini tennis often exists for young children. It fits a sporty morning between walking days, and a terrace by the courts often makes for a pleasant break.",
+   "de": "St. Johann in Tirol hat laut Quelle mehrere Tennisplätze mit Blick auf die umliegenden Berge, mit Unterricht für Kinder und Anfänger. In der Region gibt es in der Regel sowohl Außen- als auch Hallenplätze, was bei wechselhaftem Bergwetter praktisch ist.\n\nDer genaue Standort der Plätze, Preise und Unterrichtsmöglichkeiten wurden nicht überprüft. Frage das Tourismusbüro St. Johann oder das Sportzentrum nach dem aktuellen Angebot und reserviere vorab einen Platz. Schläger und Bälle lassen sich meist leihen, und für kleine Kinder gibt es oft eine Form von Mini-Tennis. Es passt zu einem sportlichen Vormittag zwischen Wandertagen, und eine Terrasse an den Plätzen macht oft eine nette Pause."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een baan vooraf.",
+    "Vraag naar huur van rackets en ballen en naar minitennis voor jonge kinderen.",
+    "Plan bij wisselend weer een overdekte baan in."
+   ],
+   "en": [
+    "Book a court beforehand.",
+    "Ask about racket and ball hire and about mini tennis for young children.",
+    "Plan for an indoor court if the weather is changeable."
+   ],
+   "de": [
+    "Reserviere vorab einen Platz.",
+    "Frage nach Verleih von Schlägern und Bällen und nach Mini-Tennis für kleine Kinder.",
+    "Plane bei wechselhaftem Wetter einen Hallenplatz ein."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 35 minuten rijden naar St. Johann in Tirol. Informeer vooraf waar de banen liggen en hoe je reserveert.",
+   "en": "From Niederau it is about 35 minutes by car to St. Johann in Tirol. Ask beforehand where the courts are and how to book.",
+   "de": "Von Niederau sind es ca. 35 Minuten Fahrt nach St. Johann in Tirol. Erkundige dich vorab, wo die Plätze liegen und wie man reserviert."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Tarief per baan wisselt; informeer vooraf",
+    "en": "Court rates vary; check beforehand",
+    "de": "Platzpreise variieren; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (buiten); winter (overdekt)",
+    "en": "Summer (outdoor); winter (indoor)",
+    "de": "Sommer (draußen); Winter (Halle)"
+   }
+  },
+  "location": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn er lessen voor kinderen?",
+     "en": "Are there lessons for children?",
+     "de": "Gibt es Unterricht für Kinder?"
+    },
+    "a": {
+     "nl": "Volgens de bron wel; vraag het sportcentrum naar de actuele mogelijkheden.",
+     "en": "According to the source there are; ask the sports centre about current options.",
+     "de": "Laut Quelle ja; bitte beim Sportzentrum nach den aktuellen Möglichkeiten fragen."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Tennis in St. Johann in Tirol",
+  "_orig_loc": "St. Johann in Tirol (30 min)"
+ },
+ {
+  "id": "s175",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "",
+  "slug_en": "pony-riding-wildschoenau-area",
+  "slug_de": "ponyreiten-region-wildschoenau",
+  "title": {
+   "nl": "Ponyrijden en paardrijden in de regio",
+   "en": "Pony and horse riding in the region",
+   "de": "Ponyreiten und Reiten in der Region"
+  },
+  "tagline": {
+   "nl": "Haflingers en pony's op de alpenweiden voor groot en klein",
+   "en": "Haflingers and ponies on the alpine pastures for young and old",
+   "de": "Haflinger und Ponys auf den Almwiesen für Groß und Klein"
+  },
+  "intro": {
+   "nl": "Haflingers zijn een bekend Tiroler paardenras: compact, sterk en meestal rustig van aard. Daardoor zijn ze geschikt voor beginners en kinderen. Volgens de bron zijn er in de omgeving van St. Johann en de Wildschönau mogelijkheden om te rijden, van korte ritjes op een pony voor kleuters tot langere tochten te paard of met een koets voor volwassenen.\n\nWelke aanbieders er precies zijn en onder welke voorwaarden, is niet gecontroleerd. Vraag het toeristenbureau naar manegen en stoeterijen in de buurt en reserveer vooraf. Pony's zijn te klein voor volwassenen; kinderen rijden vaak onder begeleiding aan de hand. Combineer het uitstapje desgewenst met een bezoek aan een boerderij, zodat de kinderen ook meer over de dieren leren.",
+   "en": "Haflingers are a well-known Tyrolean horse breed: compact, strong and usually calm by nature, which makes them suitable for beginners and children. According to the source there are riding options around St. Johann and the Wildschönau, from short pony rides for toddlers to longer rides on horseback or by carriage for adults.\n\nWhich operators exist and on what terms has not been checked. Ask the tourist office about riding schools and studs nearby and book beforehand. Ponies are too small for adults; children often ride under supervision, led by hand. If you like, combine the outing with a visit to a farm so the children also learn more about the animals.",
+   "de": "Haflinger sind eine bekannte Tiroler Pferderasse: kompakt, kräftig und meist ruhig im Wesen, daher gut für Anfänger und Kinder geeignet. Laut Quelle gibt es in der Umgebung von St. Johann und der Wildschönau Reitmöglichkeiten, von kurzen Ponyritten für Kleinkinder bis zu längeren Ausritten oder Kutschfahrten für Erwachsene.\n\nWelche Anbieter es genau gibt und unter welchen Bedingungen, wurde nicht überprüft. Frage das Tourismusbüro nach Reitställen und Gestüten in der Nähe und reserviere vorab. Ponys sind für Erwachsene zu klein; Kinder reiten oft unter Aufsicht an der Hand geführt. Verbinde den Ausflug auf Wunsch mit einem Bauernhofbesuch, damit die Kinder mehr über die Tiere lernen."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf via het toeristenbureau of de aanbieder.",
+    "Draag gesloten schoenen en een lange broek.",
+    "Combineer met een bezoek aan een boerderij."
+   ],
+   "en": [
+    "Book beforehand through the tourist office or the operator.",
+    "Wear closed shoes and long trousers.",
+    "Combine with a farm visit."
+   ],
+   "de": [
+    "Reserviere vorab über das Tourismusbüro oder den Anbieter.",
+    "Trage geschlossene Schuhe und lange Hosen.",
+    "Verbinde es mit einem Bauernhofbesuch."
+   ]
+  },
+  "practical": {
+   "nl": "Het aanbod ligt in de omgeving van St. Johann en de Wildschönau, ca. 15 tot 35 minuten rijden vanaf Niederau. Vraag het toeristenbureau naar de dichtstbijzijnde aanbieder.",
+   "en": "The offer is around St. Johann and the Wildschönau, about 15 to 35 minutes by car from Niederau. Ask the tourist office for the nearest operator.",
+   "de": "Das Angebot liegt in der Umgebung von St. Johann und der Wildschönau, ca. 15 bis 35 Minuten Fahrt von Niederau. Frage das Tourismusbüro nach dem nächstgelegenen Anbieter."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 3 uur",
+    "en": "About 1 to 3 hours",
+    "de": "Ca. 1 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preis variiert; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 15 tot 35 min rijden",
+    "en": "About 15 to 35 min by car",
+    "de": "Ca. 15 bis 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Omgeving St. Johann en Wildschönau",
+   "en": "St. Johann and Wildschönau area",
+   "de": "Raum St. Johann und Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is een Haflinger?",
+     "en": "What is a Haflinger?",
+     "de": "Was ist ein Haflinger?"
+    },
+    "a": {
+     "nl": "Een compact, sterk en rustig paardenras uit Tirol, geschikt voor beginners.",
+     "en": "A compact, strong and calm horse breed from Tyrol, suitable for beginners.",
+     "de": "Eine kompakte, kräftige und ruhige Pferderasse aus Tirol, für Anfänger geeignet."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Ponyrijden en paardentrekking Tirol",
+  "_orig_loc": "Omgeving St. Johann / Wildschönau (30 min)"
+ },
+ {
+  "id": "s122",
+  "drop": false,
+  "drop_reason": "",
+  "verified": false,
+  "place": "niederau",
+  "slug_en": "family-games-evening-wastlhof",
+  "slug_de": "spieleabend-familie-wastlhof",
+  "title": {
+   "nl": "Speelavond bij Hotel Wastlhof",
+   "en": "Games evening at Hotel Wastlhof",
+   "de": "Spieleabend im Hotel Wastlhof"
+  },
+  "tagline": {
+   "nl": "Gezelschapsspellen en puzzels voor het hele gezin",
+   "en": "Board games and puzzles for the whole family",
+   "de": "Gesellschaftsspiele und Puzzles für die ganze Familie"
+  },
+  "intro": {
+   "nl": "Hotel Wastlhof in Niederau, partner van deze site, organiseert volgens de bron een gezinsavond met gezelschapsspellen, puzzels en Tiroler dorpsspellen. Zo'n avond is een rustige manier om de dag af te sluiten, vooral als het buiten regent of de kinderen moe zijn van het wandelen.\n\nDe frequentie, het tijdstip en de voorwaarden zijn niet gecontroleerd en kunnen per seizoen wisselen. Het aanbod is bedoeld voor gasten van het hotel; vraag aan de receptie of er een avond gepland staat en of je ook als niet-gast kunt aansluiten. Er is meestal genoeg te doen voor alle leeftijden, van eenvoudige kaartspellen voor jonge kinderen tot grotere puzzels en strategische spellen voor ouders en tieners. Een warm drankje maakt het gezellig.",
+   "en": "Hotel Wastlhof in Niederau, a partner of this site, organises according to the source a family evening with board games, puzzles and Tyrolean village games. Such an evening is a calm way to end the day, especially when it rains outside or the children are tired from walking.\n\nFrequency, time and conditions have not been checked and may change by season. The offer is meant for hotel guests; ask reception whether an evening is planned and whether non-guests can join. There is usually enough for all ages, from simple card games for young children to larger puzzles and strategy games for parents and teenagers. A warm drink makes it cosy.",
+   "de": "Das Hotel Wastlhof in Niederau, Partner dieser Seite, veranstaltet laut Quelle einen Familienabend mit Gesellschaftsspielen, Puzzles und Tiroler Dorfspielen. So ein Abend ist ein ruhiger Tagesabschluss, besonders wenn es draußen regnet oder die Kinder vom Wandern müde sind.\n\nHäufigkeit, Zeit und Bedingungen wurden nicht überprüft und können sich je nach Saison ändern. Das Angebot richtet sich an Hotelgäste; frage an der Rezeption, ob ein Abend geplant ist und ob auch Nicht-Gäste teilnehmen können. Meist ist für alle Altersgruppen etwas dabei, von einfachen Kartenspielen für kleine Kinder bis zu größeren Puzzles und Strategiespielen für Eltern und Jugendliche. Ein warmes Getränk macht es gemütlich."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij de receptie wanneer de avond plaatsvindt.",
+    "Ideaal als regendagactiviteit.",
+    "Bestel een warm drankje erbij."
+   ],
+   "en": [
+    "Ask reception when the evening takes place.",
+    "Ideal as a rainy-day activity.",
+    "Order a warm drink to go with it."
+   ],
+   "de": [
+    "Frage an der Rezeption, wann der Abend stattfindet.",
+    "Ideal als Regentagsaktivität.",
+    "Bestelle ein warmes Getränk dazu."
+   ]
+  },
+  "practical": {
+   "nl": "De avond vindt plaats in Hotel Wastlhof in Niederau, dus in het dorp zelf. Informeer bij het hotel naar datum en deelname.",
+   "en": "The evening takes place at Hotel Wastlhof in Niederau, in the village itself. Ask the hotel about dates and participation.",
+   "de": "Der Abend findet im Hotel Wastlhof in Niederau statt, also im Ort selbst. Erkundige dich beim Hotel nach Terminen und Teilnahme."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Informeer bij het hotel",
+    "en": "Ask the hotel",
+    "de": "Bitte beim Hotel erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Informeer bij het hotel",
+    "en": "Ask the hotel",
+    "de": "Bitte beim Hotel erfragen"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de speelavond ook voor niet-gasten?",
+     "en": "Is the games evening open to non-guests?",
+     "de": "Ist der Spieleabend auch für Nicht-Gäste?"
+    },
+    "a": {
+     "nl": "Dat is niet gecontroleerd; vraag het aan de receptie van Hotel Wastlhof.",
+     "en": "This has not been checked; ask the reception of Hotel Wastlhof.",
+     "de": "Das wurde nicht geprüft; bitte an der Rezeption des Hotels Wastlhof erfragen."
+    }
+   }
+  ],
+  "_theme": "avontuur",
+  "_season": "summer",
+  "_orig_title": "Speelavond Familie Wastlhof",
+  "_orig_loc": "Hotel Wastlhof"
+ },
+ {
+  "id": "s234",
+  "drop": false,
+  "drop_reason": "",
+  "place": "mayrhofen",
+  "slug_en": "ahorn-alm-walk-mayrhofen",
+  "slug_de": "ahorn-almwanderung-mayrhofen",
+  "title": {
+   "nl": "Almwandeling boven Mayrhofen (Ahorn)",
+   "en": "Alm walk above Mayrhofen, Ahorn",
+   "de": "Almwanderung oberhalb von Mayrhofen am Ahorn"
+  },
+  "tagline": {
+   "nl": "Bloemrijke almroute op ca. 2.000 meter boven het Zillertal",
+   "en": "Flower-rich alm route at about 2,000 metres above the Zillertal",
+   "de": "Blumenreiche Almroute auf ca. 2.000 Metern über dem Zillertal"
+  },
+  "intro": {
+   "nl": "Boven Mayrhofen ligt het Ahorn-gebied, dat je met de Ahornbahn bereikt. Bovenop begint een rondwandeling over alpenweiden met uitzicht over het Zillertal. In de zomer kleuren de weiden met bloemen, en in het begin van de zomer bloeien ook alpenrozen.\n\nDe route is eenvoudig en kost ongeveer een tot twee uur; langere tochten zijn mogelijk voor wie meer wil. Onderweg zijn berghutten voor een pauze. Een benaming als Rosenalm hoorden we in onze bron, maar of een hut zo heet en wat er geschonken wordt, kun je het beste ter plekke navragen.",
+   "en": "Above Mayrhofen lies the Ahorn area, reached by the Ahornbahn. From the top, a circular walk crosses alpine pastures with views over the Zillertal. In summer the meadows are full of flowers, and in early summer alpenrose also blooms.\n\nThe route is easy and takes about one to two hours; longer tours are possible for those who want more. There are mountain huts along the way for a break. Our source mentioned a name such as Rosenalm, but whether a hut goes by that name and what it serves is best asked on the spot.",
+   "de": "Oberhalb von Mayrhofen liegt das Ahorn-Gebiet, das du mit der Ahornbahn erreichst. Oben beginnt ein Rundweg über Almwiesen mit Blick über das Zillertal. Im Sommer sind die Wiesen voller Blumen, im Frühsommer blühen auch Alpenrosen.\n\nDie Route ist einfach und dauert etwa ein bis zwei Stunden; längere Touren sind für alle möglich, die mehr wollen. Unterwegs laden Berghütten zur Pause ein. Unsere Quelle nannte einen Namen wie Rosenalm, ob eine Hütte so heißt und was sie serviert, fragst du am besten vor Ort."
+  },
+  "tips": {
+   "nl": [
+    "Alpenrozen bloeien vooral in juni en juli.",
+    "Controleer vooraf of de Ahornbahn rijdt.",
+    "Neem een jas mee; boven is het fris."
+   ],
+   "en": [
+    "Alpenrose blooms mainly in June and July.",
+    "Check beforehand that the Ahornbahn is running.",
+    "Bring a jacket; it is cool at the top."
+   ],
+   "de": [
+    "Alpenrosen blühen vor allem im Juni und Juli.",
+    "Prüfe vorab, ob die Ahornbahn fährt.",
+    "Nimm eine Jacke mit; oben ist es frisch."
+   ]
+  },
+  "practical": {
+   "nl": "Mayrhofen ligt ca. 55 minuten rijden van Niederau, via Wörgl en de B169 het Zillertal in.",
+   "en": "Mayrhofen is about 55 minutes by car from Niederau, via Wörgl and the B169 into the Zillertal.",
+   "de": "Mayrhofen liegt ca. 55 Autominuten von Niederau entfernt, über Wörgl und die B169 ins Zillertal."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2–3 uur",
+    "en": "About 2–3 hours",
+    "de": "Ca. 2–3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "About 55 min by car",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Mayrhofen, Zillertal",
+   "en": "Mayrhofen, Zillertal",
+   "de": "Mayrhofen, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe kom je boven bij het Ahorn-gebied?",
+     "en": "How do you get up to the Ahorn area?",
+     "de": "Wie kommt man ins Ahorn-Gebiet?"
+    },
+    "a": {
+     "nl": "Met de Ahornbahn vanuit Mayrhofen; informeer vooraf of de bergbaan rijdt.",
+     "en": "By the Ahornbahn from Mayrhofen; check beforehand that it is running.",
+     "de": "Mit der Ahornbahn ab Mayrhofen; erkundige dich vorab, ob sie fährt."
+    }
+   }
+  ],
+  "verified": false,
+  "_theme": "wandelen",
+  "_season": "summer",
+  "_orig_title": "Rosenalm wandeling Zillertal",
+  "_orig_loc": "Zillertal (45 min)"
+ }
+]
