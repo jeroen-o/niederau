@@ -103,9 +103,14 @@ def jload(pattern):
 # ---------- data laden ----------
 src = {o["id"]: o for o in json.load(open(DATA / "source_activities.json", encoding="utf-8"))}
 EXCL = set(json.load(open(DATA / "exclude.json", encoding="utf-8"))["ids"]) if (DATA / "exclude.json").exists() else set()
+PATCH = {}
+for pt in jload("patches/*.json"):
+    PATCH[pt.get("id") or pt.get("slug")] = pt
 acts = []
 for a in jload("acts/*.json"):
-    if a.get("drop") or a["id"] in EXCL: continue
+    patched = a["id"] in PATCH
+    a = PATCH.get(a["id"], a)
+    if a.get("drop") or (a["id"] in EXCL and not (patched and a.get("verified") is True)): continue
     s = src.get(a["id"])
     a["theme"] = a.get("theme") or (s["theme"] if s else "avontuur")
     a["season"] = a.get("season") or (s["season"] if s else "summer")
@@ -113,7 +118,13 @@ for a in jload("acts/*.json"):
     a["title"] = a.get("title") or {}
     if not L(a["title"], "nl") and s: a["title"] = {"nl": s["src"]["t"]}
     acts.append(a)
-places = [p for p in jload("places/*.json") if not p.get("drop")]
+_ids = {a["id"] for a in acts}
+for k, pt in PATCH.items():
+    if pt.get("id") and pt["id"] not in _ids and not pt.get("drop") and pt.get("new"):
+        pt.setdefault("theme", "golf"); pt.setdefault("season", "summer"); pt.setdefault("slug_nl", pt["id"])
+        acts.append(pt)
+places = [PATCH.get(p["slug"], p) for p in jload("places/*.json")]
+places = [p for p in places if not p.get("drop")]
 tdata = jload("themes/*.json")
 themes = {t["theme"]: t for t in tdata if t.get("kind") == "theme"}
 regions = {t["region"]: t for t in tdata if t.get("kind") == "region"}

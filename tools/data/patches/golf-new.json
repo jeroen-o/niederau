@@ -1,0 +1,698 @@
+[
+ {
+  "id": "g1",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "golf-course-kitzbuehel-schwarzsee",
+  "slug_de": "golfplatz-kitzbuehel-schwarzsee",
+  "title": {
+   "nl": "Golfbaan Kitzbühel-Schwarzsee",
+   "en": "Kitzbühel-Schwarzsee Golf Course",
+   "de": "Golfplatz Kitzbühel-Schwarzsee"
+  },
+  "tagline": {
+   "nl": "18 holes met water en heuvelachtige tweede helft",
+   "en": "18 holes with water hazards and a hilly back nine",
+   "de": "18 Löcher mit Wasserhindernissen und welliger zweiter Hälfte"
+  },
+  "intro": {
+   "nl": "Bij de Schwarzsee, even buiten Kitzbühel, ligt een 18-holes baan (par 72). De eerste negen holes liggen op vlak terrein, de tweede negen lopen heuvelachtig op en neer. Waterhindernissen geven de baan haar karakter.\n\nDe baan hoort bij de vier golfbanen rond Kitzbühel, samen goed voor 54 holes. Voor wie in Niederau verblijft is het een van de grotere banen binnen een uurtje rijden.",
+   "en": "Near the Schwarzsee lake, just outside Kitzbühel, lies an 18-hole course (par 72). The first nine holes run over flat ground, while the back nine rise and fall across hilly terrain. Water hazards give the course its character.\n\nIt is one of four courses around Kitzbühel, together offering 54 holes. For guests staying in Niederau it is one of the larger courses within an hour's drive.",
+   "de": "Am Schwarzsee, unweit von Kitzbühel, liegt ein 18-Loch-Platz (Par 72). Die ersten neun Bahnen verlaufen auf flachem Gelände, die zweiten neun sind hügelig. Wasserhindernisse prägen den Platz.\n\nEr gehört zu den vier Golfplätzen rund um Kitzbühel mit zusammen 54 Löchern. Für Gäste aus Niederau ist er einer der größeren Plätze innerhalb einer Autostunde."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een starttijd vooraf, zeker in het hoogseizoen.",
+    "Vraag naar de regels voor gasten zonder clublidmaatschap en naar eventueel vereiste handicap of platzreife.",
+    "Controleer de weersvoorspelling; in de bergen kan het weer snel omslaan."
+   ],
+   "en": [
+    "Book a tee time in advance, especially in high season.",
+    "Ask about the rules for guests without club membership and any required handicap or course-permit.",
+    "Check the forecast; mountain weather can change quickly."
+   ],
+   "de": [
+    "Reservieren Sie vorab eine Startzeit, besonders in der Hauptsaison.",
+    "Fragen Sie nach den Regeln für Gäste ohne Clubmitgliedschaft und einer eventuell nötigen Platzreife oder einem Handicap.",
+    "Prüfen Sie die Wettervorhersage; im Gebirge kann das Wetter schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 40 minuten rijden vanaf Niederau, richting Kitzbühel.",
+   "en": "About 40 minutes by car from Niederau, towards Kitzbühel.",
+   "de": "Ca. 40 Minuten Fahrt ab Niederau Richtung Kitzbühel."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Prijs wisselt per seizoen; informeer vooraf",
+    "en": "Prices vary by season; check in advance",
+    "de": "Preise variieren je nach Saison; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min drive",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel, Schwarzsee",
+   "en": "Kitzbühel, Schwarzsee",
+   "de": "Kitzbühel, Schwarzsee"
+  },
+  "url": "https://www.kitzbuehel.com/en/sport/golf/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik lid zijn om te golfen?",
+     "en": "Do I need to be a member to play?",
+     "de": "Muss ich Mitglied sein, um zu spielen?"
+    },
+    "a": {
+     "nl": "Gasten kunnen meestal tegen green fee spelen; informeer vooraf naar de voorwaarden.",
+     "en": "Visitors can usually play for a green fee; ask about the conditions beforehand.",
+     "de": "Gäste können in der Regel gegen Greenfee spielen; fragen Sie vorab nach den Bedingungen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g2",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "golf-course-kitzbuehel-eichenheim",
+  "slug_de": "golfplatz-kitzbuehel-eichenheim",
+  "title": {
+   "nl": "Golfbaan Eichenheim Kitzbühel",
+   "en": "Eichenheim Golf Course, Kitzbühel",
+   "de": "Golfplatz Eichenheim Kitzbühel"
+  },
+  "tagline": {
+   "nl": "18 holes ontworpen door Kyle Phillips",
+   "en": "18 holes designed by Kyle Phillips",
+   "de": "18 Löcher, entworfen von Kyle Phillips"
+  },
+  "intro": {
+   "nl": "Golfclub Eichenheim bij Kitzbühel heeft een 18-holes baan (par 71), ontworpen door de Amerikaanse architect Kyle Phillips. De baan ligt in een afwisselend landschap met uitzicht op de omliggende bergen.\n\nHet is een sportieve baan voor ervaren spelers en een mooie optie als je een dag Kitzbühel combineert met een rondje golf.",
+   "en": "Eichenheim Golf Club near Kitzbühel has an 18-hole course (par 71), designed by the American architect Kyle Phillips. It sits in varied scenery with views of the surrounding mountains.\n\nIt suits experienced players well and makes a good choice if you combine a day in Kitzbühel with a round of golf.",
+   "de": "Der Golfclub Eichenheim bei Kitzbühel hat einen 18-Loch-Platz (Par 71), entworfen vom amerikanischen Architekten Kyle Phillips. Er liegt in abwechslungsreicher Landschaft mit Blick auf die Berge.\n\nEr eignet sich für erfahrene Spieler und lässt sich gut mit einem Tag in Kitzbühel verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een starttijd vooraf, zeker in het hoogseizoen.",
+    "Vraag naar de regels voor gasten zonder clublidmaatschap en naar eventueel vereiste handicap of platzreife.",
+    "Controleer de weersvoorspelling; in de bergen kan het weer snel omslaan."
+   ],
+   "en": [
+    "Book a tee time in advance, especially in high season.",
+    "Ask about the rules for guests without club membership and any required handicap or course-permit.",
+    "Check the forecast; mountain weather can change quickly."
+   ],
+   "de": [
+    "Reservieren Sie vorab eine Startzeit, besonders in der Hauptsaison.",
+    "Fragen Sie nach den Regeln für Gäste ohne Clubmitgliedschaft und einer eventuell nötigen Platzreife oder einem Handicap.",
+    "Prüfen Sie die Wettervorhersage; im Gebirge kann das Wetter schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 40 minuten rijden vanaf Niederau, bij Kitzbühel.",
+   "en": "About 40 minutes by car from Niederau, near Kitzbühel.",
+   "de": "Ca. 40 Minuten Fahrt ab Niederau, bei Kitzbühel."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Prijs wisselt per seizoen; informeer vooraf",
+    "en": "Prices vary by season; check in advance",
+    "de": "Preise variieren je nach Saison; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min drive",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel",
+   "en": "Kitzbühel",
+   "de": "Kitzbühel"
+  },
+  "url": "https://www.kitzbuehel.com/en/sport/golf/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik lid zijn om te golfen?",
+     "en": "Do I need to be a member to play?",
+     "de": "Muss ich Mitglied sein, um zu spielen?"
+    },
+    "a": {
+     "nl": "Gasten kunnen meestal tegen green fee spelen; informeer vooraf naar de voorwaarden.",
+     "en": "Visitors can usually play for a green fee; ask about the conditions beforehand.",
+     "de": "Gäste können in der Regel gegen Greenfee spielen; fragen Sie vorab nach den Bedingungen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g3",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "golf-course-kitzbuehel-kaps",
+  "slug_de": "golfplatz-kitzbuehel-kaps",
+  "title": {
+   "nl": "Golfbaan Kitzbühel-Kaps",
+   "en": "Kitzbühel-Kaps Golf Course",
+   "de": "Golfplatz Kitzbühel-Kaps"
+  },
+  "tagline": {
+   "nl": "Negenholesbaan in een park bij Kasteel Kaps",
+   "en": "Nine-hole parkland course by Kaps Castle",
+   "de": "Neun-Loch-Platz im Park beim Schloss Kaps"
+  },
+  "intro": {
+   "nl": "De negenholesbaan van Kaps ligt in een parklandschap op het terrein van kasteel Kaps en werd in 2006 heropend. Vanaf de baan kijk je naar het kasteel en de kerktoren.\n\nDoor het overzichtelijke formaat is de baan geschikt voor een korter rondje, bijvoorbeeld voor wie weinig tijd heeft of rustig wil beginnen.",
+   "en": "The nine-hole course at Kaps is set in parkland on the grounds of Kaps Castle and reopened in 2006. From the course you look towards the castle and the church tower.\n\nIts compact size suits a shorter round, for example if you are short of time or want a gentle start.",
+   "de": "Der Neun-Loch-Platz in Kaps liegt in einer Parklandschaft auf dem Gelände von Schloss Kaps und wurde 2006 wiedereröffnet. Vom Platz aus sieht man Schloss und Kirchturm.\n\nDie überschaubare Größe eignet sich für eine kürzere Runde, etwa bei wenig Zeit oder für einen ruhigen Einstieg."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een starttijd vooraf, zeker in het hoogseizoen.",
+    "Vraag naar de regels voor gasten zonder clublidmaatschap en naar eventueel vereiste handicap of platzreife.",
+    "Controleer de weersvoorspelling; in de bergen kan het weer snel omslaan."
+   ],
+   "en": [
+    "Book a tee time in advance, especially in high season.",
+    "Ask about the rules for guests without club membership and any required handicap or course-permit.",
+    "Check the forecast; mountain weather can change quickly."
+   ],
+   "de": [
+    "Reservieren Sie vorab eine Startzeit, besonders in der Hauptsaison.",
+    "Fragen Sie nach den Regeln für Gäste ohne Clubmitgliedschaft und einer eventuell nötigen Platzreife oder einem Handicap.",
+    "Prüfen Sie die Wettervorhersage; im Gebirge kann das Wetter schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 40 minuten rijden vanaf Niederau, bij Kitzbühel.",
+   "en": "About 40 minutes by car from Niederau, near Kitzbühel.",
+   "de": "Ca. 40 Minuten Fahrt ab Niederau, bei Kitzbühel."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Prijs wisselt per seizoen; informeer vooraf",
+    "en": "Prices vary by season; check in advance",
+    "de": "Preise variieren je nach Saison; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min drive",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel, Kaps",
+   "en": "Kitzbühel, Kaps",
+   "de": "Kitzbühel, Kaps"
+  },
+  "url": "https://www.kitzbuehel.com/en/sport/golf/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik lid zijn om te golfen?",
+     "en": "Do I need to be a member to play?",
+     "de": "Muss ich Mitglied sein, um zu spielen?"
+    },
+    "a": {
+     "nl": "Gasten kunnen meestal tegen green fee spelen; informeer vooraf naar de voorwaarden.",
+     "en": "Visitors can usually play for a green fee; ask about the conditions beforehand.",
+     "de": "Gäste können in der Regel gegen Greenfee spielen; fragen Sie vorab nach den Bedingungen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g4",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "westendorf",
+  "slug_en": "golf-course-westendorf-brixental",
+  "slug_de": "golfplatz-westendorf-brixental",
+  "title": {
+   "nl": "Golfclub Kitzbüheler Alpen Westendorf",
+   "en": "Kitzbüheler Alpen Westendorf Golf Club",
+   "de": "Golfclub Kitzbüheler Alpen Westendorf"
+  },
+  "tagline": {
+   "nl": "Rustige 18-holes baan op het plateau van Westendorf",
+   "en": "Quiet 18-hole course on the Westendorf plateau",
+   "de": "Ruhiger 18-Loch-Platz auf dem Westendorfer Plateau"
+  },
+  "intro": {
+   "nl": "Dit is de jongste baan van de regio: 18 holes (par 72, ca. 5.882 m), geopend in 2014 en ontworpen door Diethard Fahrenleitner. De baan ligt op een zonnig plateau, beschut door de Hohe Salve, en is vlak en goed te belopen.\n\nBij de club horen een proshop, een restaurant met panoramaterras en een driving range met ca. 30 afslagplaatsen, waarvan een deel overdekt. De baan behoort sinds 2022 tot de Leading Golf Courses of Austria.",
+   "en": "This is the region's youngest course: 18 holes (par 72, about 5,882 m), opened in 2014 and designed by Diethard Fahrenleitner. It lies on a sunny plateau sheltered by the Hohe Salve, and is flat and easy to walk.\n\nThe club has a pro shop, a restaurant with a panoramic terrace and a driving range with about 30 tees, some covered. Since 2022 it has belonged to the Leading Golf Courses of Austria.",
+   "de": "Dies ist der jüngste Platz der Region: 18 Löcher (Par 72, ca. 5.882 m), 2014 eröffnet und von Diethard Fahrenleitner entworfen. Er liegt auf einem sonnigen Plateau im Schutz der Hohen Salve und ist flach und gut zu Fuß zu spielen.\n\nZur Anlage gehören ein Proshop, ein Restaurant mit Panoramaterrasse und eine Driving Range mit ca. 30 Abschlagplätzen, teils überdacht. Seit 2022 zählt der Platz zu den Leading Golf Courses of Austria."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een starttijd vooraf, zeker in het hoogseizoen.",
+    "Vraag naar de regels voor gasten zonder clublidmaatschap en naar eventueel vereiste handicap of platzreife.",
+    "Controleer de weersvoorspelling; in de bergen kan het weer snel omslaan."
+   ],
+   "en": [
+    "Book a tee time in advance, especially in high season.",
+    "Ask about the rules for guests without club membership and any required handicap or course-permit.",
+    "Check the forecast; mountain weather can change quickly."
+   ],
+   "de": [
+    "Reservieren Sie vorab eine Startzeit, besonders in der Hauptsaison.",
+    "Fragen Sie nach den Regeln für Gäste ohne Clubmitgliedschaft und einer eventuell nötigen Platzreife oder einem Handicap.",
+    "Prüfen Sie die Wettervorhersage; im Gebirge kann das Wetter schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 20 minuten rijden vanaf Niederau, bij Westendorf.",
+   "en": "About 20 minutes by car from Niederau, near Westendorf.",
+   "de": "Ca. 20 Minuten Fahrt ab Niederau, bei Westendorf."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Prijs wisselt per seizoen; informeer vooraf",
+    "en": "Prices vary by season; check in advance",
+    "de": "Preise variieren je nach Saison; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 20 min rijden",
+    "en": "Approx. 20 min drive",
+    "de": "Ca. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Westendorf, Brixental",
+   "en": "Westendorf, Brixental",
+   "de": "Westendorf, Brixental"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/bri/infra/a-z/golfclub-kitzbueheler-alpen-westendorf.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik lid zijn om te golfen?",
+     "en": "Do I need to be a member to play?",
+     "de": "Muss ich Mitglied sein, um zu spielen?"
+    },
+    "a": {
+     "nl": "Gasten kunnen meestal tegen green fee spelen; informeer vooraf naar de voorwaarden.",
+     "en": "Visitors can usually play for a green fee; ask about the conditions beforehand.",
+     "de": "Gäste können in der Regel gegen Greenfee spielen; fragen Sie vorab nach den Bedingungen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g5",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ellmau",
+  "slug_en": "golf-club-wilder-kaiser-ellmau",
+  "slug_de": "golfclub-wilder-kaiser-ellmau",
+  "title": {
+   "nl": "Golfclub Wilder Kaiser Ellmau",
+   "en": "Wilder Kaiser Golf Club, Ellmau",
+   "de": "Golfclub Wilder Kaiser Ellmau"
+  },
+  "tagline": {
+   "nl": "27 holes aan de voet van de Wilder Kaiser",
+   "en": "27 holes at the foot of the Wilder Kaiser",
+   "de": "27 Löcher am Fuß des Wilden Kaisers"
+  },
+  "intro": {
+   "nl": "Golfclub Wilder Kaiser in Ellmau heeft 27 holes, verdeeld over drie negenholeslussen: Wilder Kaiser, Ellmau en Tirol. De baan ligt tegen de indrukwekkende rotswanden van de Wilder Kaiser.\n\nHet seizoen loopt ruwweg van april tot november. De lussen zijn te combineren tot een rondje van 18 holes of je speelt er negen.",
+   "en": "The Wilder Kaiser Golf Club in Ellmau has 27 holes, split into three nine-hole loops: Wilder Kaiser, Ellmau and Tirol. The course lies beneath the imposing rock faces of the Wilder Kaiser.\n\nThe season runs roughly from April to November. The loops can be combined into an 18-hole round, or you can play nine.",
+   "de": "Der Golfclub Wilder Kaiser in Ellmau hat 27 Löcher, aufgeteilt in drei Neun-Loch-Schleifen: Wilder Kaiser, Ellmau und Tirol. Der Platz liegt unterhalb der markanten Felswände des Wilden Kaisers.\n\nDie Saison dauert etwa von April bis November. Die Schleifen lassen sich zu 18 Löchern kombinieren, oder man spielt neun."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een starttijd vooraf, zeker in het hoogseizoen.",
+    "Vraag naar de regels voor gasten zonder clublidmaatschap en naar eventueel vereiste handicap of platzreife.",
+    "Controleer de weersvoorspelling; in de bergen kan het weer snel omslaan."
+   ],
+   "en": [
+    "Book a tee time in advance, especially in high season.",
+    "Ask about the rules for guests without club membership and any required handicap or course-permit.",
+    "Check the forecast; mountain weather can change quickly."
+   ],
+   "de": [
+    "Reservieren Sie vorab eine Startzeit, besonders in der Hauptsaison.",
+    "Fragen Sie nach den Regeln für Gäste ohne Clubmitgliedschaft und einer eventuell nötigen Platzreife oder einem Handicap.",
+    "Prüfen Sie die Wettervorhersage; im Gebirge kann das Wetter schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 45 minuten rijden vanaf Niederau, bij Ellmau.",
+   "en": "About 45 minutes by car from Niederau, near Ellmau.",
+   "de": "Ca. 45 Minuten Fahrt ab Niederau, bei Ellmau."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Prijs wisselt per seizoen; informeer vooraf",
+    "en": "Prices vary by season; check in advance",
+    "de": "Preise variieren je nach Saison; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "Approx. 45 min drive",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Ellmau, Wilder Kaiser",
+   "en": "Ellmau, Wilder Kaiser",
+   "de": "Ellmau, Wilder Kaiser"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-wilder-kaiser",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik lid zijn om te golfen?",
+     "en": "Do I need to be a member to play?",
+     "de": "Muss ich Mitglied sein, um zu spielen?"
+    },
+    "a": {
+     "nl": "Gasten kunnen meestal tegen green fee spelen; informeer vooraf naar de voorwaarden.",
+     "en": "Visitors can usually play for a green fee; ask about the conditions beforehand.",
+     "de": "Gäste können in der Regel gegen Greenfee spielen; fragen Sie vorab nach den Bedingungen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g6",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "fuegen",
+  "slug_en": "golf-course-zillertal-uderns",
+  "slug_de": "golfplatz-zillertal-uderns",
+  "title": {
+   "nl": "Golfplatz Zillertal-Uderns",
+   "en": "Zillertal-Uderns Golf Course",
+   "de": "Golfplatz Zillertal-Uderns"
+  },
+  "tagline": {
+   "nl": "18 holes midden in het Zillertal, lang seizoen",
+   "en": "18 holes in the middle of the Zillertal, long season",
+   "de": "18 Löcher mitten im Zillertal, lange Saison"
+  },
+  "intro": {
+   "nl": "Golfplatz Zillertal-Uderns is een 18-holes kampioenschapsbaan (vier par 5, tien par 4, vier par 3) midden in het Zillertal, met zicht op toppen boven de 3.000 m. De baan behoort tot de Leading Golf Courses of Austria.\n\nDoor de zonnige ligging loopt het seizoen van ca. maart tot november. Er is een grote driving range met overdekte afslagplaatsen, oefengebieden voor pitchen en putten en een golfschool.",
+   "en": "Zillertal-Uderns is an 18-hole championship course (four par 5s, ten par 4s, four par 3s) in the middle of the Zillertal, with views of peaks above 3,000 m. It is one of the Leading Golf Courses of Austria.\n\nThanks to its sunny position the season runs from about March to November. There is a large driving range with covered tees, practice areas for pitching and putting, and a golf school.",
+   "de": "Der Golfplatz Zillertal-Uderns ist ein 18-Loch-Meisterschaftsplatz (vier Par 5, zehn Par 4, vier Par 3) mitten im Zillertal mit Blick auf Gipfel über 3.000 m. Er gehört zu den Leading Golf Courses of Austria.\n\nDank sonniger Lage dauert die Saison etwa von März bis November. Es gibt eine große Driving Range mit überdachten Abschlägen, Übungsbereiche für Pitchen und Putten sowie eine Golfschule."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een starttijd vooraf, zeker in het hoogseizoen.",
+    "Vraag naar de regels voor gasten zonder clublidmaatschap en naar eventueel vereiste handicap of platzreife.",
+    "Controleer de weersvoorspelling; in de bergen kan het weer snel omslaan."
+   ],
+   "en": [
+    "Book a tee time in advance, especially in high season.",
+    "Ask about the rules for guests without club membership and any required handicap or course-permit.",
+    "Check the forecast; mountain weather can change quickly."
+   ],
+   "de": [
+    "Reservieren Sie vorab eine Startzeit, besonders in der Hauptsaison.",
+    "Fragen Sie nach den Regeln für Gäste ohne Clubmitgliedschaft und einer eventuell nötigen Platzreife oder einem Handicap.",
+    "Prüfen Sie die Wettervorhersage; im Gebirge kann das Wetter schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 35 minuten rijden vanaf Niederau, in het Zillertal bij Uderns.",
+   "en": "About 35 minutes by car from Niederau, in the Zillertal near Uderns.",
+   "de": "Ca. 35 Minuten Fahrt ab Niederau, im Zillertal bei Uderns."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Prijs wisselt per seizoen; informeer vooraf",
+    "en": "Prices vary by season; check in advance",
+    "de": "Preise variieren je nach Saison; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "Approx. 35 min drive",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Uderns, Zillertal",
+   "en": "Uderns, Zillertal",
+   "de": "Uderns, Zillertal"
+  },
+  "url": "https://www.tyrol.com/activities/sport/golf/all-golf-courses/golfplatz-zillertal",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik lid zijn om te golfen?",
+     "en": "Do I need to be a member to play?",
+     "de": "Muss ich Mitglied sein, um zu spielen?"
+    },
+    "a": {
+     "nl": "Gasten kunnen meestal tegen green fee spelen; informeer vooraf naar de voorwaarden.",
+     "en": "Visitors can usually play for a green fee; ask about the conditions beforehand.",
+     "de": "Gäste können in der Regel gegen Greenfee spielen; fragen Sie vorab nach den Bedingungen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g7",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "koessen",
+  "slug_en": "golf-course-kaiserwinkl-koessen",
+  "slug_de": "golfplatz-kaiserwinkl-koessen",
+  "title": {
+   "nl": "Kaiserwinkl Golf Kössen",
+   "en": "Kaiserwinkl Golf, Kössen",
+   "de": "Kaiserwinkl Golf Kössen"
+  },
+  "tagline": {
+   "nl": "Negenholesbaan in het Kaiserwinkl",
+   "en": "Nine-hole course in the Kaiserwinkl",
+   "de": "Neun-Loch-Platz im Kaiserwinkl"
+  },
+  "intro": {
+   "nl": "In Kössen, in het Kaiserwinkl nabij de Duitse grens, ligt Kaiserwinkl Golf, een baan met negen holes. Het is een rustiger alternatief voor de grotere banen in de regio.\n\nDe baan is een goede keuze als je een dagtocht naar het Kaiserwinkl maakt en daar een rondje wilt combineren met wandelen of een bezoek aan de meren.",
+   "en": "In Kössen, in the Kaiserwinkl near the German border, lies Kaiserwinkl Golf, a nine-hole course. It is a quieter alternative to the larger courses in the region.\n\nIt is a good choice if you are making a day trip to the Kaiserwinkl and want to combine a round with a walk or a visit to the lakes.",
+   "de": "In Kössen, im Kaiserwinkl nahe der deutschen Grenze, liegt Kaiserwinkl Golf, ein Neun-Loch-Platz. Er ist eine ruhigere Alternative zu den größeren Plätzen der Region.\n\nEr bietet sich bei einem Tagesausflug ins Kaiserwinkl an, um eine Runde mit einer Wanderung oder einem Seebesuch zu verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een starttijd vooraf, zeker in het hoogseizoen.",
+    "Vraag naar de regels voor gasten zonder clublidmaatschap en naar eventueel vereiste handicap of platzreife.",
+    "Controleer de weersvoorspelling; in de bergen kan het weer snel omslaan."
+   ],
+   "en": [
+    "Book a tee time in advance, especially in high season.",
+    "Ask about the rules for guests without club membership and any required handicap or course-permit.",
+    "Check the forecast; mountain weather can change quickly."
+   ],
+   "de": [
+    "Reservieren Sie vorab eine Startzeit, besonders in der Hauptsaison.",
+    "Fragen Sie nach den Regeln für Gäste ohne Clubmitgliedschaft und einer eventuell nötigen Platzreife oder einem Handicap.",
+    "Prüfen Sie die Wettervorhersage; im Gebirge kann das Wetter schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau, in het Kaiserwinkl.",
+   "en": "About 60 minutes by car from Niederau, in the Kaiserwinkl.",
+   "de": "Ca. 60 Minuten Fahrt ab Niederau, im Kaiserwinkl."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Prijs wisselt per seizoen; informeer vooraf",
+    "en": "Prices vary by season; check in advance",
+    "de": "Preise variieren je nach Saison; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 60 min rijden",
+    "en": "Approx. 60 min drive",
+    "de": "Ca. 60 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kössen, Kaiserwinkl",
+   "en": "Kössen, Kaiserwinkl",
+   "de": "Kössen, Kaiserwinkl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik lid zijn om te golfen?",
+     "en": "Do I need to be a member to play?",
+     "de": "Muss ich Mitglied sein, um zu spielen?"
+    },
+    "a": {
+     "nl": "Gasten kunnen meestal tegen green fee spelen; informeer vooraf naar de voorwaarden.",
+     "en": "Visitors can usually play for a green fee; ask about the conditions beforehand.",
+     "de": "Gäste können in der Regel gegen Greenfee spielen; fragen Sie vorab nach den Bedingungen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g8",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ellmau",
+  "slug_en": "kaisergolf-ellmau-par-3",
+  "slug_de": "kaisergolf-ellmau-par-3",
+  "title": {
+   "nl": "Kaisergolf Ellmau (par 3)",
+   "en": "Kaisergolf Ellmau (par 3)",
+   "de": "Kaisergolf Ellmau (Par 3)"
+  },
+  "tagline": {
+   "nl": "Negenholes par-3-baan, laagdrempelig om te beginnen",
+   "en": "Nine-hole par-3 course, an easy way to start",
+   "de": "Neun-Loch-Par-3-Platz, ideal zum Einstieg"
+  },
+  "intro": {
+   "nl": "Kaisergolf Ellmau is een negenholesbaan met alleen par-3-holes. Zo'n korte baan is laagdrempelig voor beginners en gezinnen die kennis willen maken met golf zonder een volledige baan te spelen.\n\nDe baan ligt in Ellmau, in de omgeving van de Wilder Kaiser, en past goed bij een dagje in het Kufsteinerland.",
+   "en": "Kaisergolf Ellmau is a nine-hole course made up of par-3 holes only. A short course like this is accessible for beginners and families who want to try golf without playing a full-length course.\n\nIt is located in Ellmau, near the Wilder Kaiser, and fits well into a day out in the Kufsteinerland.",
+   "de": "Kaisergolf Ellmau ist ein Neun-Loch-Platz, der nur aus Par-3-Bahnen besteht. Ein so kurzer Platz ist für Einsteiger und Familien geeignet, die Golf ausprobieren möchten, ohne einen vollen Platz zu spielen.\n\nEr liegt in Ellmau am Wilden Kaiser und passt gut zu einem Tagesausflug im Kufsteinerland."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een starttijd vooraf, zeker in het hoogseizoen.",
+    "Vraag naar de regels voor gasten zonder clublidmaatschap en naar eventueel vereiste handicap of platzreife.",
+    "Controleer de weersvoorspelling; in de bergen kan het weer snel omslaan."
+   ],
+   "en": [
+    "Book a tee time in advance, especially in high season.",
+    "Ask about the rules for guests without club membership and any required handicap or course-permit.",
+    "Check the forecast; mountain weather can change quickly."
+   ],
+   "de": [
+    "Reservieren Sie vorab eine Startzeit, besonders in der Hauptsaison.",
+    "Fragen Sie nach den Regeln für Gäste ohne Clubmitgliedschaft und einer eventuell nötigen Platzreife oder einem Handicap.",
+    "Prüfen Sie die Wettervorhersage; im Gebirge kann das Wetter schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 45 minuten rijden vanaf Niederau, bij Ellmau.",
+   "en": "About 45 minutes by car from Niederau, near Ellmau.",
+   "de": "Ca. 45 Minuten Fahrt ab Niederau, bei Ellmau."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Prijs wisselt per seizoen; informeer vooraf",
+    "en": "Prices vary by season; check in advance",
+    "de": "Preise variieren je nach Saison; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "Approx. 45 min drive",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Ellmau, Wilder Kaiser",
+   "en": "Ellmau, Wilder Kaiser",
+   "de": "Ellmau, Wilder Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik lid zijn om te golfen?",
+     "en": "Do I need to be a member to play?",
+     "de": "Muss ich Mitglied sein, um zu spielen?"
+    },
+    "a": {
+     "nl": "Gasten kunnen meestal tegen green fee spelen; informeer vooraf naar de voorwaarden.",
+     "en": "Visitors can usually play for a green fee; ask about the conditions beforehand.",
+     "de": "Gäste können in der Regel gegen Greenfee spielen; fragen Sie vorab nach den Bedingungen."
+    }
+   }
+  ]
+ }
+]

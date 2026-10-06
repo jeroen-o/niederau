@@ -1,0 +1,269 @@
+[
+ {
+  "slug": "gerlos",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Gerlos",
+   "en": "Gerlos",
+   "de": "Gerlos"
+  },
+  "tagline": {
+   "nl": "Bergdorp op ca. 1.250 m aan de weg over de Gerlospas",
+   "en": "Mountain village at about 1,250 m on the road over the Gerlos Pass",
+   "de": "Bergdorf auf ca. 1.250 m an der Straße über den Gerlospass"
+  },
+  "intro": {
+   "nl": "Gerlos ligt op ongeveer 1.250 meter hoogte in het Gerlostal, een zijdal aan het bovenste deel van het Zillertal. Het dorp bestaat uit meerdere gehuchten langs de weg naar de Gerlospas, die op 1.531 meter de grens vormt met het Salzburgse Pinzgau. Het is een van de drukst bezochte plaatsen van het Zillertal, maar het karakter blijft dat van een overzichtelijk bergdorp dat vooral op gezinnen is gericht.\n\nIn de winter is Gerlos een toegangspoort tot de Zillertal Arena. Dat skigebied heeft volgens de eigen gegevens ongeveer 150 pistekilometers, tussen circa 1.250 en 2.500 meter hoogte, en het seizoen loopt van december tot ongeveer Pasen. In de zomer zijn het wandelen en fietsen in de bergen rond het dorp de belangrijkste redenen om te komen. Het hoogteverschil met Niederau zorgt ervoor dat het hier in de zomer merkbaar frisser kan zijn.\n\nVoor een dagtocht vanuit Niederau combineert u Gerlos goed met de Gerlospas en de Krimmler Wasserfälle aan de andere kant, met een valhoogte van ruim 380 meter de hoogste watervallen van Oostenrijk. De Gerlosstraße is een tolweg. Informeer vooraf naar het actuele tarief, en bij een bezoek in de winter naar de weersomstandigheden en de liftopeningstijden.",
+   "en": "Gerlos sits at roughly 1,250 metres in the Gerlos valley, a side valley at the upper end of the Zillertal. The village is made up of several hamlets strung along the road to the Gerlos Pass, which at 1,531 metres marks the border with the Pinzgau region of Salzburgerland. It is one of the busiest resorts in the Zillertal, yet it keeps the feel of a compact mountain village aimed mainly at families.\n\nIn winter Gerlos is a gateway to the Zillertal Arena. According to its own figures the ski area has about 150 kilometres of pistes, between roughly 1,250 and 2,500 metres, and the season runs from December until around Easter. In summer the main reasons to visit are walking and cycling in the mountains around the village. Because it lies much higher than Niederau, summer days can feel noticeably cooler here.\n\nFor a day trip from Niederau, Gerlos combines well with the Gerlos Pass and the Krimml waterfalls on the far side, which with a drop of well over 380 metres are the highest in Austria. The Gerlosstraße is a toll road, so check the current charge beforehand and, in winter, the weather and lift opening times.",
+   "de": "Gerlos liegt auf rund 1.250 Metern im Gerlostal, einem Seitental am oberen Ende des Zillertals. Der Ort besteht aus mehreren Weilern entlang der Straße zum Gerlospass, der auf 1.531 Metern die Grenze zum Salzburger Pinzgau bildet. Es zählt zu den meistbesuchten Orten des Zillertals, behält aber den Charakter eines überschaubaren Bergdorfs, das vor allem auf Familien ausgerichtet ist.\n\nIm Winter ist Gerlos ein Zugang zur Zillertal Arena. Das Skigebiet hat nach eigenen Angaben etwa 150 Pistenkilometer zwischen rund 1.250 und 2.500 Metern Höhe, die Saison dauert von Dezember bis etwa Ostern. Im Sommer sind Wandern und Radfahren in den Bergen rund um den Ort die wichtigsten Gründe für einen Besuch. Da Gerlos deutlich höher liegt als Niederau, kann es hier im Sommer spürbar kühler sein.\n\nFür einen Tagesausflug von Niederau lässt sich Gerlos gut mit dem Gerlospass und den Krimmler Wasserfällen auf der anderen Seite verbinden, die mit einer Fallhöhe von gut 380 Metern die höchsten Wasserfälle Österreichs sind. Die Gerlosstraße ist mautpflichtig, erkundigen Sie sich daher vorab nach der aktuellen Gebühr und im Winter nach Wetter und Liftzeiten."
+  },
+  "highlights": {
+   "nl": [
+    "Skiën in de Zillertal Arena, waarvan Gerlos een van de toegangspoorten is (seizoen ruwweg december tot Pasen).",
+    "In de zomer wandelen in de bergen rond Gerlos, van korte dorpsrondes tot langere bergtochten.",
+    "Een rit over de Gerlospas (1.531 m), een bekende bergroute naar Salzburgerland; de Gerlosstraße is een tolweg.",
+    "De Krimmler Wasserfälle aan de Salzburgse kant van de pas, met 385 meter valhoogte de hoogste watervallen van Oostenrijk.",
+    "Fietsen en mountainbiken in de omgeving; vraag ter plaatse naar routes en verhuur."
+   ],
+   "en": [
+    "Skiing in the Zillertal Arena, for which Gerlos is one of the access points (season roughly December to Easter).",
+    "Summer walking in the mountains around Gerlos, from short village strolls to longer mountain hikes.",
+    "A drive over the Gerlos Pass (1,531 m), a well-known mountain route to Salzburgerland; the Gerlosstraße is a toll road.",
+    "The Krimml waterfalls on the Salzburg side of the pass, at 385 metres of total drop the highest in Austria.",
+    "Cycling and mountain biking nearby; ask locally about routes and rental."
+   ],
+   "de": [
+    "Skifahren in der Zillertal Arena, zu der Gerlos einen der Zugänge bildet (Saison etwa Dezember bis Ostern).",
+    "Sommerwandern in den Bergen rund um Gerlos, von kurzen Dorfrunden bis zu längeren Bergtouren.",
+    "Eine Fahrt über den Gerlospass (1.531 m), eine bekannte Bergstrecke ins Salzburger Land; die Gerlosstraße ist mautpflichtig.",
+    "Die Krimmler Wasserfälle auf der Salzburger Seite des Passes, mit 385 Metern Gesamtfallhöhe die höchsten Österreichs.",
+    "Radfahren und Mountainbiken in der Umgebung; Routen und Verleih vor Ort erfragen."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 75 minuten met de auto: via Oberau naar Wörgl, over de A12 naar de afrit Zillertal en door het Zillertal via Zell am Ziller omhoog naar Gerlos. Controleer vooraf of er tol- of passregels gelden.",
+   "en": "About 75 minutes by car from Niederau: via Oberau to Wörgl, along the A12 to the Zillertal exit and up the valley through Zell am Ziller to Gerlos. Check beforehand for any toll or pass regulations.",
+   "de": "Von Niederau ca. 75 Minuten mit dem Auto: über Oberau nach Wörgl, auf der A12 zur Ausfahrt Zillertal und durch das Zillertal über Zell am Ziller hinauf nach Gerlos. Prüfen Sie vorab eventuelle Maut- oder Passregelungen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen en skiërs die een overzichtelijk bergdorp zoeken.",
+   "en": "Suits families and skiers looking for a compact mountain village.",
+   "de": "Passt zu Familien und Skifahrern, die ein überschaubares Bergdorf suchen."
+  },
+  "season": {
+   "nl": "Vooral winter (december tot Pasen); in de zomer geschikt voor wandelen en een tocht over de pas.",
+   "en": "Mainly winter (December to Easter); in summer good for walking and a drive over the pass.",
+   "de": "Vor allem Winter (Dezember bis Ostern); im Sommer geeignet zum Wandern und für eine Fahrt über den Pass."
+  },
+  "drive_min": 75,
+  "elevation_m": 1250,
+  "url": "https://www.zillertalarena.com",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe ver is Gerlos van Niederau?",
+     "en": "How far is Gerlos from Niederau?",
+     "de": "Wie weit ist Gerlos von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Ruwweg 75 minuten met de auto, via Wörgl en het Zillertal. De exacte tijd hangt af van het verkeer.",
+     "en": "Roughly 75 minutes by car, via Wörgl and the Zillertal. The exact time depends on traffic.",
+     "de": "Etwa 75 Minuten mit dem Auto, über Wörgl und das Zillertal. Die genaue Zeit hängt vom Verkehr ab."
+    }
+   },
+   {
+    "q": {
+     "nl": "Bij welk skigebied hoort Gerlos?",
+     "en": "Which ski area does Gerlos belong to?",
+     "de": "Zu welchem Skigebiet gehört Gerlos?"
+    },
+    "a": {
+     "nl": "Gerlos is een van de toegangspoorten tot de Zillertal Arena, die volgens eigen opgave ca. 150 pistekilometers heeft.",
+     "en": "Gerlos is one of the access points to the Zillertal Arena, which by its own account has about 150 km of pistes.",
+     "de": "Gerlos ist einer der Zugänge zur Zillertal Arena, die nach eigenen Angaben etwa 150 Pistenkilometer hat."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "mayrhofen",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Mayrhofen",
+   "en": "Mayrhofen",
+   "de": "Mayrhofen"
+  },
+  "tagline": {
+   "nl": "Bekend bergdorp aan het einde van het Zillertal, met Penken en Ahorn",
+   "en": "Well-known village at the end of the Zillertal, with Penken and Ahorn",
+   "de": "Bekanntes Bergdorf am Ende des Zillertals mit Penken und Ahorn"
+  },
+  "intro": {
+   "nl": "Mayrhofen ligt aan het einde van het hoofddal van het Zillertal, waar het dal zich vertakt in kleinere zijdalen, waaronder het Tuxertal en het Zillergrund. Het is een van de bekendste vakantieplaatsen van Tirol, met een levendige dorpskern vol winkels, cafés en restaurants. Het dorp ligt een stuk lager dan Gerlos of Hintertux, dus ook buiten het hoogseizoen is het er goed toeven.\n\nDe plaats wordt in alle seizoenen bezocht en heeft twee eigen bergen. Op de Penken, bijna 1.800 meter hoog, ligt een actiegebied met onder meer een zomerrodelbaan, een speeltuin op de berg en reuzenballen waarmee u over het stuwmeer kunt lopen. Op de Ahorn, op circa 2.000 meter, is de Ahornbahn de grootste kabelbaan van Oostenrijk, en op het plateau vindt u een wandellus met uitzichtplatforms en een roofvogelshow. De bergbanen draaien in de zomer ruwweg van eind mei of begin juni tot begin of half oktober; in de winter zijn de Penken en de Ahorn onderdeel van het skigebied.\n\nVoor gezinnen uit Niederau is Mayrhofen een goede dagtocht van circa een uur en vijf minuten rijden. Combineer een ritje met de bergbaan met een wandeling en een bezoek aan het dorp. Controleer vooraf de actuele bedrijfstijden.",
+   "en": "Mayrhofen lies at the end of the main Zillertal, where the valley branches into smaller side valleys, among them the Tuxertal and the Zillergrund. It is one of Tyrol's best-known holiday resorts, with a lively centre full of shops, cafés and restaurants. The village sits much lower than Gerlos or Hintertux, so it is pleasant to visit even outside the peak season.\n\nThe resort draws visitors in every season and has two mountains of its own. The Penken, almost 1,800 metres high, has an action area with a summer toboggan run, a mountain playground and giant balls for walking across the reservoir. On the Ahorn, at about 2,000 metres, the Ahornbahn is Austria's largest cable car, and the plateau has a walking loop with viewing platforms and a birds-of-prey show. In summer the lifts run roughly from late May or early June until early or mid-October; in winter Penken and Ahorn form part of the ski area.\n\nFor families staying in Niederau, Mayrhofen is a good day trip of about an hour and five minutes by car. Combine a ride on a mountain lift with a walk and a visit to the village. Check the current operating times beforehand.",
+   "de": "Mayrhofen liegt am Ende des Hauptzillertals, wo sich das Tal in kleinere Seitentäler verzweigt, darunter das Tuxertal und der Zillergrund. Es ist einer der bekanntesten Urlaubsorte Tirols mit einem lebendigen Ortskern voller Geschäfte, Cafés und Restaurants. Der Ort liegt deutlich tiefer als Gerlos oder Hintertux, daher ist ein Besuch auch außerhalb der Hauptsaison angenehm.\n\nDer Ort wird in allen Jahreszeiten besucht und hat zwei eigene Berge. Auf dem knapp 1.800 Meter hohen Penken gibt es einen Aktivbereich mit unter anderem einer Sommerrodelbahn, einem Spielplatz am Berg und riesigen Bällen, mit denen man über den Speichersee laufen kann. Auf dem Ahorn, auf rund 2.000 Metern, ist die Ahornbahn die größte Seilbahn Österreichs, auf dem Plateau gibt es einen Rundweg mit Aussichtsplattformen und eine Greifvogelshow. Im Sommer fahren die Bahnen etwa von Ende Mai oder Anfang Juni bis Anfang oder Mitte Oktober; im Winter gehören Penken und Ahorn zum Skigebiet.\n\nFür Familien aus Niederau ist Mayrhofen ein guter Tagesausflug von etwa einer Stunde und fünf Minuten Fahrzeit. Verbinden Sie eine Fahrt mit der Bergbahn mit einer Wanderung und einem Ortsbesuch. Prüfen Sie vorab die aktuellen Betriebszeiten."
+  },
+  "highlights": {
+   "nl": [
+    "De Ahornbahn, de grootste kabelbaan van Oostenrijk, naar het Ahornplateau op circa 2.000 m.",
+    "Op de Ahorn een wandellus met uitzichtplatforms over Zillertal en Stilluptal, geschikt voor kinderwagens, en een roofvogelshow.",
+    "Het actiegebied op de Penken (bijna 1.800 m) met onder meer een zomerrodelbaan en een speeltuin op de berg.",
+    "Wandelen in de zijdalen rond Mayrhofen, bijvoorbeeld richting het Zillergrund.",
+    "Flaneren door het dorp met winkels, cafés en restaurants.",
+    "Skiën en snowboarden op de Penken en de Ahorn in de winter."
+   ],
+   "en": [
+    "The Ahornbahn, Austria's largest cable car, up to the Ahorn plateau at about 2,000 m.",
+    "On the Ahorn a pushchair-friendly walking loop with viewing platforms over the Zillertal and Stilluptal, plus a birds-of-prey show.",
+    "The action area on the Penken (almost 1,800 m) with a summer toboggan run and a mountain playground, among other things.",
+    "Walking in the side valleys around Mayrhofen, for example towards the Zillergrund.",
+    "Strolling through the village with its shops, cafés and restaurants.",
+    "Skiing and snowboarding on Penken and Ahorn in winter."
+   ],
+   "de": [
+    "Die Ahornbahn, Österreichs größte Seilbahn, hinauf zum Ahornplateau auf rund 2.000 m.",
+    "Auf dem Ahorn ein kinderwagentauglicher Rundweg mit Aussichtsplattformen über Zillertal und Stilluptal sowie eine Greifvogelshow.",
+    "Der Aktivbereich am Penken (knapp 1.800 m) mit unter anderem Sommerrodelbahn und Spielplatz am Berg.",
+    "Wandern in den Seitentälern rund um Mayrhofen, zum Beispiel Richtung Zillergrund.",
+    "Bummeln durch den Ort mit Geschäften, Cafés und Restaurants.",
+    "Skifahren und Snowboarden auf Penken und Ahorn im Winter."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 65 minuten met de auto: via Wörgl, over de A12 naar de afrit Zillertal en dan over de Zillertaler Straße (B169) tot aan het einde van het dal.",
+   "en": "About 65 minutes by car from Niederau: via Wörgl, along the A12 to the Zillertal exit, then along the Zillertaler Straße (B169) to the end of the valley.",
+   "de": "Von Niederau ca. 65 Minuten mit dem Auto: über Wörgl, auf der A12 zur Ausfahrt Zillertal und dann auf der Zillertaler Straße (B169) bis zum Talende."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen en actieve gasten die één plek met veel keuze zoeken.",
+   "en": "Suits families and active guests looking for one place with plenty of choice.",
+   "de": "Passt zu Familien und aktiven Gästen, die einen Ort mit viel Auswahl suchen."
+  },
+  "season": {
+   "nl": "Het hele jaar: skiën in de winter, wandelen en bergbanen in de zomer (ruwweg eind mei tot half oktober).",
+   "en": "All year: skiing in winter, walking and mountain lifts in summer (roughly late May to mid-October).",
+   "de": "Das ganze Jahr: Skifahren im Winter, Wandern und Bergbahnen im Sommer (etwa Ende Mai bis Mitte Oktober)."
+  },
+  "drive_min": 65,
+  "elevation_m": null,
+  "url": "",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Mayrhofen als dagtocht vanuit Niederau haalbaar?",
+     "en": "Is Mayrhofen feasible as a day trip from Niederau?",
+     "de": "Ist Mayrhofen als Tagesausflug von Niederau machbar?"
+    },
+    "a": {
+     "nl": "Ja, de rit duurt ruwweg 65 minuten per richting via Wörgl en het Zillertal.",
+     "en": "Yes, the drive takes roughly 65 minutes each way via Wörgl and the Zillertal.",
+     "de": "Ja, die Fahrt dauert je Richtung etwa 65 Minuten über Wörgl und das Zillertal."
+    }
+   },
+   {
+    "q": {
+     "nl": "Welke bergen en bergbanen horen bij Mayrhofen?",
+     "en": "Which mountains and lifts belong to Mayrhofen?",
+     "de": "Welche Berge und Bahnen gehören zu Mayrhofen?"
+    },
+    "a": {
+     "nl": "De Penken (bijna 1.800 m) en de Ahorn (circa 2.000 m), met de Penkenbahn en de Ahornbahn. In de zomer rijden ze ruwweg van eind mei/begin juni tot oktober; controleer de actuele tijden.",
+     "en": "Penken (almost 1,800 m) and Ahorn (about 2,000 m), served by the Penkenbahn and the Ahornbahn. In summer they run roughly from late May/early June to October; check current times.",
+     "de": "Penken (knapp 1.800 m) und Ahorn (rund 2.000 m) mit Penkenbahn und Ahornbahn. Im Sommer fahren sie etwa von Ende Mai/Anfang Juni bis Oktober; prüfen Sie die aktuellen Zeiten."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "hintertux",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Hintertux",
+   "en": "Hintertux",
+   "de": "Hintertux"
+  },
+  "tagline": {
+   "nl": "Gletsjerdorp aan het einde van het Tuxertal, met jaarrond skiën",
+   "en": "Glacier village at the head of the Tuxertal, with skiing all year",
+   "de": "Gletscherort am Ende des Tuxertals mit Skifahren das ganze Jahr"
+  },
+  "intro": {
+   "nl": "Hintertux is het hoogstgelegen dorp van het Tuxertal, een zijdal van het Zillertal bij Mayrhofen. Het hoort bij de gemeente Tux en ligt aan de voet van de Hintertuxer Gletsjer. Dat gletsjerskigebied strekt zich uit tussen ongeveer 1.500 en 3.250 meter en wordt gepromoot als het enige skigebied van Oostenrijk dat het hele jaar open is.\n\nOok wie niet skiet, heeft hier iets te doen. Met de Gletscherbus 3 komt u hoog in de bergen, vlak bij de Natur Eis Palast op 3.250 meter. In deze natuurlijke gletsjerspleet is het constant rond 0 graden, met ijspegels, grote ijskristallen en een gletsjermeer. Er is een rondleiding. Bij het Spannagelhaus begint de Spannagelhöhle, naar verluidt de grootste rotsgrot van de Centrale Alpen. Het Tuxertal heeft bovendien veel wandelroutes, ook thematrails voor kinderen, de zogeheten TUX-Welten.\n\nVoor gezinnen uit Niederau is dit een langere dagtocht van circa anderhalf uur rijden per richting. Neem warme kleding en stevige schoenen mee: op de gletsjer is het ook in de zomer koud. Controleer vooraf de bedrijfstijden van de gletsjerbanen en het weer, en overweeg een tussenstop in Mayrhofen.",
+   "en": "Hintertux is the highest village in the Tuxertal, a side valley of the Zillertal near Mayrhofen. It belongs to the municipality of Tux and lies at the foot of the Hintertux Glacier. This glacier ski area stretches between roughly 1,500 and 3,250 metres and is promoted as the only ski area in Austria that is open all year.\n\nThere is something here for non-skiers too. The Gletscherbus 3 takes you high into the mountains, close to the Natur Eis Palast at 3,250 metres. In this natural glacier crevasse the temperature stays around 0 degrees, with ice stalactites, large ice crystals and a glacier lake. Guided tours are offered. At the Spannagelhaus begins the Spannagelhöhle, said to be the largest rock cave in the Central Alps. The Tuxertal also has plenty of walking routes, including themed trails for children, known as the TUX-Welten.\n\nFor families staying in Niederau this is a longer day trip of about an hour and a half by car each way. Take warm clothing and sturdy shoes: it is cold on the glacier even in summer. Check the glacier lifts' operating times and the weather beforehand, and consider a stop in Mayrhofen on the way.",
+   "de": "Hintertux ist das höchstgelegene Dorf des Tuxertals, eines Seitentals des Zillertals bei Mayrhofen. Es gehört zur Gemeinde Tux und liegt am Fuß des Hintertuxer Gletschers. Dieses Gletscherskigebiet erstreckt sich zwischen etwa 1.500 und 3.250 Metern und wird als das einzige ganzjährig geöffnete Skigebiet Österreichs beworben.\n\nAuch wer nicht Ski fährt, findet hier etwas. Mit dem Gletscherbus 3 gelangt man hoch in die Berge, nahe dem Natur Eis Palast auf 3.250 Metern. In dieser natürlichen Gletscherspalte herrschen konstant etwa 0 Grad, mit Eiszapfen, großen Eiskristallen und einem Gletschersee. Es werden Führungen angeboten. Beim Spannagelhaus beginnt die Spannagelhöhle, die als größte Felshöhle der Zentralalpen gilt. Das Tuxertal bietet zudem viele Wanderrouten, auch Themenwege für Kinder, die sogenannten TUX-Welten.\n\nFür Familien aus Niederau ist das ein längerer Tagesausflug von etwa anderthalb Stunden Fahrzeit pro Richtung. Nehmen Sie warme Kleidung und feste Schuhe mit: Auf dem Gletscher ist es auch im Sommer kalt. Prüfen Sie vorab die Betriebszeiten der Gletscherbahnen und das Wetter und planen Sie gegebenenfalls einen Zwischenstopp in Mayrhofen ein."
+  },
+  "highlights": {
+   "nl": [
+    "De Hintertuxer Gletsjer (ca. 1.500 tot 3.250 m): skiën en snowboarden, ook buiten het gewone wintersportseizoen.",
+    "Met de Gletscherbus 3 naar de Natur Eis Palast op 3.250 m: een gletsjerspleet met ijsformaties en een gletsjermeer, rondleiding mogelijk.",
+    "De Spannagelhöhle bij het Spannagelhaus, naar verluidt de grootste rotsgrot van de Centrale Alpen.",
+    "Wandelen in het Tuxertal, ook met kinderen via de thematrails van de TUX-Welten.",
+    "Combineer de dag met een stop in Mayrhofen op de heen- of terugweg."
+   ],
+   "en": [
+    "The Hintertux Glacier (about 1,500 to 3,250 m): skiing and snowboarding, including outside the usual winter season.",
+    "The Gletscherbus 3 up to the Natur Eis Palast at 3,250 m: a glacier crevasse with ice formations and a glacier lake, guided tours available.",
+    "The Spannagelhöhle at the Spannagelhaus, said to be the largest rock cave in the Central Alps.",
+    "Walking in the Tuxertal, with children too, on the themed TUX-Welten trails.",
+    "Combine the day with a stop in Mayrhofen on the way there or back."
+   ],
+   "de": [
+    "Der Hintertuxer Gletscher (ca. 1.500 bis 3.250 m): Skifahren und Snowboarden, auch außerhalb der üblichen Wintersaison.",
+    "Mit dem Gletscherbus 3 zum Natur Eis Palast auf 3.250 m: eine Gletscherspalte mit Eisformationen und Gletschersee, Führungen möglich.",
+    "Die Spannagelhöhle am Spannagelhaus, die als größte Felshöhle der Zentralalpen gilt.",
+    "Wandern im Tuxertal, auch mit Kindern auf den Themenwegen der TUX-Welten.",
+    "Den Tag mit einem Stopp in Mayrhofen auf der Hin- oder Rückfahrt verbinden."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 95 minuten met de auto: via Wörgl, over de A12 naar de afrit Zillertal, door het Zillertal naar Mayrhofen en daarna het Tuxertal in tot het einde van het dal.",
+   "en": "About 95 minutes by car from Niederau: via Wörgl, along the A12 to the Zillertal exit, through the Zillertal to Mayrhofen and then up the Tuxertal to the head of the valley.",
+   "de": "Von Niederau ca. 95 Minuten mit dem Auto: über Wörgl, auf der A12 zur Ausfahrt Zillertal, durch das Zillertal nach Mayrhofen und dann das Tuxertal hinauf bis zum Talende."
+  },
+  "best_for": {
+   "nl": "Past bij skiërs en wandelaars die hoog in de bergen willen zijn.",
+   "en": "Suits skiers and walkers who want to be high in the mountains.",
+   "de": "Passt zu Skifahrern und Wanderern, die hoch in die Berge wollen."
+  },
+  "season": {
+   "nl": "Het hele jaar mogelijk, vooral winter; in de zomer is het op de gletsjer koud.",
+   "en": "Possible all year, mainly winter; it is cold on the glacier in summer.",
+   "de": "Das ganze Jahr möglich, vor allem Winter; im Sommer ist es auf dem Gletscher kalt."
+  },
+  "drive_min": 95,
+  "elevation_m": null,
+  "url": "https://www.tux.at",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Ligt Hintertux in het Zillertal?",
+     "en": "Is Hintertux in the Zillertal?",
+     "de": "Liegt Hintertux im Zillertal?"
+    },
+    "a": {
+     "nl": "Hintertux ligt in het Tuxertal, een zijdal van het Zillertal bij Mayrhofen, en hoort bij de gemeente Tux.",
+     "en": "Hintertux is in the Tuxertal, a side valley of the Zillertal near Mayrhofen, and belongs to the municipality of Tux.",
+     "de": "Hintertux liegt im Tuxertal, einem Seitental des Zillertals bei Mayrhofen, und gehört zur Gemeinde Tux."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je er ook in de zomer skiën?",
+     "en": "Can you ski there in summer too?",
+     "de": "Kann man dort auch im Sommer Ski fahren?"
+    },
+    "a": {
+     "nl": "Het gletsjerskigebied wordt gepromoot als het hele jaar open, maar de omstandigheden wisselen; controleer vooraf de actuele situatie.",
+     "en": "The glacier ski area is promoted as open all year, but conditions vary; check the current situation beforehand.",
+     "de": "Das Gletscherskigebiet wird als ganzjährig geöffnet beworben, die Bedingungen wechseln aber; prüfen Sie vorab die aktuelle Lage."
+    }
+   }
+  ]
+ }
+]

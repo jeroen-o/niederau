@@ -1,0 +1,527 @@
+[
+ {
+  "slug": "wattens",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Wattens",
+   "en": "Wattens",
+   "de": "Wattens"
+  },
+  "tagline": {
+   "nl": "Inntalplaats van Swarovski, met Kristallwelten en het Wattental",
+   "en": "Inn Valley town of Swarovski, with Kristallwelten and the Wattental",
+   "de": "Inntalort von Swarovski, mit Kristallwelten und Wattental"
+  },
+  "intro": {
+   "nl": "Wattens is een marktgemeente in het Tiroler Inntal, op ongeveer 564 m hoogte en met ruim 8.000 inwoners. Het dorp ligt aan de voet van de Tuxer Alpen, niet ver van Innsbruck, en is wereldwijd bekend als de plaats waar het kristalbedrijf Swarovski is ontstaan.\n\nDe grootste trekpleister zijn de Swarovski Kristallwelten: in 1995 liet kunstenaar André Heller aan de oostrand van het dorp een kunstzinnige wereld bouwen in een kunstmatige heuvel. Daarnaast is er het Museum Wattens over de industrie en de prehistorie van de streek, en een klein museum met meer dan 450 schrijfmachines. Als toeristenplaats is Wattens verder bescheiden.\n\nVanuit Niederau is Wattens een logische stop op een dag richting Innsbruck of Hall. Wie liever buiten is, kan het Wattental in lopen: dat voert diep de Tuxer Alpen in, tot de Wattener Lizum en de Lizumer Hütte op ruim 2.000 m. Controleer openingstijden en prijzen van de Kristallwelten vooraf. Het Wattental is vooral in de zomer een mooi doel.",
+   "en": "Wattens is a market town in the Tyrolean Inn Valley, at about 564 m and with just over 8,000 inhabitants. It lies at the foot of the Tux Alps, not far from Innsbruck, and is known worldwide as the place where the crystal company Swarovski began.\n\nThe main draw is Swarovski Kristallwelten: in 1995 the artist André Heller had an artistic world built inside an artificial hill on the eastern edge of the village. There is also the Museum Wattens, about the industry and prehistory of the area, and a small museum with more than 450 typewriters. As a tourist destination Wattens is otherwise modest.\n\nFrom Niederau, Wattens is a natural stop on a day towards Innsbruck or Hall. Those who prefer the outdoors can head into the Wattental, which leads deep into the Tux Alps as far as the Wattener Lizum and the Lizumer Hütte at just over 2,000 m. Check opening times and prices for Kristallwelten beforehand.",
+   "de": "Wattens ist eine Marktgemeinde im Tiroler Inntal, auf rund 564 m Höhe und mit gut 8.000 Einwohnern. Der Ort liegt am Fuß der Tuxer Alpen, nicht weit von Innsbruck, und ist weltweit als Gründungsort des Kristallunternehmens Swarovski bekannt.\n\nDer größte Anziehungspunkt sind die Swarovski Kristallwelten: 1995 ließ der Künstler André Heller am östlichen Ortsrand eine Kunstwelt in einem künstlichen Hügel errichten. Dazu kommen das Museum Wattens zur Industrie und Vorgeschichte der Region sowie ein kleines Museum mit mehr als 450 Schreibmaschinen. Als Urlaubsort spielt Wattens sonst nur eine bescheidene Rolle.\n\nVon Niederau aus ist Wattens ein naheliegender Stopp auf dem Weg nach Innsbruck oder Hall. Wer lieber draußen ist, kann ins Wattental wandern, das tief in die Tuxer Alpen bis zur Wattener Lizum und zur Lizumer Hütte auf gut 2.000 m führt. Öffnungszeiten und Preise der Kristallwelten vorab prüfen. Das Wattental ist vor allem im Sommer ein schönes Ziel. Bei Regen sind die Museen eine gute Alternative."
+  },
+  "highlights": {
+   "nl": [
+    "Swarovski Kristallwelten: kunstzinnige kristalwereld in een heuvel, in 1995 ontworpen door André Heller.",
+    "Museum Wattens over de industrie en de prehistorie van de streek.",
+    "Het Wattental in de Tuxer Alpen, met wandelingen naar alpenhutten zoals de Lizumer Hütte (ruim 2.000 m, in de zomer).",
+    "Handig te combineren met Hall in Tirol of Innsbruck op dezelfde dag."
+   ],
+   "en": [
+    "Swarovski Kristallwelten: an artistic crystal world inside a hill, created by André Heller in 1995.",
+    "Museum Wattens, about the industry and prehistory of the area.",
+    "The Wattental in the Tux Alps, with walks to alpine huts such as the Lizumer Hütte (just over 2,000 m, in summer).",
+    "Easy to combine with Hall in Tirol or Innsbruck on the same day."
+   ],
+   "de": [
+    "Swarovski Kristallwelten: eine künstlerische Kristallwelt im Hügel, 1995 von André Heller gestaltet.",
+    "Museum Wattens zur Industrie und Vorgeschichte der Region.",
+    "Das Wattental in den Tuxer Alpen mit Wanderungen zu Hütten wie der Lizumer Hütte (gut 2.000 m, im Sommer).",
+    "Gut kombinierbar mit Hall in Tirol oder Innsbruck am selben Tag."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 45 minuten rijden vanaf Niederau, meestal via Wörgl en de A12 (Inntalautobaan) richting Innsbruck.",
+   "en": "About 45 minutes by car from Niederau, usually via Wörgl and the A12 Inn Valley motorway towards Innsbruck.",
+   "de": "Ca. 45 Minuten Fahrzeit ab Niederau, meist über Wörgl und die A12 (Inntalautobahn) Richtung Innsbruck."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die een dagtocht met een vaste attractie zoeken, ook bij slecht weer.",
+   "en": "Suits families after a day trip with a set attraction, also in poor weather.",
+   "de": "Passt zu Familien, die einen Tagesausflug mit festem Ziel suchen, auch bei Schlechtwetter."
+  },
+  "season": {
+   "nl": "Het hele jaar; de wandelingen in het Wattental vooral in de zomer.",
+   "en": "All year; walks in the Wattental mainly in summer.",
+   "de": "Ganzjährig; Wanderungen im Wattental vor allem im Sommer."
+  },
+  "drive_min": 45,
+  "elevation_m": 564,
+  "url": "https://www.hall-wattens.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar staat Wattens om bekend?",
+     "en": "What is Wattens known for?",
+     "de": "Wofür ist Wattens bekannt?"
+    },
+    "a": {
+     "nl": "Wattens is de thuisbasis van het kristalbedrijf Swarovski en van de Swarovski Kristallwelten, in 1995 geopend naar een ontwerp van André Heller.",
+     "en": "Wattens is the home of the crystal company Swarovski and of Swarovski Kristallwelten, opened in 1995 in a design by André Heller.",
+     "de": "Wattens ist die Heimat des Kristallunternehmens Swarovski und der Swarovski Kristallwelten, 1995 nach einem Konzept von André Heller eröffnet."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Wattens een dagtocht vanuit Niederau waard?",
+     "en": "Is Wattens worth a day trip from Niederau?",
+     "de": "Lohnt sich Wattens als Tagesausflug ab Niederau?"
+    },
+    "a": {
+     "nl": "Ja, vooral gecombineerd met Hall in Tirol of Innsbruck; de rit duurt ca. 45 minuten.",
+     "en": "Yes, especially combined with Hall in Tirol or Innsbruck; the drive takes about 45 minutes.",
+     "de": "Ja, besonders in Kombination mit Hall in Tirol oder Innsbruck; die Fahrt dauert ca. 45 Minuten."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "hall-in-tirol",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Hall in Tirol",
+   "en": "Hall in Tirol",
+   "de": "Hall in Tirol"
+  },
+  "tagline": {
+   "nl": "Middeleeuwse stad van zout en munten, met Burg Hasegg en mijnmuseum",
+   "en": "Medieval town of salt and coins, with Hasegg Castle and a mining museum",
+   "de": "Mittelalterliche Salz- und Münzstadt mit Burg Hasegg und Bergbaumuseum"
+  },
+  "intro": {
+   "nl": "Hall in Tirol ligt aan de Inn, op ongeveer 560 m hoogte en iets ten oosten van Innsbruck. De stad werd rijk door zout, dat vanaf de 13e eeuw in het Halltal werd gewonnen, en door de munt die hier halverwege de 15e eeuw werd gevestigd. De oude binnenstad geldt als de grootste bewaard gebleven middeleeuwse kern van West-Oostenrijk.\n\nIn de smalle, bochtige straten staan kleurrijke patriciërshuizen en gotische en barokke kerken. Boven de stad ligt Burg Hasegg met de Münzerturm en het muntmuseum; hier werd de Taler geslagen, het geldstuk dat model stond voor de dollar. Het bergbaumuseum in het centrum laat kinderen via tunnels, gereedschap, mineralen en een glijbaan kennismaken met de zoutwinning.\n\nHall is een rustige stadsdag, goed te combineren met Wattens of Innsbruck. Het centrum loop je makkelijk te voet. Er zijn rondleidingen door de oude stad en het mijnmuseum op vaste dagen; informeer vooraf bij het toeristenbureau naar tijden.",
+   "en": "Hall in Tirol lies on the Inn, at about 560 m and a little east of Innsbruck. The town grew wealthy on salt, mined in the Halltal from the 13th century, and on the mint established here in the mid-15th century. The old town is regarded as the largest preserved medieval centre in western Austria.\n\nThe narrow, winding streets are lined with colourful patrician houses and Gothic and Baroque churches. Above the town stands Hasegg Castle with the Münzerturm and the coin museum; this is where the Taler was struck, the coin that served as a model for the dollar. The mining museum in the centre introduces children to salt mining through tunnels, tools, minerals and a slide.\n\nHall makes a relaxed town day, easily combined with Wattens or Innsbruck. The centre is simple to explore on foot. Guided tours of the old town and the mining museum run on set days; ask the tourist office for current times beforehand.",
+   "de": "Hall in Tirol liegt am Inn, auf rund 560 m Höhe und etwas östlich von Innsbruck. Reich wurde die Stadt durch das Salz, das ab dem 13. Jahrhundert im Halltal abgebaut wurde, und durch die Münzstätte, die hier Mitte des 15. Jahrhunderts entstand. Die Altstadt gilt als größter erhaltener mittelalterlicher Stadtkern Westösterreichs.\n\nIn den engen, gewundenen Gassen stehen bunte Patrizierhäuser sowie gotische und barocke Kirchen. Über der Stadt erhebt sich die Burg Hasegg mit dem Münzerturm und dem Münzmuseum; hier wurde der Taler geprägt, der als Vorbild für den Dollar gilt. Das Bergbaumuseum im Zentrum zeigt Kindern den Salzabbau mit Stollen, Werkzeug, Mineralien und einer Rutsche.\n\nHall ist ein ruhiger Stadttag, gut kombinierbar mit Wattens oder Innsbruck. Das Zentrum lässt sich bequem zu Fuß erkunden. Führungen durch Altstadt und Bergbaumuseum finden an festen Tagen statt; aktuelle Zeiten vorab beim Tourismusbüro erfragen. Auch bei wechselhaftem Wetter ist die Stadt eine gute Wahl."
+  },
+  "highlights": {
+   "nl": [
+    "Wandeling door de oude binnenstad met smalle straten, patriciërshuizen en kerken.",
+    "Burg Hasegg met de Münzerturm en het muntmuseum.",
+    "Bergbaumuseum: zoutwinning voor gezinnen, met tunnels, gereedschap en een glijbaan.",
+    "Speurtocht door de oude stad en de Kugelwald (knikkerbanen) bij de Glungezer voor kinderen.",
+    "Terrasje of ijsje in het centrum."
+   ],
+   "en": [
+    "Stroll through the old town with its narrow streets, patrician houses and churches.",
+    "Hasegg Castle with the Münzerturm and the coin museum.",
+    "Mining museum: salt mining for families, with tunnels, tools and a slide.",
+    "Treasure hunt through the old town, and the Kugelwald (marble runs) at the Glungezer for children.",
+    "A café terrace or ice cream in the centre."
+   ],
+   "de": [
+    "Spaziergang durch die Altstadt mit engen Gassen, Patrizierhäusern und Kirchen.",
+    "Burg Hasegg mit Münzerturm und Münzmuseum.",
+    "Bergbaumuseum: Salzabbau für Familien, mit Stollen, Werkzeug und Rutsche.",
+    "Schatzsuche durch die Altstadt und der Kugelwald am Glungezer für Kinder.",
+    "Cafeterrasse oder Eis im Zentrum."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 50 minuten rijden vanaf Niederau, meestal via Wörgl en de A12 richting Innsbruck (afrit Hall).",
+   "en": "About 50 minutes by car from Niederau, usually via Wörgl and the A12 towards Innsbruck (Hall exit).",
+   "de": "Ca. 50 Minuten Fahrzeit ab Niederau, meist über Wörgl und die A12 Richtung Innsbruck (Ausfahrt Hall)."
+  },
+  "best_for": {
+   "nl": "Past bij cultuur, geschiedenis en een rustige stadsdag.",
+   "en": "Suits culture, history and a relaxed town day.",
+   "de": "Passt zu Kultur, Geschichte und einem ruhigen Stadttag."
+  },
+  "season": {
+   "nl": "Het hele jaar bruikbaar.",
+   "en": "Usable all year round.",
+   "de": "Ganzjährig geeignet."
+  },
+  "drive_min": 50,
+  "elevation_m": 560,
+  "url": "https://www.hall-wattens.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er te zien in Hall in Tirol?",
+     "en": "What is there to see in Hall in Tirol?",
+     "de": "Was gibt es in Hall in Tirol zu sehen?"
+    },
+    "a": {
+     "nl": "De middeleeuwse oude stad, Burg Hasegg met de Münzerturm en het muntmuseum, en het bergbaumuseum over de zoutwinning.",
+     "en": "The medieval old town, Hasegg Castle with the Münzerturm and coin museum, and the mining museum on salt extraction.",
+     "de": "Die mittelalterliche Altstadt, die Burg Hasegg mit Münzerturm und Münzmuseum sowie das Bergbaumuseum zum Salzabbau."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is Hall in Tirol van Niederau?",
+     "en": "How far is Hall in Tirol from Niederau?",
+     "de": "Wie weit ist Hall in Tirol von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Ongeveer 50 minuten met de auto, meestal via Wörgl en de A12.",
+     "en": "About 50 minutes by car, usually via Wörgl and the A12.",
+     "de": "Etwa 50 Minuten mit dem Auto, meist über Wörgl und die A12."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "innsbruck",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Innsbruck",
+   "en": "Innsbruck",
+   "de": "Innsbruck"
+  },
+  "tagline": {
+   "nl": "Tiroler hoofdstad met Gouden Dakje, oude stad en bergbaan naar de Nordkette",
+   "en": "The Tyrolean capital with the Golden Roof, old town and a cable car up the Nordkette",
+   "de": "Tiroler Landeshauptstadt mit Goldenem Dachl, Altstadt und Bahn auf die Nordkette"
+  },
+  "intro": {
+   "nl": "Innsbruck is de hoofdstad van Tirol en ligt in het Inntal, omringd door bergen. De stad combineert een historische binnenstad met moderne architectuur, en de bergen beginnen letterlijk aan de rand van het centrum. Voor gezinnen is het een van de weinige plekken waar een stadsdag en een bergtocht in één uitstap samengaan.\n\nHet bekendste monument is het Goldene Dachl in de oude stad, een erker van keizer Maximiliaan I met 2.657 vergulde koperen schindels. Verder zijn er de Hofburg, de Hofkirche en de Bergisel-schans, in 2002 herbouwd naar een ontwerp van Zaha Hadid. Met de Nordkettenbahn reis je in drie stappen vanuit de stad naar Hafelekar op 2.256 m. De Alpenzoo, op ongeveer 750 m, richt zich op dieren uit de Alpen.\n\nVanuit Niederau is Innsbruck een volledige dagtocht. Plan ruim tijd in voor de rit en het parkeren. In de adventstijd zijn er meerdere kerstmarkten, waaronder een markt in de oude stad. Controleer openingstijden en prijzen vooraf.",
+   "en": "Innsbruck is the capital of Tyrol, set in the Inn Valley and ringed by mountains. The city blends a historic old town with modern architecture, and the mountains begin right at the edge of the centre. For families it is one of the few places where a city day and a mountain trip fit into a single outing.\n\nThe best-known landmark is the Goldene Dachl in the old town, an oriel built for Emperor Maximilian I with 2,657 gilded copper shingles. There are also the Hofburg, the Hofkirche and the Bergisel ski jump, rebuilt in 2002 to a design by Zaha Hadid. The Nordkettenbahn takes you in three stages from the city up to Hafelekar at 2,256 m. The Alpenzoo, at around 750 m, focuses on animals of the Alps.\n\nFrom Niederau, Innsbruck is a full day trip. Allow plenty of time for the drive and parking. In Advent there are several Christmas markets, including one in the old town. Check opening times and prices beforehand.",
+   "de": "Innsbruck ist die Hauptstadt Tirols, liegt im Inntal und ist von Bergen umgeben. Die Stadt verbindet eine historische Altstadt mit moderner Architektur, und die Berge beginnen buchstäblich am Rand des Zentrums. Für Familien ist sie einer der wenigen Orte, an denen sich Stadttag und Bergausflug in einem Ausflug verbinden lassen.\n\nDas bekannteste Wahrzeichen ist das Goldene Dachl in der Altstadt, ein Erker für Kaiser Maximilian I. mit 2.657 vergoldeten Kupferschindeln. Dazu kommen die Hofburg, die Hofkirche und die Bergiselschanze, 2002 nach einem Entwurf von Zaha Hadid neu gebaut. Mit der Nordkettenbahn fährt man in drei Etappen von der Stadt zum Hafelekar auf 2.256 m. Der Alpenzoo auf rund 750 m widmet sich Tieren der Alpen.\n\nVon Niederau aus ist Innsbruck ein vollwertiger Tagesausflug. Für Anfahrt und Parken genug Zeit einplanen. Im Advent gibt es mehrere Christkindlmärkte, darunter einen in der Altstadt. Öffnungszeiten und Preise vorab prüfen. Wer mit Kindern kommt, plant am besten Pausen im Zentrum ein."
+  },
+  "highlights": {
+   "nl": [
+    "Oude stad met het Goldene Dachl en de smalle straten eromheen.",
+    "Nordkettenbahn: in drie stappen van de stad naar Hafelekar (2.256 m) voor uitzicht.",
+    "Alpenzoo: dierentuin met Alpendieren, op ca. 750 m, leuk voor kinderen.",
+    "Bergisel-schans, herbouwd naar ontwerp van Zaha Hadid, met uitzicht over de stad.",
+    "Winter: kerstmarkten in de stad, waaronder de Christkindlmarkt in de oude stad (data vooraf nagaan)."
+   ],
+   "en": [
+    "Old town with the Goldene Dachl and the narrow streets around it.",
+    "Nordkettenbahn: in three stages from the city up to Hafelekar (2,256 m) for views.",
+    "Alpenzoo: a zoo of Alpine animals at about 750 m, fun for children.",
+    "Bergisel ski jump, rebuilt to a Zaha Hadid design, with views over the city.",
+    "Winter: Christmas markets in the city, including the Christkindlmarkt in the old town (check dates beforehand)."
+   ],
+   "de": [
+    "Altstadt mit dem Goldenen Dachl und den engen Gassen ringsum.",
+    "Nordkettenbahn: in drei Etappen von der Stadt zum Hafelekar (2.256 m) für die Aussicht.",
+    "Alpenzoo: Zoo mit Alpentieren auf rund 750 m, schön für Kinder.",
+    "Bergiselschanze, nach einem Entwurf von Zaha Hadid neu gebaut, mit Blick über die Stadt.",
+    "Winter: Christkindlmärkte in der Stadt, darunter der in der Altstadt (Termine vorab prüfen)."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau, via Wörgl en de A12 richting Innsbruck; parkeer bij voorkeur in een parkeergarage.",
+   "en": "About 60 minutes by car from Niederau, via Wörgl and the A12 towards Innsbruck; parking in a car park is easiest.",
+   "de": "Ca. 60 Minuten Fahrzeit ab Niederau, über Wörgl und die A12 Richtung Innsbruck; am einfachsten parkt man in einem Parkhaus."
+  },
+  "best_for": {
+   "nl": "Past bij cultuur, stadsdagje, winkelen en bergen in één.",
+   "en": "Suits culture, a city day, shopping and mountains in one.",
+   "de": "Passt zu Kultur, Stadttag, Shopping und Bergen in einem."
+  },
+  "season": {
+   "nl": "Het hele jaar; in de adventstijd extra sfeervol door de kerstmarkten.",
+   "en": "All year; especially atmospheric in Advent with the Christmas markets.",
+   "de": "Ganzjährig; im Advent besonders stimmungsvoll durch die Christkindlmärkte."
+  },
+  "drive_min": 60,
+  "elevation_m": null,
+  "url": "https://www.innsbruck.info",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het Goldene Dachl?",
+     "en": "What is the Goldene Dachl?",
+     "de": "Was ist das Goldene Dachl?"
+    },
+    "a": {
+     "nl": "Een erker in de oude stad van Innsbruck, gebouwd voor keizer Maximiliaan I, met 2.657 vergulde koperen schindels; het bekendste monument van de stad.",
+     "en": "An oriel in Innsbruck's old town, built for Emperor Maximilian I, with 2,657 gilded copper shingles; the city's best-known landmark.",
+     "de": "Ein Erker in der Innsbrucker Altstadt, für Kaiser Maximilian I. erbaut, mit 2.657 vergoldeten Kupferschindeln; das bekannteste Wahrzeichen der Stadt."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Innsbruck een dagtocht vanuit Niederau?",
+     "en": "Is Innsbruck doable as a day trip from Niederau?",
+     "de": "Ist Innsbruck als Tagesausflug ab Niederau machbar?"
+    },
+    "a": {
+     "nl": "Ja, de rit duurt ca. 60 minuten per enkele reis.",
+     "en": "Yes, the drive takes about 60 minutes each way.",
+     "de": "Ja, die Fahrt dauert ca. 60 Minuten pro Strecke."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "fuegen",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Fügen",
+   "en": "Fügen",
+   "de": "Fügen"
+  },
+  "tagline": {
+   "nl": "Hoofdplaats van het voorste Zillertal met Spieljoch en Erlebnistherme",
+   "en": "Main village of the lower Zillertal with Spieljoch and the Erlebnistherme",
+   "de": "Hauptort des vorderen Zillertals mit Spieljoch und Erlebnistherme"
+  },
+  "intro": {
+   "nl": "Fügen ligt aan de ingang van het Zillertal, op ongeveer 545 m hoogte, en is met ruim 4.000 inwoners de hoofdplaats van het voorste deel van de vallei. Het dorp staat bekend als gezinsvriendelijke vakantiebestemming en maakt deel uit van de Ersten Ferienregion im Zillertal.\n\nVanuit het dorp brengt een moderne tiendelige gondel je naar het Spieljoch (1.858 m), dat zich als Erlebnisberg richt op gezinnen. Bij het bergstation vind je onder meer een avonturenspeelplaats, een waterspeelpark, een klimpark voor kinderen en een showmijn. In de winter loopt het skigebied via Hochfügen, op ongeveer 1.500 m, door naar Hochzillertal. In het dal heeft Fügen een heemkundig museum en de Erlebnistherme Zillertal met glijbanen, golfbad en een kinderdeel, ook bij regen een goed alternatief.\n\nVoor gezinnen uit Niederau is Fügen een prettige dagtocht met afwisseling, in zomer en winter. Controleer openingstijden en bedrijfsdagen van de baan en het bad vooraf. Met de auto ben je via de A12 en de afrit Zillertal snel in het dorp.",
+   "en": "Fügen lies at the entrance to the Zillertal, at about 545 m, and with more than 4,000 inhabitants is the main village of the lower part of the valley. It has a reputation as a family-friendly holiday destination and belongs to the Erste Ferienregion im Zillertal.\n\nFrom the village a modern ten-person gondola takes you up the Spieljoch (1,858 m), an adventure mountain aimed at families. Near the top station you will find an adventure playground, a water play park, a children's climbing park and a show mine, among other things. In winter the ski area runs on via Hochfügen, at about 1,500 m, to Hochzillertal. In the valley Fügen has a local-history museum and the Erlebnistherme Zillertal with slides, a wave pool and a children's area, a good alternative when it rains.\n\nFor families from Niederau, Fügen is an easy and varied day trip, in summer and winter. Check opening days of the lift and the pool beforehand.",
+   "de": "Fügen liegt am Eingang des Zillertals, auf rund 545 m Höhe, und ist mit gut 4.000 Einwohnern der Hauptort des vorderen Tals. Der Ort gilt als familienfreundliches Urlaubsziel und gehört zur Ersten Ferienregion im Zillertal.\n\nVom Dorf bringt eine moderne Zehner-Gondelbahn auf das Spieljoch (1.858 m), einen Erlebnisberg für Familien. An der Bergstation gibt es unter anderem einen Abenteuerspielplatz, einen Wasserspielpark, einen Kinderklettergarten und ein Schaubergwerk. Im Winter führt das Skigebiet über Hochfügen, auf rund 1.500 m, weiter ins Hochzillertal. Im Tal hat Fügen ein Heimatmuseum und die Erlebnistherme Zillertal mit Rutschen, Wellenbecken und Kinderbereich, auch bei Regen eine gute Alternative.\n\nFür Familien aus Niederau ist Fügen ein bequemer, abwechslungsreicher Tagesausflug, im Sommer wie im Winter. Betriebstage von Bahn und Therme vorab prüfen. Mit dem Auto ist man über die A12 und die Ausfahrt Zillertal rasch im Ort. Parkplätze gibt es an Bahn und Therme; an Ferientagen lohnt sich eine frühe Ankunft."
+  },
+  "highlights": {
+   "nl": [
+    "Erlebnisberg Spieljoch (1.858 m): gondel, avonturenspeelplaats, waterspeelpark, klimpark en showmijn.",
+    "Erlebnistherme Zillertal: glijbanen, golfbad en kinderdeel, het hele jaar.",
+    "Skiën in de winter in het gebied Hochfügen-Hochzillertal en op het Spieljoch.",
+    "Heemkundig museum in het dorp en de pelgrimskerk St. Pankraz bij Uderns.",
+    "Fietsen en wandelen in het vlakke deel van het Zillertal en de zijdalen."
+   ],
+   "en": [
+    "Erlebnisberg Spieljoch (1,858 m): gondola, adventure playground, water play park, climbing park and show mine.",
+    "Erlebnistherme Zillertal: slides, wave pool and a children's area, all year round.",
+    "Skiing in winter in the Hochfügen-Hochzillertal area and on the Spieljoch.",
+    "Local-history museum in the village and the pilgrimage church of St. Pankraz near Uderns.",
+    "Cycling and walking in the flatter part of the Zillertal and its side valleys."
+   ],
+   "de": [
+    "Erlebnisberg Spieljoch (1.858 m): Gondelbahn, Abenteuerspielplatz, Wasserspielpark, Klettergarten und Schaubergwerk.",
+    "Erlebnistherme Zillertal: Rutschen, Wellenbecken und Kinderbereich, ganzjährig.",
+    "Skifahren im Winter im Gebiet Hochfügen-Hochzillertal und am Spieljoch.",
+    "Heimatmuseum im Ort und die Wallfahrtskirche St. Pankraz bei Uderns.",
+    "Radfahren und Wandern im flacheren Teil des Zillertals und in den Seitentälern."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 50 minuten rijden vanaf Niederau, via Wörgl, de A12 en de afrit Zillertal (Strass) richting Fügen.",
+   "en": "About 50 minutes by car from Niederau, via Wörgl, the A12 and the Zillertal exit (Strass) towards Fügen.",
+   "de": "Ca. 50 Minuten Fahrzeit ab Niederau, über Wörgl, die A12 und die Ausfahrt Zillertal (Strass) Richtung Fügen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met kinderen, in zomer en winter en bij regen.",
+   "en": "Suits families with children, in summer, winter and rainy weather.",
+   "de": "Passt zu Familien mit Kindern, im Sommer, Winter und bei Regen."
+  },
+  "season": {
+   "nl": "Zomer en winter; het bad het hele jaar.",
+   "en": "Summer and winter; the pool all year.",
+   "de": "Sommer und Winter; die Therme ganzjährig."
+  },
+  "drive_min": 50,
+  "elevation_m": 545,
+  "url": "https://www.myzillertal.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat kun je doen in Fügen met kinderen?",
+     "en": "What can you do in Fügen with children?",
+     "de": "Was kann man in Fügen mit Kindern unternehmen?"
+    },
+    "a": {
+     "nl": "Met de gondel naar het Spieljoch (avonturenspeelplaats, waterspeelpark, klimpark), naar de Erlebnistherme Zillertal, en in de winter skiën.",
+     "en": "Take the gondola up the Spieljoch (adventure playground, water play park, climbing park), visit the Erlebnistherme Zillertal, and ski in winter.",
+     "de": "Mit der Gondel aufs Spieljoch (Abenteuerspielplatz, Wasserspielpark, Klettergarten), in die Erlebnistherme Zillertal und im Winter Ski fahren."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang rijd je van Niederau naar Fügen?",
+     "en": "How long is the drive from Niederau to Fügen?",
+     "de": "Wie lange dauert die Fahrt von Niederau nach Fügen?"
+    },
+    "a": {
+     "nl": "Ongeveer 50 minuten.",
+     "en": "About 50 minutes.",
+     "de": "Etwa 50 Minuten."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "kaltenbach",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Kaltenbach",
+   "en": "Kaltenbach",
+   "de": "Kaltenbach"
+  },
+  "tagline": {
+   "nl": "Zillertaals dorp met Hochzillertal, Murmelland en de Höhenstraße",
+   "en": "Zillertal village with Hochzillertal, the Murmelland and the Höhenstraße",
+   "de": "Zillertaler Dorf mit Hochzillertal, Murmelland und Höhenstraße"
+  },
+  "intro": {
+   "nl": "Kaltenbach is een dorp in het Zillertal op ongeveer 558 m hoogte, een paar kilometer van de A12. Het hoort bij de Ersten Ferienregion im Zillertal, samen met onder meer Fügen, Ried en Hochfügen. Het dorp zelf is landelijk en rustig; de aantrekkingskracht ligt vooral op de berg erboven.\n\nVanuit Kaltenbach loopt de Hochzillertalbahn omhoog naar het gebied Hochzillertal. Sinds 2004 is dat skigebied verbonden met Hochfügen, samen goed voor ongeveer 86 km piste tot bijna 2.400 m. In de zomer is het hoger gelegen deel een wandelgebied langs de Zillertaler Höhenstraße. Bij de Kaltenbacher Skihütte op circa 1.800 m ligt het Murmelland met marmotten, een speeltuin, een kleine kinderboerderij en waterspeelplek. Het dorp heeft ook een halte aan de Zillertalbahn, de stoomtrein tussen Jenbach en Mayrhofen.\n\nVoor een gezin uit Niederau past Kaltenbach bij een skidag of een wandeldag met kinderen. Controleer bedrijfstijden van de bergbaan en sneeuwcondities vooraf.",
+   "en": "Kaltenbach is a village in the Zillertal at about 558 m, a few kilometres from the A12. It belongs to the Erste Ferienregion im Zillertal, together with Fügen, Ried and Hochfügen among others. The village itself is rural and quiet; the real draw is the mountain above it.\n\nFrom Kaltenbach the Hochzillertal cable car climbs to the Hochzillertal area. Since 2004 this ski area has been linked with Hochfügen, together offering around 86 km of pistes up to almost 2,400 m. In summer the higher ground is a walking area along the Zillertaler Höhenstraße. At the Kaltenbacher Skihütte, at roughly 1,800 m, you will find the Murmelland with marmots, a playground, a small petting zoo and a water play area. The village also has a stop on the Zillertalbahn, the steam railway between Jenbach and Mayrhofen.\n\nFor a family from Niederau, Kaltenbach suits a ski day or a walking day with children. Check lift operating times and snow conditions beforehand.",
+   "de": "Kaltenbach ist ein Dorf im Zillertal auf rund 558 m Höhe, wenige Kilometer von der A12 entfernt. Es gehört zur Ersten Ferienregion im Zillertal, gemeinsam mit unter anderem Fügen, Ried und Hochfügen. Der Ort selbst ist ländlich und ruhig; die eigentliche Attraktion ist der Berg darüber.\n\nVon Kaltenbach führt die Hochzillertalbahn hinauf ins Gebiet Hochzillertal. Seit 2004 ist dieses Skigebiet mit Hochfügen verbunden, zusammen rund 86 Pistenkilometer bis fast 2.400 m. Im Sommer ist der höhere Bereich ein Wandergebiet entlang der Zillertaler Höhenstraße. Bei der Kaltenbacher Skihütte auf etwa 1.800 m liegt das Murmelland mit Murmeltieren, Spielplatz, kleinem Streichelzoo und Wasserspielplatz. Im Dorf gibt es außerdem eine Haltestelle der Zillertalbahn, der Dampfbahn zwischen Jenbach und Mayrhofen.\n\nFür eine Familie aus Niederau passt Kaltenbach zu einem Skitag oder einem Wandertag mit Kindern. Betriebszeiten der Bahn und Schneelage vorab prüfen. Im Sommer lohnt sich ein früher Start für Höhenstraße und Almen. Gut zu wissen: Das Murmelland ist vor allem bei Kindern beliebt."
+  },
+  "highlights": {
+   "nl": [
+    "Skiën in Hochzillertal-Hochfügen: ca. 86 km piste, verbonden sinds 2004.",
+    "Murmelland Zillertal bij de Kaltenbacher Skihütte (ca. 1.800 m): marmotten, speeltuin en waterspeelplek.",
+    "Wandelen in het gebied Hochzillertal langs de Zillertaler Höhenstraße in de zomer.",
+    "Met de Zillertalbahn (stoomtrein) tussen Jenbach en Mayrhofen; Kaltenbach heeft een halte.",
+    "Fietsen en e-biken in het dal."
+   ],
+   "en": [
+    "Skiing in Hochzillertal-Hochfügen: about 86 km of pistes, linked since 2004.",
+    "Murmelland Zillertal at the Kaltenbacher Skihütte (about 1,800 m): marmots, playground and water play area.",
+    "Walking in the Hochzillertal area along the Zillertaler Höhenstraße in summer.",
+    "The Zillertalbahn steam railway between Jenbach and Mayrhofen; Kaltenbach has a stop.",
+    "Cycling and e-biking in the valley."
+   ],
+   "de": [
+    "Skifahren in Hochzillertal-Hochfügen: rund 86 Pistenkilometer, seit 2004 verbunden.",
+    "Murmelland Zillertal bei der Kaltenbacher Skihütte (rund 1.800 m): Murmeltiere, Spielplatz und Wasserspielplatz.",
+    "Wandern im Gebiet Hochzillertal entlang der Zillertaler Höhenstraße im Sommer.",
+    "Die Zillertalbahn (Dampfbahn) zwischen Jenbach und Mayrhofen; Kaltenbach hat eine Haltestelle.",
+    "Radfahren und E-Biken im Tal."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 55 minuten rijden vanaf Niederau, via Wörgl, de A12 en de Zillertalstraat richting Kaltenbach.",
+   "en": "About 55 minutes by car from Niederau, via Wörgl, the A12 and the Zillertal road towards Kaltenbach.",
+   "de": "Ca. 55 Minuten Fahrzeit ab Niederau, über Wörgl, die A12 und die Zillertaler Straße Richtung Kaltenbach."
+  },
+  "best_for": {
+   "nl": "Past bij skiën en wandelen met kinderen, met het Murmelland als familietip.",
+   "en": "Suits skiing and walking with children, with the Murmelland as a family tip.",
+   "de": "Passt zu Skifahren und Wandern mit Kindern, mit dem Murmelland als Familientipp."
+  },
+  "season": {
+   "nl": "Vooral winter (ski) en zomer (wandelen).",
+   "en": "Mainly winter (skiing) and summer (walking).",
+   "de": "Vor allem Winter (Ski) und Sommer (Wandern)."
+  },
+  "drive_min": 55,
+  "elevation_m": 558,
+  "url": "https://www.myzillertal.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welk skigebied ligt boven Kaltenbach?",
+     "en": "Which ski area lies above Kaltenbach?",
+     "de": "Welches Skigebiet liegt oberhalb von Kaltenbach?"
+    },
+    "a": {
+     "nl": "Hochzillertal, dat sinds 2004 met Hochfügen is verbonden en samen ongeveer 86 km piste heeft.",
+     "en": "Hochzillertal, which has been linked with Hochfügen since 2004 and together has about 86 km of pistes.",
+     "de": "Das Hochzillertal, das seit 2004 mit Hochfügen verbunden ist und zusammen rund 86 Pistenkilometer bietet."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is het Murmelland?",
+     "en": "What is the Murmelland?",
+     "de": "Was ist das Murmelland?"
+    },
+    "a": {
+     "nl": "Een marmottenpark bij de Kaltenbacher Skihütte op ca. 1.800 m, met speeltuin, kleine kinderboerderij en waterspeelplek.",
+     "en": "A marmot park at the Kaltenbacher Skihütte at about 1,800 m, with a playground, small petting zoo and water play area.",
+     "de": "Ein Murmeltierpark bei der Kaltenbacher Skihütte auf rund 1.800 m, mit Spielplatz, kleinem Streichelzoo und Wasserspielplatz."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "zell-am-ziller",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Zell am Ziller",
+   "en": "Zell am Ziller",
+   "de": "Zell am Ziller"
+  },
+  "tagline": {
+   "nl": "Zillertaler brouwerij- en goudplaats met Gauderfest en Zillertal Arena",
+   "en": "Zillertal brewery and gold village with the Gauderfest and Zillertal Arena",
+   "de": "Zillertaler Brauerei- und Goldort mit Gauderfest und Zillertal Arena"
+  },
+  "intro": {
+   "nl": "Zell am Ziller ligt in het hart van het Zillertal en is een van de bekendste plaatsen van de vallei. Boven het dorp begint de Zillertal Arena, een skigebied met ruim 140 km piste, dat in de zomer verandert in wandel- en mountainbikegebied.\n\nDe bekendste gebeurtenis is het Gauderfest, dat al eeuwen op het eerste weekend van mei wordt gehouden en tot het immaterieel cultureel erfgoed van UNESCO in Oostenrijk behoort. De stoet vindt plaats op de eerste zondag van mei en trekt ongeveer 20.000 bezoekers. Speciaal voor het feest brouwt de brouwerij Zillertal Bier de Gauderbock, een bockbier van 7,8 procent dat maar kort verkrijgbaar is. De brouwerij zelf bestaat al meer dan 500 jaar.\n\nWie met kinderen komt, vindt in de buurt onder meer de Rosenalm met het Fichtenschloss, en het Goldschaubergwerk, waar de goudwinning uit de streek wordt getoond. Voor een gezin uit Niederau is Zell een dagtocht in zomer en winter; controleer actuele data en openingstijden vooraf.",
+   "en": "Zell am Ziller lies in the heart of the Zillertal and is one of the valley's best-known villages. Above it begins the Zillertal Arena, a ski area with more than 140 km of pistes that turns into walking and mountain-biking terrain in summer.\n\nThe best-known event is the Gauderfest, held for centuries on the first weekend of May and part of Austria's UNESCO intangible cultural heritage. The parade takes place on the first Sunday of May and draws around 20,000 visitors. For the festival the Zillertal Bier brewery makes the Gauderbock, a 7.8 per cent bock beer available only briefly. The brewery itself has existed for more than 500 years.\n\nFamilies will find, nearby, the Rosenalm with its Spruce Castle, and the Goldschaubergwerk, which shows the region's gold-mining past. For a family from Niederau, Zell is a day trip in summer and winter; check current dates and opening times beforehand.",
+   "de": "Zell am Ziller liegt im Herzen des Zillertals und ist einer der bekanntesten Orte des Tals. Oberhalb beginnt die Zillertal Arena, ein Skigebiet mit mehr als 140 Pistenkilometern, das sich im Sommer in ein Wander- und Mountainbikegebiet verwandelt.\n\nDie bekannteste Veranstaltung ist das Gauderfest, das seit Jahrhunderten am ersten Maiwochenende gefeiert wird und zum immateriellen UNESCO-Kulturerbe in Österreich zählt. Der Festumzug findet am ersten Sonntag im Mai statt und zieht rund 20.000 Besucher an. Für das Fest braut die Brauerei Zillertal Bier den Gauderbock, ein Bockbier mit 7,8 Prozent, das nur kurz erhältlich ist. Die Brauerei selbst gibt es seit mehr als 500 Jahren.\n\nFamilien finden in der Nähe unter anderem die Rosenalm mit dem Fichtenschloss und das Goldschaubergwerk, das die Goldgräbergeschichte der Region zeigt. Für eine Familie aus Niederau ist Zell ein Tagesausflug im Sommer und Winter; aktuelle Termine und Öffnungszeiten vorab prüfen. Während des Gauderfests ist der Ort sehr voll, deshalb früh anreisen."
+  },
+  "highlights": {
+   "nl": [
+    "Gauderfest in het eerste weekend van mei: traditioneel volksfeest met stoet, Zillertalse gebruiken en Gauderbock.",
+    "Zillertal Arena: skigebied met ruim 140 km piste voor alle niveaus.",
+    "Wandelen en mountainbiken in de zomer vanuit het dorp.",
+    "Rosenalm met het Fichtenschloss, een fantasiewereld voor kinderen.",
+    "Goldschaubergwerk: de goudgeschiedenis van Zell, te combineren met een wandeling."
+   ],
+   "en": [
+    "Gauderfest on the first weekend of May: a traditional festival with parade, Zillertal customs and Gauderbock beer.",
+    "Zillertal Arena: ski area with more than 140 km of pistes for all levels.",
+    "Walking and mountain biking from the village in summer.",
+    "Rosenalm with the Spruce Castle, a fantasy world for children.",
+    "Goldschaubergwerk: Zell's gold-mining history, which can be combined with a hike."
+   ],
+   "de": [
+    "Gauderfest am ersten Maiwochenende: traditionelles Volksfest mit Umzug, Zillertaler Brauchtum und Gauderbock.",
+    "Zillertal Arena: Skigebiet mit mehr als 140 Pistenkilometern für alle Niveaus.",
+    "Wandern und Mountainbiken im Sommer ab dem Dorf.",
+    "Rosenalm mit dem Fichtenschloss, eine Fantasiewelt für Kinder.",
+    "Goldschaubergwerk: die Goldgräbergeschichte von Zell, kombinierbar mit einer Wanderung."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau, via Wörgl, de A12 en de Zillertalstraat; de route kan in het hoogseizoen druk zijn.",
+   "en": "About 60 minutes by car from Niederau, via Wörgl, the A12 and the Zillertal road; the route can be busy in high season.",
+   "de": "Ca. 60 Minuten Fahrzeit ab Niederau, über Wörgl, die A12 und die Zillertaler Straße; in der Hochsaison kann es voll sein."
+  },
+  "best_for": {
+   "nl": "Past bij traditie, skiën en gezinsdagtochten.",
+   "en": "Suits tradition, skiing and family day trips.",
+   "de": "Passt zu Brauchtum, Skifahren und Familienausflügen."
+  },
+  "season": {
+   "nl": "Zomer en winter; Gauderfest begin mei.",
+   "en": "Summer and winter; Gauderfest in early May.",
+   "de": "Sommer und Winter; Gauderfest Anfang Mai."
+  },
+  "drive_min": 60,
+  "elevation_m": null,
+  "url": "https://www.zillertalarena.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is het Gauderfest?",
+     "en": "When is the Gauderfest?",
+     "de": "Wann ist das Gauderfest?"
+    },
+    "a": {
+     "nl": "Al eeuwen in het eerste weekend van mei, met de stoet op de eerste zondag van mei; controleer de actuele programmering vooraf.",
+     "en": "For centuries on the first weekend of May, with the parade on the first Sunday of May; check the current programme beforehand.",
+     "de": "Seit Jahrhunderten am ersten Maiwochenende, mit dem Festumzug am ersten Sonntag im Mai; aktuelles Programm vorab prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang rijd je van Niederau naar Zell am Ziller?",
+     "en": "How long is the drive from Niederau to Zell am Ziller?",
+     "de": "Wie lange dauert die Fahrt von Niederau nach Zell am Ziller?"
+    },
+    "a": {
+     "nl": "Ongeveer 60 minuten.",
+     "en": "About 60 minutes.",
+     "de": "Etwa 60 Minuten."
+    }
+   }
+  ],
+  "verified": true
+ }
+]

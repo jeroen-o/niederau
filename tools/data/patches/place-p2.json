@@ -1,0 +1,518 @@
+[
+ {
+  "slug": "rattenberg",
+  "region": "alpbachtal",
+  "drop": false,
+  "name": {
+   "nl": "Rattenberg",
+   "en": "Rattenberg",
+   "de": "Rattenberg"
+  },
+  "tagline": {
+   "nl": "Kleinste stad van Oostenrijk, bekend om glas en Inn-Salzach-huizen",
+   "en": "Austria's smallest town, known for glass and Inn-Salzach houses",
+   "de": "Kleinste Stadt Österreichs, bekannt für Glas und Inn-Salzach-Häuser"
+  },
+  "intro": {
+   "nl": "Rattenberg is met ruim 400 inwoners de kleinste stad van Oostenrijk. Het stadje ligt op ongeveer 514 meter hoogte in het Inntal, aan de rand van het Alpbachtal, tegen een steile rotswand aan. Voor het eerst genoemd in 1254, kreeg het in 1393 onder Beiers bestuur stadsrechten en hoort sinds 1504 definitief bij Tirol. In de vijftiende eeuw groeide de plaats dankzij de zilver- en kopermijnbouw in de omgeving, en nog steeds zie je dat aan de statige burger- en handelshuizen langs de straten.\n\nDe bebouwing is gebouwd in de zogeheten Inn-Salzach-stijl, met hoge, vlak afgesloten gevels die het stadsbeeld bepalen. Boven de oude kern torent de gotische parochiekerk van de heilige Virgil uit, in de achttiende eeuw barok vernieuwd, met een opvallend Annaaltaar en rijke gewelfschilderingen. Wie meer wil weten over de streek, kan terecht in het Augustinermuseum, dat sinds 1993 Tiroolse kunst uit negen eeuwen toont, of in het museum voor handwerkskunst in de voormalige nagelsmidshuizen, waar tot 1912 spijkers werden gemaakt.\n\nRattenberg staat daarnaast bekend om zijn glasnijverheid: meerdere bedrijven bewerken glas en verkopen glaskunst en kristal in de winkels van het stadje. Voor gezinnen uit Niederau is het een gemakkelijk halve-dagprogramma, goed te combineren met het nabije Kramsach.",
+   "en": "With just over 400 inhabitants, Rattenberg is the smallest town in Austria. It sits at roughly 514 metres above sea level in the Inn Valley, on the edge of the Alpbachtal, pressed against a steep rock face. First mentioned in 1254, it was granted town rights in 1393 under Bavarian rule and has belonged firmly to Tyrol since 1504. In the fifteenth century the place prospered thanks to silver and copper mining in the surrounding hills, and you can still see that in the stately merchant and townhouses lining the streets.\n\nThe buildings follow the so-called Inn-Salzach style, with tall, flat-topped facades that define the townscape. Above the old centre rises the Gothic parish church of Saint Virgil, given a Baroque makeover in the eighteenth century, with a striking Saint Anne altar and rich vault frescoes. Anyone wanting to learn more about the region can visit the Augustinian Museum, which since 1993 has displayed Tyrolean art from nine centuries, or the crafts museum in the former nail-smiths' houses, where nails were made until 1912.\n\nRattenberg is also known for its glass industry: several firms work glass and sell glass art and crystal in the town's shops. For families staying in Niederau it makes an easy half-day outing, combining well with nearby Kramsach.",
+   "de": "Mit gut 400 Einwohnern ist Rattenberg die kleinste Stadt Österreichs. Sie liegt auf etwa 514 Metern Seehöhe im Inntal, am Rand des Alpbachtals, dicht an eine steile Felswand gedrängt. Erstmals 1254 erwähnt, erhielt sie 1393 unter bayerischer Herrschaft das Stadtrecht und gehört seit 1504 endgültig zu Tirol. Im fünfzehnten Jahrhundert blühte der Ort dank des Silber- und Kupferbergbaus in der Umgebung auf, was man bis heute an den stattlichen Bürger- und Geschäftshäusern entlang der Gassen erkennt.\n\nDie Bebauung folgt dem sogenannten Inn-Salzach-Stil mit hohen, oben flach abschließenden Fassaden, die das Stadtbild prägen. Über dem Altstadtkern ragt die gotische Pfarrkirche des heiligen Virgil auf, im achtzehnten Jahrhundert barockisiert, mit einem auffälligen Annenaltar und reichen Gewölbefresken. Wer mehr über die Region erfahren möchte, besucht das Augustinermuseum, das seit 1993 Tiroler Kunst aus neun Jahrhunderten zeigt, oder das Handwerkskunstmuseum in den früheren Nagelschmiedhäusern, in denen bis 1912 Nägel hergestellt wurden.\n\nRattenberg ist außerdem für sein Glasgewerbe bekannt: Mehrere Betriebe verarbeiten Glas und verkaufen Glaskunst und Kristall in den Geschäften des Städtchens. Für Familien aus Niederau ist es ein bequemer Halbtagesausflug, der sich gut mit dem nahen Kramsach verbinden lässt. Der Ort ist kompakt und in kurzer Zeit zu Fuß erkundet, wobei man immer wieder in ein Geschäft oder Museum eintreten kann, was ihn auch bei unbeständigem Wetter angenehm macht."
+  },
+  "highlights": {
+   "nl": [
+    "Rondwandeling door de autovrije oude kern met Inn-Salzach-huizen",
+    "Glasateliers en winkels bezoeken",
+    "Augustinermuseum en museum voor handwerkskunst",
+    "Parochiekerk van de heilige Virgil met Annaaltaar",
+    "Combineren met Kramsach"
+   ],
+   "en": [
+    "Stroll through the car-free old centre with its Inn-Salzach houses",
+    "Visit glass studios and shops",
+    "Augustinian Museum and crafts museum",
+    "Parish church of Saint Virgil with its Saint Anne altar",
+    "Combine with Kramsach"
+   ],
+   "de": [
+    "Rundgang durch die autofreie Altstadt mit Inn-Salzach-Häusern",
+    "Glasateliers und Geschäfte besuchen",
+    "Augustinermuseum und Handwerkskunstmuseum",
+    "Pfarrkirche St. Virgil mit Annenaltar",
+    "Mit Kramsach kombinieren"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan over de Inntal-route in westelijke richting. Dit is een schatting; check de route vooraf.",
+   "en": "About 35 minutes by car from Niederau: via Oberau to Wörgl, then west along the Inn Valley. This is an estimate; check the route beforehand.",
+   "de": "Etwa 35 Minuten Autofahrt ab Niederau: über Oberau nach Wörgl, dann im Inntal Richtung Westen. Das ist eine Schätzung; Route bitte vorab prüfen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met interesse in ambacht en een rustige stadswandeling.",
+   "en": "Suits families interested in crafts and a gentle town stroll.",
+   "de": "Passt zu Familien mit Interesse an Handwerk und einem ruhigen Stadtbummel."
+  },
+  "season": {
+   "nl": "Het hele jaar bezoekbaar; openingstijden van ateliers verschillen per seizoen.",
+   "en": "Open to visit all year; studio opening hours vary by season.",
+   "de": "Ganzjährig besuchbar; Öffnungszeiten der Ateliers variieren je nach Saison."
+  },
+  "drive_min": 35,
+  "elevation_m": 514,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Rattenberg echt de kleinste stad van Oostenrijk?",
+     "en": "Is Rattenberg really the smallest town in Austria?",
+     "de": "Ist Rattenberg wirklich die kleinste Stadt Österreichs?"
+    },
+    "a": {
+     "nl": "Ja, met ruim 400 inwoners is het de kleinste stad van Oostenrijk.",
+     "en": "Yes, with just over 400 inhabitants it is the smallest town in Austria.",
+     "de": "Ja, mit gut 400 Einwohnern ist es die kleinste Stadt Österreichs."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je in Rattenberg met de auto de oude kern in?",
+     "en": "Can you drive into Rattenberg's old centre?",
+     "de": "Kann man mit dem Auto in die Altstadt von Rattenberg fahren?"
+    },
+    "a": {
+     "nl": "De oude kern is autovrij; parkeer aan de rand en loop naar binnen. Informeer ter plaatse naar parkeerplekken.",
+     "en": "The old centre is car-free; park on the edge and walk in. Ask locally about parking.",
+     "de": "Die Altstadt ist autofrei; am Rand parken und zu Fuß hineingehen. Parkmöglichkeiten bitte vor Ort erfragen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "kramsach",
+  "region": "alpbachtal",
+  "drop": false,
+  "name": {
+   "nl": "Kramsach",
+   "en": "Kramsach",
+   "de": "Kramsach"
+  },
+  "tagline": {
+   "nl": "Dorp met openluchtmuseum en bergmeertjes aan de Inn",
+   "en": "Village with an open-air museum and small lakes by the Inn",
+   "de": "Dorf mit Freilichtmuseum und Bergseen am Inn"
+  },
+  "intro": {
+   "nl": "Kramsach ligt op ongeveer 520 meter hoogte aan de noordoever van de Inn, in het Tiroolse Unterinntal, onder de Rofan. Het hoort bij het district Kufstein en telt zo'n 4.800 inwoners. Voor bezoekers uit Niederau is het vooral een handige bestemming omdat het vlak naast Rattenberg ligt en de twee plaatsen prima in één uitstap passen. Het landschap is hier afwisselend: de vlakke vallei langs de rivier, met daarboven de rotsachtige wanden van het Rofangebergte.\n\nDe bekendste bezienswaardigheid is het Museum Tiroler Bauernhöfe, een openluchtmuseum dat in 1974 is opgericht en ten oosten van de Reintalersee ligt. Er staan zo'n dertig historische boerderijen en landbouwgebouwen, aangevuld met schuren, hooibergen, alpenhutten en voorraadschuren, die uit verschillende delen van Tirol zijn overgebracht. Zo zie je hoe mensen vroeger woonden en werkten. Je loopt rustig over het terrein en kijkt in de gebouwen, een goede manier om kinderen kennis te laten maken met het landleven van vroeger.\n\nDaarnaast is Kramsach bekend om zijn meertjes. De Reintalersee, op ongeveer 564 meter hoogte, is met zijn turkooisgroene water het grootste meer van het zogeheten Kramsacher Seengebiet. De meren liggen in een bosrijke omgeving en zijn populair voor een wandeling; of je er mag zwemmen en wat dat kost, verschilt per meer en vraag je ter plaatse of bij het toeristenbureau na.",
+   "en": "Kramsach lies at roughly 520 metres above sea level on the north bank of the Inn, in the Tyrolean Lower Inn Valley, below the Rofan mountains. It belongs to the Kufstein district and has about 4,800 residents. For visitors from Niederau it is mainly a convenient destination because it sits right next to Rattenberg, so the two fit neatly into a single outing. The landscape here is varied: the flat valley floor along the river, with the rocky walls of the Rofan range rising above.\n\nThe best-known sight is the Museum of Tyrolean Farmhouses, an open-air museum founded in 1974 and located east of the Reintalersee. It holds around thirty historic farmsteads and rural buildings, complemented by barns, sheds, alpine huts and storehouses, brought here from different parts of Tyrol. It shows how people once lived and worked. You stroll across the grounds and look inside the buildings, which is a good way to introduce children to country life of the past.\n\nKramsach is also known for its small lakes. The Reintalersee, at about 564 metres, is with its turquoise-green water the largest lake of the so-called Kramsach lake district. The lakes lie in wooded surroundings and are popular for a walk; whether swimming is allowed and what it costs varies per lake, so ask locally or at the tourist office.",
+   "de": "Kramsach liegt auf etwa 520 Metern Seehöhe am Nordufer des Inns, im Tiroler Unterinntal, unterhalb des Rofangebirges. Die Gemeinde gehört zum Bezirk Kufstein und hat rund 4.800 Einwohner. Für Gäste aus Niederau ist sie vor allem deshalb praktisch, weil sie unmittelbar neben Rattenberg liegt und sich beide Orte gut in einem Ausflug verbinden lassen. Die Landschaft ist abwechslungsreich: der flache Talboden entlang des Flusses, darüber die felsigen Wände des Rofangebirges.\n\nDie bekannteste Sehenswürdigkeit ist das Museum Tiroler Bauernhöfe, ein 1974 gegründetes Freilichtmuseum östlich des Reintalersees. Hier stehen rund dreißig historische Bauernhöfe und ländliche Gebäude, ergänzt durch Stadel, Städel, Almhütten und Vorratshäuser, die aus verschiedenen Teilen Tirols hierher versetzt wurden. So lässt sich nachvollziehen, wie die Menschen früher wohnten und arbeiteten. Man schlendert über das Gelände und schaut in die Gebäude hinein, eine gute Möglichkeit, Kindern das Landleben von einst zu zeigen.\n\nAußerdem ist Kramsach für seine kleinen Seen bekannt. Der Reintalersee auf etwa 564 Metern ist mit seinem türkisgrünen Wasser der größte See des sogenannten Kramsacher Seengebiets. Die Seen liegen in bewaldeter Umgebung und eignen sich gut für einen Spaziergang; ob Baden erlaubt ist und was es kostet, ist je See unterschiedlich und sollte vor Ort oder beim Tourismusverband erfragt werden. Am besten plant man den Tag zwischen Frühling und Herbst, denn im Winter ist das Angebot eingeschränkter und die Öffnungszeiten des Museums können abweichen."
+  },
+  "highlights": {
+   "nl": [
+    "Museum Tiroler Bauernhöfe bezoeken (openluchtmuseum met historische boerderijen)",
+    "Wandeling bij de Reintalersee en de andere meertjes",
+    "Zwemmen alleen waar toegestaan (ter plaatse navragen)",
+    "Combineren met het nabije Rattenberg"
+   ],
+   "en": [
+    "Visit the Museum of Tyrolean Farmhouses (open-air museum of historic farms)",
+    "Walk by the Reintalersee and the other small lakes",
+    "Swim only where permitted (ask locally)",
+    "Combine with nearby Rattenberg"
+   ],
+   "de": [
+    "Museum Tiroler Bauernhöfe besuchen (Freilichtmuseum mit historischen Höfen)",
+    "Spaziergang am Reintalersee und den anderen kleinen Seen",
+    "Baden nur, wo es erlaubt ist (vor Ort erfragen)",
+    "Mit dem nahen Rattenberg kombinieren"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 30 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan westwaarts door het Inntal. Schatting; check de route vooraf.",
+   "en": "About 30 minutes by car from Niederau: via Oberau to Wörgl, then west through the Inn Valley. Estimate; check the route beforehand.",
+   "de": "Etwa 30 Minuten Autofahrt ab Niederau: über Oberau nach Wörgl, dann westwärts durchs Inntal. Schätzung; Route bitte vorab prüfen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met kinderen die van buiten en oude boerderijen houden.",
+   "en": "Suits families with children who enjoy the outdoors and old farmhouses.",
+   "de": "Passt zu Familien mit Kindern, die Natur und alte Bauernhöfe mögen."
+  },
+  "season": {
+   "nl": "Vooral lente tot herfst; in de winter is het aanbod beperkter.",
+   "en": "Mainly spring to autumn; fewer options in winter.",
+   "de": "Vor allem Frühling bis Herbst; im Winter ist das Angebot eingeschränkter."
+  },
+  "drive_min": 30,
+  "elevation_m": 520,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Kramsach een goed uitstapje bij regen?",
+     "en": "Is Kramsach a good outing in wet weather?",
+     "de": "Ist Kramsach bei Regen ein guter Ausflug?"
+    },
+    "a": {
+     "nl": "Gedeeltelijk: het museum is vooral buiten, maar enkele gebouwen zijn te betreden. Combineer met Rattenberg waar ateliers binnen zijn.",
+     "en": "Partly: the museum is mostly outdoors, though some buildings can be entered. Combine with Rattenberg, where studios are indoors.",
+     "de": "Teilweise: Das Museum ist überwiegend draußen, einige Gebäude kann man betreten. Kombinierbar mit Rattenberg, wo die Ateliers überdacht sind."
+    }
+   },
+   {
+    "q": {
+     "nl": "Mag je in de meren van Kramsach zwemmen?",
+     "en": "Can you swim in Kramsach's lakes?",
+     "de": "Darf man in den Seen von Kramsach baden?"
+    },
+    "a": {
+     "nl": "Dat verschilt per meer en kan geld kosten; informeer ter plaatse of bij het toeristenbureau.",
+     "en": "This varies by lake and may cost money; ask locally or at the tourist office.",
+     "de": "Das ist je nach See unterschiedlich und kann kostenpflichtig sein; bitte vor Ort oder beim Tourismusverband erfragen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "kundl",
+  "region": "alpbachtal",
+  "drop": false,
+  "name": {
+   "nl": "Kundl",
+   "en": "Kundl",
+   "de": "Kundl"
+  },
+  "tagline": {
+   "nl": "Dorp in het Inntal, begin van de Kundler Klamm naar de Wildschönau",
+   "en": "Inn Valley village, start of the Kundler Klamm gorge to the Wildschönau",
+   "de": "Inntaldorf, Beginn der Kundler Klamm in die Wildschönau"
+  },
+  "intro": {
+   "nl": "Kundl is een marktgemeente in het Tiroolse Unterinntal, ongeveer 526 meter boven zeeniveau, tussen Wörgl en Rattenberg. Er wonen zo'n 4.300 mensen. Het is geen klassiek vakantieoord, maar een werkdorp in de vallei, en juist daardoor een rustige plek. Voor wie vanuit Niederau een uitstapje maakt, is het vooral interessant omdat de beroemde Kundler Klamm hier begint, een kloof die Kundl met de Wildschönau verbindt, het dal waarin ook Niederau ligt.\n\nIn de zomer lopen veel bezoekers door deze pittoreske kloof. Omdat ze de twee dalen verbindt, is het een bijzondere wandeling voor wie in de Wildschönau verblijft: je ziet hoe een bergbeek zich een weg baant naar de Inn. Informeer vooraf naar de actuele toestand van het pad, want in een kloof kunnen paden na regen of in de winter afgesloten zijn. Het dorp zelf biedt weinig grote attracties, dus plan Kundl liever als onderdeel van een route dan als enig doel van de dag.\n\nKundl heeft ook industriële geschiedenis. De voormalige brouwerij werd in 1946 omgebouwd tot een farmaceutisch bedrijf, Biochemie Kundl, tegenwoordig Sandoz, dat tot de belangrijkste industriële werkgevers van Tirol behoort en waar geneesmiddelen worden gemaakt en onderzoek wordt gedaan. Dat bedrijf is een werkterrein en geen bezienswaardigheid.",
+   "en": "Kundl is a market municipality in the Tyrolean Lower Inn Valley, about 526 metres above sea level, between Wörgl and Rattenberg. Around 4,300 people live here. It is not a classic holiday resort but a working village in the valley, and that is exactly what makes it a calm place. For anyone on an outing from Niederau it is mainly interesting because the well-known Kundler Klamm starts here, a gorge that links Kundl with the Wildschönau, the valley in which Niederau lies.\n\nIn summer many visitors walk through this picturesque gorge. Because it connects the two valleys, it is a special walk for anyone staying in the Wildschönau: you see how a mountain stream finds its way down to the Inn. Ask beforehand about the current condition of the path, because paths in a gorge can be closed after rain or in winter. The village itself offers few big attractions, so plan Kundl as part of a route rather than as the only goal of the day.\n\nKundl also has an industrial history. The former brewery was converted in 1946 into a pharmaceutical plant, Biochemie Kundl, today Sandoz, which is among Tyrol's most important industrial employers and where medicines are produced and research is carried out. That plant is a workplace rather than a sight.",
+   "de": "Kundl ist eine Marktgemeinde im Tiroler Unterinntal, etwa 526 Meter über dem Meer, zwischen Wörgl und Rattenberg. Hier leben rund 4.300 Menschen. Es ist kein klassischer Urlaubsort, sondern ein Arbeitsort im Tal, und gerade deshalb ein ruhiger Platz. Für einen Ausflug von Niederau aus ist es vor allem interessant, weil hier die bekannte Kundler Klamm beginnt, eine Schlucht, die Kundl mit der Wildschönau verbindet, dem Tal, in dem auch Niederau liegt.\n\nIm Sommer wandern viele Besucher durch diese malerische Klamm. Weil sie die beiden Täler verbindet, ist es für Gäste in der Wildschönau eine besondere Wanderung: Man sieht, wie sich ein Bergbach seinen Weg hinab zum Inn bahnt. Bitte vorab nach dem aktuellen Zustand des Weges fragen, denn Wege in einer Klamm können nach Regen oder im Winter gesperrt sein. Das Dorf selbst bietet wenige große Attraktionen, deshalb plant man Kundl besser als Teil einer Route denn als einziges Ziel des Tages.\n\nKundl hat auch eine industrielle Geschichte. Die frühere Brauerei wurde 1946 zu einem Pharmawerk umgebaut, der Biochemie Kundl, heute Sandoz, die zu den wichtigsten Industriebetrieben Tirols zählt und in der Medikamente hergestellt und erforscht werden. Das Werk ist ein Arbeitsplatz und keine Sehenswürdigkeit. Radfahrer können vom Ort aus auf den Innradweg wechseln, die Radroute entlang des Flusses, die hier über den flachen Talboden führt und sich gut mit Rattenberg oder Kramsach verbinden lässt."
+  },
+  "highlights": {
+   "nl": [
+    "Kundler Klamm: kloof die Kundl met de Wildschönau verbindt (zomer; padstatus vooraf navragen)",
+    "Fietsen of wandelen over de vlakke dalbodem langs de Inn",
+    "Tussenstop op weg naar Alpbach, Rattenberg of Kramsach"
+   ],
+   "en": [
+    "Kundler Klamm: gorge linking Kundl with the Wildschönau (summer; check path status beforehand)",
+    "Cycle or walk across the flat valley floor by the Inn",
+    "Stopover on the way to Alpbach, Rattenberg or Kramsach"
+   ],
+   "de": [
+    "Kundler Klamm: Schlucht zwischen Kundl und Wildschönau (Sommer; Wegzustand vorab erfragen)",
+    "Radfahren oder Wandern über den flachen Talboden am Inn",
+    "Zwischenstopp auf dem Weg nach Alpbach, Rattenberg oder Kramsach"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 25 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan een stukje westwaarts. Schatting.",
+   "en": "About 25 minutes by car from Niederau: via Oberau to Wörgl, then a short way west. Estimate.",
+   "de": "Etwa 25 Minuten Autofahrt ab Niederau: über Oberau nach Wörgl, dann ein Stück westwärts. Schätzung."
+  },
+  "best_for": {
+   "nl": "Past bij wandelaars die de Kundler Klamm willen lopen en bij wie een tussenstop zoekt.",
+   "en": "Suits walkers who want to do the Kundler Klamm and those looking for a stopover.",
+   "de": "Passt zu Wanderern für die Kundler Klamm und als Zwischenstopp."
+  },
+  "season": {
+   "nl": "Vooral zomer voor de klamm en het fietsen; in de winter weinig reden voor een apart bezoek.",
+   "en": "Mainly summer for the gorge and cycling; little reason for a separate winter visit.",
+   "de": "Vor allem Sommer für Klamm und Radfahren; im Winter kaum Anlass für einen eigenen Besuch."
+  },
+  "drive_min": 25,
+  "elevation_m": 526,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is de Kundler Klamm?",
+     "en": "What is the Kundler Klamm?",
+     "de": "Was ist die Kundler Klamm?"
+    },
+    "a": {
+     "nl": "Een kloof die Kundl met de Wildschönau verbindt en in de zomer door veel bezoekers wordt bewandeld.",
+     "en": "A gorge linking Kundl with the Wildschönau, walked by many visitors in summer.",
+     "de": "Eine Schlucht, die Kundl mit der Wildschönau verbindet und im Sommer von vielen Besuchern begangen wird."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Kundl een toeristische bestemming?",
+     "en": "Is Kundl a tourist destination?",
+     "de": "Ist Kundl ein Urlaubsziel?"
+    },
+    "a": {
+     "nl": "Niet echt; het is vooral een werkdorp in het Inntal, handig als tussenstop.",
+     "en": "Not really; it is mainly a working village in the Inn Valley, handy as a stopover.",
+     "de": "Eher nicht; es ist vor allem ein Arbeitsort im Inntal und als Zwischenstopp praktisch."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "hopfgarten",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "tagline": {
+   "nl": "Dorp in het Brixental met gondel naar de Hohe Salve",
+   "en": "Brixental village with a gondola up the Hohe Salve",
+   "de": "Dorf im Brixental mit Gondelbahn auf die Hohe Salve"
+  },
+  "intro": {
+   "nl": "Hopfgarten im Brixental ligt op ongeveer 620 meter hoogte aan de voet van de Hohe Salve, aan de ingang van het Brixental, tussen Wörgl en Kitzbühel. Het is een marktgemeente en een van de plaatsen van het skigebied SkiWelt Wilder Kaiser-Brixental. Het meest in het oog springt de barokke kerk met twee torens uit de achttiende eeuw, gewijd aan de heiligen Jakobus en Leonardus. Het dorp is een prettige plek voor een dagje uit vanuit Niederau, zowel in de winter als in de zomer.\n\nDe Hohe Salve is de blikvanger van de omgeving. Een gondelbaan, de Salvenbahn, brengt je in twee delen in minder dan een halfuur bijna naar de top op ongeveer 1.828 meter. Daar heb je een panorama van 360 graden, van de Wilder Kaiser en de Hohe Tauern met de Großglockner tot de Kitzbüheler Alpen. Op de top staat het Salvenkirchlein, een bedevaartskerkje uit 1777 op ongeveer 1.829 meter hoogte, dat geldt als de hoogstgelegen bedevaartskerk van Oostenrijk.\n\nIn het dorp zelf kun je in de late lente tot en met de zomer terecht in het vrijetijdspark Salvenaland, met een zwemmeer en een minigolfbaan, wat vooral voor kinderen een welkome afwisseling is. In de winter vertrekken in Hopfgarten de liften naar de pistes van de SkiWelt, zodat je ook van hieruit een skidag aan de andere kant van het gebied kunt maken.",
+   "en": "Hopfgarten im Brixental lies at roughly 620 metres above sea level at the foot of the Hohe Salve, at the entrance to the Brixental, between Wörgl and Kitzbühel. It is a market municipality and one of the villages of the SkiWelt Wilder Kaiser-Brixental ski area. The most eye-catching sight is the twin-towered Baroque church from the eighteenth century, dedicated to Saints James and Leonard. The village is a pleasant place for a day out from Niederau, in both winter and summer.\n\nThe Hohe Salve is the showpiece of the area. A gondola, the Salvenbahn, takes you in two sections in under half an hour almost to the top at about 1,828 metres. There you get a 360-degree panorama, from the Wilder Kaiser and the Hohe Tauern with the Grossglockner to the Kitzbühel Alps. On the summit stands the Salvenkirchlein, a pilgrimage chapel from 1777 at about 1,829 metres, regarded as the highest-lying pilgrimage church in Austria.\n\nIn the village itself, from late spring through summer you can visit the leisure park Salvenaland, with a bathing lake and a mini-golf course, a welcome change especially for children. In winter the lifts to the slopes of the SkiWelt start from Hopfgarten, so from here too you can make a ski day on the other side of the area.",
+   "de": "Hopfgarten im Brixental liegt auf etwa 620 Metern Seehöhe am Fuß der Hohen Salve, am Eingang des Brixentals, zwischen Wörgl und Kitzbühel. Es ist eine Marktgemeinde und einer der Orte des Skigebiets SkiWelt Wilder Kaiser-Brixental. Am meisten fällt die doppeltürmige Barockkirche aus dem achtzehnten Jahrhundert auf, die den Heiligen Jakobus und Leonhard geweiht ist. Der Ort ist ein angenehmes Ziel für einen Tag von Niederau aus, im Winter wie im Sommer.\n\nDie Hohe Salve ist der Blickfang der Umgebung. Eine Gondelbahn, die Salvenbahn, bringt Gäste in zwei Sektionen in weniger als einer halben Stunde fast bis zum Gipfel auf etwa 1.828 Meter. Dort bietet sich ein 360-Grad-Panorama vom Wilden Kaiser und den Hohen Tauern mit dem Großglockner bis zu den Kitzbüheler Alpen. Auf dem Gipfel steht das Salvenkirchlein, eine Wallfahrtskirche von 1777 auf rund 1.829 Metern, die als höchstgelegene Wallfahrtskirche Österreichs gilt. Im Sommer kann man hinauf- oder hinabwandern oder Wandern und Bahnfahrt kombinieren.\n\nIm Ort selbst lädt von Spätfrühling bis Sommer der Freizeitpark Salvenaland mit Badesee und Minigolfanlage ein, eine willkommene Abwechslung besonders für Kinder. Im Winter starten in Hopfgarten die Lifte zu den Pisten der SkiWelt, sodass man auch von hier aus einen Skitag auf der anderen Seite des Gebiets verbringen kann. Bitte vorab die aktuellen Betriebszeiten der Bergbahn und des Parks prüfen, denn sie unterscheiden sich je nach Saison."
+  },
+  "highlights": {
+   "nl": [
+    "Salvenbahn naar de Hohe Salve (ca. 1.828 m) met panorama van 360 graden",
+    "Salvenkirchlein, bedevaartskerkje uit 1777 bij de top",
+    "Skiën in de SkiWelt Wilder Kaiser-Brixental (winter)",
+    "Salvenaland met zwemmeer en minigolf (late lente tot zomer)",
+    "Barokke kerk met twee torens in het dorp"
+   ],
+   "en": [
+    "Salvenbahn up the Hohe Salve (about 1,828 m) with a 360-degree panorama",
+    "Salvenkirchlein, a pilgrimage chapel from 1777 near the summit",
+    "Ski in the SkiWelt Wilder Kaiser-Brixental (winter)",
+    "Salvenaland with bathing lake and mini golf (late spring to summer)",
+    "Twin-towered Baroque church in the village"
+   ],
+   "de": [
+    "Salvenbahn auf die Hohe Salve (ca. 1.828 m) mit 360-Grad-Panorama",
+    "Salvenkirchlein, Wallfahrtskirche von 1777 nahe dem Gipfel",
+    "Skifahren in der SkiWelt Wilder Kaiser-Brixental (Winter)",
+    "Salvenaland mit Badesee und Minigolf (Spätfrühling bis Sommer)",
+    "Doppeltürmige Barockkirche im Ort"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 30 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan door het Brixental richting Kitzbühel. Schatting.",
+   "en": "About 30 minutes by car from Niederau: via Oberau to Wörgl, then through the Brixental towards Kitzbühel. Estimate.",
+   "de": "Etwa 30 Minuten Autofahrt ab Niederau: über Oberau nach Wörgl, dann durchs Brixental Richtung Kitzbühel. Schätzung."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die willen skiën of wandelen met uitzicht.",
+   "en": "Suits families who want to ski or hike with views.",
+   "de": "Passt zu Familien, die Skifahren oder Wandern mit Aussicht möchten."
+  },
+  "season": {
+   "nl": "Hele jaar; winter voor ski, zomer voor wandelen en fietsen.",
+   "en": "All year; winter for skiing, summer for hiking and cycling.",
+   "de": "Ganzjährig; Winter zum Skifahren, Sommer zum Wandern und Radeln."
+  },
+  "drive_min": 30,
+  "elevation_m": 620,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoort Hopfgarten bij een skigebied?",
+     "en": "Is Hopfgarten part of a ski area?",
+     "de": "Gehört Hopfgarten zu einem Skigebiet?"
+    },
+    "a": {
+     "nl": "Ja, het is een van de plaatsen van de SkiWelt Wilder Kaiser-Brixental.",
+     "en": "Yes, it is one of the villages of SkiWelt Wilder Kaiser-Brixental.",
+     "de": "Ja, es ist einer der Orte der SkiWelt Wilder Kaiser-Brixental."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is de Hohe Salve?",
+     "en": "What is the Hohe Salve?",
+     "de": "Was ist die Hohe Salve?"
+    },
+    "a": {
+     "nl": "Een uitzichtberg (ca. 1.828 m) boven Hopfgarten, met een gondelbaan en het Salvenkirchlein bij de top.",
+     "en": "A viewpoint mountain (about 1,828 m) above Hopfgarten, with a gondola and the Salvenkirchlein near the summit.",
+     "de": "Ein Aussichtsberg (ca. 1.828 m) oberhalb von Hopfgarten mit Gondelbahn und dem Salvenkirchlein nahe dem Gipfel."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "itter",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Itter",
+   "en": "Itter",
+   "de": "Itter"
+  },
+  "tagline": {
+   "nl": "Klein dorp met Schloss Itter in het Brixental",
+   "en": "Small village with Schloss Itter in the Brixental",
+   "de": "Kleines Dorf mit Schloss Itter im Brixental"
+  },
+  "intro": {
+   "nl": "Itter is een klein dorp in het Brixental, tussen Wörgl en Hopfgarten. Het wordt vooral genoemd vanwege Schloss Itter, dat op ongeveer 720 meter hoogte ligt. De burcht bestaat al sinds minstens de dertiende eeuw, werd in 1532 herbouwd, verviel later tot een ruïne en werd in de negentiende eeuw opnieuw opgebouwd. Tegenwoordig wordt het bewoond. Het kasteel is privébezit en niet voor het publiek geopend, dus plan er geen bezoek op in, maar zie het als een stukje geschiedenis langs de route.\n\nHet verhaal van het kasteel is het bekendst uit de Tweede Wereldoorlog. In 1943 maakten de nazi's er een gevangenis van voor Franse prominenten. Op 5 mei 1945, slechts drie dagen voor het officiële einde van de oorlog in Europa, vond er het Gevecht om Schloss Itter plaats. Amerikaanse soldaten en Wehrmachtsoldaten die zich bij het Oostenrijkse verzet hadden aangesloten, streden toen tegen leden van de Waffen-SS. Dat wordt gezien als een van de weinige keren dat Amerikanen en Duitsers in de Tweede Wereldoorlog als bondgenoten vochten.\n\nVoor een uitstapje vanuit Niederau past Itter goed als korte stop op een rit door het Brixental, bijvoorbeeld in combinatie met Hopfgarten, dat even verderop ligt. Het dorp zelf is rustig en landelijk, met weinig voorzieningen voor toeristen, dus je plant er geen volledige dag.",
+   "en": "Itter is a small village in the Brixental, between Wörgl and Hopfgarten. It is mainly mentioned because of Schloss Itter, which stands at about 720 metres above sea level. The castle has existed since at least the thirteenth century, was rebuilt in 1532, later fell into ruin and was rebuilt again in the nineteenth century. Today it is inhabited. The castle is privately owned and not open to the public, so do not plan a visit, but see it as a piece of history along the route.\n\nThe castle's story is best known from the Second World War. In 1943 the Nazis turned it into a prison for prominent French detainees. On 5 May 1945, only three days before the official end of the war in Europe, the Battle for Castle Itter took place. American soldiers and Wehrmacht soldiers who had joined the Austrian resistance then fought against members of the Waffen-SS. This is regarded as one of the very few occasions in the Second World War when Americans and Germans fought as allies.\n\nFor an outing from Niederau, Itter fits well as a short stop on a drive through the Brixental, for example combined with Hopfgarten, which lies a little further on. The village itself is quiet and rural, with few facilities for tourists, so you would not plan a whole day here.",
+   "de": "Itter ist ein kleines Dorf im Brixental, zwischen Wörgl und Hopfgarten. Bekannt ist es vor allem durch Schloss Itter, das auf etwa 720 Metern Seehöhe liegt. Die Burg besteht seit mindestens dem dreizehnten Jahrhundert, wurde 1532 neu aufgebaut, verfiel später zur Ruine und wurde im neunzehnten Jahrhundert wieder errichtet. Heute ist sie bewohnt. Das Schloss ist in Privatbesitz und nicht öffentlich zugänglich; man sollte also keinen Besuch einplanen, sondern es als Stück Geschichte am Weg betrachten.\n\nDie Geschichte des Schlosses ist vor allem aus dem Zweiten Weltkrieg bekannt. 1943 machten die Nationalsozialisten daraus ein Gefängnis für prominente Franzosen. Am 5. Mai 1945, nur drei Tage vor dem offiziellen Kriegsende in Europa, fand hier das Gefecht um Schloss Itter statt. Amerikanische Soldaten und Wehrmachtsangehörige, die sich dem österreichischen Widerstand angeschlossen hatten, kämpften damals gegen Angehörige der Waffen-SS. Es gilt als einer der wenigen Fälle im Zweiten Weltkrieg, in denen Amerikaner und Deutsche als Verbündete kämpften.\n\nFür einen Ausflug von Niederau aus passt Itter gut als kurzer Stopp bei einer Fahrt durchs Brixental, etwa in Kombination mit Hopfgarten, das ein Stück weiter liegt. Der Ort selbst ist ruhig und ländlich, mit wenig touristischer Infrastruktur, einen ganzen Tag verbringt man hier also nicht. Wer sich für Geschichte interessiert, kann die Ereignisse von 1945 vorab nachlesen, damit die Landschaft Bedeutung bekommt."
+  },
+  "highlights": {
+   "nl": [
+    "Schloss Itter en zijn geschiedenis (privébezit, niet te bezichtigen)",
+    "Het gevecht van 5 mei 1945 vooraf nalezen",
+    "Rustige wandeling in de omgeving",
+    "Korte stop op de route door het Brixental, met Hopfgarten"
+   ],
+   "en": [
+    "Schloss Itter and its history (private property, not open to visitors)",
+    "Read up beforehand on the battle of 5 May 1945",
+    "Quiet walk in the surroundings",
+    "Short stop on the route through the Brixental, with Hopfgarten"
+   ],
+   "de": [
+    "Schloss Itter und seine Geschichte (Privatbesitz, nicht zu besichtigen)",
+    "Das Gefecht vom 5. Mai 1945 vorab nachlesen",
+    "Ruhiger Spaziergang in der Umgebung",
+    "Kurzer Stopp auf der Route durchs Brixental, mit Hopfgarten"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 25 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan het Brixental in. Schatting.",
+   "en": "About 25 minutes by car from Niederau: via Oberau to Wörgl, then into the Brixental. Estimate.",
+   "de": "Etwa 25 Minuten Autofahrt ab Niederau: über Oberau nach Wörgl, dann ins Brixental. Schätzung."
+  },
+  "best_for": {
+   "nl": "Past bij geschiedenisliefhebbers en als korte tussenstop.",
+   "en": "Suits history fans and as a short stopover.",
+   "de": "Passt zu Geschichtsinteressierten und als kurzer Zwischenstopp."
+  },
+  "season": {
+   "nl": "Hele jaar, als korte stop.",
+   "en": "All year, as a short stop.",
+   "de": "Ganzjährig, als kurzer Stopp."
+  },
+  "drive_min": 25,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom is Itter bekend?",
+     "en": "Why is Itter known?",
+     "de": "Wofür ist Itter bekannt?"
+    },
+    "a": {
+     "nl": "Vooral door Schloss Itter en het gevecht van 5 mei 1945, toen Amerikaanse en Duitse soldaten samen tegen de Waffen-SS vochten.",
+     "en": "Mainly for Schloss Itter and the battle of 5 May 1945, when American and German soldiers fought together against the Waffen-SS.",
+     "de": "Vor allem durch Schloss Itter und das Gefecht vom 5. Mai 1945, als amerikanische und deutsche Soldaten gemeinsam gegen die Waffen-SS kämpften."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je Schloss Itter bezoeken?",
+     "en": "Can you visit Schloss Itter?",
+     "de": "Kann man Schloss Itter besichtigen?"
+    },
+    "a": {
+     "nl": "Nee, het kasteel is privébezit en niet voor het publiek geopend.",
+     "en": "No, the castle is privately owned and not open to the public.",
+     "de": "Nein, das Schloss ist in Privatbesitz und nicht öffentlich zugänglich."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "brixen-im-thale",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Brixen im Thale",
+   "en": "Brixen im Thale",
+   "de": "Brixen im Thale"
+  },
+  "tagline": {
+   "nl": "Dorp op het hoogste punt van het Brixental, met Filzalmsee",
+   "en": "Village at the highest point of the Brixental, with the Filzalmsee",
+   "de": "Dorf am höchsten Punkt des Brixentals, mit Filzalmsee"
+  },
+  "intro": {
+   "nl": "Brixen im Thale ligt op ongeveer 794 meter hoogte en vormt het hoogste punt van het Brixental, in de Kitzbüheler Alpen. De gemeente heeft zo'n 2.700 inwoners en beslaat ongeveer 31 vierkante kilometer. Naast het dorp zelf horen ook de buurtschappen Feuring, Hof, Lauterbach en Sonnberg erbij. Het is een bekende toeristische plaats met een uitgebreid aanbod, en ligt een stuk zuidelijker in het dal dan Hopfgarten en Itter, aan de voet van de Hohe Salve.\n\nIn de winter is er rond de Hohe Salve een pittig skigebied, dat deel uitmaakt van de SkiWelt Wilder Kaiser-Brixental. In het dorp zelf zijn zwembaden en natuurlijke badgelegenheden. Boven het dorp ligt het wandelgebied Hochbrixen, met als populair doel de ErlebnisWelt Filzalmsee. Daar vind je het meer zelf en veel te doen voor alle leeftijden, waaronder een waadbad in het veen en een waterspeelplaats, wat het een aantrekkelijk gezinsdoel maakt. Controleer vooraf de actuele openingstijden en wat er per seizoen mogelijk is.\n\nEen tweede bezienswaardigheid is de Brixner Stadl, een mooie houten schuur uit de negentiende eeuw die nu als cultureel centrum wordt gebruikt, met concerten, tentoonstellingen en andere evenementen. De hele omgeving leent zich bovendien voor wandelen en fietsen, met tal van berg- en themawandelingen, en de Hohe Salve, de hoogste top van de Kitzbüheler Alpen, biedt een weids uitzicht.",
+   "en": "Brixen im Thale lies at about 794 metres above sea level and forms the highest point of the Brixental, in the Kitzbühel Alps. The municipality has around 2,700 residents and covers about 31 square kilometres. Besides the village itself it includes the hamlets of Feuring, Hof, Lauterbach and Sonnberg. It is a well-known tourist resort with a wide range of things to do, and lies further south in the valley than Hopfgarten and Itter, at the foot of the Hohe Salve.\n\nIn winter there is a demanding ski area around the Hohe Salve, part of the SkiWelt Wilder Kaiser-Brixental. In the village itself there are swimming pools and natural bathing spots. Above the village lies the Hochbrixen hiking area, whose popular goal is the ErlebnisWelt Filzalmsee. There you find the lake itself and plenty to do for all ages, including a peat-bog wading pool and a water playground, which makes it an attractive family destination. Check beforehand the current opening times and what is possible in each season.\n\nA second sight is the Brixner Stadl, a fine wooden barn from the nineteenth century that is now used as a cultural centre, with concerts, exhibitions and other events. The whole surrounding area also suits hiking and cycling, with numerous mountain and themed walks, and the Hohe Salve, the highest peak of the Kitzbühel Alps, offers a far-reaching view.",
+   "de": "Brixen im Thale liegt auf etwa 794 Metern Seehöhe und bildet den höchsten Punkt des Brixentals, in den Kitzbüheler Alpen. Die Gemeinde hat rund 2.700 Einwohner und eine Fläche von etwa 31 Quadratkilometern. Neben dem Hauptort gehören auch die Ortsteile Feuring, Hof, Lauterbach und Sonnberg dazu. Es ist ein bekannter Urlaubsort mit vielfältigem Angebot und liegt weiter südlich im Tal als Hopfgarten und Itter, am Fuß der Hohen Salve.\n\nIm Winter gibt es rund um die Hohe Salve ein anspruchsvolles Skigebiet, das zur SkiWelt Wilder Kaiser-Brixental gehört. Im Ort selbst finden sich Schwimmbäder und Naturbadegelegenheiten. Oberhalb des Dorfes liegt das Wandergebiet Hochbrixen mit dem beliebten Ziel ErlebnisWelt Filzalmsee. Dort findet man den See selbst und viel für jedes Alter, darunter ein Moor-Kneippbecken und einen Wasserspielplatz, was ihn zu einem attraktiven Familienziel macht. Bitte vorab die aktuellen Öffnungszeiten und das saisonal Mögliche prüfen.\n\nEine weitere Sehenswürdigkeit ist der Brixner Stadl, ein schöner Holzstadel aus dem neunzehnten Jahrhundert, der heute als Kulturzentrum mit Konzerten, Ausstellungen und anderen Veranstaltungen genutzt wird. Die ganze Umgebung eignet sich außerdem zum Wandern und Radfahren, mit zahlreichen Berg- und Themenwanderungen, und die Hohe Salve, der höchste Gipfel der Kitzbüheler Alpen, bietet eine weite Aussicht. Mit der Bergbahn erreichbar, eröffnet sie ein 360-Grad-Panorama vom Wilden Kaiser und den Hohen Tauern mit dem Großglockner bis zu den Kitzbüheler Alpen."
+  },
+  "highlights": {
+   "nl": [
+    "Skiën rond de Hohe Salve in de SkiWelt Wilder Kaiser-Brixental (winter)",
+    "ErlebnisWelt Filzalmsee in het wandelgebied Hochbrixen",
+    "Waadbad in het veen en waterspeelplaats voor kinderen",
+    "Brixner Stadl: cultureel centrum in een houten schuur uit de 19e eeuw",
+    "Zwembaden en natuurlijke badgelegenheden in het dorp"
+   ],
+   "en": [
+    "Ski around the Hohe Salve in the SkiWelt Wilder Kaiser-Brixental (winter)",
+    "ErlebnisWelt Filzalmsee in the Hochbrixen hiking area",
+    "Peat-bog wading pool and water playground for children",
+    "Brixner Stadl: cultural centre in a nineteenth-century wooden barn",
+    "Swimming pools and natural bathing spots in the village"
+   ],
+   "de": [
+    "Skifahren rund um die Hohe Salve in der SkiWelt Wilder Kaiser-Brixental (Winter)",
+    "ErlebnisWelt Filzalmsee im Wandergebiet Hochbrixen",
+    "Moor-Kneippbecken und Wasserspielplatz für Kinder",
+    "Brixner Stadl: Kulturzentrum in einem Holzstadel aus dem 19. Jahrhundert",
+    "Schwimmbäder und Naturbadegelegenheiten im Ort"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan door het Brixental. Schatting.",
+   "en": "About 35 minutes by car from Niederau: via Oberau to Wörgl, then through the Brixental. Estimate.",
+   "de": "Etwa 35 Minuten Autofahrt ab Niederau: über Oberau nach Wörgl, dann durchs Brixental. Schätzung."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die skiën, wandelen of een waterspeelplaats zoeken.",
+   "en": "Suits families who ski, hike or want a water playground.",
+   "de": "Passt zu Familien, die Ski fahren, wandern oder einen Wasserspielplatz suchen."
+  },
+  "season": {
+   "nl": "Hele jaar; winter voor ski, zomer voor wandelen.",
+   "en": "All year; winter for skiing, summer for hiking.",
+   "de": "Ganzjährig; Winter zum Skifahren, Sommer zum Wandern."
+  },
+  "drive_min": 35,
+  "elevation_m": 794,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoort Brixen im Thale bij een skigebied?",
+     "en": "Is Brixen im Thale part of a ski area?",
+     "de": "Gehört Brixen im Thale zu einem Skigebiet?"
+    },
+    "a": {
+     "nl": "Ja, het hoort bij de SkiWelt Wilder Kaiser-Brixental.",
+     "en": "Yes, it belongs to the SkiWelt Wilder Kaiser-Brixental.",
+     "de": "Ja, es gehört zur SkiWelt Wilder Kaiser-Brixental."
+    }
+   },
+   {
+    "q": {
+     "nl": "Welke berg ligt boven het dorp?",
+     "en": "Which mountain is above the village?",
+     "de": "Welcher Berg liegt oberhalb des Dorfes?"
+    },
+    "a": {
+     "nl": "De Hohe Salve, de hoogste top van de Kitzbüheler Alpen.",
+     "en": "The Hohe Salve, the highest peak of the Kitzbühel Alps.",
+     "de": "Die Hohe Salve, der höchste Gipfel der Kitzbüheler Alpen."
+    }
+   }
+  ],
+  "verified": true
+ }
+]

@@ -1,0 +1,1407 @@
+[
+ {
+  "id": "s41",
+  "drop": true,
+  "drop_reason": "Nordic-walkingaanbod in Niederau niet bevestigd in zoekresultaten",
+  "place": "niederau",
+  "slug_en": "nordic-walking-wildschoenau",
+  "slug_de": "nordic-walking-wildschoenau",
+  "title": {
+   "nl": "Nordic Walking in de Wildschönau",
+   "en": "Nordic walking in the Wildschönau",
+   "de": "Nordic Walking in der Wildschönau"
+  },
+  "tagline": {
+   "nl": "Wandelen met stokken door het dal, voor jong en oud",
+   "en": "Walking with poles through the valley, for young and old",
+   "de": "Wandern mit Stöcken durchs Tal, für Jung und Alt"
+  },
+  "intro": {
+   "nl": "Nordic walking is wandelen met speciale stokken en traint naast de benen ook het bovenlichaam. Rond Niederau lopen gemarkeerde routes door het dal die zich goed lenen voor een rustige training, ook voor gezinnen en grootouders. Vanuit het dorp kom je snel op de paden met uitzicht over het dal.\n\nWie de techniek niet kent, kan zich laten begeleiden; er zouden geleide groepen kunnen lopen, vraag het toeristenbureau naar dagen en tijden. Stokken zijn mogelijk te huur, informeer naar de kosten. Reken op ca. 1,5 tot 2 uur voor een gemiddelde route van 5 tot 10 km. Een goede manier om in beweging te komen zonder zware stijgingen.",
+   "en": "Nordic walking is walking with special poles and works the upper body as well as the legs. Around Niederau, marked routes run through the valley and suit a relaxed workout, including for families and grandparents. From the village you quickly reach paths with views over the valley.\n\nIf you do not know the technique, you can be guided; guided groups may run, so ask the tourist office about days and times. Poles may be available to rent, so ask about the cost. Allow about 1.5 to 2 hours for an average route of 5 to 10 km. A good way to get moving without heavy climbs.",
+   "de": "Nordic Walking ist Wandern mit speziellen Stöcken und trainiert neben den Beinen auch den Oberkörper. Rund um Niederau führen markierte Routen durchs Tal, die sich für ein entspanntes Training eignen, auch für Familien und Großeltern. Vom Dorf aus erreichen Sie schnell Wege mit Blick über das Tal.\n\nWer die Technik nicht kennt, kann sich begleiten lassen; möglicherweise gibt es geführte Gruppen, fragen Sie das Tourismusbüro nach Tagen und Zeiten. Stöcke lassen sich eventuell mieten, erkundigen Sie sich nach den Kosten. Rechnen Sie mit ca. 1,5 bis 2 Stunden für eine durchschnittliche Strecke von 5 bis 10 km. Eine gute Art, in Bewegung zu kommen, ohne starke Anstiege."
+  },
+  "tips": {
+   "nl": [
+    "Laat je de techniek tonen; dat maakt de training effectiever.",
+    "Begin vroeg om de warmte te vermijden.",
+    "De routes zijn ook geschikt als gewone wandeling."
+   ],
+   "en": [
+    "Have the technique shown to you; it makes the workout more effective.",
+    "Start early to avoid the heat.",
+    "The routes also work as ordinary walks."
+   ],
+   "de": [
+    "Lassen Sie sich die Technik zeigen; das macht das Training effektiver.",
+    "Starten Sie früh, um der Hitze zu entgehen.",
+    "Die Strecken eignen sich auch als normale Spaziergänge."
+   ]
+  },
+  "practical": {
+   "nl": "De routes beginnen in en rond Niederau, dus je kunt er te voet naartoe. Het toeristenbureau in het dorp geeft kaarten en informatie.",
+   "en": "The routes start in and around Niederau, so you can reach them on foot. The tourist office in the village provides maps and information.",
+   "de": "Die Routen beginnen in und um Niederau, Sie erreichen sie also zu Fuß. Das Tourismusbüro im Dorf gibt Karten und Informationen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From approx. 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 tot 2 uur",
+    "en": "Approx. 1.5 to 2 hours",
+    "de": "Ca. 1,5 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Stokverhuur mogelijk; informeer vooraf",
+    "en": "Pole rental possible; check beforehand",
+    "de": "Stockverleih möglich; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau zelf",
+    "en": "In Niederau itself",
+    "de": "In Niederau selbst"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau (Tirol)",
+   "en": "Niederau, Wildschönau (Tyrol)",
+   "de": "Niederau, Wildschönau (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kan ik Nordic-walkingstokken huren in Niederau?",
+     "en": "Can I rent Nordic walking poles in Niederau?",
+     "de": "Kann ich in Niederau Nordic-Walking-Stöcke mieten?"
+    },
+    "a": {
+     "nl": "Mogelijk; vraag het toeristenbureau of je accommodatie naar de mogelijkheden en kosten.",
+     "en": "Possibly; ask the tourist office or your accommodation about options and costs.",
+     "de": "Möglicherweise; fragen Sie das Tourismusbüro oder Ihre Unterkunft nach Möglichkeiten und Kosten."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s6",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "markbachjoch-summer-hike",
+  "slug_de": "markbachjoch-sommerwanderung",
+  "title": {
+   "nl": "Wandeling Markbachjoch",
+   "en": "Markbachjoch hike",
+   "de": "Wanderung Markbachjoch"
+  },
+  "tagline": {
+   "nl": "De bekendste bergwandeling vanuit Niederau, met bergbaan terug of omhoog",
+   "en": "Niederau's best-known mountain hike, with a lift up or down",
+   "de": "Die bekannteste Bergwanderung ab Niederau, mit Bahn hinauf oder hinab"
+  },
+  "intro": {
+   "nl": "Het Markbachjoch is het wandelgebied dat je vanuit het centrum van Niederau met de Markbachjochbahn bereikt, een 8-persoons gondel. Vanaf het bergstation (ca. 1.500 m) beginnen rustige routes over alpenweiden met uitzicht op de Wilder Kaiser. In de buurt ligt de Holzalm, ook Käsealm genoemd, waar in de zomer kaasmaken te zien is en verse melk, alpenkaas en kleine gerechten worden geserveerd.\n\nJe kunt de bergbaan omhoog of omlaag nemen en de rest lopen, of de hele tocht te voet doen. Ervaren wandelaars lopen door naar het Feldalphorn. In 2026 draait de bergbaan in de zomer van 9 mei tot 18 oktober, doorgaans overdag. Het is ook een van de eenvoudigste plekken om met kinderen de bergen te proeven.",
+   "en": "The Markbachjoch is the hiking area you reach by the Markbachjochbahn, an eight-person gondola, from the centre of Niederau. From the mountain station (about 1,500 m), quiet routes lead across alpine pastures with views of the Wilder Kaiser. Nearby is the Holzalm, also called the Käsealm, where cheese-making can be watched in summer and fresh milk, alpine cheese and light snacks are served.\n\nYou can take the lift up or down and walk the rest, or do the whole trip on foot. Experienced hikers continue to the Feldalphorn. In 2026 the lift runs in summer from 9 May to 18 October, generally during the day. It is also one of the easiest places to introduce children to the mountains.",
+   "de": "Das Markbachjoch ist das Wandergebiet, das Sie mit der Markbachjochbahn, einer 8er-Gondel, direkt aus dem Zentrum von Niederau erreichen. Von der Bergstation (ca. 1.500 m) führen ruhige Wege über Almwiesen mit Blick auf den Wilden Kaiser. In der Nähe liegt die Holzalm, auch Käsealm genannt, wo im Sommer Käseherstellung zu sehen ist und frische Milch, Almkäse und kleine Gerichte serviert werden.\n\nSie können die Bahn hinauf oder hinab nehmen und den Rest gehen oder die ganze Tour zu Fuß machen. Geübte Wanderer gehen weiter zum Feldalphorn. 2026 fährt die Bahn im Sommer vom 9. Mai bis 18. Oktober, in der Regel tagsüber. Es ist auch einer der einfachsten Orte, um Kinder an die Berge heranzuführen."
+  },
+  "tips": {
+   "nl": [
+    "Gebruik de bergbaan op de heenweg of terugweg als de tocht te lang voor de kinderen is.",
+    "Wandelschoenen en een jas zijn aan te raden; boven wordt het sneller fris.",
+    "Probeer de alpenkaas op de Holzalm (Käsealm)."
+   ],
+   "en": [
+    "Use the lift on the way up or down if the full trip is too long for the children.",
+    "Walking shoes and a jacket are advisable; it gets cooler up top.",
+    "Try the alpine cheese at the Holzalm (Käsealm)."
+   ],
+   "de": [
+    "Nutzen Sie die Bahn bergauf oder bergab, wenn die ganze Tour für die Kinder zu lang ist.",
+    "Wanderschuhe und Jacke sind empfehlenswert; oben wird es schneller kühl.",
+    "Probieren Sie den Almkäse auf der Holzalm (Käsealm)."
+   ]
+  },
+  "practical": {
+   "nl": "De dalstation van de Markbachjochbahn ligt in het centrum van Niederau, dus je bent er te voet of met de auto in enkele minuten. Controleer de actuele dienstregeling.",
+   "en": "The valley station of the Markbachjochbahn is in the centre of Niederau, so it is a few minutes away on foot or by car. Check the current timetable.",
+   "de": "Die Talstation der Markbachjochbahn liegt im Zentrum von Niederau, Sie sind also in wenigen Minuten zu Fuß oder mit dem Auto dort. Prüfen Sie den aktuellen Fahrplan."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From approx. 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur, afhankelijk van de route",
+    "en": "Approx. 2 to 4 hours depending on the route",
+    "de": "Ca. 2 bis 4 Stunden je nach Route"
+   },
+   "price": {
+    "nl": "Bergbaan betaald; wandelen gratis",
+    "en": "Lift is charged; walking is free",
+    "de": "Bergbahn kostenpflichtig; Wandern kostenlos"
+   },
+   "distance": {
+    "nl": "In Niederau zelf",
+    "en": "In Niederau itself",
+    "de": "In Niederau selbst"
+   },
+   "season": {
+    "nl": "Zomer (2026: 9 mei tot 18 oktober)",
+    "en": "Summer (2026: 9 May to 18 October)",
+    "de": "Sommer (2026: 9. Mai bis 18. Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau (Tirol)",
+   "en": "Niederau, Wildschönau (Tyrol)",
+   "de": "Niederau, Wildschönau (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je het Markbachjoch ook zonder te klimmen bereiken?",
+     "en": "Can you reach the Markbachjoch without climbing?",
+     "de": "Kann man das Markbachjoch ohne Aufstieg erreichen?"
+    },
+    "a": {
+     "nl": "Ja, met de Markbachjochbahn vanuit Niederau; in 2026 rijdt die in de zomer van 9 mei tot 18 oktober.",
+     "en": "Yes, with the Markbachjochbahn from Niederau; in 2026 it runs in summer from 9 May to 18 October.",
+     "de": "Ja, mit der Markbachjochbahn ab Niederau; 2026 fährt sie im Sommer vom 9. Mai bis 18. Oktober."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "w24",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "winter-hike-markbachjoch-niederau",
+  "slug_de": "winterwanderung-markbachjoch-niederau",
+  "title": {
+   "nl": "Winterwandeling Markbachjoch naar Niederau",
+   "en": "Winter hike from the Markbachjoch to Niederau",
+   "de": "Winterwanderung Markbachjoch nach Niederau"
+  },
+  "tagline": {
+   "nl": "Met de bergbaan omhoog en door de winterse natuur terug naar het dal",
+   "en": "Ride up and walk back down to the valley through winter scenery",
+   "de": "Mit der Bahn hinauf und durch die Winterlandschaft zurück ins Tal"
+  },
+  "intro": {
+   "nl": "Deze winterwandeling begint bij het bergstation van de Markbachjochbahn en loopt vrijwel geheel bergafwaarts terug naar Niederau. De route is ongeveer 10,5 km lang, kost zo'n 4 uur en wordt als gemiddeld moeilijk beschreven, met circa 676 m daling.\n\nJe loopt over zachte hellingen en door bosgedeelten, langs authentieke boerderijen in Penningdörfl en Rotenau en over weiden terug naar het dal. Onderweg zijn er horecagelegenheden, zoals Leam Wirt, en in Niederau zijn er meerdere eetgelegenheden. Het is een afwisselende tocht, maar ze vraagt wel enige conditie en geschikt schoeisel.",
+   "en": "This winter hike starts at the mountain station of the Markbachjochbahn and runs almost entirely downhill back to Niederau. The route is about 10.5 km long, takes around 4 hours and is described as moderately difficult, with roughly 676 m of descent.\n\nYou walk over gentle slopes and through sections of forest, past traditional farmhouses in Penningdörfl and Rotenau, and across meadows back to the valley. There are places to eat along the way, such as Leam Wirt, and several in Niederau. It is a varied walk, but it does require some fitness and suitable footwear.",
+   "de": "Diese Winterwanderung beginnt an der Bergstation der Markbachjochbahn und führt fast durchgehend bergab zurück nach Niederau. Die Strecke ist etwa 10,5 km lang, dauert rund 4 Stunden und wird als mittelschwer beschrieben, mit rund 676 m Abstieg.\n\nSie gehen über sanfte Hänge und durch Waldabschnitte, an urigen Bauernhöfen in Penningdörfl und Rotenau vorbei und über Wiesen zurück ins Tal. Unterwegs gibt es Einkehrmöglichkeiten wie den Leam Wirt, und in Niederau mehrere weitere. Es ist eine abwechslungsreiche Tour, die aber etwas Kondition und geeignetes Schuhwerk verlangt."
+  },
+  "tips": {
+   "nl": [
+    "Draag stevige winterschoenen en kleed je warm; kijk vooraf naar de sneeuwcondities.",
+    "Neem iets te drinken en een snack mee, ook al zijn er onderweg herbergen.",
+    "Controleer vooraf of de bergbaan en de route open zijn."
+   ],
+   "en": [
+    "Wear sturdy winter shoes and dress warmly; check snow conditions beforehand.",
+    "Bring a drink and a snack, even though there are inns along the way.",
+    "Check beforehand that the lift and the route are open."
+   ],
+   "de": [
+    "Tragen Sie feste Winterschuhe und kleiden Sie sich warm; prüfen Sie vorab die Schneelage.",
+    "Nehmen Sie etwas zu trinken und einen Snack mit, auch wenn es unterwegs Gasthöfe gibt.",
+    "Prüfen Sie vorab, ob Bahn und Weg geöffnet sind."
+   ]
+  },
+  "practical": {
+   "nl": "De dalstation van de Markbachjochbahn ligt in het centrum van Niederau; je neemt de bergbaan omhoog en loopt terug naar je vertrekpunt.",
+   "en": "The valley station of the Markbachjochbahn is in the centre of Niederau; you take the lift up and walk back to where you started.",
+   "de": "Die Talstation der Markbachjochbahn liegt im Zentrum von Niederau; Sie fahren mit der Bahn hinauf und gehen zurück zum Ausgangspunkt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kinderen vanaf ca. 8 jaar met conditie",
+    "en": "Children from approx. 8 with some stamina",
+    "de": "Kinder ab ca. 8 Jahren mit Kondition"
+   },
+   "duration": {
+    "nl": "Ca. 4 uur",
+    "en": "Approx. 4 hours",
+    "de": "Ca. 4 Stunden"
+   },
+   "price": {
+    "nl": "Bergbaan betaald; informeer naar tarieven",
+    "en": "Lift is charged; ask about fares",
+    "de": "Bergbahn kostenpflichtig; Preise erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau zelf",
+    "en": "In Niederau itself",
+    "de": "In Niederau selbst"
+   },
+   "season": {
+    "nl": "Winter (vooral december tot en met maart)",
+    "en": "Winter (mainly December to March)",
+    "de": "Winter (vor allem Dezember bis März)"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau (Tirol)",
+   "en": "Niederau, Wildschönau (Tyrol)",
+   "de": "Niederau, Wildschönau (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is de winterwandeling van het Markbachjoch naar Niederau?",
+     "en": "How long is the winter hike from the Markbachjoch to Niederau?",
+     "de": "Wie lang ist die Winterwanderung vom Markbachjoch nach Niederau?"
+    },
+    "a": {
+     "nl": "Ongeveer 10,5 km en zo'n 4 uur, vooral bergafwaarts; de route is gemiddeld moeilijk.",
+     "en": "About 10.5 km and around 4 hours, mostly downhill; the route is moderately difficult.",
+     "de": "Etwa 10,5 km und rund 4 Stunden, überwiegend bergab; die Strecke ist mittelschwer."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "w5",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "family-snowshoe-walk-niederau",
+  "slug_de": "schneeschuhwandern-familie-niederau",
+  "title": {
+   "nl": "Sneeuwschoenwandelen met het gezin",
+   "en": "Family snowshoe walk",
+   "de": "Schneeschuhwandern mit der Familie"
+  },
+  "tagline": {
+   "nl": "Door diepe sneeuw wandelen, ook buiten de gebaande paden",
+   "en": "Walk through deep snow, away from the beaten track",
+   "de": "Durch tiefen Schnee wandern, abseits der Pisten"
+  },
+  "intro": {
+   "nl": "Met sneeuwschoenen onder je winterlaarzen zak je veel minder diep weg in de sneeuw, zodat je ook buiten de gebaande paden kunt wandelen. Het is een rustige manier om de winterse Wildschönau te zien, zonder skivaardigheid en zonder haast.\n\nIn het dal worden begeleide sneeuwschoenwandelingen aangeboden, ongeveer drie keer per week, en ook avondtochten met hoofdlamp bij voldoende sneeuw. Voor gasten met de Wildschönau Card is deelname inbegrepen, evenals het huren van sneeuwschoenen bij deelnemende verhuurders. Voor kinderen is het een avontuur: sporen van wild zoeken en door onbetreden sneeuw ploegen. Vraag naar de leeftijdsgrens van de gekozen tocht.",
+   "en": "Snowshoes keep you from sinking deep into the snow, so you can walk well away from cleared paths. It is a quiet way to see the Wildschönau in winter, with no ski skills needed and no need to hurry.\n\nGuided snowshoe walks are offered in the valley, around three times a week, as well as evening walks with headlamps when there is enough snow. For guests with the Wildschönau Card, taking part is included, as is renting snowshoes from participating providers. For children it is an adventure: looking for animal tracks and ploughing through untouched snow. Ask about the age limit of the walk you choose.",
+   "de": "Mit Schneeschuhen sinkt man weit weniger tief in den Schnee ein und kann auch abseits gespurter Wege wandern. So erlebt man die winterliche Wildschönau ruhig und ohne Skikenntnisse.\n\nIm Tal werden geführte Schneeschuhwanderungen angeboten, etwa dreimal pro Woche, bei genug Schnee auch Abendtouren mit Stirnlampe. Für Gäste mit der Wildschönau Card ist die Teilnahme inklusive, ebenso der Schneeschuhverleih bei teilnehmenden Partnern. Für Kinder ist es ein kleines Abenteuer: Tierspuren suchen und durch unberührten Schnee stapfen. Fragen Sie nach der Altersgrenze der gewählten Tour."
+  },
+  "tips": {
+   "nl": [
+    "Kleed je in lagen en neem een droog stel handschoenen mee.",
+    "Let in de sneeuw op sporen van wild, zoals haas, vos of ree.",
+    "Vroeg op de dag is de sneeuw het mooist en is het rustiger.",
+    "Vraag bij de VVV naar de actuele begeleide tochten."
+   ],
+   "en": [
+    "Dress in layers and bring a dry pair of gloves.",
+    "Look out for animal tracks in the snow, such as hare, fox or deer.",
+    "The snow looks best early in the day, and it is quieter.",
+    "Ask the tourist office about current guided walks."
+   ],
+   "de": [
+    "Kleiden Sie sich in Schichten und nehmen Sie ein trockenes Paar Handschuhe mit.",
+    "Achten Sie im Schnee auf Tierspuren, etwa von Hase, Fuchs oder Reh.",
+    "Früh am Tag ist der Schnee am schönsten und es ist ruhiger.",
+    "Fragen Sie beim Tourismusverband nach den aktuellen geführten Touren."
+   ]
+  },
+  "practical": {
+   "nl": "De start hangt af van de gekozen tocht; vaak kun je vanuit Niederau te voet of met de auto beginnen. Informeer bij de VVV Wildschönau naar aanbod, tijden en verhuur.",
+   "en": "The starting point depends on the chosen walk; from Niederau you can often start on foot or after a short drive. Check offer, times and rental with the Wildschönau tourist office.",
+   "de": "Der Start hängt von der gewählten Tour ab; von Niederau aus geht es oft zu Fuß oder nach kurzer Fahrt los. Angebot, Zeiten und Verleih erfragen Sie beim Tourismusverband Wildschönau."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar, jongere kinderen niet te lang",
+    "en": "From about 6 years; keep it short for younger children",
+    "de": "Ab ca. 6 Jahren, für Jüngere eher kurz"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "About 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Huur en begeleide tochten: informeer vooraf",
+    "en": "Rental and guided walks: please enquire in advance",
+    "de": "Verleih und geführte Touren: bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Vanaf Niederau vaak direct of ca. 5–10 min rijden",
+    "en": "Often straight from Niederau or about 5–10 min by car",
+    "de": "Ab Niederau oft direkt oder ca. 5–10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Niederau en omgeving, Wildschönau",
+   "en": "Niederau and surroundings, Wildschönau",
+   "de": "Niederau und Umgebung, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je sneeuwschoenen huren in Niederau?",
+     "en": "Can you rent snowshoes in Niederau?",
+     "de": "Kann man in Niederau Schneeschuhe mieten?"
+    },
+    "a": {
+     "nl": "Ja, bij deelnemende verhuurders in de Wildschönau; met de Wildschönau Card is huur inbegrepen. Vraag vooraf naar maten voor kinderen.",
+     "en": "Yes, from participating providers in the Wildschönau; rental is included with the Wildschönau Card. Ask in advance about children's sizes.",
+     "de": "Ja, bei teilnehmenden Partnern in der Wildschönau; mit der Wildschönau Card ist der Verleih inklusive. Fragen Sie vorab nach Kindergrößen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s113",
+  "drop": true,
+  "drop_reason": "Bosmeditatie in Niederau niet bevestigd",
+  "place": "niederau",
+  "slug_en": "forest-meditation-wildschoenau",
+  "slug_de": "waldmeditation-wildschoenau",
+  "title": {
+   "nl": "Meditatie in het bos",
+   "en": "Forest meditation",
+   "de": "Meditation im Wald"
+  },
+  "tagline": {
+   "nl": "Een rustig uur tussen de bomen",
+   "en": "A quiet hour among the trees",
+   "de": "Eine ruhige Stunde zwischen den Bäumen"
+  },
+  "intro": {
+   "nl": "In de bossen rond Niederau is er gelegenheid voor een begeleide meditatie in de natuur. Je zit of staat op een rustige plek, richt je op de ademhaling en luistert naar wat het bos laat horen. Het is een rustig tegenwicht voor een vakantie vol actie.\n\nHet is vooral geschikt voor volwassenen en tieners die iets willen doen zonder prestatiedruk. De plek ligt op korte afstand van het dorp, vaak na een korte wandeling. Aanbieder, dag en voorwaarden kunnen wisselen, dus vraag bij de VVV of het hotel naar de actuele mogelijkheden. Draag gemakkelijke kleding en zet je telefoon op stil.",
+   "en": "In the woods around Niederau there is the chance to join a guided meditation in nature. You sit or stand in a quiet spot, focus on your breathing and listen to what the forest offers. It is a calm counterweight to a holiday full of action.\n\nIt mostly suits adults and teenagers who want something without performance pressure. The spot is close to the village, often after a short walk. Provider, day and conditions can change, so ask the tourist office or your hotel what is currently on offer. Wear comfortable clothes and put your phone on silent.",
+   "de": "In den Wäldern rund um Niederau gibt es die Möglichkeit zu einer geführten Meditation in der Natur. Man sitzt oder steht an einem ruhigen Platz, konzentriert sich auf den Atem und hört auf den Wald. Das ist ein ruhiger Ausgleich zu einem aktiven Urlaub.\n\nEs eignet sich vor allem für Erwachsene und Jugendliche, die etwas ohne Leistungsdruck machen möchten. Der Platz liegt nahe am Ort, oft nach einem kurzen Spaziergang. Anbieter, Tag und Bedingungen können wechseln; frag beim Tourismusverband oder im Hotel nach dem aktuellen Angebot. Trage bequeme Kleidung und stelle das Handy auf lautlos."
+  },
+  "tips": {
+   "nl": [
+    "Draag gemakkelijke kleding en stevige schoenen.",
+    "Zet je telefoon op stil.",
+    "Neem iets warms te drinken mee voor achteraf.",
+    "Vraag vooraf naar de actuele mogelijkheden."
+   ],
+   "en": [
+    "Wear comfortable clothes and sturdy shoes.",
+    "Put your phone on silent.",
+    "Bring a warm drink for afterwards.",
+    "Ask in advance about current options."
+   ],
+   "de": [
+    "Bequeme Kleidung und feste Schuhe tragen.",
+    "Das Handy auf lautlos stellen.",
+    "Ein warmes Getränk für danach mitnehmen.",
+    "Vorab nach den aktuellen Möglichkeiten fragen."
+   ]
+  },
+  "practical": {
+   "nl": "Het startpunt ligt vlak bij Niederau, vaak na een korte wandeling. Reserveren via de VVV of je hotel; vraag naar tijd en plek.",
+   "en": "The starting point is close to Niederau, often after a short walk. Book through the tourist office or your hotel; ask about time and place.",
+   "de": "Der Treffpunkt liegt nahe Niederau, oft nach einem kurzen Spaziergang. Anmeldung über den Tourismusverband oder das Hotel; nach Zeit und Ort fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Volwassenen en tieners",
+    "en": "Adults and teenagers",
+    "de": "Erwachsene und Jugendliche"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Vlak bij Niederau",
+    "en": "Close to Niederau",
+    "de": "Nahe Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "In of vlak bij Niederau",
+   "en": "In or close to Niederau",
+   "de": "In oder nahe Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is meditatie geschikt voor beginners?",
+     "en": "Is it suitable for beginners?",
+     "de": "Ist es für Anfänger geeignet?"
+    },
+    "a": {
+     "nl": "Ja, ervaring is in de regel niet nodig; vraag dit wel bij de aanbieder.",
+     "en": "Generally yes, no experience is usually needed; confirm with the provider.",
+     "de": "In der Regel ja, Erfahrung ist meist nicht nötig; beim Anbieter bestätigen lassen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s14",
+  "drop": true,
+  "drop_reason": "Zomers kinderprogramma Wastlhof niet bevestigd (alleen speelkamer/speeltuin genoemd)",
+  "place": "niederau",
+  "slug_en": "summer-kids-programme-wastlhof",
+  "slug_de": "sommer-kinderprogramm-wastlhof",
+  "title": {
+   "nl": "Kinderanimatie Wastlhof in de zomer",
+   "en": "Summer kids' programme at Wastlhof",
+   "de": "Kinderprogramm im Sommer im Wastlhof"
+  },
+  "tagline": {
+   "nl": "Speel- en knutselprogramma voor kinderen van Hotel Wastlhof",
+   "en": "Play and craft activities for children at Hotel Wastlhof",
+   "de": "Spiel- und Bastelangebot für Kinder im Hotel Wastlhof"
+  },
+  "intro": {
+   "nl": "Hotel Wastlhof in Niederau is een partner van deze site en richt zich op gezinnen. In de zomer heeft het hotel een kinderprogramma met spel, beweging en knutselen, in en rond het hotel.\n\nPrecieze tijden, leeftijdsgroepen en het aanbod van de week kunnen wisselen; deze pagina noemt daarom geen vaste dagen of prijzen. Vraag bij aankomst bij de receptie naar het actuele programma en of er Nederlandstalige begeleiding is. Het programma is bedoeld voor logerende gasten van het hotel.",
+   "en": "Hotel Wastlhof in Niederau is a partner of this site and caters for families. In summer the hotel runs a children's programme with games, exercise and crafts, in and around the hotel.\n\nExact times, age groups and the weekly offer can change, so this page names no fixed days or prices. Ask reception on arrival for the current programme and whether Dutch-speaking staff are available. The programme is intended for guests staying at the hotel.",
+   "de": "Das Hotel Wastlhof in Niederau ist Partner dieser Seite und auf Familien ausgerichtet. Im Sommer gibt es ein Kinderprogramm mit Spiel, Bewegung und Basteln, im und rund ums Haus.\n\nGenaue Zeiten, Altersgruppen und das Wochenangebot können wechseln; daher nennt diese Seite keine festen Tage oder Preise. Frag bei der Ankunft an der Rezeption nach dem aktuellen Programm und ob niederländischsprachige Betreuung möglich ist. Das Programm richtet sich an Hausgäste."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij aankomst naar het weekprogramma.",
+    "Neem kleding en schoenen mee die vies mogen worden.",
+    "Bespreek met het hotel wat het alternatief is bij slecht weer.",
+    "Meld je kinderen op tijd aan bij de receptie."
+   ],
+   "en": [
+    "Ask for the weekly programme on arrival.",
+    "Bring clothes and shoes that can get dirty.",
+    "Ask the hotel what the wet-weather alternative is.",
+    "Register your children in good time at reception."
+   ],
+   "de": [
+    "Frag bei Ankunft nach dem Wochenprogramm.",
+    "Nimm Kleidung und Schuhe mit, die schmutzig werden dürfen.",
+    "Erkundige dich nach der Schlechtwetter-Alternative.",
+    "Melde deine Kinder rechtzeitig an der Rezeption an."
+   ]
+  },
+  "practical": {
+   "nl": "Het programma vindt plaats bij Hotel Wastlhof in Niederau zelf; geen vervoer nodig. Neem voor details contact op met het hotel.",
+   "en": "The programme takes place at Hotel Wastlhof in Niederau itself, so no transport is needed. Contact the hotel for details.",
+   "de": "Das Programm findet im Hotel Wastlhof in Niederau statt, ein Transfer ist nicht nötig. Für Details wende dich an das Hotel."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kinderen; leeftijdsgroepen informeer vooraf",
+    "en": "Children; ask about age groups",
+    "de": "Kinder; Altersgruppen vorab erfragen"
+   },
+   "duration": {
+    "nl": "Wisselt per activiteit",
+    "en": "Varies by activity",
+    "de": "Je nach Angebot unterschiedlich"
+   },
+   "price": {
+    "nl": "Voor hotelgasten; informeer bij het hotel",
+    "en": "For hotel guests; ask the hotel",
+    "de": "Für Hausgäste; im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "Op locatie in Niederau",
+    "en": "On site in Niederau",
+    "de": "Vor Ort in Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het kinderprogramma ook voor niet-gasten?",
+     "en": "Is the programme open to non-guests?",
+     "de": "Gilt das Kinderprogramm auch für Nicht-Hausgäste?"
+    },
+    "a": {
+     "nl": "Het is bedoeld voor gasten van het hotel. Vraag bij het hotel of uitzonderingen mogelijk zijn.",
+     "en": "It is intended for hotel guests. Ask the hotel whether exceptions are possible.",
+     "de": "Es richtet sich an Hausgäste. Das Hotel kann sagen, ob Ausnahmen möglich sind."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s21",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "yoga-on-the-alp-niederau",
+  "slug_de": "yoga-auf-der-alm-niederau",
+  "title": {
+   "nl": "Yoga op de alm",
+   "en": "Yoga on the alp",
+   "de": "Yoga auf der Alm"
+  },
+  "tagline": {
+   "nl": "Rekken en ademen met uitzicht over het dal",
+   "en": "Stretch and breathe with a view over the valley",
+   "de": "Dehnen und Atmen mit Blick ins Tal"
+  },
+  "intro": {
+   "nl": "In de zomer wordt in de Wildschönau yoga gegeven op de Vordere Feldalm, een alpenweide op ca. 1.700 m met wijds uitzicht. Een yogadocente geeft er met regelmaat les, in de regel op donderdag, binnen of buiten afhankelijk van het weer. Er zijn varianten met een alpenontbijt (yogabrunch) of een hapje bij zonsondergang.\n\nEen les duurt ongeveer 75 minuten met ontspanning en een gezamenlijke afsluiting, met een klein groepje (maximaal acht deelnemers). Je doet ademhalings- en balansoefeningen en klassieke houdingen als de zonnegroet. Je loopt of fietst naar de alm, of parkeert bij Horler Stigl en wandelt ruim een uur. Vraag naar leeftijdsgrens, data en kosten en meld je vooraf aan.",
+   "en": "In summer, yoga is taught in the Wildschönau at the Vordere Feldalm, an alpine meadow at about 1,700 m with wide views. A yoga teacher runs classes regularly, usually on Thursdays, indoors or outdoors depending on the weather. There are versions with an alpine breakfast (yoga brunch) or a snack at sunset.\n\nA class lasts about 75 minutes plus relaxation and a shared closing snack, in a small group (at most eight participants). You do breathing and balance exercises and classic poses such as sun salutations. You walk or cycle to the alp, or park at Horler Stigl and hike for a good hour. Ask about the age limit, dates and cost, and book in advance.",
+   "de": "Im Sommer gibt es in der Wildschönau Yoga auf der Vorderen Feldalm, einer Almwiese auf rund 1.700 m mit weitem Blick. Eine Yogalehrerin unterrichtet dort regelmäßig, meist donnerstags, drinnen oder draußen je nach Wetter. Es gibt Varianten mit Almfrühstück (Yogabrunch) oder einer Jause bei Sonnenuntergang.\n\nEine Einheit dauert etwa 75 Minuten plus Entspannung und gemeinsamen Ausklang, in einer kleinen Gruppe (höchstens acht Teilnehmende). Es gibt Atem- und Balanceübungen und klassische Haltungen wie den Sonnengruß. Man geht oder radelt zur Alm oder parkt beim Horler Stigl und wandert gut eine Stunde. Fragen Sie nach Altersgrenze, Terminen und Kosten und melden Sie sich vorab an."
+  },
+  "tips": {
+   "nl": [
+    "Kleed je in lagen; het kan boven fris zijn.",
+    "Neem een mat mee of vraag naar verhuur.",
+    "Meld je vooraf aan; de groepen zijn klein.",
+    "Houd afstand van het vee op de weide."
+   ],
+   "en": [
+    "Dress in layers; it can be cool up there.",
+    "Bring a mat or ask about rental.",
+    "Book in advance; groups are small.",
+    "Keep your distance from livestock on the pasture."
+   ],
+   "de": [
+    "Im Zwiebelprinzip kleiden; oben kann es frisch sein.",
+    "Matte mitbringen oder Verleih erfragen.",
+    "Vorab anmelden; die Gruppen sind klein.",
+    "Abstand zu den Weidetieren halten."
+   ]
+  },
+  "practical": {
+   "nl": "De alm ligt boven Niederau in het Markbachjoch-gebied. Je bereikt hem te voet of per e-bike, of je parkeert bij Horler Stigl en wandelt ca. een uur. Meld je vooraf aan en vraag naar de actuele data.",
+   "en": "The alp lies above Niederau in the Markbachjoch area. You reach it on foot or by e-bike, or park at Horler Stigl and walk for about an hour. Book beforehand and ask about current dates.",
+   "de": "Die Alm liegt oberhalb von Niederau im Gebiet des Markbachjochs. Man erreicht sie zu Fuß oder mit dem E-Bike oder parkt beim Horler Stigl und wandert ca. eine Stunde. Vorab anmelden und nach aktuellen Terminen fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vraag naar de leeftijdsgrens",
+    "en": "Ask about the age limit",
+    "de": "Altersgrenze erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 75 minuten les plus ontspanning, plus wandeling",
+    "en": "About 75 minutes plus relaxation, plus the walk",
+    "de": "Ca. 75 Minuten plus Entspannung, plus Anmarsch"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur wandelen vanaf Horler Stigl",
+    "en": "About 1 hour on foot from Horler Stigl",
+    "de": "Ca. 1 Stunde Fußweg ab Horler Stigl"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Vordere Feldalm, bij Niederau",
+   "en": "Vordere Feldalm, near Niederau",
+   "de": "Vordere Feldalm bei Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik ervaring hebben?",
+     "en": "Do I need experience?",
+     "de": "Brauche ich Erfahrung?"
+    },
+    "a": {
+     "nl": "Nee, beginners kunnen meedoen; vraag de aanbieder naar de leeftijdsgrens.",
+     "en": "No, beginners can join; ask the provider about the age limit.",
+     "de": "Nein, Anfänger können mitmachen; beim Anbieter nach der Altersgrenze fragen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "w13",
+  "drop": true,
+  "drop_reason": "Winterkinderprogramma Wastlhof niet bevestigd",
+  "place": "niederau",
+  "slug_en": "kids-programme-hotel-wastlhof-winter",
+  "slug_de": "kinderprogramm-hotel-wastlhof-winter",
+  "title": {
+   "nl": "Kinderanimatie Hotel Wastlhof in de winter",
+   "en": "Winter kids' programme at Hotel Wastlhof",
+   "de": "Kinderprogramm im Winter im Hotel Wastlhof"
+  },
+  "tagline": {
+   "nl": "Binnenprogramma voor kinderen na een dag in de sneeuw",
+   "en": "Indoor activities for children after a day in the snow",
+   "de": "Indoor-Angebot für Kinder nach einem Tag im Schnee"
+  },
+  "intro": {
+   "nl": "Hotel Wastlhof in Niederau is partner van deze site en richt zich op gezinnen. In de winter heeft het hotel een kinderprogramma met spel en creatieve activiteiten, handig voor een middag zonder ski's of na de pistes.\n\nHet aanbod, de tijden en de leeftijdsgroepen kunnen per week en per seizoen verschillen; daarom noemt deze pagina geen vaste tijden of prijzen. Vraag bij het inchecken naar het weekprogramma en naar Nederlandstalige begeleiding. Het programma is bedoeld voor gasten die in het hotel logeren.",
+   "en": "Hotel Wastlhof in Niederau is a partner of this site and caters for families. In winter the hotel runs a children's programme of games and creative activities, handy for an afternoon off the skis or after the slopes.\n\nThe offer, times and age groups can differ by week and season, so this page names no fixed times or prices. Ask at check-in for the weekly programme and whether Dutch-speaking staff are available. The programme is intended for guests staying at the hotel.",
+   "de": "Das Hotel Wastlhof in Niederau ist Partner dieser Seite und auf Familien ausgerichtet. Im Winter gibt es ein Kinderprogramm mit Spielen und kreativen Angeboten, praktisch für einen Nachmittag ohne Ski oder nach der Piste.\n\nAngebot, Zeiten und Altersgruppen können je nach Woche und Saison wechseln; diese Seite nennt daher keine festen Zeiten oder Preise. Frag beim Check-in nach dem Wochenprogramm und nach niederländischsprachiger Betreuung. Das Programm richtet sich an Hausgäste."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij het inchecken naar het weekprogramma.",
+    "Plan het programma in op een rustmoment na het skiën.",
+    "Vraag of tieners een eigen aanbod hebben.",
+    "Meld kinderen op tijd aan bij de receptie."
+   ],
+   "en": [
+    "Ask for the weekly programme at check-in.",
+    "Schedule it for a rest period after skiing.",
+    "Ask whether teenagers have their own offer.",
+    "Register children in good time at reception."
+   ],
+   "de": [
+    "Frag beim Check-in nach dem Wochenprogramm.",
+    "Plane es für eine Ruhepause nach dem Skifahren ein.",
+    "Erkundige dich, ob es ein Angebot für Teenager gibt.",
+    "Melde Kinder rechtzeitig an der Rezeption an."
+   ]
+  },
+  "practical": {
+   "nl": "Het programma vindt plaats in Hotel Wastlhof in Niederau; geen vervoer nodig. Neem voor details contact op met het hotel.",
+   "en": "The programme takes place inside Hotel Wastlhof in Niederau, so no transport is needed. Contact the hotel for details.",
+   "de": "Das Programm findet im Hotel Wastlhof in Niederau statt, ein Transfer ist nicht nötig. Für Details wende dich an das Hotel."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kinderen; leeftijdsgroepen informeer vooraf",
+    "en": "Children; ask about age groups",
+    "de": "Kinder; Altersgruppen vorab erfragen"
+   },
+   "duration": {
+    "nl": "Wisselt per activiteit",
+    "en": "Varies by activity",
+    "de": "Je nach Angebot unterschiedlich"
+   },
+   "price": {
+    "nl": "Voor hotelgasten; informeer bij het hotel",
+    "en": "For hotel guests; ask the hotel",
+    "de": "Für Hausgäste; im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "Op locatie in Niederau",
+    "en": "On site in Niederau",
+    "de": "Vor Ort in Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er Nederlandstalige begeleiding?",
+     "en": "Is Dutch-speaking supervision available?",
+     "de": "Gibt es niederländischsprachige Betreuung?"
+    },
+    "a": {
+     "nl": "Dat kan wisselen; vraag het bij het hotel voordat je boekt.",
+     "en": "This can vary; ask the hotel before booking.",
+     "de": "Das kann wechseln; frag vor der Buchung im Hotel nach."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "w39",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "family-spa-hotel-wastlhof",
+  "slug_de": "familien-spa-hotel-wastlhof",
+  "title": {
+   "nl": "Spa en wellness bij Hotel Wastlhof",
+   "en": "Spa and wellness at Hotel Wastlhof",
+   "de": "Spa und Wellness im Hotel Wastlhof"
+  },
+  "tagline": {
+   "nl": "Opwarmen en ontspannen na een dag in de kou",
+   "en": "Warm up and relax after a day in the cold",
+   "de": "Aufwärmen und entspannen nach einem Tag in der Kälte"
+  },
+  "intro": {
+   "nl": "Hotel Wastlhof in Niederau is partner van deze site en heeft een wellnessgedeelte. Daar vind je onder meer een binnenzwembad, meerdere sauna's, een stoombad, een infraroodcabine en een ijsgrot, en tegen betaling massages en schoonheidsbehandelingen. Na een dag skiën of wandelen is dat een prettige afsluiting.\n\nVoor wie het wellnessgedeelte open is, welke regels er voor kinderen gelden en op welke tijden, kan verschillen; deze pagina noemt daarom geen vaste prijzen of tijden. Vraag bij de receptie naar de actuele mogelijkheden en eventuele afspraken voor het gezin.",
+   "en": "Hotel Wastlhof in Niederau is a partner of this site and has a wellness area. Facilities include an indoor pool, several saunas, a steam bath, an infrared cabin and an ice cave, with massages and beauty treatments available for an extra charge. After a day of skiing or walking it is a pleasant way to finish.\n\nWho may use the wellness area, what rules apply to children and at what times can vary, so this page names no fixed prices or times. Ask reception about the current options and any family arrangements.",
+   "de": "Das Hotel Wastlhof in Niederau ist Partner dieser Seite und hat einen Wellnessbereich. Dazu gehören unter anderem ein Hallenbad, mehrere Saunen, ein Dampfbad, eine Infrarotkabine und eine Eisgrotte; Massagen und Kosmetikbehandlungen gibt es gegen Aufpreis. Nach einem Tag auf Ski oder zu Fuß ist das ein schöner Abschluss.\n\nWer den Bereich nutzen darf, welche Regeln für Kinder gelten und zu welchen Zeiten, kann variieren; diese Seite nennt daher keine festen Preise oder Zeiten. Fragen Sie an der Rezeption nach den aktuellen Möglichkeiten und Regeln für Familien."
+  },
+  "tips": {
+   "nl": [
+    "Vraag naar de regels voor kinderen in het wellnessgedeelte.",
+    "Drink genoeg water voor en na het saunagebruik.",
+    "Neem badkleding en slippers mee.",
+    "Ga in een rustig uur voor meer ruimte."
+   ],
+   "en": [
+    "Ask about the rules for children in the wellness area.",
+    "Drink enough water before and after the sauna.",
+    "Bring swimwear and flip-flops.",
+    "Go in a quiet hour for more space."
+   ],
+   "de": [
+    "Frag nach den Regeln für Kinder im Wellnessbereich.",
+    "Trink vor und nach der Sauna genug Wasser.",
+    "Nimm Badekleidung und Badeschuhe mit.",
+    "Geh in einer ruhigen Stunde für mehr Platz."
+   ]
+  },
+  "practical": {
+   "nl": "De spa ligt in het hotel in Niederau; geen vervoer nodig. Neem voor toegang en voorwaarden contact op met het hotel.",
+   "en": "The spa is inside the hotel in Niederau, so no transport is needed. Contact the hotel for access and conditions.",
+   "de": "Die Spa liegt im Hotel in Niederau, ein Transfer ist nicht nötig. Zugang und Bedingungen erfragst du im Hotel."
+  },
+  "facts": {
+   "age": {
+    "nl": "Informeer bij het hotel",
+    "en": "Ask the hotel",
+    "de": "Im Hotel erfragen"
+   },
+   "duration": {
+    "nl": "Naar keuze",
+    "en": "As you wish",
+    "de": "Nach Belieben"
+   },
+   "price": {
+    "nl": "Informeer bij het hotel",
+    "en": "Ask the hotel",
+    "de": "Im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "Op locatie in Niederau",
+    "en": "On site in Niederau",
+    "de": "Vor Ort in Niederau"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "Year-round",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de spa ook voor niet-gasten?",
+     "en": "Is the spa open to non-guests?",
+     "de": "Ist die Spa auch für Nicht-Hausgäste offen?"
+    },
+    "a": {
+     "nl": "Dat verschilt; vraag het bij het hotel.",
+     "en": "This varies; ask the hotel.",
+     "de": "Das ist unterschiedlich; frag im Hotel nach."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "w7",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "cross-country-skiing-wildschoenau",
+  "slug_de": "langlaufen-wildschoenau",
+  "title": {
+   "nl": "Langlaufen in de Wildschönau",
+   "en": "Cross-country skiing in the Wildschönau",
+   "de": "Langlaufen in der Wildschönau"
+  },
+  "tagline": {
+   "nl": "Gespoorde loipes door het dal, voor beginners en gevorderden",
+   "en": "Groomed trails along the valley for beginners and experienced skiers",
+   "de": "Gespurte Loipen im Tal für Anfänger und Fortgeschrittene"
+  },
+  "intro": {
+   "nl": "In het Wildschönauer Tal liggen ongeveer 50 km langlaufloipes, verdeeld over de dorpen: ruwweg 16 km bij Oberau, 14 km bij Niederau en 10 km bij Auffach. Het landschap is open en glooiend, met uitzicht op de omliggende bergen. Bij Niederau loopt onder meer de route tussen Oberau en Niederau (ca. 3,8 km, gemiddeld).\n\nLanglaufen is een rustige sport voor gezinnen die samen op eigen tempo willen bewegen. Het gebruik van de loipes is gratis en meestal tot ver in maart mogelijk, afhankelijk van de sneeuw. Vraag bij de VVV naar de actuele kaart en naar lessen of verhuur van uitrusting. Combineer een route met een lunch in een Gasthof.",
+   "en": "The Wildschönau valley has about 50 km of cross-country trails, spread across the villages: roughly 16 km at Oberau, 14 km at Niederau and 10 km at Auffach. The landscape is open and rolling, with views of the surrounding mountains. Near Niederau there is, among others, the trail between Oberau and Niederau (about 3.8 km, intermediate).\n\nCross-country skiing is a calm sport for families who want to move together at their own pace. The trails are free to use and usually open well into March, depending on snow. Ask the tourist office for the current map and about lessons or equipment rental. Combine a route with lunch at a Gasthof.",
+   "de": "Im Tal der Wildschönau gibt es rund 50 km Loipen, verteilt auf die Orte: etwa 16 km bei Oberau, 14 km bei Niederau und 10 km bei Auffach. Die Landschaft ist offen und sanft hügelig, mit Blick auf die umliegenden Berge. Bei Niederau führt unter anderem die Loipe zwischen Oberau und Niederau (ca. 3,8 km, mittel).\n\nLanglaufen ist ein ruhiger Sport für Familien, die gemeinsam im eigenen Tempo unterwegs sein möchten. Die Loipen sind kostenlos und meist bis weit in den März nutzbar, je nach Schnee. Die aktuelle Karte sowie Kurse und Ausrüstungsverleih erfragen Sie beim Tourismusverband. Eine Runde lässt sich gut mit einer Einkehr im Gasthof verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij de VVV naar de actuele sporenkaart.",
+    "Begin als beginner met een korte vlakke ronde.",
+    "Het mooist is het vroeg op de dag bij verse sneeuw.",
+    "Plan een lunchstop in een Gasthof."
+   ],
+   "en": [
+    "Ask the tourist office for the current trail map.",
+    "As a beginner, start with a short flat loop.",
+    "It is best early in the day on fresh snow.",
+    "Plan a lunch stop at a Gasthof."
+   ],
+   "de": [
+    "Beim Tourismusverband nach der aktuellen Loipenkarte fragen.",
+    "Als Anfänger mit einer kurzen, flachen Runde beginnen.",
+    "Am schönsten ist es früh am Tag bei frischem Schnee.",
+    "Eine Mittagseinkehr im Gasthof einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "De sporen liggen in het dal, ook bij Niederau en tussen Oberau en Niederau. Controleer startpunt en kaart bij de VVV.",
+   "en": "The trails run along the valley, including near Niederau and between Oberau and Niederau. Check starting point and map with the tourist office.",
+   "de": "Die Loipen verlaufen im Tal, auch bei Niederau und zwischen Oberau und Niederau. Startpunkt und Karte beim Tourismusverband prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar, beginners welkom",
+    "en": "From about 8 years; beginners welcome",
+    "de": "Ab ca. 8 Jahren, Anfänger willkommen"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Loipen gratis; huur en les apart",
+    "en": "Trails free; rental and lessons separate",
+    "de": "Loipen kostenlos; Verleih und Kurse separat"
+   },
+   "distance": {
+    "nl": "Vanaf Niederau vaak direct",
+    "en": "Often straight from Niederau",
+    "de": "Ab Niederau oft direkt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Wildschönauer Tal",
+   "en": "Wildschönau valley",
+   "de": "Wildschönauer Tal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel langlaufsporen zijn er in de Wildschönau?",
+     "en": "How many cross-country trails are there in the Wildschönau?",
+     "de": "Wie viele Loipen gibt es in der Wildschönau?"
+    },
+    "a": {
+     "nl": "Ongeveer 50 km; de actuele sporen hangen af van de sneeuw.",
+     "en": "About 50 km; current trails depend on snow.",
+     "de": "Rund 50 km; aktuelle Loipen hängen vom Schnee ab."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s104",
+  "drop": true,
+  "drop_reason": "Kaarsgietworkshop in Wildschönau niet bevestigd",
+  "place": "niederau",
+  "slug_en": "herbal-candle-making-wildschoenau",
+  "slug_de": "kerzen-giessen-kraeuter-wildschoenau",
+  "title": {
+   "nl": "Kaarsen gieten met kruiden",
+   "en": "Herbal candle making",
+   "de": "Kerzengießen mit Kräutern"
+  },
+  "tagline": {
+   "nl": "Een eigen geurkaars maken als souvenir",
+   "en": "Make your own scented candle as a souvenir",
+   "de": "Eine eigene Duftkerze als Souvenir"
+  },
+  "intro": {
+   "nl": "In een creatieve workshop giet je zelf een kaars, eventueel met geurige kruiden uit de bergen. Kinderen kiezen kleur en geur en gieten de kaars in een voorbereide mal. Na afloop neem je het resultaat mee naar huis als herinnering aan de vakantie.\n\nHet is een rustige activiteit voor een regenachtige middag of tussen twee uitjes in. Workshops van dit soort worden in het dal op wisselende momenten aangeboden; aanbieder, plek en prijs kunnen verschillen. Vraag bij de VVV Wildschönau of je hotel naar de actuele mogelijkheden en reserveer vooraf. Kleed kinderen in kleren die vlekken mogen krijgen.",
+   "en": "In a creative workshop you pour your own candle, possibly with fragrant herbs from the mountains. Children choose colour and scent and pour the candle into a prepared mould. Afterwards you take the result home as a holiday keepsake.\n\nIt is a calm activity for a rainy afternoon or between two outings. Workshops like this are offered in the valley at varying times; provider, place and price can differ. Ask the Wildschönau tourist office or your hotel about the current options and book in advance. Dress children in clothes that can get stained.",
+   "de": "In einem kreativen Workshop gießt man eine eigene Kerze, gegebenenfalls mit duftenden Kräutern aus den Bergen. Kinder wählen Farbe und Duft und gießen die Kerze in eine vorbereitete Form. Danach nimmt man das Ergebnis als Urlaubserinnerung mit nach Hause.\n\nEs ist eine ruhige Aktivität für einen Regennachmittag oder zwischen zwei Ausflügen. Solche Workshops werden im Tal zu wechselnden Terminen angeboten; Anbieter, Ort und Preis können sich unterscheiden. Frag beim Tourismusverband Wildschönau oder im Hotel nach den aktuellen Möglichkeiten und reserviere vorab. Kinder in Kleidung stecken, die Flecken vertragen kann."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf.",
+    "Kinderen kiezen graag zelf kleur en geur.",
+    "Pak de kaars na afloop veilig in voor de terugreis.",
+    "Draag kleding die vlekken mag krijgen."
+   ],
+   "en": [
+    "Book in advance.",
+    "Children like choosing colour and scent themselves.",
+    "Pack the candle safely for the journey home.",
+    "Wear clothes that can get stained."
+   ],
+   "de": [
+    "Vorab reservieren.",
+    "Kinder wählen Farbe und Duft gern selbst.",
+    "Die Kerze für die Heimreise sicher verpacken.",
+    "Kleidung tragen, die Flecken verträgt."
+   ]
+  },
+  "practical": {
+   "nl": "De workshoplocatie wordt bij reservering doorgegeven; vraag bij de VVV naar plek en tijd. Geen vaste afstand bekend, ca. enkele minuten tot een kwartier rijden binnen het dal.",
+   "en": "The workshop location is given when you book; ask the tourist office for place and time. No fixed distance is known; allow a few minutes to roughly a quarter of an hour by car within the valley.",
+   "de": "Der Workshop-Ort wird bei der Buchung genannt; Ort und Zeit beim Tourismusverband erfragen. Eine feste Entfernung ist nicht bekannt, im Tal rechne mit wenigen Minuten bis ca. einer Viertelstunde Fahrt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 5 jaar",
+    "en": "From about 5 years",
+    "de": "Ab ca. 5 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Binnen het dal",
+    "en": "Within the valley",
+    "de": "Im Tal"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet je reserveren?",
+     "en": "Do I need to book?",
+     "de": "Muss man reservieren?"
+    },
+    "a": {
+     "nl": "Meestal wel; vraag de VVV naar de actuele aanbieder.",
+     "en": "Usually yes; ask the tourist office for the current provider.",
+     "de": "Meist ja; beim Tourismusverband nach dem aktuellen Anbieter fragen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s108",
+  "drop": true,
+  "drop_reason": "Kruidenzalfworkshop in Wildschönau niet bevestigd",
+  "place": "niederau",
+  "slug_en": "wild-herb-salve-workshop-wildschoenau",
+  "slug_de": "wildkraeuter-salbe-workshop-wildschoenau",
+  "title": {
+   "nl": "Workshop wilde kruidenzalf",
+   "en": "Wild herb salve workshop",
+   "de": "Workshop Wildkräutersalbe"
+  },
+  "tagline": {
+   "nl": "Bergkruiden herkennen en verwerken tot een eigen zalf",
+   "en": "Recognise mountain herbs and turn them into your own salve",
+   "de": "Bergkräuter erkennen und zur eigenen Salbe verarbeiten"
+  },
+  "intro": {
+   "nl": "Op de bergweiden groeien kruiden die al eeuwen in de volksgeneeskunde worden gebruikt. In deze workshop leer je een aantal van die kruiden herkennen, zoals tijm en munt, en hoe je er een verzorgende zalf van maakt. Een deel van de tijd kan buiten op de alm worden doorgebracht.\n\nElke deelnemer maakt een eigen potje, dat mee naar huis gaat. De workshop is leerzaam voor kinderen vanaf schoolgaande leeftijd en voor volwassenen. Vraag bij de toeristische dienst van de Wildschönau naar data en voorwaarden.",
+   "en": "The mountain pastures hold herbs that have been used in folk medicine for centuries. In this workshop you learn to recognise some of them, such as thyme and mint, and how to turn them into a soothing salve. Part of the time may be spent outdoors on the alp.\n\nEach participant makes their own jar to take home. The workshop is educational for school-age children and adults alike. Ask the Wildschönau tourist office for dates and conditions.",
+   "de": "Auf den Bergwiesen wachsen Kräuter, die seit Jahrhunderten in der Volksmedizin verwendet werden. In diesem Workshop lernen Sie einige davon kennen, etwa Thymian und Minze, und wie daraus eine pflegende Salbe entsteht. Ein Teil der Zeit kann draußen auf der Alm verbracht werden.\n\nJede Teilnehmerin und jeder Teilnehmer stellt ein eigenes Töpfchen her, das mit nach Hause geht. Der Workshop ist für Schulkinder und Erwachsene lehrreich. Fragen Sie beim Tourismusverband Wildschönau nach Terminen und Bedingungen."
+  },
+  "tips": {
+   "nl": [
+    "Neem geen planten mee naar huis waarvan je de naam niet kent.",
+    "Combineer met een korte wandeling op de alm.",
+    "Draag stevige schoenen.",
+    "Houd rekening met allergieën voor kruiden."
+   ],
+   "en": [
+    "Do not take home plants you cannot name.",
+    "Combine with a short walk on the alp.",
+    "Wear sturdy shoes.",
+    "Keep herb allergies in mind."
+   ],
+   "de": [
+    "Nehmen Sie keine Pflanzen mit, die Sie nicht kennen.",
+    "Verbinden Sie es mit einer kurzen Almwanderung.",
+    "Tragen Sie feste Schuhe.",
+    "Denken Sie an mögliche Kräuterallergien."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in de Wildschönau; de exacte plek hangt af van de organisatie. Informeer bij de toeristische dienst of via de accommodatie naar aanmelding en afstand vanaf Niederau (meestal ca. 10 tot 15 minuten).",
+   "en": "The workshop takes place in the Wildschönau; the exact spot depends on the organiser. Ask the tourist office or your accommodation about booking and the distance from Niederau (usually about 10 to 15 minutes).",
+   "de": "Der Workshop findet in der Wildschönau statt; der genaue Ort hängt vom Veranstalter ab. Fragen Sie beim Tourismusverband oder in Ihrer Unterkunft nach Anmeldung und Entfernung ab Niederau (meist ca. 10 bis 15 Minuten)."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 7 jaar",
+    "en": "From about 7 years",
+    "de": "Ab ca. 7 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask beforehand",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10-15 min",
+    "en": "About 10-15 min",
+    "de": "Ca. 10-15 Min."
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [],
+  "verified": false
+ },
+ {
+  "id": "s126",
+  "drop": true,
+  "drop_reason": "Natuurfotografieworkshop voor kinderen in Wildschönau niet bevestigd",
+  "place": "niederau",
+  "slug_en": "nature-photography-kids-wildschoenau",
+  "slug_de": "naturfotografie-kinder-wildschoenau",
+  "title": {
+   "nl": "Natuurfotografie voor kinderen",
+   "en": "Nature photography for children",
+   "de": "Naturfotografie für Kinder"
+  },
+  "tagline": {
+   "nl": "Leren kijken en foto's maken van bloemen, insecten en bergen",
+   "en": "Learn to look and photograph flowers, insects and mountains",
+   "de": "Sehen lernen und Blumen, Insekten und Berge fotografieren"
+  },
+  "intro": {
+   "nl": "In deze fotoworkshop leren kinderen en tieners om bewuster te kijken: naar licht, beeldopbouw en details. Met opdrachten als een insect zoeken, een bloem van dichtbij fotograferen of een panorama maken, ontdekken ze hoeveel er in de natuur te zien is.\n\nJe gebruikt je eigen smartphone of camera, onder begeleiding van een begeleider. Aan het eind kunnen de foto's gezamenlijk worden bekeken en besproken. Vraag vooraf naar de leeftijdsgrens en of de workshop in het Nederlands of Engels kan.",
+   "en": "In this photography workshop children and teenagers learn to look more carefully: at light, composition and detail. With tasks such as finding an insect, photographing a flower up close or making a panorama, they discover how much there is to see in nature.\n\nYou use your own smartphone or camera, with a guide on hand. At the end the photos can be viewed and discussed together. Ask beforehand about the age range and whether the workshop can be run in English.",
+   "de": "In diesem Fotoworkshop lernen Kinder und Jugendliche, genauer hinzusehen: auf Licht, Bildaufbau und Details. Mit Aufgaben wie ein Insekt finden, eine Blume aus der Nähe fotografieren oder ein Panorama aufnehmen entdecken sie, wie viel die Natur zu bieten hat.\n\nVerwendet wird das eigene Smartphone oder die eigene Kamera, mit einer Begleitperson vor Ort. Am Ende können die Bilder gemeinsam angesehen und besprochen werden. Fragen Sie vorab nach Altersgrenze und Sprache."
+  },
+  "tips": {
+   "nl": [
+    "Een eigen smartphone volstaat prima.",
+    "Insecten en vlinders zijn lastig te fotograferen; heb geduld.",
+    "Neem een volle batterij mee.",
+    "Draag weerbestendige kleding."
+   ],
+   "en": [
+    "Your own smartphone is perfectly fine.",
+    "Insects and butterflies are hard to photograph; be patient.",
+    "Bring a fully charged battery.",
+    "Wear weatherproof clothing."
+   ],
+   "de": [
+    "Das eigene Smartphone genügt völlig.",
+    "Insekten und Schmetterlinge sind schwer zu fotografieren; haben Sie Geduld.",
+    "Nehmen Sie einen vollen Akku mit.",
+    "Tragen Sie wetterfeste Kleidung."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in de Wildschönau, meestal binnen ca. 10 tot 15 minuten van Niederau. Aanmelding en actuele data lopen via de toeristische dienst of je accommodatie.",
+   "en": "The workshop takes place in the Wildschönau, usually within about 10 to 15 minutes of Niederau. Booking and current dates go through the tourist office or your accommodation.",
+   "de": "Der Workshop findet in der Wildschönau statt, meist innerhalb von ca. 10 bis 15 Minuten ab Niederau. Anmeldung und aktuelle Termine laufen über den Tourismusverband oder Ihre Unterkunft."
+  },
+  "facts": {
+   "age": {
+    "nl": "Ca. 7 tot 16 jaar",
+    "en": "About 7 to 16 years",
+    "de": "Ca. 7 bis 16 Jahre"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask beforehand",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10-15 min",
+    "en": "About 10-15 min",
+    "de": "Ca. 10-15 Min."
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [],
+  "verified": false
+ },
+ {
+  "id": "s27",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "oberau",
+  "slug_en": "tennis-oberau-wildschoenau",
+  "slug_de": "tennis-oberau-wildschoenau",
+  "title": {
+   "nl": "Tennissen in Oberau",
+   "en": "Tennis in Oberau",
+   "de": "Tennis in Oberau"
+  },
+  "tagline": {
+   "nl": "Drie gravelbanen in het Wildschönauer dal",
+   "en": "Three clay courts in the Wildschönau valley",
+   "de": "Drei Sandplätze im Wildschönauer Tal"
+  },
+  "intro": {
+   "nl": "De tennisbanen van de Wildschönau liggen in Oberau, het dorp naast Niederau. Er zijn drie gravelbanen en een café met drankjes. De banen liggen vlak bij het openluchtzwembad tussen Niederau en Oberau, zodat je sport en zwemmen makkelijk combineert.\n\nHet gebruik van de banen is inbegrepen bij de Wildschönau Card; trainerlessen kosten extra. De banen zijn alleen in de zomer open, ongeveer van 9 tot 19 uur en afhankelijk van het weer. Een dag van tevoren reserveren is verstandig, en ter plekke betaal je contant.",
+   "en": "The Wildschönau tennis courts are in Oberau, the village next to Niederau. There are three clay courts and a café serving refreshments. They are close to the open-air swimming pool between Niederau and Oberau, so it is easy to combine tennis with a swim.\n\nUse of the courts is included with the Wildschönau Card; coaching lessons cost extra. The courts are open in summer only, roughly 9 am to 7 pm and depending on the weather. Booking a day ahead is advisable, and payment on site is in cash.",
+   "de": "Die Tennisplätze der Wildschönau liegen in Oberau, dem Nachbarort von Niederau. Es gibt drei Sandplätze und ein Café mit Erfrischungen. Sie befinden sich nahe dem Freischwimmbad zwischen Niederau und Oberau, sodass sich Tennis und Baden gut verbinden lassen.\n\nDie Nutzung der Plätze ist mit der Wildschönau Card inklusive; Trainerstunden kosten extra. Die Anlage ist nur im Sommer geöffnet, etwa von 9 bis 19 Uhr und wetterabhängig. Eine Reservierung am Vortag ist ratsam, vor Ort wird bar bezahlt."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een dag van tevoren.",
+    "Neem eigen racket en tennisschoenen mee; informeer naar verhuur.",
+    "Betalen ter plekke kan alleen contant.",
+    "Combineer met een bezoek aan het openluchtzwembad."
+   ],
+   "en": [
+    "Reserve a day in advance.",
+    "Bring your own racket and tennis shoes; ask about rental.",
+    "Payment on site is cash only.",
+    "Combine with a visit to the open-air pool."
+   ],
+   "de": [
+    "Einen Tag vorher reservieren.",
+    "Eigenen Schläger und Tennisschuhe mitbringen; nach Verleih fragen.",
+    "Vor Ort ist nur Barzahlung möglich.",
+    "Mit einem Besuch im Freischwimmbad kombinieren."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 minuten rijden van Niederau; de banen liggen aan de Weihererfeldweg. Openingstijden zijn weersafhankelijk, dus controleer eerst bij Wildschönau Tourismus.",
+   "en": "Oberau is about 5 minutes by car from Niederau; the courts are on Weihererfeldweg. Opening hours depend on the weather, so check with Wildschönau Tourism first.",
+   "de": "Oberau ist ca. 5 Autominuten von Niederau entfernt; die Plätze liegen am Weihererfeldweg. Die Öffnung ist wetterabhängig, bitte vorher beim Tourismusverband Wildschönau nachfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Per uur te boeken",
+    "en": "Bookable by the hour",
+    "de": "Stundenweise buchbar"
+   },
+   "price": {
+    "nl": "Inbegrepen bij de Wildschönau Card; anders informeer vooraf",
+    "en": "Included with the Wildschönau Card; otherwise ask in advance",
+    "de": "Mit Wildschönau Card inklusive; sonst vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 min rijden",
+    "en": "About 5 minutes by car",
+    "de": "Ca. 5 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (weersafhankelijk)",
+    "en": "Summer (weather permitting)",
+    "de": "Sommer (wetterabhängig)"
+   }
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn er tennisbanen in Niederau zelf?",
+     "en": "Are there tennis courts in Niederau itself?",
+     "de": "Gibt es Tennisplätze in Niederau selbst?"
+    },
+    "a": {
+     "nl": "De banen liggen in Oberau, het naastgelegen dorp, met drie gravelbanen.",
+     "en": "The courts are in neighbouring Oberau, with three clay courts.",
+     "de": "Die Anlage liegt im Nachbarort Oberau und hat drei Sandplätze."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s127",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "summer-concert-oberau",
+  "slug_de": "platzkonzert-oberau",
+  "title": {
+   "nl": "Platzkonzert in Oberau",
+   "en": "Open-air band concert in Oberau",
+   "de": "Platzkonzert in Oberau"
+  },
+  "tagline": {
+   "nl": "Blaasmuziek van de dorpskapel op de dinsdagavond",
+   "en": "Brass band music from the village band on Tuesday evenings",
+   "de": "Blasmusik der Musikkapelle am Dienstagabend"
+  },
+  "intro": {
+   "nl": "In de zomer geeft de Bundesmusikkapelle Oberau elke dinsdagavond om 20:00 uur een open-luchtconcert in het centrum van het dorp, bij de muziekpaviljoen op het Dreizehnlindenplatz. In 2026 loopt de reeks van 7 juli tot en met 1 september, negen concerten in totaal. Het programma loopt uiteen van traditionele blaasmuziek tot modernere klanken.\n\nHet is een eenvoudige, ontspannen avond: je zit of staat op het plein, luistert en ziet het dorp bij elkaar komen. Kinderen vinden de instrumenten meestal leuk. Er zijn drankjes verkrijgbaar. Controleer de actuele data vooraf, want die kunnen bij slecht weer veranderen.",
+   "en": "In summer the Bundesmusikkapelle Oberau gives an open-air concert every Tuesday evening at 8 pm in the village centre, at the bandstand on the Dreizehnlindenplatz. In 2026 the series runs from 7 July to 1 September, nine concerts in all. The programme ranges from traditional brass music to more modern sounds.\n\nIt is a simple, relaxed evening: you sit or stand on the square, listen and watch the village come together. Children usually enjoy the instruments. Refreshments are available. Check the current dates beforehand, as they can change in bad weather.",
+   "de": "Im Sommer spielt die Bundesmusikkapelle Oberau jeden Dienstagabend um 20:00 Uhr ein Konzert unter freiem Himmel im Ortszentrum, am Musikpavillon auf dem Dreizehnlindenplatz. 2026 läuft die Reihe vom 7. Juli bis 1. September, insgesamt neun Konzerte. Das Programm reicht von traditioneller Blasmusik bis zu moderneren Klängen.\n\nEs ist ein unkomplizierter, entspannter Abend: Sie sitzen oder stehen auf dem Platz, hören zu und erleben, wie das Dorf zusammenkommt. Kinder mögen meist die Instrumente. Erfrischungen gibt es vor Ort. Prüfen Sie die aktuellen Termine vorab, da sie sich bei schlechtem Wetter ändern können."
+  },
+  "tips": {
+   "nl": [
+    "Kom ruim op tijd voor een goede plek.",
+    "Neem een warme trui mee; het wordt 's avonds snel koeler.",
+    "Controleer de actuele data in de evenementenkalender.",
+    "Bij slecht weer kan het concert veranderen of vervallen."
+   ],
+   "en": [
+    "Arrive in good time for a good spot.",
+    "Bring a warm jumper; evenings cool down quickly.",
+    "Check the current dates in the events calendar.",
+    "In bad weather the concert may change or be cancelled."
+   ],
+   "de": [
+    "Kommen Sie rechtzeitig für einen guten Platz.",
+    "Nehmen Sie eine warme Jacke mit; abends wird es schnell kühl.",
+    "Prüfen Sie die aktuellen Termine im Veranstaltungskalender.",
+    "Bei schlechtem Wetter kann das Konzert geändert werden oder ausfallen."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 minuten rijden van Niederau. Het concert is bij de muziekpaviljoen op het Dreizehnlindenplatz in het dorpscentrum.",
+   "en": "Oberau is roughly 5 minutes by car from Niederau. The concert is at the bandstand on the Dreizehnlindenplatz in the village centre.",
+   "de": "Oberau liegt ca. 5 Fahrminuten von Niederau entfernt. Das Konzert findet am Musikpavillon auf dem Dreizehnlindenplatz im Ortszentrum statt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 min rijden",
+    "en": "Approx. 5 min by car",
+    "de": "Ca. 5 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (2026: 7 juli tot 1 september)",
+    "en": "Summer (2026: 7 July to 1 September)",
+    "de": "Sommer (2026: 7. Juli bis 1. September)"
+   }
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is het concert in Oberau?",
+     "en": "When is the concert in Oberau?",
+     "de": "Wann findet das Konzert in Oberau statt?"
+    },
+    "a": {
+     "nl": "Elke dinsdag om 20:00 uur, in 2026 van 7 juli tot en met 1 september. Controleer de actuele data vooraf.",
+     "en": "Every Tuesday at 8 pm, in 2026 from 7 July to 1 September. Check current dates beforehand.",
+     "de": "Jeden Dienstag um 20:00 Uhr, 2026 vom 7. Juli bis 1. September. Bitte prüfen Sie die aktuellen Termine vorab."
+    }
+   }
+  ],
+  "verified": true
+ }
+]
