@@ -585,8 +585,8 @@ def build_hub(kind):
 
 
 # ---------- collecties (seizoen, regendag, met kinderen) ----------
-RAIN = "s68 s198 s232 s200 s170 w32 s292 s78 w39 s37 s69 w33 s257 s137 s190 s167 s172 s144 s122 s208".split()
-KIDS = "s141 s182 s192 s202 s214 s219 s222 s56 s65 s72 s96 s11 s12 s119 s5 s101 s25 s18 s2 s20 w1 w30 w4 w5 w9 w11 w6 s217 s295 s175 s216 s169 s213 s144 s37 s6".split()
+RAIN = "l2 l6 s68 s198 s232 s200 s170 w32 s292 s78 w39 s37 s69 w33 s257 s137 s190 s167 s172 s144 s122 s208".split()
+KIDS = "l3 l4 l5 l9 l10 l12 s141 s182 s192 s202 s214 s219 s222 s56 s65 s72 s96 s11 s12 s119 s5 s101 s25 s18 s2 s20 w1 w30 w4 w5 w9 w11 w6 s217 s295 s175 s216 s169 s213 s144 s37 s6".split()
 COLL = {
  "winter": {"slug": ("winter", "winter", "winter"), "season": "winter",
   "title": ("Winter in Niederau en omgeving", "Winter in Niederau and around", "Winter in Niederau und Umgebung"),
