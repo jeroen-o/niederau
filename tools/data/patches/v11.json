@@ -1,0 +1,1304 @@
+[
+ {
+  "id": "s260",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "mittenwald-wetterstein-hike",
+  "slug_de": "mittenwald-wetterstein-wanderung",
+  "title": {
+   "nl": "Wandelen bij Mittenwald (Wetterstein)",
+   "en": "Hiking near Mittenwald, Wetterstein",
+   "de": "Wandern bei Mittenwald im Wetterstein"
+  },
+  "tagline": {
+   "nl": "Beierse bergdorp met rotswanden, vioolbouwtraditie en wandelpaden",
+   "en": "Bavarian mountain village with rock faces, violin-making tradition and walks",
+   "de": "Bayerisches Bergdorf mit Felswänden, Geigenbautradition und Wanderwegen"
+  },
+  "intro": {
+   "nl": "Mittenwald ligt in Beieren, op ongeveer 930 m hoogte tussen het Wettersteingebergte en het Karwendel. Het dorp staat bekend om zijn vioolbouwtraditie en zijn beschilderde huizen. Rond het dorp loopt een groot aantal wandelroutes, van rustige dalwandelingen tot bergtochten.\n\nJe combineert een wandeling goed met een rondje door het centrum, waar je ook het vioolbouwmuseum vindt. Vanuit Niederau is het een lange rit, dus reken op een hele dag. Neem voor de zekerheid je identiteitsbewijs mee.",
+   "en": "Mittenwald lies in Bavaria at about 930 m, between the Wetterstein and Karwendel mountains. The village is known for its violin-making tradition and its painted houses. A large number of walking routes start around the village, from quiet valley walks to mountain hikes.\n\nA hike combines well with a stroll through the centre, where you will also find the violin-making museum. It is a long drive from Niederau, so allow a full day. Bring your ID card or passport to be safe.",
+   "de": "Mittenwald liegt in Bayern auf etwa 930 m Höhe zwischen Wetterstein- und Karwendelgebirge. Der Ort ist für seine Geigenbautradition und seine bemalten Häuser bekannt. Rund um den Ort beginnen viele Wanderrouten, von ruhigen Talwegen bis zu Bergtouren.\n\nEine Wanderung lässt sich gut mit einem Bummel durchs Zentrum verbinden, wo auch das Geigenbaumuseum steht. Die Fahrt ab Niederau ist lang, planen Sie also einen ganzen Tag ein. Nehmen Sie sicherheitshalber Ausweis oder Reisepass mit."
+  },
+  "tips": {
+   "nl": [
+    "Plan een hele dag voor deze uitstap.",
+    "Neem voor de zekerheid je identiteitsbewijs mee.",
+    "Combineer de wandeling met het dorpscentrum en het vioolbouwmuseum."
+   ],
+   "en": [
+    "Plan a full day for this trip.",
+    "Bring your ID to be safe.",
+    "Combine the hike with the village centre and the violin-making museum."
+   ],
+   "de": [
+    "Planen Sie für diesen Ausflug einen ganzen Tag ein.",
+    "Nehmen Sie sicherheitshalber Ihren Ausweis mit.",
+    "Verbinden Sie die Wanderung mit dem Ortszentrum und dem Geigenbaumuseum."
+   ]
+  },
+  "practical": {
+   "nl": "Mittenwald ligt ca. 1,5 uur rijden van Niederau, via de A12 en Seefeld. Kies de route ter plekke bij het toeristenbureau (Alpenwelt Karwendel).",
+   "en": "Mittenwald is about 1.5 hours by car from Niederau, via the A12 and Seefeld. Choose your route on the spot with the tourist office (Alpenwelt Karwendel).",
+   "de": "Mittenwald liegt ca. 1,5 Stunden Autofahrt von Niederau entfernt, über die A12 und Seefeld. Die Route wählen Sie vor Ort mit dem Tourismusbüro (Alpenwelt Karwendel)."
+  },
+  "facts": {
+   "age": {
+    "nl": "Afhankelijk van de route",
+    "en": "Depending on the route",
+    "de": "Je nach Route"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 uur rijden",
+    "en": "About 1.5 h by car",
+    "de": "Ca. 1,5 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Mittenwald, Beieren",
+   "en": "Mittenwald, Bavaria",
+   "de": "Mittenwald, Bayern"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom staat Mittenwald bekend?",
+     "en": "What is Mittenwald known for?",
+     "de": "Wofür ist Mittenwald bekannt?"
+    },
+    "a": {
+     "nl": "Voor zijn vioolbouwtraditie, beschilderde huizen en de ligging tussen Wetterstein en Karwendel.",
+     "en": "For its violin-making tradition, painted houses and its setting between the Wetterstein and Karwendel.",
+     "de": "Für seine Geigenbautradition, bemalte Häuser und die Lage zwischen Wetterstein und Karwendel."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s266",
+  "drop": true,
+  "drop_reason": "Dubbel van s287 (zelfde Rosengartenschlucht Imst); bovendien onjuist: de kloof is gratis, geen entree.",
+  "place": "",
+  "slug_en": "rosengarten-gorge-imst",
+  "slug_de": "rosengartenschlucht-imst",
+  "title": {
+   "nl": "Rosengartenschlucht Imst",
+   "en": "Rosengarten Gorge, Imst",
+   "de": "Rosengartenschlucht in Imst"
+  },
+  "tagline": {
+   "nl": "Wandeling door een kloof met watervallen en hangbruggen bij Imst",
+   "en": "Walk through a gorge with waterfalls and suspension bridges near Imst",
+   "de": "Wanderung durch eine Schlucht mit Wasserfällen und Hängebrücken bei Imst"
+  },
+  "intro": {
+   "nl": "De Rosengartenschlucht ligt bij Imst in het Tiroler Oberland en is een van de bekende kloven van Tirol. Een pad met houten trappen en bruggen leidt door de smalle kloof, langs hoge rotswanden en watervallen.\n\nHet is een aantrekkelijke wandeling voor gezinnen met kinderen vanaf een jaar of zes, maar het pad kan nat en glad zijn. Daarna kun je in Imst zelf een pauze nemen. Het is een lange rit vanuit Niederau, dus de tocht past bij een volledige dag.",
+   "en": "The Rosengarten Gorge lies near Imst in the Tyrolean Oberland and is one of the best-known gorges in Tyrol. A path with wooden steps and bridges leads through the narrow gorge, past high rock walls and waterfalls.\n\nIt is an appealing walk for families with children from about six, but the path can be wet and slippery. Afterwards you can take a break in Imst itself. It is a long drive from Niederau, so the trip suits a full day.",
+   "de": "Die Rosengartenschlucht liegt bei Imst im Tiroler Oberland und ist eine der bekannten Schluchten Tirols. Ein Weg mit Holztreppen und Brücken führt durch die enge Schlucht, vorbei an hohen Felswänden und Wasserfällen.\n\nEs ist eine reizvolle Wanderung für Familien mit Kindern ab etwa sechs Jahren, der Weg kann aber nass und rutschig sein. Danach kannst du in Imst selbst eine Pause einlegen. Die Fahrt ab Niederau ist lang, der Ausflug passt daher zu einem ganzen Tag."
+  },
+  "tips": {
+   "nl": [
+    "Draag schoenen met goede grip; het pad is vaak nat.",
+    "Neem een jas mee; in de kloof is het koel.",
+    "Combineer met een stop in het centrum van Imst."
+   ],
+   "en": [
+    "Wear shoes with good grip; the path is often wet.",
+    "Bring a jacket; it is cool in the gorge.",
+    "Combine with a stop in the centre of Imst."
+   ],
+   "de": [
+    "Trage Schuhe mit gutem Profil; der Weg ist oft nass.",
+    "Nimm eine Jacke mit; in der Schlucht ist es kühl.",
+    "Verbinde den Ausflug mit einem Halt im Zentrum von Imst."
+   ]
+  },
+  "practical": {
+   "nl": "Imst ligt ca. 1,5 uur rijden van Niederau, via de A12 richting het westen.",
+   "en": "Imst is about 1.5 hours by car from Niederau, via the A12 heading west.",
+   "de": "Imst liegt ca. 1,5 Stunden Autofahrt von Niederau entfernt, über die A12 Richtung Westen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From about 6",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2–3 uur",
+    "en": "About 2–3 hours",
+    "de": "Ca. 2–3 Stunden"
+   },
+   "price": {
+    "nl": "Entree; informeer naar de actuele prijs",
+    "en": "Admission charged; check the current price",
+    "de": "Eintritt; aktuellen Preis erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 uur rijden",
+    "en": "About 1.5 h by car",
+    "de": "Ca. 1,5 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Imst, Tiroler Oberland",
+   "en": "Imst, Tyrolean Oberland",
+   "de": "Imst, Tiroler Oberland"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Rosengartenschlucht geschikt voor kinderen?",
+     "en": "Is the Rosengarten Gorge suitable for children?",
+     "de": "Ist die Rosengartenschlucht für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, vanaf ongeveer zes jaar, met goede schoenen omdat het pad nat en glad kan zijn.",
+     "en": "Yes, from about six, with good shoes as the path can be wet and slippery.",
+     "de": "Ja, ab etwa sechs Jahren, mit guten Schuhen, da der Weg nass und rutschig sein kann."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s275",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "plansee-lake-hiking-swimming",
+  "slug_de": "plansee-wandern-und-baden",
+  "title": {
+   "nl": "Plansee: wandelen en zwemmen",
+   "en": "Plansee: walking and swimming",
+   "de": "Plansee: Wandern und Baden"
+  },
+  "tagline": {
+   "nl": "Groot bergmeer bij Reutte met wandelpaden en badplekken",
+   "en": "Large mountain lake near Reutte with trails and bathing spots",
+   "de": "Großer Bergsee bei Reutte mit Wanderwegen und Badeplätzen"
+  },
+  "intro": {
+   "nl": "De Plansee ligt in het Reuttener Land in het noordwesten van Tirol, tussen beboste hellingen en kalkwanden, en is een van de grootste bergmeren van Tirol. Een rondwandeling van ongeveer 14,6 km duurt ruim drie uur en start bij de parkeerplaats Seespitze. Langs de route zijn horecagelegenheden en veel plekken om te zwemmen; op twee aanlegsteigers kun je de tocht per boot inkorten.\n\nWie met kinderen een kortere tocht zoekt, kan vanaf Seespitze de panoramaroute van ongeveer 6 km langs de Zwieselberg nemen. Het is een dagtocht: de rit is lang, dus neem badkleding en iets te eten mee.",
+   "en": "The Plansee lies in the Reutte area in north-western Tyrol, between wooded slopes and limestone walls, and is one of Tyrol's largest mountain lakes. A circuit of about 14.6 km takes a little over three hours and starts at the Seespitze car park. Along the route there are places to eat and many spots for a swim; at two landing stages you can shorten the walk by boat.\n\nIf you want a shorter walk with children, take the panorama path of about 6 km along the Zwieselberg from Seespitze. This is a day trip: the drive is long, so bring swimwear and something to eat.",
+   "de": "Der Plansee liegt im Reuttener Land im Nordwesten Tirols, zwischen bewaldeten Hängen und Kalkwänden, und ist einer der größten Bergseen Tirols. Die Rundwanderung von rund 14,6 km dauert gut drei Stunden und startet am Parkplatz Seespitze. Unterwegs gibt es Einkehrmöglichkeiten und viele Badestellen; an zwei Anlegestellen lässt sich die Tour per Boot abkürzen.\n\nWer mit Kindern eine kürzere Tour sucht, nimmt ab Seespitze den Panoramaweg von etwa 6 km entlang des Zwieselbergs. Es ist ein Tagesausflug: Die Anfahrt ist lang, nehmen Sie also Badesachen und Verpflegung mit."
+  },
+  "tips": {
+   "nl": [
+    "Kies met kinderen de panoramaroute (ca. 6 km) vanaf de parkeerplaats Seespitze.",
+    "Neem badkleding en een handdoek mee; bergwater blijft ook in de zomer fris.",
+    "Kom vroeg: op mooie dagen is het druk bij het meer."
+   ],
+   "en": [
+    "With children, choose the panorama path (about 6 km) from the Seespitze car park.",
+    "Bring swimwear and a towel; mountain water stays cool even in summer.",
+    "Arrive early: it gets busy at the lake on fine days."
+   ],
+   "de": [
+    "Wählen Sie mit Kindern den Panoramaweg (ca. 6 km) ab Parkplatz Seespitze.",
+    "Nehmen Sie Badesachen und ein Handtuch mit; Bergwasser bleibt auch im Sommer frisch.",
+    "Kommen Sie früh: An schönen Tagen ist es am See voll."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau rijd je via de A12 en de Fernpassroute naar Reutte (ca. 1,5 tot 2 uur). Parkeren bij het meer kan geld kosten; informeer ter plekke. Met openbaar vervoer is het lastig, de auto is het handigst.",
+   "en": "From Niederau you drive via the A12 and the Fernpass route to Reutte (about 1.5 to 2 hours). Parking at the lake may be charged; check on the spot. Public transport is awkward, so the car is most practical.",
+   "de": "Von Niederau fahren Sie über die A12 und die Fernpassroute nach Reutte (ca. 1,5 bis 2 Stunden). Das Parken am See kann gebührenpflichtig sein; erkundigen Sie sich vor Ort. Mit öffentlichen Verkehrsmitteln ist es mühsam, das Auto ist am praktischsten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag tot hele dag",
+    "en": "Half day to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Wandelen gratis; parkeren mogelijk tegen betaling",
+    "en": "Walking is free; parking may be charged",
+    "de": "Wandern kostenlos; Parken evtl. gebührenpflichtig"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 tot 2 uur rijden",
+    "en": "Approx. 1.5 to 2 hours' drive",
+    "de": "Ca. 1,5 bis 2 Stunden Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Plansee, Reuttener Land (Tirol)",
+   "en": "Plansee, Reutte area (Tyrol)",
+   "de": "Plansee, Reuttener Land (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij de Plansee zwemmen?",
+     "en": "Can you swim in the Plansee?",
+     "de": "Kann man im Plansee baden?"
+    },
+    "a": {
+     "nl": "Ja, langs de oever zijn veel plekken om te zwemmen. Het bergwater is wel fris.",
+     "en": "Yes, there are many spots to swim along the shore. The mountain water is cool, though.",
+     "de": "Ja, entlang des Ufers gibt es viele Badestellen. Das Bergwasser ist allerdings frisch."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s281",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "fieberbrunn-larchfilzkogel-hiking",
+  "slug_de": "fieberbrunn-wandern-laerchfilzkogel",
+  "title": {
+   "nl": "Fieberbrunn: wandelen vanaf de Lärchfilzkogel",
+   "en": "Fieberbrunn: hiking from the Lärchfilzkogel",
+   "de": "Fieberbrunn: Wandern am Lärchfilzkogel"
+  },
+  "tagline": {
+   "nl": "Met de gondel omhoog en wandelen over bloemrijke alpenweiden",
+   "en": "Take the gondola up and hike over flower-rich alpine meadows",
+   "de": "Mit der Gondel hinauf und über blumenreiche Almwiesen wandern"
+  },
+  "intro": {
+   "nl": "Fieberbrunn ligt in het PillerseeTal, aan de voet van de Kitzbüheler Alpen. In de zomer brengt de gondel je naar de Lärchfilzkogel (1.645 m), het beginpunt van meerdere wandelroutes. Via de panoramaroute en een gezinsvriendelijk pad bereik je in ongeveer anderhalf uur, met zo'n 200 hoogtemeters, het Wildseeloderhaus aan de Wildsee.\n\nBij het middenstation ligt Timoks Wilde Welt, een speelwereld voor kinderen met onder meer een alpine coaster, een waterspeelplaats en een klimpark in het bos. Zo is er een passende dagtocht voor gezinnen met kinderen van verschillende leeftijden.",
+   "en": "Fieberbrunn lies in the PillerseeTal, at the foot of the Kitzbühel Alps. In summer the gondola takes you up to the Lärchfilzkogel (1,645 m), the start of several hiking routes. Via the panorama path and a family-friendly trail you reach the Wildseeloderhaus by the Wildsee in about an hour and a half, with roughly 200 m of ascent.\n\nAt the middle station you will find Timoks Wilde Welt, a children's adventure world with an alpine coaster, a water playground and a forest rope course. That makes for a day out that suits families with children of different ages.",
+   "de": "Fieberbrunn liegt im PillerseeTal am Fuß der Kitzbüheler Alpen. Im Sommer bringt Sie die Gondel auf den Lärchfilzkogel (1.645 m), den Ausgangspunkt mehrerer Wanderrouten. Über den Panoramaweg und einen familienfreundlichen Pfad erreichen Sie in etwa anderthalb Stunden und mit rund 200 Höhenmetern das Wildseeloderhaus am Wildsee.\n\nAn der Mittelstation liegt Timoks Wilde Welt, eine Erlebniswelt für Kinder mit Alpine Coaster, Wasserspielplatz und Waldseilgarten. So gibt es einen passenden Tagesausflug für Familien mit Kindern unterschiedlichen Alters."
+  },
+  "tips": {
+   "nl": [
+    "Informeer bij de bergbaan naar de actuele zomerdienstregeling en tarieven.",
+    "Neem een jas en stevige schoenen mee; boven kan het snel frisser worden.",
+    "Combineer de wandeling naar de Wildsee met een pauze in het Wildseeloderhaus."
+   ],
+   "en": [
+    "Check the current summer timetable and fares with the cable car operator.",
+    "Bring a jacket and sturdy shoes; it can turn cooler quickly up top.",
+    "Combine the walk to the Wildsee with a break at the Wildseeloderhaus."
+   ],
+   "de": [
+    "Erkundigen Sie sich bei der Bergbahn nach Sommerfahrplan und aktuellen Preisen.",
+    "Nehmen Sie Jacke und feste Schuhe mit; oben kann es schnell kühler werden.",
+    "Verbinden Sie die Wanderung zum Wildsee mit einer Einkehr im Wildseeloderhaus."
+   ]
+  },
+  "practical": {
+   "nl": "Fieberbrunn ligt ca. 50 minuten rijden van Niederau, via Kitzbühel of St. Johann. Controleer de actuele data en tijden van de zomerdienst van de bergbaan.",
+   "en": "Fieberbrunn is about 50 minutes by car from Niederau, via Kitzbühel or St. Johann. Check the current dates and times of the cable car's summer service.",
+   "de": "Fieberbrunn ist ca. 50 Fahrminuten von Niederau entfernt, über Kitzbühel oder St. Johann. Prüfen Sie die aktuellen Termine und Zeiten des Sommerbetriebs der Bergbahn."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur, afhankelijk van de route",
+    "en": "Approx. 2 to 4 hours depending on the route",
+    "de": "Ca. 2 bis 4 Stunden je nach Route"
+   },
+   "price": {
+    "nl": "Gondel betaald; informeer naar tarieven",
+    "en": "Gondola is charged; ask about fares",
+    "de": "Gondel kostenpflichtig; Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "Approx. 50 min drive",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Fieberbrunn, PillerseeTal (Tirol)",
+   "en": "Fieberbrunn, PillerseeTal (Tyrol)",
+   "de": "Fieberbrunn, PillerseeTal (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er in Fieberbrunn iets voor kinderen?",
+     "en": "Is there something for children in Fieberbrunn?",
+     "de": "Gibt es in Fieberbrunn etwas für Kinder?"
+    },
+    "a": {
+     "nl": "Ja, bij het middenstation ligt Timoks Wilde Welt met onder meer een alpine coaster, een waterspeelplaats en een klimpark in het bos.",
+     "en": "Yes, the middle station has Timoks Wilde Welt with an alpine coaster, a water playground and a forest rope course.",
+     "de": "Ja, an der Mittelstation liegt Timoks Wilde Welt mit Alpine Coaster, Wasserspielplatz und Waldseilgarten."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s286",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "barmsee-lake-walk-mittenwald",
+  "slug_de": "barmsee-wanderung-mittenwald",
+  "title": {
+   "nl": "Barmsee bij Mittenwald",
+   "en": "Barmsee near Mittenwald",
+   "de": "Barmsee bei Mittenwald"
+  },
+  "tagline": {
+   "nl": "Rustig bergmeer in Beieren met rondwandeling en badplek",
+   "en": "Quiet Bavarian mountain lake with a circular walk and swimming",
+   "de": "Ruhiger Bergsee in Bayern mit Rundweg und Badestelle"
+  },
+  "intro": {
+   "nl": "De Barmsee ligt net over de grens in Beieren, bij Krün en Mittenwald, met de Soierngroep als decor. Een gemarkeerd rondpad (nr. 405) leidt via haarspeldbochten naar de oever en daarna langs riet, weiden en bos naar het grote zwemgebied met mooi uitzicht op de Soiern. Het is een makkelijke tocht die ook met kinderen te doen is.\n\nVanaf de parkeerplaats aan de B2 bij Krün loop je ongeveer een half uur tot drie kwartier naar het badgebied. Je kunt ook vanuit Krün of Wallgau over fietspaden naar het meer. Een rustige uitstap als je eens iets anders wilt dan Tirol.",
+   "en": "The Barmsee lies just over the border in Bavaria, near Krün and Mittenwald, with the Soiern group as a backdrop. A marked circular path (no. 405) leads down to the shore in switchbacks and then along reeds, meadows and woodland to the large bathing area with fine views of the Soiern. It is an easy walk that is also doable with children.\n\nFrom the car park on the B2 near Krün it takes about 30 to 40 minutes to walk to the bathing area. You can also reach the lake by cycle path from Krün or Wallgau. A quiet outing if you fancy a change from Tyrol.",
+   "de": "Der Barmsee liegt kurz hinter der Grenze in Bayern, bei Krün und Mittenwald, mit der Soierngruppe als Kulisse. Ein markierter Rundweg (Nr. 405) führt in Serpentinen zum Ufer und dann an Schilf, Wiesen und Wald vorbei zum großen Badebereich mit schönem Blick auf die Soiern. Die Tour ist leicht und auch mit Kindern machbar.\n\nVom Parkplatz an der B2 bei Krün geht man etwa 30 bis 40 Minuten zum Badebereich. Man kann den See auch auf Radwegen ab Krün oder Wallgau erreichen. Ein ruhiger Ausflug, wenn Sie einmal etwas anderes als Tirol sehen möchten."
+  },
+  "tips": {
+   "nl": [
+    "Reken op 30 tot 40 minuten extra voor de wandeling van de parkeerplaats naar het water.",
+    "Neem een handdoek en picknick mee.",
+    "Het is bergwater en blijft fris; kinderen houden het meestal kort."
+   ],
+   "en": [
+    "Allow 30 to 40 minutes extra for the walk from the car park to the water.",
+    "Bring a towel and a picnic.",
+    "It is mountain water and stays cool; children usually keep their swim short."
+   ],
+   "de": [
+    "Rechnen Sie 30 bis 40 Minuten extra für den Weg vom Parkplatz zum Wasser.",
+    "Nehmen Sie Handtuch und Picknick mit.",
+    "Es ist Bergwasser und bleibt kühl; Kinder baden meist nur kurz."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 1 uur en 45 minuten rijden via de A12 en Seefeld/Mittenwald naar de parkeerplaats aan de B2 bij Krün; parkeren kostte in 2025 rond € 5 per dag (muntjes aan de automaat). Een lange dagtocht.",
+   "en": "From Niederau it is about 1 hour 45 minutes by car via the A12 and Seefeld/Mittenwald to the car park on the B2 near Krün; parking cost around € 5 per day in 2025 (coins at the machine). This makes a long day trip.",
+   "de": "Von Niederau sind es ca. 1 Stunde 45 Minuten Fahrt über die A12 und Seefeld/Mittenwald zum Parkplatz an der B2 bei Krün; Parken kostete 2025 rund 5 € pro Tag (Münzen am Automaten). Ein längerer Tagesausflug."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur, inclusief heen- en terugweg",
+    "en": "Approx. 2 to 3 hours including the walk there and back",
+    "de": "Ca. 2 bis 3 Stunden inkl. Hin- und Rückweg"
+   },
+   "price": {
+    "nl": "Wandelen gratis; parkeren tegen betaling",
+    "en": "Walking is free; parking is charged",
+    "de": "Wandern kostenlos; Parken gebührenpflichtig"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 45 min rijden",
+    "en": "Approx. 1 h 45 min drive",
+    "de": "Ca. 1 Std. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Barmsee, bij Krün/Mittenwald (Beieren, Duitsland)",
+   "en": "Barmsee, near Krün/Mittenwald (Bavaria, Germany)",
+   "de": "Barmsee, bei Krün/Mittenwald (Bayern, Deutschland)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Mag je in de Barmsee zwemmen?",
+     "en": "Can you swim in the Barmsee?",
+     "de": "Darf man im Barmsee baden?"
+    },
+    "a": {
+     "nl": "Ja, aan de oever ligt een groot badgebied; het bergwater is wel fris.",
+     "en": "Yes, there is a large bathing area on the shore; the mountain water is cool, though.",
+     "de": "Ja, am Ufer gibt es einen großen Badebereich; das Bergwasser ist allerdings kühl."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s287",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "imst-rosengarten-gorge",
+  "slug_de": "rosengartenschlucht-imst",
+  "title": {
+   "nl": "Rosengartenschlucht Imst",
+   "en": "Rosengarten Gorge, Imst",
+   "de": "Rosengartenschlucht Imst"
+  },
+  "tagline": {
+   "nl": "Korte kloofwandeling met watervallen vlak bij het centrum van Imst",
+   "en": "Short gorge walk with waterfalls close to Imst town centre",
+   "de": "Kurze Schluchtwanderung mit Wasserfällen nahe dem Zentrum von Imst"
+  },
+  "intro": {
+   "nl": "De Rosengartenschlucht begint op enkele minuten lopen van het centrum van Imst, bij de Johanneskirche, en loopt ongeveer 1,5 km omhoog naar de Blaue Grotte in Hoch-Imst. Het pad volgt de Schinderbach langs rotswanden en bruggetjes. De Blaue Grotte is een oude mijn met twee watervallen.\n\nDe kloof is van begin of half mei tot ongeveer eind oktober vrij toegankelijk en gratis. Bij onweer, hagel of hevige regen kan hij onbegaanbaar zijn. Het is een korte, afwisselende wandeling die kinderen vaak spannend vinden; het pad is hier en daar nat en glad. Combineer hem met een bezoek aan het stadje.",
+   "en": "The Rosengarten Gorge starts a few minutes' walk from the centre of Imst, at the Johanneskirche, and runs about 1.5 km uphill to the Blaue Grotte in Hoch-Imst. The path follows the Schinderbach past rock walls and small bridges. The Blaue Grotte is an old mine with two waterfalls.\n\nFrom early or mid-May to roughly the end of October the gorge is freely accessible and free of charge. In storms, hail or heavy rain it may be impassable. It is a short, varied walk that children often find exciting; the path is wet and slippery in places. Combine it with a visit to the town.",
+   "de": "Die Rosengartenschlucht beginnt wenige Gehminuten vom Zentrum von Imst an der Johanneskirche und führt rund 1,5 km bergauf zur Blauen Grotte in Hoch-Imst. Der Weg folgt dem Schinderbach vorbei an Felswänden und kleinen Brücken. Die Blaue Grotte ist ein altes Bergwerk mit zwei Wasserfällen.\n\nVon Anfang oder Mitte Mai bis etwa Ende Oktober ist die Schlucht frei zugänglich und kostenlos. Bei Gewitter, Hagel oder starkem Regen kann sie unpassierbar sein. Es ist eine kurze, abwechslungsreiche Wanderung, die Kindern oft Spaß macht; der Weg ist stellenweise nass und rutschig. Verbinden Sie sie mit einem Besuch der Stadt."
+  },
+  "tips": {
+   "nl": [
+    "Draag stevige schoenen met profiel; het pad kan nat en glad zijn.",
+    "Ga niet bij onweer of na hevige regen.",
+    "Neem een dun jack mee: in de kloof is het koeler dan buiten."
+   ],
+   "en": [
+    "Wear sturdy shoes with good grip; the path can be wet and slippery.",
+    "Do not go during storms or after heavy rain.",
+    "Bring a light jacket: it is cooler in the gorge than outside."
+   ],
+   "de": [
+    "Tragen Sie festes Schuhwerk mit Profil; der Weg kann nass und rutschig sein.",
+    "Gehen Sie nicht bei Gewitter oder nach starkem Regen.",
+    "Nehmen Sie eine dünne Jacke mit: In der Schlucht ist es kühler als draußen."
+   ]
+  },
+  "practical": {
+   "nl": "Imst ligt ca. 1 uur en 15 minuten rijden van Niederau, via de A12 richting Innsbruck en verder westwaarts. De kloof begint op loopafstand van het centrum.",
+   "en": "Imst is about 1 hour 15 minutes by car from Niederau, via the A12 towards Innsbruck and further west. The gorge starts within walking distance of the centre.",
+   "de": "Imst ist ca. 1 Stunde 15 Minuten Fahrt von Niederau entfernt, über die A12 Richtung Innsbruck und weiter westwärts. Die Schlucht beginnt fußläufig vom Zentrum."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From approx. 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis toegankelijk",
+    "en": "Free admission",
+    "de": "Eintritt frei"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 15 min rijden",
+    "en": "Approx. 1 h 15 min drive",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Ca. mei tot oktober",
+    "en": "Approx. May to October",
+    "de": "Ca. Mai bis Oktober"
+   }
+  },
+  "location": {
+   "nl": "Imst, Oberinntal (Tirol)",
+   "en": "Imst, Upper Inn Valley (Tyrol)",
+   "de": "Imst, Oberinntal (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kost de Rosengartenschlucht entree?",
+     "en": "Does the Rosengarten Gorge charge admission?",
+     "de": "Kostet die Rosengartenschlucht Eintritt?"
+    },
+    "a": {
+     "nl": "Nee, de kloof is gratis en van half mei tot ongeveer eind oktober vrij toegankelijk.",
+     "en": "No, the gorge is free and freely accessible from about mid-May to the end of October.",
+     "de": "Nein, die Schlucht ist kostenlos und von etwa Mitte Mai bis Ende Oktober frei zugänglich."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s288",
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "hochsoell-hexenwasser-hiking",
+  "slug_de": "hochsoell-hexenwasser-wandern",
+  "title": {
+   "nl": "Hochsöll en Hexenwasser (Söll)",
+   "en": "Hochsöll and Hexenwasser (Söll)",
+   "de": "Hochsöll und Hexenwasser (Söll)"
+  },
+  "tagline": {
+   "nl": "Met de gondel naar het Hexenwasser, een speelse wandelwereld voor gezinnen",
+   "en": "Gondola up to the Hexenwasser, a playful hiking world for families",
+   "de": "Mit der Gondel zum Hexenwasser, eine spielerische Wanderwelt für Familien"
+  },
+  "intro": {
+   "nl": "Vanuit Söll brengt de Gondelbahn Hochsöll je in enkele minuten naar het Hexenwasser (ca. 1.355 m), een bergbelevingswereld met binnen- en buitenwaterstations, een bijenhuis met imker en een oude boerderij als heksenhoofdkwartier. Kinderen verkennen er onder meer het heksenbos op blote voeten. De paden zijn eenvoudig en vol kleine verrassingen.\n\nWie hoger wil, neemt het tweede deel van de gondel naar de Hohe Salve (1.829 m), met uitzicht op ongeveer 70 driedui­zenders. Het zomerseizoen 2026 loopt van 9 mei tot 1 november; controleer voor je vertrekt de actuele tijden en tarieven.",
+   "en": "From Söll the Hochsöll gondola takes you up in a few minutes to the Hexenwasser (about 1,355 m), a mountain adventure world with indoor and outdoor water stations, a bee house with a beekeeper and an old farmhouse as the witches' headquarters. Children can explore the witches' forest barefoot. The paths are easy and full of small surprises.\n\nIf you want to go higher, take the second section of the gondola to the Hohe Salve (1,829 m), with views of around 70 peaks over 3,000 m. The 2026 summer season runs from 9 May to 1 November; check current times and fares before you set off.",
+   "de": "Von Söll bringt Sie die Gondelbahn Hochsöll in wenigen Minuten zum Hexenwasser (ca. 1.355 m), einer Bergerlebniswelt mit Wasserstationen drinnen und draußen, einem Bienenhaus mit Imker und einem alten Bauernhaus als Hexenzentrale. Kinder erkunden hier unter anderem den Hexenwald barfuß. Die Wege sind leicht und voller kleiner Überraschungen.\n\nWer höher hinaus will, nimmt den zweiten Teil der Gondel zur Hohen Salve (1.829 m) mit Blick auf rund 70 Dreitausender. Die Sommersaison 2026 dauert vom 9. Mai bis 1. November; prüfen Sie vorab aktuelle Zeiten und Preise."
+  },
+  "tips": {
+   "nl": [
+    "Neem droge kleren mee voor de kinderen: bij de watertoestellen worden ze nat.",
+    "Kijk vooraf naar de actuele dienstregeling en tarieven van de gondel.",
+    "Plan na het Hexenwasser een stop in een van de berghutten in het gebied."
+   ],
+   "en": [
+    "Bring dry clothes for the children: they will get wet at the water stations.",
+    "Check the current timetable and fares for the gondola beforehand.",
+    "Plan a stop at one of the mountain huts in the area after the Hexenwasser."
+   ],
+   "de": [
+    "Nehmen Sie Wechselkleidung für die Kinder mit: An den Wasserstationen werden sie nass.",
+    "Prüfen Sie vorab Fahrplan und Preise der Gondel.",
+    "Planen Sie nach dem Hexenwasser eine Einkehr in einer der Hütten ein."
+   ]
+  },
+  "practical": {
+   "nl": "Söll ligt ca. 25 minuten rijden van Niederau, in het Kufsteinerland. Het dalstation van de gondel ligt in het dorp; bij de rit naar boven stap je uit bij het Hexenwasser.",
+   "en": "Söll is about 25 minutes by car from Niederau, in the Kufstein region. The valley station of the gondola is in the village; on the way up you get off at the Hexenwasser.",
+   "de": "Söll liegt ca. 25 Fahrminuten von Niederau entfernt im Kufsteinerland. Die Talstation der Gondelbahn befindet sich im Ort; auf der Fahrt nach oben steigen Sie am Hexenwasser aus."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "Approx. 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Gondel betaald; informeer naar tarieven",
+    "en": "Gondola is charged; ask about fares",
+    "de": "Gondel kostenpflichtig; Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min drive",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (9 mei tot 1 november 2026)",
+    "en": "Summer (9 May to 1 November 2026)",
+    "de": "Sommer (9. Mai bis 1. November 2026)"
+   }
+  },
+  "location": {
+   "nl": "Söll/Hochsöll, Kufsteinerland (Tirol)",
+   "en": "Söll/Hochsöll, Kufstein region (Tyrol)",
+   "de": "Söll/Hochsöll, Kufsteinerland (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het Hexenwasser?",
+     "en": "What is the Hexenwasser?",
+     "de": "Was ist das Hexenwasser?"
+    },
+    "a": {
+     "nl": "Een bergbelevingswereld bij Hochsöll met waterstations, een bijenhuis en een oude boerderij, bedoeld voor gezinnen.",
+     "en": "A mountain adventure world at Hochsöll with water stations, a bee house and an old farmhouse, aimed at families.",
+     "de": "Eine Bergerlebniswelt bei Hochsöll mit Wasserstationen, Bienenhaus und altem Bauernhaus, für Familien gedacht."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s64",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ellmau",
+  "slug_en": "wilder-kaiser-family-hikes",
+  "slug_de": "wilder-kaiser-familienwanderung",
+  "title": {
+   "nl": "Wandelen aan de Wilder Kaiser",
+   "en": "Hiking at the Wilder Kaiser",
+   "de": "Wandern am Wilden Kaiser"
+  },
+  "tagline": {
+   "nl": "Familievriendelijke routes onder de rotswanden van het Kaisergebirge",
+   "en": "Family-friendly routes beneath the rock walls of the Kaisergebirge",
+   "de": "Familienfreundliche Wege unter den Felswänden des Kaisergebirges"
+  },
+  "intro": {
+   "nl": "De Wilder Kaiser, het Kaisergebirge, is een van de bekendste kalkmassieven van Tirol. Rond Ellmau, Going en Scheffau ligt een uitgebreid net van gemarkeerde wandelroutes door weiden en bos, met de steile rotswanden recht boven je. De regio draagt het Europese keurmerk voor wandelen.\n\nVoor gezinnen zijn er makkelijke routes, zoals de rondwandeling om de Hintersteiner See (ca. 5 km, 1,5 tot 2 uur) en de Bergdokterronde tussen Ellmau en Going (ca. 11 km, weinig hoogteverschil). In de zomer zijn er ook geleide wandelingen en gezinsactiviteiten, deels gratis met de gastenkaart. Vraag bij het toeristenbureau om een kaart en actuele routes.",
+   "en": "The Wilder Kaiser, or Kaisergebirge, is one of Tyrol's best-known limestone massifs. Around Ellmau, Going and Scheffau a wide network of marked hiking routes runs across meadows and through forest, with the steep rock walls right above you. The region holds the European hiking quality seal.\n\nFor families there are easy routes, such as the circuit around the Hintersteiner See (about 5 km, 1.5 to 2 hours) and the Bergdoktor round between Ellmau and Going (about 11 km, little ascent). In summer there are also guided walks and family activities, some free with the guest card. Ask the tourist office for a map and current routes.",
+   "de": "Der Wilde Kaiser, das Kaisergebirge, ist eines der bekanntesten Kalkmassive Tirols. Rund um Ellmau, Going und Scheffau liegt ein dichtes Netz markierter Wanderwege über Wiesen und durch Wald, mit den steilen Felswänden direkt über Ihnen. Die Region trägt das Europäische Wandergütesiegel.\n\nFür Familien gibt es leichte Routen, etwa die Runde um den Hintersteiner See (ca. 5 km, 1,5 bis 2 Stunden) und die Bergdoktor-Runde zwischen Ellmau und Going (ca. 11 km, wenig Höhenunterschied). Im Sommer gibt es außerdem geführte Wanderungen und Familienangebote, teils kostenlos mit der Gästekarte. Fragen Sie im Tourismusbüro nach einer Karte und aktuellen Routen."
+  },
+  "tips": {
+   "nl": [
+    "Kies een route naar draagkracht van de kinderen; de Hintersteiner See is een goede, korte start.",
+    "Neem water en een picknick mee.",
+    "Vraag naar gratis gezinsactiviteiten met de gastenkaart."
+   ],
+   "en": [
+    "Pick a route to suit the children's stamina; the Hintersteiner See is a good, short start.",
+    "Bring water and a picnic.",
+    "Ask about free family activities with the guest card."
+   ],
+   "de": [
+    "Wählen Sie eine Route nach der Ausdauer der Kinder; der Hintersteiner See ist ein guter, kurzer Einstieg.",
+    "Nehmen Sie Wasser und ein Picknick mit.",
+    "Fragen Sie nach kostenlosen Familienangeboten mit der Gästekarte."
+   ]
+  },
+  "practical": {
+   "nl": "Ellmau en Going liggen ca. 40 minuten rijden van Niederau, in de richting van St. Johann in Tirol. Bij de startpunten is meestal parkeergelegenheid.",
+   "en": "Ellmau and Going are about 40 minutes by car from Niederau, towards St. Johann in Tirol. There is usually parking at the starting points.",
+   "de": "Ellmau und Going liegen ca. 40 Fahrminuten von Niederau entfernt, Richtung St. Johann in Tirol. An den Startpunkten gibt es meist Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden (kies de route)",
+    "en": "All ages (choose the route)",
+    "de": "Alle Altersgruppen (Route wählen)"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Wandelen gratis",
+    "en": "Walking is free",
+    "de": "Wandern kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min drive",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Ellmau/Going, Wilder Kaiser (Tirol)",
+   "en": "Ellmau/Going, Wilder Kaiser (Tyrol)",
+   "de": "Ellmau/Going, Wilder Kaiser (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn er makkelijke wandelingen aan de Wilder Kaiser?",
+     "en": "Are there easy walks at the Wilder Kaiser?",
+     "de": "Gibt es leichte Wanderungen am Wilden Kaiser?"
+    },
+    "a": {
+     "nl": "Ja, bijvoorbeeld de rondwandeling om de Hintersteiner See (ca. 5 km) of de Bergdokterronde tussen Ellmau en Going; vraag het toeristenbureau om een kaart.",
+     "en": "Yes, for example the circuit around the Hintersteiner See (about 5 km) or the Bergdoktor round between Ellmau and Going; ask the tourist office for a map.",
+     "de": "Ja, zum Beispiel die Runde um den Hintersteiner See (ca. 5 km) oder die Bergdoktor-Runde zwischen Ellmau und Going; fragen Sie das Tourismusbüro nach einer Karte."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s73",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "pillersee-lake-walk",
+  "slug_de": "pillersee-rundwanderung",
+  "title": {
+   "nl": "Rondwandeling Pillersee",
+   "en": "Pillersee lake circuit",
+   "de": "Pillersee-Rundwanderung"
+  },
+  "tagline": {
+   "nl": "Rustige rondwandeling om het meer bij St. Ulrich am Pillersee",
+   "en": "Quiet walk around the lake at St. Ulrich am Pillersee",
+   "de": "Ruhige Rundwanderung um den See bei St. Ulrich am Pillersee"
+  },
+  "intro": {
+   "nl": "De Pillersee ligt in het PillerseeTal, tussen St. Ulrich am Pillersee en Sankt Jakob in Haus, omringd door bergen van de Kitzbüheler Alpen. Rond het meer zijn meerdere eenvoudige wandelroutes, ook geschikt voor kinderwagens. De Pillerseerunde vanuit St. Ulrich is ongeveer 4,4 km en duurt zo'n 1 uur en 10 minuten; de Weiler Runde is ongeveer 7,2 km (circa 1 uur 50).\n\nOnderweg kom je langs oevers, weiden en bos. De routes zijn flexibel: je kunt een stuk lopen en terugkeren of de hele ronde maken. Combineer het met een bezoek aan St. Ulrich. Vraag bij het toeristenbureau naar de actuele routes, want de varianten verschillen in lengte.",
+   "en": "The Pillersee lies in the PillerseeTal between St. Ulrich am Pillersee and Sankt Jakob in Haus, surrounded by mountains of the Kitzbühel Alps. Several easy walking routes lead around the lake, and they are also suitable for pushchairs. The Pillerseerunde from St. Ulrich is about 4.4 km and takes roughly 1 hour 10 minutes; the Weiler Runde is about 7.2 km (around 1 hour 50).\n\nAlong the way you pass shoreline, meadows and woodland. The routes are flexible: you can walk part of one and turn back, or do the full circuit. Combine it with a visit to St. Ulrich. Ask the tourist office for current routes, as the variants differ in length.",
+   "de": "Der Pillersee liegt im PillerseeTal zwischen St. Ulrich am Pillersee und Sankt Jakob in Haus, umgeben von den Bergen der Kitzbüheler Alpen. Rund um den See führen mehrere leichte Wege, die auch kinderwagentauglich sind. Die Pillerseerunde ab St. Ulrich ist rund 4,4 km lang und dauert etwa 1 Stunde 10 Minuten; die Weiler Runde misst etwa 7,2 km (rund 1 Stunde 50).\n\nUnterwegs kommen Sie an Uferbereichen, Wiesen und Wald vorbei. Die Wege sind flexibel: Sie können ein Stück gehen und umkehren oder die ganze Runde machen. Verbinden Sie sie mit einem Besuch in St. Ulrich. Fragen Sie im Tourismusbüro nach aktuellen Routen, denn die Varianten unterscheiden sich in der Länge."
+  },
+  "tips": {
+   "nl": [
+    "Je hoeft de ronde niet af te maken; ga zo ver als de kinderen aankunnen.",
+    "Neem een picknick mee voor een pauze aan het meer.",
+    "Vraag bij het toeristenbureau naar de actuele routes."
+   ],
+   "en": [
+    "You do not have to finish the circuit; go as far as the children can manage.",
+    "Bring a picnic for a break by the lake.",
+    "Ask the tourist office about current routes."
+   ],
+   "de": [
+    "Sie müssen die Runde nicht beenden; gehen Sie so weit, wie die Kinder mögen.",
+    "Nehmen Sie ein Picknick für eine Pause am See mit.",
+    "Fragen Sie beim Tourismusbüro nach den aktuellen Routen."
+   ]
+  },
+  "practical": {
+   "nl": "St. Ulrich am Pillersee ligt ca. 55 minuten rijden van Niederau, via Kitzbühel of St. Johann. Bij het meer is meestal parkeergelegenheid.",
+   "en": "St. Ulrich am Pillersee is about 55 minutes by car from Niederau, via Kitzbühel or St. Johann. There is usually parking near the lake.",
+   "de": "St. Ulrich am Pillersee ist ca. 55 Fahrminuten von Niederau entfernt, über Kitzbühel oder St. Johann. Am See gibt es meist Parkplätze."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "Approx. 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "Approx. 55 min drive",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Pillersee, St. Ulrich (Tirol)",
+   "en": "Pillersee, St. Ulrich (Tyrol)",
+   "de": "Pillersee, St. Ulrich (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is de rondwandeling om de Pillersee?",
+     "en": "How long is the walk around the Pillersee?",
+     "de": "Wie lang ist die Rundwanderung um den Pillersee?"
+    },
+    "a": {
+     "nl": "De Pillerseerunde vanuit St. Ulrich is ongeveer 4,4 km (ca. 1 uur 10); langere varianten zoals de Weiler Runde zijn ongeveer 7,2 km.",
+     "en": "The Pillerseerunde from St. Ulrich is about 4.4 km (around 1 hour 10); longer variants such as the Weiler Runde are about 7.2 km.",
+     "de": "Die Pillerseerunde ab St. Ulrich ist rund 4,4 km lang (ca. 1 Stunde 10); längere Varianten wie die Weiler Runde messen etwa 7,2 km."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s79",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "krimml-waterfalls-hohe-tauern",
+  "slug_de": "krimmler-wasserfaelle-hohe-tauern",
+  "title": {
+   "nl": "Krimmler Wasserfälle",
+   "en": "Krimml Waterfalls",
+   "de": "Krimmler Wasserfälle"
+  },
+  "tagline": {
+   "nl": "De hoogste watervallen van Europa in het Nationalpark Hohe Tauern",
+   "en": "Some of Europe's highest waterfalls in the Hohe Tauern National Park",
+   "de": "Eine der höchsten Wasserfallgruppen Europas im Nationalpark Hohe Tauern"
+  },
+  "intro": {
+   "nl": "De Krimmler Wasserfälle in het Nationalpark Hohe Tauern storten in drie trappen zo'n 380 m naar beneden. Een brede, goed begaanbare Wasserfallweg van ongeveer 4 km met uitkijkpunten volgt de vallen; reken op 2 tot 3 uur voor de hele route. Je hoeft niet helemaal naar boven: ook de onderste val is al indrukwekkend.\n\nDe nevel is aanzienlijk, dus een regenjas is handig. Kinderen vinden de kracht van het water vaak indrukwekkend. De Wasserfallweg is tegen betaling toegankelijk (in 2026 € 9 per persoon), van half april tot eind oktober. Plan tijd in voor de terugweg of een pauze bij een van de uitkijkpunten.",
+   "en": "The Krimml Waterfalls in the Hohe Tauern National Park plunge about 380 m in three stages. A wide, well-made Wasserfallweg of about 4 km with viewpoints follows the falls; allow 2 to 3 hours for the whole route. You do not have to go all the way up: even the lowest fall is impressive.\n\nThere is a lot of spray, so a rain jacket is handy. Children often find the power of the water impressive. The Wasserfallweg is open for a fee (€ 9 per person in 2026) from mid-April to the end of October. Allow time for the walk back or a break at one of the viewpoints.",
+   "de": "Die Krimmler Wasserfälle im Nationalpark Hohe Tauern stürzen in drei Stufen rund 380 m in die Tiefe. Ein breiter, gut begehbarer Wasserfallweg von etwa 4 km mit Aussichtspunkten begleitet die Fälle; rechnen Sie für die ganze Strecke mit 2 bis 3 Stunden. Sie müssen nicht ganz hinauf: Schon der unterste Fall ist beeindruckend.\n\nEs gibt viel Sprühnebel, eine Regenjacke ist daher praktisch. Kinder finden die Kraft des Wassers oft beeindruckend. Der Wasserfallweg ist gegen Gebühr (2026: 9 € pro Person) von Mitte April bis Ende Oktober geöffnet. Planen Sie Zeit für den Rückweg oder eine Pause an einem der Aussichtspunkte ein."
+  },
+  "tips": {
+   "nl": [
+    "Neem een regenjas mee; de nevel is vooral bij de bovenste vallen groot.",
+    "Je hoeft niet naar boven: ook de onderste val is al indrukwekkend.",
+    "Controleer de actuele toegangsprijzen en openingstijden voor je vertrekt."
+   ],
+   "en": [
+    "Bring a rain jacket; the spray is heaviest at the upper falls.",
+    "You do not have to go all the way up: the lowest fall is already impressive.",
+    "Check current admission prices and opening times before you go."
+   ],
+   "de": [
+    "Nehmen Sie eine Regenjacke mit; der Sprühnebel ist bei den oberen Fällen am stärksten.",
+    "Sie müssen nicht ganz hinauf: Schon der unterste Fall ist beeindruckend.",
+    "Prüfen Sie vor der Fahrt aktuelle Eintrittspreise und Öffnungszeiten."
+   ]
+  },
+  "practical": {
+   "nl": "Krimml ligt ca. 1 uur en 15 minuten rijden van Niederau, via de Zillertal en de Gerlospas (tolweg). Parkeren is bij het beginpunt van de Wasserfallweg mogelijk.",
+   "en": "Krimml is about 1 hour 15 minutes by car from Niederau, via the Zillertal and the Gerlos Pass (toll road). Parking is available at the start of the Wasserfallweg.",
+   "de": "Krimml ist ca. 1 Stunde 15 Minuten Fahrt von Niederau entfernt, über das Zillertal und die Gerlos Straße (mautpflichtig). Am Beginn des Wasserfallwegs gibt es Parkplätze."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "Approx. 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Entree Wasserfallweg € 9 per persoon (2026); informeer vooraf",
+    "en": "Wasserfallweg admission € 9 per person (2026); check beforehand",
+    "de": "Eintritt Wasserfallweg 9 € pro Person (2026); vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 15 min rijden",
+    "en": "Approx. 1 h 15 min drive",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Ca. half april tot eind oktober",
+    "en": "Approx. mid-April to end of October",
+    "de": "Ca. Mitte April bis Ende Oktober"
+   }
+  },
+  "location": {
+   "nl": "Krimml, Nationalpark Hohe Tauern (Salzburger Land)",
+   "en": "Krimml, Hohe Tauern National Park (Salzburg region)",
+   "de": "Krimml, Nationalpark Hohe Tauern (Salzburger Land)"
+  },
+  "url": "https://wasserfaelle-krimml.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog zijn de Krimmler Wasserfälle?",
+     "en": "How high are the Krimml Waterfalls?",
+     "de": "Wie hoch sind die Krimmler Wasserfälle?"
+    },
+    "a": {
+     "nl": "Ongeveer 380 m in drie trappen; de Wasserfallweg is ca. 4 km lang.",
+     "en": "About 380 m in three stages; the Wasserfallweg is about 4 km long.",
+     "de": "Rund 380 m in drei Stufen; der Wasserfallweg ist etwa 4 km lang."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s83",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "karwendel-nature-park-hinterriss",
+  "slug_de": "naturpark-karwendel-hinterriss",
+  "title": {
+   "nl": "Naturpark Karwendel bij Hinterriß",
+   "en": "Karwendel Nature Park near Hinterriß",
+   "de": "Naturpark Karwendel bei Hinterriß"
+  },
+  "tagline": {
+   "nl": "Wandelen in het grootste natuurpark van Tirol, rond Eng en de Ahornboden",
+   "en": "Hiking in Tyrol's largest nature park around Eng and the Ahornboden",
+   "de": "Wandern im größten Naturpark Tirols rund um Eng und den Ahornboden"
+  },
+  "intro": {
+   "nl": "Het Naturpark Karwendel is een uitgestrekt beschermd berggebied in Tirol, dat doorloopt tot in Beieren. Bij Hinterriß en het gehucht Eng liggen rustige wandelwegen met weinig stijging, ook voor gezinnen. De route door de Enger Grund en langs de Große Ahornboden is ongeveer 3 km lang en heeft zo'n 250 hoogtemeters.\n\nDe Ahornboden is sinds 1972 beschermd natuurmonument en staat bekend om zijn eeuwenoude bergesdoorns. Naast het restaurant bij Eng is een grote speeltuin, en de Eng Alm heeft een boerderijwinkel met eigen producten. Het laatste stuk naar Eng is een tolweg, die tussen mei en eind oktober bereikbaar is. Neem een kaart en voldoende proviand mee.",
+   "en": "The Karwendel Nature Park is a vast protected mountain area in Tyrol that extends into Bavaria. Around Hinterriß and the hamlet of Eng there are quiet walking paths with little climbing, suitable for families. The route through the Enger Grund and along the Große Ahornboden is about 3 km long with roughly 250 m of ascent.\n\nThe Ahornboden has been a protected natural monument since 1972 and is known for its ancient sycamore maples. Next to the restaurant at Eng there is a large playground, and the Eng Alm has a farm shop with its own products. The final stretch to Eng is a toll road, reachable between May and the end of October. Bring a map and enough supplies.",
+   "de": "Der Naturpark Karwendel ist ein weitläufiges Schutzgebiet in Tirol, das bis nach Bayern reicht. Rund um Hinterriß und den Weiler Eng gibt es ruhige Wanderwege mit wenig Steigung, auch für Familien. Die Runde durch den Enger Grund und entlang des Großen Ahornbodens ist etwa 3 km lang und hat rund 250 Höhenmeter.\n\nDer Ahornboden ist seit 1972 geschütztes Naturdenkmal und für seine uralten Bergahorne bekannt. Neben dem Gasthaus bei Eng gibt es einen großen Spielplatz, und die Eng Alm hat einen Hofladen mit eigenen Produkten. Die letzte Strecke nach Eng ist mautpflichtig und zwischen Mai und Ende Oktober befahrbar. Nehmen Sie eine Karte und genügend Verpflegung mit."
+  },
+  "tips": {
+   "nl": [
+    "Zet in op een kortere route, zoals de wandeling door de Enger Grund.",
+    "Neem wat contant geld mee voor de tol en voor de boerderijwinkel.",
+    "Wees op wisselend weer voorbereid; kleed je in lagen."
+   ],
+   "en": [
+    "Go for a shorter route, such as the walk through the Enger Grund.",
+    "Bring some cash for the toll and for the farm shop.",
+    "Be prepared for changeable weather; dress in layers."
+   ],
+   "de": [
+    "Setzen Sie auf eine kürzere Route, etwa den Weg durch den Enger Grund.",
+    "Nehmen Sie etwas Bargeld für die Maut und den Hofladen mit.",
+    "Seien Sie auf wechselhaftes Wetter vorbereitet; kleiden Sie sich in Schichten."
+   ]
+  },
+  "practical": {
+   "nl": "Hinterriß en Eng liggen ca. 1,5 uur rijden van Niederau, via Achensee of het Rißtal; de laatste stuk naar Eng is een tolweg. Een lange dagtocht, dus begin op tijd.",
+   "en": "Hinterriß and Eng are about 1.5 hours by car from Niederau, via the Achensee or the Rißtal; the last stretch to Eng is a toll road. It is a long day trip, so start early.",
+   "de": "Hinterriß und Eng liegen ca. 1,5 Stunden Fahrt von Niederau entfernt, über den Achensee oder das Rißtal; die letzte Strecke nach Eng ist mautpflichtig. Ein langer Tagesausflug, starten Sie also früh."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden (kies de route)",
+    "en": "All ages (choose the route)",
+    "de": "Alle Altersgruppen (Route wählen)"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "Approx. 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen gratis; tol naar Eng",
+    "en": "Walking is free; toll to Eng",
+    "de": "Wandern kostenlos; Maut nach Eng"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 uur rijden",
+    "en": "Approx. 1.5 hours' drive",
+    "de": "Ca. 1,5 Stunden Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hinterriß/Eng, Naturpark Karwendel (Tirol)",
+   "en": "Hinterriß/Eng, Karwendel Nature Park (Tyrol)",
+   "de": "Hinterriß/Eng, Naturpark Karwendel (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er in het Karwendel iets voor gezinnen?",
+     "en": "Is there something for families in the Karwendel?",
+     "de": "Gibt es im Karwendel etwas für Familien?"
+    },
+    "a": {
+     "nl": "Ja, de wandeling door de Enger Grund (ca. 3 km) is rustig en er is bij Eng een grote speeltuin.",
+     "en": "Yes, the walk through the Enger Grund (about 3 km) is gentle and there is a large playground at Eng.",
+     "de": "Ja, der Weg durch den Enger Grund (ca. 3 km) ist sanft und bei Eng gibt es einen großen Spielplatz."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s90",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "schmittenhoehe-zell-am-see-hiking",
+  "slug_de": "schmittenhoehe-zell-am-see-wandern",
+  "title": {
+   "nl": "Schmittenhöhe bij Zell am See",
+   "en": "Schmittenhöhe at Zell am See",
+   "de": "Schmittenhöhe bei Zell am See"
+  },
+  "tagline": {
+   "nl": "Panoramaberg boven het Zeller See met wandelingen voor elk niveau",
+   "en": "Panorama mountain above Lake Zell with hikes for all levels",
+   "de": "Panoramaberg über dem Zeller See mit Wanderungen für jedes Niveau"
+  },
+  "intro": {
+   "nl": "De Schmittenhöhe is de huisberg van Zell am See en in de zomer een bestemming voor panoramawandelingen. De Schmittenhöhebahn brengt je op ongeveer 2.000 m, met uitzicht op het Zeller See en meer dan dertig driedui­zenders, waaronder de Großglockner en de Dachstein. Sinds de zomer van 2024 staat bij de top het panoramaplatform Kaiserblick met een glazen vloer.\n\nBoven beginnen wandelroutes voor alle niveaus. Er is ook een speelwereld voor kinderen en in de zomer worden onder meer geleide kruidenwandelingen aangeboden. Een veelgekozen dagplanning is met de gondel omhoog, wandelend naar beneden en daarna een bezoek aan het meer in Zell am See.",
+   "en": "The Schmittenhöhe is Zell am See's home mountain and in summer a destination for panoramic hikes. The Schmittenhöhebahn takes you to about 2,000 m, with views of Lake Zell and more than thirty peaks over 3,000 m, including the Grossglockner and the Dachstein. Since summer 2024 the Kaiserblick panorama platform with a glass floor has stood near the summit.\n\nUp top, hiking routes for all levels begin. There is also an adventure world for children, and in summer guided herb walks are among the offers. A popular day plan is to ride up, walk down, and then visit the lake at Zell am See.",
+   "de": "Die Schmittenhöhe ist der Hausberg von Zell am See und im Sommer ein Ziel für Panoramawanderungen. Die Schmittenhöhebahn bringt Sie auf etwa 2.000 m, mit Blick auf den Zeller See und mehr als dreißig Dreitausender, darunter Großglockner und Dachstein. Seit dem Sommer 2024 steht am Gipfel die Panoramaplattform Kaiserblick mit Glasboden.\n\nOben beginnen Wanderwege für jedes Niveau. Es gibt außerdem eine Erlebniswelt für Kinder, und im Sommer werden unter anderem geführte Kräuterwanderungen angeboten. Beliebt ist ein Tagesplan mit Auffahrt per Bahn, Abstieg zu Fuß und anschließendem Besuch am See in Zell am See."
+  },
+  "tips": {
+   "nl": [
+    "Ga met de gondel omhoog en loop naar beneden als de hele route te lang is.",
+    "Neem een jas mee: op bijna 2.000 m is het koeler.",
+    "Plan na afloop een bezoek aan het meer."
+   ],
+   "en": [
+    "Ride up by gondola and walk down if the full route is too long.",
+    "Bring a jacket: it is cooler at nearly 2,000 m.",
+    "Plan a visit to the lake afterwards."
+   ],
+   "de": [
+    "Fahren Sie mit der Gondel hinauf und gehen Sie zu Fuß hinab, wenn die ganze Strecke zu lang ist.",
+    "Nehmen Sie eine Jacke mit: Auf fast 2.000 m ist es kühler.",
+    "Planen Sie danach einen Besuch am See ein."
+   ]
+  },
+  "practical": {
+   "nl": "Zell am See ligt ca. 1 uur en 15 minuten rijden van Niederau, via Kitzbühel en de Pass Thurn. Een lange dagtocht, die je goed combineert met het meer.",
+   "en": "Zell am See is about 1 hour 15 minutes by car from Niederau, via Kitzbühel and the Pass Thurn. It is a long day trip that combines well with the lake.",
+   "de": "Zell am See ist ca. 1 Stunde 15 Minuten Fahrt von Niederau entfernt, über Kitzbühel und den Pass Thurn. Ein langer Tagesausflug, der sich gut mit dem See kombinieren lässt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Bergbaan betaald; informeer naar tarieven",
+    "en": "Cable car is charged; ask about fares",
+    "de": "Bergbahn kostenpflichtig; Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 15 min rijden",
+    "en": "Approx. 1 h 15 min drive",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Zell am See (Salzburger Land)",
+   "en": "Zell am See (Salzburg region)",
+   "de": "Zell am See (Salzburger Land)"
+  },
+  "url": "https://www.schmitten.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat zie je vanaf de Schmittenhöhe?",
+     "en": "What can you see from the Schmittenhöhe?",
+     "de": "Was sieht man von der Schmittenhöhe?"
+    },
+    "a": {
+     "nl": "Het Zeller See en meer dan dertig driedui­zenders, waaronder de Großglockner en de Dachstein.",
+     "en": "Lake Zell and more than thirty peaks over 3,000 m, including the Grossglockner and the Dachstein.",
+     "de": "Den Zeller See und mehr als dreißig Dreitausender, darunter Großglockner und Dachstein."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s98",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "grossglockner-high-alpine-road",
+  "slug_de": "grossglockner-hochalpenstrasse",
+  "title": {
+   "nl": "Großglockner Hochalpenstraße",
+   "en": "Grossglockner High Alpine Road",
+   "de": "Großglockner Hochalpenstraße"
+  },
+  "tagline": {
+   "nl": "Panoramaweg met gletsjerzicht en wandelmogelijkheden, tolweg",
+   "en": "Panoramic toll road with glacier views and walking options",
+   "de": "Mautpflichtige Panoramastraße mit Gletscherblick und Wandermöglichkeiten"
+  },
+  "intro": {
+   "nl": "De Großglockner Hochalpenstraße is een tolplichtige bergweg door het Nationalpark Hohe Tauern, ongeveer 48 km lang met 36 haarspeldbochten. Hij is alleen in de warme maanden open, van begin mei tot eind oktober of begin november. In juni tot en met augustus zijn de openingstijden het langst (ruwweg 5.30 tot 21.00 uur); in het voor- en najaar korter.\n\nEen bekend eindpunt is de Kaiser-Franz-Josefs-Höhe op ongeveer 2.369 m, met uitzicht op de Großglockner en de Pasterze, de grootste gletsjer van Oostenrijk. Er zijn onderweg tal van uitzichtpunten en wandelmogelijkheden. Het is een lange dagtocht: neem warme kleding mee, want hoog in de bergen is het koel.",
+   "en": "The Grossglockner High Alpine Road is a toll road through the Hohe Tauern National Park, about 48 km long with 36 hairpin bends. It is open only in the warmer months, from early May until late October or early November. Opening hours are longest from June to August (roughly 5:30 to 21:00) and shorter in spring and autumn.\n\nA well-known destination is the Kaiser-Franz-Josefs-Höhe at about 2,369 m, with views of the Grossglockner and the Pasterze, Austria's largest glacier. There are many viewpoints and walking options on the way. It is a long day trip: bring warm clothing, as it is cool high in the mountains.",
+   "de": "Die Großglockner Hochalpenstraße ist eine mautpflichtige Bergstraße durch den Nationalpark Hohe Tauern, rund 48 km lang mit 36 Kehren. Sie ist nur in den warmen Monaten geöffnet, von Anfang Mai bis Ende Oktober oder Anfang November. Von Juni bis August sind die Öffnungszeiten am längsten (etwa 5.30 bis 21.00 Uhr), im Frühjahr und Herbst kürzer.\n\nEin bekanntes Ziel ist die Kaiser-Franz-Josefs-Höhe auf rund 2.369 m mit Blick auf den Großglockner und die Pasterze, Österreichs größten Gletscher. Unterwegs gibt es viele Aussichtspunkte und Wandermöglichkeiten. Es ist ein langer Tagesausflug: Nehmen Sie warme Kleidung mit, denn hoch in den Bergen ist es kühl."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf of de weg open is; sneeuw of slecht weer kan hem sluiten.",
+    "Neem warme kleding mee, ook in de zomer.",
+    "Vertrek vroeg; ochtenden hebben vaak het helderste zicht."
+   ],
+   "en": [
+    "Check beforehand whether the road is open; snow or bad weather can close it.",
+    "Bring warm clothing, even in summer.",
+    "Set off early; mornings often have the clearest views."
+   ],
+   "de": [
+    "Prüfen Sie vorab, ob die Straße geöffnet ist; Schnee oder Schlechtwetter können sie sperren.",
+    "Nehmen Sie warme Kleidung mit, auch im Sommer.",
+    "Starten Sie früh; die Vormittage haben oft die klarste Sicht."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 1,5 uur rijden tot Bruck an der Großglocknerstraße (via Kitzbühel, Pass Thurn en Zell am See); vandaar ga je de bergweg op. Reken op een hele dag.",
+   "en": "From Niederau it is about 1.5 hours by car to Bruck an der Großglocknerstraße (via Kitzbühel, Pass Thurn and Zell am See); from there you head up the mountain road. Allow a full day.",
+   "de": "Von Niederau sind es ca. 1,5 Stunden Fahrt bis Bruck an der Großglocknerstraße (über Kitzbühel, Pass Thurn und Zell am See); von dort geht es auf die Bergstraße. Rechnen Sie mit einem ganzen Tag."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Tol per auto; dagkaart in 2026 € 41,50 bij voorverkoop (aan de tolpoort hoger); informeer vooraf",
+    "en": "Toll per car; day pass € 41.50 in 2026 when bought in advance (higher at the toll gate); check beforehand",
+    "de": "Maut pro Pkw; Tageskarte 2026 im Vorverkauf 41,50 € (an der Mautstelle höher); vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 uur rijden tot Bruck",
+    "en": "Approx. 1.5 hours' drive to Bruck",
+    "de": "Ca. 1,5 Stunden Fahrt bis Bruck"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot eind oktober)",
+    "en": "Summer (approx. May to late October)",
+    "de": "Sommer (ca. Mai bis Ende Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Hohe Tauern, tussen Bruck en Heiligenblut",
+   "en": "Hohe Tauern, between Bruck and Heiligenblut",
+   "de": "Hohe Tauern, zwischen Bruck und Heiligenblut"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat kost de Großglockner Hochalpenstraße?",
+     "en": "What does the Grossglockner High Alpine Road cost?",
+     "de": "Was kostet die Großglockner Hochalpenstraße?"
+    },
+    "a": {
+     "nl": "In 2026 kost een dagkaart voor een auto € 41,50 bij voorverkoop (bijvoorbeeld via de ÖAMTC); aan de tolpoort is het tarief hoger. Controleer het actuele tarief vooraf.",
+     "en": "In 2026 a day pass for a car costs € 41.50 when bought in advance (for example via the ÖAMTC); the rate at the toll gate is higher. Check the current rate beforehand.",
+     "de": "2026 kostet die Tageskarte für einen Pkw im Vorverkauf 41,50 € (etwa über den ÖAMTC); an der Mautstelle ist der Tarif höher. Prüfen Sie den aktuellen Tarif vorab."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s100",
+  "drop": false,
+  "drop_reason": "",
+  "place": "koessen",
+  "slug_en": "kaiserwinkl-koessen-day-trip",
+  "slug_de": "kaiserwinkl-koessen-ausflug",
+  "title": {
+   "nl": "Kaiserwinkl bij Kössen",
+   "en": "Kaiserwinkl near Kössen",
+   "de": "Kaiserwinkl bei Kössen"
+  },
+  "tagline": {
+   "nl": "Een dag water, bergen en lucht tussen Tirol en Beieren",
+   "en": "A day of water, mountains and sky between Tyrol and Bavaria",
+   "de": "Ein Tag mit Wasser, Bergen und Himmel zwischen Tirol und Bayern"
+  },
+  "intro": {
+   "nl": "Het Kaiserwinkl is een rustige hoek van Tirol, tegen de Duitse grens, met onder meer Kössen en Walchsee. Er is veel te doen op een dag: wandelen en mountainbiken, zwemmen in de Walchsee (watertemperatuur in de zomer ongeveer 20 tot 24 graden) of in het Erlebnis-Waldschwimmbad van Kössen, en raften op de Tiroler Ache.\n\nBoven Kössen ligt het Unterberghorn, een bekende plek voor paragliding. Voor gezinnen is er bovendien het Zahmer Kaiser familiepark met onder meer een zomerrodelbaan, speeltuinen en een kinderboerderij. Je kunt dus kiezen tussen een actieve en een rustige dag.",
+   "en": "The Kaiserwinkl is a quiet corner of Tyrol on the German border, including Kössen and Walchsee. There is plenty for a day out: hiking and mountain biking, swimming in Lake Walchsee (summer water temperatures of about 20 to 24 degrees) or in the Erlebnis-Waldschwimmbad in Kössen, and rafting on the Tiroler Ache.\n\nAbove Kössen rises the Unterberghorn, a well-known paragliding spot. For families there is also the Zahmer Kaiser family adventure park with a summer toboggan run, playgrounds and a petting zoo, among other things. So you can pick an active day or a calm one.",
+   "de": "Der Kaiserwinkl ist eine ruhige Ecke Tirols an der bayerischen Grenze, mit Orten wie Kössen und Walchsee. Für einen Tagesausflug gibt es viel: Wandern und Mountainbiken, Baden im Walchsee (Wassertemperatur im Sommer etwa 20 bis 24 Grad) oder im Erlebnis-Waldschwimmbad Kössen und Rafting auf der Tiroler Ache.\n\nÜber Kössen liegt das Unterberghorn, ein bekannter Startplatz für Gleitschirmflieger. Für Familien gibt es außerdem den Familienerlebnispark Zahmer Kaiser mit Sommerrodelbahn, Spielplätzen und Streichelzoo. Man kann also einen aktiven oder einen ruhigen Tag wählen."
+  },
+  "tips": {
+   "nl": [
+    "Combineer een zwemstop met een korte wandeling om de dag niet te vol te plannen.",
+    "Raften en paragliding zijn aan leeftijds- en gewichtsgrenzen gebonden; vraag dit bij de aanbieder.",
+    "Controleer vooraf het weer, vooral voor raften en paragliding."
+   ],
+   "en": [
+    "Combine a swim stop with a short walk so the day is not over-planned.",
+    "Rafting and paragliding have age and weight limits; ask the operator.",
+    "Check the weather beforehand, especially for rafting and paragliding."
+   ],
+   "de": [
+    "Verbinden Sie einen Badestopp mit einer kurzen Wanderung, damit der Tag nicht überfüllt wird.",
+    "Rafting und Gleitschirmfliegen haben Alters- und Gewichtsgrenzen; fragen Sie beim Anbieter nach.",
+    "Prüfen Sie vorab das Wetter, besonders für Rafting und Gleitschirm."
+   ]
+  },
+  "practical": {
+   "nl": "Kössen ligt ca. 40 minuten rijden van Niederau, via de Kufsteiner kant naar het Kaiserwinkl. Plan de route vooraf en reken op extra tijd in het weekend.",
+   "en": "Kössen is about 40 minutes by car from Niederau, heading towards Kufstein and the Kaiserwinkl. Plan the route in advance and allow extra time at weekends.",
+   "de": "Kössen liegt ca. 40 Autominuten von Niederau entfernt, in Richtung Kufstein und Kaiserwinkl. Route vorab planen und am Wochenende mehr Zeit einrechnen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden, afhankelijk van activiteit",
+    "en": "All ages, depending on activity",
+    "de": "Alle Altersgruppen, je nach Aktivität"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Wisselt per activiteit; informeer vooraf",
+    "en": "Varies by activity; please enquire in advance",
+    "de": "Je nach Aktivität unterschiedlich; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "About 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Vooral zomer",
+    "en": "Mainly summer",
+    "de": "Vor allem Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kössen, Kaiserwinkl",
+   "en": "Kössen, Kaiserwinkl",
+   "de": "Kössen, Kaiserwinkl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke activiteiten zijn er in het Kaiserwinkl in de zomer?",
+     "en": "What can you do in the Kaiserwinkl in summer?",
+     "de": "Was kann man im Sommer im Kaiserwinkl unternehmen?"
+    },
+    "a": {
+     "nl": "Wandelen, mountainbiken, zwemmen in de Walchsee of het Waldschwimmbad in Kössen, raften op de Tiroler Ache en paragliding vanaf het Unterberghorn.",
+     "en": "Hiking, mountain biking, swimming in Lake Walchsee or the Waldschwimmbad in Kössen, rafting on the Tiroler Ache and paragliding from the Unterberghorn.",
+     "de": "Wandern, Mountainbiken, Baden im Walchsee oder im Waldschwimmbad Kössen, Rafting auf der Tiroler Ache und Gleitschirmfliegen am Unterberghorn."
+    }
+   }
+  ],
+  "verified": true
+ }
+]
