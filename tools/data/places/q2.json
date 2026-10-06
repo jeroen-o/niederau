@@ -1,0 +1,354 @@
+[
+ {
+  "slug": "bad-haering",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Bad Häring",
+   "en": "Bad Häring",
+   "de": "Bad Häring"
+  },
+  "tagline": {
+   "nl": "Kuurdorp bij Kufstein met zwavelhoudend thermaalwater.",
+   "en": "Spa village near Kufstein with sulphur-rich thermal water.",
+   "de": "Kurort bei Kufstein mit schwefelhaltigem Thermalwasser."
+  },
+  "intro": {
+   "nl": "Bad Häring ligt in het Kufsteinerland, in het Inndal ten zuiden van Kufstein. Het dorp staat bekend als de enige officiële kuurplaats van Tirol, een titel die het in 1996 kreeg dankzij een bron met zwavelrijk water. Dat water wordt al eeuwenlang gebruikt vanwege de verzachtende werking op gewrichten en huid.\n\nNaast het kuurkarakter heeft Bad Häring een mijnbouwverleden: tot in de twintigste eeuw werd er steenkool gewonnen, en een plaatselijk museum vertelt dat verhaal. Rondom het dorp liggen bossen, weiden en wandelroutes met uitzicht op de bergen van het Kaisergebergte en omgeving.\n\nVoor gezinnen uit Niederau is Bad Häring vooral interessant als rustige halve dag of als regendagalternatief: een bezoek aan de thermen, gecombineerd met een wandeling of een uitstapje naar Kufstein of de Hundalm-ijsgrot in de buurt. Informeer vooraf bij de thermen naar openingstijden en toegangsregels voor kinderen. Trek er genoeg tijd voor uit, neem warme kleding en een lunchpakket mee en kijk vooraf naar het weerbericht, zodat de rit ook echt loont voor iedereen.",
+   "en": "Bad Häring lies in the Kufsteinerland, in the Inn valley just south of Kufstein. It is known as the only officially recognised spa town in Tyrol, a status it received in 1996 thanks to a spring of sulphur-rich water. People have used that water for centuries for its soothing effect on joints and skin.\n\nBesides its spa character, Bad Häring has a mining past: coal was extracted here until the twentieth century, and a local museum tells that story. Around the village you will find forests, meadows and walking routes with views of the surrounding mountains.\n\nFor families staying in Niederau, Bad Häring works well as a relaxed half day or a rainy-day alternative: a visit to the thermal baths, combined with a walk or a trip to Kufstein or the nearby Hundalm ice cave. Check opening times and rules for children with the baths beforehand. Allow enough time, bring warm clothing and a packed lunch, and check the weather forecast beforehand so the trip is worthwhile for everyone.",
+   "de": "Bad Häring liegt im Kufsteinerland, im Inntal südlich von Kufstein. Der Ort gilt als einziger offiziell anerkannter Kurort Tirols; diesen Status erhielt er 1996 dank einer Quelle mit schwefelhaltigem Wasser. Dieses Wasser wird seit Jahrhunderten wegen seiner wohltuenden Wirkung auf Gelenke und Haut genutzt.\n\nNeben dem Kurcharakter hat Bad Häring eine Bergbauvergangenheit: Bis ins 20. Jahrhundert wurde hier Kohle abgebaut, ein Museum vor Ort erzählt davon. Rund um das Dorf gibt es Wälder, Wiesen und Wanderwege mit Blick auf die umliegenden Berge.\n\nFür Familien aus Niederau eignet sich Bad Häring als ruhiger Halbtagesausflug oder als Schlechtwetteralternative: ein Besuch der Therme, kombiniert mit einem Spaziergang oder einem Abstecher nach Kufstein oder zur nahen Hundalm Eis- und Tropfsteinhöhle. Öffnungszeiten und Regeln für Kinder bitte vorab bei der Therme erfragen. Planen Sie genug Zeit ein, nehmen Sie warme Kleidung und Proviant mit und prüfen Sie vorab den Wetterbericht, damit sich die Fahrt für alle lohnt."
+  },
+  "highlights": {
+   "nl": [
+    "Thermaal bad met zwavelrijk water, het hele jaar een goede regendagoptie.",
+    "Mijnbouwmuseum over de steenkoolwinning in de streek.",
+    "Wandelen door bossen en weiden rond het dorp, in de zomer.",
+    "Hundalm-ijs- en druipsteengrot in de buurt, een uitstapje van het dorp.",
+    "Combineren met een bezoek aan Kufstein en zijn vesting."
+   ],
+   "en": [
+    "Thermal baths with sulphur-rich water, a good option all year round and in bad weather.",
+    "Mining museum telling the story of local coal extraction.",
+    "Walks through forests and meadows around the village in summer.",
+    "The Hundalm ice and stalactite cave nearby makes a good side trip.",
+    "Easy to combine with a visit to Kufstein and its fortress."
+   ],
+   "de": [
+    "Thermalbad mit schwefelhaltigem Wasser, ganzjährig und bei Schlechtwetter eine gute Option.",
+    "Bergbaumuseum zur Geschichte des Kohleabbaus in der Region.",
+    "Spaziergänge durch Wälder und Wiesen rund um das Dorf im Sommer.",
+    "Die Hundalm Eis- und Tropfsteinhöhle in der Nähe eignet sich für einen Abstecher.",
+    "Gut mit einem Besuch in Kufstein und seiner Festung kombinierbar."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 40 minuten rijden, via Wörgl en de Inntal Autobahn richting Kufstein.",
+   "en": "From Niederau about 40 minutes by car, via Wörgl and the Inn valley motorway towards Kufstein.",
+   "de": "Ab Niederau ca. 40 Minuten mit dem Auto, über Wörgl und die Inntalautobahn Richtung Kufstein."
+  },
+  "best_for": {
+   "nl": "Past bij ontspanning, gezinnen met een regendag en wie thermaal water zoekt.",
+   "en": "Suits relaxation, families on a rainy day and anyone looking for thermal water.",
+   "de": "Passt zu Entspannung, Familien an Regentagen und alle, die Thermalwasser suchen."
+  },
+  "season": {
+   "nl": "Het hele jaar door.",
+   "en": "Open to visit all year round.",
+   "de": "Das ganze Jahr über."
+  },
+  "drive_min": 40,
+  "elevation_m": 650,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom is Bad Häring een kuurplaats?",
+     "en": "Why is Bad Häring a spa town?",
+     "de": "Warum ist Bad Häring ein Kurort?"
+    },
+    "a": {
+     "nl": "Het dorp kreeg in 1996 als eerste in Tirol de status van kuurplaats, dankzij een bron met zwavelrijk water.",
+     "en": "In 1996 it became Tyrol's first spa town thanks to a spring of sulphur-rich water.",
+     "de": "1996 wurde der Ort als erster in Tirol Kurort, dank einer Quelle mit schwefelhaltigem Wasser."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Bad Häring geschikt als regendag-uitstap?",
+     "en": "Is Bad Häring a good rainy-day trip?",
+     "de": "Eignet sich Bad Häring als Regentagsausflug?"
+    },
+    "a": {
+     "nl": "Ja, de thermen zijn een binnenoptie; informeer vooraf naar openingstijden en regels voor kinderen.",
+     "en": "Yes, the thermal baths are an indoor option; check opening times and rules for children in advance.",
+     "de": "Ja, die Therme ist eine Indoor-Option; Öffnungszeiten und Regeln für Kinder bitte vorab erfragen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "slug": "igls",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Igls",
+   "en": "Igls",
+   "de": "Igls"
+  },
+  "tagline": {
+   "nl": "Olympisch dorp boven Innsbruck met de Patscherkofel als huisberg.",
+   "en": "Olympic village above Innsbruck with the Patscherkofel as its home mountain.",
+   "de": "Olympiadorf oberhalb von Innsbruck mit dem Patscherkofel als Hausberg."
+  },
+  "intro": {
+   "nl": "Igls ligt op een plateau ten zuiden van Innsbruck, ongeveer 5 km van het stadscentrum en op ca. 870 m hoogte. Het dorp, tegenwoordig een stadsdeel van Innsbruck, ligt aan de voet van de Patscherkofel en is een rustige uitvalsbasis met bergzicht.\n\nIgls kreeg internationale bekendheid door de Olympische Winterspelen van 1964 en 1976. De kunstijsbaan voor bob en rodel lag hier, en op de Patscherkofel werd de olympische afdaling voor mannen gehouden. De Patscherkofelbahn brengt bezoekers naar de top op 2.246 m, met wandel- en fietsroutes in de zomer en pistes in de winter.\n\nVoor gezinnen uit Niederau is Igls een mooie combinatie van Innsbruck en berg. Je maakt een stadsbezoek en gaat daarna omhoog met de kabelbaan, of je loopt in de winter een winterwandeling langs de bobbaan. Het Tiroler Landesmuseum zit in Innsbruck zelf, niet in Igls. Controleer actuele bedrijfstijden van de kabelbaan vooraf. Trek er genoeg tijd voor uit, neem warme kleding en een lunchpakket mee en kijk vooraf naar het weerbericht, zodat de rit ook echt loont voor iedereen.",
+   "en": "Igls sits on a plateau south of Innsbruck, about 5 km from the city centre at roughly 870 m. Now a district of Innsbruck, it lies at the foot of the Patscherkofel and makes a quiet base with mountain views.\n\nIgls became internationally known through the 1964 and 1976 Winter Olympics. The artificial-ice track for bobsleigh and luge was here, and the men's Olympic downhill was held on the Patscherkofel. The Patscherkofelbahn cable car takes visitors up to the summit at 2,246 m, with walking and cycling routes in summer and ski runs in winter.\n\nFor families staying in Niederau, Igls is a nice mix of Innsbruck and mountains. Visit the city, then ride up by cable car, or take a winter walk along the bobsleigh track. The Tiroler Landesmuseum is in Innsbruck itself, not in Igls. Check current cable car operating times beforehand. Allow enough time, bring warm clothing and a packed lunch, and check the weather forecast beforehand so the trip is worthwhile for everyone.",
+   "de": "Igls liegt auf einem Plateau südlich von Innsbruck, etwa 5 km vom Stadtzentrum entfernt auf rund 870 m Höhe. Der heutige Stadtteil Innsbrucks liegt am Fuß des Patscherkofels und ist ein ruhiger Ausgangspunkt mit Bergblick.\n\nInternationale Bekanntheit erlangte Igls durch die Olympischen Winterspiele 1964 und 1976. Die Kunsteisbahn für Bob und Rodeln lag hier, und am Patscherkofel wurde die olympische Herrenabfahrt ausgetragen. Die Patscherkofelbahn bringt Besucher auf den Gipfel auf 2.246 m, mit Wander- und Radrouten im Sommer und Pisten im Winter.\n\nFür Familien aus Niederau ist Igls eine schöne Verbindung aus Innsbruck und Berg. Man besucht die Stadt und fährt danach mit der Bahn hinauf oder macht im Winter eine Wanderung entlang der Bobbahn. Das Tiroler Landesmuseum befindet sich in Innsbruck selbst, nicht in Igls. Aktuelle Betriebszeiten der Bahn bitte vorab prüfen. Planen Sie genug Zeit ein, nehmen Sie warme Kleidung und Proviant mit und prüfen Sie vorab den Wetterbericht, damit sich die Fahrt für alle lohnt."
+  },
+  "highlights": {
+   "nl": [
+    "Met de Patscherkofelbahn naar de top op 2.246 m.",
+    "Olympische bob- en rodelbaan uit 1964 en 1976, ook te bekijken tijdens een wandeling.",
+    "Winterwandeling langs de bobbaan, bijvoorbeeld naar een hut onderweg.",
+    "Mountainbike- en wandelroutes rond de Patscherkofel in de zomer.",
+    "Skiën op de Patscherkofel, de huisberg van Innsbruck, in de winter."
+   ],
+   "en": [
+    "Ride the Patscherkofelbahn up to the summit at 2,246 m.",
+    "Olympic bobsleigh and luge track from 1964 and 1976, which you can see on a walk.",
+    "Winter walk along the bobsleigh track, for example to a hut on the way.",
+    "Mountain bike and walking routes around the Patscherkofel in summer.",
+    "Skiing on the Patscherkofel, Innsbruck's home mountain, in winter."
+   ],
+   "de": [
+    "Mit der Patscherkofelbahn auf den Gipfel auf 2.246 m.",
+    "Olympische Bob- und Rodelbahn von 1964 und 1976, auch bei einem Spaziergang zu sehen.",
+    "Winterwanderung entlang der Bobbahn, zum Beispiel zu einer Hütte am Weg.",
+    "Mountainbike- und Wanderrouten rund um den Patscherkofel im Sommer.",
+    "Skifahren am Patscherkofel, dem Hausberg Innsbrucks, im Winter."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 1 uur 10 minuten rijden, via Wörgl en de Inntal Autobahn richting Innsbruck.",
+   "en": "From Niederau about 1 hour 10 minutes by car, via Wörgl and the Inn valley motorway towards Innsbruck.",
+   "de": "Ab Niederau ca. 1 Stunde 10 Minuten mit dem Auto, über Wörgl und die Inntalautobahn Richtung Innsbruck."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die stad en bergen willen combineren, en bij wintersportgeschiedenis.",
+   "en": "Suits families combining city and mountains, and fans of winter sports history.",
+   "de": "Passt zu Familien, die Stadt und Berge verbinden wollen, und zu Wintersportgeschichte."
+  },
+  "season": {
+   "nl": "Zomer en winter.",
+   "en": "Summer and winter.",
+   "de": "Sommer und Winter."
+  },
+  "drive_min": 70,
+  "elevation_m": 870,
+  "url": "https://www.innsbruck.info",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er olympisch aan Igls?",
+     "en": "What is Olympic about Igls?",
+     "de": "Was ist an Igls olympisch?"
+    },
+    "a": {
+     "nl": "Bij de Winterspelen van 1964 en 1976 lagen hier de bob- en rodelbaan, en op de Patscherkofel de afdaling voor mannen.",
+     "en": "For the 1964 and 1976 Winter Games the bobsleigh and luge track was here, and the men's downhill was on the Patscherkofel.",
+     "de": "Bei den Winterspielen 1964 und 1976 lagen hier die Bob- und Rodelbahn, am Patscherkofel die Herrenabfahrt."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe hoog gaat de Patscherkofelbahn?",
+     "en": "How high does the Patscherkofelbahn go?",
+     "de": "Wie hoch fährt die Patscherkofelbahn?"
+    },
+    "a": {
+     "nl": "De kabelbaan start aan de rand van het dorp en eindigt op de Patscherkofel op 2.246 m.",
+     "en": "The cable car starts at the edge of the village and ends on the Patscherkofel at 2,246 m.",
+     "de": "Die Seilbahn startet am Ortsrand und endet am Patscherkofel auf 2.246 m."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "krimml",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Krimml",
+   "en": "Krimml",
+   "de": "Krimml"
+  },
+  "tagline": {
+   "nl": "Dorp in Salzburgerland aan de Gerlosstraße, thuis van de Krimmler Wasserfälle.",
+   "en": "Village in Salzburgerland on the Gerlosstraße, home of the Krimml Waterfalls.",
+   "de": "Dorf im Salzburgerland an der Gerlosstraße, Heimat der Krimmler Wasserfälle."
+  },
+  "intro": {
+   "nl": "Krimml ligt in Salzburgerland, aan de Gerlosstraße die Tirol met Salzburgerland verbindt, aan de rand van het Nationalpark Hohe Tauern. Het dorp ligt dus niet in Tirol zelf, maar is vanuit het Zillertal goed bereikbaar over de Gerlospas.\n\nDe belangrijkste reden voor een bezoek zijn de Krimmler Wasserfälle. Met een valhoogte van ca. 380 m (bronnen noemen 380 tot 385 m) behoren ze tot de hoogste watervallen van Europa. De Wasserfallweg, aangelegd rond 1900 met veel uitkijkpunten, is ca. 4 km lang en loopt naar de bovenste uitloop op ca. 1.460 m. De start ligt bij het parkeerterrein van Wasserwelten Krimml aan de Gerlosstraße.\n\nVoor gezinnen uit Niederau is het een dagtocht: reken op een flinke wandeling met kinderen, met pauzes onderweg. Het pad is goed aangelegd, maar de stijging is merkbaar. Neem regenkleding mee, want bij de watervallen kan het nat zijn. Informeer vooraf naar toegang en tarieven. Trek er genoeg tijd voor uit, neem warme kleding en een lunchpakket mee en kijk vooraf naar het weerbericht, zodat de rit ook echt loont voor iedereen.",
+   "en": "Krimml is in Salzburgerland, on the Gerlosstraße that links Tyrol and Salzburgerland, at the edge of the Hohe Tauern National Park. So the village is not in Tyrol itself, but it is easy to reach from the Zillertal over the Gerlos Pass.\n\nThe main reason to visit is the Krimml Waterfalls. With a drop of about 380 m (sources give 380 to 385 m) they are among the highest waterfalls in Europe. The waterfall trail, laid out around 1900 with many viewpoints, is about 4 km long and leads to the upper end of the falls at roughly 1,460 m. It starts at the Wasserwelten Krimml car park on the Gerlosstraße.\n\nFor families staying in Niederau this is a day trip: expect a proper walk with children, with breaks along the way. The path is well built, but the climb is noticeable. Bring rain clothing, as it can be wet near the falls. Check admission and prices beforehand. Allow enough time, bring warm clothing and a packed lunch, and check the weather forecast beforehand so the trip is worthwhile for everyone.",
+   "de": "Krimml liegt im Salzburgerland, an der Gerlosstraße, die Tirol und das Salzburgerland verbindet, am Rand des Nationalparks Hohe Tauern. Der Ort liegt also nicht in Tirol selbst, ist aber vom Zillertal über den Gerlospass gut erreichbar.\n\nHauptgrund für einen Besuch sind die Krimmler Wasserfälle. Mit einer Fallhöhe von rund 380 m (Quellen nennen 380 bis 385 m) zählen sie zu den höchsten Wasserfällen Europas. Der Wasserfallweg, um 1900 mit vielen Aussichtspunkten angelegt, ist etwa 4 km lang und führt zum oberen Ende der Fälle auf rund 1.460 m. Er beginnt beim Parkplatz der Wasserwelten Krimml an der Gerlosstraße.\n\nFür Familien aus Niederau ist das ein Tagesausflug: Man sollte eine ordentliche Wanderung mit Kindern einplanen, mit Pausen unterwegs. Der Weg ist gut ausgebaut, der Anstieg aber spürbar. Regenkleidung mitnehmen, bei den Fällen kann es nass werden. Eintritt und Preise bitte vorab prüfen. Planen Sie genug Zeit ein, nehmen Sie warme Kleidung und Proviant mit und prüfen Sie vorab den Wetterbericht, damit sich die Fahrt für alle lohnt."
+  },
+  "highlights": {
+   "nl": [
+    "Krimmler Wasserfälle: ca. 380 m valhoogte, onderdeel van Nationalpark Hohe Tauern.",
+    "Wasserfallweg van ca. 4 km met uitkijkpunten, aangelegd rond 1900.",
+    "Parkeren bij Wasserwelten Krimml aan de Gerlosstraße.",
+    "Rit over de Gerlos Alpenstraße tussen Tirol en Salzburgerland.",
+    "Te combineren met een bezoek aan het Zillertal op de heen- of terugweg."
+   ],
+   "en": [
+    "Krimml Waterfalls: about 380 m drop, part of the Hohe Tauern National Park.",
+    "Waterfall trail of about 4 km with viewpoints, laid out around 1900.",
+    "Parking at Wasserwelten Krimml on the Gerlosstraße.",
+    "Drive over the Gerlos Alpine Road between Tyrol and Salzburgerland.",
+    "Easy to combine with a stop in the Zillertal on the way there or back."
+   ],
+   "de": [
+    "Krimmler Wasserfälle: rund 380 m Fallhöhe, Teil des Nationalparks Hohe Tauern.",
+    "Wasserfallweg von rund 4 km mit Aussichtspunkten, um 1900 angelegt.",
+    "Parken bei den Wasserwelten Krimml an der Gerlosstraße.",
+    "Fahrt über die Gerlos Alpenstraße zwischen Tirol und Salzburgerland.",
+    "Gut mit einem Halt im Zillertal auf der Hin- oder Rückfahrt kombinierbar."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 1 uur 25 minuten rijden, via het Zillertal en de Gerlosstraße (Gerlospas).",
+   "en": "From Niederau about 1 hour 25 minutes by car, via the Zillertal and the Gerlosstraße (Gerlos Pass).",
+   "de": "Ab Niederau ca. 1 Stunde 25 Minuten mit dem Auto, über das Zillertal und die Gerlosstraße (Gerlospass)."
+  },
+  "best_for": {
+   "nl": "Past bij natuurliefhebbers en gezinnen met kinderen die graag wandelen.",
+   "en": "Suits nature lovers and families with children who enjoy walking.",
+   "de": "Passt zu Naturfreunden und Familien mit wanderfreudigen Kindern."
+  },
+  "season": {
+   "nl": "Vooral zomer en vroege herfst.",
+   "en": "Mainly summer and early autumn.",
+   "de": "Vor allem Sommer und Frühherbst."
+  },
+  "drive_min": 85,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Ligt Krimml in Tirol?",
+     "en": "Is Krimml in Tyrol?",
+     "de": "Liegt Krimml in Tirol?"
+    },
+    "a": {
+     "nl": "Nee, Krimml ligt in Salzburgerland, vlak achter de Gerlospas vanuit het Zillertal.",
+     "en": "No, Krimml is in Salzburgerland, just beyond the Gerlos Pass from the Zillertal.",
+     "de": "Nein, Krimml liegt im Salzburgerland, gleich hinter dem Gerlospass vom Zillertal aus."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang is de Wasserfallweg?",
+     "en": "How long is the waterfall trail?",
+     "de": "Wie lang ist der Wasserfallweg?"
+    },
+    "a": {
+     "nl": "Ca. 4 km tot de bovenste uitloop op ca. 1.460 m; plan er ruim tijd voor in.",
+     "en": "About 4 km to the upper end at roughly 1,460 m; allow plenty of time.",
+     "de": "Rund 4 km bis zum oberen Ende auf rund 1.460 m; reichlich Zeit einplanen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "zell-am-see",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Zell am See",
+   "en": "Zell am See",
+   "de": "Zell am See"
+  },
+  "tagline": {
+   "nl": "Stad in Salzburgerland aan het Zeller See, met de Schmittenhöhe als berg.",
+   "en": "Town in Salzburgerland on Lake Zell, with the Schmittenhöhe as its mountain.",
+   "de": "Stadt im Salzburgerland am Zeller See, mit der Schmittenhöhe als Hausberg."
+  },
+  "intro": {
+   "nl": "Zell am See ligt in Salzburgerland, aan de oever van het Zeller See en aan de voet van de Schmittenhöhe. In de buurt ligt de Kitzsteinhorn-gletsjer. De combinatie van meer, berg en gletsjer maakt de streek Zell am See-Kaprun zowel zomer als winter populair.\n\nDe Schmittenhöhe loopt van ca. 757 tot 1.978 m en biedt uitzicht over het meer. In de winter is het een skigebied met bijna 80 km piste; in de zomer zijn er wandelingen en uitzichtpunten. Aan het meer kun je zwemmen, wandelen en varen.\n\nVoor gezinnen uit Niederau is Zell am See een dagtocht van ca. 1 uur 15 minuten per auto. Het ligt in Salzburgerland, dus buiten Tirol, maar de rit is goed te doen. Plan een dag voor meer en berg, of kies voor de kabelbaan als het weer helder is. De officiële toeristensite van Zell am See-Kaprun geeft actuele informatie over bedrijfstijden en tarieven. Trek er genoeg tijd voor uit, neem warme kleding en een lunchpakket mee en kijk vooraf naar het weerbericht, zodat de rit ook echt loont voor iedereen.",
+   "en": "Zell am See is in Salzburgerland, on the shore of Lake Zell and at the foot of the Schmittenhöhe. The Kitzsteinhorn glacier is nearby. The mix of lake, mountain and glacier makes the Zell am See-Kaprun region popular in both summer and winter.\n\nThe Schmittenhöhe ranges from about 757 to 1,978 m and offers views over the lake. In winter it is a ski area with almost 80 km of pistes; in summer there are walks and viewpoints. On the lake you can swim, walk and boat.\n\nFor families staying in Niederau, Zell am See is a day trip of about 1 hour 15 minutes by car. It is in Salzburgerland, so outside Tyrol, but the drive is manageable. Plan a day for lake and mountain, or choose the cable car on a clear day. The official Zell am See-Kaprun tourism site has current operating times and prices. Allow enough time, bring warm clothing and a packed lunch, and check the weather forecast beforehand so the trip is worthwhile for everyone.",
+   "de": "Zell am See liegt im Salzburgerland, am Ufer des Zeller Sees und am Fuß der Schmittenhöhe. In der Nähe befindet sich der Kitzsteinhorn-Gletscher. Die Mischung aus See, Berg und Gletscher macht die Region Zell am See-Kaprun im Sommer wie im Winter beliebt.\n\nDie Schmittenhöhe reicht von rund 757 bis 1.978 m und bietet Aussicht über den See. Im Winter ist sie ein Skigebiet mit knapp 80 Pistenkilometern; im Sommer gibt es Wanderwege und Aussichtspunkte. Am See kann man baden, spazieren und Boot fahren.\n\nFür Familien aus Niederau ist Zell am See ein Tagesausflug von ca. 1 Stunde 15 Minuten mit dem Auto. Es liegt im Salzburgerland, also außerhalb Tirols, die Fahrt ist aber gut machbar. Man plant einen Tag für See und Berg oder wählt bei klarem Wetter die Bergbahn. Die offizielle Tourismusseite von Zell am See-Kaprun nennt aktuelle Betriebszeiten und Preise. Planen Sie genug Zeit ein, nehmen Sie warme Kleidung und Proviant mit und prüfen Sie vorab den Wetterbericht, damit sich die Fahrt für alle lohnt."
+  },
+  "highlights": {
+   "nl": [
+    "Zeller See: zwemmen, wandelen en varen in de zomer.",
+    "Schmittenhöhe (757 tot 1.978 m) met uitzicht op het meer.",
+    "Skigebied Schmittenhöhe met bijna 80 km piste in de winter.",
+    "Kitzsteinhorn-gletsjer in de buurt, een eigen dagtocht.",
+    "Wandelen langs het meer en door het centrum van de stad."
+   ],
+   "en": [
+    "Lake Zell: swimming, walking and boating in summer.",
+    "Schmittenhöhe (757 to 1,978 m) with views over the lake.",
+    "Schmittenhöhe ski area with almost 80 km of pistes in winter.",
+    "Kitzsteinhorn glacier nearby, a day trip in its own right.",
+    "Walks along the lake and through the town centre."
+   ],
+   "de": [
+    "Zeller See: Baden, Wandern und Bootfahren im Sommer.",
+    "Schmittenhöhe (757 bis 1.978 m) mit Blick über den See.",
+    "Skigebiet Schmittenhöhe mit knapp 80 Pistenkilometern im Winter.",
+    "Kitzsteinhorn-Gletscher in der Nähe, ein eigener Tagesausflug.",
+    "Spaziergänge am See und durch das Stadtzentrum."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 1 uur 15 minuten rijden; de route loopt via Wörgl en Kitzbühel richting Salzburgerland.",
+   "en": "From Niederau about 1 hour 15 minutes by car; the route runs via Wörgl and Kitzbühel towards Salzburgerland.",
+   "de": "Ab Niederau ca. 1 Stunde 15 Minuten mit dem Auto; die Route führt über Wörgl und Kitzbühel ins Salzburgerland."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die meer en berg willen combineren, zomer en winter.",
+   "en": "Suits families who want to combine lake and mountain, summer and winter.",
+   "de": "Passt zu Familien, die See und Berg verbinden wollen, im Sommer wie im Winter."
+  },
+  "season": {
+   "nl": "Zomer en winter.",
+   "en": "Summer and winter.",
+   "de": "Sommer und Winter."
+  },
+  "drive_min": 75,
+  "elevation_m": null,
+  "url": "https://www.zellamsee-kaprun.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Ligt Zell am See in Tirol?",
+     "en": "Is Zell am See in Tyrol?",
+     "de": "Liegt Zell am See in Tirol?"
+    },
+    "a": {
+     "nl": "Nee, het ligt in Salzburgerland, ca. 1 uur 15 minuten rijden vanaf Niederau.",
+     "en": "No, it is in Salzburgerland, about 1 hour 15 minutes by car from Niederau.",
+     "de": "Nein, es liegt im Salzburgerland, ca. 1 Stunde 15 Minuten Autofahrt von Niederau."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe groot is het skigebied Schmittenhöhe?",
+     "en": "How big is the Schmittenhöhe ski area?",
+     "de": "Wie groß ist das Skigebiet Schmittenhöhe?"
+    },
+    "a": {
+     "nl": "Het heeft bijna 80 km piste en loopt van ca. 757 tot 1.978 m.",
+     "en": "It has almost 80 km of pistes and ranges from about 757 to 1,978 m.",
+     "de": "Es hat knapp 80 Pistenkilometer und reicht von rund 757 bis 1.978 m."
+    }
+   }
+  ],
+  "verified": true
+ }
+]
