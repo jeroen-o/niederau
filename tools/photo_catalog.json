@@ -765,5 +765,85 @@
    "apres"
   ],
   false
+ ],
+ [
+  "niederau-winter-sneeuwbos-dalzicht",
+  [
+   "Besneeuwde sparren met uitzicht over een mistig winterdal",
+   "Snow-covered spruce trees overlooking a misty winter valley",
+   "Verschneite Fichten mit Blick über ein nebliges Wintertal"
+  ],
+  [
+   "winterlandschap",
+   "winter",
+   "sneeuw",
+   "bos",
+   "uitzicht"
+  ],
+  false
+ ],
+ [
+  "niederau-piste-sleeplift-bergpanorama",
+  [
+   "Sleeplift boven een zonnige piste met een uitgestrekt bergpanorama",
+   "Drag lift above a sunny slope with a wide mountain panorama",
+   "Schlepplift über einer sonnigen Piste mit weitem Bergpanorama"
+  ],
+  [
+   "sleeplift",
+   "skiën",
+   "piste",
+   "liften",
+   "bergpanorama"
+  ],
+  false
+ ],
+ [
+  "niederau-winter-rodelen-avond-pistenraupe",
+  [
+   "Rodelaars in de avondschemering op een besneeuwde helling, met verlichte pistenraupe op de achtergrond",
+   "Tobogganers at dusk on a snowy slope, with a lit snow groomer in the background",
+   "Rodler in der Abenddämmerung an einem verschneiten Hang, im Hintergrund eine beleuchtete Pistenraupe"
+  ],
+  [
+   "rodelen",
+   "rodelbaan",
+   "verlichte rodelbaan",
+   "avond",
+   "nachtrodelen",
+   "rodel"
+  ],
+  false
+ ],
+ [
+  "niederau-winter-hart-rijp",
+  [
+   "Een hart met twee letters, getekend in de rijp op een rood oppervlak",
+   "A heart with two letters drawn in frost on a red surface",
+   "Ein Herz mit zwei Buchstaben, in den Raureif auf einer roten Fläche gezeichnet"
+  ],
+  [
+   "romantisch",
+   "valentijn",
+   "hart",
+   "koppels"
+  ],
+  false
+ ],
+ [
+  "niederau-oefenlift-piste-winterdag",
+  [
+   "Winterdag op de oefenpiste met een sleeplift, langlaufers en bosrijke hellingen op de achtergrond",
+   "Winter day on the practice slope with a drag lift, cross-country skiers and wooded slopes behind",
+   "Wintertag am Übungshang mit Schlepplift, Langläufern und bewaldeten Hängen im Hintergrund"
+  ],
+  [
+   "oefenlift",
+   "beginners",
+   "langlauf",
+   "skiën",
+   "lanerk"
+  ],
+  false
  ]
 ]

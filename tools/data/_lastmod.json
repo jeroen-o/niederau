@@ -149,7 +149,7 @@
 },
 "activiteiten/avontuur/kinderfakkelwandeling/index.html": {
 "date": "2026-10-06",
-"hash": "955f823b6d6c79a3c7b36871d497e53cac2515ca"
+"hash": "46a9f0befaa597815b577acc2a195854d7a4a750"
 },
 "activiteiten/avontuur/klettergarten-buchensteinwand-pillersee/index.html": {
 "date": "2026-10-06",
@@ -177,7 +177,7 @@
 },
 "activiteiten/avontuur/panoramarit-kabelbaan-schatzberg/index.html": {
 "date": "2026-10-06",
-"hash": "8cb9314dcdcbdcbb02cfc88ebf38d4d2f751ead7"
+"hash": "3e10424c3ee97abc1b007340cb26d0d6c1c8d8df"
 },
 "activiteiten/avontuur/paragliding-tandem/index.html": {
 "date": "2026-10-06",
@@ -757,7 +757,7 @@
 },
 "activiteiten/winterpret/ijsschaatsen-wildschonau/index.html": {
 "date": "2026-10-06",
-"hash": "f4c30a013300c37502d6a9e7dce23c86eca0823a"
+"hash": "00e8f8d0783ba1735887f5bdc650d1c13192d2c8"
 },
 "activiteiten/winterpret/index.html": {
 "date": "2026-10-06",
@@ -769,11 +769,11 @@
 },
 "activiteiten/winterpret/rodelbaan-auffach-schatzberg/index.html": {
 "date": "2026-10-06",
-"hash": "7472b7c05bcbfe39af4001f232f35e1ccd60ba10"
+"hash": "d93ad4e52f017853d27077ec91856d9ab25bef98"
 },
 "activiteiten/winterpret/verlichte-rodelbaan-niederau/index.html": {
 "date": "2026-10-06",
-"hash": "0ab00caacc95d72dedc140703eac35c7d5517470"
+"hash": "caa9872bb3c8ee34deadd6fab7af561bde078563"
 },
 "activiteiten/workshops/index.html": {
 "date": "2026-10-06",
@@ -917,7 +917,7 @@
 },
 "de/aktivitaeten/abenteuer/fackelwanderung-wildschoenau/index.html": {
 "date": "2026-10-06",
-"hash": "1f3ffa474bd8899990cc753bfa4f23da8fda37f3"
+"hash": "9e512d6249d7c60aee6402e6b87c00f1711617ad"
 },
 "de/aktivitaeten/abenteuer/fischen-wildschoenau/index.html": {
 "date": "2026-10-06",
@@ -981,7 +981,7 @@
 },
 "de/aktivitaeten/abenteuer/schatzbergbahn-winter-auffach/index.html": {
 "date": "2026-10-06",
-"hash": "f594b427d61cce31e45303ba887a6bac8239154e"
+"hash": "0e5d537d69f437214881f1a6f6c5038f5e2dc5cf"
 },
 "de/aktivitaeten/abenteuer/spieleabend-familie-wastlhof/index.html": {
 "date": "2026-10-06",
@@ -1753,7 +1753,7 @@
 },
 "de/aktivitaeten/winterspass/eislaufen-familienpark-drachental/index.html": {
 "date": "2026-10-06",
-"hash": "a14b366ed16279f4e6bc745f611bfeca8f783ef8"
+"hash": "3ca2013307634611969e3d5f9476997ed92ff173"
 },
 "de/aktivitaeten/winterspass/index.html": {
 "date": "2026-10-06",
@@ -1765,11 +1765,11 @@
 },
 "de/aktivitaeten/winterspass/nachtrodeln-roggenboden-oberau/index.html": {
 "date": "2026-10-06",
-"hash": "7a763e2d1526140e5aa0058187f2f8b430825aa0"
+"hash": "ae4ff52a2683fc625924a653de0e7591998fbcef"
 },
 "de/aktivitaeten/winterspass/rodelbahn-schatzberg-auffach/index.html": {
 "date": "2026-10-06",
-"hash": "b6039a5d81dc6e824f22d30da5fa7cb9849af740"
+"hash": "b32e9b5aae63fb75fe91bc2bd57df28a3ae224f1"
 },
 "de/aktivitaeten/workshops/index.html": {
 "date": "2026-10-06",
@@ -1777,7 +1777,7 @@
 },
 "de/index.html": {
 "date": "2026-10-06",
-"hash": "7f7613dd52edcb8a66b4b4919dbe7ba64ed1b4e8"
+"hash": "ed58543f410e2cf24600509d21b354a477fb3f92"
 },
 "de/markbachjoch/index.html": {
 "date": "2026-10-06",
@@ -2337,7 +2337,7 @@
 },
 "en/activities/adventure/schatzbergbahn-winter-auffach/index.html": {
 "date": "2026-10-06",
-"hash": "2d98281abd8d0f7e440077a37f2419f0fa628eff"
+"hash": "db98d17e651b7e24f182eb7271395f0ce75b45ec"
 },
 "en/activities/adventure/talfest-niederau/index.html": {
 "date": "2026-10-06",
@@ -2357,7 +2357,7 @@
 },
 "en/activities/adventure/torchlight-walk-wildschoenau/index.html": {
 "date": "2026-10-06",
-"hash": "2298ed045f5e756b6e50e7b36774b4471c108a38"
+"hash": "7b5102d2767cc3b4a7306a461b67e123e9efaaa6"
 },
 "en/activities/adventure/via-ferrata-ellmau-wilder-kaiser/index.html": {
 "date": "2026-10-06",
@@ -3117,7 +3117,7 @@
 },
 "en/activities/winter-fun/ice-skating-familypark-drachental/index.html": {
 "date": "2026-10-06",
-"hash": "0ef4ea5e0ac5dfb41c31dafff600a9dac48fed72"
+"hash": "b1b70038ed688942fc7c722cf5999c76fa5c4a1c"
 },
 "en/activities/winter-fun/index.html": {
 "date": "2026-10-06",
@@ -3125,11 +3125,11 @@
 },
 "en/activities/winter-fun/night-tobogganing-roggenboden-oberau/index.html": {
 "date": "2026-10-06",
-"hash": "eded54de8fadd7eb7c2b715b27f689be59c4b4ae"
+"hash": "cd804fed704a70286000d64aa0c1ddaf921cc19f"
 },
 "en/activities/winter-fun/schatzberg-toboggan-run-auffach/index.html": {
 "date": "2026-10-06",
-"hash": "cdf8997ac2a6a9ab3e7208ebd6d31cb7d7f97e60"
+"hash": "935fafa63f2577222f22b4834e41838f5228f917"
 },
 "en/activities/winter/index.html": {
 "date": "2026-10-06",
@@ -3249,7 +3249,7 @@
 },
 "en/index.html": {
 "date": "2026-10-06",
-"hash": "0c3095fe21a78defb923a68c3b81bad0a073f9e3"
+"hash": "398117e9f425590cd7e5d20b465365ee5f58bb5a"
 },
 "en/markbachjoch/index.html": {
 "date": "2026-10-06",
@@ -3709,7 +3709,7 @@
 },
 "index.html": {
 "date": "2026-10-06",
-"hash": "e66e4351e06a7b738568ea1206cf3e8b19f579fa"
+"hash": "b9fe1419521c835103da77414c9aed668ca0fb2d"
 },
 "markbachjoch/index.html": {
 "date": "2026-10-06",
