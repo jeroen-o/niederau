@@ -24,6 +24,7 @@ UI = {
  "n_home": ("Het dorp", "The village", "Das Dorf"),
  "n_act": ("Activiteiten", "Activities", "Aktivitäten"),
  "n_place": ("Omgeving", "Around Niederau", "Umgebung"),
+ "events_h": ("Terugkerende evenementen", "Recurring events", "Wiederkehrende Veranstaltungen"),
  "n_events": ("Agenda", "Events", "Veranstaltungen"),
  "n_mb": ("Markbachjoch", "Markbachjoch", "Markbachjoch"),
  "toggle_label": ("Wissel tussen zomer- en winterversie", "Switch between summer and winter version", "Zwischen Sommer- und Winterversion wechseln"),
@@ -639,7 +640,7 @@ def build_events():
             ds = "".join(f"<p>{e(t)}</p>" for t in paras(L(x["desc"], lang)))
             cards.append(f'<article class="card"><h3>{e(L(x["name"], lang))}</h3><p><span class="chip">{e(L(x["when"], lang))}</span></p>{ds}{plh}{lk}</article>')
         body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(EV_TXT["tagline"][i])}</p>{intro}</div></section>
-<section class="alt"><div class="wrap"><div class="grid grid-two">{"".join(cards)}</div><p class="note">{ui("check", lang)}</p></div></section>'''
+<section class="alt"><div class="wrap"><h2>{ui("events_h", lang)}</h2><div class="grid grid-two">{"".join(cards)}</div><p class="note">{ui("check", lang)}</p></div></section>'''
         desc = (EV_TXT["tagline"][i] + ". " + paras(EV_TXT["intro"][i])[0])[:300]
         ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
               dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"}),
