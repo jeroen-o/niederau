@@ -192,7 +192,6 @@ def render(lang):
             {"@type": "ListItem", "position": 2, "name": g("h1"), "item": here}]},
         {"@type": ["TouristAttraction", "Place"], "@id": here + "#markbachjoch", "name": "Markbachjoch",
          "description": DESC[lang], "image": f"{BASE}/assets/img/niederau-markbachjochbahn-gondel.webp",
-         "geo": {"@type": "GeoCoordinates", "elevation": 1496},
          "address": {"@type": "PostalAddress", "streetAddress": "Markbachjoch 84", "postalCode": "6314",
                      "addressLocality": "Wildschönau", "addressRegion": "Tirol", "addressCountry": "AT"},
          "containedInPlace": {"@type": "TouristDestination", "name": "Niederau, Wildschönau, Tirol, Austria"}},

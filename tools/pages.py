@@ -436,6 +436,7 @@ def build_act(a):
             dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"}),
             {"@type": ["TouristAttraction", "Place"], "name": title_n, "description": L(a.get("tagline", {}), lang), "url": BASE + urls[lang],
              **({"sameAs": a["url"]} if a.get("url") else {}),
+             **({"image": f"{BASE}/assets/img/{img}.webp"} if img else {}),
              "containedInPlace": {"@type": "Place", "name": (L(p["name"], lang) if p else "Wildschönau") + ", Tirol, Austria"}},
         ] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
         write(urls[lang], shell(lang, a["id"], urls, f"{title_n} | Niederau.nl", desc, body, ld_graph, img=img))
@@ -484,7 +485,6 @@ def build_place(p):
             dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"}),
             {"@type": ["TouristDestination", "Place"], "name": name, "description": L(p.get("tagline", {}), lang), "url": BASE + urls[lang],
              **({"sameAs": p["url"]} if p.get("url") else {}),
-             **({"geo": {"@type": "GeoCoordinates", "elevation": p["elevation_m"]}} if p.get("elevation_m") else {}),
              "containedInPlace": {"@type": "AdministrativeArea", "name": "Tirol, Austria"}},
         ] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
         write(urls[lang], shell(lang, p["slug"], urls, f"{name}: {L(p.get('tagline', {}), lang)} | Niederau.nl"[:90] if False else f"{name} – {ui('n_place', lang)} Niederau | Niederau.nl", desc, body, ld_graph))
@@ -705,7 +705,7 @@ def build_guides():
 <div>{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
 <section class="alt"><div class="wrap">{secs}</div></section>{faq_s}'''
             desc = (L(g.get("tagline", {}), lang) + " " + " ".join(paras(L(g.get("intro", {}), lang)))[:170]).strip()[:300]
-            ld = [{"@type": "Article", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "headline": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "author": {"@type": "Organization", "name": "Niederau.nl"}, "publisher": {"@id": f"{BASE}/#website"}},
+            ld = [{"@type": "Article", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "headline": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "image": [OG], "mainEntityOfPage": BASE + urls[lang], "author": {"@type": "Organization", "name": "Niederau.nl"}, "publisher": {"@id": f"{BASE}/#website"}},
                   dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
             write(urls[lang], shell(lang, "guide:" + g["id"], urls, f"{name} | Niederau.nl", desc, body, ld))
         registry.append(("guide:" + g["id"], urls, None))
