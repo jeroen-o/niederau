@@ -1,0 +1,1420 @@
+[
+ {
+  "id": "s36",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "village-concerts-wildschoenau",
+  "slug_de": "platzkonzerte-wildschoenau",
+  "title": {
+   "nl": "Dorpsconcerten in de Wildschönau",
+   "en": "Village band concerts in the Wildschönau",
+   "de": "Platzkonzerte in der Wildschönau"
+  },
+  "tagline": {
+   "nl": "Gratis openluchtconcerten van de plaatselijke muziekkapellen",
+   "en": "Free open-air concerts by the local brass bands",
+   "de": "Kostenlose Open-Air-Konzerte der örtlichen Musikkapellen"
+  },
+  "intro": {
+   "nl": "In de zomer geeft de Bundesmusikkapelle van Oberau elke dinsdagavond een openluchtconcert in het centrum, op het Dreizehnlindenplatz. In 2026 loopt de reeks van 7 juli tot en met 1 september en begint het concert om 20:00 uur. Het programma is gevarieerd, van traditionele blaasmuziek tot modernere klanken, en er zijn versnaperingen verkrijgbaar.\n\nOok de kapel van Mühltal geeft in de zomer concerten; de data daarvan wisselen, dus kijk in de actuele evenementenagenda. Het is een ongedwongen avond waarop kinderen rustig kunnen rondlopen. Data kunnen per jaar verschillen, dus controleer het actuele programma.",
+   "en": "In summer the Oberau Bundesmusikkapelle gives an open-air concert every Tuesday evening in the village centre, on the Dreizehnlindenplatz. In 2026 the series runs from 7 July to 1 September, with the concert starting at 8 pm. The programme is varied, from traditional brass music to more modern sounds, and refreshments are available.\n\nThe Mühltal band also plays concerts in summer; its dates change, so look at the current events calendar. It is a relaxed evening where children can move about freely. Dates can differ from year to year, so check the current programme.",
+   "de": "Im Sommer gibt die Bundesmusikkapelle Oberau jeden Dienstagabend ein Platzkonzert im Ortszentrum, am Dreizehnlindenplatz. 2026 läuft die Reihe vom 7. Juli bis 1. September, Beginn ist um 20:00 Uhr. Das Programm ist abwechslungsreich, von traditioneller Blasmusik bis zu moderneren Klängen, und für Getränke und Snacks ist gesorgt.\n\nAuch die Kapelle in Mühltal spielt im Sommer Konzerte; deren Termine wechseln, schauen Sie daher in den aktuellen Veranstaltungskalender. Es ist ein ungezwungener Abend, an dem sich Kinder frei bewegen können. Termine können sich von Jahr zu Jahr unterscheiden, prüfen Sie daher das aktuelle Programm."
+  },
+  "tips": {
+   "nl": [
+    "Kom iets eerder om een goede plek te vinden.",
+    "Neem een jas mee voor als het 's avonds afkoelt.",
+    "Controleer de actuele data in de evenementenagenda van de Wildschönau."
+   ],
+   "en": [
+    "Arrive a little early to get a good spot.",
+    "Bring a jacket in case it cools in the evening.",
+    "Check the current dates in the Wildschönau events calendar."
+   ],
+   "de": [
+    "Kommen Sie etwas früher, um einen guten Platz zu bekommen.",
+    "Nehmen Sie eine Jacke mit, falls es abends abkühlt.",
+    "Prüfen Sie die aktuellen Termine im Veranstaltungskalender der Wildschönau."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 tot 10 minuten van Niederau, per auto of bus. Het Dreizehnlindenplatz ligt in het dorpscentrum.",
+   "en": "Oberau is about 5 to 10 minutes from Niederau, by car or bus. The Dreizehnlindenplatz is in the village centre.",
+   "de": "Oberau liegt etwa 5 bis 10 Minuten von Niederau entfernt, mit Auto oder Bus. Der Dreizehnlindenplatz befindet sich im Ortszentrum."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 tot 2 uur",
+    "en": "Approx. 1.5 to 2 hours",
+    "de": "Ca. 1,5 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 tot 10 min rijden",
+    "en": "Approx. 5 to 10 min by car",
+    "de": "Ca. 5 bis 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (in 2026 van juli tot begin september)",
+    "en": "Summer (in 2026 from July to early September)",
+    "de": "Sommer (2026 von Juli bis Anfang September)"
+   }
+  },
+  "location": {
+   "nl": "Dreizehnlindenplatz, Oberau",
+   "en": "Dreizehnlindenplatz, Oberau",
+   "de": "Dreizehnlindenplatz, Oberau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer geeft de kapel van Oberau een concert?",
+     "en": "When does the Oberau band play?",
+     "de": "Wann spielt die Musikkapelle Oberau?"
+    },
+    "a": {
+     "nl": "In 2026 elke dinsdag om 20:00 uur op het Dreizehnlindenplatz, van 7 juli tot 1 september.",
+     "en": "In 2026 every Tuesday at 8 pm on the Dreizehnlindenplatz, from 7 July to 1 September.",
+     "de": "2026 jeden Dienstag um 20:00 Uhr am Dreizehnlindenplatz, vom 7. Juli bis 1. September."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s42",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "oberau-farm-shop-market",
+  "slug_de": "bauernmarkt-oberau",
+  "title": {
+   "nl": "Bauernladl Oberau",
+   "en": "Farm shop in Oberau",
+   "de": "Bauernladl Oberau"
+  },
+  "tagline": {
+   "nl": "Streekproducten rechtstreeks van boeren uit de Wildschönau",
+   "en": "Regional products direct from Wildschönau farmers",
+   "de": "Regionale Produkte direkt von Wildschönauer Bauern"
+  },
+  "intro": {
+   "nl": "In Oberau verkoopt het Bauernladl streekproducten van boeren uit de Wildschönau en omgeving: onder meer kaas, spek, jam en brood, aangevuld met handgemaakte spullen. De winkel wordt gerund door de ARGE Wildschönauer Bauernmarkt, een samenwerking van lokale producenten, en hecht waarde aan kwaliteit en duurzaamheid.\n\nDe openingstijden die nu bekend zijn: woensdag tot en met zaterdag van 9:00 tot 12:00 uur, en op vrijdag ook van 15:00 tot 18:00 uur. Het is geen groot evenement, maar een prettige stop voor vers eten of een cadeautje. Tijden kunnen per seizoen veranderen, dus controleer ze vooraf.",
+   "en": "In Oberau the Bauernladl sells regional products from farmers in the Wildschönau and surrounding area: cheese, bacon, jam and bread, among other things, plus handmade items. The shop is run by the ARGE Wildschönauer Bauernmarkt, a cooperative of local producers, and puts weight on quality and sustainability.\n\nThe opening hours currently listed are Wednesday to Saturday from 9 am to 12 noon, and on Fridays also from 3 pm to 6 pm. It is not a big event but a pleasant stop for fresh food or a gift. Hours can change with the season, so check beforehand.",
+   "de": "In Oberau verkauft das Bauernladl regionale Produkte von Bauern aus der Wildschönau und Umgebung, darunter Käse, Speck, Marmelade und Brot, dazu Handgemachtes. Betrieben wird der Laden von der ARGE Wildschönauer Bauernmarkt, einem Zusammenschluss örtlicher Erzeuger, die Wert auf Qualität und Nachhaltigkeit legen.\n\nZurzeit angegeben sind Öffnungszeiten von Mittwoch bis Samstag von 9:00 bis 12:00 Uhr, freitags zusätzlich von 15:00 bis 18:00 Uhr. Es ist kein großes Event, aber ein angenehmer Stopp für frische Lebensmittel oder ein Mitbringsel. Die Zeiten können sich je nach Saison ändern, bitte vorab prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Ga in de ochtend; dan is er de meeste keuze.",
+    "Neem een koeltas mee voor kaas en spek.",
+    "Laat kinderen een product kiezen om thuis te proeven.",
+    "Controleer vooraf de actuele openingstijden."
+   ],
+   "en": [
+    "Go in the morning when the choice is widest.",
+    "Bring a cool bag for cheese and bacon.",
+    "Let children choose a product to try at home.",
+    "Check the current opening hours beforehand."
+   ],
+   "de": [
+    "Gehen Sie am Vormittag, dann ist die Auswahl am größten.",
+    "Nehmen Sie eine Kühltasche für Käse und Speck mit.",
+    "Lassen Sie Kinder ein Produkt zum Probieren zu Hause aussuchen.",
+    "Prüfen Sie die aktuellen Öffnungszeiten vorab."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 tot 10 minuten van Niederau. Met de bus kom je bij halte Oberau Kellerwirt, een minuut lopen van de winkel; er is ook parkeergelegenheid vlak bij de winkel.",
+   "en": "Oberau is about 5 to 10 minutes from Niederau. By bus you reach the Oberau Kellerwirt stop, one minute on foot from the shop; there is also parking close to the shop.",
+   "de": "Oberau liegt etwa 5 bis 10 Minuten von Niederau entfernt. Mit dem Bus erreichen Sie die Haltestelle Oberau Kellerwirt, eine Gehminute vom Laden; auch Parkplätze gibt es direkt beim Laden."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 30 tot 60 min",
+    "en": "Approx. 30 to 60 min",
+    "de": "Ca. 30 bis 60 Min."
+   },
+   "price": {
+    "nl": "Gratis om te kijken; aankopen op eigen rekening",
+    "en": "Free to browse; purchases at your own cost",
+    "de": "Stöbern kostenlos; Einkäufe auf eigene Kosten"
+   },
+   "distance": {
+    "nl": "Ca. 5 tot 10 min rijden",
+    "en": "Approx. 5 to 10 min by car",
+    "de": "Ca. 5 bis 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (controleer openingstijden)",
+    "en": "All year (check opening hours)",
+    "de": "Ganzjährig (Öffnungszeiten prüfen)"
+   }
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
+  "url": "https://www.wildschoenau.com/en/info-service/wildschoenau-a-z/Farm-Shop-Wildschonau_isd_7160859",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is het Bauernladl in Oberau open?",
+     "en": "When is the Bauernladl in Oberau open?",
+     "de": "Wann ist das Bauernladl in Oberau geöffnet?"
+    },
+    "a": {
+     "nl": "Opgegeven: woensdag tot zaterdag 9:00-12:00 uur en vrijdag ook 15:00-18:00 uur; controleer de actuele tijden.",
+     "en": "Listed as Wednesday to Saturday 9 am to 12 noon and Fridays also 3 pm to 6 pm; check the current times.",
+     "de": "Angegeben sind Mittwoch bis Samstag 9:00 bis 12:00 Uhr und freitags auch 15:00 bis 18:00 Uhr; aktuelle Zeiten bitte prüfen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s121",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "kragenjoch-achentalalm-hike-oberau",
+  "slug_de": "kragenjoch-achentalalm-wanderung-oberau",
+  "title": {
+   "nl": "Kragenjoch-ronde met Achentalalm vanuit Oberau",
+   "en": "Kragenjoch round with Achentalalm from Oberau",
+   "de": "Kragenjoch-Runde mit Achentalalm ab Oberau"
+  },
+  "tagline": {
+   "nl": "Lichte gezinswandeling over een boswegen naar een alm",
+   "en": "An easy family walk along a forest road to an alm",
+   "de": "Leichte Familienwanderung auf Forstweg zur Alm"
+  },
+  "intro": {
+   "nl": "Vanuit Oberau Dorf loopt de Kragenjoch-ronde, een lichte wandeling die veel gezinnen kiezen. De route is ongeveer 6,8 km lang, kost rond 2,8 uur en voert met zo'n 500 hoogtemeters grotendeels over een comfortabele bosweg naar de Achentalalm, waar je kunt rusten.\n\nDe alm staat bekend om zijn eenvoudige gerechten: dagelijks van juni tot september is er kaiserschmarrn, en op woensdag Wildschönauer noedels. Vroeg in de zomer is het Kragenjoch bovendien bijzonder vanwege de bloeiende bergbloemen. Haal een wandelkaart bij het toeristenbureau en controleer vooraf het weer en de openingsdagen van de alm.",
+   "en": "From Oberau village the Kragenjoch round starts, an easy walk that many families choose. The route is roughly 6.8 km long, takes about 2.8 hours and, with around 500 metres of climbing, follows a comfortable forest road for most of the way to the Achentalalm, where you can rest.\n\nThe alm is known for simple dishes: kaiserschmarrn every day from June to September, and Wildschönau noodles on Wednesdays. In early summer the Kragenjoch is also special for its mountain flowers. Pick up a walking map at the tourist office and check the weather and the alm's opening days beforehand.",
+   "de": "Von Oberau Dorf aus startet die Kragenjoch-Runde, eine leichte Wanderung, die viele Familien wählen. Die Strecke ist rund 6,8 km lang, dauert etwa 2,8 Stunden und führt mit rund 500 Höhenmetern größtenteils auf einem bequemen Forstweg zur Achentalalm, wo man rasten kann.\n\nDie Alm ist für einfache Gerichte bekannt: von Juni bis September täglich Kaiserschmarrn, mittwochs Wildschönauer Nudeln. Im Frühsommer ist das Kragenjoch zudem wegen der blühenden Bergblumen besonders. Holen Sie sich im Tourismusbüro eine Wanderkarte und prüfen Sie vorab Wetter und Öffnungstage der Alm."
+  },
+  "tips": {
+   "nl": [
+    "Draag stevige wandelschoenen.",
+    "Neem zelf drinken mee voor onderweg.",
+    "Haal een wandelkaart bij het toeristenbureau.",
+    "Plan genoeg tijd voor de hutstop."
+   ],
+   "en": [
+    "Wear sturdy hiking shoes.",
+    "Bring your own drinks for the way.",
+    "Get a walking map at the tourist office.",
+    "Allow plenty of time for the hut stop."
+   ],
+   "de": [
+    "Tragen Sie feste Wanderschuhe.",
+    "Nehmen Sie Getränke für unterwegs mit.",
+    "Holen Sie sich eine Wanderkarte im Tourismusbüro.",
+    "Planen Sie genug Zeit für die Einkehr ein."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 minuten rijden van Niederau. De wandeling begint bij Oberau Dorf. Reken op ca. 3 uur, afhankelijk van tempo en pauzes.",
+   "en": "Oberau is about 5 minutes by car from Niederau. The walk starts at Oberau village. Allow about 3 hours, depending on pace and breaks.",
+   "de": "Oberau liegt ca. 5 Autominuten von Niederau entfernt. Die Wanderung beginnt in Oberau Dorf. Rechnen Sie je nach Tempo und Pausen mit ca. 3 Stunden."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From approx. 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 3 uur",
+    "en": "About 3 hours",
+    "de": "Ca. 3 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen is gratis; hutstop op eigen kosten",
+    "en": "Walking is free; hut stop at your own cost",
+    "de": "Wandern ist kostenlos; Einkehr auf eigene Kosten"
+   },
+   "distance": {
+    "nl": "Ca. 5 min rijden",
+    "en": "About 5 min by car",
+    "de": "Ca. 5 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Oberau Dorf, Wildschönau",
+   "en": "Oberau village, Wildschönau",
+   "de": "Oberau Dorf, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je onderweg eten?",
+     "en": "Can you eat along the way?",
+     "de": "Kann man unterwegs einkehren?"
+    },
+    "a": {
+     "nl": "Ja, bij de Achentalalm; controleer vooraf de openingsdagen en neem voor de rest zelf water mee.",
+     "en": "Yes, at the Achentalalm; check its opening days beforehand and bring your own water for the rest.",
+     "de": "Ja, auf der Achentalalm; prüfen Sie vorab die Öffnungstage und nehmen Sie sonst Wasser selbst mit."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "w3",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "night-tobogganing-roggenboden-oberau",
+  "slug_de": "nachtrodeln-roggenboden-oberau",
+  "title": {
+   "nl": "Nachtrodelen op de Roggenboden",
+   "en": "Night tobogganing at Roggenboden",
+   "de": "Nachtrodeln am Roggenboden"
+  },
+  "tagline": {
+   "nl": "Met de slee in het donker, met sleeplift omhoog",
+   "en": "Tobogganing after dark, with a drag lift uphill",
+   "de": "Rodeln im Dunkeln, mit Schlepplift bergauf"
+  },
+  "intro": {
+   "nl": "Bij het skigebied Roggenboden in Oberau, vlak bij Niederau, kun je in de winter in het donker rodelen op een verlichte, brede en goed geprepareerde piste. De slee heeft een aangebouwde ski en kan in de sleeplift worden gehaakt, zodat je niet naar boven hoeft te lopen.\n\nVolgens de regio is het nachtrodelen op woensdag en donderdag, van ca. 19:30 tot 21:00 uur, op aanvraag. Aanmelden vooraf is nodig. Voor groepen vanaf ca. 20 personen zijn ook andere dagen mogelijk. Je glijdt door een besneeuwd landschap onder lampen, heel anders dan overdag. Prijzen en actuele data wisselen per seizoen.",
+   "en": "At the Roggenboden ski area in Oberau, close to Niederau, you can toboggan after dark in winter on a floodlit, wide and well-prepared slope. The sledge has an attached ski and can be hooked into the drag lift, so you do not have to walk back up.\n\nAccording to the region, night tobogganing takes place on Wednesdays and Thursdays, from about 7:30 pm to 9 pm, on request. Registering in advance is necessary. Groups of around 20 or more can also book other days. You glide through a snowy landscape under lights, quite different from daytime. Prices and current dates vary by season.",
+   "de": "Im Skigebiet Roggenboden in Oberau, nahe Niederau, kann man im Winter im Dunkeln auf einer beleuchteten, breiten und gut präparierten Piste rodeln. Der Schlitten hat einen angebauten Ski und lässt sich in den Schlepplift einhängen, sodass man nicht hinaufgehen muss.\n\nLaut Region findet das Nachtrodeln mittwochs und donnerstags von ca. 19:30 bis 21:00 Uhr auf Anfrage statt. Eine Anmeldung vorab ist nötig. Für Gruppen ab ca. 20 Personen sind auch andere Tage möglich. Man gleitet unter Lichtern durch die verschneite Landschaft, ganz anders als tagsüber. Preise und aktuelle Termine wechseln je nach Saison."
+  },
+  "tips": {
+   "nl": [
+    "Meld je vooraf aan en controleer dag en tijd.",
+    "Draag warme, waterdichte kleding en handschoenen.",
+    "Neem een muts of helm mee voor extra warmte en bescherming.",
+    "Vraag bij de aanmelding naar de actuele prijzen."
+   ],
+   "en": [
+    "Register in advance and check the day and time.",
+    "Wear warm, waterproof clothes and gloves.",
+    "Bring a hat or helmet for warmth and protection.",
+    "Ask about current prices when you register."
+   ],
+   "de": [
+    "Melden Sie sich vorab an und prüfen Sie Tag und Uhrzeit.",
+    "Tragen Sie warme, wasserdichte Kleidung und Handschuhe.",
+    "Nehmen Sie Mütze oder Helm für Wärme und Schutz mit.",
+    "Fragen Sie bei der Anmeldung nach den aktuellen Preisen."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 minuten rijden van Niederau. Het skigebied Roggenboden ligt bij Oberau; meld je vooraf aan en controleer de actuele tijden.",
+   "en": "Oberau is about 5 minutes by car from Niederau. The Roggenboden ski area is at Oberau; register in advance and check the current times.",
+   "de": "Oberau liegt ca. 5 Autominuten von Niederau. Das Skigebiet Roggenboden liegt bei Oberau; melden Sie sich vorab an und prüfen Sie die aktuellen Zeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden, kleine kinderen samen met een volwassene",
+    "en": "All ages; small children with an adult",
+    "de": "Alle Altersgruppen, kleine Kinder mit Erwachsenem"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 min rijden",
+    "en": "About 5 min by car",
+    "de": "Ca. 5 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Roggenboden, Oberau",
+   "en": "Roggenboden, Oberau",
+   "de": "Roggenboden, Oberau"
+  },
+  "url": "https://www.skijuwel.com/en/info-service/ski-juwel-a-z/Floodlit-tobogganing-Roggenboden_isd_89925",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is het nachtrodelen?",
+     "en": "When is night tobogganing?",
+     "de": "Wann ist das Nachtrodeln?"
+    },
+    "a": {
+     "nl": "Volgens de regio op woensdag en donderdag van ca. 19:30 tot 21:00 uur, op aanvraag en met aanmelding vooraf.",
+     "en": "According to the region on Wednesdays and Thursdays from about 7:30 pm to 9 pm, on request and with advance registration.",
+     "de": "Laut Region mittwochs und donnerstags von ca. 19:30 bis 21:00 Uhr, auf Anfrage und mit Voranmeldung."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "w6",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "ice-skating-familypark-drachental",
+  "slug_de": "eislaufen-familienpark-drachental",
+  "title": {
+   "nl": "IJsschaatsen in de Wildschönau",
+   "en": "Ice skating in the Wildschönau",
+   "de": "Eislaufen in der Wildschönau"
+  },
+  "tagline": {
+   "nl": "Schaatsen op de ijsbaan van het Familienpark Drachental",
+   "en": "Skating on the rink at the Familienpark Drachental",
+   "de": "Eislaufen auf der Eisbahn im Familienpark Drachental"
+  },
+  "intro": {
+   "nl": "In de winter is er in het Familienpark Drachental in Oberau een ijsbaan. Schaatsen kun je ter plaatse huren, en met vooraf aanmelden is ook ijsstockschieten (curling op Tiroolse wijze) mogelijk. Het is een prima idee voor een middag buiten de pistes: kinderen oefenen op het ijs, ouders kijken mee of doen mee.\n\nHet park is in de regel gesloten op maandag en open van dinsdag tot en met zondag van 10:00 tot 18:00 uur, maar tijden kunnen wisselen. Controleer vooraf de openingstijden en de entreeprijs van de ijsbaan. Neem warme handschoenen en een muts mee; op het ijs wordt het snel koud.",
+   "en": "In winter the Familienpark Drachental in Oberau has an ice rink. Skates can be hired on site, and with advance registration ice stock shooting (a Tyrolean cousin of curling) is also possible. It is a good idea for an afternoon off the slopes: children practise on the ice while parents watch or join in.\n\nThe park is generally closed on Mondays and open Tuesday to Sunday from 10 am to 6 pm, but times can vary. Check opening times and the rink's entry price beforehand. Bring warm gloves and a hat; it gets cold quickly on the ice.",
+   "de": "Im Winter gibt es im Familienpark Drachental in Oberau eine Eislaufbahn. Schlittschuhe können vor Ort geliehen werden, und mit Voranmeldung ist auch Eisstockschießen möglich. Das ist eine gute Idee für einen Nachmittag abseits der Pisten: Kinder üben auf dem Eis, Eltern schauen zu oder laufen mit.\n\nDer Park hat in der Regel montags Ruhetag und ist dienstags bis sonntags von 10:00 bis 18:00 Uhr geöffnet, die Zeiten können aber wechseln. Prüfen Sie vorab Öffnungszeiten und Eintrittspreis der Eisbahn. Nehmen Sie warme Handschuhe und eine Mütze mit; auf dem Eis wird es schnell kalt."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf openingstijden en prijzen.",
+    "Draag warme handschoenen en een muts.",
+    "Een helm is voor beginners een verstandige keuze.",
+    "Meld je vooraf aan als je ijsstockschieten wilt proberen."
+   ],
+   "en": [
+    "Check opening times and prices beforehand.",
+    "Wear warm gloves and a hat.",
+    "A helmet is a sensible choice for beginners.",
+    "Register in advance if you want to try ice stock shooting."
+   ],
+   "de": [
+    "Öffnungszeiten und Preise vorab prüfen.",
+    "Warme Handschuhe und Mütze tragen.",
+    "Ein Helm ist für Anfänger sinnvoll.",
+    "Für Eisstockschießen vorab anmelden."
+   ]
+  },
+  "practical": {
+   "nl": "Het Familienpark Drachental ligt in het gebied Kirchen bij Oberau, ca. 5 tot 10 minuten rijden van Niederau. Controleer de actuele tijden bij het park of de VVV.",
+   "en": "The Familienpark Drachental is in the Kirchen area near Oberau, about 5 to 10 minutes by car from Niederau. Check current times with the park or the tourist office.",
+   "de": "Der Familienpark Drachental liegt im Ortsteil Kirchen bei Oberau, ca. 5 bis 10 Autominuten von Niederau. Aktuelle Zeiten beim Park oder Tourismusverband prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 tot 10 min rijden",
+    "en": "About 5 to 10 min by car",
+    "de": "Ca. 5 bis 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Familienpark Drachental, Kirchen bij Oberau",
+   "en": "Familienpark Drachental, Kirchen near Oberau",
+   "de": "Familienpark Drachental, Kirchen bei Oberau"
+  },
+  "url": "https://www.drachental.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je schaatsen huren?",
+     "en": "Can you hire skates?",
+     "de": "Kann man Schlittschuhe leihen?"
+    },
+    "a": {
+     "nl": "Ja, schaatsen zijn ter plaatse te huren; controleer wel de actuele tijden en prijzen.",
+     "en": "Yes, skates can be hired on site; do check current times and prices.",
+     "de": "Ja, Schlittschuhe können vor Ort geliehen werden; aktuelle Zeiten und Preise bitte prüfen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s19",
+  "drop": true,
+  "drop_reason": "Houtsnijworkshop in Oberau niet bevestigd; alleen het Tiroler Holzmuseum in Auffach (met houtsnijtraditie) gevonden, geen aangeboden workshop.",
+  "place": "oberau",
+  "slug_en": "wood-carving-workshop-oberau",
+  "slug_de": "holzschnitzen-workshop-oberau",
+  "title": {
+   "nl": "Houtsnijworkshop in Oberau",
+   "en": "Wood carving workshop in Oberau",
+   "de": "Holzschnitzen-Workshop in Oberau"
+  },
+  "tagline": {
+   "nl": "Een oud Tiroler ambacht zelf proberen",
+   "en": "Try an old Tyrolean craft yourself",
+   "de": "Ein altes Tiroler Handwerk selbst ausprobieren"
+  },
+  "intro": {
+   "nl": "Houtsnijden is in Tirol een eeuwenoud ambacht. In deze workshop leren kinderen en ouders de basis: een ontwerp op hout overbrengen, een beitel veilig vasthouden en stap voor stap een eenvoudige figuur uitwerken, zoals een vogel, bloem of beertje.\n\nEen ervaren houtsnijder begeleidt de groep en laat zien hoe het hout reageert. Het werkstuk gaat mee naar huis als persoonlijke herinnering. Omdat het gereedschap scherp is, is aandacht voor de instructies belangrijk. Informeer vooraf naar de leeftijdsgrens en beschikbare data.",
+   "en": "Wood carving is a centuries-old craft in Tyrol. In this workshop children and parents learn the basics: transferring a design onto wood, holding a gouge safely and gradually shaping a simple figure such as a bird, flower or little bear.\n\nAn experienced carver guides the group and shows how the wood responds. The piece comes home with you as a personal keepsake. Because the tools are sharp, following instructions closely matters. Ask beforehand about the minimum age and available dates.",
+   "de": "Holzschnitzen ist in Tirol ein jahrhundertealtes Handwerk. In diesem Workshop lernen Kinder und Eltern die Grundlagen: einen Entwurf auf Holz übertragen, das Schnitzeisen sicher halten und Schritt für Schritt eine einfache Figur wie Vogel, Blume oder Bärchen herausarbeiten.\n\nEin erfahrener Schnitzer begleitet die Gruppe und zeigt, wie das Holz reagiert. Das Werkstück nehmen Sie als persönliches Andenken mit. Da das Werkzeug scharf ist, kommt es auf genaues Befolgen der Anweisungen an. Fragen Sie vorab nach Mindestalter und Terminen."
+  },
+  "tips": {
+   "nl": [
+    "Volg de veiligheidsinstructies nauwgezet.",
+    "Vraag of beschermende handschoenen worden verstrekt.",
+    "Een zelfgemaakt souvenir is extra persoonlijk.",
+    "Plan er ruim tijd voor in."
+   ],
+   "en": [
+    "Follow the safety instructions closely.",
+    "Ask whether protective gloves are provided.",
+    "A homemade souvenir is extra personal.",
+    "Allow plenty of time."
+   ],
+   "de": [
+    "Befolgen Sie die Sicherheitshinweise genau.",
+    "Fragen Sie, ob Schutzhandschuhe gestellt werden.",
+    "Ein selbstgemachtes Andenken ist besonders persönlich.",
+    "Planen Sie reichlich Zeit ein."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 10 minuten van Niederau. Exacte locatie, aanmelding en actuele data: informeer bij de toeristische dienst van de Wildschönau of bij je accommodatie.",
+   "en": "Oberau is about 10 minutes from Niederau. For the exact location, booking and current dates, ask the Wildschönau tourist office or your accommodation.",
+   "de": "Oberau ist ca. 10 Minuten von Niederau entfernt. Genauen Ort, Anmeldung und aktuelle Termine erfragen Sie beim Tourismusverband Wildschönau oder in Ihrer Unterkunft."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From about 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask beforehand",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10 min",
+    "en": "About 10 min",
+    "de": "Ca. 10 Min."
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
+  "url": "",
+  "faq": [],
+  "verified": false
+ },
+ {
+  "id": "s30",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "auffach",
+  "slug_en": "schatzbergbahn-summer-auffach",
+  "slug_de": "schatzbergbahn-sommer-auffach",
+  "title": {
+   "nl": "Schatzbergbahn in de zomer",
+   "en": "Schatzberg cable car in summer",
+   "de": "Schatzbergbahn im Sommer"
+  },
+  "tagline": {
+   "nl": "Met de gondel van Auffach naar het wandelgebied",
+   "en": "Gondola from Auffach into the hiking area",
+   "de": "Mit der Gondel von Auffach ins Wandergebiet"
+  },
+  "intro": {
+   "nl": "De Schatzbergbahn vertrekt in Auffach en brengt je in ruim een kwartier omhoog; halverwege ligt het middenstation bij Berghaus Koglmoos. Het bergstation ligt op ruim 1.770 meter. Boven vind je een groot wandelgebied met bergrestaurants en hutten zoals de Schatzbergalm, en uitzicht richting toppen als de Gerngipfel en de Joelspitze.\n\nVoor gezinnen is het een praktische manier om hoog te komen zonder lange klim. Bij Koglmoos is een waterspeelplaats met een grote glijbaan en een trampoline, plus een geitenweide en konijnen. In 2026 loopt het zomerseizoen van 4 juni tot 4 oktober; controleer de dienstregeling en het weer vooraf.",
+   "en": "The Schatzbergbahn starts in Auffach and takes you up in a little over a quarter of an hour; halfway lies the middle station at Berghaus Koglmoos. The top station is at just over 1,770 metres. Up there is a large hiking area with mountain restaurants and huts such as the Schatzbergalm, and views towards peaks like the Gerngipfel and the Joelspitze.\n\nFor families it is a practical way to gain height without a long climb. At Koglmoos there is a water playground with a big slide and a trampoline, plus a goat enclosure and rabbits. In 2026 the summer season runs from 4 June to 4 October; check the timetable and the weather beforehand.",
+   "de": "Die Schatzbergbahn startet in Auffach und bringt Sie in gut einer Viertelstunde nach oben; auf halber Strecke liegt die Mittelstation beim Berghaus Koglmoos. Die Bergstation liegt auf gut 1.770 Metern. Oben erwartet Sie ein großes Wandergebiet mit Bergrestaurants und Almen wie der Schatzbergalm sowie Aussicht auf Gipfel wie Gerngipfel und Joelspitze.\n\nFür Familien ist das ein praktischer Weg, ohne langen Aufstieg Höhe zu gewinnen. Bei Koglmoos gibt es einen Wasserspielplatz mit großer Rutsche und Trampolin, dazu ein Ziegengehege und Kaninchen. 2026 dauert die Sommersaison vom 4. Juni bis 4. Oktober; prüfen Sie Fahrplan und Wetter vorab."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf de zomerdienstregeling en het weer.",
+    "Neem een warme laag mee; boven is het kouder dan in het dal.",
+    "Kinderen vinden de waterspeelplaats bij Koglmoos leuk.",
+    "Een rustpunt vind je bij de Schatzbergalm of bij Koglmoos."
+   ],
+   "en": [
+    "Check the summer timetable and the weather beforehand.",
+    "Take a warm layer; it is cooler at the top than in the valley.",
+    "Children enjoy the water playground at Koglmoos.",
+    "You can rest at the Schatzbergalm or at Koglmoos."
+   ],
+   "de": [
+    "Sommerfahrplan und Wetter vorab prüfen.",
+    "Eine warme Schicht mitnehmen; oben ist es kühler als im Tal.",
+    "Kinder mögen den Wasserspielplatz bei Koglmoos.",
+    "Rast ist auf der Schatzbergalm oder bei Koglmoos möglich."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 10 tot 15 minuten rijden van Niederau; het dalstation staat in het dorp. Prijzen en dienstregeling vind je bij Ski Juwel of Wildschönau Tourismus.",
+   "en": "Auffach is about 10 to 15 minutes by car from Niederau; the valley station is in the village. Prices and timetable are available from Ski Juwel or Wildschönau Tourism.",
+   "de": "Auffach liegt ca. 10 bis 15 Autominuten von Niederau entfernt; die Talstation befindet sich im Ort. Preise und Fahrzeiten gibt es bei Ski Juwel oder dem Tourismusverband Wildschönau."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2-3 uur inclusief wandeling",
+    "en": "About 2 to 3 hours including a walk",
+    "de": "Ca. 2 bis 3 Stunden inkl. Spaziergang"
+   },
+   "price": {
+    "nl": "Tarief wisselt; informeer vooraf",
+    "en": "Fares vary; ask in advance",
+    "de": "Tarife variieren; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10-15 min rijden",
+    "en": "About 10 to 15 minutes by car",
+    "de": "Ca. 10 bis 15 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (2026: 4 juni tot 4 oktober)",
+    "en": "Summer (2026: 4 June to 4 October)",
+    "de": "Sommer (2026: 4. Juni bis 4. Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Schatzberg",
+   "en": "Auffach, Schatzberg",
+   "de": "Auffach, Schatzberg"
+  },
+  "url": "https://www.wildschoenau.com/en/info-service/wildschoenau-a-z/Schatzbergbahn_isd_6852380",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog ligt het bergstation?",
+     "en": "How high is the top station?",
+     "de": "Wie hoch liegt die Bergstation?"
+    },
+    "a": {
+     "nl": "Het bergstation ligt op ruim 1.770 meter.",
+     "en": "The top station is at just over 1,770 metres.",
+     "de": "Die Bergstation liegt auf gut 1.770 Metern."
+    }
+   }
+  ]
+ },
+ {
+  "id": "w22",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "auffach",
+  "slug_en": "schatzbergbahn-winter-auffach",
+  "slug_de": "schatzbergbahn-winter-auffach",
+  "title": {
+   "nl": "Schatzbergbahn in de winter",
+   "en": "Schatzberg cable car in winter",
+   "de": "Schatzbergbahn im Winter"
+  },
+  "tagline": {
+   "nl": "Uitzicht over de Wildschönau vanaf het bergstation",
+   "en": "Views over the Wildschönau from the top station",
+   "de": "Aussicht über die Wildschönau von der Bergstation"
+  },
+  "intro": {
+   "nl": "De Schatzbergbahn in Auffach is de gondel naar het skigebied van de Schatzberg, dat bij Ski Juwel Alpbachtal Wildschönau hoort. De moderne gondel brengt skiërs in zo'n kwartier van het dal naar boven; het bergstation ligt op ruim 1.770 meter. In de winter van 2025/26 reed de bahn dagelijks ongeveer van 8:30 tot 16:30 uur.\n\nWie niet skiet, kan beter vooraf navragen of er een kaartje voor voetgangers is en tot welk station je mag meerijden. Boven heb je uitzicht over het dal en de toppen, en er zijn bergrestaurants voor een warm drankje. Het is boven duidelijk kouder dan in Niederau.",
+   "en": "The Schatzbergbahn in Auffach is the gondola to the Schatzberg ski area, part of Ski Juwel Alpbachtal Wildschönau. The modern gondola takes skiers from the valley to the top in roughly a quarter of an hour; the top station is at just over 1,770 metres. In winter 2025/26 it ran daily from about 8:30 am to 4:30 pm.\n\nIf you do not ski, it is best to ask beforehand whether a pedestrian ticket exists and which station you may ride to. Up there you have views over the valley and peaks, and mountain restaurants for a hot drink. It is clearly colder at the top than in Niederau.",
+   "de": "Die Schatzbergbahn in Auffach ist die Gondel ins Skigebiet Schatzberg, das zum Ski Juwel Alpbachtal Wildschönau gehört. Die moderne Gondel bringt Skifahrer in etwa einer Viertelstunde vom Tal nach oben; die Bergstation liegt auf gut 1.770 Metern. Im Winter 2025/26 fuhr die Bahn täglich etwa von 8:30 bis 16:30 Uhr.\n\nWer nicht Ski fährt, fragt am besten vorab, ob es ein Fußgängerticket gibt und bis zu welcher Station man mitfahren darf. Oben hat man Aussicht über das Tal und die Gipfel, außerdem gibt es Bergrestaurants für ein warmes Getränk. Oben ist es deutlich kälter als in Niederau."
+  },
+  "tips": {
+   "nl": [
+    "Kies een helderde dag voor het beste uitzicht.",
+    "Neem warme kleding, muts en zonnebril mee.",
+    "Vraag vooraf naar de voetgangersprijs en tot waar je mag.",
+    "Plan een stop in een bergrestaurant voor een warm drankje."
+   ],
+   "en": [
+    "Pick a clear day for the best views.",
+    "Bring warm clothing, a hat and sunglasses.",
+    "Ask beforehand about the pedestrian fare and how far you may go.",
+    "Plan a stop at a mountain restaurant for a hot drink."
+   ],
+   "de": [
+    "Einen klaren Tag für die beste Aussicht wählen.",
+    "Warme Kleidung, Mütze und Sonnenbrille mitnehmen.",
+    "Vorab nach dem Fußgängerpreis fragen und wie weit man fahren darf.",
+    "Einen Stopp im Bergrestaurant für ein warmes Getränk einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 10 tot 15 minuten rijden van Niederau. Informeer bij Wildschönau Tourismus of Ski Juwel naar de actuele dienstregeling, tarieven en eventuele skibus.",
+   "en": "Auffach is about 10 to 15 minutes by car from Niederau. Ask Wildschönau Tourism or Ski Juwel for the current timetable, fares and any ski bus.",
+   "de": "Auffach liegt ca. 10 bis 15 Autominuten von Niederau entfernt. Aktuellen Fahrplan, Tarife und einen eventuellen Skibus erfragen Sie beim Tourismusverband Wildschönau oder Ski Juwel."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1-2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Tarief wisselt; informeer vooraf",
+    "en": "Fares vary; ask in advance",
+    "de": "Tarife variieren; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10-15 min rijden",
+    "en": "About 10 to 15 minutes by car",
+    "de": "Ca. 10 bis 15 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Schatzberg",
+   "en": "Auffach, Schatzberg",
+   "de": "Auffach, Schatzberg"
+  },
+  "url": "https://www.wildschoenau.com/en/info-service/wildschoenau-a-z/Schatzbergbahn_isd_6852380",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je zonder ski's omhoog?",
+     "en": "Can you go up without skis?",
+     "de": "Kann man ohne Ski hinauffahren?"
+    },
+    "a": {
+     "nl": "Dat is niet zeker; vraag vooraf bij Ski Juwel of er een voetgangersticket is.",
+     "en": "That is not certain; ask Ski Juwel beforehand whether a pedestrian ticket is available.",
+     "de": "Das ist nicht sicher; fragen Sie vorab bei Ski Juwel, ob es ein Fußgängerticket gibt."
+    }
+   }
+  ]
+ },
+ {
+  "id": "w49",
+  "drop": true,
+  "drop_reason": "Zonsondergangritje niet bevestigd als aanbod; de winterdienst van de Schatzbergbahn eindigt rond 16:30 uur, dus een rit bij zonsondergang is onzeker.",
+  "place": "auffach",
+  "slug_en": "sunset-schatzberg-winter",
+  "slug_de": "sonnenuntergang-schatzberg-winter",
+  "title": {
+   "nl": "Zonsondergang bij de Schatzberg",
+   "en": "Sunset at the Schatzberg",
+   "de": "Sonnenuntergang am Schatzberg"
+  },
+  "tagline": {
+   "nl": "Winterse avondkleuren boven Auffach",
+   "en": "Winter evening colours above Auffach",
+   "de": "Winterliche Abendstimmung über Auffach"
+  },
+  "intro": {
+   "nl": "Op heldere winterdagen kleuren de bergen rond de Schatzberg in de late middag roze, oranje en paars. Wie dat wil zien, kan met de Schatzbergbahn vanuit Auffach omhoog gaan en boven op de zon zien zakken. Het is rustig, vooral als de skiërs al zijn teruggekeerd.\n\nDe bergbaan heeft in de winter vaste openingstijden en rijdt niet noodzakelijk tot na zonsondergang. Informeer daarom vooraf of een late rit mogelijk is en hoe laat de laatste afdaling vertrekt. Reken op ca. anderhalf tot twee uur, inclusief wachttijd boven. Het wordt na zonsondergang snel koud.",
+   "en": "On clear winter days the mountains around the Schatzberg turn pink, orange and purple in the late afternoon. If you want to see it, you can take the Schatzbergbahn up from Auffach and watch the sun go down from the top. It is quiet, especially once the skiers have headed back down.\n\nIn winter the cable car keeps set opening hours and does not necessarily run until after sunset. Ask beforehand whether a late ride is possible and when the last descent leaves. Allow roughly an hour and a half to two hours, including waiting time at the top. It gets cold quickly after sunset.",
+   "de": "An klaren Wintertagen färben sich die Berge rund um den Schatzberg am späten Nachmittag rosa, orange und violett. Wer das erleben möchte, kann mit der Schatzbergbahn ab Auffach hinauffahren und oben die Sonne untergehen sehen. Es ist ruhig, vor allem wenn die Skifahrer schon wieder im Tal sind.\n\nIm Winter hat die Bergbahn feste Betriebszeiten und fährt nicht unbedingt bis nach Sonnenuntergang. Erkundige dich daher vorab, ob eine späte Fahrt möglich ist und wann die letzte Talfahrt startet. Rechne mit ca. anderthalb bis zwei Stunden inklusive Wartezeit oben. Nach Sonnenuntergang wird es schnell kalt."
+  },
+  "tips": {
+   "nl": [
+    "Kies een heldere dag; bij bewolking is er weinig te zien.",
+    "Zoek de zonsondergangtijd vooraf op.",
+    "Neem een thermoskan met warme thee en extra warme kleding mee.",
+    "Check de tijd van de laatste afdaling voordat je omhoog gaat."
+   ],
+   "en": [
+    "Pick a clear day; there is little to see under cloud.",
+    "Look up the sunset time beforehand.",
+    "Bring a flask of hot tea and extra warm clothing.",
+    "Check the last descent time before going up."
+   ],
+   "de": [
+    "Wähle einen klaren Tag; bei Wolken gibt es wenig zu sehen.",
+    "Schau die Sonnenuntergangszeit vorab nach.",
+    "Nimm eine Thermoskanne mit Tee und extra warme Kleidung mit.",
+    "Prüfe die Zeit der letzten Talfahrt, bevor du hinauffährst."
+   ]
+  },
+  "practical": {
+   "nl": "De Schatzbergbahn vertrekt in Auffach, ca. 15 minuten rijden van Niederau. Informeer vooraf naar de openingstijden van de lift en de laatste rit naar beneden.",
+   "en": "The Schatzbergbahn starts in Auffach, roughly 15 minutes by car from Niederau. Ask in advance about the lift's operating hours and the last ride down.",
+   "de": "Die Schatzbergbahn startet in Auffach, ca. 15 Fahrminuten von Niederau entfernt. Erkundige dich vorab nach den Betriebszeiten und der letzten Talfahrt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 tot 2 uur",
+    "en": "Approx. 1.5 to 2 hours",
+    "de": "Ca. 1,5 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 15 min rijden",
+    "en": "Approx. 15 min by car",
+    "de": "Ca. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Schatzberg, Auffach",
+   "en": "Schatzberg, Auffach",
+   "de": "Schatzberg, Auffach"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Rijdt de Schatzbergbahn tot na zonsondergang?",
+     "en": "Does the Schatzbergbahn run until after sunset?",
+     "de": "Fährt die Schatzbergbahn bis nach Sonnenuntergang?"
+    },
+    "a": {
+     "nl": "Dat is niet zeker; de winteropenstelling is beperkt. Vraag vooraf naar de laatste rit.",
+     "en": "That is not certain; winter operating hours are limited. Ask about the last ride beforehand.",
+     "de": "Das ist nicht sicher; die Winterbetriebszeiten sind begrenzt. Frag vorab nach der letzten Fahrt."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "w30",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "children-ski-school-auffach",
+  "slug_de": "kinderskischule-auffach",
+  "title": {
+   "nl": "Kinderskischool Zwergenland in Auffach",
+   "en": "Children's ski school Zwergenland, Auffach",
+   "de": "Kinderskischule Zwergenland in Auffach"
+  },
+  "tagline": {
+   "nl": "Skilessen voor kinderen in het rustiger deel van het dal",
+   "en": "Ski lessons for children in the quieter part of the valley",
+   "de": "Skikurse für Kinder im ruhigeren Teil des Tals"
+  },
+  "intro": {
+   "nl": "Auffach ligt aan het eind van het Wildschönau-dal en is de uitvalsbasis voor de Schatzberg. Bij het middenstation van de Schatzbergbahn ligt het Zwergenland, het kinderskigebiedje van de Happy Skischule Wildschönau. Kinderen vanaf 4 jaar leren hier spelenderwijs skiën, met twee tapijtliften, een carrousel en modern lesmateriaal.\n\nDe skischool biedt groepscursussen voor beginners en gevorderden van ca. 5 tot 13 jaar, op ski's of snowboard, en privélessen. Aan het eind van een cursus is er een kinderwedstrijd waarbij elk kind een medaille krijgt. Verzamelen doe je bij het Zwergenland, ongeveer een kwartier voor aanvang. Vraag vooraf naar taal en tarieven.",
+   "en": "Auffach lies at the head of the Wildschönau valley and is the base for the Schatzberg. At the middle station of the Schatzbergbahn is the Zwergenland, the children's learning area of the Happy Skischule Wildschönau. Children from 4 years learn to ski playfully here, with two conveyor lifts, a carousel and modern teaching aids.\n\nThe ski school offers group courses for beginners and more advanced children of about 5 to 13, on skis or snowboard, as well as private lessons. At the end of a course there is a children's race where every child gets a medal. You meet at the Zwergenland about a quarter of an hour before the start. Ask beforehand about language and rates.",
+   "de": "Auffach liegt am Ende des Wildschönauer Tals und ist Ausgangspunkt für den Schatzberg. An der Mittelstation der Schatzbergbahn befindet sich das Zwergenland, das Kinderland der Happy Skischule Wildschönau. Kinder ab 4 Jahren lernen hier spielerisch Skifahren, mit zwei Förderbändern, einem Karussell und modernen Lernhilfen.\n\nDie Skischule bietet Gruppenkurse für Anfänger und Fortgeschrittene von ca. 5 bis 13 Jahren, auf Ski oder Snowboard, sowie Privatstunden an. Am Kursende gibt es ein Kinderrennen, bei dem jedes Kind eine Medaille bekommt. Treffpunkt ist das Zwergenland, etwa eine Viertelstunde vor Beginn. Fragen Sie vorab nach Sprache und Preisen."
+  },
+  "tips": {
+   "nl": [
+    "Overweeg een privéles op de eerste dag.",
+    "Vraag naar de lestaal en Nederlandstalige instructeurs.",
+    "Wees ruim op tijd bij het Zwergenland."
+   ],
+   "en": [
+    "Consider a private lesson on the first day.",
+    "Ask about the teaching language and Dutch-speaking instructors.",
+    "Be at the Zwergenland in good time."
+   ],
+   "de": [
+    "Am ersten Tag eine Privatstunde erwägen.",
+    "Nach der Kurssprache und niederländischsprachigen Lehrern fragen.",
+    "Rechtzeitig am Zwergenland sein."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 15 minuten van Niederau. Het Zwergenland ligt bij het middenstation van de Schatzbergbahn, dus je neemt eerst de gondel. Controleer de skibusdienstregeling en de actuele cursusdata.",
+   "en": "Auffach is about 15 minutes from Niederau. The Zwergenland is at the middle station of the Schatzbergbahn, so you first take the gondola. Check the ski bus timetable and current course dates.",
+   "de": "Auffach liegt ca. 15 Minuten von Niederau entfernt. Das Zwergenland befindet sich an der Mittelstation der Schatzbergbahn, Sie fahren also zuerst mit der Gondel. Skibus-Fahrplan und aktuelle Kurstermine prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 4 jaar (cursussen ca. 5 tot 13 jaar)",
+    "en": "From approx. 4 years (courses approx. 5 to 13)",
+    "de": "Ab ca. 4 Jahren (Kurse ca. 5 bis 13 Jahre)"
+   },
+   "duration": {
+    "nl": "Per cursus; informeer vooraf",
+    "en": "Per course; ask in advance",
+    "de": "Je nach Kurs; vorab erfragen"
+   },
+   "price": {
+    "nl": "Tarief wisselt; informeer vooraf",
+    "en": "Rates vary; ask in advance",
+    "de": "Preise variieren; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 15 min rijden",
+    "en": "About 15 min by car",
+    "de": "Ca. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Zwergenland, middenstation Schatzbergbahn, Auffach",
+   "en": "Zwergenland, Schatzbergbahn middle station, Auffach",
+   "de": "Zwergenland, Mittelstation Schatzbergbahn, Auffach"
+  },
+  "url": "https://www.skijuwel.com/en/info-service/ski-juwel-a-z/Happy-Skischule-Wildschonau_isd_89935",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een kinderland bij de Schatzberg?",
+     "en": "Is there a children's area at the Schatzberg?",
+     "de": "Gibt es ein Kinderland am Schatzberg?"
+    },
+    "a": {
+     "nl": "Ja, het Zwergenland bij het middenstation van de Schatzbergbahn, voor kinderen vanaf ca. 4 jaar.",
+     "en": "Yes, the Zwergenland at the middle station of the Schatzbergbahn, for children from about 4.",
+     "de": "Ja, das Zwergenland an der Mittelstation der Schatzbergbahn, für Kinder ab ca. 4 Jahren."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s124",
+  "drop": true,
+  "drop_reason": "Alpenrozenbloei op de Schatzberg niet bevestigd door bronnen; de Schatzberg-zomerrit zit al in s30 en s35.",
+  "place": "auffach",
+  "slug_en": "schatzberg-alpine-rose-hike-auffach",
+  "slug_de": "schatzberg-almrosen-wanderung-auffach",
+  "title": {
+   "nl": "Alpenrozen op de Schatzberg",
+   "en": "Alpine roses on the Schatzberg",
+   "de": "Almrosenblüte am Schatzberg"
+  },
+  "tagline": {
+   "nl": "Met de gondel uit Auffach naar bloeiende alpenweiden",
+   "en": "By cable car from Auffach to flowering alpine pastures",
+   "de": "Mit der Gondel ab Auffach zu blühenden Almwiesen"
+  },
+  "intro": {
+   "nl": "De Schatzberg boven Auffach is in de zomer een eenvoudig te bereiken wandelberg. De Schatzbergbahn, een gondel met een tussenstation bij Koglmoos, brengt je in enkele minuten naar het bergstation op ongeveer 1.770 m. Daar begint een netwerk van paden over alpenweiden, waar je nauwelijks hoogtemeters hoeft te maken.\n\nIn het begin van de zomer, meestal rond eind juni en begin juli, kunnen op de hellingen de alpenrozen bloeien. Het precieze moment hangt af van hoogte en weer. Bij het bergstation staat de Schatzberg Alm, bij het tussenstation het restaurant Koglmoos. Zo is er altijd een plek om te rusten, ook met jonge kinderen.",
+   "en": "The Schatzberg above Auffach is an easy summer hiking mountain. The Schatzbergbahn, a gondola with a middle station at Koglmoos, takes you in a few minutes to the top station at roughly 1,770 m. From there a network of paths crosses alpine pastures, so you hardly need to climb any further.\n\nIn early summer, usually around late June and early July, alpine roses can flower on the slopes. The exact timing depends on altitude and weather. The Schatzberg Alm stands at the top station and the Koglmoos restaurant at the middle station, so there is always somewhere to rest, even with small children.",
+   "de": "Der Schatzberg oberhalb von Auffach ist im Sommer ein leicht erreichbarer Wanderberg. Die Schatzbergbahn, eine Gondelbahn mit Mittelstation Koglmoos, bringt dich in wenigen Minuten zur Bergstation auf rund 1.770 m. Von dort führen Wege über Almwiesen, sodass kaum zusätzliche Höhenmeter nötig sind.\n\nZu Beginn des Sommers, meist Ende Juni und Anfang Juli, können an den Hängen die Almrosen blühen. Der genaue Zeitpunkt hängt von Höhenlage und Wetter ab. An der Bergstation liegt die Schatzberg Alm, an der Mittelstation das Restaurant Koglmoos, sodass sich auch mit kleinen Kindern leicht eine Rast einlegen lässt."
+  },
+  "tips": {
+   "nl": [
+    "Reis in de tweede helft van juni of begin juli voor de meeste kans op bloei; vraag bij het bergstation naar de actuele situatie.",
+    "Neem wandelschoenen en een warme laag mee; boven kan het ook in de zomer fris zijn.",
+    "Check de bedrijfstijden van de gondel; die sluit in de namiddag en is alleen in het zomerseizoen open.",
+    "Kijk niet te dichtbij naar weidende koeien en blijf op de paden: de alpenrozen zijn beschermd."
+   ],
+   "en": [
+    "Travel in the second half of June or early July for the best chance of bloom, and ask at the station about current conditions.",
+    "Bring hiking shoes and a warm layer; it can be cool at the top even in summer.",
+    "Check the gondola's operating times; it closes in the afternoon and only runs in the summer season.",
+    "Keep your distance from grazing cows and stay on the paths; alpine roses are protected."
+   ],
+   "de": [
+    "Fahre in der zweiten Junihälfte oder Anfang Juli, dann ist die Blüte am wahrscheinlichsten; frag an der Station nach dem aktuellen Stand.",
+    "Nimm Wanderschuhe und eine warme Schicht mit; oben kann es auch im Sommer frisch sein.",
+    "Prüfe die Betriebszeiten der Gondel; sie schließt am Nachmittag und fährt nur im Sommerbetrieb.",
+    "Halte Abstand zu weidenden Kühen und bleib auf den Wegen; Almrosen sind geschützt."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt in het achterste deel van het Wildschönauer dal, ca. 10 minuten rijden vanaf Niederau. De gondel start in het dorp en rijdt in de zomer doorgaans van begin juni tot begin oktober; de tijden verschillen per jaar.",
+   "en": "Auffach lies in the inner part of the Wildschönau valley, about 10 minutes by car from Niederau. The gondola starts in the village and generally runs from early June to early October; times differ each year.",
+   "de": "Auffach liegt im hinteren Teil des Wildschönauer Tals, etwa 10 Autominuten von Niederau entfernt. Die Gondel startet im Ort und fährt im Sommer in der Regel von Anfang Juni bis Anfang Oktober; die Zeiten ändern sich jährlich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10 min rijden",
+    "en": "About 10 min by car",
+    "de": "Ca. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. juni tot begin oktober)",
+    "en": "Summer (approx. June to early October)",
+    "de": "Sommer (ca. Juni bis Anfang Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer bloeien de alpenrozen op de Schatzberg?",
+     "en": "When do the alpine roses bloom on the Schatzberg?",
+     "de": "Wann blühen die Almrosen am Schatzberg?"
+    },
+    "a": {
+     "nl": "Meestal eind juni en begin juli, maar het hangt af van hoogte en weer. Informeer vooraf bij de bergbahn.",
+     "en": "Usually in late June and early July, but it depends on altitude and weather. Ask the cable car operator beforehand.",
+     "de": "Meist Ende Juni und Anfang Juli, es hängt aber von Höhenlage und Wetter ab. Frag vorab bei der Bergbahn nach."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s129",
+  "drop": true,
+  "drop_reason": "Picknick op een alm bij Auffach is geen concrete, te bevestigen activiteit of plek; alleen algemeen.",
+  "place": "auffach",
+  "slug_en": "alm-picnic-auffach",
+  "slug_de": "alm-picknick-auffach",
+  "title": {
+   "nl": "Picknick op een alm bij Auffach",
+   "en": "Picnic on an alm near Auffach",
+   "de": "Picknick auf einer Alm bei Auffach"
+  },
+  "tagline": {
+   "nl": "Luieren op de weide met koeienbellen als achtergrondgeluid",
+   "en": "Relaxing in a meadow with cowbells as the soundtrack",
+   "de": "Entspannen auf der Wiese mit Kuhglocken als Klangkulisse"
+  },
+  "intro": {
+   "nl": "Boven Auffach liggen alpenweiden waar in de zomer vee graast en de koeienbellen klinken. Het is een prachtige plek voor een picknick: groen gras, een beek in de buurt en uitzicht over de bergen. Je kunt er in ongeveer een half uur lopend komen, of een deel met de fiets of e-bike doen.\n\nNeem een kleed en zelf wat eten mee, bijvoorbeeld brood, kaas en fruit. Soms is er in de buurt een alm waar je verse producten kunt kopen. Koeien zijn meestal nieuwsgierig maar je blijft op afstand; laat hekken zoals je ze aantreft en neem je afval mee. Een rustige halve dag voor het hele gezin.",
+   "en": "Above Auffach there are alpine pastures where cattle graze in summer and cowbells ring. It is a lovely spot for a picnic: green grass, a stream nearby and a view over the mountains. You can walk there in about half an hour, or cover part of it by bike or e-bike.\n\nBring a blanket and your own food, such as bread, cheese and fruit. Sometimes there is an alm nearby where you can buy fresh products. Cows are usually curious but you keep your distance; leave gates as you find them and take your rubbish home. A relaxed half day for the whole family.",
+   "de": "Oberhalb von Auffach liegen Almwiesen, auf denen im Sommer Vieh weidet und Kuhglocken klingen. Es ist ein wunderbarer Platz für ein Picknick: grünes Gras, ein Bach in der Nähe und Aussicht über die Berge. Du kannst in etwa einer halben Stunde zu Fuß hinaufgehen oder einen Teil mit dem Rad oder E-Bike zurücklegen.\n\nNimm eine Decke und eigenes Essen mit, etwa Brot, Käse und Obst. Manchmal gibt es in der Nähe eine Alm, wo du frische Produkte kaufen kannst. Kühe sind meist neugierig, du hältst aber Abstand; lass Gatter, wie du sie vorfindest, und nimm deinen Müll mit. Ein entspannter halber Tag für die ganze Familie."
+  },
+  "tips": {
+   "nl": [
+    "Neem een kleed, drinken en een afvalzak mee.",
+    "Houd afstand van koeien en voer ze niet.",
+    "Koop eventueel kaas of worst bij een alm in de buurt.",
+    "Check het weer; bij regen en onweer ga je beter niet."
+   ],
+   "en": [
+    "Bring a blanket, drinks and a rubbish bag.",
+    "Keep away from cows and do not feed them.",
+    "If possible, buy cheese or sausage at a nearby alm.",
+    "Check the weather; do not go in rain or thunderstorms."
+   ],
+   "de": [
+    "Nimm eine Decke, Getränke und einen Müllbeutel mit.",
+    "Halte Abstand zu Kühen und füttere sie nicht.",
+    "Kauf wenn möglich Käse oder Wurst auf einer Alm in der Nähe.",
+    "Prüfe das Wetter; bei Regen und Gewitter geh besser nicht."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 10 minuten rijden van Niederau. Vanaf het dorp loop je in ca. 30 minuten naar de weiden, of je fietst een deel. Vraag ter plaatse naar een geschikte plek.",
+   "en": "Auffach is about 10 minutes by car from Niederau. From the village you walk to the pastures in about 30 minutes, or cycle part of the way. Ask locally for a suitable spot.",
+   "de": "Auffach liegt ca. 10 Autominuten von Niederau entfernt. Vom Dorf gehst du in ca. 30 Minuten zu den Wiesen oder fährst einen Teil mit dem Rad. Frag vor Ort nach einem geeigneten Platz."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Gratis; eigen picknick",
+    "en": "Free; bring your own picnic",
+    "de": "Kostenlos; eigenes Picknick"
+   },
+   "distance": {
+    "nl": "Ca. 10 min rijden",
+    "en": "About 10 min by car",
+    "de": "Ca. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang loop je naar de weiden boven Auffach?",
+     "en": "How long is the walk to the pastures above Auffach?",
+     "de": "Wie lange geht man zu den Wiesen oberhalb von Auffach?"
+    },
+    "a": {
+     "nl": "Ongeveer een half uur vanaf het dorp; het exacte pad hangt van de gekozen plek af.",
+     "en": "About half an hour from the village; the exact path depends on the spot you choose.",
+     "de": "Etwa eine halbe Stunde vom Dorf; der genaue Weg hängt vom gewählten Platz ab."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s35",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "schatzberg-summer-hike-auffach",
+  "slug_de": "schatzberg-sommerwanderung-auffach",
+  "title": {
+   "nl": "Wandelen op de Schatzberg boven Auffach",
+   "en": "Hiking on the Schatzberg above Auffach",
+   "de": "Wandern am Schatzberg oberhalb von Auffach"
+  },
+  "tagline": {
+   "nl": "Met de Schatzbergbahn omhoog en wandelen over de alm",
+   "en": "Take the Schatzbergbahn up and hike across the alpine pastures",
+   "de": "Mit der Schatzbergbahn hinauf und über die Almen wandern"
+  },
+  "intro": {
+   "nl": "In de zomer brengt de Schatzbergbahn je vanuit Auffach in ruim een kwartier naar het bergstation op meer dan 1.770 m. Boven vind je een uitgestrekt wandelgebied met berghutten zoals de Schatzbergalm, met uitzicht over de Wildschönau. Ervaren wandelaars kunnen doorlopen naar de Gerngipfel of de Joelspitze.\n\nVoor gezinnen is er een gemakkelijke wandeling van ca. 4,5 km van het middenstation naar beneden naar Auffach, over een bospad met uitzicht op het dal en langs het open plateau van de Bernau. Bij Berghaus Koglmoos aan het middenstation is een waterspeelplaats voor kinderen. Het seizoen loopt in 2026 van 4 juni tot 4 oktober.",
+   "en": "In summer the Schatzbergbahn takes you from Auffach in a little over a quarter of an hour to the top station at more than 1,770 m. Up there is a large hiking area with mountain huts such as the Schatzbergalm, with views over the Wildschönau. Experienced hikers can continue to the Gerngipfel or the Joelspitze.\n\nFor families there is an easy walk of about 4.5 km from the middle station down to Auffach, along a forest path with valley views and past the open Bernau plateau. At Berghaus Koglmoos by the middle station there is a water playground for children. In 2026 the season runs from 4 June to 4 October.",
+   "de": "Im Sommer bringt Sie die Schatzbergbahn ab Auffach in gut einer Viertelstunde zur Bergstation auf über 1.770 m. Oben erwartet Sie ein weitläufiges Wandergebiet mit Hütten wie der Schatzbergalm und Aussicht über die Wildschönau. Geübte Wanderer können weiter zum Gerngipfel oder zur Joelspitze gehen.\n\nFür Familien gibt es eine leichte Wanderung von ca. 4,5 km von der Mittelstation hinab nach Auffach, auf einem Waldweg mit Talblick und vorbei am offenen Plateau der Bernau. Beim Berghaus Koglmoos an der Mittelstation gibt es einen Wasserspielplatz für Kinder. 2026 dauert die Saison vom 4. Juni bis 4. Oktober."
+  },
+  "tips": {
+   "nl": [
+    "Neem een regenjas mee: het weer kan boven snel omslaan.",
+    "Reken op een pauze in de Schatzbergalm of bij Koglmoos.",
+    "Controleer de dienstregeling van de bergbaan, die alleen in het seizoen rijdt."
+   ],
+   "en": [
+    "Bring a rain jacket: the weather can change quickly up top.",
+    "Plan a break at the Schatzbergalm or at Koglmoos.",
+    "Check the timetable of the lift, which only runs in season."
+   ],
+   "de": [
+    "Nehmen Sie eine Regenjacke mit: Das Wetter kann oben schnell umschlagen.",
+    "Planen Sie eine Einkehr auf der Schatzbergalm oder bei Koglmoos ein.",
+    "Prüfen Sie den Fahrplan der Bergbahn, die nur in der Saison fährt."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 15 minuten rijden van Niederau, verder het dal in. De dalstation van de Schatzbergbahn ligt in het dorp.",
+   "en": "Auffach is about 15 minutes by car from Niederau, further up the valley. The valley station of the Schatzbergbahn is in the village.",
+   "de": "Auffach liegt ca. 15 Fahrminuten von Niederau entfernt, weiter im Tal. Die Talstation der Schatzbergbahn befindet sich im Ort."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar (de wandeling naar beneden ook jonger)",
+    "en": "From approx. 6 years (the walk down also younger)",
+    "de": "Ab ca. 6 Jahren (der Abstieg auch jünger)"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "Approx. 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Bergbaan betaald; informeer naar tarieven",
+    "en": "Lift is charged; ask about fares",
+    "de": "Bergbahn kostenpflichtig; Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 15 min rijden",
+    "en": "Approx. 15 min drive",
+    "de": "Ca. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (2026: 4 juni tot 4 oktober)",
+    "en": "Summer (2026: 4 June to 4 October)",
+    "de": "Sommer (2026: 4. Juni bis 4. Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau (Tirol)",
+   "en": "Auffach, Wildschönau (Tyrol)",
+   "de": "Auffach, Wildschönau (Tirol)"
+  },
+  "url": "https://www.wildschoenau.com/en/info-service/wildschoenau-a-z/Schatzbergbahn_isd_6852380",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een makkelijke wandeling voor gezinnen?",
+     "en": "Is there an easy walk for families?",
+     "de": "Gibt es eine leichte Wanderung für Familien?"
+    },
+    "a": {
+     "nl": "Ja, een wandeling van ca. 4,5 km van het middenstation naar beneden naar Auffach; neem voor de zekerheid geen kinderwagen mee zonder het pad te controleren.",
+     "en": "Yes, a walk of about 4.5 km from the middle station down to Auffach; check the path before taking a pushchair.",
+     "de": "Ja, eine Wanderung von ca. 4,5 km von der Mittelstation hinab nach Auffach; prüfen Sie den Weg, bevor Sie einen Kinderwagen mitnehmen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "w4",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "schatzberg-toboggan-run-auffach",
+  "slug_de": "rodelbahn-schatzberg-auffach",
+  "title": {
+   "nl": "Rodelbaan Schatzberg bij Auffach",
+   "en": "Schatzberg toboggan run, Auffach",
+   "de": "Rodelbahn Schatzberg in Auffach"
+  },
+  "tagline": {
+   "nl": "Ca. 5 km rodelen vanaf het middenstation naar het dalstation",
+   "en": "About 5 km of tobogganing from the mid station to the valley station",
+   "de": "Ca. 5 km Rodeln von der Mittelstation zur Talstation"
+  },
+  "intro": {
+   "nl": "De rodelbaan van de Schatzberg bij Auffach is ongeveer 5 km lang en heeft een gemiddelde moeilijkheidsgraad. Je start bij het middenstation van de Schatzbergbahn (ca. 1.300 m) en glijdt over een hoogteverschil van ca. 430 m terug naar het dalstation. Een deel van het traject loopt door beboste hellingen.\n\nDe baan past bij gezinnen met kinderen die al wat durven; jonge kinderen gaan het veiligst samen met een volwassene. De gondel brengt je omhoog, dus je hoeft niet te lopen. Of de baan open is, hangt af van sneeuw en weer: controleer dat vooraf en vraag naar tarieven en sleeverhuur.",
+   "en": "The toboggan run on the Schatzberg near Auffach is about 5 km long and of medium difficulty. You start at the middle station of the Schatzbergbahn (about 1,300 m) and glide down a height difference of about 430 m to the valley station. Part of the route runs through wooded slopes.\n\nThe run suits families with children who are somewhat adventurous; young children are safest riding with an adult. The gondola takes you up, so there is no walking. Whether the run is open depends on snow and weather: check beforehand and ask about fares and sledge rental.",
+   "de": "Die Rodelbahn am Schatzberg bei Auffach ist etwa 5 km lang und von mittlerem Schwierigkeitsgrad. Man startet an der Mittelstation der Schatzbergbahn (ca. 1.300 m) und gleitet über rund 430 m Höhenunterschied zurück zur Talstation. Ein Teil der Strecke führt durch bewaldete Hänge.\n\nDie Bahn passt zu Familien mit etwas mutigeren Kindern; kleine Kinder fahren am sichersten zusammen mit einem Erwachsenen. Die Gondel bringt Sie hinauf, man muss nicht gehen. Ob die Bahn geöffnet ist, hängt von Schnee und Wetter ab: vorab prüfen und nach Preisen und Schlittenverleih fragen."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf of de baan open is.",
+    "Draag stevige schoenen en waterdichte kleding.",
+    "Laat jonge kinderen samen met een volwassene afdalen.",
+    "Vraag bij het dalstation naar sleeverhuur."
+   ],
+   "en": [
+    "Check beforehand whether the run is open.",
+    "Wear sturdy shoes and waterproof clothing.",
+    "Have young children ride with an adult.",
+    "Ask at the valley station about sledge rental."
+   ],
+   "de": [
+    "Vorab prüfen, ob die Bahn geöffnet ist.",
+    "Feste Schuhe und wasserdichte Kleidung tragen.",
+    "Kleine Kinder zusammen mit einem Erwachsenen fahren lassen.",
+    "An der Talstation nach Schlittenverleih fragen."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 15 minuten rijden van Niederau. De Schatzbergbahn begint in Auffach; controleer parkeren en eventuele skibus.",
+   "en": "Auffach is about 15 minutes by car from Niederau. The Schatzbergbahn starts in Auffach; check parking and any ski bus.",
+   "de": "Auffach liegt ca. 15 Autominuten von Niederau. Die Schatzbergbahn startet in Auffach; Parkplatz und eventuellen Skibus prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden, kleine kinderen met volwassene",
+    "en": "All ages; small children with an adult",
+    "de": "Alle Altersgruppen, kleine Kinder mit Erwachsenem"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Gondelkaart en sleehuur: informeer vooraf",
+    "en": "Gondola ticket and sledge hire: please enquire",
+    "de": "Gondelticket und Schlittenmiete: bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 15 min rijden",
+    "en": "About 15 min by car",
+    "de": "Ca. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "https://www.skijuwel.com/en/winter/tobogganging",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is de rodelbaan op de Schatzberg?",
+     "en": "How long is the Schatzberg toboggan run?",
+     "de": "Wie lang ist die Rodelbahn am Schatzberg?"
+    },
+    "a": {
+     "nl": "Ongeveer 5 km, van het middenstation naar het dalstation van de Schatzbergbahn.",
+     "en": "About 5 km, from the middle station to the valley station of the Schatzbergbahn.",
+     "de": "Etwa 5 km, von der Mittelstation zur Talstation der Schatzbergbahn."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s119",
+  "drop": false,
+  "drop_reason": "",
+  "place": "thierbach",
+  "slug_en": "thierbach-forest-family-trail",
+  "slug_de": "wald-und-familienweg-thierbach",
+  "title": {
+   "nl": "Wald- und Familienweg in Thierbach",
+   "en": "Forest and Family Trail in Thierbach",
+   "de": "Wald- und Familienweg in Thierbach"
+  },
+  "tagline": {
+   "nl": "Korte, rustige rondwandeling in het hoogste dorp van de Wildschönau",
+   "en": "A short, quiet circular walk in the highest village of the Wildschönau",
+   "de": "Kurzer, ruhiger Rundweg im höchstgelegenen Dorf der Wildschönau"
+  },
+  "intro": {
+   "nl": "Thierbach ligt op ca. 1.150 meter, is het kleinste en hoogstgelegen dorp van de Wildschönau en staat bekend om zijn rust. Hier loopt het Wald- und Familienweg, een eenvoudige rondwandeling van ca. 3,2 km die ongeveer een uur kost.\n\nOnderweg zijn kracht- en rustplekken, een energieboom en een bosspeelplaats voor kinderen bij de Koglweg. Het is daarom een prettige wandeling om met kinderen de natuur te ontdekken, in eigen tempo. Grote attracties zijn er niet, en dat is nu juist de charme. Voor wie meer wil, beginnen vanuit Thierbach ook langere wandelingen. Een dorpsrondje combineer je goed met een stop bij een van de gasthöfe.",
+   "en": "Thierbach lies at about 1,150 metres, is the smallest and highest village of the Wildschönau and is known for its peace and quiet. The Wald- und Familienweg runs here, an easy circular walk of about 3.2 km that takes roughly an hour.\n\nAlong the way are energy and rest spots, an energy tree and a forest playground for children at the Koglweg. It makes a pleasant walk for discovering nature with children at their own pace. There are no big attractions, and that is precisely the charm. For those who want more, longer hikes also start from Thierbach. A loop through the village combines well with a stop at one of the inns.",
+   "de": "Thierbach liegt auf etwa 1.150 Metern, ist das kleinste und höchstgelegene Dorf der Wildschönau und für seine Ruhe bekannt. Hier verläuft der Wald- und Familienweg, ein leichter Rundweg von ca. 3,2 km, für den man etwa eine Stunde braucht.\n\nUnterwegs gibt es Kraft- und Rastplätze, einen Energiebaum und beim Koglweg einen Waldspielplatz für Kinder. So ist es ein angenehmer Spaziergang, um mit Kindern in eigenem Tempo die Natur zu entdecken. Große Attraktionen gibt es nicht, und genau das ist der Reiz. Wer mehr möchte, startet von Thierbach auch zu längeren Wanderungen. Eine Dorfrunde lässt sich gut mit einer Einkehr in einem der Gasthöfe verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Neem een snack en water mee; in een klein dorp zijn weinig voorzieningen.",
+    "Plan een speelstop bij de bosspeelplaats aan de Koglweg.",
+    "Combineer de wandeling met een eenvoudige wandelroute omhoog.",
+    "Let op weidegrond en laat koeien met rust."
+   ],
+   "en": [
+    "Bring a snack and water; a small village has few facilities.",
+    "Plan a play stop at the forest playground on the Koglweg.",
+    "Combine the walk with an easy hike up the slopes.",
+    "Respect pasture land and leave cows alone."
+   ],
+   "de": [
+    "Nehmen Sie Snack und Wasser mit; in einem kleinen Dorf gibt es wenig Einkehrmöglichkeiten.",
+    "Planen Sie einen Spielstopp am Waldspielplatz an der Koglweg ein.",
+    "Verbinden Sie den Spaziergang mit einer einfachen Wanderung bergauf.",
+    "Achten Sie auf Weideland und lassen Sie die Kühe in Ruhe."
+   ]
+  },
+  "practical": {
+   "nl": "Thierbach ligt ca. 10 tot 15 minuten rijden van Niederau, in het hoogste deel van het dal. Informeer bij het toeristenbureau naar de beste startplek en eventueel openbaar vervoer.",
+   "en": "Thierbach is roughly 10 to 15 minutes by car from Niederau, in the highest part of the valley. Ask the tourist office about the best starting point and any public transport.",
+   "de": "Thierbach liegt ca. 10 bis 15 Fahrminuten von Niederau entfernt, im höchsten Teil des Tals. Fragen Sie beim Tourismusbüro nach dem besten Startpunkt und eventuellen öffentlichen Verkehrsmitteln."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 10 tot 15 min rijden",
+    "en": "Approx. 10 to 15 min by car",
+    "de": "Ca. 10 bis 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Vooral zomer",
+    "en": "Mainly summer",
+    "de": "Vor allem Sommer"
+   }
+  },
+  "location": {
+   "nl": "Thierbach, Wildschönau",
+   "en": "Thierbach, Wildschönau",
+   "de": "Thierbach, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Thierbach geschikt voor kinderen?",
+     "en": "Is Thierbach suitable for children?",
+     "de": "Ist Thierbach für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, het Wald- und Familienweg is kort en eenvoudig en heeft een bosspeelplaats voor kinderen.",
+     "en": "Yes, the Wald- und Familienweg is short and easy and has a forest playground for children.",
+     "de": "Ja, der Wald- und Familienweg ist kurz und leicht und hat einen Waldspielplatz für Kinder."
+    }
+   }
+  ],
+  "verified": true
+ }
+]
