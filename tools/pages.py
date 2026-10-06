@@ -123,6 +123,31 @@ def photo_html(f, lang):
         if ff == f: return f'<img class="side-img" src="/assets/img/{f}.webp" width="1000" height="667" loading="lazy" alt="{e(alts[LANGS.index(lang)])}">'
     return ""
 
+# ---------- sfeerbeelden voor pagina's zonder eigen foto ----------
+GEN_POOL = {
+ "summer": ["niederau-zomer-uitzicht-bergbank-heuvels", "niederau-zomer-heuvel-dorp-bewolkt", "niederau-zomer-bloemenweide-dorp-dal", "niederau-zomer-wandelpad-weide-bergdorp", "niederau-zomer-bergwater-stroompje", "niederau-zomer-dal-huizen-weiden", "niederau-zomer-zonsondergang-wolken-berg"],
+ "winter": ["niederau-winter-sneeuwbos-dalzicht", "niederau-winter-besneeuwde-berghelling", "niederau-winter-hooischuurtjes-dal-sneeuw", "niederau-winter-piste-wolken-sparren-uitzicht", "niederau-piste-geprepareerd-besneeuwde-sparren", "niederau-winter-rijp-takken-wolken", "niederau-winter-berg-skistokken-pistemarkering"],
+}
+_DIMS = {}
+def img_dims(f):
+    if f not in _DIMS:
+        import subprocess
+        out = subprocess.run(["identify", "-format", "%w %h", str(ROOT / "assets" / "img" / f"{f}.webp")], capture_output=True, text=True).stdout.split()
+        _DIMS[f] = (int(out[0]), int(out[1])) if len(out) == 2 else (1000, 667)
+    return _DIMS[f]
+def gen_pick(key, season):
+    pool = GEN_POOL[season]
+    return pool[sum(map(ord, key)) % len(pool)]
+def gen_one(f, lang, attr=""):
+    alts = next(al for ff, al, _k, _h in PHOTOS if ff == f)
+    w, h = img_dims(f)
+    cap = {"nl": "Sfeerbeeld", "en": "Impression", "de": "Stimmungsbild"}[lang]
+    return f'<figure class="fig-gen"{attr}><img class="side-img" src="/assets/img/{f}.webp" width="{w}" height="{h}" loading="lazy" decoding="async" alt="{e(alts[min(LANGS.index(lang), len(alts) - 1)])}"><figcaption>{cap}</figcaption></figure>'
+def gen_fig(key, lang, season=None):
+    """Sfeerbeeld; zonder season in beide varianten, door de seizoenschakelaar (data-only) verborgen."""
+    if season: return gen_one(gen_pick(key, season), lang)
+    return "".join(gen_one(gen_pick(key, s), lang, f' data-only="{s}"') for s in ("winter", "summer"))
+
 PLACE_PHOTO = {"oberau": "oberau-wildschoenau-winter", "thierbach": "thierbach-wildschoenau-sneeuwschoenwandelen", "auffach": "auffach-wildschoenau-e-bike", "muehltal": "muehltal-herfst-wandelen-gezin"}
 REGION_PHOTO = {"wildschoenau": "niederau-wildschoenau-pistes-liften-winter"}
 
@@ -432,7 +457,11 @@ def build_act(a):
             gen = "niederau-wildschoenau-pistes-liften-winter" if a["season"] == "winter" else "wildschoenau-wandelpad-alm"
             img, alt = next((f, tuple(al)) for f, al, _k, _h in PHOTOS if f == gen)
         else: img, alt = None, ("", "", "")
-        side = f'<img class="side-img" src="/assets/img/{img}.webp" width="1000" height="667" loading="lazy" alt="{e(alt[LANGS.index(lang)])}">' if img else ""
+        if img is None:
+            img = gen_pick(a["id"], a["season"])
+            side = gen_one(img, lang)
+        else: side = None
+        if side is None: side = f'<img class="side-img" src="/assets/img/{img}.webp" width="1000" height="667" loading="lazy" alt="{e(alt[LANGS.index(lang)])}">' if img else ""
         body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{e(th_short)} · {season_badge(a, lang)}</p><h1 id="h-top">{e(title_n)}</h1><p class="lead">{e(L(a.get("tagline", {}), lang))}</p>{intro}{pl}{link}</div>
 <div>{facts}{side}</div></div></section>
@@ -484,7 +513,7 @@ def build_place(p):
             sib_h = f'<section class="alt"><div class="wrap"><h2>{ui("more_region", lang)} {e(reg_name)}</h2>' + card_list([(L(x["name"], lang), L(x.get("tagline", {}), lang), u_place(x, lang), "") for x in sib], lang) + f'<p><a href="{u_region(p["region"], lang)}">{e(reg_name)} →</a></p></div></section>' if reg else ""
         body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{e(reg_name)}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(p.get("tagline", {}), lang))}</p>{intro}{link}</div>
-<div>{facts}{photo_html(PLACE_PHOTO.get(p["slug"], ""), lang) if PLACE_PHOTO.get(p["slug"]) else ""}</div></div></section>
+<div>{facts}{photo_html(PLACE_PHOTO.get(p["slug"], ""), lang) if PLACE_PHOTO.get(p["slug"]) else gen_fig("place:" + p["slug"], lang)}</div></div></section>
 <section class="alt"><div class="wrap split" style="align-items:start"><div>{hl_h}</div><div>{gt_h}<p class="note">{ui("check", lang)}</p></div></div></section>
 {act_h}{faq_s}{sib_h}{guides_block(lang, PLACE_GUIDES)}'''
         desc = (L(p.get("tagline", {}), lang) + " " + " ".join(paras(L(p.get("intro", {}), lang)))[:170]).strip()[:300]
@@ -516,7 +545,7 @@ def build_region(r):
         faq_s, faq_ld = faq_html(d.get("faq"), lang)
         body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{ui("region", lang)}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(d.get("tagline", {}), lang))}</p>{intro}</div>
-<div>{photo_html(REGION_PHOTO.get(r, ""), lang) if REGION_PHOTO.get(r) else ""}{hl_h}{gt_h}</div></div></section>
+<div>{photo_html(REGION_PHOTO.get(r, ""), lang) if REGION_PHOTO.get(r) else gen_fig("region:" + r, lang)}{hl_h}{gt_h}</div></div></section>
 {pl_h}{faq_s}'''
         desc = (L(d.get("tagline", {}), lang) + " " + " ".join(paras(L(d.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [
@@ -582,7 +611,7 @@ def build_hub(kind):
                 if r not in regions: continue
                 ps = [p for p in places if p.get("region") == r]
                 content += f'<h2><a href="{u_region(r, lang)}">{e(L(regions[r]["name"], lang))}</a></h2><p>{e(L(regions[r].get("tagline", {}), lang))}</p>' + card_list([(L(p["name"], lang), L(p.get("tagline", {}), lang), u_place(p, lang), "") for p in ps], lang)
-        body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(d.get("tagline", {}), lang))}</p>{intro}</div></section>
+        body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(d.get("tagline", {}), lang))}</p>{intro}{gen_fig("hub:" + kind, lang)}</div></section>
 <section class="alt"><div class="wrap">{content}</div></section>'''
         desc = (L(d.get("tagline", {}), lang) + " " + " ".join(paras(L(d.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [
@@ -641,7 +670,7 @@ def build_coll(c):
         cards = card_list([(L(x["title"], lang), L(x.get("tagline", {}), lang), u_act(x, lang), season_badge(x, lang)) for x in sorted(items, key=lambda x: (x["theme"], x["id"]))], lang)
         body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{ui("n_act", lang)}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(d["tagline"][i])}</p>{intro}</div>
-<div><h2>{ui("tips", lang)}</h2><ul class="check">{tips}</ul><p class="note">{ui("check", lang)}</p></div></div></section>
+<div>{gen_fig("coll:" + c, lang)}<h2>{ui("tips", lang)}</h2><ul class="check">{tips}</ul><p class="note">{ui("check", lang)}</p></div></div></section>
 <section class="alt"><div class="wrap"><h2>{ui("all_act", lang)} ({len(items)})</h2>{cards}</div></section>'''
         desc = (d["tagline"][i] + ". " + paras(d["intro"][i])[0])[:300]
         ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
@@ -680,7 +709,7 @@ def build_events():
             det = EV_BY_ID.get(x["id"])
             more = f'<p><a href="{u_event(det, lang)}">{ui("read_more", lang)} →</a></p>' if det else ""
             cards.append(f'<article class="card"><h3>{e(L(x["name"], lang))}</h3><p><span class="chip">{e(L(x["when"], lang))}</span></p>{ds}{plh}{more}{lk}</article>')
-        body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(EV_TXT["tagline"][i])}</p>{intro}</div></section>
+        body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(EV_TXT["tagline"][i])}</p>{intro}{gen_fig("events", lang)}</div></section>
 <section class="alt"><div class="wrap"><h2>{ui("events_h", lang)}</h2><div class="grid grid-two">{"".join(cards)}</div><p class="note">{ui("check", lang)}</p></div></section>'''
         desc = (EV_TXT["tagline"][i] + ". " + paras(EV_TXT["intro"][i])[0])[:300]
         ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
@@ -712,7 +741,7 @@ def build_guides():
             faq_s, faq_ld = faq_html(g.get("faq"), lang)
             body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{GH["title"][LANGS.index(lang)]}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(g.get("tagline", {}), lang))}</p>{intro}</div>
-<div>{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
+<div>{gen_fig("guide:" + g["id"], lang)}{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
 <section class="alt"><div class="wrap">{secs}</div></section>{faq_s}'''
             desc = (L(g.get("tagline", {}), lang) + " " + " ".join(paras(L(g.get("intro", {}), lang)))[:170]).strip()[:300]
             ld = [{"@type": "Article", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "headline": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "image": [OG], "mainEntityOfPage": BASE + urls[lang], "author": {"@type": "Organization", "name": "Niederau.nl"}, "publisher": {"@id": f"{BASE}/#website"}},
@@ -724,7 +753,7 @@ def build_guides():
         i = LANGS.index(lang); name = GH["title"][i]
         cr, cr_ld = crumbs(lang, [(name, urls[lang])])
         cards = card_list([(L(g["title"], lang), L(g.get("tagline", {}), lang), u_guide(g, lang), "") for g in GUIDES], lang)
-        body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(GH["tagline"][i])}</p><p>{e(GH["intro"][i])}</p></div></section>
+        body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(GH["tagline"][i])}</p><p>{e(GH["intro"][i])}</p>{gen_fig("guides", lang)}</div></section>
 <section class="alt"><div class="wrap"><h2>{e(name)}</h2>{cards}</div></section>'''
         desc = (GH["tagline"][i] + ". " + GH["intro"][i])[:300]
         ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@"},
@@ -767,7 +796,7 @@ def build_event_details():
             faq_s, faq_ld = faq_html(d.get("faq"), lang)
             body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{e(EV_TXT["title"][i])}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(d.get("tagline", {}), lang))}</p>{when}{intro}{plh}</div>
-<div>{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
+<div>{gen_fig("event:" + d["id"], lang)}{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
 <section class="alt"><div class="wrap">{secs}</div></section>{faq_s}{guides_block(lang, ["wanneer-gaan", "reizen-naar-niederau", "wildschoenau-card"])}'''
             desc = (L(d.get("tagline", {}), lang) + " " + " ".join(paras(L(d.get("intro", {}), lang)))[:170]).strip()
             ld = [{"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": trim_desc(desc), "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
