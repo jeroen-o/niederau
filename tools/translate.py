@@ -692,9 +692,9 @@ T['en'] += [(a, b) for a, b, c in MB_PAIRS]
 T['de'] += [(a, c) for a, b, c in MB_PAIRS]
 
 HUB_PAIRS = [
- ('<p><a href="activiteiten/">Alle activiteiten per thema →</a> · <a href="omgeving/">Dorpen en steden in de omgeving →</a></p>',
-  '<p><a href="activities/">All activities by theme →</a> · <a href="nearby/">Villages and towns nearby →</a></p>',
-  '<p><a href="aktivitaeten/">Alle Aktivitäten nach Thema →</a> · <a href="umgebung/">Dörfer und Städte in der Umgebung →</a></p>'),
+ ('<div class="btns"><a class="btn" href="activiteiten/">Alle activiteiten per thema</a><a class="btn ghost" href="omgeving/">Dorpen en steden in de omgeving</a></div>',
+  '<div class="btns"><a class="btn" href="activities/">All activities by theme</a><a class="btn ghost" href="nearby/">Villages and towns nearby</a></div>',
+  '<div class="btns"><a class="btn" href="aktivitaeten/">Alle Aktivitäten nach Thema</a><a class="btn ghost" href="umgebung/">Dörfer und Städte in der Umgebung</a></div>'),
  ('<li><a href="activiteiten/">Alle activiteiten</a></li>', '<li><a href="activities/">All activities</a></li>', '<li><a href="aktivitaeten/">Alle Aktivitäten</a></li>'),
  ('<li><a href="omgeving/">Omgeving</a></li>', '<li><a href="nearby/">Around Niederau</a></li>', '<li><a href="umgebung/">Umgebung</a></li>'),
 ]

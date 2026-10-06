@@ -1,0 +1,354 @@
+[
+ {
+  "slug": "laengenfeld",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Längenfeld",
+   "en": "Längenfeld",
+   "de": "Längenfeld"
+  },
+  "tagline": {
+   "nl": "Dagtocht naar het Ötztal met thermen, hangbrug en openluchtmuseum",
+   "en": "Day trip to the Ötztal with thermal spa, suspension bridge and open-air museum",
+   "de": "Tagesausflug ins Ötztal mit Therme, Hängebrücke und Freilichtmuseum"
+  },
+  "intro": {
+   "nl": "Längenfeld ligt in het Ötztal in de Oostenrijkse deelstaat Tirol, een zijdal van het Inntal dat zich uitstrekt van ongeveer 820 tot 3.000 m hoogte. Het dorp is vooral bekend als thermenplaats: al sinds de zestiende eeuw komt hier warm bronwater uit de bodem.\n\nHet bekendste adres is de Aqua Dome, een wellnesscomplex met binnen- en buitenbaden en een saunalandschap. Daarnaast heeft de omgeving veel te bieden voor wie actief wil zijn, zoals de hangbrug van Längenfeld, het Jubiläums-Klettersteig met een gezinsvriendelijke route en het Ötztaler Heimat- en Freilichtmuseum in Lehn, een bewaard gebleven boerderij die het vroegere boerenleven laat zien.\n\nVanuit Niederau is Längenfeld een lange maar goed te doen dagtocht. Het past het best bij gezinnen met kinderen die van water, wandelen of een rustig dagje wellness houden. Reken op een vroege start, zodat u ter plaatse genoeg tijd hebt. Wie nog meer wil zien, kan verder het dal in naar de Stuibenfall bij Umhausen, de grootste waterval van Tirol. Tip: neem zwemkleding en een jas mee, want het weer in het dal kan snel wisselen, en bekijk de actuele openingstijden en prijzen van de thermen voordat u vertrekt. Met kleine kinderen is het verstandig de wandelingen kort te houden.",
+   "en": "Längenfeld is a village in the Ötztal in the Austrian state of Tyrol, a side valley of the Inn valley that rises from roughly 820 to 3,000 m. It is best known as a spa village: warm spring water has been rising from the ground here since the sixteenth century.\n\nThe best-known address is the Aqua Dome, a wellness complex with indoor and outdoor pools and a sauna area. The surroundings also suit active families, with the Längenfeld suspension bridge, the Jubiläums-Klettersteig with a family-friendly route, and the Ötztal open-air heritage museum in Lehn, a preserved farmstead showing life on the land in the past.\n\nFrom Niederau, Längenfeld is a long but manageable day trip. It suits families with children who enjoy water, walking or a relaxed spa day. Plan an early start so you have enough time on site. If you want to see more, continue up the valley to the Stuibenfall near Umhausen, the highest waterfall in Tyrol. Tip: bring swimwear and a jacket, as the weather in the valley can change quickly, and check the spa's current opening times and prices before you leave. With small children it is wise to keep walks short.",
+   "de": "Längenfeld liegt im Ötztal im österreichischen Bundesland Tirol, einem Seitental des Inntals, das sich von etwa 820 bis 3.000 m Höhe erstreckt. Bekannt ist der Ort vor allem als Thermenort: Schon seit dem 16. Jahrhundert sprudelt hier warmes Quellwasser aus der Tiefe.\n\nDie bekannteste Adresse ist die Aqua Dome, eine Wellnessanlage mit Innen- und Außenbecken und Saunalandschaft. Auch für Aktive gibt es viel: die Hängebrücke Längenfeld, den Jubiläums-Klettersteig mit familienfreundlicher Route und das Ötztaler Heimat- und Freilichtmuseum in Lehn, einen erhaltenen Hof, der das frühere Bauernleben zeigt.\n\nVon Niederau aus ist Längenfeld ein langer, aber gut machbarer Tagesausflug. Er passt zu Familien mit Kindern, die Wasser, Wandern oder einen ruhigen Wellnesstag mögen. Ein früher Start lohnt sich, damit vor Ort genug Zeit bleibt. Wer mehr sehen möchte, fährt weiter talein zum Stuibenfall bei Umhausen, dem größten Wasserfall Tirols. Tipp: Badesachen und eine Jacke mitnehmen, da das Wetter im Tal schnell wechseln kann, und aktuelle Öffnungszeiten und Preise der Therme vorab prüfen. Mit kleinen Kindern sind kurze Wanderungen ratsam."
+  },
+  "highlights": {
+   "nl": [
+    "Aqua Dome: thermen met binnen- en buitenbaden en sauna's, het hele jaar geopend.",
+    "De hangbrug van Längenfeld verbindt Brand en Burgstein op ongeveer 200 m hoogte.",
+    "Jubiläums-Klettersteig met twee routes, waaronder een gezinsvriendelijke, naar een uitkijkpunt boven de Lehner waterval.",
+    "Ötztaler Heimat- en Freilichtmuseum in Lehn: een bewaarde boerderij met bijgebouwen.",
+    "Verder het dal in: Stuibenfall (159 m) en het Ötzi-Dorf bij Umhausen."
+   ],
+   "en": [
+    "Aqua Dome: thermal spa with indoor and outdoor pools and saunas, open all year.",
+    "The Längenfeld suspension bridge links Brand and Burgstein at about 200 m above the valley floor.",
+    "Jubiläums-Klettersteig with two routes, one of them family-friendly, up to a viewpoint above the Lehn waterfall.",
+    "Ötztal open-air heritage museum in Lehn: a preserved farmstead with outbuildings.",
+    "Further up the valley: the Stuibenfall (159 m) and the Ötzi-Dorf near Umhausen."
+   ],
+   "de": [
+    "Aqua Dome: Therme mit Innen- und Außenbecken und Saunen, ganzjährig geöffnet.",
+    "Die Hängebrücke Längenfeld verbindet Brand und Burgstein in etwa 200 m Höhe.",
+    "Jubiläums-Klettersteig mit zwei Routen, darunter eine familienfreundliche, zu einem Aussichtspunkt über dem Lehner Wasserfall.",
+    "Ötztaler Heimat- und Freilichtmuseum in Lehn: ein erhaltener Hof mit Nebengebäuden.",
+    "Weiter talein: Stuibenfall (159 m) und Ötzi-Dorf bei Umhausen."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 1 uur 50 minuten rijden vanaf Niederau: via het Inntal (A12) richting Innsbruck en daarna het Ötztal in. Vanwege de afstand is het een volledige dagtocht.",
+   "en": "About 1 hour 50 minutes by car from Niederau: along the Inn valley (A12) towards Innsbruck, then into the Ötztal. Because of the distance it is a full-day trip.",
+   "de": "Ca. 1 Stunde 50 Minuten Autofahrt ab Niederau: durchs Inntal (A12) Richtung Innsbruck und dann ins Ötztal. Wegen der Entfernung ist es ein ganztägiger Ausflug."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die water, wellness en wandelen willen combineren.",
+   "en": "Suits families who want to combine water, spa time and walking.",
+   "de": "Passt zu Familien, die Wasser, Wellness und Wandern verbinden möchten."
+  },
+  "season": {
+   "nl": "Het hele jaar bezoekbaar; de thermen zijn ook in de winter een goede keuze.",
+   "en": "Worth a visit all year; the spa is a good winter option too.",
+   "de": "Das ganze Jahr besuchenswert; die Therme ist auch im Winter eine gute Wahl."
+  },
+  "drive_min": 110,
+  "elevation_m": null,
+  "url": "",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Längenfeld een haalbare dagtocht vanuit Niederau?",
+     "en": "Is Längenfeld a realistic day trip from Niederau?",
+     "de": "Ist Längenfeld von Niederau aus als Tagesausflug machbar?"
+    },
+    "a": {
+     "nl": "Ja, maar reken op ca. 1 uur 50 minuten enkele reis. Met een vroege start blijft er genoeg tijd over voor de thermen of een wandeling.",
+     "en": "Yes, but allow about 1 hour 50 minutes each way. With an early start there is enough time for the spa or a walk.",
+     "de": "Ja, man sollte aber etwa 1 Stunde 50 Minuten pro Strecke einplanen. Mit frühem Start bleibt genug Zeit für die Therme oder eine Wanderung."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is er in Längenfeld te doen buiten de Aqua Dome?",
+     "en": "What is there to do in Längenfeld besides the Aqua Dome?",
+     "de": "Was gibt es in Längenfeld außer der Aqua Dome?"
+    },
+    "a": {
+     "nl": "Onder meer de hangbrug, het Jubiläums-Klettersteig en het openluchtmuseum in Lehn.",
+     "en": "Among other things the suspension bridge, the Jubiläums-Klettersteig and the open-air museum in Lehn.",
+     "de": "Unter anderem die Hängebrücke, den Jubiläums-Klettersteig und das Freilichtmuseum in Lehn."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "ruhpolding",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Ruhpolding",
+   "en": "Ruhpolding",
+   "de": "Ruhpolding"
+  },
+  "tagline": {
+   "nl": "Dagtocht naar Beieren met Freizeitpark, Rauschberg en biatlonarena",
+   "en": "Day trip to Bavaria with leisure park, Rauschberg and biathlon arena",
+   "de": "Tagesausflug nach Bayern mit Freizeitpark, Rauschberg und Biathlonarena"
+  },
+  "intro": {
+   "nl": "Ruhpolding ligt in het Chiemgau in Beieren, Duitsland, op ongeveer 800 m hoogte, net over de grens met Tirol. Het is een vakantieplaats voor zomer en winter, omringd door bergen en bossen, en een goede bestemming voor een dagje Duitsland vanuit Niederau.\n\nVoor gezinnen is het Freizeitpark Ruhpolding het bekendste adres: een pretpark met zo'n zestig attracties, dat doorgaans van Pasen tot Allerheiligen open is. Wie liever de bergen in wil, kan naar de Rauschberg met zijn uitzicht en wandelroutes voor verschillende niveaus. In het dorp zelf vindt u het heemkundemuseum.\n\nIn de winter staat Ruhpolding bekend om de Chiemgau Arena, waar wereldbekerwedstrijden en wereldkampioenschappen biatlon worden gehouden. Het is een ontspannen uitstap met veel keuze, ook bij wisselend weer. Controleer vooraf de openingstijden van het pretpark, want die kunnen per jaar verschillen. Ruhpolding is een goed alternatief wanneer het in Tirol regent, omdat het pretpark en het museum veel bezoekers trekken en er ook binnen iets te beleven valt. Neem een identiteitsbewijs mee en let op de actuele openingstijden van de bergbaan.",
+   "en": "Ruhpolding lies in the Chiemgau in Bavaria, Germany, at around 800 m, just across the border from Tyrol. It is a holiday village for both summer and winter, surrounded by mountains and forest, and a good choice for a day in Germany from Niederau.\n\nFor families, the best-known address is the Freizeitpark Ruhpolding, a leisure park with around sixty attractions that is usually open from Easter to All Saints' Day. If you prefer the mountains, head for the Rauschberg, with its views and walking routes for different abilities. In the village itself you will find the local history museum.\n\nIn winter, Ruhpolding is known for the Chiemgau Arena, which hosts biathlon World Cups and World Championships. It is a relaxed outing with plenty of choice, even when the weather changes. Check the park's opening times beforehand, as they can vary from year to year. Ruhpolding is a good alternative when it rains in Tyrol, as the park and museum draw many visitors and there is also something to do indoors. Bring ID and check the current opening times of the mountain lift.",
+   "de": "Ruhpolding liegt im Chiemgau in Bayern, Deutschland, auf rund 800 m Höhe, gleich hinter der Grenze zu Tirol. Der Ort ist im Sommer wie im Winter ein Urlaubsziel, umgeben von Bergen und Wald, und ein gutes Ziel für einen Tag in Deutschland ab Niederau.\n\nFür Familien ist der Freizeitpark Ruhpolding die bekannteste Adresse: ein Park mit rund sechzig Attraktionen, der in der Regel von Ostern bis Allerheiligen geöffnet ist. Wer lieber in die Berge möchte, fährt zur Rauschberg mit Aussicht und Wanderwegen für unterschiedliche Ansprüche. Im Ort selbst gibt es das Heimatmuseum.\n\nIm Winter ist Ruhpolding für die Chiemgau Arena bekannt, in der Biathlon-Weltcups und Weltmeisterschaften stattfinden. Es ist ein entspannter Ausflug mit viel Auswahl, auch bei wechselhaftem Wetter. Die Öffnungszeiten des Parks sollte man vorab prüfen, da sie sich von Jahr zu Jahr ändern können. Ruhpolding ist eine gute Alternative, wenn es in Tirol regnet, da Park und Museum viele Besucher anziehen und es auch drinnen etwas zu erleben gibt. Ausweis mitnehmen und die aktuellen Betriebszeiten der Bergbahn prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "Freizeitpark Ruhpolding: pretpark met ca. 60 attracties, doorgaans van Pasen tot Allerheiligen.",
+    "Rauschberg: uitzichtberg met wandelroutes voor verschillende niveaus.",
+    "Chiemgau Arena: locatie van wereldbeker- en WK-biatlon in de winter.",
+    "Heemkundemuseum in het dorp over geschiedenis en tradities van de streek.",
+    "Wandelen en fietsen in de bossen en dalen rond Ruhpolding in de zomer."
+   ],
+   "en": [
+    "Freizeitpark Ruhpolding: leisure park with around 60 attractions, usually open from Easter to All Saints' Day.",
+    "Rauschberg: a viewpoint mountain with walking routes for different abilities.",
+    "Chiemgau Arena: venue for biathlon World Cups and World Championships in winter.",
+    "Local history museum in the village on the region's past and traditions.",
+    "Walking and cycling in the forests and valleys around Ruhpolding in summer."
+   ],
+   "de": [
+    "Freizeitpark Ruhpolding: Freizeitpark mit rund 60 Attraktionen, meist von Ostern bis Allerheiligen geöffnet.",
+    "Rauschberg: Aussichtsberg mit Wanderwegen für unterschiedliche Ansprüche.",
+    "Chiemgau Arena: Austragungsort von Biathlon-Weltcups und -Weltmeisterschaften im Winter.",
+    "Heimatmuseum im Ort zu Geschichte und Brauchtum der Region.",
+    "Wandern und Radfahren in den Wäldern und Tälern um Ruhpolding im Sommer."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 1 uur 30 minuten rijden vanaf Niederau: via Kufstein en Kössen richting Chiemgau (Duitsland). Neem uw paspoort of identiteitskaart mee voor de grens.",
+   "en": "About 1 hour 30 minutes by car from Niederau: via Kufstein and Kössen towards the Chiemgau (Germany). Bring your passport or ID card for the border.",
+   "de": "Ca. 1 Stunde 30 Minuten Autofahrt ab Niederau: über Kufstein und Kössen in den Chiemgau (Deutschland). Ausweis oder Reisepass für die Grenze mitnehmen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met kinderen die een pretpark en een bergtocht willen combineren.",
+   "en": "Suits families with children who want to combine a leisure park and a mountain outing.",
+   "de": "Passt zu Familien mit Kindern, die Freizeitpark und Bergausflug verbinden möchten."
+  },
+  "season": {
+   "nl": "Vooral zomer voor het pretpark; in de winter biatlon en wintersport.",
+   "en": "Mainly summer for the leisure park; biathlon and winter sports in winter.",
+   "de": "Vor allem Sommer für den Freizeitpark; im Winter Biathlon und Wintersport."
+  },
+  "drive_min": 90,
+  "elevation_m": 799,
+  "url": "",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is het Freizeitpark Ruhpolding open?",
+     "en": "When is the Freizeitpark Ruhpolding open?",
+     "de": "Wann hat der Freizeitpark Ruhpolding geöffnet?"
+    },
+    "a": {
+     "nl": "Doorgaans van Pasen tot Allerheiligen; controleer de actuele dagen en tijden vooraf.",
+     "en": "Usually from Easter to All Saints' Day; check current days and times beforehand.",
+     "de": "In der Regel von Ostern bis Allerheiligen; aktuelle Tage und Zeiten vorab prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is er in Ruhpolding in de winter te zien?",
+     "en": "What is there to see in Ruhpolding in winter?",
+     "de": "Was gibt es in Ruhpolding im Winter zu sehen?"
+    },
+    "a": {
+     "nl": "De Chiemgau Arena is bekend van biatlonwedstrijden; daarnaast zijn er winterse sportmogelijkheden in de omgeving.",
+     "en": "The Chiemgau Arena is known for biathlon events; there are also winter sports options in the area.",
+     "de": "Die Chiemgau Arena ist für Biathlonwettbewerbe bekannt; außerdem gibt es Wintersportmöglichkeiten in der Umgebung."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "mittenwald",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Mittenwald",
+   "en": "Mittenwald",
+   "de": "Mittenwald"
+  },
+  "tagline": {
+   "nl": "Dagtocht naar Beieren met vioolbouwtraditie, Karwendel en meren",
+   "en": "Day trip to Bavaria with violin-making tradition, Karwendel and lakes",
+   "de": "Tagesausflug nach Bayern mit Geigenbau, Karwendel und Seen"
+  },
+  "intro": {
+   "nl": "Mittenwald ligt in Opper-Beieren, Duitsland, tussen het Karwendel- en het Wettersteingebergte, vlak bij de Tiroolse grens. Het stadje staat bekend als centrum van de vioolbouw en als hoogstgelegen luchtkuuroord van Duitsland. Samen met Krün en Wallgau vormt het de toeristenregio Alpenwelt Karwendel.\n\nDe historische dorpskern met kleurige huizen en Lüftlmalerei, de gevelschilderingen, nodigt uit tot een wandeling. Er is een vioolbouwmuseum en er zijn meerdere kerken. In de omgeving liggen veel bergmeren; de Barmsee, die u vanuit Krün bereikt, is het grootste en heeft goede zwemplekken en uitzicht op het Karwendel.\n\nVanuit Niederau is Mittenwald een lange dagtocht over Innsbruck, geschikt voor wie cultuur, een rustige wandeling en een meer wil combineren. Het is vooral aantrekkelijk in de zomer en de vroege herfst, maar het stadje is ook in de winter een bezoek waard. Het stadje is compact en goed te voet te verkennen, met terrassen en bakkers voor een pauze. Informeer vooraf naar de openingstijden van het museum en de bergbanen, en neem een identiteitsbewijs mee voor de grensovergang.",
+   "en": "Mittenwald lies in Upper Bavaria, Germany, between the Karwendel and Wetterstein mountains, close to the Tyrolean border. The town is known as a centre of violin making and as Germany's highest-lying air resort. Together with Krün and Wallgau it forms the Alpenwelt Karwendel tourist region.\n\nThe historic centre, with its colourful houses and Lüftlmalerei, the painted facades, invites a stroll. There is a violin-making museum and several churches. The area has many mountain lakes; the Barmsee, reached from Krün, is the largest, with good swimming spots and views of the Karwendel.\n\nFrom Niederau, Mittenwald is a long day trip via Innsbruck, suited to anyone who wants to combine culture, a gentle walk and a lake. It is most appealing in summer and early autumn, but the town is also worth a visit in winter. The town is compact and easy to explore on foot, with cafes and bakeries for a break. Ask beforehand about the opening times of the museum and the cable cars, and bring ID for the border crossing.",
+   "de": "Mittenwald liegt in Oberbayern, Deutschland, zwischen Karwendel und Wettersteingebirge, nahe der Tiroler Grenze. Der Ort ist als Zentrum des Geigenbaus und als höchstgelegener Luftkurort Deutschlands bekannt. Zusammen mit Krün und Wallgau bildet er die Tourismusregion Alpenwelt Karwendel.\n\nDer historische Ortskern mit bunten Häusern und Lüftlmalerei lädt zum Bummeln ein. Es gibt ein Geigenbaumuseum und mehrere Kirchen. In der Umgebung liegen viele Bergseen; der Barmsee, den man von Krün aus erreicht, ist der größte, mit guten Badestellen und Blick aufs Karwendel.\n\nVon Niederau aus ist Mittenwald ein langer Tagesausflug über Innsbruck, geeignet für alle, die Kultur, einen ruhigen Spaziergang und einen See verbinden möchten. Am schönsten ist er im Sommer und frühen Herbst, aber auch im Winter lohnt sich der Ort. Der Ort ist kompakt und gut zu Fuß zu erkunden, mit Cafés und Bäckereien für eine Pause. Öffnungszeiten von Museum und Bergbahnen vorab erfragen und einen Ausweis für die Grenze mitnehmen. Für Kinder sind der Bach im Ort und die Seen in der Umgebung eine schöne Abwechslung zum Besichtigen, und im Sommer lassen sich Stadtbummel und Badestopp gut an einem Tag verbinden."
+  },
+  "highlights": {
+   "nl": [
+    "Historische dorpskern met Lüftlmalerei, beschilderde gevels.",
+    "Vioolbouwmuseum over de lokale ambachtstraditie.",
+    "Barmsee bij Krün: het grootste meer in de regio, met zwemmen en zicht op het Karwendel.",
+    "Wandelingen in het Karwendel en het Wettersteingebergte, ook rond de Dammkarhütte.",
+    "Andere bergmeren in de Alpenwelt Karwendel voor wandelen, fietsen en zwemmen."
+   ],
+   "en": [
+    "Historic centre with Lüftlmalerei, painted facades.",
+    "Violin-making museum on the local craft tradition.",
+    "Barmsee near Krün: the largest lake in the region, for swimming and views of the Karwendel.",
+    "Walks in the Karwendel and Wetterstein mountains, including around the Dammkarhütte.",
+    "Other mountain lakes in the Alpenwelt Karwendel for walking, cycling and swimming."
+   ],
+   "de": [
+    "Historischer Ortskern mit Lüftlmalerei.",
+    "Geigenbaumuseum zur örtlichen Handwerkstradition.",
+    "Barmsee bei Krün: der größte See der Region, zum Baden und mit Blick aufs Karwendel.",
+    "Wanderungen im Karwendel und Wettersteingebirge, etwa rund um die Dammkarhütte.",
+    "Weitere Bergseen in der Alpenwelt Karwendel zum Wandern, Radfahren und Baden."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 1 uur 45 minuten rijden vanaf Niederau: via het Inntal en Innsbruck, daarna over Seefeld naar Mittenwald in Beieren (Duitsland). Neem uw identiteitsbewijs mee.",
+   "en": "About 1 hour 45 minutes by car from Niederau: via the Inn valley and Innsbruck, then over Seefeld to Mittenwald in Bavaria (Germany). Bring ID.",
+   "de": "Ca. 1 Stunde 45 Minuten Autofahrt ab Niederau: durchs Inntal über Innsbruck, dann über Seefeld nach Mittenwald in Bayern (Deutschland). Ausweis mitnehmen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die cultuur, een meer en een rustige wandeling willen combineren.",
+   "en": "Suits families who want to combine culture, a lake and an easy walk.",
+   "de": "Passt zu Familien, die Kultur, See und einen ruhigen Spaziergang verbinden möchten."
+  },
+  "season": {
+   "nl": "Vooral zomer en herfst; ook in de winter bezoekbaar.",
+   "en": "Mainly summer and autumn; also worth visiting in winter.",
+   "de": "Vor allem Sommer und Herbst; auch im Winter besuchenswert."
+  },
+  "drive_min": 105,
+  "elevation_m": null,
+  "url": "",
+  "verified": false,
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar staat Mittenwald om bekend?",
+     "en": "What is Mittenwald known for?",
+     "de": "Wofür ist Mittenwald bekannt?"
+    },
+    "a": {
+     "nl": "Voor de vioolbouw, de beschilderde gevels (Lüftlmalerei) en de ligging tussen Karwendel en Wetterstein.",
+     "en": "For violin making, its painted facades (Lüftlmalerei) and its position between the Karwendel and Wetterstein mountains.",
+     "de": "Für den Geigenbau, die bemalten Fassaden (Lüftlmalerei) und die Lage zwischen Karwendel und Wetterstein."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je bij Mittenwald zwemmen?",
+     "en": "Can you swim near Mittenwald?",
+     "de": "Kann man bei Mittenwald baden?"
+    },
+    "a": {
+     "nl": "Ja, de Barmsee bij Krün heeft goede toegang om te zwemmen, naast andere meren in de regio.",
+     "en": "Yes, the Barmsee near Krün has good swimming access, as do other lakes in the region.",
+     "de": "Ja, der Barmsee bei Krün hat guten Zugang zum Baden, ebenso andere Seen der Region."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "reutte",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Reutte",
+   "en": "Reutte",
+   "de": "Reutte"
+  },
+  "tagline": {
+   "nl": "Dagtocht naar het Außerfern met Highline179, kastelen en Plansee",
+   "en": "Day trip to the Außerfern with Highline179, castles and Plansee",
+   "de": "Tagesausflug ins Außerfern mit Highline179, Burgen und Plansee"
+  },
+  "intro": {
+   "nl": "Reutte is de hoofdplaats van het Außerfern, het westelijke deel van Tirol in Oostenrijk, aan de rivier de Lech. Boven het stadje liggen de ruïnes van burcht Ehrenberg en Fort Claudia; samen vormen ze de Burgenwelt Ehrenberg. De omgeving valt onder de Naturparkregion Reutte met meer dan 400 km wandelpaden.\n\nDe bekendste trekpleister is de Highline179, een voetgangershangbrug van ruim 400 m lang en ongeveer 114 m hoog tussen burchtruïne en fort. De wandeling erheen en de overtocht zijn indrukwekkend maar niet voor iedereen: wie hoogtevrees heeft, kan beter kiezen voor een andere route. Even ten oosten van Reutte ligt de Plansee, een groot bergmeer dat per rondvaartboot te bevaren is en omringd wordt door wandelpaden.\n\nVanuit Niederau is Reutte een lange dagtocht over Innsbruck en de Fernpas. Het past bij gezinnen met kinderen die wel kunnen wandelen, en is het best in de zomer en vroege herfst. Rekent u op een volle dag. Combineer de Highline179 met een stop aan de Plansee voor een gevarieerde dag. Neem stevige schoenen en een jas mee, controleer vooraf of de brug open is, want bij onweer of harde wind kan hij gesloten zijn, en houd rekening met drukte in het hoogseizoen.",
+   "en": "Reutte is the main town of the Außerfern, the western part of Tyrol in Austria, on the river Lech. Above the town stand the ruins of Ehrenberg castle and Fort Claudia; together they form the Burgenwelt Ehrenberg. The area belongs to the Naturparkregion Reutte, with more than 400 km of walking trails.\n\nThe best-known attraction is the Highline179, a pedestrian suspension bridge over 400 m long and about 114 m high between the castle ruin and the fort. The walk there and the crossing are impressive but not for everyone: if you are afraid of heights, choose a different route. Just east of Reutte lies the Plansee, a large mountain lake with excursion boats and walking paths around it.\n\nFrom Niederau, Reutte is a long day trip via Innsbruck and the Fernpass. It suits families with children who can walk, and is best in summer and early autumn. Plan for a full day. Combine the Highline179 with a stop at the Plansee for a varied day. Bring sturdy shoes and a jacket, check beforehand that the bridge is open, as it can close in thunderstorms or strong wind, and expect crowds in high season.",
+   "de": "Reutte ist der Hauptort des Außerferns, des westlichen Teils von Tirol in Österreich, am Lech. Über dem Ort stehen die Ruinen der Burg Ehrenberg und das Fort Claudia; zusammen bilden sie die Burgenwelt Ehrenberg. Die Gegend gehört zur Naturparkregion Reutte mit mehr als 400 km Wanderwegen.\n\nDie bekannteste Attraktion ist die Highline179, eine Fußgänger-Hängebrücke von über 400 m Länge und etwa 114 m Höhe zwischen Burgruine und Fort. Der Weg dorthin und die Überquerung sind eindrucksvoll, aber nicht für jeden: Wer Höhenangst hat, wählt besser eine andere Route. Östlich von Reutte liegt der Plansee, ein großer Bergsee mit Ausflugsschiffen und Wanderwegen ringsum.\n\nVon Niederau ist Reutte ein langer Tagesausflug über Innsbruck und den Fernpass. Er passt zu Familien mit wanderfähigen Kindern und ist im Sommer und frühen Herbst am schönsten. Man sollte einen ganzen Tag einplanen. Die Highline179 lässt sich mit einem Halt am Plansee zu einem abwechslungsreichen Tag verbinden. Feste Schuhe und eine Jacke mitnehmen, vorab prüfen, ob die Brücke geöffnet ist, da sie bei Gewitter oder starkem Wind schließen kann, und im Hochsommer mit Andrang rechnen."
+  },
+  "highlights": {
+   "nl": [
+    "Highline179: voetgangershangbrug van ruim 400 m tussen Ehrenberg en Fort Claudia.",
+    "Burgenwelt Ehrenberg: burchtruïne en fort boven Reutte.",
+    "Plansee: groot bergmeer met rondvaartboten en wandelpaden.",
+    "Wandelen in de Naturparkregion Reutte met meer dan 400 km paden.",
+    "Rondwandeling om de Plansee voor wie een langere tocht zoekt."
+   ],
+   "en": [
+    "Highline179: pedestrian suspension bridge over 400 m long between Ehrenberg and Fort Claudia.",
+    "Burgenwelt Ehrenberg: castle ruin and fort above Reutte.",
+    "Plansee: large mountain lake with excursion boats and walking paths.",
+    "Walking in the Naturparkregion Reutte, with more than 400 km of trails.",
+    "Circular walk around the Plansee for a longer outing."
+   ],
+   "de": [
+    "Highline179: Fußgänger-Hängebrücke von über 400 m zwischen Ehrenberg und Fort Claudia.",
+    "Burgenwelt Ehrenberg: Burgruine und Fort über Reutte.",
+    "Plansee: großer Bergsee mit Ausflugsschiffen und Wanderwegen.",
+    "Wandern in der Naturparkregion Reutte mit mehr als 400 km Wegen.",
+    "Rundwanderung um den Plansee für eine längere Tour."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 2 uur rijden vanaf Niederau: via het Inntal en Innsbruck, daarna over de Fernpas naar Reutte. Vanwege de afstand is het een volledige dagtocht.",
+   "en": "About 2 hours by car from Niederau: via the Inn valley and Innsbruck, then over the Fernpass to Reutte. Because of the distance it is a full-day trip.",
+   "de": "Ca. 2 Stunden Autofahrt ab Niederau: durchs Inntal über Innsbruck, dann über den Fernpass nach Reutte. Wegen der Entfernung ist es ein ganztägiger Ausflug."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met wandelende kinderen die van uitzicht en kastelen houden.",
+   "en": "Suits families with walking children who enjoy views and castles.",
+   "de": "Passt zu Familien mit wanderfähigen Kindern, die Aussicht und Burgen mögen."
+  },
+  "season": {
+   "nl": "Vooral zomer en vroege herfst.",
+   "en": "Mainly summer and early autumn.",
+   "de": "Vor allem Sommer und früher Herbst."
+  },
+  "drive_min": 120,
+  "elevation_m": null,
+  "url": "",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is de Highline179?",
+     "en": "How long is the Highline179?",
+     "de": "Wie lang ist die Highline179?"
+    },
+    "a": {
+     "nl": "Ruim 400 m (ca. 406 m) lang en ongeveer 114 m boven het dal.",
+     "en": "Over 400 m (about 406 m) long and roughly 114 m above the valley.",
+     "de": "Über 400 m (ca. 406 m) lang und etwa 114 m über dem Tal."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Reutte een haalbare dagtocht vanuit Niederau?",
+     "en": "Is Reutte a realistic day trip from Niederau?",
+     "de": "Ist Reutte von Niederau aus als Tagesausflug machbar?"
+    },
+    "a": {
+     "nl": "Ja, met ca. 2 uur enkele reis wel, maar begin vroeg en reken op een volle dag.",
+     "en": "Yes, at about 2 hours each way, but start early and plan for a full day.",
+     "de": "Ja, bei etwa 2 Stunden pro Strecke, aber früh starten und einen ganzen Tag einplanen."
+    }
+   }
+  ]
+ }
+]

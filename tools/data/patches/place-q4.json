@@ -1,0 +1,354 @@
+[
+ {
+  "slug": "angath",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Angath",
+   "en": "Angath",
+   "de": "Angath"
+  },
+  "tagline": {
+   "nl": "Klein Inndal-dorp bij Kufstein met een rijk scheepvaartverleden",
+   "en": "Small Inn valley village near Kufstein with a rich river-shipping past",
+   "de": "Kleines Inntaldorf bei Kufstein mit reicher Schifffahrtsgeschichte"
+  },
+  "intro": {
+   "nl": "Angath is een van de kleinste gemeenten van het district Kufstein: nog geen 3,5 km² groot, gelegen aan de Inn in het Unterinntal. Je vindt hier geen toeristisch centrum maar een rustig boerendorp, met de bergen van de Kitzbüheler Alpen aan de ene kant en de vallei aan de andere.\n\nHet dorp heeft een opvallend verleden. In de 15e en 16e eeuw was Angath een centrum van de Tiroolse rivierscheepvaart en scheepsbouw; samen met Hall in Tirol en Langkampfen behoorde het tot de drie belangrijkste havens van Tirol. De parochiekerk van de Heilige Geest, aan de zuidrand van het dorp, wordt al in 1220 genoemd en kreeg haar huidige barokke vorm in 1746-47.\n\nIn de buurt ligt op ca. 1.520 m de Hundalm, waar de ijs- en druipsteengrot Buchacker (ook Hundalm-ijsgrot genoemd) ligt. Die grot valt onder de buurgemeente Angerberg en is alleen in het seizoen te bezoeken; informeer vooraf naar openingstijden en route. Angath past bij gezinnen die een korte, rustige uitstap met een beetje geschiedenis willen combineren met een fietstocht of wandeling langs de Inn.",
+   "en": "Angath is one of the smallest municipalities in the Kufstein district: under 3.5 km² in area, set on the Inn in the lower Inn valley. It is not a tourist hub but a quiet farming village, with the Kitzbühel Alps rising on one side and the valley floor on the other.\n\nThe village has a surprising past. In the 15th and 16th centuries Angath was a centre of Tyrolean river shipping and boatbuilding; together with Hall in Tirol and Langkampfen it was one of the three main ports in Tyrol. The parish church of the Holy Spirit, on the southern edge of the village, is first mentioned in 1220 and took its present Baroque form in 1746-47.\n\nNearby, at about 1,520 m, lies the Hundalm, home to the Buchacker ice and dripstone cave (also called the Hundalm ice cave). The cave belongs to the neighbouring municipality of Angerberg and can only be visited in season, so check opening times and the route beforehand. Angath suits families who want a short, quiet outing with a touch of history, combined with a cycle ride or walk along the Inn.",
+   "de": "Angath ist eine der kleinsten Gemeinden des Bezirks Kufstein: knapp 3,5 km² groß und am Inn im Unterinntal gelegen. Es ist kein Touristenzentrum, sondern ein ruhiges Bauerndorf, auf der einen Seite die Kitzbüheler Alpen, auf der anderen die Talebene.\n\nDas Dorf hat eine bemerkenswerte Geschichte. Im 15. und 16. Jahrhundert war Angath ein Zentrum der Tiroler Innschifffahrt und des Schiffbaus; gemeinsam mit Hall in Tirol und Langkampfen zählte es zu den drei wichtigsten Häfen Tirols. Die Pfarrkirche zum Heiligen Geist am Südrand des Ortes wird bereits 1220 erwähnt und erhielt ihre heutige barocke Gestalt 1746-47.\n\nIn der Nähe liegt auf rund 1.520 m die Hundalm mit der Buchacker Eis- und Tropfsteinhöhle (auch Hundalm Eishöhle genannt). Die Höhle gehört zur Nachbargemeinde Angerberg und ist nur saisonal zugänglich; Öffnungszeiten und Anfahrt vorab prüfen. Angath passt für Familien, die einen kurzen, ruhigen Ausflug mit etwas Geschichte mit einer Rad- oder Wandertour am Inn verbinden möchten. Größere Einkaufs- und Gastronomieangebote finden sich im nahen Kufstein."
+  },
+  "highlights": {
+   "nl": [
+    "Parochiekerk van de Heilige Geist, in 1220 voor het eerst genoemd en in 1746-47 barok herbouwd.",
+    "Dorpswandeling langs sporen van het scheepvaartverleden: Angath was in de late middeleeuwen een van de drie grote havens van Tirol.",
+    "Hundalm met de ijs- en druipsteengrot Buchacker op ca. 1.520 m (op grondgebied van Angerberg), in de zomer een bijzonder uitstapje.",
+    "Fietsen en wandelen door het vlakke Inndal, bijvoorbeeld in de richting van Kufstein of Wörgl.",
+    "Kufstein met zijn vesting ligt op korte rijafstand, handig voor een dagtocht in de regio."
+   ],
+   "en": [
+    "Parish church of the Holy Spirit, first mentioned in 1220 and rebuilt in Baroque style in 1746-47.",
+    "A village stroll that picks up traces of the shipping past: in the late Middle Ages Angath was one of Tyrol's three major ports.",
+    "The Hundalm with the Buchacker ice and dripstone cave at about 1,520 m (on Angerberg territory), a special summer outing.",
+    "Cycling and walking across the flat Inn valley, for example towards Kufstein or Wörgl.",
+    "Kufstein and its fortress are a short drive away, handy for a day trip in the region."
+   ],
+   "de": [
+    "Pfarrkirche zum Heiligen Geist, 1220 erstmals erwähnt und 1746-47 barock neu erbaut.",
+    "Dorfspaziergang auf den Spuren der Schifffahrtsgeschichte: Angath war im Spätmittelalter einer der drei großen Häfen Tirols.",
+    "Hundalm mit der Buchacker Eis- und Tropfsteinhöhle auf rund 1.520 m (auf Angerberger Gemeindegebiet), im Sommer ein besonderes Ausflugsziel.",
+    "Rad- und Wandertouren durch das flache Inntal, etwa Richtung Kufstein oder Wörgl.",
+    "Kufstein mit seiner Festung liegt in kurzer Fahrdistanz, praktisch für einen Tagesausflug in der Region."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 30 minuten met de auto: via Oberau en Wörgl naar het Unterinntal en dan in de richting van Kufstein.",
+   "en": "About 30 minutes by car from Niederau: via Oberau and Wörgl into the lower Inn valley, then towards Kufstein.",
+   "de": "Von Niederau ca. 30 Minuten mit dem Auto: über Oberau und Wörgl ins Unterinntal, dann Richtung Kufstein."
+  },
+  "best_for": {
+   "nl": "Past bij rustzoekers en gezinnen die geschiedenis, een grotbezoek en een fietstocht willen combineren.",
+   "en": "Suits quiet-minded visitors and families combining history, a cave visit and a bike ride.",
+   "de": "Passt zu Ruhesuchenden und Familien, die Geschichte, Höhlenbesuch und Radtour verbinden möchten."
+  },
+  "season": {
+   "nl": "Vooral late lente tot herfst; de ijsgrot is seizoensgebonden.",
+   "en": "Mainly late spring to autumn; the ice cave is seasonal.",
+   "de": "Vor allem Spätfrühling bis Herbst; die Eishöhle ist saisonal geöffnet."
+  },
+  "drive_min": 30,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Angath de moeite waard voor een uitstap vanuit Niederau?",
+     "en": "Is Angath worth a trip from Niederau?",
+     "de": "Lohnt sich Angath für einen Ausflug ab Niederau?"
+    },
+    "a": {
+     "nl": "Angath is klein en rustig. Het is vooral interessant om het scheepvaartverleden en de barokke kerk, en handig te combineren met Kufstein of de Hundalm.",
+     "en": "Angath is small and quiet. It is mainly of interest for its shipping history and Baroque church, and easy to combine with Kufstein or the Hundalm.",
+     "de": "Angath ist klein und ruhig. Interessant sind vor allem die Schifffahrtsgeschichte und die barocke Kirche; der Ort lässt sich gut mit Kufstein oder der Hundalm verbinden."
+    }
+   },
+   {
+    "q": {
+     "nl": "Ligt de Hundalm-ijsgrot in Angath?",
+     "en": "Is the Hundalm ice cave in Angath?",
+     "de": "Liegt die Hundalm Eishöhle in Angath?"
+    },
+    "a": {
+     "nl": "Nee, de grot ligt op grondgebied van de buurgemeente Angerberg, op ca. 1.520 m. Vraag vooraf naar openingstijden.",
+     "en": "No, it lies in the neighbouring municipality of Angerberg, at about 1,520 m. Ask about opening times beforehand.",
+     "de": "Nein, die Höhle liegt in der Nachbargemeinde Angerberg auf rund 1.520 m. Öffnungszeiten vorab erfragen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "langkampfen",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Langkampfen",
+   "en": "Langkampfen",
+   "de": "Langkampfen"
+  },
+  "tagline": {
+   "nl": "Dorp aan de Inn bij Kufstein met Stimmersee en uitzicht op de Pendling",
+   "en": "Inn valley village near Kufstein with the Stimmersee and the Pendling above",
+   "de": "Inntaldorf bei Kufstein mit Stimmersee und dem Pendling im Rücken"
+  },
+  "intro": {
+   "nl": "Langkampfen ligt op ca. 504 m aan de noordoever van de Inn, in het Unterinntal tussen Kirchbichl en Kufstein. De gemeente telt ruim 3.500 inwoners en omvat de dorpen Morsbach, Niederbreitenbach, Oberlangkampfen en Unterlangkampfen. Boven het dorp rijzen de beboste uitlopers van de Pendling op; naar de Inn toe liggen vruchtbare weiden. Kufstein is ongeveer 7 km verderop.\n\nVoor gezinnen is het water de belangrijkste reden om te komen. Het Stimmersee is een kunstmatig meer uit de jaren 1928-1934, op ca. 522 m, bekend om zijn heldere, groene water; in de zomer kun je er zwemmen en op de ligweides liggen. Het Strillinger Stausee van 1,7 hectare is een rustig doel voor een wandeling of fietstocht, zomer en winter. Het Heimkehrerkreuz is een uitzichtpunt boven het dorp en geschikt voor een picknick.\n\nIn de late middeleeuwen was Langkampfen, net als Angath en Hall in Tirol, een van de drie grote Tiroolse havens voor de scheepvaart op de Inn. Tegenwoordig is het vooral een woondorp met landbouw. Het past bij gezinnen die een middag aan het water willen doorbrengen en daarna doorrijden naar Kufstein of de Pendling.",
+   "en": "Langkampfen lies at about 504 m on the northern bank of the Inn, in the lower Inn valley between Kirchbichl and Kufstein. The municipality has just over 3,500 residents and includes the villages of Morsbach, Niederbreitenbach, Oberlangkampfen and Unterlangkampfen. Wooded foothills of the Pendling rise above the village, with fertile meadows towards the river. Kufstein is about 7 km away.\n\nFor families, the water is the main draw. The Stimmersee is an artificial lake created between 1928 and 1934, at about 522 m, known for its clear green water; in summer you can swim and sunbathe on the lawns. The 1.7-hectare Strillinger Stausee is a quiet spot for a walk or bike ride in summer and winter. The Heimkehrerkreuz is a viewpoint above the village and a good place for a picnic.\n\nIn the late Middle Ages Langkampfen, like Angath and Hall in Tirol, was one of the three big Tyrolean ports for shipping on the Inn. Today it is mostly a farming and commuter village. It suits families who want an afternoon by the water and then plan to carry on to Kufstein or the Pendling.",
+   "de": "Langkampfen liegt auf rund 504 m am Nordufer des Inns im Unterinntal, zwischen Kirchbichl und Kufstein. Die Gemeinde hat gut 3.500 Einwohner und umfasst die Orte Morsbach, Niederbreitenbach, Oberlangkampfen und Unterlangkampfen. Über dem Dorf erheben sich die bewaldeten Ausläufer des Pendling, zum Inn hin liegen fruchtbare Wiesen. Kufstein ist etwa 7 km entfernt.\n\nFür Familien ist vor allem das Wasser der Anziehungspunkt. Der Stimmersee ist ein künstlich angelegter See aus den Jahren 1928 bis 1934 auf rund 522 m, bekannt für sein klares, grünes Wasser; im Sommer kann man schwimmen und auf den Liegewiesen sonnenbaden. Der 1,7 Hektar große Strillinger Stausee eignet sich für einen ruhigen Spaziergang oder eine Radtour im Sommer wie im Winter. Das Heimkehrerkreuz ist ein Aussichtspunkt über dem Dorf und ein guter Picknickplatz.\n\nIm Spätmittelalter war Langkampfen wie Angath und Hall in Tirol einer der drei großen Tiroler Häfen für die Innschifffahrt. Heute ist es vor allem ein Bauern- und Wohndorf. Der Ort passt zu Familien, die einen Nachmittag am Wasser verbringen und danach nach Kufstein oder zum Pendling weiterfahren möchten."
+  },
+  "highlights": {
+   "nl": [
+    "Stimmersee: kunstmatig meer met helder water, zwemmen en zonnen in de zomer.",
+    "Strillinger Stausee (1,7 ha), rustig doel voor wandelen en fietsen, zomer en winter.",
+    "Heimkehrerkreuz: uitzichtpunt boven het dorp, geschikt voor een picknick.",
+    "Wandelingen in de richting van de Pendling, de berg boven het dorp.",
+    "Kufstein met zijn vesting ligt op ca. 7 km afstand."
+   ],
+   "en": [
+    "Stimmersee: artificial lake with clear water, swimming and sunbathing in summer.",
+    "Strillinger Stausee (1.7 ha), a quiet spot for walking and cycling in summer and winter.",
+    "Heimkehrerkreuz: viewpoint above the village, good for a picnic.",
+    "Walks and hikes towards the Pendling, the mountain above the village.",
+    "Kufstein and its fortress are about 7 km away."
+   ],
+   "de": [
+    "Stimmersee: künstlich angelegter See mit klarem Wasser, im Sommer Baden und Sonnen.",
+    "Strillinger Stausee (1,7 ha), ruhiges Ziel zum Spazieren und Radfahren, Sommer wie Winter.",
+    "Heimkehrerkreuz: Aussichtspunkt über dem Dorf, geeignet für ein Picknick.",
+    "Wanderungen Richtung Pendling, dem Hausberg über dem Ort.",
+    "Kufstein mit seiner Festung liegt rund 7 km entfernt."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 30 minuten met de auto: via Wörgl over de Inntal-route (snelweg of B171) naar Langkampfen, tussen Kirchbichl en Kufstein.",
+   "en": "About 30 minutes by car from Niederau: via Wörgl along the Inn valley (motorway or B171) to Langkampfen, between Kirchbichl and Kufstein.",
+   "de": "Von Niederau ca. 30 Minuten mit dem Auto: über Wörgl im Inntal (Autobahn oder B171) nach Langkampfen, zwischen Kirchbichl und Kufstein."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die een zwem- en wandeldag combineren met een bezoek aan Kufstein.",
+   "en": "Suits families combining a swim and walk with a visit to Kufstein.",
+   "de": "Passt zu Familien, die Bade- und Wandertag mit einem Besuch in Kufstein verbinden."
+  },
+  "season": {
+   "nl": "Vooral zomer (zwemmen); wandelen en fietsen het grootste deel van het jaar.",
+   "en": "Mainly summer (swimming); walking and cycling for much of the year.",
+   "de": "Vor allem Sommer (Baden); Spazieren und Radfahren den Großteil des Jahres."
+  },
+  "drive_min": 30,
+  "elevation_m": 504,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je in het Stimmersee zwemmen?",
+     "en": "Can you swim in the Stimmersee?",
+     "de": "Kann man im Stimmersee baden?"
+    },
+    "a": {
+     "nl": "Ja, het meer is een bekende zwemplek met ligweides; het water kan in de zomer ca. 21 °C worden. Controleer actuele voorzieningen ter plaatse.",
+     "en": "Yes, it is a well-known swimming spot with sunbathing lawns; the water can reach about 21 °C in summer. Check current facilities on site.",
+     "de": "Ja, der See ist ein bekannter Badeplatz mit Liegewiesen; das Wasser kann im Sommer etwa 21 °C erreichen. Aktuelle Einrichtungen vor Ort prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is Langkampfen van Kufstein?",
+     "en": "How far is Langkampfen from Kufstein?",
+     "de": "Wie weit ist Langkampfen von Kufstein entfernt?"
+    },
+    "a": {
+     "nl": "Ongeveer 7 km; Kufstein met de vesting ligt dus vlakbij.",
+     "en": "About 7 km, so Kufstein and its fortress are close by.",
+     "de": "Etwa 7 km; Kufstein mit der Festung liegt also ganz in der Nähe."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "rotholz",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Rotholz",
+   "en": "Rotholz",
+   "de": "Rotholz"
+  },
+  "tagline": {
+   "nl": "Plaatsje bij Jenbach met Schloss Rotholz en de Bibelweg naar de Rottenburg",
+   "en": "Hamlet near Jenbach with Schloss Rotholz and the Bibelweg to the Rottenburg",
+   "de": "Ortsteil bei Jenbach mit Schloss Rotholz und dem Bibelweg zur Rottenburg"
+  },
+  "intro": {
+   "nl": "Rotholz is een klein plaatsje in het Inntal, vlak bij Jenbach en de ingang van het Zillertal. Administratief valt het onder de gemeente Strass im Zillertal (district Schwaz); de gemeente ligt op ca. 522 m. Het ligt dicht bij Buch in Tirol, vanwaar de wandeling naar de Rottenburg vaak begint. Vanuit Niederau is het goed bereikbaar via de snelweg.\n\nHet plaatsje wordt gedomineerd door Schloss Rotholz. Dit kasteel werd tussen 1575 en 1585 gebouwd als jacht- en lustslot voor aartshertog Ferdinand II en droeg eerst de naam Thurnegg. Sinds 1879 is het in gebruik als landbouwonderwijsinstelling; het is dus geen museum maar een werkend schoolcomplex. De landbouwschool heeft een collectie van ongeveer 800 historische landbouwwerktuigen.\n\nVoor gezinnen is de Bibelweg het mooiste: een pad van ca. 3 km langs houten beelden en de Notburga-spar, met 53 m de hoogste spar van Tirol, naar de ruïne van de Rottenburg met de Notburgakapel op ca. 710 m. Reken op ca. 1,5 uur voor de ronde. Rotholz zelf heeft weinig voorzieningen; het past bij wie een korte, rustige wandeling met een stukje geschiedenis zoekt.",
+   "en": "Rotholz is a small place in the Inn valley, close to Jenbach and the entrance to the Zillertal. Administratively it belongs to the municipality of Strass im Zillertal (Schwaz district), which lies at about 522 m. It is close to Buch in Tirol, where the walk to the Rottenburg often starts. From Niederau it is easy to reach by motorway.\n\nThe place is dominated by Schloss Rotholz. This castle was built between 1575 and 1585 as a hunting and pleasure palace for Archduke Ferdinand II and was originally called Thurnegg. Since 1879 it has housed an agricultural training institution; it is therefore not a museum but a working school complex. The school keeps a collection of about 800 historic farm implements.\n\nFor families the Bibelweg is the highlight: a path of about 3 km past wooden sculptures and the Notburga spruce, at 53 m the tallest spruce in Tyrol, leading to the Rottenburg ruins and the Notburga chapel at about 710 m. Allow about 1.5 hours for the round trip. Rotholz itself has few facilities; it suits those who want a short, quiet walk with a bit of history.",
+   "de": "Rotholz ist ein kleiner Ort im Inntal, nahe Jenbach und dem Eingang ins Zillertal. Verwaltungsmäßig gehört er zur Gemeinde Strass im Zillertal (Bezirk Schwaz), die auf rund 522 m liegt. Der Ort liegt nahe Buch in Tirol, von wo die Wanderung zur Rottenburg oft startet. Von Niederau ist er über die Autobahn gut erreichbar.\n\nDen Ort prägt Schloss Rotholz. Es wurde zwischen 1575 und 1585 als Jagd- und Lustschloss für Erzherzog Ferdinand II. erbaut und hieß ursprünglich Thurnegg. Seit 1879 dient es als landwirtschaftliche Lehranstalt; es ist also kein Museum, sondern ein aktiver Schulbetrieb. Die Lehranstalt besitzt eine Sammlung von rund 800 historischen bäuerlichen Geräten.\n\nFür Familien ist der Bibelweg das Highlight: ein rund 3 km langer Weg vorbei an Holzskulpturen und der Notburga-Fichte, mit 53 m die höchste Fichte Tirols, zur Ruine Rottenburg mit der Notburgakapelle auf etwa 710 m. Für die Runde sind ca. 1,5 Stunden einzuplanen. Rotholz selbst bietet wenig Infrastruktur; es passt zu allen, die eine kurze, ruhige Wanderung mit etwas Geschichte suchen."
+  },
+  "highlights": {
+   "nl": [
+    "Schloss Rotholz uit 1575-1585, sinds 1879 landbouwschool (van buiten te bekijken; geen museum).",
+    "Bibelweg van ca. 3 km met houten beelden en de Notburga-spar (53 m, hoogste spar van Tirol).",
+    "Ruïne Rottenburg met Notburgakapel op ca. 710 m, rondwandeling ca. 1,5 uur.",
+    "Verzameling van ongeveer 800 historische landbouwwerktuigen van de landbouwschool; vraag vooraf naar toegang.",
+    "Jenbach en het begin van het Zillertal liggen vlakbij."
+   ],
+   "en": [
+    "Schloss Rotholz, built 1575-1585 and an agricultural school since 1879 (view from outside; not a museum).",
+    "The Bibelweg, about 3 km, with wooden sculptures and the Notburga spruce (53 m, tallest in Tyrol).",
+    "Rottenburg ruins with the Notburga chapel at about 710 m, a round walk of about 1.5 hours.",
+    "A collection of about 800 historic farm implements at the agricultural school; ask about access beforehand.",
+    "Jenbach and the start of the Zillertal are close by."
+   ],
+   "de": [
+    "Schloss Rotholz, 1575-1585 erbaut und seit 1879 Landwirtschaftsschule (von außen zu besichtigen; kein Museum).",
+    "Bibelweg von rund 3 km mit Holzskulpturen und der Notburga-Fichte (53 m, höchste Fichte Tirols).",
+    "Ruine Rottenburg mit Notburgakapelle auf etwa 710 m, Rundwanderung ca. 1,5 Stunden.",
+    "Sammlung von rund 800 historischen bäuerlichen Geräten der Lehranstalt; Zugang vorab erfragen.",
+    "Jenbach und der Beginn des Zillertals liegen ganz in der Nähe."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 40 minuten met de auto: via Wörgl over de A12 Inntalautobahn richting Innsbruck, afrit Jenbach/Wiesing, dan naar Buch en Rotholz.",
+   "en": "About 40 minutes by car from Niederau: via Wörgl onto the A12 Inn valley motorway towards Innsbruck, exit Jenbach/Wiesing, then on to Buch and Rotholz.",
+   "de": "Von Niederau ca. 40 Minuten mit dem Auto: über Wörgl auf die A12 Inntalautobahn Richtung Innsbruck, Ausfahrt Jenbach/Wiesing, dann weiter nach Buch und Rotholz."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met een korte wandeling, kasteelsfeer en geschiedenis.",
+   "en": "Suits families after a short walk, castle atmosphere and history.",
+   "de": "Passt zu Familien mit Lust auf eine kurze Wanderung, Schlossatmosphäre und Geschichte."
+  },
+  "season": {
+   "nl": "Vooral lente tot herfst; de Bibelweg is in de winter minder geschikt.",
+   "en": "Mainly spring to autumn; the Bibelweg is less suitable in winter.",
+   "de": "Vor allem Frühling bis Herbst; der Bibelweg ist im Winter weniger geeignet."
+  },
+  "drive_min": 40,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je Schloss Rotholz bezoeken?",
+     "en": "Can you visit Schloss Rotholz?",
+     "de": "Kann man Schloss Rotholz besichtigen?"
+    },
+    "a": {
+     "nl": "Het kasteel is een werkende landbouwschool, geen museum. Je kunt het van buiten bekijken; informeer voor een bezoek van de collectie vooraf.",
+     "en": "The castle is a working agricultural school, not a museum. You can view it from outside; ask in advance about visiting the collection.",
+     "de": "Das Schloss ist eine aktive Landwirtschaftsschule, kein Museum. Von außen ist es zu sehen; für die Sammlung vorab nachfragen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang duurt de wandeling naar de Rottenburg?",
+     "en": "How long is the walk to the Rottenburg?",
+     "de": "Wie lange dauert die Wanderung zur Rottenburg?"
+    },
+    "a": {
+     "nl": "De rondwandeling over de Bibelweg duurt rustig ca. 1,5 uur (ca. 230 hoogtemeters); de ruïne ligt op ca. 710 m.",
+     "en": "The round walk via the Bibelweg takes about 1.5 hours at a leisurely pace (about 230 m of ascent); the ruins lie at about 710 m.",
+     "de": "Die Rundwanderung über den Bibelweg dauert gemütlich ca. 1,5 Stunden (rund 230 Höhenmeter); die Ruine liegt auf etwa 710 m."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "erl",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Erl",
+   "en": "Erl",
+   "de": "Erl"
+  },
+  "tagline": {
+   "nl": "Passiespeldorp aan de Inn met de Tiroler Festspiele Erl",
+   "en": "Passion play village on the Inn with the Tiroler Festspiele Erl",
+   "de": "Passionsspielort am Inn mit den Tiroler Festspielen Erl"
+  },
+  "intro": {
+   "nl": "Erl ligt in het uiterste noordoosten van Tirol, aan de Inn, vlak bij de Duitse grens en ten noorden van Kufstein. De gemeente telt circa 1.400 inwoners en ligt op ca. 476 m. Het is een klein dorp in open landschap, bekend door twee culturele tradities.\n\nDe eerste is de Passiespelen. Het dorp kijkt terug op een traditie van ruim 400 jaar; de spelen worden om de zes jaar opgevoerd in het Passionsspielhaus, dat in 1957-1959 naar ontwerp van Robert Schuller werd gebouwd en tot 1.500 bezoekers biedt. De laatste editie liep in 2025, van mei tot oktober, meestal in het weekend. Daarnaast bestaan de Tiroler Festspiele Erl, een klassiek muziekfestival dat in 1998 door Gustav Kuhn werd opgericht. In 2012 kwam daar het Festspielhaus bij, een modern gebouw met 732 zitplaatsen.\n\nVoor gezinnen met oudere kinderen kan een voorstelling een bijzondere uitstap zijn; controleer vooraf het programma, de duur en de geschiktheid voor kinderen. Op andere dagen is Erl vooral een rustige plek voor een wandeling of fietstocht langs de Inn. Het dorp heeft weinig attracties, dus het past het best bij wie cultuur wil combineren met een dagje Kufsteinerland.",
+   "en": "Erl lies in the far north-east of Tyrol, on the Inn, close to the German border and north of Kufstein. The municipality has about 1,400 residents and lies at about 476 m. It is a small village in open countryside, known for two cultural traditions.\n\nThe first is the Passion Play. The village looks back on a tradition of more than 400 years; the plays are staged every six years in the Passionsspielhaus, built in 1957-1959 to a design by Robert Schuller and seating up to 1,500. The latest edition ran from May to October 2025, mostly at weekends. The second is the Tiroler Festspiele Erl, a classical music festival founded in 1998 by Gustav Kuhn. In 2012 the Festspielhaus was added, a modern building with 732 seats.\n\nFor families with older children a performance can make a special outing; check the programme, running time and suitability for children beforehand. On other days Erl is mainly a quiet place for a walk or bike ride along the Inn. The village has few attractions, so it suits those who want to combine culture with a day in the Kufsteinerland.",
+   "de": "Erl liegt im äußersten Nordosten Tirols am Inn, nahe der deutschen Grenze und nördlich von Kufstein. Die Gemeinde hat rund 1.400 Einwohner und liegt auf etwa 476 m. Es ist ein kleines Dorf in offener Landschaft, bekannt für zwei kulturelle Traditionen.\n\nDie erste sind die Passionsspiele. Der Ort blickt auf eine über 400-jährige Tradition zurück; die Spiele werden alle sechs Jahre im Passionsspielhaus aufgeführt, das 1957 bis 1959 nach Plänen von Robert Schuller erbaut wurde und bis zu 1.500 Besucher fasst. Die letzte Ausgabe lief 2025 von Mai bis Oktober, meist am Wochenende. Dazu kommen die Tiroler Festspiele Erl, ein Festival für klassische Musik, das 1998 von Gustav Kuhn gegründet wurde. 2012 kam das Festspielhaus hinzu, ein moderner Bau mit 732 Plätzen.\n\nFür Familien mit älteren Kindern kann eine Vorstellung ein besonderer Ausflug sein; Programm, Dauer und Kindertauglichkeit vorab prüfen. An anderen Tagen ist Erl vor allem ein ruhiger Ort für einen Spaziergang oder eine Radtour am Inn. Das Dorf hat wenige Attraktionen und passt daher am besten zu Gästen, die Kultur mit einem Tag im Kufsteinerland verbinden möchten."
+  },
+  "highlights": {
+   "nl": [
+    "Passionsspielhaus (1957-1959, tot 1.500 zitplaatsen), plaats van de Passiespelen die om de zes jaar worden opgevoerd.",
+    "Tiroler Festspiele Erl: klassiek muziekfestival, sinds 1998; programma vooraf controleren.",
+    "Festspielhaus uit 2012 (732 zitplaatsen) van Delugan Meissl Architects, ook als gebouw interessant.",
+    "Wandelen en fietsen langs de Inn in open landschap.",
+    "Kufstein met de vesting ligt op ca. 15 km."
+   ],
+   "en": [
+    "Passionsspielhaus (1957-1959, up to 1,500 seats), home of the Passion Play staged every six years.",
+    "Tiroler Festspiele Erl: classical music festival, since 1998; check the programme beforehand.",
+    "Festspielhaus from 2012 (732 seats) by Delugan Meissl Architects, also worth a look as a building.",
+    "Walking and cycling along the Inn in open countryside.",
+    "Kufstein and its fortress are about 15 km away."
+   ],
+   "de": [
+    "Passionsspielhaus (1957-1959, bis zu 1.500 Plätze), Schauplatz der alle sechs Jahre stattfindenden Passionsspiele.",
+    "Tiroler Festspiele Erl: Festival für klassische Musik, seit 1998; Programm vorab prüfen.",
+    "Festspielhaus von 2012 (732 Plätze) von Delugan Meissl Architects, auch als Bauwerk sehenswert.",
+    "Wandern und Radfahren am Inn in offener Landschaft.",
+    "Kufstein mit der Festung liegt rund 15 km entfernt."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 45 minuten met de auto: via Wörgl naar Kufstein en dan over de A93 of lokale wegen noordwaarts naar Erl.",
+   "en": "About 45 minutes by car from Niederau: via Wörgl to Kufstein, then north to Erl on the A93 or local roads.",
+   "de": "Von Niederau ca. 45 Minuten mit dem Auto: über Wörgl nach Kufstein und weiter auf der A93 oder Landstraßen nordwärts nach Erl."
+  },
+  "best_for": {
+   "nl": "Past bij cultuurliefhebbers en gezinnen met oudere kinderen.",
+   "en": "Suits culture lovers and families with older children.",
+   "de": "Passt zu Kulturinteressierten und Familien mit älteren Kindern."
+  },
+  "season": {
+   "nl": "Hele jaar; de voorstellingen volgen een eigen programma, de Passiespelen alleen in een spelseizoen.",
+   "en": "Year-round; performances follow their own programme, the Passion Play only in a play year.",
+   "de": "Ganzjährig; die Aufführungen folgen einem eigenen Programm, die Passionsspiele nur in einem Spieljahr."
+  },
+  "drive_min": 45,
+  "elevation_m": 476,
+  "url": "https://www.tiroler-festspiele.at/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe vaak zijn de Passiespelen in Erl?",
+     "en": "How often is the Passion Play held in Erl?",
+     "de": "Wie oft finden die Passionsspiele in Erl statt?"
+    },
+    "a": {
+     "nl": "Om de zes jaar. De laatste editie was in 2025, van mei tot oktober; informeer naar de volgende editie bij de organisatie.",
+     "en": "Every six years. The latest edition was in 2025, from May to October; ask the organisers about the next one.",
+     "de": "Alle sechs Jahre. Die letzte Ausgabe war 2025 von Mai bis Oktober; zur nächsten bitte beim Veranstalter nachfragen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer werd het Festspielhaus geopend?",
+     "en": "When did the Festspielhaus open?",
+     "de": "Wann wurde das Festspielhaus eröffnet?"
+    },
+    "a": {
+     "nl": "Op 26 december 2012, met 732 zitplaatsen, naast het oudere Passionsspielhaus.",
+     "en": "On 26 December 2012, with 732 seats, alongside the older Passionsspielhaus.",
+     "de": "Am 26. Dezember 2012, mit 732 Plätzen, neben dem älteren Passionsspielhaus."
+    }
+   }
+  ],
+  "verified": true
+ }
+]
