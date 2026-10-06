@@ -1229,5 +1229,82 @@
    "waterval"
   ],
   false
+ ],
+ [
+  "niederau-piste-sleeplift-bergtop-kruis",
+  [
+   "Brede, besneeuwde skiheuvel met een sleeplift, skiërs op de piste en een gipfelkruis op de top onder een blauwe lucht",
+   "Wide snowy ski hill with a drag lift, skiers on the slope and a summit cross on top under a blue sky",
+   "Breiter, verschneiter Skihügel mit Schlepplift, Skifahrern auf der Piste und einem Gipfelkreuz oben unter blauem Himmel"
+  ],
+  [
+   "skiën",
+   "piste",
+   "pistes",
+   "sleeplift",
+   "skigebied",
+   "gipfelkruis"
+  ],
+  false
+ ],
+ [
+  "niederau-jausenstation-kropfrader-joch-bord",
+  [
+   "Houten gevel met twee houten borden met de tekst ‘Jausenstation Kröpfrader Joch’",
+   "Wooden façade with two wooden signs reading ‘Jausenstation Kröpfrader Joch’",
+   "Holzfassade mit zwei Holzschildern mit der Aufschrift ‘Jausenstation Kröpfrader Joch’"
+  ],
+  [
+   "jausenstation",
+   "kröpfrader",
+   "berghut",
+   "hut"
+  ],
+  false
+ ],
+ [
+  "niederau-winter-paragliden-startplaats",
+  [
+   "Twee paragliders maken hun schermen klaar op een besneeuwde startplek bij een berghut",
+   "Two paragliders preparing their wings at a snowy take-off spot near a mountain hut",
+   "Zwei Gleitschirmflieger machen ihre Schirme auf einem verschneiten Startplatz bei einer Berghütte startklar"
+  ],
+  [
+   "paragliden",
+   "paragliding",
+   "parapente",
+   "tandemvlucht"
+  ],
+  false
+ ],
+ [
+  "niederau-winter-paragliden-dal-sneeuw",
+  [
+   "Paraglider boven een besneeuwd dal met bergen op de achtergrond",
+   "Paraglider above a snowy valley with mountains in the background",
+   "Gleitschirmflieger über einem verschneiten Tal mit Bergen im Hintergrund"
+  ],
+  [
+   "paragliden",
+   "paragliding",
+   "parapente",
+   "tandemvlucht",
+   "uitzicht"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-fuchsia-bloem",
+  [
+   "Roze-witte fuchsia in bloei, met een wazige houten achtergrond",
+   "Pink and white fuchsia in bloom, with a blurred wooden background",
+   "Rosa-weiße Fuchsie in Blüte vor unscharfem Holzhintergrund"
+  ],
+  [
+   "bloemen",
+   "alpenbloemen",
+   "tuin"
+  ],
+  false
  ]
 ]
