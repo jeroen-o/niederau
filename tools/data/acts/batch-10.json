@@ -1,20 +1,96 @@
 [
  {
   "id": "s268",
-  "drop": true,
-  "drop_reason": "Kaiserbach-klamm bij Thiersee niet te vinden; alleen Kaiserklamm bij Brandenberg bevestigd (andere plek).",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "thiersee",
+  "slug_en": "kaiserbach-gorge-thiersee",
+  "slug_de": "kaiserbachklamm-thiersee",
+  "title": {
+   "nl": "Kaiserbachklamm bij Thiersee",
+   "en": "Kaiserbach gorge near Thiersee",
+   "de": "Kaiserbachklamm bei Thiersee"
+  },
+  "tagline": {
+   "nl": "Rustige kloofwandeling langs een snelstromende bergbeek",
+   "en": "Quiet gorge walk beside a fast-flowing mountain stream",
+   "de": "Ruhige Klammwanderung entlang eines rauschenden Bergbachs"
+  },
+  "intro": {
+   "nl": "Bij Thiersee, in het Kufsteinerland, wordt een kleine kloof beschreven waar het pad de Kaiserbach volgt langs mos, kleine watervallen en kalksteenformaties. Het is een korte, rustige tocht die minder bekend is dan de grote kloven van Tirol en daardoor minder druk is.\n\nDe wandeling past bij gezinnen met kinderen vanaf ongeveer 6 jaar, die tegen een beetje nat en glad pad kunnen. Reken op ca. 2 uur. In de zomer is het in de kloof aangenaam koel. Na afloop kun je bij de Thiersee een stop maken. Let op: de exacte ligging en toegankelijkheid zijn niet bevestigd, dus vraag vooraf bij het toeristenbureau van Thiersee naar de actuele situatie.",
+   "en": "Near Thiersee, in the Kufstein region, a small gorge is described where the path follows the Kaiserbach past moss, small waterfalls and limestone formations. It is a short, quiet outing, less well known than Tyrol's big gorges and therefore less busy.\n\nThe walk suits families with children from about 6 who can handle a damp, slippery path. Allow about 2 hours. In summer the gorge is pleasantly cool. Afterwards you can stop at the Thiersee. Note: the exact location and access are not confirmed, so ask the Thiersee tourist office about the current situation beforehand.",
+   "de": "Bei Thiersee im Kufsteinerland wird eine kleine Klamm beschrieben, in der der Weg dem Kaiserbach an Moos, kleinen Wasserfällen und Kalksteinformationen entlang folgt. Es ist ein kurzer, ruhiger Ausflug, weniger bekannt als die großen Klammen Tirols und daher weniger überlaufen.\n\nDie Wanderung passt zu Familien mit Kindern ab etwa 6 Jahren, die einen feuchten, rutschigen Weg verkraften. Rechnen Sie mit ca. 2 Stunden. Im Sommer ist es in der Klamm angenehm kühl. Danach lässt sich ein Halt am Thiersee einlegen. Hinweis: Genaue Lage und Zugänglichkeit sind nicht bestätigt, fragen Sie daher vorab beim Tourismusbüro Thiersee nach der aktuellen Situation."
+  },
+  "tips": {
+   "nl": [
+    "Draag schoenen met goed profiel; het pad kan nat zijn.",
+    "Ga niet na hevige regen.",
+    "Combineer de tocht met een stop bij de Thiersee."
+   ],
+   "en": [
+    "Wear shoes with good grip; the path can be wet.",
+    "Do not go after heavy rain.",
+    "Combine the walk with a stop at the Thiersee."
+   ],
+   "de": [
+    "Tragen Sie Schuhe mit gutem Profil; der Weg kann nass sein.",
+    "Gehen Sie nicht nach starkem Regen.",
+    "Verbinden Sie die Tour mit einem Halt am Thiersee."
+   ]
+  },
+  "practical": {
+   "nl": "Thiersee ligt ca. 25 minuten rijden van Niederau, via Wörgl en Kufstein-richting. Informeer ter plaatse naar het beginpunt en de parkeermogelijkheden.",
+   "en": "Thiersee is about 25 minutes by car from Niederau, towards Kufstein. Ask locally about the starting point and parking.",
+   "de": "Thiersee liegt ca. 25 Fahrminuten von Niederau entfernt, Richtung Kufstein. Erkundigen Sie sich vor Ort nach Startpunkt und Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From approx. 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "Approx. 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Waarschijnlijk gratis; informeer vooraf",
+    "en": "Probably free; check beforehand",
+    "de": "Vermutlich kostenlos; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min drive",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Thiersee, Kufsteinerland (Tirol)",
+   "en": "Thiersee, Kufstein region (Tyrol)",
+   "de": "Thiersee, Kufsteinerland (Tirol)"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Kaiserbachklamm geschikt voor kinderen?",
+     "en": "Is the Kaiserbach gorge suitable for children?",
+     "de": "Ist die Kaiserbachklamm für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Vanaf ongeveer 6 jaar, mits ze tegen een nat pad kunnen; informeer vooraf naar de actuele situatie.",
+     "en": "From about 6 years, provided they can cope with a wet path; ask about the current situation beforehand.",
+     "de": "Ab etwa 6 Jahren, wenn sie einen nassen Weg verkraften; fragen Sie vorab nach der aktuellen Situation."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s275",
@@ -106,7 +182,8 @@
      "de": "Ja, es gibt einen Badestrand und mehrere bequeme Zugänge zum Wasser. Das Wasser ist allerdings frisch."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s281",
@@ -198,7 +275,8 @@
      "de": "Ja, an der Mittelstation Streuböden gibt es eine Erlebniswelt mit unter anderem Alpine Coaster und Wasserspielen."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s286",
@@ -290,7 +368,8 @@
      "de": "Ja, am Ufer gibt es einen großen Badebereich; das Wasser ist allerdings kühl."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s287",
@@ -368,7 +447,7 @@
    "en": "Imst, Upper Inn Valley (Tyrol)",
    "de": "Imst, Oberinntal (Tirol)"
   },
-  "url": "https://www.imst.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -382,7 +461,8 @@
      "de": "Nein, die Schlucht ist kostenlos und in der Saison frei zugänglich."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s288",
@@ -474,24 +554,101 @@
      "de": "Eine Bergerlebniswelt bei Hochsöll mit Wasserstationen, Bienenstock und altem Bauernhaus, für Familien gedacht."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s293",
-  "drop": true,
-  "drop_reason": "Bienenlehrpfad in Alpbach niet te bevestigen via zoekopdracht.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "alpbach-bee-trail",
+  "slug_de": "alpbach-bienenlehrpfad",
+  "title": {
+   "nl": "Bienenlehrpfad Alpbach",
+   "en": "Bee educational trail, Alpbach",
+   "de": "Bienenlehrpfad Alpbach"
+  },
+  "tagline": {
+   "nl": "Leerzame wandeling over bijen en honing in het Alpbachtal",
+   "en": "Educational walk about bees and honey in the Alpbachtal",
+   "de": "Lehrreicher Spaziergang über Bienen und Honig im Alpbachtal"
+  },
+  "intro": {
+   "nl": "In Alpbach wordt een educatief wandelpad beschreven dat langs bijenvolken loopt en uitleg geeft over het leven van bijen. Aan het eind zou je lokale honing kunnen proeven. Voor kinderen is het een prettige manier om iets over natuur, samenwerking en duurzaamheid te leren.\n\nDe wandeling duurt ca. 1 tot 2 uur en is voor alle leeftijden bedoeld. Alpbach staat bekend als een van de mooiste dorpen van Tirol, met houten boerderijen en bloemrijke weiden, dus het pad past goed in een rustige dagtocht. Dit pad is niet bevestigd; vraag bij het toeristenbureau van Alpbach naar de actuele route, openingstijden en de mogelijkheid tot proeven.",
+   "en": "In Alpbach an educational path is described that passes beehives and explains the life of bees. At the end you may be able to taste local honey. For children it is a pleasant way to learn about nature, cooperation and sustainability.\n\nThe walk takes about 1 to 2 hours and is meant for all ages. Alpbach is known as one of Tyrol's prettiest villages, with timber farmhouses and flower-rich meadows, so the trail fits a quiet day out. This trail is not confirmed; ask the Alpbach tourist office about the current route, opening times and whether tasting is possible.",
+   "de": "In Alpbach wird ein Lehrpfad beschrieben, der an Bienenvölkern vorbeiführt und das Leben der Bienen erklärt. Am Ende kann man möglicherweise lokalen Honig probieren. Für Kinder ist es eine schöne Möglichkeit, etwas über Natur, Zusammenarbeit und Nachhaltigkeit zu lernen.\n\nDer Spaziergang dauert ca. 1 bis 2 Stunden und ist für alle Altersgruppen gedacht. Alpbach gilt als eines der schönsten Dörfer Tirols mit Holzhöfen und blumenreichen Wiesen, der Pfad passt daher gut zu einem ruhigen Ausflug. Der Pfad ist nicht bestätigt; fragen Sie beim Tourismusbüro Alpbach nach aktueller Route, Öffnungszeiten und Verkostungsmöglichkeit."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf naar de actuele route en eventuele proeverij.",
+    "Loop rustig langs de bijenvolken en houd afstand.",
+    "Combineer met een wandeling door het dorp."
+   ],
+   "en": [
+    "Ask beforehand about the current route and any tasting.",
+    "Walk calmly past the hives and keep your distance.",
+    "Combine with a stroll through the village."
+   ],
+   "de": [
+    "Fragen Sie vorab nach aktueller Route und eventueller Verkostung.",
+    "Gehen Sie ruhig an den Bienenvölkern vorbei und halten Sie Abstand.",
+    "Verbinden Sie den Pfad mit einem Spaziergang durchs Dorf."
+   ]
+  },
+  "practical": {
+   "nl": "Alpbach ligt ca. 30 minuten rijden van Niederau, via de Inntal en het Alpbachtal. Parkeren kan in het dorp.",
+   "en": "Alpbach is about 30 minutes by car from Niederau, via the Inn Valley and the Alpbachtal. You can park in the village.",
+   "de": "Alpbach liegt ca. 30 Fahrminuten von Niederau entfernt, über das Inntal und das Alpbachtal. Im Dorf kann man parken."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "Approx. 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Waarschijnlijk gratis; informeer vooraf",
+    "en": "Probably free; check beforehand",
+    "de": "Vermutlich kostenlos; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min drive",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Alpbach, Alpbachtal (Tirol)",
+   "en": "Alpbach, Alpbachtal (Tyrol)",
+   "de": "Alpbach, Alpbachtal (Tirol)"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang duurt de bijenwandeling in Alpbach?",
+     "en": "How long does the bee walk in Alpbach take?",
+     "de": "Wie lange dauert der Bienenpfad in Alpbach?"
+    },
+    "a": {
+     "nl": "Ongeveer 1 tot 2 uur; vraag het toeristenbureau om de actuele route.",
+     "en": "About 1 to 2 hours; ask the tourist office for the current route.",
+     "de": "Etwa 1 bis 2 Stunden; fragen Sie das Tourismusbüro nach der aktuellen Route."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s295",
@@ -583,7 +740,8 @@
      "de": "Meist freitagabends im Juli und August; die genauen Termine wechseln, bitte vorab erfragen."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s35",
@@ -661,7 +819,7 @@
    "en": "Auffach, Wildschönau (Tyrol)",
    "de": "Auffach, Wildschönau (Tirol)"
   },
-  "url": "https://www.wildschoenau.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -675,24 +833,101 @@
      "de": "Auf dem Familienweg bergab Richtung Mittelstation ist das möglich."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s41",
-  "drop": true,
-  "drop_reason": "Geleide Nordic Walking in Niederau (dinsdag 9u, stokverhuur) niet te bevestigen.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "nordic-walking-wildschoenau",
+  "slug_de": "nordic-walking-wildschoenau",
+  "title": {
+   "nl": "Nordic Walking in de Wildschönau",
+   "en": "Nordic walking in the Wildschönau",
+   "de": "Nordic Walking in der Wildschönau"
+  },
+  "tagline": {
+   "nl": "Wandelen met stokken door het dal, voor jong en oud",
+   "en": "Walking with poles through the valley, for young and old",
+   "de": "Wandern mit Stöcken durchs Tal, für Jung und Alt"
+  },
+  "intro": {
+   "nl": "Nordic walking is wandelen met speciale stokken en traint naast de benen ook het bovenlichaam. Rond Niederau lopen gemarkeerde routes door het dal die zich goed lenen voor een rustige training, ook voor gezinnen en grootouders. Vanuit het dorp kom je snel op de paden met uitzicht over het dal.\n\nWie de techniek niet kent, kan zich laten begeleiden; er zouden geleide groepen kunnen lopen, vraag het toeristenbureau naar dagen en tijden. Stokken zijn mogelijk te huur, informeer naar de kosten. Reken op ca. 1,5 tot 2 uur voor een gemiddelde route van 5 tot 10 km. Een goede manier om in beweging te komen zonder zware stijgingen.",
+   "en": "Nordic walking is walking with special poles and works the upper body as well as the legs. Around Niederau, marked routes run through the valley and suit a relaxed workout, including for families and grandparents. From the village you quickly reach paths with views over the valley.\n\nIf you do not know the technique, you can be guided; guided groups may run, so ask the tourist office about days and times. Poles may be available to rent, so ask about the cost. Allow about 1.5 to 2 hours for an average route of 5 to 10 km. A good way to get moving without heavy climbs.",
+   "de": "Nordic Walking ist Wandern mit speziellen Stöcken und trainiert neben den Beinen auch den Oberkörper. Rund um Niederau führen markierte Routen durchs Tal, die sich für ein entspanntes Training eignen, auch für Familien und Großeltern. Vom Dorf aus erreichen Sie schnell Wege mit Blick über das Tal.\n\nWer die Technik nicht kennt, kann sich begleiten lassen; möglicherweise gibt es geführte Gruppen, fragen Sie das Tourismusbüro nach Tagen und Zeiten. Stöcke lassen sich eventuell mieten, erkundigen Sie sich nach den Kosten. Rechnen Sie mit ca. 1,5 bis 2 Stunden für eine durchschnittliche Strecke von 5 bis 10 km. Eine gute Art, in Bewegung zu kommen, ohne starke Anstiege."
+  },
+  "tips": {
+   "nl": [
+    "Laat je de techniek tonen; dat maakt de training effectiever.",
+    "Begin vroeg om de warmte te vermijden.",
+    "De routes zijn ook geschikt als gewone wandeling."
+   ],
+   "en": [
+    "Have the technique shown to you; it makes the workout more effective.",
+    "Start early to avoid the heat.",
+    "The routes also work as ordinary walks."
+   ],
+   "de": [
+    "Lassen Sie sich die Technik zeigen; das macht das Training effektiver.",
+    "Starten Sie früh, um der Hitze zu entgehen.",
+    "Die Strecken eignen sich auch als normale Spaziergänge."
+   ]
+  },
+  "practical": {
+   "nl": "De routes beginnen in en rond Niederau, dus je kunt er te voet naartoe. Het toeristenbureau in het dorp geeft kaarten en informatie.",
+   "en": "The routes start in and around Niederau, so you can reach them on foot. The tourist office in the village provides maps and information.",
+   "de": "Die Routen beginnen in und um Niederau, Sie erreichen sie also zu Fuß. Das Tourismusbüro im Dorf gibt Karten und Informationen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From approx. 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 tot 2 uur",
+    "en": "Approx. 1.5 to 2 hours",
+    "de": "Ca. 1,5 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Stokverhuur mogelijk; informeer vooraf",
+    "en": "Pole rental possible; check beforehand",
+    "de": "Stockverleih möglich; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau zelf",
+    "en": "In Niederau itself",
+    "de": "In Niederau selbst"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau (Tirol)",
+   "en": "Niederau, Wildschönau (Tyrol)",
+   "de": "Niederau, Wildschönau (Tirol)"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Kan ik Nordic-walkingstokken huren in Niederau?",
+     "en": "Can I rent Nordic walking poles in Niederau?",
+     "de": "Kann ich in Niederau Nordic-Walking-Stöcke mieten?"
+    },
+    "a": {
+     "nl": "Mogelijk; vraag het toeristenbureau of je accommodatie naar de mogelijkheden en kosten.",
+     "en": "Possibly; ask the tourist office or your accommodation about options and costs.",
+     "de": "Möglicherweise; fragen Sie das Tourismusbüro oder Ihre Unterkunft nach Möglichkeiten und Kosten."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s6",
@@ -770,7 +1005,7 @@
    "en": "Niederau, Wildschönau (Tyrol)",
    "de": "Niederau, Wildschönau (Tirol)"
   },
-  "url": "https://www.markbachjoch.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -784,7 +1019,8 @@
      "de": "Ja, mit der Markbachjochbahn ab Niederau; im Sommer fährt sie von Anfang Mai bis Mitte Oktober."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s62",
@@ -801,7 +1037,8 @@
   "facts": {},
   "location": {},
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s64",
@@ -879,7 +1116,7 @@
    "en": "Ellmau/Going, Wilder Kaiser (Tyrol)",
    "de": "Ellmau/Going, Wilder Kaiser (Tirol)"
   },
-  "url": "https://www.wilderkaiser.info",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -893,7 +1130,8 @@
      "de": "Ja, rund um Ellmau und Going gibt es flache markierte Wege über Wiesen und durch Wald; fragen Sie das Tourismusbüro nach einer Karte."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s73",
@@ -985,7 +1223,8 @@
      "de": "Ab St. Ulrich etwa 9 km und rund 2,5 Stunden; Varianten unterscheiden sich."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s79",
@@ -1077,7 +1316,8 @@
      "de": "Rund 380 m in drei Stufen; den untersten Fall erreichen Sie in 10 bis 15 Gehminuten."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s83",
@@ -1169,24 +1409,101 @@
      "de": "Ja, der Weg durch den Engen Grund zur Engalm ist sanft und hat unterwegs einen Spielplatz."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s89",
-  "drop": true,
-  "drop_reason": "Gerlossteig (kloofwandeling Gerlos) niet te vinden; alleen Gerlosstein bevestigd (andere activiteit).",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "gerlos",
+  "slug_en": "gerlos-gorge-walk",
+  "slug_de": "gerlos-klammweg",
+  "title": {
+   "nl": "Gerlossteig bij Gerlos",
+   "en": "Gerlossteig near Gerlos",
+   "de": "Gerlossteig bei Gerlos"
+  },
+  "tagline": {
+   "nl": "Avontuurlijke wandeling bij een waterval en kloof in het Zillertal",
+   "en": "Adventurous walk beside a waterfall and gorge in the Zillertal",
+   "de": "Abenteuerlicher Weg bei Wasserfall und Klamm im Zillertal"
+  },
+  "intro": {
+   "nl": "Bij Gerlos, aan het eind van het Zillertal, wordt een wandelroute langs een waterval en kloof beschreven, met paden in de rotswand, ijzeren klimankers en mooie uitzichten. Op sommige stukken zijn er veiligheidspunten gemarkeerd.\n\nDe tocht duurt ca. 2 tot 3 uur en past bij kinderen vanaf ongeveer 8 jaar die zeker lopen en geen hoogtevrees hebben. Goed schoeisel is nodig, en sommige stukken kunnen nat zijn van de nevel; na regen is de waterval extra indrukwekkend. Deze route is niet bevestigd; vraag bij het toeristenbureau in Gerlos naar de actuele toestand en geschiktheid voordat je gaat.",
+   "en": "Near Gerlos, at the head of the Zillertal, a walking route is described beside a waterfall and gorge, with paths cut into the rock face, iron climbing anchors and fine views. Some sections have marked safety points.\n\nThe walk takes about 2 to 3 hours and suits children from about 8 who are sure-footed and not afraid of heights. Good footwear is needed, and some sections can be wet from spray; after rain the waterfall is especially impressive. This route is not confirmed; ask the tourist office in Gerlos about its current condition and suitability before you go.",
+   "de": "Bei Gerlos am Ende des Zillertals wird ein Wanderweg an einem Wasserfall und einer Klamm entlang beschrieben, mit in den Fels gehauenen Pfaden, eisernen Haltepunkten und schönen Ausblicken. Auf einigen Abschnitten sind Sicherheitspunkte markiert.\n\nDie Tour dauert ca. 2 bis 3 Stunden und passt zu Kindern ab etwa 8 Jahren, die trittsicher und schwindelfrei sind. Gutes Schuhwerk ist nötig, und einzelne Abschnitte können durch Sprühnebel nass sein; nach Regen ist der Wasserfall besonders eindrucksvoll. Die Route ist nicht bestätigt; fragen Sie vor der Tour beim Tourismusbüro in Gerlos nach dem aktuellen Zustand und der Eignung."
+  },
+  "tips": {
+   "nl": [
+    "Draag stevige wandelschoenen.",
+    "Ga niet na hevige regen of bij onweer.",
+    "Neem een extra jas mee voor de nevel."
+   ],
+   "en": [
+    "Wear sturdy walking shoes.",
+    "Do not go after heavy rain or in a thunderstorm.",
+    "Bring an extra jacket for the spray."
+   ],
+   "de": [
+    "Tragen Sie feste Wanderschuhe.",
+    "Gehen Sie nicht nach starkem Regen oder bei Gewitter.",
+    "Nehmen Sie eine zusätzliche Jacke für den Sprühnebel mit."
+   ]
+  },
+  "practical": {
+   "nl": "Gerlos ligt ca. 50 minuten rijden van Niederau, via het Zillertal. Informeer ter plaatse naar het startpunt.",
+   "en": "Gerlos is about 50 minutes by car from Niederau, via the Zillertal. Ask locally about the starting point.",
+   "de": "Gerlos liegt ca. 50 Fahrminuten von Niederau entfernt, über das Zillertal. Erkundigen Sie sich vor Ort nach dem Startpunkt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From approx. 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "Approx. 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Waarschijnlijk gratis; informeer vooraf",
+    "en": "Probably free; check beforehand",
+    "de": "Vermutlich kostenlos; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "Approx. 50 min drive",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Gerlos, Zillertal (Tirol)",
+   "en": "Gerlos, Zillertal (Tyrol)",
+   "de": "Gerlos, Zillertal (Tirol)"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Voor welke leeftijd is de Gerlossteig geschikt?",
+     "en": "What age is the Gerlossteig suitable for?",
+     "de": "Für welches Alter ist der Gerlossteig geeignet?"
+    },
+    "a": {
+     "nl": "Ongeveer vanaf 8 jaar, voor kinderen die zeker lopen; informeer vooraf naar de actuele toestand.",
+     "en": "From about 8 years, for sure-footed children; ask about current conditions beforehand.",
+     "de": "Etwa ab 8 Jahren, für trittsichere Kinder; erkundigen Sie sich vorab nach dem aktuellen Zustand."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s90",
@@ -1278,7 +1595,8 @@
      "de": "Den Zeller See, die Glocknergruppe, das Kitzsteinhorn und den Wilden Kaiser; laut Bergbahn rund dreißig Dreitausender."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s98",
@@ -1356,7 +1674,7 @@
    "en": "Hohe Tauern, between Bruck and Heiligenblut",
    "de": "Hohe Tauern, zwischen Bruck und Heiligenblut"
   },
-  "url": "https://www.grossglockner.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -1370,24 +1688,101 @@
      "de": "2026 kostet die Tageskarte für einen Pkw rund 41,50 €; prüfen Sie den aktuellen Tarif vorab."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "w21",
-  "drop": true,
-  "drop_reason": "Route 'Wildschönalm' niet te bevestigen als winterwandeling.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "winter-walk-niederau-oberau",
+  "slug_de": "winterwanderung-niederau-oberau",
+  "title": {
+   "nl": "Winterwandeling Niederau en Oberau",
+   "en": "Winter walk between Niederau and Oberau",
+   "de": "Winterwanderung Niederau und Oberau"
+  },
+  "tagline": {
+   "nl": "Makkelijke, vlakke winterwandeling langs boerderijen, ook met buggy",
+   "en": "Easy, flat winter walk past farms, also with a buggy",
+   "de": "Leichte, flache Winterwanderung an Höfen vorbei, auch mit Buggy"
+  },
+  "intro": {
+   "nl": "Tussen Niederau en Oberau loopt een eenvoudige winterwandeling langs de beek en traditionele Tiroler boerderijen. Het vlakke deel langs het water is volgens de bron ook met een sneeuwbuggy te doen, waardoor de route geschikt is voor gezinnen met kleine kinderen en voor grootouders.\n\nOnderweg zie je bevroren beekjes, houten bruggetjes en uitzicht op de Kitzbüheler Alpen. Er zijn een kortere variant van ca. 3 km en een langere van ca. 6 km; reken op 1 tot 3 uur. De route start in het centrum van Niederau en is vanuit veel accommodaties te voet te bereiken. De route is niet bevestigd: vraag bij het toeristenbureau naar de actuele toestand van de paden.",
+   "en": "Between Niederau and Oberau an easy winter walk runs along the stream and past traditional Tyrolean farms. According to the source the flat stretch beside the water can also be done with a snow buggy, so the route suits families with small children and grandparents.\n\nAlong the way you see frozen brooks, wooden bridges and views of the Kitzbühel Alps. There is a shorter option of about 3 km and a longer one of about 6 km; allow 1 to 3 hours. The route starts in the centre of Niederau and can be reached on foot from many accommodations. The route is not confirmed: ask the tourist office about current path conditions.",
+   "de": "Zwischen Niederau und Oberau führt ein leichter Winterweg am Bach entlang und an traditionellen Tiroler Höfen vorbei. Laut Quelle ist der flache Abschnitt am Wasser auch mit dem Schneebuggy machbar, die Strecke eignet sich also für Familien mit kleinen Kindern und für Großeltern.\n\nUnterwegs sehen Sie gefrorene Bäche, Holzbrücken und Ausblicke auf die Kitzbüheler Alpen. Es gibt eine kürzere Variante von ca. 3 km und eine längere von ca. 6 km; rechnen Sie mit 1 bis 3 Stunden. Die Route startet im Zentrum von Niederau und ist von vielen Unterkünften zu Fuß erreichbar. Die Route ist nicht bestätigt: Fragen Sie beim Tourismusbüro nach dem aktuellen Zustand der Wege."
+  },
+  "tips": {
+   "nl": [
+    "Draag warme laarzen met grip; het kan glad zijn.",
+    "Neem een thermoskan met warme drank mee.",
+    "Kies de kortere variant als de kinderen moe worden."
+   ],
+   "en": [
+    "Wear warm boots with grip; it can be slippery.",
+    "Take a flask of hot drink.",
+    "Choose the shorter option if the children tire."
+   ],
+   "de": [
+    "Tragen Sie warme Stiefel mit Profil; es kann glatt sein.",
+    "Nehmen Sie eine Thermoskanne mit Heißgetränk mit.",
+    "Wählen Sie die kürzere Variante, wenn die Kinder müde werden."
+   ]
+  },
+  "practical": {
+   "nl": "De wandeling begint in het centrum van Niederau; Oberau ligt ca. 10 minuten rijden verderop in het dal. Informeer naar de actuele toestand van de paden.",
+   "en": "The walk starts in the centre of Niederau; Oberau is about 10 minutes by car further up the valley. Ask about current path conditions.",
+   "de": "Die Wanderung beginnt im Zentrum von Niederau; Oberau liegt ca. 10 Fahrminuten weiter im Tal. Fragen Sie nach dem aktuellen Zustand der Wege."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 3 uur",
+    "en": "Approx. 1 to 3 hours",
+    "de": "Ca. 1 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "In Niederau zelf",
+    "en": "In Niederau itself",
+    "de": "In Niederau selbst"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Niederau en Oberau, Wildschönau (Tirol)",
+   "en": "Niederau and Oberau, Wildschönau (Tyrol)",
+   "de": "Niederau und Oberau, Wildschönau (Tirol)"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Kan ik de winterwandeling tussen Niederau en Oberau met een buggy doen?",
+     "en": "Can I do the winter walk between Niederau and Oberau with a buggy?",
+     "de": "Kann ich die Winterwanderung zwischen Niederau und Oberau mit Buggy machen?"
+    },
+    "a": {
+     "nl": "Het vlakke deel langs het water zou met een sneeuwbuggy kunnen; informeer naar de toestand van de paden.",
+     "en": "The flat stretch beside the water should be possible with a snow buggy; ask about path conditions.",
+     "de": "Der flache Abschnitt am Wasser sollte mit Schneebuggy möglich sein; fragen Sie nach dem Zustand der Wege."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w24",
@@ -1465,7 +1860,7 @@
    "en": "Niederau, Wildschönau (Tyrol)",
    "de": "Niederau, Wildschönau (Tirol)"
   },
-  "url": "https://www.markbachjoch.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -1479,74 +1874,379 @@
      "de": "Etwa 10,5 km und rund 4 Stunden, überwiegend bergab; die Strecke ist mittelschwer."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "w28",
-  "drop": true,
-  "drop_reason": "Dierensporen-tocht niet te vinden in het winterprogramma van Wildschönau.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "winter-animal-tracks-niederau",
+  "slug_de": "winter-tierspuren-niederau",
+  "title": {
+   "nl": "Dierensporen zoeken in de winter",
+   "en": "Tracking animal footprints in winter",
+   "de": "Tierspuren suchen im Winter"
+  },
+  "tagline": {
+   "nl": "Boswandeling waarbij kinderen sporen in de sneeuw leren lezen",
+   "en": "Forest walk where children learn to read tracks in the snow",
+   "de": "Waldspaziergang, bei dem Kinder Spuren im Schnee lesen lernen"
+  },
+  "intro": {
+   "nl": "In verse sneeuw laten dieren duidelijke afdrukken achter. Tijdens een boswandeling bij Niederau kun je leren hoe je de sporen van haas, vos, ree en vogels herkent en wat dat vertelt over hun leven in de winter: wat ze eten en waar ze schuilen. Kinderen worden zo kleine speurders.\n\nDe wandeling is ongeveer 3 km en duurt ca. 2 uur. Het beste is vroeg op de dag, als de sporen vers zijn. Er zou een gids kunnen meelopen; het toeristenbureau kan zeggen of en wanneer dat kan, en geeft mogelijk kaartjes om sporen te herkennen. Deze activiteit is niet bevestigd, vraag dus vooraf naar het actuele aanbod.",
+   "en": "Animals leave clear prints in fresh snow. On a forest walk near Niederau you can learn to recognise the tracks of hare, fox, roe deer and birds and what they tell you about life in winter: what the animals eat and where they shelter. Children become little detectives.\n\nThe walk is about 3 km and takes about 2 hours. It is best early in the day when the tracks are fresh. A guide may be available; the tourist office can tell you whether and when, and may have cards for recognising tracks. This activity is not confirmed, so ask about the current offer beforehand.",
+   "de": "Im frischen Schnee hinterlassen Tiere deutliche Abdrücke. Bei einem Waldspaziergang nahe Niederau lernen Sie, die Spuren von Hase, Fuchs, Reh und Vögeln zu erkennen und was sie über das Leben im Winter verraten: was die Tiere fressen und wo sie Unterschlupf finden. Kinder werden so zu kleinen Spurensuchern.\n\nDer Spaziergang ist etwa 3 km lang und dauert ca. 2 Stunden. Am besten ist er früh am Tag, wenn die Spuren frisch sind. Möglicherweise begleitet ein Guide; das Tourismusbüro kann sagen, ob und wann, und hat eventuell Karten zum Erkennen der Spuren. Diese Aktivität ist nicht bestätigt, fragen Sie daher vorab nach dem aktuellen Angebot."
+  },
+  "tips": {
+   "nl": [
+    "Ga vroeg, na verse sneeuw.",
+    "Vraag het toeristenbureau naar een sporengids of kaartjes.",
+    "Kijk ook omhoog: in de bomen zitten vogels."
+   ],
+   "en": [
+    "Go early, after fresh snow.",
+    "Ask the tourist office about a tracking guide or cards.",
+    "Look up too: there are birds in the trees."
+   ],
+   "de": [
+    "Gehen Sie früh, nach Neuschnee.",
+    "Fragen Sie das Tourismusbüro nach Spurenführer oder Karten.",
+    "Schauen Sie auch nach oben: In den Bäumen sitzen Vögel."
+   ]
+  },
+  "practical": {
+   "nl": "De wandeling begint in de bossen bij Niederau en is vanuit het dorp te voet te bereiken. Informeer naar een gids en het startpunt.",
+   "en": "The walk starts in the woods near Niederau and can be reached on foot from the village. Ask about a guide and the starting point.",
+   "de": "Der Spaziergang beginnt in den Wäldern bei Niederau und ist vom Dorf aus zu Fuß erreichbar. Fragen Sie nach einem Guide und dem Startpunkt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 5 jaar",
+    "en": "From approx. 5 years",
+    "de": "Ab ca. 5 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "Approx. 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Zelf gratis; met gids informeer vooraf",
+    "en": "Free on your own; with a guide check beforehand",
+    "de": "Allein kostenlos; mit Guide vorab erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau zelf",
+    "en": "In Niederau itself",
+    "de": "In Niederau selbst"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Bossen bij Niederau, Wildschönau (Tirol)",
+   "en": "Woods near Niederau, Wildschönau (Tyrol)",
+   "de": "Wälder bei Niederau, Wildschönau (Tirol)"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke dieren kun je aan sporen herkennen?",
+     "en": "Which animals can you recognise by their tracks?",
+     "de": "Welche Tiere erkennt man an ihren Spuren?"
+    },
+    "a": {
+     "nl": "Bijvoorbeeld haas, vos, ree en vogels, vooral in verse sneeuw.",
+     "en": "For example hare, fox, roe deer and birds, especially in fresh snow.",
+     "de": "Zum Beispiel Hase, Fuchs, Reh und Vögel, vor allem im Neuschnee."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w41",
-  "drop": true,
-  "drop_reason": "Winterkruiden-wandeling niet te bevestigen.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "winter-herb-walk-oberau",
+  "slug_de": "winterkraeuter-wanderung-oberau",
+  "title": {
+   "nl": "Winterkruidenwandeling Oberau",
+   "en": "Winter herb walk in Oberau",
+   "de": "Winterkräuter-Wanderung Oberau"
+  },
+  "tagline": {
+   "nl": "Korte wandeling waarin kinderen winterplanten en kruiden ontdekken",
+   "en": "Short walk where children discover winter plants and herbs",
+   "de": "Kurzer Spaziergang, bei dem Kinder Winterpflanzen und Kräuter entdecken"
+  },
+  "intro": {
+   "nl": "Wat groeit en bloeit er nog in de winter? Tijdens een korte wandeling door de bossen bij Oberau laat een kruidenkenner zien welke planten eetbaar zijn, welke bessen vogels eten en hoe bevroren planten er van dichtbij uitzien. Kinderen kunnen een klein kruidenzakje maken om mee te nemen.\n\nDe route is ongeveer 2 km en de wandeling duurt ca. 1,5 uur. Na afloop kan er kruidenthee worden gedronken. Het is een rustige, leerzame activiteit voor kinderen vanaf ongeveer 6 jaar. Dit aanbod is niet bevestigd, dus vraag bij het toeristenbureau naar dag, tijd en kosten en of het in het huidige seizoen wordt aangeboden.",
+   "en": "What still grows in winter? On a short walk through the woods near Oberau a herb expert shows which plants are edible, which berries birds eat and what frozen plants look like up close. Children can make a small herb sachet to take home.\n\nThe route is about 2 km and the walk takes about 1.5 hours. Afterwards there may be herbal tea. It is a calm, educational activity for children from about 6. This offer is not confirmed, so ask the tourist office about day, time and cost, and whether it is offered this season.",
+   "de": "Was wächst im Winter noch? Bei einem kurzen Spaziergang durch die Wälder bei Oberau zeigt ein Kräuterkenner, welche Pflanzen essbar sind, welche Beeren Vögel fressen und wie gefrorene Pflanzen aus der Nähe aussehen. Kinder können ein kleines Kräutersäckchen zum Mitnehmen herstellen.\n\nDie Strecke ist etwa 2 km lang, der Spaziergang dauert ca. 1,5 Stunden. Danach gibt es eventuell Kräutertee. Es ist eine ruhige, lehrreiche Aktivität für Kinder ab etwa 6 Jahren. Das Angebot ist nicht bestätigt, fragen Sie daher beim Tourismusbüro nach Tag, Uhrzeit und Kosten und ob es in dieser Saison stattfindet."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf naar dag, tijd en kosten.",
+    "Kleed je warm; je staat veel stil.",
+    "Neem een tasje mee voor de kruiden."
+   ],
+   "en": [
+    "Ask beforehand about day, time and cost.",
+    "Dress warmly; you stand still a lot.",
+    "Bring a small bag for the herbs."
+   ],
+   "de": [
+    "Fragen Sie vorab nach Tag, Uhrzeit und Kosten.",
+    "Kleiden Sie sich warm; Sie stehen viel still.",
+    "Nehmen Sie ein Tütchen für die Kräuter mit."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 10 minuten rijden van Niederau, verder het dal in. Informeer naar het startpunt.",
+   "en": "Oberau is about 10 minutes by car from Niederau, further up the valley. Ask about the starting point.",
+   "de": "Oberau liegt ca. 10 Fahrminuten von Niederau entfernt, weiter im Tal. Fragen Sie nach dem Startpunkt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From approx. 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Met gids tegen betaling; informeer vooraf",
+    "en": "With a guide for a fee; check beforehand",
+    "de": "Mit Guide kostenpflichtig; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10 min rijden",
+    "en": "Approx. 10 min drive",
+    "de": "Ca. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau (Tirol)",
+   "en": "Oberau, Wildschönau (Tyrol)",
+   "de": "Oberau, Wildschönau (Tirol)"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat leren kinderen op de winterkruidenwandeling?",
+     "en": "What do children learn on the winter herb walk?",
+     "de": "Was lernen Kinder auf der Winterkräuter-Wanderung?"
+    },
+    "a": {
+     "nl": "Welke planten en bessen er in de winter te vinden zijn en wat eetbaar is; ze maken ook een kruidenzakje.",
+     "en": "Which plants and berries can be found in winter and what is edible; they also make a herb sachet.",
+     "de": "Welche Pflanzen und Beeren es im Winter gibt und was essbar ist; sie basteln auch ein Kräutersäckchen."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w44",
-  "drop": true,
-  "drop_reason": "Maanlicht-sneeuwschoenwandeling niet te bevestigen in het programma.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "moonlight-snowshoe-walk-niederau",
+  "slug_de": "vollmond-schneeschuhwanderung-niederau",
+  "title": {
+   "nl": "Schneeschuhwanderung bij volle maan",
+   "en": "Full-moon snowshoe walk",
+   "de": "Schneeschuhwanderung bei Vollmond"
+  },
+  "tagline": {
+   "nl": "Avondwandeling met sneeuwschoenen door het maanverlichte landschap",
+   "en": "Evening snowshoe walk through the moonlit landscape",
+   "de": "Abendliche Schneeschuhwanderung durch die mondbeschienene Landschaft"
+  },
+  "intro": {
+   "nl": "Bij volle maan en een heldere hemel ligt het landschap van de Wildschönau er zilverachtig bij: de sneeuw glinstert en de schaduwen zijn scherp. Op sneeuwschoenen loop je rustig over open velden en langs de rand van het bos, vaak zonder lamp.\n\nDe route is ongeveer 5 km en duurt ca. 2 uur. Een gids kan vertellen over nachtdieren en de invloed van de maan; wil je meelopen, meld je dan vooraf aan via je accommodatie of het toeristenbureau. De tocht kan alleen rond volle maan en bij droog, helder weer, dus controleer de datum. Dit aanbod is niet bevestigd, vraag naar de actuele mogelijkheden.",
+   "en": "With a full moon and clear sky the Wildschönau landscape looks silvery: the snow glitters and shadows are sharp. On snowshoes you walk quietly across open fields and along the edge of the forest, often without a lamp.\n\nThe route is about 5 km and takes about 2 hours. A guide can tell you about nocturnal animals and the moon's influence; if you want to join, register beforehand via your accommodation or the tourist office. It is only possible around the full moon and in dry, clear weather, so check the date. This offer is not confirmed, so ask about current options.",
+   "de": "Bei Vollmond und klarem Himmel liegt die Wildschönauer Landschaft silbrig da: Der Schnee glitzert, die Schatten sind scharf. Auf Schneeschuhen gehen Sie ruhig über offene Felder und am Waldrand entlang, oft ohne Lampe.\n\nDie Strecke ist etwa 5 km lang und dauert ca. 2 Stunden. Ein Guide kann über nachtaktive Tiere und den Einfluss des Mondes erzählen; zum Mitgehen melden Sie sich vorab über Ihre Unterkunft oder das Tourismusbüro an. Möglich ist die Tour nur um Vollmond und bei trockenem, klarem Wetter, prüfen Sie daher das Datum. Das Angebot ist nicht bestätigt, fragen Sie nach den aktuellen Möglichkeiten."
+  },
+  "tips": {
+   "nl": [
+    "Controleer wanneer het volle maan is en hoe het weer wordt.",
+    "Neem warme kleding en handschoenen mee; het is in de avond koud.",
+    "Neem een moment van stilte om naar de nacht te luisteren."
+   ],
+   "en": [
+    "Check when the full moon is and what the weather will be.",
+    "Bring warm clothing and gloves; evenings are cold.",
+    "Take a moment of silence to listen to the night."
+   ],
+   "de": [
+    "Prüfen Sie, wann Vollmond ist und wie das Wetter wird.",
+    "Nehmen Sie warme Kleidung und Handschuhe mit; abends ist es kalt.",
+    "Gönnen Sie sich einen Moment der Stille, um der Nacht zu lauschen."
+   ]
+  },
+  "practical": {
+   "nl": "De wandeling begint bij of vlak bij je accommodatie in Niederau; vraag bij het toeristenbureau naar het startpunt en of sneeuwschoenen te huur zijn.",
+   "en": "The walk starts at or near your accommodation in Niederau; ask the tourist office about the starting point and whether snowshoes can be rented.",
+   "de": "Die Wanderung beginnt bei oder nahe Ihrer Unterkunft in Niederau; fragen Sie das Tourismusbüro nach dem Startpunkt und ob Schneeschuhe zu mieten sind."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From approx. 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "Approx. 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Met gids tegen betaling; informeer vooraf",
+    "en": "With a guide for a fee; check beforehand",
+    "de": "Mit Guide kostenpflichtig; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau zelf",
+    "en": "In Niederau itself",
+    "de": "In Niederau selbst"
+   },
+   "season": {
+    "nl": "Winter (rond volle maan)",
+    "en": "Winter (around full moon)",
+    "de": "Winter (um Vollmond)"
+   }
+  },
+  "location": {
+   "nl": "Omgeving Niederau, Wildschönau (Tirol)",
+   "en": "Around Niederau, Wildschönau (Tyrol)",
+   "de": "Umgebung Niederau, Wildschönau (Tirol)"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer vindt de maanlichtwandeling plaats?",
+     "en": "When does the moonlight walk take place?",
+     "de": "Wann findet die Mondscheinwanderung statt?"
+    },
+    "a": {
+     "nl": "Alleen rond volle maan en bij helder, droog weer; controleer de datum en meld je vooraf aan.",
+     "en": "Only around the full moon and in clear, dry weather; check the date and register beforehand.",
+     "de": "Nur um Vollmond und bei klarem, trockenem Wetter; prüfen Sie das Datum und melden Sie sich vorab an."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w46",
-  "drop": true,
-  "drop_reason": "Roofvogelshow/valkerij in Wildschönau niet te bevestigen.",
+  "drop": false,
+  "drop_reason": "",
   "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "slug_en": "birds-of-prey-show-wildschoenau",
+  "slug_de": "greifvogelshow-wildschoenau",
+  "title": {
+   "nl": "Roofvogelshow en valkerij",
+   "en": "Birds of prey show and falconry",
+   "de": "Greifvogelshow und Falknerei"
+  },
+  "tagline": {
+   "nl": "Roofvogels van dichtbij zien en laten landen op de handschoen",
+   "en": "See birds of prey up close and have them land on a glove",
+   "de": "Greifvögel aus der Nähe erleben und auf dem Handschuh landen lassen"
+  },
+  "intro": {
+   "nl": "Bij een roofvogelshow vliegen arenden, buizerds en valken op commando over het veld en naar de hand van de valkenier. Kinderen mogen soms een vogel voeren of hem met een handschoen op hun arm laten landen. Je leert hoe de vogels vliegen, hun prooi vangen en leven in de Tiroler bergen.\n\nDe activiteit duurt ca. 1,5 uur en vindt plaats in open veld of op een alm in de buurt van Niederau. Het aanbod hangt van het seizoen af en is niet elke week beschikbaar; aanmelden kan via het toeristenbureau of je accommodatie. Beweeg rustig, want de vogels schrikken van plotselinge bewegingen. Dit aanbod is niet bevestigd, informeer dus vooraf.",
+   "en": "At a birds of prey show, eagles, buzzards and falcons fly on command across the field and to the falconer's hand. Children can sometimes feed a bird or have it land on a gloved arm. You learn how the birds fly, hunt and live in the Tyrolean mountains.\n\nThe activity lasts about 1.5 hours and takes place in an open field or on an alm near Niederau. The offer depends on the season and is not available every week; you can register via the tourist office or your accommodation. Move calmly, as the birds are startled by sudden movements. This offer is not confirmed, so ask beforehand.",
+   "de": "Bei einer Greifvogelshow fliegen Adler, Bussarde und Falken auf Kommando über das Feld und zur Hand des Falkners. Kinder dürfen manchmal einen Vogel füttern oder ihn auf dem behandschuhten Arm landen lassen. Sie erfahren, wie die Vögel fliegen, jagen und in den Tiroler Bergen leben.\n\nDie Aktivität dauert ca. 1,5 Stunden und findet auf offenem Feld oder auf einer Alm in der Nähe von Niederau statt. Das Angebot ist saisonabhängig und nicht jede Woche verfügbar; Anmeldung über das Tourismusbüro oder Ihre Unterkunft. Bewegen Sie sich ruhig, denn die Vögel erschrecken bei plötzlichen Bewegungen. Das Angebot ist nicht bestätigt, fragen Sie daher vorab nach."
+  },
+  "tips": {
+   "nl": [
+    "Beweeg rustig; de vogels zijn schuw.",
+    "Vraag vooraf naar beschikbare data.",
+    "Een foto van een vogel in vlucht is lastig, geniet liever van het moment."
+   ],
+   "en": [
+    "Move calmly; the birds are skittish.",
+    "Ask beforehand about available dates.",
+    "A photo of a bird in flight is tricky; simply enjoy the moment."
+   ],
+   "de": [
+    "Bewegen Sie sich ruhig; die Vögel sind scheu.",
+    "Fragen Sie vorab nach verfügbaren Terminen.",
+    "Ein Foto eines Vogels im Flug ist schwierig, genießen Sie lieber den Moment."
+   ]
+  },
+  "practical": {
+   "nl": "De activiteit vindt plaats in de Wildschönau, vaak in de buurt van Niederau; het toeristenbureau of je accommodatie vertelt waar en wanneer.",
+   "en": "The activity takes place in the Wildschönau, often near Niederau; the tourist office or your accommodation can tell you where and when.",
+   "de": "Die Aktivität findet in der Wildschönau statt, oft in der Nähe von Niederau; das Tourismusbüro oder Ihre Unterkunft sagt Ihnen, wo und wann."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Betaald; informeer vooraf",
+    "en": "Charged; check beforehand",
+    "de": "Kostenpflichtig; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Meestal in of bij Niederau",
+    "en": "Usually in or near Niederau",
+    "de": "Meist in oder bei Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau (Tirol)",
+   "en": "Wildschönau (Tyrol)",
+   "de": "Wildschönau (Tirol)"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Kunnen kinderen meedoen aan de roofvogelshow?",
+     "en": "Can children take part in the birds of prey show?",
+     "de": "Können Kinder bei der Greifvogelshow mitmachen?"
+    },
+    "a": {
+     "nl": "Ja, vaak mogen ze een vogel voeren of laten landen op een handschoen; informeer naar beschikbaarheid.",
+     "en": "Yes, they can often feed a bird or have it land on a glove; ask about availability.",
+     "de": "Ja, oft dürfen sie einen Vogel füttern oder auf dem Handschuh landen lassen; fragen Sie nach der Verfügbarkeit."
+    }
+   }
+  ],
+  "verified": false
  }
 ]

@@ -75,7 +75,7 @@
    "en": "Alpbach",
    "de": "Alpbach"
   },
-  "url": "https://www.alpbach.org",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -89,7 +89,8 @@
      "de": "Jedes Jahr im August und Anfang September; 2026 vom 24. August bis 4. September. Aktuelle Termine stehen auf der offiziellen Website."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s198",
@@ -181,7 +182,8 @@
      "de": "In der Universitätsstraße, neben der Hofkirche im Zentrum von Innsbruck, in einem ehemaligen Franziskanerkloster."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s200",
@@ -276,7 +278,8 @@
      "de": "Der gemalte Stammbaum im Habsburgersaal zeigt 148 halb lebensgroße Figuren."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s201",
@@ -357,7 +360,7 @@
    "en": "Innsbruck",
    "de": "Innsbruck"
   },
-  "url": "https://www.innsbruck.info",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -371,30 +374,104 @@
      "de": "Mit der Bahn von Wörgl nach Innsbruck Hbf; die Altstadt ist vom Bahnhof zu Fuß erreichbar."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s205",
-  "drop": true,
-  "drop_reason": "Museum volgens zoekresultaten gesloten wegens renovatie (heropening niet bevestigd); prijzen/leeftijd niet te bevestigen.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {
-   "age": {},
-   "duration": {},
-   "price": {},
-   "distance": {},
-   "season": {}
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "ferdinandeum-museum-innsbruck",
+  "slug_de": "tiroler-landesmuseum-ferdinandeum",
+  "title": {
+   "nl": "Tiroler Landesmuseum Ferdinandeum",
+   "en": "Tyrolean State Museum Ferdinandeum",
+   "de": "Tiroler Landesmuseum Ferdinandeum"
   },
-  "location": {},
+  "tagline": {
+   "nl": "Het grote museum van Tirol voor kunst, natuur en geschiedenis",
+   "en": "Tyrol's main museum for art, nature and history",
+   "de": "Das große Tiroler Museum für Kunst, Natur und Geschichte"
+  },
+  "intro": {
+   "nl": "Het Ferdinandeum in het centrum van Innsbruck is een van de grootste musea van Tirol. De collecties lopen van prehistorie en vroege geschiedenis tot kunst van de gotiek tot nu, met daarnaast natuurwetenschap, muziekinstrumenten en een grafische verzameling.\n\nVoor wie van musea houdt is het een goede regendag-optie. Kinderen vinden vaak de oudste vondsten en de natuurhistorische onderdelen het leukst. Let op: het museum werd een tijd lang verbouwd, dus controleer vooraf of en hoe het open is en welke delen te zien zijn. Reken bij een bezoek op ruim twee uur.",
+   "en": "The Ferdinandeum in central Innsbruck is one of Tyrol's largest museums. Its collections range from prehistory and early history to art from the Gothic period to today, plus natural science, musical instruments and a graphic collection.\n\nFor museum lovers it is a good rainy-day option. Children often like the oldest finds and the natural history sections best. Note that the museum was under renovation for a while, so check beforehand whether and how it is open and which parts can be seen. Allow a good two hours for a visit.",
+   "de": "Das Ferdinandeum im Zentrum von Innsbruck ist eines der größten Museen Tirols. Die Sammlungen reichen von Ur- und Frühgeschichte über Kunst von der Gotik bis heute bis zu Naturwissenschaften, Musikinstrumenten und einer Grafiksammlung.\n\nFür Museumsfreunde ist es eine gute Regentag-Option. Kinder mögen oft die ältesten Funde und die naturkundlichen Bereiche am liebsten. Bitte beachten: Das Museum war eine Zeit lang wegen Umbau geschlossen, prüfen Sie daher vorab, ob und wie es geöffnet ist und welche Teile zu sehen sind. Planen Sie gut zwei Stunden ein."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf of het museum open is en welke delen toegankelijk zijn.",
+    "Plan een rondje langs de oudste vondsten en de natuurcollectie voor kinderen.",
+    "Combineer met een wandeling door de Altstadt, die vlakbij ligt.",
+    "Bekijk bij mooi weer eerst de buitenactiviteiten en bewaar het museum voor een regenachtige dag."
+   ],
+   "en": [
+    "Check beforehand whether the museum is open and which parts are accessible.",
+    "Plan a round past the oldest finds and the nature collection for children.",
+    "Combine with a walk through the nearby old town.",
+    "In good weather do the outdoor things first and keep the museum for a rainy day."
+   ],
+   "de": [
+    "Prüfen Sie vorab, ob das Museum geöffnet ist und welche Bereiche zugänglich sind.",
+    "Planen Sie für Kinder einen Rundgang an den ältesten Funden und der Naturkunde vorbei.",
+    "Verbinden Sie den Besuch mit einem Spaziergang durch die nahe Altstadt.",
+    "Bei Sonne zuerst Aktivitäten im Freien, das Museum für einen Regentag aufheben."
+   ]
+  },
+  "practical": {
+   "nl": "Innsbruck ligt ca. 1 uur rijden van Niederau via de A12. Met de trein vanaf Wörgl is het ook goed te doen; het museum ligt in het centrum.",
+   "en": "Innsbruck is about 1 hour by car from Niederau via the A12. The train from Wörgl also works well; the museum is in the city centre.",
+   "de": "Innsbruck liegt etwa 1 Stunde Autofahrt von Niederau entfernt über die A12. Auch mit der Bahn ab Wörgl gut machbar; das Museum liegt im Zentrum."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 tot 10 jaar",
+    "en": "From approx. 8 to 10 years",
+    "de": "Ab ca. 8 bis 10 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "Approx. 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Entree of bijdrage; informeer vooraf naar actuele prijzen",
+    "en": "Admission or contribution; ask in advance about current prices",
+    "de": "Eintritt oder Beitrag; aktuelle Preise vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar; controleer of het museum open is",
+    "en": "All year; check whether the museum is open",
+    "de": "Ganzjährig; prüfen, ob das Museum geöffnet ist"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck",
+   "en": "Innsbruck",
+   "de": "Innsbruck"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het Ferdinandeum nu open?",
+     "en": "Is the Ferdinandeum open now?",
+     "de": "Ist das Ferdinandeum derzeit geöffnet?"
+    },
+    "a": {
+     "nl": "Het museum is eerder verbouwd; informeer vooraf naar de actuele openstelling.",
+     "en": "The museum has been renovated before; ask in advance about current opening.",
+     "de": "Das Museum wurde zuvor umgebaut; erkundigen Sie sich vorab nach der aktuellen Öffnung."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s208",
@@ -475,7 +552,7 @@
    "en": "Innsbruck",
    "de": "Innsbruck"
   },
-  "url": "https://www.altemusik.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -489,7 +566,8 @@
      "de": "Jeden Sommer von Ende Juli bis Ende August; die Jubiläumsausgabe 2026 lief vom 24. Juli bis 30. August."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s228",
@@ -570,7 +648,7 @@
    "en": "Zell am Ziller, Zillertal",
    "de": "Zell am Ziller, Zillertal"
   },
-  "url": "https://www.zell.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -584,7 +662,8 @@
      "de": "Jedes Jahr am ersten Maiwochenende."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s229",
@@ -679,7 +758,8 @@
      "de": "Die Serenaden im Franziskanerkloster, die Orgelkonzerte in der Stadtpfarrkirche."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s232",
@@ -760,7 +840,7 @@
    "en": "Innsbruck-Amras",
    "de": "Innsbruck-Amras"
   },
-  "url": "https://www.schlossambras-innsbruck.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -774,7 +854,8 @@
      "de": "Für seine Frau Philippine Welser, eine Augsburger Kaufmannstochter."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s237",
@@ -855,7 +936,7 @@
    "en": "Telfs, Inn Valley",
    "de": "Telfs, Inntal"
   },
-  "url": "https://www.volksschauspiele.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -869,53 +950,200 @@
      "de": "Auf Deutsch, teils im Dialekt; Übersetzungen werden in der Regel nicht angeboten."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s253",
-  "drop": true,
-  "drop_reason": "Geen bevestigde vaste 'muziekavond' op het Stadtplatz gevonden; alleen losse concerten (o.a. Kreuzgang-Konzerte, Schlossbergspiele). Niet te onderbouwen.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {
-   "age": {},
-   "duration": {},
-   "price": {},
-   "distance": {},
-   "season": {}
+  "drop": false,
+  "drop_reason": "",
+  "place": "rattenberg",
+  "slug_en": "rattenberg-summer-concerts",
+  "slug_de": "rattenberg-sommerkonzerte",
+  "title": {
+   "nl": "Concerten in Rattenberg",
+   "en": "Concerts in Rattenberg",
+   "de": "Konzerte in Rattenberg"
   },
-  "location": {},
+  "tagline": {
+   "nl": "Muziek in de middeleeuwse straten van Oostenrijks kleinste stad",
+   "en": "Music in the medieval lanes of Austria's smallest town",
+   "de": "Musik in den mittelalterlichen Gassen von Österreichs kleinster Stadt"
+  },
+  "intro": {
+   "nl": "Rattenberg is met zo'n 440 inwoners de kleinste stad van Oostenrijk en bewaart bijna het hele middeleeuwse stadsbeeld. In de zomer worden er in en rond de stad regelmatig concerten gegeven, onder meer in de kloostergang van het Augustinermuseum, en er zijn zomerse openluchtvoorstellingen.\n\nHet programma wisselt per jaar, dus kijk vooraf in de evenementenkalender of bij het toeristenbureau wat er op uw dag speelt. Een avond hier combineert goed met een wandeling door de autovrije oude stad en een diner op een terras. Met kinderen werkt een vroeg concert of een kort optreden het best.",
+   "en": "With around 440 inhabitants Rattenberg is Austria's smallest town and has kept almost its entire medieval townscape. In summer concerts are held in and around the town, including in the cloister of the Augustinian Museum, and there are summer open-air performances.\n\nThe programme changes each year, so check the events calendar or the tourist office for what is on during your day. An evening here combines well with a walk through the car-free old town and dinner on a terrace. With children an early concert or a short performance works best.",
+   "de": "Rattenberg ist mit rund 440 Einwohnern die kleinste Stadt Österreichs und hat fast das gesamte mittelalterliche Stadtbild bewahrt. Im Sommer finden in und um die Stadt regelmäßig Konzerte statt, unter anderem im Kreuzgang des Augustinermuseums, dazu gibt es sommerliche Freilichtaufführungen.\n\nDas Programm wechselt jedes Jahr, schauen Sie daher vorab in den Veranstaltungskalender oder fragen Sie beim Tourismusbüro nach. Ein Abend hier lässt sich gut mit einem Bummel durch die autofreie Altstadt und einem Essen auf einer Terrasse verbinden. Mit Kindern eignet sich ein frühes Konzert oder ein kurzer Auftritt am besten."
+  },
+  "tips": {
+   "nl": [
+    "Bekijk de evenementenkalender voordat u gaat; het programma wisselt per jaar.",
+    "Parkeer buiten de autovrije oude stad en loop naar het centrum.",
+    "Neem een jas mee voor concerten in kloostergang of buiten.",
+    "Combineer met een bezoek aan de glasateliers voordat ze sluiten."
+   ],
+   "en": [
+    "Check the events calendar before you go; the programme changes each year.",
+    "Park outside the car-free old town and walk in.",
+    "Bring a jacket for concerts in the cloister or outdoors.",
+    "Combine with a visit to the glass workshops before they close."
+   ],
+   "de": [
+    "Prüfen Sie den Veranstaltungskalender vor dem Besuch; das Programm wechselt jedes Jahr.",
+    "Parken Sie außerhalb der autofreien Altstadt und gehen Sie zu Fuß hinein.",
+    "Nehmen Sie eine Jacke für Konzerte im Kreuzgang oder im Freien mit.",
+    "Verbinden Sie den Besuch mit den Glaswerkstätten, bevor sie schließen."
+   ]
+  },
+  "practical": {
+   "nl": "Rattenberg ligt in het Inntal bij Kramsach, ca. 30 minuten rijden vanaf Niederau via Wörgl en de A12.",
+   "en": "Rattenberg is in the Inn Valley near Kramsach, about 30 minutes by car from Niederau via Wörgl and the A12.",
+   "de": "Rattenberg liegt im Inntal bei Kramsach, etwa 30 Autominuten von Niederau entfernt über Wörgl und die A12."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "Approx. 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Entree of bijdrage; informeer vooraf naar actuele prijzen",
+    "en": "Admission or contribution; ask in advance about current prices",
+    "de": "Eintritt oder Beitrag; aktuelle Preise vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer; programma wisselt",
+    "en": "Summer; programme varies",
+    "de": "Sommer; Programm wechselt"
+   }
+  },
+  "location": {
+   "nl": "Rattenberg, Alpbachtal",
+   "en": "Rattenberg, Alpbachtal",
+   "de": "Rattenberg, Alpbachtal"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe vind ik de actuele concerten in Rattenberg?",
+     "en": "How do I find current concerts in Rattenberg?",
+     "de": "Wie finde ich die aktuellen Konzerte in Rattenberg?"
+    },
+    "a": {
+     "nl": "Via de evenementenkalender van de stad of het toeristenbureau van het Alpbachtal.",
+     "en": "Via the town's events calendar or the Alpbachtal tourist office.",
+     "de": "Über den Veranstaltungskalender der Stadt oder das Tourismusbüro Alpbachtal."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s257",
-  "drop": true,
-  "drop_reason": "Geen apart 'Glasmuseum Rattenberg' gevonden (wel Augustinermuseum en glaswinkels); glasgravur.at niet bevestigd. Overlap met s69 (glasblazen).",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {
-   "age": {},
-   "duration": {},
-   "price": {},
-   "distance": {},
-   "season": {}
+  "drop": false,
+  "drop_reason": "",
+  "place": "rattenberg",
+  "slug_en": "glass-shops-rattenberg",
+  "slug_de": "glaswerkstaetten-rattenberg",
+  "title": {
+   "nl": "Glas in Rattenberg",
+   "en": "Glass in Rattenberg",
+   "de": "Glas in Rattenberg"
   },
-  "location": {},
+  "tagline": {
+   "nl": "Glasateliers, showrooms en historie in de glasstad van Tirol",
+   "en": "Glass studios, showrooms and history in Tyrol's glass town",
+   "de": "Glaswerkstätten, Showrooms und Geschichte in der Glasstadt Tirols"
+  },
+  "intro": {
+   "nl": "Rattenberg staat al lang bekend als glasstad: glasblazers, -slijpers en -graveurs hebben er ateliers en winkels in de middeleeuwse straten. Wie langsomer loopt, kan in verschillende showrooms kijken hoe glas wordt bewerkt en wat er mee gemaakt wordt, van gebruiksvoorwerpen tot kunst.\n\nVoor meer achtergrond over de streek is er het Augustinermuseum in het voormalig klooster. Sommige ateliers bieden workshops aan; vraag vooraf wat er mogelijk is en vanaf welke leeftijd. Rondkijken in de winkels kost niets, maar het glas is breekbaar, dus houd kleine kinderen dicht bij u.",
+   "en": "Rattenberg has long been known as a glass town: glassblowers, cutters and engravers have workshops and shops in its medieval lanes. If you walk slowly you can look into several showrooms to see how glass is worked and what is made from it, from everyday objects to art.\n\nFor more background on the region there is the Augustinian Museum in the former monastery. Some studios offer workshops; ask in advance what is possible and from what age. Browsing the shops costs nothing, but glass is fragile, so keep small children close.",
+   "de": "Rattenberg ist seit langem als Glasstadt bekannt: Glasbläser, Glasschleifer und Graveure haben ihre Werkstätten und Läden in den mittelalterlichen Gassen. Wer langsam geht, kann in mehreren Showrooms sehen, wie Glas bearbeitet wird und was daraus entsteht, von Gebrauchsgegenständen bis zur Kunst.\n\nFür mehr Hintergrund zur Region gibt es das Augustinermuseum im ehemaligen Kloster. Manche Werkstätten bieten Workshops an; fragen Sie vorab, was möglich ist und ab welchem Alter. Das Stöbern in den Läden kostet nichts, doch Glas ist zerbrechlich, halten Sie kleine Kinder daher in Ihrer Nähe."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf of er workshops zijn en voor welke leeftijd.",
+    "Houd jonge kinderen dicht bij u in de winkels.",
+    "Combineer met het Augustinermuseum bij regenachtig weer.",
+    "Pak breekbare aankopen goed in voor de terugreis."
+   ],
+   "en": [
+    "Ask beforehand whether workshops are available and for what age.",
+    "Keep young children close in the shops.",
+    "Combine with the Augustinian Museum in wet weather.",
+    "Pack fragile purchases well for the return trip."
+   ],
+   "de": [
+    "Fragen Sie vorab, ob Workshops angeboten werden und ab welchem Alter.",
+    "Halten Sie kleine Kinder in den Läden nah bei sich.",
+    "Verbinden Sie den Besuch bei Regen mit dem Augustinermuseum.",
+    "Verpacken Sie zerbrechliche Einkäufe gut für die Heimreise."
+   ]
+  },
+  "practical": {
+   "nl": "Rattenberg ligt ca. 30 minuten rijden van Niederau via Wörgl en de A12. Parkeer buiten de autovrije oude stad en loop naar het centrum.",
+   "en": "Rattenberg is about 30 minutes by car from Niederau via Wörgl and the A12. Park outside the car-free old town and walk in.",
+   "de": "Rattenberg liegt etwa 30 Autominuten von Niederau entfernt über Wörgl und die A12. Parken Sie außerhalb der autofreien Altstadt und gehen Sie zu Fuß hinein."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "Approx. 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Rondkijken is meestal gratis; workshops en entree kosten extra",
+    "en": "Browsing is usually free; workshops and admission cost extra",
+    "de": "Stöbern meist kostenlos; Workshops und Eintritt extra"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (controleer openingstijden)",
+    "en": "All year (check opening hours)",
+    "de": "Ganzjährig (Öffnungszeiten prüfen)"
+   }
+  },
+  "location": {
+   "nl": "Rattenberg, Alpbachtal",
+   "en": "Rattenberg, Alpbachtal",
+   "de": "Rattenberg, Alpbachtal"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Kost het iets om de glasshowrooms te bekijken?",
+     "en": "Does it cost anything to visit the glass showrooms?",
+     "de": "Kostet der Besuch der Glas-Showrooms etwas?"
+    },
+    "a": {
+     "nl": "Rondkijken is meestal gratis; voor een museum of workshop betaalt u extra.",
+     "en": "Browsing is usually free; museums and workshops cost extra.",
+     "de": "Stöbern ist meist kostenlos; für Museum oder Workshop zahlen Sie extra."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s26",
@@ -996,7 +1224,7 @@
    "en": "Niederau, Wildschönau",
    "de": "Niederau, Wildschönau"
   },
-  "url": "https://www.wildschoenau.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -1010,30 +1238,104 @@
      "de": "Der Abend beginnt um 19:00 Uhr; gegen 20:15 Uhr zieht die Bundesmusikkapelle Niederau ein, danach folgt das Konzert."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s273",
-  "drop": true,
-  "drop_reason": "Geen Brixentaler Heimatmuseum in Hopfgarten gevonden; adres en gegevens niet te bevestigen.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {
-   "age": {},
-   "duration": {},
-   "price": {},
-   "distance": {},
-   "season": {}
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "hopfgarten-local-history-museum",
+  "slug_de": "heimatmuseum-hopfgarten",
+  "title": {
+   "nl": "Heimatmuseum Hopfgarten",
+   "en": "Local history museum, Hopfgarten",
+   "de": "Heimatmuseum Hopfgarten"
   },
-  "location": {},
+  "tagline": {
+   "nl": "Streekgeschiedenis en volkskunst in het Brixental",
+   "en": "Regional history and folk art in the Brixental",
+   "de": "Regionalgeschichte und Volkskunst im Brixental"
+  },
+  "intro": {
+   "nl": "Hopfgarten im Brixental ligt naast de Wildschönau, aan de andere kant van de Hohe Salve, en is een dorp met een lange boeren- en toeristengeschiedenis. Een streekmuseum in het dorp vertelt het verhaal van het Brixental: boerenleven, volkskunst, klederdracht en hoe het toerisme zich ontwikkelde.\n\nHet is een kleine, rustige stop, geschikt voor een regenachtige middag of in combinatie met een wandeling door het dorp. Openingstijden en tentoonstellingen zijn beperkt en seizoensgebonden, dus informeer vooraf. Voor kinderen is het vooral leuk als er oude gereedschappen en kostuums te zien zijn.",
+   "en": "Hopfgarten im Brixental lies next to the Wildschönau, on the other side of the Hohe Salve, and is a village with a long farming and tourism history. A local museum in the village tells the story of the Brixental: farming life, folk art, costume and how tourism developed.\n\nIt is a small, quiet stop, suitable for a rainy afternoon or combined with a walk through the village. Opening times and exhibitions are limited and seasonal, so ask in advance. For children it is most fun when old tools and costumes are on display.",
+   "de": "Hopfgarten im Brixental liegt neben der Wildschönau, auf der anderen Seite der Hohen Salve, und ist ein Dorf mit langer Bauern- und Tourismusgeschichte. Ein Heimatmuseum im Ort erzählt die Geschichte des Brixentals: bäuerliches Leben, Volkskunst, Tracht und die Entwicklung des Tourismus.\n\nEs ist ein kleiner, ruhiger Stopp, geeignet für einen Regennachmittag oder in Kombination mit einem Dorfspaziergang. Öffnungszeiten und Ausstellungen sind begrenzt und saisonal, fragen Sie daher vorab nach. Für Kinder ist es vor allem spannend, wenn alte Werkzeuge und Trachten zu sehen sind."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf naar openingstijden; kleine musea hebben vaak beperkte tijden.",
+    "Combineer met een wandeling door het centrum van Hopfgarten.",
+    "Laat kinderen oude gereedschappen en kostuums opsporen.",
+    "Plan het bij regenachtig weer als alternatief voor een buitenactiviteit."
+   ],
+   "en": [
+    "Ask about opening times beforehand; small museums often have limited hours.",
+    "Combine with a walk through the centre of Hopfgarten.",
+    "Let children spot old tools and costumes.",
+    "Plan it as an alternative to an outdoor activity in wet weather."
+   ],
+   "de": [
+    "Fragen Sie vorab nach den Öffnungszeiten; kleine Museen haben oft begrenzte Zeiten.",
+    "Verbinden Sie den Besuch mit einem Spaziergang durch das Zentrum von Hopfgarten.",
+    "Lassen Sie Kinder alte Werkzeuge und Trachten entdecken.",
+    "Planen Sie es bei Regen als Alternative zu einer Aktivität im Freien ein."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten ligt ca. 20 minuten rijden van Niederau, via de weg door de Wildschönau naar Wörgl en het Brixental of via de Kelchsau-kant; kies de route met een routeplanner.",
+   "en": "Hopfgarten is about 20 minutes by car from Niederau; use a route planner to choose between the possible roads.",
+   "de": "Hopfgarten liegt etwa 20 Autominuten von Niederau entfernt; wählen Sie die Strecke mit einem Routenplaner."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Entree of bijdrage; informeer vooraf naar actuele prijzen",
+    "en": "Admission or contribution; ask in advance about current prices",
+    "de": "Eintritt oder Beitrag; aktuelle Preise vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 20 min rijden",
+    "en": "Approx. 20 min by car",
+    "de": "Ca. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Seizoensgebonden; informeer vooraf",
+    "en": "Seasonal; ask in advance",
+    "de": "Saisonal; vorab erfragen"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het museum het hele jaar open?",
+     "en": "Is the museum open all year?",
+     "de": "Ist das Museum ganzjährig geöffnet?"
+    },
+    "a": {
+     "nl": "Dat is niet zeker; kleine streekmusea hebben vaak beperkte tijden, informeer vooraf.",
+     "en": "That is not certain; small local museums often have limited hours, so ask in advance.",
+     "de": "Das ist nicht sicher; kleine Heimatmuseen haben oft begrenzte Zeiten, fragen Sie vorab nach."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s284",
@@ -1056,7 +1358,8 @@
   },
   "location": {},
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s292",
@@ -1151,7 +1454,8 @@
      "de": "Stadtgeschichte, Bergbau, Handwerk und Wintersport sowie die Sammlung Alfons Walde mit rund sechzig Gemälden."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s36",
@@ -1232,7 +1536,7 @@
    "en": "Oberau and Mühltal, Wildschönau",
    "de": "Oberau und Mühltal, Wildschönau"
   },
-  "url": "https://www.wildschoenau.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -1246,7 +1550,8 @@
      "de": "2026 jeden Dienstag um 20:00 Uhr am Dreizehnlindenplatz, vom 7. Juli bis 1. September."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s42",
@@ -1327,7 +1632,7 @@
    "en": "Oberau, Wildschönau",
    "de": "Oberau, Wildschönau"
   },
-  "url": "https://www.wildschoenau.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -1341,30 +1646,104 @@
      "de": "Laut Tourismusinformation samstags von 9:00 bis 12:00 Uhr; aktuelle Zeiten bitte prüfen."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s46",
-  "drop": true,
-  "drop_reason": "Geen volksdans-cursus (Schuhplattler/Ländler, donderdag 16u, Hotel Wastlhof) te bevestigen; aanbod en prijs onbekend.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {
-   "age": {},
-   "duration": {},
-   "price": {},
-   "distance": {},
-   "season": {}
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "folk-dance-workshop-niederau",
+  "slug_de": "volkstanz-workshop-niederau",
+  "title": {
+   "nl": "Volksdans leren",
+   "en": "Learning folk dancing",
+   "de": "Volkstanz lernen"
   },
-  "location": {},
+  "tagline": {
+   "nl": "Draaien, stampen en klappen op Tiroolse maat",
+   "en": "Spinning, stamping and clapping to a Tyrolean beat",
+   "de": "Drehen, Stampfen und Klatschen im Tiroler Takt"
+  },
+  "intro": {
+   "nl": "Tiroolse volksdansen zijn een levende traditie, met onder meer de Ländler, een walsachtige paardans, en de Schuhplattler, waarbij de dansers op hun schoenen en dijen slaan. In de Wildschönau wordt de klederdracht- en muziektraditie hoog gehouden, bijvoorbeeld door de dorpsmuziek en feesten.\n\nOp aanvraag kan er in sommige accommodaties of gasthöfe een korte kennismaking met volksdansen worden geregeld, vaak met een lokale dansleider. Het aanbod en de tijden wisselen, dus vraag bij het toeristenbureau of uw accommodatie of het er is. Kinderen vinden de Schuhplattler meestal grappig, en lachen hoort er gewoon bij.",
+   "en": "Tyrolean folk dances are a living tradition, including the Ländler, a waltz-like couple dance, and the Schuhplattler, in which dancers slap their shoes and thighs. In the Wildschönau the costume and music tradition is kept up, for example through the village bands and festivals.\n\nOn request, some accommodations or inns may arrange a short introduction to folk dancing, often with a local dance leader. The offer and times vary, so ask the tourist office or your accommodation whether it is available. Children usually find the Schuhplattler funny, and laughing is part of it.",
+   "de": "Tiroler Volkstänze sind eine lebendige Tradition, dazu gehören der Ländler, ein walzerartiger Paartanz, und der Schuhplattler, bei dem die Tanzenden auf Schuhe und Oberschenkel klatschen. In der Wildschönau werden Tracht und Musiktradition gepflegt, etwa durch die Dorfkapellen und Feste.\n\nAuf Anfrage kann in manchen Unterkünften oder Gasthöfen eine kurze Einführung in Volkstänze organisiert werden, oft mit einem örtlichen Tanzleiter. Angebot und Zeiten wechseln, fragen Sie daher beim Tourismusbüro oder in Ihrer Unterkunft nach. Kinder finden den Schuhplattler meist lustig, und Lachen gehört dazu."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij uw accommodatie of het toeristenbureau of er een kennismaking is.",
+    "Draag gemakkelijke schoenen en kleding waarin u kunt bewegen.",
+    "Neem de tijd om te lachen; niemand verwacht perfectie.",
+    "Combineer het met een dorpsavond of concert in Niederau."
+   ],
+   "en": [
+    "Ask your accommodation or the tourist office whether an introduction is on.",
+    "Wear comfortable shoes and clothes you can move in.",
+    "Take time to laugh; nobody expects perfection.",
+    "Combine with a village evening or concert in Niederau."
+   ],
+   "de": [
+    "Fragen Sie in Ihrer Unterkunft oder beim Tourismusbüro, ob es eine Einführung gibt.",
+    "Tragen Sie bequeme Schuhe und bewegliche Kleidung.",
+    "Nehmen Sie sich Zeit zum Lachen; niemand erwartet Perfektion.",
+    "Verbinden Sie es mit einem Dorfabend oder Konzert in Niederau."
+   ]
+  },
+  "practical": {
+   "nl": "Het aanbod is in of vlak bij Niederau, dus meestal te voet of met een korte rit bereikbaar. Informeer vooraf naar locatie en tijden.",
+   "en": "The offer is in or near Niederau, so usually reachable on foot or with a short ride. Ask in advance about location and times.",
+   "de": "Das Angebot findet in oder nahe Niederau statt, daher meist zu Fuß oder mit kurzer Fahrt erreichbar. Fragen Sie vorab nach Ort und Zeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In of bij Niederau",
+    "en": "In or near Niederau",
+    "de": "In oder bei Niederau"
+   },
+   "season": {
+    "nl": "Zomer (wisselend aanbod)",
+    "en": "Summer (varying offer)",
+    "de": "Sommer (wechselndes Angebot)"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is een Schuhplattler?",
+     "en": "What is a Schuhplattler?",
+     "de": "Was ist ein Schuhplattler?"
+    },
+    "a": {
+     "nl": "Een traditionele Tiroolse dans waarbij de dansers ritmisch op schoenen en dijen slaan.",
+     "en": "A traditional Tyrolean dance in which dancers slap their shoes and thighs in rhythm.",
+     "de": "Ein traditioneller Tiroler Tanz, bei dem rhythmisch auf Schuhe und Oberschenkel geklatscht wird."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s68",
@@ -1459,7 +1838,8 @@
      "de": "Ein Rundbild von 1896 mit 1.000 m² über die dritte Bergiselschlacht 1809, geschaffen von Zeno Diemer."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s69",
@@ -1554,30 +1934,104 @@
      "de": "Bei Kisslinger Kristallglas können Besucher laut Besucherinformation unter Anleitung eine eigene Glaskugel blasen; Zeiten und Preis vorab erfragen."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s76",
-  "drop": true,
-  "drop_reason": "Geen 'Augsburger Puppentheater' in Kufstein gevonden (de Augsburger Puppenkiste zit in Augsburg); voorstellingen en gegevens niet te bevestigen.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {
-   "age": {},
-   "duration": {},
-   "price": {},
-   "distance": {},
-   "season": {}
+  "drop": false,
+  "drop_reason": "",
+  "place": "kufstein",
+  "slug_en": "puppet-theatre-kufstein",
+  "slug_de": "puppentheater-kufstein",
+  "title": {
+   "nl": "Poppentheater in Kufstein",
+   "en": "Puppet theatre in Kufstein",
+   "de": "Puppentheater in Kufstein"
   },
-  "location": {},
+  "tagline": {
+   "nl": "Voorstellingen met poppen voor de jongste bezoekers",
+   "en": "Puppet shows for the youngest visitors",
+   "de": "Vorstellungen mit Puppen für die jüngsten Gäste"
+  },
+  "intro": {
+   "nl": "Kufstein is de grote stad aan de Inn bij de Duitse grens, met de Festung Kufstein boven het centrum. Naast de fort en de oude binnenstad zijn er in de stad zo nu en dan voorstellingen voor kinderen, waaronder poppentheater met sprookjes en verhalen. Het aanbod hangt af van het seizoen en het programma.\n\nVoor kleuters en jonge schoolkinderen is zo'n voorstelling vaak een succes: korte verhalen, kleurrijke poppen en muziek. Omdat de voorstellingen in het Duits zijn, is het vooral leuk als kinderen het verhaal ook zonder woorden kunnen volgen. Controleer vooraf in het programma wanneer er iets te zien is.",
+   "en": "Kufstein is the large town on the Inn near the German border, with the Kufstein Fortress above the centre. Besides the fortress and the old town, there are occasional performances for children in town, including puppet theatre with fairy tales and stories. The offer depends on the season and the programme.\n\nFor toddlers and young school children such a show is often a hit: short stories, colourful puppets and music. As performances are in German, it works best when children can follow the story without many words. Check the programme beforehand to see when something is on.",
+   "de": "Kufstein ist die größere Stadt am Inn nahe der deutschen Grenze, mit der Festung Kufstein über dem Zentrum. Neben Festung und Altstadt gibt es in der Stadt gelegentlich Kindervorstellungen, darunter Puppentheater mit Märchen und Geschichten. Das Angebot hängt von Saison und Programm ab.\n\nFür Kleinkinder und jüngere Schulkinder ist so eine Vorstellung oft ein Erfolg: kurze Geschichten, bunte Puppen und Musik. Da auf Deutsch gespielt wird, funktioniert es am besten, wenn Kinder die Handlung auch ohne viele Worte verfolgen können. Prüfen Sie vorab im Programm, wann etwas zu sehen ist."
+  },
+  "tips": {
+   "nl": [
+    "Bekijk het voorstellingsprogramma vooraf; data wisselen.",
+    "Ideaal voor kinderen van ca. 3 tot 8 jaar.",
+    "Combineer met een wandeling door het centrum of een bezoek aan de vesting.",
+    "Neem na afloop een ijsje in de binnenstad."
+   ],
+   "en": [
+    "Check the performance programme beforehand; dates vary.",
+    "Ideal for children from about 3 to 8 years.",
+    "Combine with a walk through the centre or a visit to the fortress.",
+    "Have an ice cream in the old town afterwards."
+   ],
+   "de": [
+    "Prüfen Sie vorab das Veranstaltungsprogramm; Termine wechseln.",
+    "Ideal für Kinder von etwa 3 bis 8 Jahren.",
+    "Verbinden Sie den Besuch mit einem Bummel durch das Zentrum oder der Festung.",
+    "Gönnen Sie sich danach ein Eis in der Altstadt."
+   ]
+  },
+  "practical": {
+   "nl": "Kufstein ligt ca. 30 minuten rijden van Niederau via Wörgl en de A12. Parkeren kan in het centrum of bij het station.",
+   "en": "Kufstein is about 30 minutes by car from Niederau via Wörgl and the A12. Parking is available in the centre or near the station.",
+   "de": "Kufstein liegt etwa 30 Autominuten von Niederau entfernt über Wörgl und die A12. Parken ist im Zentrum oder beim Bahnhof möglich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Ca. 3 tot 8 jaar",
+    "en": "Approx. 3 to 8 years",
+    "de": "Ca. 3 bis 8 Jahre"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Entree of bijdrage; informeer vooraf naar actuele prijzen",
+    "en": "Admission or contribution; ask in advance about current prices",
+    "de": "Eintritt oder Beitrag; aktuelle Preise vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Wisselend; controleer programma",
+    "en": "Varies; check programme",
+    "de": "Wechselnd; Programm prüfen"
+   }
+  },
+  "location": {
+   "nl": "Kufstein",
+   "en": "Kufstein",
+   "de": "Kufstein"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn de voorstellingen in het Duits?",
+     "en": "Are the shows in German?",
+     "de": "Sind die Vorstellungen auf Deutsch?"
+    },
+    "a": {
+     "nl": "Meestal wel; poppentheater is vaak ook zonder veel woorden te volgen.",
+     "en": "Usually yes; puppet theatre can often be followed without many words.",
+     "de": "Meist ja; Puppentheater lässt sich oft auch ohne viele Worte verfolgen."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s86",
@@ -1672,52 +2126,199 @@
      "de": "Es stehen 14 Originalhöfe und 23 Nebengebäude aus allen Tiroler Tälern."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "w19",
-  "drop": true,
-  "drop_reason": "Winterse folkloreavond met diner in 'Gasthof Wastlalm' niet te bevestigen; locatie, prijs en aanbod onbekend.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {
-   "age": {},
-   "duration": {},
-   "price": {},
-   "distance": {},
-   "season": {}
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "tyrolean-folklore-evening-winter",
+  "slug_de": "tiroler-heimatabend-winter",
+  "title": {
+   "nl": "Tiroolse folkloreavond in de winter",
+   "en": "Tyrolean folklore evening in winter",
+   "de": "Tiroler Heimatabend im Winter"
   },
-  "location": {},
+  "tagline": {
+   "nl": "Alpenmuziek, volksdans en Tiroolse gastvrijheid na een dag in de sneeuw",
+   "en": "Alpine music, folk dance and Tyrolean hospitality after a day in the snow",
+   "de": "Alpenmusik, Volkstanz und Tiroler Gastlichkeit nach einem Tag im Schnee"
+  },
+  "intro": {
+   "nl": "In de winter wordt er in de Wildschönau regelmatig een avond met Tiroolse muziek en tradities georganiseerd, vaak in een gasthof of hotel. Zo'n avond bestaat meestal uit livemuziek, zang, een uitleg over gebruiken en soms volksdans, met een streekgerecht of een drankje erbij.\n\nHet is een ontspannen manier om na het skiën iets van de lokale cultuur te zien, ook met kinderen. Het aanbod verschilt per week en per locatie, en soms is het alleen voor gasten van een bepaald huis. Vraag daarom bij uw accommodatie of het toeristenbureau wanneer en waar er een avond is, en of reserveren nodig is.",
+   "en": "In winter the Wildschönau regularly hosts an evening of Tyrolean music and traditions, often in an inn or hotel. Such an evening usually consists of live music, singing, an explanation of customs and sometimes folk dance, with a regional dish or a drink.\n\nIt is a relaxed way to experience some local culture after skiing, also with children. The offer differs by week and venue, and is sometimes only for guests of a particular house. Ask your accommodation or the tourist office when and where there is an evening and whether you need to book.",
+   "de": "Im Winter wird in der Wildschönau regelmäßig ein Abend mit Tiroler Musik und Brauchtum veranstaltet, oft in einem Gasthof oder Hotel. Ein solcher Abend besteht meist aus Livemusik, Gesang, Erklärungen zu Bräuchen und manchmal Volkstanz, dazu ein regionales Gericht oder ein Getränk.\n\nEs ist eine entspannte Art, nach dem Skifahren etwas Lokalkultur zu erleben, auch mit Kindern. Das Angebot unterscheidet sich je nach Woche und Ort und ist manchmal nur für Gäste eines bestimmten Hauses. Fragen Sie in Ihrer Unterkunft oder beim Tourismusbüro, wann und wo es einen Abend gibt und ob reserviert werden muss."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij uw accommodatie of het toeristenbureau naar datum en locatie.",
+    "Reserveer indien nodig vooraf.",
+    "Kleed u warm voor de heen- en terugweg 's avonds.",
+    "Een traditioneel kledingstuk wordt vaak gewaardeerd maar is niet verplicht."
+   ],
+   "en": [
+    "Ask your accommodation or the tourist office for date and venue.",
+    "Book beforehand if needed.",
+    "Dress warmly for the way there and back in the evening.",
+    "Traditional dress is often appreciated but not required."
+   ],
+   "de": [
+    "Fragen Sie in Ihrer Unterkunft oder beim Tourismusbüro nach Termin und Ort.",
+    "Reservieren Sie bei Bedarf vorab.",
+    "Kleiden Sie sich für den Hin- und Rückweg am Abend warm.",
+    "Tracht wird oft gern gesehen, ist aber nicht erforderlich."
+   ]
+  },
+  "practical": {
+   "nl": "Het aanbod is in of vlak bij Niederau, vaak op loopafstand of met een korte rit of shuttle. Informeer vooraf naar locatie en vervoer.",
+   "en": "The offer is in or near Niederau, often within walking distance or with a short ride or shuttle. Ask in advance about location and transport.",
+   "de": "Das Angebot findet in oder nahe Niederau statt, oft in Gehweite oder mit kurzer Fahrt oder Shuttle. Fragen Sie vorab nach Ort und Transport."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "Approx. 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In of bij Niederau",
+    "en": "In or near Niederau",
+    "de": "In oder bei Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik reserveren voor een folkloreavond?",
+     "en": "Do I need to book a folklore evening?",
+     "de": "Muss ich für einen Heimatabend reservieren?"
+    },
+    "a": {
+     "nl": "Vaak wel of het is aan te raden; vraag bij uw accommodatie of het toeristenbureau.",
+     "en": "Often yes or advisable; ask your accommodation or the tourist office.",
+     "de": "Oft ja oder empfehlenswert; fragen Sie in Ihrer Unterkunft oder beim Tourismusbüro."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w38",
-  "drop": true,
-  "drop_reason": "Dirndl/Lederhosen-verhuur 'Trachtengeschäft Wildschönau' niet te vinden; aanbod en adres onbevestigd.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {
-   "age": {},
-   "duration": {},
-   "price": {},
-   "distance": {},
-   "season": {}
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "dirndl-lederhosen-rental-niederau",
+  "slug_de": "dirndl-lederhosen-verleih-niederau",
+  "title": {
+   "nl": "Dirndl en Lederhosen verhuur",
+   "en": "Dirndl and Lederhosen hire",
+   "de": "Dirndl und Lederhosen leihen"
   },
-  "location": {},
+  "tagline": {
+   "nl": "Een dag in Tiroolse klederdracht, ook voor de familiefoto",
+   "en": "A day in Tyrolean costume, also for the family photo",
+   "de": "Ein Tag in Tiroler Tracht, auch für das Familienfoto"
+  },
+  "intro": {
+   "nl": "Dirndl en Lederhosen horen bij het alpenlandschap, en in de Wildschönau worden ze bij feesten en processies door veel mensen gedragen. Soms is het mogelijk om voor een dag een set te huren, bijvoorbeeld voor een folkloreavond of een fotomoment in de sneeuw.\n\nOf en waar dat in Niederau kan, verschilt; informeer bij uw accommodatie of het toeristenbureau naar verhuurders in de buurt en wat het kost. Geef de maten van tevoren door en reken op een pasmoment. Voor kinderen is het vaak een leuk spel om zich te verkleden, en het levert mooie familiefoto's op, zeker bij een traditionele houten boerderij.",
+   "en": "Dirndl and Lederhosen belong to the Alpine landscape, and in the Wildschönau many people wear them at festivals and processions. Sometimes it is possible to hire a set for a day, for example for a folklore evening or a photo moment in the snow.\n\nWhether and where that is possible in Niederau varies; ask your accommodation or the tourist office about nearby providers and the cost. Give sizes beforehand and allow for a fitting. For children dressing up is often a fun game, and it makes lovely family photos, especially by a traditional timber farmhouse.",
+   "de": "Dirndl und Lederhosen gehören zur Alpenlandschaft, und in der Wildschönau tragen viele Menschen sie bei Festen und Umzügen. Manchmal ist es möglich, für einen Tag ein Set zu leihen, etwa für einen Heimatabend oder einen Fotomoment im Schnee.\n\nOb und wo das in Niederau möglich ist, unterscheidet sich; fragen Sie in Ihrer Unterkunft oder beim Tourismusbüro nach Anbietern in der Nähe und den Kosten. Geben Sie die Größen vorab an und planen Sie eine Anprobe ein. Für Kinder ist das Verkleiden oft ein lustiges Spiel, und es ergibt schöne Familienfotos, besonders bei einem traditionellen Holzbauernhof."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf of er verhuur is en wat het kost.",
+    "Geef de maten van de hele familie van tevoren door.",
+    "Plan een pasmoment voordat u het kostuum nodig heeft.",
+    "Maak de foto's bij een traditionele houten boerderij."
+   ],
+   "en": [
+    "Ask beforehand whether hire is available and what it costs.",
+    "Give sizes for the whole family in advance.",
+    "Plan a fitting before you need the costume.",
+    "Take the photos by a traditional timber farmhouse."
+   ],
+   "de": [
+    "Fragen Sie vorab, ob ein Verleih angeboten wird und was er kostet.",
+    "Geben Sie die Größen der ganzen Familie vorab an.",
+    "Planen Sie eine Anprobe ein, bevor Sie die Tracht brauchen.",
+    "Machen Sie die Fotos bei einem traditionellen Holzbauernhof."
+   ]
+  },
+  "practical": {
+   "nl": "Aanbod en ligging verschillen; vraag bij uw accommodatie of het toeristenbureau waar u in of bij Niederau terecht kunt.",
+   "en": "The offer and location vary; ask your accommodation or the tourist office where in or near Niederau you can go.",
+   "de": "Angebot und Lage unterscheiden sich; fragen Sie in Ihrer Unterkunft oder beim Tourismusbüro, wo Sie in oder bei Niederau fündig werden."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur voor de pasbeurt",
+    "en": "Approx. 1 hour for the fitting",
+    "de": "Ca. 1 Stunde für die Anprobe"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In of bij Niederau",
+    "en": "In or near Niederau",
+    "de": "In oder bei Niederau"
+   },
+   "season": {
+    "nl": "Hele jaar (aanbod wisselt)",
+    "en": "All year (offer varies)",
+    "de": "Ganzjährig (Angebot wechselt)"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
   "url": "",
-  "faq": []
+  "faq": [
+   {
+    "q": {
+     "nl": "Kan ik Dirndl of Lederhosen huren in Niederau?",
+     "en": "Can I hire a Dirndl or Lederhosen in Niederau?",
+     "de": "Kann ich in Niederau Dirndl oder Lederhosen leihen?"
+    },
+    "a": {
+     "nl": "Dat verschilt; vraag bij uw accommodatie of het toeristenbureau naar verhuurders.",
+     "en": "That varies; ask your accommodation or the tourist office about providers.",
+     "de": "Das unterscheidet sich; fragen Sie in Ihrer Unterkunft oder beim Tourismusbüro nach Anbietern."
+    }
+   }
+  ],
+  "verified": false
  }
 ]
