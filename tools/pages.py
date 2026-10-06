@@ -26,6 +26,7 @@ UI = {
  "n_act": ("Activiteiten", "Activities", "Aktivitäten"),
  "n_place": ("Omgeving", "Around Niederau", "Umgebung"),
  "events_h": ("Terugkerende evenementen", "Recurring events", "Wiederkehrende Veranstaltungen"),
+ "guides_h": ("Handige gidsen", "Useful guides", "Hilfreiche Ratgeber"),
  "n_guides": ("Gidsen", "Guides", "Ratgeber"),
  "n_events": ("Agenda", "Events", "Veranstaltungen"),
  "n_mb": ("Markbachjoch", "Markbachjoch", "Markbachjoch"),
@@ -429,7 +430,7 @@ def build_act(a):
 <div>{cr}<p class="eyebrow">{e(th_short)} · {season_badge(a, lang)}</p><h1 id="h-top">{e(title_n)}</h1><p class="lead">{e(L(a.get("tagline", {}), lang))}</p>{intro}{pl}{link}</div>
 <div>{facts}{side}</div></div></section>
 <section class="alt"><div class="wrap split" style="align-items:start"><div>{tips_h}</div><div>{pr_h}<p class="note">{ui("check", lang)}</p></div></div></section>
-{faq_s}{rel_h}'''
+{faq_s}{rel_h}{guides_block(lang, GUIDE_BY_THEME.get(a["theme"], []))}'''
         desc = (L(a.get("tagline", {}), lang) + " " + " ".join(paras(L(a.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [
             {"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": title_n, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
@@ -478,7 +479,7 @@ def build_place(p):
 <div>{cr}<p class="eyebrow">{e(reg_name)}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(p.get("tagline", {}), lang))}</p>{intro}{link}</div>
 <div>{facts}{photo_html(PLACE_PHOTO.get(p["slug"], ""), lang) if PLACE_PHOTO.get(p["slug"]) else ""}</div></div></section>
 <section class="alt"><div class="wrap split" style="align-items:start"><div>{hl_h}</div><div>{gt_h}<p class="note">{ui("check", lang)}</p></div></div></section>
-{act_h}{faq_s}{sib_h}'''
+{act_h}{faq_s}{sib_h}{guides_block(lang, PLACE_GUIDES)}'''
         desc = (L(p.get("tagline", {}), lang) + " " + " ".join(paras(L(p.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [
             {"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
@@ -543,7 +544,7 @@ def build_theme(t):
 <div>{cr}<p class="eyebrow">{ui("n_act", lang)}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(d.get("tagline", {}), lang))}</p>{intro}</div>
 <div>{side}{tips_h}</div></div></section>
 <section><div class="wrap">{secs}</div></section>
-{lists}{faq_s}'''
+{lists}{faq_s}{guides_block(lang, GUIDE_BY_THEME.get(t, []))}'''
         desc = (L(d.get("tagline", {}), lang) + " " + " ".join(paras(L(d.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [
             {"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
@@ -721,6 +722,19 @@ def build_guides():
               dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})]
         write(urls[lang], shell(lang, "guides", urls, f"{name} | Niederau.nl", desc, body, ld, og_type="website"))
     registry.append(("guides", urls, None))
+
+GUIDE_BY_THEME = {"wandelen": ["wandelroutes", "veilig-in-de-bergen", "wanneer-gaan"], "zwemmen": ["zwemmen-meren", "wanneer-gaan", "reizen-naar-niederau"],
+ "skieen": ["ski-juwel", "skien-met-kinderen", "reizen-naar-niederau"], "winterpret": ["rodelen", "langlaufen-winterwandelen", "winterweek"],
+ "fietsen": ["fietsroutes", "veilig-in-de-bergen", "zomerweek"], "dieren": ["met-je-hond", "paardrijden", "zomerweek"],
+ "cultuur": ["dagtochten", "wildschoenau-card", "wanneer-gaan"], "attracties": ["dagtochten", "wildschoenau-card", "zomerweek"],
+ "dagtochten": ["dagtochten", "reizen-naar-niederau", "wildschoenau-card"], "wellness": ["accommodatie-kiezen", "winterweek", "wanneer-gaan"],
+ "workshops": ["eten-drinken", "wanneer-gaan"], "avontuur": ["veilig-in-de-bergen", "wildschoenau-card", "zomerweek"], "golf": ["dagtochten", "reizen-naar-niederau", "wanneer-gaan"]}
+PLACE_GUIDES = ["dagtochten", "reizen-naar-niederau", "wanneer-gaan"]
+
+def guides_block(lang, ids):
+    gs = [g for i in ids for g in GUIDES if g["id"] == i]
+    if not gs: return ""
+    return f'<section class="alt"><div class="wrap"><h2>{ui("guides_h", lang)}</h2>' + card_list([(L(g["title"], lang), L(g.get("tagline", {}), lang), u_guide(g, lang), "") for g in gs[:3]], lang) + f'<p><a href="{u_guides(lang)}">{ui("n_guides", lang)} →</a></p></div></section>'
 
 def main():
     # oude uitvoer opruimen (alleen gegenereerde mappen)

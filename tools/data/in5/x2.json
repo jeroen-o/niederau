@@ -1,0 +1,1475 @@
+[
+ {
+  "id": "s294",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "zell-am-ziller",
+  "slug_en": "canoeing-ziller",
+  "slug_de": "kanufahren-ziller",
+  "title": {
+   "nl": "Kanoën in het Zillertal",
+   "en": "Canoeing in the Zillertal",
+   "de": "Kanufahren im Zillertal"
+  },
+  "tagline": {
+   "nl": "Rustig pagaaien op de rivier in het brede dal",
+   "en": "Calm paddling on the river in the wide valley",
+   "de": "Ruhiges Paddeln auf dem Fluss im breiten Tal"
+  },
+  "intro": {
+   "nl": "De Ziller stroomt door het Zillertal en mondt bij Strass in de Inn uit. Een kanotocht met gids over de rustiger stukken is geschikt voor beginners: kleine stroomversnellingen, ondiepe plekken en veel natuur. Zo maak je kennis met pagaaien zonder dat het meteen spannend wordt.\n\nDe tocht is vooral leuk voor kinderen vanaf ca. 10 jaar en volwassenen. Je wordt waarschijnlijk nat, dus neem badkleding en droge kleren mee. Het brede dal biedt onderweg veel uitzicht op de bergen en het groen langs de oever. Voor actuele aanbieders, startpunten en tijden is de toeristische dienst van het Zillertal een goed aanspreekpunt.",
+   "en": "The Ziller flows through the Zillertal valley and joins the Inn near Strass. A guided canoe trip on the calmer stretches suits beginners: small rapids, shallow spots and plenty of nature. It is a gentle way to get to know paddling without it becoming too exciting straight away.\n\nThe trip is especially enjoyable for children from about 10 years old and for adults. You will probably get wet, so bring swimwear and dry clothes. The broad valley offers views of the mountains and the greenery along the banks. For current providers, starting points and times, the Zillertal tourist office is a good point of contact.",
+   "de": "Die Ziller fließt durch das Zillertal und mündet bei Strass in den Inn. Eine geführte Kanutour auf den ruhigeren Abschnitten eignet sich für Anfänger: kleine Stromschnellen, flache Stellen und viel Natur. So lernt man das Paddeln kennen, ohne dass es gleich aufregend wird.\n\nDie Tour macht vor allem Kindern ab ca. 10 Jahren und Erwachsenen Spaß. Sie werden wahrscheinlich nass, nehmen Sie daher Badekleidung und trockene Kleidung mit. Das breite Tal bietet unterwegs viel Aussicht auf die Berge und das Grün am Ufer. Für aktuelle Anbieter, Startpunkte und Zeiten ist das Tourismusbüro des Zillertals ein guter Ansprechpartner."
+  },
+  "tips": {
+   "nl": [
+    "Neem droge kleding en een handdoek mee.",
+    "Vraag naar zwemvaardigheid en leeftijd.",
+    "Kies een dag met stabiel weer."
+   ],
+   "en": [
+    "Bring dry clothes and a towel.",
+    "Ask about swimming ability and age.",
+    "Choose a day with stable weather."
+   ],
+   "de": [
+    "Trockene Kleidung und Handtuch mitnehmen.",
+    "Nach Schwimmfähigkeit und Alter fragen.",
+    "Einen Tag mit stabilem Wetter wählen."
+   ]
+  },
+  "practical": {
+   "nl": "Het Zillertal ligt ca. 1 uur rijden van Niederau, via de A12 en de Zillertal-weg. Vraag bij de toeristische dienst naar aanbieders en startpunt.",
+   "en": "The Zillertal is about an hour's drive from Niederau, via the A12 and the Zillertal road. Ask the tourist office about providers and the starting point.",
+   "de": "Das Zillertal liegt ca. 1 Stunde Fahrt von Niederau entfernt, über die A12 und die Zillertaler Straße. Fragen Sie beim Tourismusbüro nach Anbietern und Startpunkt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 10 jaar (informeer)",
+    "en": "From about 10 years (ask)",
+    "de": "Ab ca. 10 Jahren (erfragen)"
+   },
+   "duration": {
+    "nl": "Ca. 2-3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 60 min rijden",
+    "en": "About 60 minutes by car",
+    "de": "Ca. 60 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Zillertal",
+   "en": "Zillertal",
+   "de": "Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is kanoën op de Ziller geschikt voor beginners?",
+     "en": "Is canoeing on the Ziller suitable for beginners?",
+     "de": "Ist Kanufahren auf der Ziller für Anfänger geeignet?"
+    },
+    "a": {
+     "nl": "Op de rustiger stukken met een gids wel; vraag naar de moeilijkheid van de tocht.",
+     "en": "On the calmer stretches with a guide it is; ask about the difficulty of the trip.",
+     "de": "Auf den ruhigeren Abschnitten mit Führer ja; fragen Sie nach dem Schwierigkeitsgrad der Tour."
+    }
+   }
+  ],
+  "theme": "avontuur",
+  "season": "summer",
+  "slug_nl": "kanoen-op-de-ziller",
+  "_words": 167
+ },
+ {
+  "id": "s36",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "village-concerts-wildschoenau",
+  "slug_de": "platzkonzerte-wildschoenau",
+  "title": {
+   "nl": "Dorpsconcerten in de Wildschönau",
+   "en": "Village band concerts in the Wildschönau",
+   "de": "Platzkonzerte in der Wildschönau"
+  },
+  "tagline": {
+   "nl": "Gratis openluchtconcerten van de plaatselijke muziekkapellen",
+   "en": "Free open-air concerts by the local brass bands",
+   "de": "Kostenlose Open-Air-Konzerte der örtlichen Musikkapellen"
+  },
+  "intro": {
+   "nl": "In de zomer geeft de Bundesmusikkapelle van Oberau elke dinsdagavond een openluchtconcert in het centrum, op het Dreizehnlindenplatz. In 2026 loopt de reeks van 7 juli tot en met 1 september en begint het concert om 20:00 uur. Het programma is gevarieerd, van traditionele blaasmuziek tot modernere klanken, en er zijn versnaperingen verkrijgbaar.\n\nOok de kapel van Mühltal geeft in de zomer concerten; de data daarvan wisselen, dus kijk in de actuele evenementenagenda. Het is een ongedwongen avond waarop kinderen rustig kunnen rondlopen. Data kunnen per jaar verschillen, dus controleer het actuele programma.",
+   "en": "In summer the Oberau Bundesmusikkapelle gives an open-air concert every Tuesday evening in the village centre, on the Dreizehnlindenplatz. In 2026 the series runs from 7 July to 1 September, with the concert starting at 8 pm. The programme is varied, from traditional brass music to more modern sounds, and refreshments are available.\n\nThe Mühltal band also plays concerts in summer; its dates change, so look at the current events calendar. It is a relaxed evening where children can move about freely. Dates can differ from year to year, so check the current programme.",
+   "de": "Im Sommer gibt die Bundesmusikkapelle Oberau jeden Dienstagabend ein Platzkonzert im Ortszentrum, am Dreizehnlindenplatz. 2026 läuft die Reihe vom 7. Juli bis 1. September, Beginn ist um 20:00 Uhr. Das Programm ist abwechslungsreich, von traditioneller Blasmusik bis zu moderneren Klängen, und für Getränke und Snacks ist gesorgt.\n\nAuch die Kapelle in Mühltal spielt im Sommer Konzerte; deren Termine wechseln, schauen Sie daher in den aktuellen Veranstaltungskalender. Es ist ein ungezwungener Abend, an dem sich Kinder frei bewegen können. Termine können sich von Jahr zu Jahr unterscheiden, prüfen Sie daher das aktuelle Programm."
+  },
+  "tips": {
+   "nl": [
+    "Kom iets eerder om een goede plek te vinden.",
+    "Neem een jas mee voor als het 's avonds afkoelt.",
+    "Controleer de actuele data in de evenementenagenda van de Wildschönau."
+   ],
+   "en": [
+    "Arrive a little early to get a good spot.",
+    "Bring a jacket in case it cools in the evening.",
+    "Check the current dates in the Wildschönau events calendar."
+   ],
+   "de": [
+    "Kommen Sie etwas früher, um einen guten Platz zu bekommen.",
+    "Nehmen Sie eine Jacke mit, falls es abends abkühlt.",
+    "Prüfen Sie die aktuellen Termine im Veranstaltungskalender der Wildschönau."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 tot 10 minuten van Niederau, per auto of bus. Het Dreizehnlindenplatz ligt in het dorpscentrum.",
+   "en": "Oberau is about 5 to 10 minutes from Niederau, by car or bus. The Dreizehnlindenplatz is in the village centre.",
+   "de": "Oberau liegt etwa 5 bis 10 Minuten von Niederau entfernt, mit Auto oder Bus. Der Dreizehnlindenplatz befindet sich im Ortszentrum."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 tot 2 uur",
+    "en": "Approx. 1.5 to 2 hours",
+    "de": "Ca. 1,5 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 tot 10 min rijden",
+    "en": "Approx. 5 to 10 min by car",
+    "de": "Ca. 5 bis 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (in 2026 van juli tot begin september)",
+    "en": "Summer (in 2026 from July to early September)",
+    "de": "Sommer (2026 von Juli bis Anfang September)"
+   }
+  },
+  "location": {
+   "nl": "Dreizehnlindenplatz, Oberau",
+   "en": "Dreizehnlindenplatz, Oberau",
+   "de": "Dreizehnlindenplatz, Oberau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer geeft de kapel van Oberau een concert?",
+     "en": "When does the Oberau band play?",
+     "de": "Wann spielt die Musikkapelle Oberau?"
+    },
+    "a": {
+     "nl": "In 2026 elke dinsdag om 20:00 uur op het Dreizehnlindenplatz, van 7 juli tot 1 september.",
+     "en": "In 2026 every Tuesday at 8 pm on the Dreizehnlindenplatz, from 7 July to 1 September.",
+     "de": "2026 jeden Dienstag um 20:00 Uhr am Dreizehnlindenplatz, vom 7. Juli bis 1. September."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "slug_nl": "dorfmusik-dorpsmuziekavond",
+  "_words": 167
+ },
+ {
+  "id": "s211",
+  "drop": false,
+  "drop_reason": "",
+  "place": "koessen",
+  "slug_en": "hiking-kossen-kaiserwinkl",
+  "slug_de": "wandern-koessen-kaiserwinkl",
+  "title": {
+   "nl": "Wandelen bij Kössen (Kaiserwinkl)",
+   "en": "Hiking near Kössen, Kaiserwinkl",
+   "de": "Wandern bei Kössen im Kaiserwinkl"
+  },
+  "tagline": {
+   "nl": "Rustige wandelingen bij de Kaisergebergte, ver van de drukte",
+   "en": "Quiet walks by the Kaiser mountains, away from the crowds",
+   "de": "Ruhige Wanderungen am Kaisergebirge, abseits des Trubels"
+  },
+  "intro": {
+   "nl": "Kössen ligt in de Kaiserwinkl, in de noordoostelijke hoek van Tirol bij de Duitse grens, tussen de Zahmer Kaiser en de heuvels van de noordelijke Chiemgauer Alpen. De regio heeft ca. 200 km aan gemarkeerde wandelroutes en zo'n dertig hutten waar je regionale specialiteiten kunt proeven, zoals kaas van hooimelk.\n\nHet is rustiger dan de bekendste delen rond de Wilder Kaiser. Er zijn korte wandelingen voor kleine kinderen en langere tochten, bijvoorbeeld naar de Ottenalm, de Edernalm of de Taubensee. Een gratis wandelkaart met tips krijg je bij het toeristenbureau Kaiserwinkl in Kössen.",
+   "en": "Kössen lies in the Kaiserwinkl, the north-eastern corner of Tyrol by the German border, between the Zahmer Kaiser and the hills of the northern Chiemgau Alps. The region has about 200 km of marked hiking trails and some thirty huts where you can try regional specialities such as hay-milk cheese.\n\nIt is quieter than the best-known parts around the Wilder Kaiser. There are short walks for small children and longer tours, for example to the Ottenalm, the Edernalm or the Taubensee. A free hiking map with tips is available from the Kaiserwinkl tourist office in Kössen.",
+   "de": "Kössen liegt im Kaiserwinkl, im nordöstlichen Zipfel Tirols an der deutschen Grenze, zwischen dem Zahmen Kaiser und den Hügeln der nördlichen Chiemgauer Alpen. Die Region hat ca. 200 km markierte Wanderwege und rund dreißig Hütten, in denen du regionale Spezialitäten wie Heumilchkäse probieren kannst.\n\nEs ist ruhiger als die bekanntesten Gegenden rund um den Wilden Kaiser. Es gibt kurze Wanderungen für kleine Kinder und längere Touren, etwa zur Ottenalm, zur Edernalm oder zum Taubensee. Eine kostenlose Wanderkarte mit Tipps gibt es beim Tourismusverband Kaiserwinkl in Kössen."
+  },
+  "tips": {
+   "nl": [
+    "Begin met een kortere route en kijk of de kinderen er zin in hebben.",
+    "Neem water en een picknick mee, of plan een stop bij een Almhütte.",
+    "Vraag bij de toeristeninformatie naar de actuele routes."
+   ],
+   "en": [
+    "Start with a shorter route and see how the children get on.",
+    "Bring water and a picnic, or plan a stop at an Almhütte.",
+    "Ask the tourist office about current routes."
+   ],
+   "de": [
+    "Beginne mit einer kürzeren Route und schau, wie es den Kindern gefällt.",
+    "Nimm Wasser und ein Picknick mit oder plane eine Einkehr in einer Almhütte.",
+    "Frag beim Tourismusbüro nach aktuellen Routen."
+   ]
+  },
+  "practical": {
+   "nl": "Kössen ligt ca. 55 minuten rijden van Niederau, via Wörgl en Kufstein richting Kössen.",
+   "en": "Kössen is about 55 minutes by car from Niederau, via Wörgl and Kufstein towards Kössen.",
+   "de": "Kössen liegt ca. 55 Autominuten von Niederau entfernt, über Wörgl und Kufstein Richtung Kössen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2–4 uur",
+    "en": "About 2–4 hours",
+    "de": "Ca. 2–4 Stunden"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "About 55 min by car",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kössen, Kaiserwinkl",
+   "en": "Kössen, Kaiserwinkl",
+   "de": "Kössen, Kaiserwinkl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is wandelen bij Kössen geschikt voor kinderen?",
+     "en": "Is hiking near Kössen suitable for children?",
+     "de": "Ist Wandern bei Kössen für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, er zijn korte en eenvoudige routes naast langere; kies er een die bij de leeftijd past.",
+     "en": "Yes, there are short, easy routes as well as longer ones; pick one to suit the age.",
+     "de": "Ja, es gibt kurze, einfache Routen neben längeren; wähle eine passend zum Alter."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "wandelen",
+  "season": "summer",
+  "slug_nl": "zahmer-kaiser-wandeling-kossen",
+  "_words": 167
+ },
+ {
+  "id": "w4",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "schatzberg-toboggan-run-auffach",
+  "slug_de": "rodelbahn-schatzberg-auffach",
+  "title": {
+   "nl": "Rodelbaan Schatzberg bij Auffach",
+   "en": "Schatzberg toboggan run, Auffach",
+   "de": "Rodelbahn Schatzberg in Auffach"
+  },
+  "tagline": {
+   "nl": "Ca. 5 km rodelen vanaf het middenstation naar het dalstation",
+   "en": "About 5 km of tobogganing from the mid station to the valley station",
+   "de": "Ca. 5 km Rodeln von der Mittelstation zur Talstation"
+  },
+  "intro": {
+   "nl": "De rodelbaan van de Schatzberg bij Auffach is ongeveer 5 km lang en heeft een gemiddelde moeilijkheidsgraad. Je start bij het middenstation van de Schatzbergbahn (ca. 1.300 m) en glijdt over een hoogteverschil van ca. 430 m terug naar het dalstation. Een deel van het traject loopt door beboste hellingen.\n\nDe baan past bij gezinnen met kinderen die al wat durven; jonge kinderen gaan het veiligst samen met een volwassene. De gondel brengt je omhoog, dus je hoeft niet te lopen. Of de baan open is, hangt af van sneeuw en weer: controleer dat vooraf en vraag naar tarieven en sleeverhuur.",
+   "en": "The toboggan run on the Schatzberg near Auffach is about 5 km long and of medium difficulty. You start at the middle station of the Schatzbergbahn (about 1,300 m) and glide down a height difference of about 430 m to the valley station. Part of the route runs through wooded slopes.\n\nThe run suits families with children who are somewhat adventurous; young children are safest riding with an adult. The gondola takes you up, so there is no walking. Whether the run is open depends on snow and weather: check beforehand and ask about fares and sledge rental.",
+   "de": "Die Rodelbahn am Schatzberg bei Auffach ist etwa 5 km lang und von mittlerem Schwierigkeitsgrad. Man startet an der Mittelstation der Schatzbergbahn (ca. 1.300 m) und gleitet über rund 430 m Höhenunterschied zurück zur Talstation. Ein Teil der Strecke führt durch bewaldete Hänge.\n\nDie Bahn passt zu Familien mit etwas mutigeren Kindern; kleine Kinder fahren am sichersten zusammen mit einem Erwachsenen. Die Gondel bringt Sie hinauf, man muss nicht gehen. Ob die Bahn geöffnet ist, hängt von Schnee und Wetter ab: vorab prüfen und nach Preisen und Schlittenverleih fragen."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf of de baan open is.",
+    "Draag stevige schoenen en waterdichte kleding.",
+    "Laat jonge kinderen samen met een volwassene afdalen.",
+    "Vraag bij het dalstation naar sleeverhuur."
+   ],
+   "en": [
+    "Check beforehand whether the run is open.",
+    "Wear sturdy shoes and waterproof clothing.",
+    "Have young children ride with an adult.",
+    "Ask at the valley station about sledge rental."
+   ],
+   "de": [
+    "Vorab prüfen, ob die Bahn geöffnet ist.",
+    "Feste Schuhe und wasserdichte Kleidung tragen.",
+    "Kleine Kinder zusammen mit einem Erwachsenen fahren lassen.",
+    "An der Talstation nach Schlittenverleih fragen."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 15 minuten rijden van Niederau. De Schatzbergbahn begint in Auffach; controleer parkeren en eventuele skibus.",
+   "en": "Auffach is about 15 minutes by car from Niederau. The Schatzbergbahn starts in Auffach; check parking and any ski bus.",
+   "de": "Auffach liegt ca. 15 Autominuten von Niederau. Die Schatzbergbahn startet in Auffach; Parkplatz und eventuellen Skibus prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden, kleine kinderen met volwassene",
+    "en": "All ages; small children with an adult",
+    "de": "Alle Altersgruppen, kleine Kinder mit Erwachsenem"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Gondelkaart en sleehuur: informeer vooraf",
+    "en": "Gondola ticket and sledge hire: please enquire",
+    "de": "Gondelticket und Schlittenmiete: bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 15 min rijden",
+    "en": "About 15 min by car",
+    "de": "Ca. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "https://www.skijuwel.com/en/winter/tobogganging",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is de rodelbaan op de Schatzberg?",
+     "en": "How long is the Schatzberg toboggan run?",
+     "de": "Wie lang ist die Rodelbahn am Schatzberg?"
+    },
+    "a": {
+     "nl": "Ongeveer 5 km, van het middenstation naar het dalstation van de Schatzbergbahn.",
+     "en": "About 5 km, from the middle station to the valley station of the Schatzbergbahn.",
+     "de": "Etwa 5 km, von der Mittelstation zur Talstation der Schatzbergbahn."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "winterpret",
+  "season": "winter",
+  "slug_nl": "rodelbaan-auffach-schatzberg",
+  "_words": 167
+ },
+ {
+  "id": "s95",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "schwarzsee-kitzbuehel",
+  "slug_de": "schwarzsee-kitzbuehel",
+  "title": {
+   "nl": "Schwarzsee Kitzbühel",
+   "en": "Schwarzsee Kitzbühel",
+   "de": "Schwarzsee Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Warm veenmeer met openluchtbad bij Kitzbühel",
+   "en": "Warm moor lake with an open-air lido near Kitzbühel",
+   "de": "Warmer Moorsee mit Strandbad bei Kitzbühel"
+  },
+  "intro": {
+   "nl": "Het Schwarzsee ligt enkele kilometers van Kitzbühel en is een veenmeer. Het water is bruinig en niet glashelder, maar wordt in de zomer opvallend warm: het geldt als een van de warmste veenmeren van Tirol, met temperaturen tot ongeveer 27 graden. Gemiddeld ligt de watertemperatuur rond 22 graden.\n\nHet openluchtbad aan het meer heeft waterglijbanen, een duiktoren, een kinderbad, een speeltuin en velden voor beachvolleybal en voetbal. In het zomerseizoen is het bad dagelijks overdag geopend, met een middagtarief voor wie later komt. Daarnaast zijn er enkele stranden aan het meer. Een bezoek past goed bij een middag in Kitzbühel.",
+   "en": "The Schwarzsee lies a few kilometres from Kitzbühel and is a moor lake. The water is brownish and not crystal clear, but warms up remarkably in summer: it is regarded as one of the warmest moor lakes in Tyrol, with temperatures up to around 27 degrees. On average the water temperature is around 22 degrees.\n\nThe open-air lido at the lake has water slides, a diving tower, a children's pool, a playground and beach volleyball and football pitches. During the summer season it is open daily during the day, with a reduced afternoon rate for late arrivals. There are also a few beaches around the lake. A visit fits well with an afternoon in Kitzbühel.",
+   "de": "Der Schwarzsee liegt wenige Kilometer von Kitzbühel entfernt und ist ein Moorsee. Das Wasser ist bräunlich und nicht glasklar, erwärmt sich im Sommer aber auffallend: Er gilt als einer der wärmsten Moorseen Tirols mit Temperaturen bis etwa 27 Grad. Im Durchschnitt liegt die Wassertemperatur bei rund 22 Grad.\n\nDas Strandbad am See bietet Wasserrutschen, einen Sprungturm, ein Kinderbecken, einen Spielplatz sowie Felder für Beachvolleyball und Fußball. In der Sommersaison ist es täglich tagsüber geöffnet, mit einem ermäßigten Nachmittagstarif für Spätkommende. Außerdem gibt es einige Strände am See. Ein Besuch lässt sich gut mit einem Nachmittag in Kitzbühel verbinden. Handtuch, Sonnenschutz und Badeschuhe sind sinnvoll, weil der Seeboden weich und moorig sein kann."
+  },
+  "tips": {
+   "nl": [
+    "Het water is veenachtig en niet glashelder; dat is normaal.",
+    "Combineer met een bezoek aan het centrum van Kitzbühel.",
+    "Controleer vooraf de openingstijden van het bad."
+   ],
+   "en": [
+    "The water is peaty and not crystal clear; that is normal.",
+    "Combine with a visit to Kitzbühel town centre.",
+    "Check the lido's opening hours beforehand."
+   ],
+   "de": [
+    "Das Wasser ist moorig und nicht glasklar; das ist normal.",
+    "Mit einem Besuch im Zentrum von Kitzbühel kombinieren.",
+    "Die Öffnungszeiten des Bades vorab prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 45 minuten rijden naar Kitzbühel; het meer ligt enkele kilometers buiten de stad.",
+   "en": "From Niederau it is about 45 minutes by car to Kitzbühel; the lake lies a few kilometres outside town.",
+   "de": "Von Niederau sind es etwa 45 Minuten mit dem Auto nach Kitzbühel; der See liegt wenige Kilometer außerhalb der Stadt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Entree; informeer naar actuele tarieven",
+    "en": "Admission charged; check current prices",
+    "de": "Eintritt; aktuelle Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "About 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel",
+   "en": "Kitzbühel",
+   "de": "Kitzbühel"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat voor meer is het Schwarzsee?",
+     "en": "What kind of lake is the Schwarzsee?",
+     "de": "Was für ein See ist der Schwarzsee?"
+    },
+    "a": {
+     "nl": "Een veenmeer met bruinig, minder helder water dat in de zomer tot ongeveer 27 graden kan worden.",
+     "en": "A moor lake with brownish, less clear water that can reach around 27 degrees in summer.",
+     "de": "Ein Moorsee mit bräunlichem, weniger klarem Wasser, das im Sommer bis etwa 27 Grad warm werden kann."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "slug_nl": "schwarzsee-kitzbuhel",
+  "_words": 167
+ },
+ {
+  "id": "s91",
+  "drop": false,
+  "drop_reason": "",
+  "place": "zell-am-see",
+  "slug_en": "zell-am-see-lido",
+  "slug_de": "strandbad-zell-am-see",
+  "title": {
+   "nl": "Strandbad Zell am See",
+   "en": "Zell am See Lido",
+   "de": "Strandbad Zell am See"
+  },
+  "tagline": {
+   "nl": "Zwemmen in het Zeller See, omringd door bergen",
+   "en": "Swimming in the Zeller See, ringed by mountains",
+   "de": "Baden im Zeller See, umgeben von Bergen"
+  },
+  "intro": {
+   "nl": "Het Zeller See ligt in het Pinzgau, in de deelstaat Salzburg, tussen de Kitzbüheler Alpen en de Hohe Tauern en staat bekend als een van de schoonste badmeren van Oostenrijk. Rond het meer liggen strandbaden in Zell am See zelf, in Thumersbach en in Schüttdorf (Seespitz).\n\nHet strandbad van Zell am See heeft onder meer een avontuurlijk kinderbad met een grote glijbaan en waterpaddenstoelen, een apart peuterbad, een duiktoren van 5 meter en wateractiviteiten zoals waterskiën en bananenboot. Het is een lange rit vanaf Niederau, dus het past het best bij een volledige dagtocht.",
+   "en": "The Zeller See lies in the Pinzgau region of Salzburg, between the Kitzbühel Alps and the Hohe Tauern, and is known as one of Austria's cleanest bathing lakes. There are lidos around it in Zell am See itself, in Thumersbach and in Schüttdorf (Seespitz).\n\nThe Zell am See lido has, among other things, an adventure pool for children with a large slide and water mushrooms, a separate toddler pool, a 5-metre diving tower and water activities such as water skiing and banana boat rides. It is a longer drive from Niederau, so it suits a full day trip best.",
+   "de": "Der Zeller See liegt im Pinzgau im Land Salzburg, zwischen den Kitzbüheler Alpen und den Hohen Tauern, und gilt als einer der saubersten Badeseen Österreichs. Rund um den See gibt es Strandbäder in Zell am See selbst, in Thumersbach und in Schüttdorf (Seespitz).\n\nDas Strandbad Zell am See hat unter anderem ein Erlebnisbecken für Kinder mit großer Rutsche und Wasserpilzen, ein separates Kleinkindbecken, einen 5-Meter-Sprungturm und Wasseraktivitäten wie Wasserski und Bananenboot. Von Niederau ist es eine längere Fahrt, daher eignet es sich am besten für einen ganzen Ausflugstag."
+  },
+  "tips": {
+   "nl": [
+    "Plan een hele dag; de rit is een stuk langer dan naar de andere meren.",
+    "Kijk vooraf welk van de drie strandbaden het best bij je gezelschap past.",
+    "Neem zonnebrand en badkleding voor kinderen mee."
+   ],
+   "en": [
+    "Plan a full day; the drive is noticeably longer than to the other lakes.",
+    "Check beforehand which of the three lidos suits your group best.",
+    "Bring sun cream and swimwear for the children."
+   ],
+   "de": [
+    "Einen ganzen Tag einplanen; die Fahrt ist deutlich länger als zu den anderen Seen.",
+    "Vorab prüfen, welches der drei Strandbäder am besten passt.",
+    "Sonnencreme und Badekleidung für die Kinder mitnehmen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 1 uur en 15 minuten rijden, bijvoorbeeld via Kitzbühel en de Pass Thurn. Controleer de route vooraf.",
+   "en": "From Niederau it is about 1 hour 15 minutes by car, for example via Kitzbühel and the Pass Thurn. Check the route beforehand.",
+   "de": "Von Niederau sind es etwa 1 Stunde 15 Minuten mit dem Auto, zum Beispiel über Kitzbühel und den Pass Thurn. Die Route vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Entree wordt betaald; tarieven wisselen, informeer vooraf",
+    "en": "Admission is charged; prices vary, check beforehand",
+    "de": "Eintritt kostenpflichtig; Preise ändern sich, bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 15 min rijden",
+    "en": "About 1 hour 15 min by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Zell am See (Salzburgerland)",
+   "en": "Zell am See (Salzburg region)",
+   "de": "Zell am See (Salzburger Land)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel strandbaden zijn er bij het Zeller See?",
+     "en": "How many lidos are there at the Zeller See?",
+     "de": "Wie viele Strandbäder gibt es am Zeller See?"
+    },
+    "a": {
+     "nl": "Drie: in Zell am See, Thumersbach en Schüttdorf (Seespitz).",
+     "en": "Three: in Zell am See, Thumersbach and Schüttdorf (Seespitz).",
+     "de": "Drei: in Zell am See, Thumersbach und Schüttdorf (Seespitz)."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "slug_nl": "zell-am-see-strandabad",
+  "_words": 168
+ },
+ {
+  "id": "s99",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "brixental-cycle-route",
+  "slug_de": "radweg-brixental",
+  "title": {
+   "nl": "Fietsen door het Brixental",
+   "en": "Cycling through the Brixental",
+   "de": "Radfahren durch das Brixental"
+  },
+  "tagline": {
+   "nl": "Een lange dalroute van Wörgl via Hopfgarten en Westendorf naar Kitzbühel",
+   "en": "A long valley route from Wörgl via Hopfgarten and Westendorf to Kitzbühel",
+   "de": "Eine lange Talroute von Wörgl über Hopfgarten und Westendorf nach Kitzbühel"
+  },
+  "intro": {
+   "nl": "Het Brixentalradweg loopt van Wörgl door het Brixental naar Kitzbühel, ongeveer 40 tot 47 km, langs Hopfgarten, Westendorf, Brixen im Thale en Kirchberg. Het traject is als makkelijk beoordeeld en loopt grotendeels over de dalbodem; stukken gaan over rustige zijwegen waar ook auto's en tractoren komen. Je kunt het hele stuk rijden of een deel kiezen.\n\nLangs de route liggen weiden, rivieroevers en horeca voor een lunchstop; vlak voor Kitzbühel ligt de Schwarzsee. Met een e-bike maak je de stukken met hoogteverschil makkelijker, en met de bus of trein kun je terugkeren. Haal een kaart bij het toeristenbureau en controleer vooraf de actuele route.",
+   "en": "The Brixental cycle path runs from Wörgl through the Brixental to Kitzbühel, roughly 40 to 47 km, past Hopfgarten, Westendorf, Brixen im Thale and Kirchberg. It is rated easy and mostly follows the valley floor; some stretches use quiet side roads that also carry cars and tractors. You can ride the whole stretch or choose a section.\n\nAlong the way are meadows, riverbanks and places to eat for a lunch stop; just before Kitzbühel lies the Schwarzsee. An e-bike makes the hillier parts easier, and you can return by bus or train. Pick up a map at the tourist office and check the current route beforehand.",
+   "de": "Der Brixentalradweg führt von Wörgl durch das Brixental nach Kitzbühel, rund 40 bis 47 km, vorbei an Hopfgarten, Westendorf, Brixen im Thale und Kirchberg. Er gilt als leicht und verläuft überwiegend auf dem Talboden; einzelne Abschnitte nutzen ruhige Nebenstraßen, auf denen auch Autos und Traktoren fahren. Man kann die ganze Strecke fahren oder einen Abschnitt wählen.\n\nUnterwegs gibt es Wiesen, Flussufer und Einkehrmöglichkeiten für eine Mittagspause; kurz vor Kitzbühel liegt der Schwarzsee. Mit dem E-Bike werden die hügeligeren Teile leichter, zurück geht es mit Bus oder Zug. Eine Karte gibt es im Tourismusbüro, die aktuelle Strecke vorab prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Kies een deeltraject als de hele route te lang is.",
+    "Huur een e-bike voor de hoogteverschillen.",
+    "Keer terug met bus of trein."
+   ],
+   "en": [
+    "Pick a section if the full route is too long.",
+    "Rent an e-bike for the hills.",
+    "Return by bus or train."
+   ],
+   "de": [
+    "Einen Teilabschnitt wählen, wenn die ganze Strecke zu lang ist.",
+    "Für die Anstiege ein E-Bike mieten.",
+    "Mit Bus oder Zug zurückfahren."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten ligt ca. 25 minuten rijden van Niederau en is een goed startpunt. Verhuur vind je in de dorpen in het Brixental.",
+   "en": "Hopfgarten is about 25 minutes by car from Niederau and a good starting point. Rental is available in the Brixental villages.",
+   "de": "Hopfgarten ist ca. 25 Minuten Autofahrt von Niederau entfernt und ein guter Startpunkt. Verleih gibt es in den Orten des Brixentals."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden; deeltrajecten voor gezinnen",
+    "en": "All ages; sections suit families",
+    "de": "Alle Altersgruppen; Teilstücke für Familien"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag, afhankelijk van het traject",
+    "en": "Half to full day, depending on the section",
+    "de": "Halber bis ganzer Tag, je nach Abschnitt"
+   },
+   "price": {
+    "nl": "Gratis; verhuur en terugreis apart",
+    "en": "Free; rental and return trip extra",
+    "de": "Kostenlos; Verleih und Rückfahrt extra"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden naar Hopfgarten",
+    "en": "About 25 min by car to Hopfgarten",
+    "de": "Ca. 25 Min. mit dem Auto nach Hopfgarten"
+   },
+   "season": {
+    "nl": "Zomer (ca. april tot oktober)",
+    "en": "Summer (approx. April to October)",
+    "de": "Sommer (ca. April bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Brixental",
+   "en": "Brixental",
+   "de": "Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik de hele route fietsen?",
+     "en": "Do I have to ride the whole route?",
+     "de": "Muss ich die ganze Strecke fahren?"
+    },
+    "a": {
+     "nl": "Nee, je kunt een deel kiezen en met bus of trein terugkeren.",
+     "en": "No, you can choose a section and return by bus or train.",
+     "de": "Nein, man kann einen Abschnitt wählen und mit Bus oder Zug zurückkehren."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "fietsen",
+  "season": "summer",
+  "slug_nl": "brixental-cycle-route",
+  "_words": 169
+ },
+ {
+  "id": "s145",
+  "drop": false,
+  "drop_reason": "",
+  "place": "scheffau",
+  "slug_en": "scheffau-village-walk",
+  "slug_de": "dorfrundgang-scheffau",
+  "title": {
+   "nl": "Dorpsronde Scheffau",
+   "en": "Village stroll in Scheffau",
+   "de": "Dorfrunde in Scheffau"
+  },
+  "tagline": {
+   "nl": "Rustig dorp aan de Wilder Kaiser, met paden naar weiden en almen",
+   "en": "A quiet village at the Wilder Kaiser, with paths up to meadows and alpine pastures",
+   "de": "Ruhiger Ort am Wilden Kaiser mit Wegen hinauf zu Wiesen und Almen"
+  },
+  "intro": {
+   "nl": "Scheffau am Wilden Kaiser is met ruim 1.200 inwoners de kleinste van de vier Kaiser-gemeenten, een rustig dorp aan de voet van de Wilder Kaiser. Je loopt er langs boerderijen met bloementuinen en door stille straten; grote winkelstraten of drukte zoek je hier niet.\n\nNa een rondje door het dorp kun je een van de paden naar de weiden en almen boven het dorp nemen. Er zijn korte, gezinsvriendelijke ronden over de alpenweiden, met uitzicht op de rotswanden. Koeien op of langs het pad horen erbij: houd afstand en sluit hekken achter je.",
+   "en": "With around 1,200 residents, Scheffau am Wilden Kaiser is the smallest of the four Kaiser municipalities, a quiet village at the foot of the Wilder Kaiser. You walk past farms with flower gardens and along calm streets; do not expect shopping streets or crowds.\n\nAfter a loop through the village you can take one of the paths up to the meadows and alpine pastures above it. There are short, family-friendly rounds over the alpine meadows with views of the rock faces. Cows on or beside the path are part of the scene: keep your distance and close gates behind you.",
+   "de": "Mit rund 1.200 Einwohnern ist Scheffau am Wilden Kaiser die kleinste der vier Kaisergemeinden, ein ruhiger Ort am Fuß des Wilden Kaisers. Du gehst an Höfen mit Blumengärten vorbei und durch stille Straßen; Einkaufsstraßen oder Trubel gibt es hier nicht.\n\nNach einer Runde durch das Dorf kannst du einem der Wege hinauf zu den Wiesen und Almen oberhalb des Ortes folgen. Es gibt kurze, familienfreundliche Runden über die Almwiesen mit Blick auf die Felswände. Kühe auf oder neben dem Weg gehören dazu: Halte Abstand und schließe Gatter hinter dir."
+  },
+  "tips": {
+   "nl": [
+    "Houd afstand van koeien en weidedieren.",
+    "Neem water en een snack mee; er zijn weinig voorzieningen.",
+    "Draag stevige schoenen als je de weiden op gaat.",
+    "Combineer met een bezoek aan Ellmau of Söll."
+   ],
+   "en": [
+    "Keep your distance from cows and grazing animals.",
+    "Bring water and a snack; there are few facilities.",
+    "Wear sturdy shoes if you head up to the meadows.",
+    "Combine with a visit to Ellmau or Söll."
+   ],
+   "de": [
+    "Halte Abstand zu Kühen und Weidetieren.",
+    "Nimm Wasser und einen Snack mit; es gibt wenige Einkehrmöglichkeiten.",
+    "Trage feste Schuhe, wenn du zu den Wiesen hinaufgehst.",
+    "Verbinde den Besuch mit Ellmau oder Söll."
+   ]
+  },
+  "practical": {
+   "nl": "Scheffau ligt ca. 40 minuten rijden van Niederau, via Wörgl en de richting van de Wilder Kaiser.",
+   "en": "Scheffau is roughly 40 minutes by car from Niederau, via Wörgl towards the Wilder Kaiser.",
+   "de": "Scheffau liegt ca. 40 Fahrminuten von Niederau entfernt, über Wörgl in Richtung Wilder Kaiser."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Scheffau am Wilden Kaiser",
+   "en": "Scheffau am Wilden Kaiser",
+   "de": "Scheffau am Wilden Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Scheffau druk?",
+     "en": "Is Scheffau busy?",
+     "de": "Ist Scheffau überlaufen?"
+    },
+    "a": {
+     "nl": "Nee, het is de kleinste van de vier Kaiser-gemeenten en een rustig dorp; het is geschikt voor een korte, ontspannen wandeling.",
+     "en": "No, it is the smallest of the four Kaiser municipalities and a quiet village; it suits a short, relaxed walk.",
+     "de": "Nein, es ist die kleinste der vier Kaisergemeinden und ein ruhiger Ort; er eignet sich für einen kurzen, entspannten Spaziergang."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "slug_nl": "scheffau-dorpsronde-en-bergboerenpad",
+  "_words": 170
+ },
+ {
+  "id": "s147",
+  "drop": false,
+  "drop_reason": "",
+  "place": "brixen-im-thale",
+  "slug_en": "brixen-im-thale-biking",
+  "slug_de": "radfahren-brixen-im-thale",
+  "title": {
+   "nl": "Fietsen en mountainbiken bij Brixen im Thale",
+   "en": "Cycling and mountain biking at Brixen im Thale",
+   "de": "Radfahren und Mountainbiken in Brixen im Thale"
+  },
+  "tagline": {
+   "nl": "Fietsen vanaf de dalstation, van berghut-route tot trail",
+   "en": "Cycling from the valley station, from alm routes to trails",
+   "de": "Radeln ab der Talstation, von Almroute bis Trail"
+  },
+  "intro": {
+   "nl": "Brixen im Thale ligt in het Brixental en hoort bij de SkiWelt. Vanuit het dorp lopen bosweggetjes omhoog naar berghutten, zoals de Kandleralm op ruim 1.100 m, een mooi doel voor een middagtocht. De directe klim vanaf het dalstation naar de Kandleralm is pittig; wie liever niet klimt, kan de bergbaan gebruiken.\n\nHet gebied is geschikt voor gezinnen met fietsende kinderen, mits je de moeilijkheid van de route bewust kiest. Bij de dalstation en in het dorp kun je meestal fietsen huren. Een e-bike maakt de klim voor volwassenen een stuk lichter.",
+   "en": "Brixen im Thale lies in the Brixental and is part of the SkiWelt. From the village, forest tracks lead up to mountain inns such as the Kandleralm at just over 1,100 m, a nice goal for an afternoon ride. The direct climb from the valley station to the Kandleralm is demanding; if you prefer not to climb, you can use the cable car.\n\nThe area suits families with cycling children, provided you pick routes of the right difficulty. Bikes can usually be rented near the valley station and in the village. An e-bike makes the climb much easier for adults.",
+   "de": "Brixen im Thale liegt im Brixental und gehört zur SkiWelt. Vom Ort führen Forstwege hinauf zu Almhütten wie der Kandleralm auf gut 1.100 m, ein schönes Ziel für eine Nachmittagstour. Der direkte Anstieg von der Talstation zur Kandleralm ist anspruchsvoll; wer nicht klettern möchte, kann die Bergbahn nutzen.\n\nDas Gebiet eignet sich für Familien mit radelnden Kindern, wenn man den Schwierigkeitsgrad der Strecke bewusst wählt. In der Nähe der Talstation und im Ort lassen sich meist Räder leihen. Ein E-Bike erleichtert den Anstieg für Erwachsene deutlich."
+  },
+  "tips": {
+   "nl": [
+    "Kies een hut als doel, dat motiveert kinderen.",
+    "Neem een helm mee en controleer de remmen voor vertrek.",
+    "Gebruik een e-bike voor de klim als niveaus in het gezin verschillen."
+   ],
+   "en": [
+    "Pick an alm as the goal; it motivates children.",
+    "Bring a helmet and check the brakes before setting off.",
+    "Use an e-bike for the climb if fitness levels differ in the family."
+   ],
+   "de": [
+    "Eine Almhütte als Ziel wählen, das motiviert Kinder.",
+    "Helm mitnehmen und vor dem Start die Bremsen prüfen.",
+    "Für den Anstieg ein E-Bike nutzen, wenn die Fitness in der Familie unterschiedlich ist."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau is Brixen im Thale ca. 35 minuten rijden via Wörgl en het Brixental. Vraag naar de actuele routes en bergbaantijden.",
+   "en": "Brixen im Thale is about 35 minutes from Niederau by car via Wörgl and the Brixental. Ask for current routes and lift times.",
+   "de": "Von Niederau erreicht man Brixen im Thale in ca. 35 Minuten mit dem Auto über Wörgl und das Brixental. Aktuelle Strecken und Bahnzeiten erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar met geoefende kinderen; klim is pittig",
+    "en": "From about 8 years with practised children; the climb is demanding",
+    "de": "Ab ca. 8 Jahren mit geübten Kindern; der Anstieg ist anspruchsvoll"
+   },
+   "duration": {
+    "nl": "Halve dag (Kandleralm ca. 3 uur retour)",
+    "en": "Half a day (Kandleralm about 3 hours return)",
+    "de": "Halber Tag (Kandleralm ca. 3 Stunden hin und zurück)"
+   },
+   "price": {
+    "nl": "Fietsverhuur en bergbaan wisselen; informeer vooraf",
+    "en": "Bike rental and lift vary; check beforehand",
+    "de": "Radverleih und Bahn unterschiedlich; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot oktober)",
+    "en": "Summer (approx. May to October)",
+    "de": "Sommer (ca. Mai bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Brixen im Thale, Brixental",
+   "en": "Brixen im Thale, Brixental",
+   "de": "Brixen im Thale, Brixental"
+  },
+  "url": "https://www.skiwelt.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een berghut bereikbaar op de fiets?",
+     "en": "Is there an alm reachable by bike?",
+     "de": "Gibt es eine Alm, die man mit dem Rad erreicht?"
+    },
+    "a": {
+     "nl": "Ja, bijvoorbeeld de Kandleralm op ruim 1.100 m via een bosweg vanuit het dorp.",
+     "en": "Yes, for example the Kandleralm at just over 1,100 m via a forest track from the village.",
+     "de": "Ja, zum Beispiel die Kandleralm auf gut 1.100 m über einen Forstweg ab dem Ort."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "fietsen",
+  "season": "summer",
+  "slug_nl": "brixen-im-thale-fietsen-en-mtb",
+  "_words": 170
+ },
+ {
+  "id": "s85",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "hopfgarten-lake-salvenaland",
+  "slug_de": "badesee-hopfgarten",
+  "title": {
+   "nl": "Badesee Hopfgarten (Salvenaland)",
+   "en": "Hopfgarten Bathing Lake (Salvenaland)",
+   "de": "Badesee Hopfgarten (Salvenaland)"
+  },
+  "tagline": {
+   "nl": "Zwemmeer en vrijetijdspark aan de voet van de Hohe Salve",
+   "en": "Bathing lake and leisure park at the foot of the Hohe Salve",
+   "de": "Badesee und Freizeitpark am Fuß der Hohen Salve"
+  },
+  "intro": {
+   "nl": "Hopfgarten im Brixental ligt aan de voet van de Hohe Salve. In het dorp ligt het Salvenaland, een vrijetijdspark met een zwemmeer, een kinderbad met waterspeelstraat, een opblaasbare ijsberg voor oudere kinderen, een zomerrodelbaan, een minigolfbaan met 18 holes en skelters. Verder zijn er velden voor volleybal, basketbal en voetbal en springkussens.\n\nHet is een overzichtelijk adres voor gezinnen die dicht bij Niederau willen zwemmen, op ca. 20 minuten rijden. Het park is vrij toegankelijk tijdens de openingstijden; voor sommige onderdelen, zoals minigolf, de skelters en de rodelbaan, betaal je apart. Aan het meer ligt een restaurant met zonneterras. De precieze openingsperiode kan wisselen, dus controleer die vooraf. Neem handdoeken en zonnebrand mee.",
+   "en": "Hopfgarten im Brixental lies at the foot of the Hohe Salve. In the village is the Salvenaland, a leisure park with a bathing lake, a children's pool with a water play street, an inflatable iceberg for older children, a summer toboggan run, an 18-hole mini golf course and mini carts. There are also volleyball, basketball and football pitches and bouncy cushions.\n\nIt is a manageable option for families who want to swim close to Niederau, about 20 minutes by car. The park can be entered freely during opening hours; some attractions, such as mini golf, the mini carts and the toboggan run, are paid separately. There is a restaurant with a sunny terrace at the lake. The exact opening period may change, so check it beforehand. Bring towels and sun cream.",
+   "de": "Hopfgarten im Brixental liegt am Fuß der Hohen Salve. Im Ort befindet sich das Salvenaland, ein Freizeitpark mit Badesee, Kinderbecken mit Wasserspielstraße, aufblasbarem Eisberg für ältere Kinder, Sommerrodelbahn, 18-Loch-Minigolf und Minikarts. Dazu kommen Felder für Volleyball, Basketball und Fußball sowie Hüpfkissen.\n\nEs ist eine überschaubare Adresse für Familien, die nahe bei Niederau baden möchten, etwa 20 Autominuten entfernt. Der Park ist während der Öffnungszeiten frei zugänglich; einzelne Angebote wie Minigolf, Minikarts und Rodelbahn kosten extra. Am See gibt es ein Restaurant mit Sonnenterrasse. Die genaue Öffnungsperiode kann sich ändern, daher vorab prüfen. Handtücher und Sonnencreme mitnehmen. Für einen Badetag mit Kindern ist das ein unkomplizierter Ort."
+  },
+  "tips": {
+   "nl": [
+    "Controleer de openingsperiode vooraf.",
+    "Kom op een zonnige dag en neem zonnebrand mee.",
+    "Combineer met de zomerrodelbaan of minigolf."
+   ],
+   "en": [
+    "Check the opening period beforehand.",
+    "Come on a sunny day and bring sun cream.",
+    "Combine with the summer toboggan run or mini golf."
+   ],
+   "de": [
+    "Öffnungszeitraum vorab prüfen.",
+    "An einem sonnigen Tag kommen und Sonnencreme mitnehmen.",
+    "Mit Sommerrodelbahn oder Minigolf kombinieren."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 20 minuten rijden naar Hopfgarten im Brixental.",
+   "en": "From Niederau it is about 20 minutes by car to Hopfgarten im Brixental.",
+   "de": "Von Niederau sind es etwa 20 Minuten mit dem Auto nach Hopfgarten im Brixental."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden; kinderbad aanwezig",
+    "en": "All ages; children's pool on site",
+    "de": "Alle Altersgruppen; Kinderbecken vorhanden"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Park vrij toegankelijk; sommige onderdelen tegen betaling; informeer vooraf",
+    "en": "Park freely accessible; some attractions charged; check beforehand",
+    "de": "Park frei zugänglich; einzelne Angebote kostenpflichtig; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 20 min rijden",
+    "en": "About 20 min by car",
+    "de": "Ca. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er naast zwemmen te doen in het Salvenaland?",
+     "en": "What else is there to do at the Salvenaland besides swimming?",
+     "de": "Was gibt es im Salvenaland außer Baden?"
+    },
+    "a": {
+     "nl": "Er zijn onder meer een zomerrodelbaan, minigolf met 18 holes, skelters en een kinderbad met waterspeelstraat.",
+     "en": "There are a summer toboggan run, 18-hole mini golf, mini carts and a children's pool with a water play street, among other things.",
+     "de": "Es gibt unter anderem eine Sommerrodelbahn, 18-Loch-Minigolf, Minikarts und ein Kinderbecken mit Wasserspielstraße."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "slug_nl": "badesee-hopfgarten",
+  "_words": 170
+ },
+ {
+  "id": "s27",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "oberau",
+  "slug_en": "tennis-oberau-wildschoenau",
+  "slug_de": "tennis-oberau-wildschoenau",
+  "title": {
+   "nl": "Tennissen in Oberau",
+   "en": "Tennis in Oberau",
+   "de": "Tennis in Oberau"
+  },
+  "tagline": {
+   "nl": "Drie gravelbanen in het Wildschönauer dal",
+   "en": "Three clay courts in the Wildschönau valley",
+   "de": "Drei Sandplätze im Wildschönauer Tal"
+  },
+  "intro": {
+   "nl": "De tennisbanen van de Wildschönau liggen in Oberau, het dorp naast Niederau. Er zijn drie gravelbanen en een café met drankjes. De banen liggen vlak bij het openluchtzwembad tussen Niederau en Oberau, zodat je sport en zwemmen makkelijk combineert op één dag.\n\nHet gebruik van de banen is inbegrepen bij de Wildschönau Card en de Premium Card; trainerlessen kosten extra. De banen zijn alleen in de zomer open (in 2026 ongeveer van eind april tot half september), dagelijks van ca. 9 tot 19 uur en afhankelijk van het weer. Een dag van tevoren reserveren is verstandig, en ter plekke betaal je alleen contant. Vraag bij Wildschönau Tourismus naar de actuele openingstijden.",
+   "en": "The Wildschönau tennis courts are in Oberau, the village next to Niederau. There are three clay courts and a café serving refreshments. They are close to the open-air swimming pool between Niederau and Oberau, so it is easy to combine tennis and a swim in one day.\n\nUse of the courts is included with the Wildschönau Card and the Premium Card; coaching lessons cost extra. The courts are open in summer only (in 2026 roughly from late April to mid-September), daily from about 9 am to 7 pm and depending on the weather. Booking a day ahead is advisable, and on-site payment is cash only. Ask Wildschönau Tourism for the current opening hours.",
+   "de": "Die Tennisplätze der Wildschönau liegen in Oberau, dem Nachbarort von Niederau. Es gibt drei Sandplätze und ein Café mit Erfrischungen. Sie befinden sich nahe dem Freischwimmbad zwischen Niederau und Oberau, sodass sich Tennis und Baden an einem Tag gut verbinden lassen.\n\nDie Nutzung der Plätze ist mit der Wildschönau Card und der Premium Card inklusive; Trainerstunden kosten extra. Die Anlage ist nur im Sommer geöffnet (2026 etwa von Ende April bis Mitte September), täglich von etwa 9 bis 19 Uhr und wetterabhängig. Eine Reservierung am Vortag ist ratsam, vor Ort wird nur bar bezahlt. Aktuelle Öffnungszeiten beim Tourismusverband Wildschönau erfragen."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een dag van tevoren.",
+    "Neem eigen racket en tennisschoenen mee; informeer naar verhuur.",
+    "Betalen ter plekke kan alleen contant.",
+    "Combineer met een bezoek aan het openluchtzwembad."
+   ],
+   "en": [
+    "Reserve a day in advance.",
+    "Bring your own racket and tennis shoes; ask about rental.",
+    "Payment on site is cash only.",
+    "Combine with a visit to the open-air pool."
+   ],
+   "de": [
+    "Einen Tag vorher reservieren.",
+    "Eigenen Schläger und Tennisschuhe mitbringen; nach Verleih fragen.",
+    "Vor Ort ist nur Barzahlung möglich.",
+    "Mit einem Besuch im Freischwimmbad kombinieren."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 minuten rijden van Niederau. Openingstijden zijn weersafhankelijk, dus controleer eerst bij Wildschönau Tourismus.",
+   "en": "Oberau is about 5 minutes by car from Niederau. Opening hours depend on the weather, so check with Wildschönau Tourism first.",
+   "de": "Oberau ist ca. 5 Autominuten von Niederau entfernt. Die Öffnung ist wetterabhängig, bitte vorher beim Tourismusverband Wildschönau nachfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Per uur te boeken",
+    "en": "Bookable by the hour",
+    "de": "Stundenweise buchbar"
+   },
+   "price": {
+    "nl": "Inbegrepen bij de Wildschönau Card; anders informeer vooraf",
+    "en": "Included with the Wildschönau Card; otherwise ask in advance",
+    "de": "Mit Wildschönau Card inklusive; sonst vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 min rijden",
+    "en": "About 5 minutes by car",
+    "de": "Ca. 5 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (weersafhankelijk)",
+    "en": "Summer (weather permitting)",
+    "de": "Sommer (wetterabhängig)"
+   }
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn er tennisbanen in Niederau zelf?",
+     "en": "Are there tennis courts in Niederau itself?",
+     "de": "Gibt es Tennisplätze in Niederau selbst?"
+    },
+    "a": {
+     "nl": "De banen liggen in Oberau, het naastgelegen dorp, met drie gravelbanen.",
+     "en": "The courts are in neighbouring Oberau, with three clay courts.",
+     "de": "Die Anlage liegt im Nachbarort Oberau und hat drei Sandplätze."
+    }
+   }
+  ],
+  "theme": "avontuur",
+  "season": "summer",
+  "slug_nl": "tennissen-wildschonau",
+  "_words": 172
+ },
+ {
+  "id": "s170",
+  "drop": false,
+  "drop_reason": "",
+  "place": "schwaz",
+  "slug_en": "silver-mine-schwaz",
+  "slug_de": "silberbergwerk-schwaz",
+  "title": {
+   "nl": "Silberbergwerk Schwaz",
+   "en": "Silver mine Schwaz",
+   "de": "Silberbergwerk Schwaz"
+  },
+  "tagline": {
+   "nl": "Met het mijntreintje de berg in",
+   "en": "By mine train into the mountain",
+   "de": "Mit der Grubenbahn in den Berg"
+  },
+  "intro": {
+   "nl": "Schwaz was in de late middeleeuwen een van de grootste mijnbouwsteden van Europa. Rond de stad werd zilver gewonnen, en een groot deel van het toen verhandelde zilver kwam van hier. Het Silberbergwerk is tegenwoordig een bezoekersmijn.\n\nJe rijdt met een mijntreintje ongeveer 800 meter de berg in en loopt daarna met een gids door gangen waar mijnwerkers eeuwenlang in het donker werkten. Een rondleiding duurt ongeveer anderhalf uur. In de mijn is het het hele jaar rond 12 graden; neem dus warme kleding en stevige schoenen mee. Daarmee is het ook een prima uitstap voor een warme zomerdag of een regenachtige dag.",
+   "en": "In the late Middle Ages Schwaz was one of Europe's largest mining towns. Silver was extracted around the town, and a large share of the silver traded at the time came from here. Today the Silberbergwerk is a visitor mine.\n\nA mine train takes you about 800 metres into the mountain, after which you continue on foot with a guide through galleries where miners worked in the dark for centuries. A tour takes about an hour and a half. It is around 12 degrees in the mine all year, so bring warm clothing and sturdy shoes. That makes it a good outing for a hot summer day or a rainy one.",
+   "de": "Schwaz war im späten Mittelalter eine der größten Bergbaustädte Europas. Rund um die Stadt wurde Silber abgebaut, und ein großer Teil des damals gehandelten Silbers stammte von hier. Heute ist das Silberbergwerk ein Besucherbergwerk.\n\nMit der Grubenbahn fährst du etwa 800 Meter in den Berg und gehst dann mit einem Guide zu Fuß durch Stollen, in denen Knappen jahrhundertelang im Dunkeln arbeiteten. Eine Führung dauert etwa anderthalb Stunden. Im Berg hat es das ganze Jahr um die 12 Grad, nimm also warme Kleidung und feste Schuhe mit. Damit ist es ein guter Ausflug für einen heißen Sommertag oder einen Regentag."
+  },
+  "tips": {
+   "nl": [
+    "Neem warme kleding en stevige schoenen mee; het is er rond 12 °C.",
+    "Het mijntreintje is een hoogtepunt voor kinderen.",
+    "Reserveer of controleer de rondleidingtijden vooraf.",
+    "Plan anderhalf uur voor de rondleiding."
+   ],
+   "en": [
+    "Bring warm clothing and sturdy shoes; it is around 12 °C inside.",
+    "The mine train is a highlight for children.",
+    "Reserve or check tour times beforehand.",
+    "Allow an hour and a half for the tour."
+   ],
+   "de": [
+    "Nimm warme Kleidung und feste Schuhe mit; im Berg hat es um die 12 °C.",
+    "Die Grubenbahn ist ein Höhepunkt für Kinder.",
+    "Reserviere oder prüfe die Führungszeiten vorab.",
+    "Plane anderthalb Stunden für die Führung ein."
+   ]
+  },
+  "practical": {
+   "nl": "Schwaz ligt ca. 40 minuten rijden van Niederau, via de A12 richting Innsbruck (afrit Schwaz).",
+   "en": "Schwaz is roughly 40 minutes by car from Niederau, via the A12 towards Innsbruck (exit Schwaz).",
+   "de": "Schwaz liegt ca. 40 Fahrminuten von Niederau entfernt, über die A12 Richtung Innsbruck (Ausfahrt Schwaz)."
+  },
+  "facts": {
+   "age": {
+    "nl": "Geschikt voor kinderen vanaf kleuterleeftijd; informeer vooraf",
+    "en": "Suitable for children from pre-school age; check beforehand",
+    "de": "Für Kinder ab Kindergartenalter geeignet; bitte vorab erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Schwaz, Inntal",
+   "en": "Schwaz, Inn Valley",
+   "de": "Schwaz, Inntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe koud is het in de mijn?",
+     "en": "How cold is it in the mine?",
+     "de": "Wie kalt ist es im Bergwerk?"
+    },
+    "a": {
+     "nl": "Het hele jaar rond 12 graden; neem dus warme kleding mee, ook in de zomer.",
+     "en": "Around 12 degrees all year, so bring warm clothing even in summer.",
+     "de": "Das ganze Jahr um die 12 Grad; nimm also auch im Sommer warme Kleidung mit."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "slug_nl": "silberbergwerk-schwaz-zilvermine",
+  "_words": 172
+ },
+ {
+  "id": "s252",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "pillersee-lake-walk",
+  "slug_de": "pillersee-strandbad-rundweg",
+  "title": {
+   "nl": "Pillersee bij St. Ulrich",
+   "en": "Pillersee near St. Ulrich",
+   "de": "Pillersee bei St. Ulrich"
+  },
+  "tagline": {
+   "nl": "Zwemmen, bootje huren en wandelen langs een alpenmeer",
+   "en": "Swimming, boat hire and a stroll around an alpine lake",
+   "de": "Baden, Bootsverleih und Spaziergang an einem Bergsee"
+  },
+  "intro": {
+   "nl": "De Pillersee ligt in de Kitzbüheler Alpen bij St. Ulrich am Pillersee. Aan de noordoostzijde ligt een vrij toegankelijk strandbad; bij de oever kun je boten en SUP-boards huren.\n\nRond het meer loopt de Pillerseerunde, een eenvoudige wandeling van ongeveer 4,4 km die ruim een uur duurt en met een kinderwagen te doen is. Onderweg zijn veel rustbanken en bij het Seestüberl kun je onder meer suppen en waterfietsen. Verder is er bij het meer een 3D-boogschietparcours. Het is een rustig gezinsuitje waarbij zwemmen, wandelen en een terrasje samengaan.",
+   "en": "The Pillersee lies in the Kitzbühel Alps near St. Ulrich am Pillersee. On the north-east shore there is a freely accessible lido, and boats and SUP boards can be rented by the water.\n\nThe Pillerseerunde runs around the lake: an easy walk of about 4.4 km that takes a little over an hour and is pushchair-friendly. There are many benches along the way, and at the Seestüberl you can go stand-up paddling or pedalling. There is also a 3D archery course by the lake. It makes a relaxed family outing combining swimming, walking and a stop on a terrace.",
+   "de": "Der Pillersee liegt in den Kitzbüheler Alpen bei St. Ulrich am Pillersee. Am Nordostufer befindet sich ein frei zugängliches Strandbad; am Ufer können Boote und SUP-Boards gemietet werden.\n\nUm den See führt die Pillerseerunde, ein leichter Spaziergang von rund 4,4 km, der etwas mehr als eine Stunde dauert und kinderwagentauglich ist. Unterwegs gibt es viele Rastplätze, und beim Seestüberl kann man unter anderem Stand-up-Paddling oder Tretboot fahren. Am See gibt es außerdem einen 3D-Bogenparcours. Es ist ein entspannter Familienausflug mit Baden, Spazieren und Einkehr."
+  },
+  "tips": {
+   "nl": [
+    "De ronde is ongeveer 4,4 km; reken op ruim een uur lopen.",
+    "Het pad is geschikt voor kinderwagens.",
+    "Huur een SUP-board of waterfiets bij het Seestüberl."
+   ],
+   "en": [
+    "The loop is about 4.4 km; allow a little over an hour.",
+    "The path is suitable for pushchairs.",
+    "Rent an SUP board or pedal boat at the Seestüberl."
+   ],
+   "de": [
+    "Die Runde ist etwa 4,4 km lang; planen Sie gut eine Stunde ein.",
+    "Der Weg ist kinderwagentauglich.",
+    "Mieten Sie ein SUP-Board oder Tretboot beim Seestüberl."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 1 uur 15 min met de auto via Wörgl, Kitzbühel en St. Johann. Parkeerkosten en openingstijden van de voorzieningen kunnen wisselen.",
+   "en": "From Niederau it is about 1 hour 15 minutes by car via Wörgl, Kitzbühel and St. Johann. Parking costs and opening times of facilities can vary.",
+   "de": "Von Niederau fahren Sie etwa 1 Stunde 15 Minuten mit dem Auto über Wörgl, Kitzbühel und St. Johann. Parkgebühren und Öffnungszeiten der Einrichtungen können wechseln."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Strand vrij toegankelijk; verhuur tegen betaling",
+    "en": "Lido freely accessible; rentals are paid",
+    "de": "Strandbad frei zugänglich; Verleih kostenpflichtig"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 15 min rijden",
+    "en": "Approx. 1 hour 15 min by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "St. Ulrich am Pillersee, Kitzbüheler Alpen",
+   "en": "St. Ulrich am Pillersee, Kitzbühel Alps",
+   "de": "St. Ulrich am Pillersee, Kitzbüheler Alpen"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de wandeling rond de Pillersee geschikt voor kinderwagens?",
+     "en": "Is the walk around the Pillersee suitable for pushchairs?",
+     "de": "Ist der Spaziergang um den Pillersee kinderwagentauglich?"
+    },
+    "a": {
+     "nl": "Ja, de Pillerseerunde is een eenvoudige route van ca. 4,4 km (ruim een uur) en geschikt voor kinderwagens.",
+     "en": "Yes, the Pillerseerunde is an easy route of about 4.4 km (a little over an hour) and suitable for pushchairs.",
+     "de": "Ja, die Pillerseerunde ist eine leichte Route von ca. 4,4 km (gut eine Stunde) und kinderwagentauglich."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "slug_nl": "tennispark-en-pillersee-strand",
+  "_words": 172
+ },
+ {
+  "id": "s260",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "mittenwald-wetterstein-hike",
+  "slug_de": "mittenwald-wetterstein-wanderung",
+  "title": {
+   "nl": "Wandelen bij Mittenwald (Wetterstein)",
+   "en": "Hiking near Mittenwald, Wetterstein",
+   "de": "Wandern bei Mittenwald im Wetterstein"
+  },
+  "tagline": {
+   "nl": "Beierse bergdorp met rotswanden, vioolbouwtraditie en wandelpaden",
+   "en": "Bavarian mountain village with rock faces, violin-making tradition and walks",
+   "de": "Bayerisches Bergdorf mit Felswänden, Geigenbautradition und Wanderwegen"
+  },
+  "intro": {
+   "nl": "Mittenwald ligt in Beieren, op ongeveer 930 m hoogte tussen het Wettersteingebergte en het Karwendel. Het dorp staat bekend als belangrijk centrum van de vioolbouw en heeft een voetgangerszone met beschilderde gevels. In het Geigenbaumuseum zie je strijk- en tokkelinstrumenten uit de plaatselijke traditie.\n\nRond het dorp lopen veel wandelroutes, bijvoorbeeld naar de Kranzberg met uitzicht op het Wettersteingebergte of naar de Lautersee en Ferchensee. In de buurt ligt ook de Leutascher Geisterklamm. De Karwendelbahn brengt je tot ca. 2.300 m. Vanuit Niederau is het een lange rit, dus reken op een hele dag. Neem stevige schoenen en regenkleding mee.",
+   "en": "Mittenwald lies in Bavaria at about 930 m, between the Wetterstein and Karwendel mountains. The village is known as an important centre of violin making and has a pedestrian zone lined with painted facades. In the Geigenbaumuseum you can see stringed instruments from the local tradition.\n\nMany walking routes start around the village, for example up the Kranzberg with views of the Wetterstein range, or to the Lautersee and Ferchensee lakes. The Leutasch Geisterklamm gorge is also nearby, and the Karwendelbahn cable car takes you up to around 2,300 m. It is a long drive from Niederau, so allow a full day.",
+   "de": "Mittenwald liegt in Bayern auf etwa 930 m Höhe zwischen Wetterstein- und Karwendelgebirge. Der Ort gilt als bedeutendes Zentrum des Geigenbaus und hat eine Fußgängerzone mit bemalten Fassaden. Im Geigenbaumuseum sieht man Streich- und Zupfinstrumente aus der örtlichen Tradition.\n\nRund um den Ort beginnen viele Wanderrouten, etwa auf den Kranzberg mit Blick aufs Wettersteingebirge oder zum Lautersee und Ferchensee. In der Nähe liegt auch die Leutascher Geisterklamm, und die Karwendelbahn bringt Besucher bis auf rund 2.300 m. Die Fahrt ab Niederau ist lang, planen Sie also einen ganzen Tag ein. Feste Schuhe und Regenkleidung gehören unbedingt ins Gepäck, denn das Wetter kann schnell umschlagen."
+  },
+  "tips": {
+   "nl": [
+    "Plan een hele dag voor deze uitstap.",
+    "Neem voor de zekerheid je identiteitsbewijs mee.",
+    "Combineer de wandeling met het dorpscentrum en het vioolbouwmuseum.",
+    "Kies voor een makkelijke wandeling de Lautersee of Ferchensee."
+   ],
+   "en": [
+    "Plan a full day for this trip.",
+    "Bring your ID to be safe.",
+    "Combine the hike with the village centre and the violin-making museum.",
+    "For an easy walk, choose the Lautersee or Ferchensee."
+   ],
+   "de": [
+    "Planen Sie für diesen Ausflug einen ganzen Tag ein.",
+    "Nehmen Sie sicherheitshalber Ihren Ausweis mit.",
+    "Verbinden Sie die Wanderung mit dem Ortszentrum und dem Geigenbaumuseum.",
+    "Für einen leichten Spaziergang bieten sich Lautersee oder Ferchensee an."
+   ]
+  },
+  "practical": {
+   "nl": "Mittenwald ligt ca. 1,5 uur rijden van Niederau, via de A12 en Seefeld. Kies de route ter plekke bij het toeristenbureau (Alpenwelt Karwendel).",
+   "en": "Mittenwald is about 1.5 hours by car from Niederau, via the A12 and Seefeld. Choose your route on the spot with the tourist office (Alpenwelt Karwendel).",
+   "de": "Mittenwald liegt ca. 1,5 Stunden Autofahrt von Niederau entfernt, über die A12 und Seefeld. Die Route wählen Sie vor Ort mit dem Tourismusbüro (Alpenwelt Karwendel)."
+  },
+  "facts": {
+   "age": {
+    "nl": "Afhankelijk van de route",
+    "en": "Depending on the route",
+    "de": "Je nach Route"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 uur rijden",
+    "en": "About 1.5 h by car",
+    "de": "Ca. 1,5 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Mittenwald, Beieren",
+   "en": "Mittenwald, Bavaria",
+   "de": "Mittenwald, Bayern"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom staat Mittenwald bekend?",
+     "en": "What is Mittenwald known for?",
+     "de": "Wofür ist Mittenwald bekannt?"
+    },
+    "a": {
+     "nl": "Voor zijn vioolbouwtraditie, beschilderde huizen en de ligging tussen Wetterstein en Karwendel.",
+     "en": "For its violin-making tradition, painted houses and its setting between the Wetterstein and Karwendel.",
+     "de": "Für seine Geigenbautradition, bemalte Häuser und die Lage zwischen Wetterstein und Karwendel."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "wandelen",
+  "season": "summer",
+  "slug_nl": "wetterstein-wandeling-mittenwald",
+  "_words": 173
+ },
+ {
+  "id": "w42",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "olympic-bobsleigh-igls",
+  "slug_de": "olympia-bobbahn-igls",
+  "title": {
+   "nl": "Olympische bobbaan Igls",
+   "en": "Olympic bob run Igls",
+   "de": "Olympia-Bobbahn Igls"
+  },
+  "tagline": {
+   "nl": "Als passagier mee in een gastbob over de baan van de Winterspelen",
+   "en": "Ride as a passenger in a guest bob on the Winter Games track",
+   "de": "Als Gast im Taxi-Bob über die Bahn der Olympischen Winterspiele"
+  },
+  "intro": {
+   "nl": "In Igls, hoog boven Innsbruck, ligt de olympische bobslee- en rodelbaan, het Olympia Eiskanal, waar de Olympische Winterspelen van 1964 en 1976 werden gehouden. In het winterseizoen kunnen gasten meerijden in een gastbob, met een ervaren piloot en een remmer in een echte wedstrijdbob.\n\nDe rit is kort maar snel: de bob haalt snelheden tot ca. 115 km/u, met bochten en zijdelingse krachten. Het is een intense ervaring, niet voor jonge kinderen of wie snel misselijk wordt. De minimumleeftijd is 10 jaar. Reserveren wordt aangeraden; controleer tijden, prijzen en regels op de officiële site.",
+   "en": "At Igls, high above Innsbruck, lies the Olympic bobsleigh and luge track, the Olympia Eiskanal, where the 1964 and 1976 Winter Olympics were held. In the winter season guests can ride in a guest bob with an experienced pilot and a brakeman in a genuine racing bob.\n\nThe ride is short but fast: the bob reaches speeds of up to about 115 km/h, with bends and strong lateral forces. It is an intense experience, not for young children or anyone prone to motion sickness. The minimum age is 10 years. Booking is recommended; check times, prices and rules on the official site.",
+   "de": "In Igls, hoch über Innsbruck, liegt die Olympia-Bob- und Rodelbahn, der Olympia Eiskanal, auf dem 1964 und 1976 die Olympischen Winterspiele stattfanden. Im Winter können Gäste in einem Gästebob mitfahren, mit einem erfahrenen Piloten und einem Bremser in einem echten Rennbob.\n\nDie Fahrt ist kurz, aber schnell: Der Bob erreicht Geschwindigkeiten von bis zu etwa 115 km/h, mit Kurven und starken Fliehkräften. Es ist ein intensives Erlebnis, nicht für kleine Kinder oder Menschen, denen schnell schlecht wird. Das Mindestalter beträgt 10 Jahre. Eine Reservierung wird empfohlen; Zeiten, Preise und Regeln auf der offiziellen Seite prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf; het aantal plaatsen kan beperkt zijn.",
+    "De minimumleeftijd is 10 jaar; controleer de actuele regels.",
+    "Kleed je warm en draag stevige schoenen.",
+    "Combineer met een bezoek aan de binnenstad van Innsbruck."
+   ],
+   "en": [
+    "Book ahead; places may be limited.",
+    "The minimum age is 10 years; check the current rules.",
+    "Dress warmly and wear sturdy shoes.",
+    "Combine with a visit to Innsbruck's old town."
+   ],
+   "de": [
+    "Vorab reservieren; die Plätze können begrenzt sein.",
+    "Das Mindestalter beträgt 10 Jahre; aktuelle Regeln prüfen.",
+    "Warm anziehen und festes Schuhwerk tragen.",
+    "Mit einem Besuch der Innsbrucker Altstadt verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Igls ligt ca. 55 tot 65 minuten rijden van Niederau via de A12 en Innsbruck. Reserveer en vraag vooraf naar tijden en parkeren.",
+   "en": "Igls is about 55 to 65 minutes' drive from Niederau via the A12 and Innsbruck. Book and ask about times and parking beforehand.",
+   "de": "Igls liegt ca. 55 bis 65 Fahrminuten von Niederau entfernt, über die A12 und Innsbruck. Vorab reservieren und Zeiten sowie Parken erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf 10 jaar",
+    "en": "From 10 years",
+    "de": "Ab 10 Jahren"
+   },
+   "duration": {
+    "nl": "Rit kort; totaal ca. 1 uur",
+    "en": "Short ride; about 1 hour in total",
+    "de": "Kurze Fahrt; insgesamt ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 55 tot 65 min rijden",
+    "en": "About 55 to 65 min by car",
+    "de": "Ca. 55 bis 65 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Igls, Innsbruck",
+   "en": "Igls, Innsbruck",
+   "de": "Igls, Innsbruck"
+  },
+  "url": "https://www.olympiaworld.at/en/die-arenen/olympia-eiskanal",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hard gaat een gastbob?",
+     "en": "How fast is a guest bob?",
+     "de": "Wie schnell ist ein Gästebob?"
+    },
+    "a": {
+     "nl": "Tot ca. 115 km/u; je zit samen met een piloot en een remmer in een echte wedstrijdbob.",
+     "en": "Up to about 115 km/h; you ride with a pilot and a brakeman in a genuine racing bob.",
+     "de": "Bis zu etwa 115 km/h; du fährst mit einem Piloten und einem Bremser in einem echten Rennbob."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "dagtochten",
+  "season": "winter",
+  "slug_nl": "olympiabob-innsbruck-igls",
+  "_words": 174
+ }
+]

@@ -1,0 +1,1481 @@
+[
+ {
+  "id": "w30",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "children-ski-school-auffach",
+  "slug_de": "kinderskischule-auffach",
+  "title": {
+   "nl": "Kinderskischool Zwergenland in Auffach",
+   "en": "Children's ski school Zwergenland, Auffach",
+   "de": "Kinderskischule Zwergenland in Auffach"
+  },
+  "tagline": {
+   "nl": "Skilessen voor kinderen in het rustiger deel van het dal",
+   "en": "Ski lessons for children in the quieter part of the valley",
+   "de": "Skikurse für Kinder im ruhigeren Teil des Tals"
+  },
+  "intro": {
+   "nl": "Auffach ligt aan het eind van het Wildschönau-dal en is de uitvalsbasis voor de Schatzberg. Bij het middenstation van de Schatzbergbahn ligt het Zwergenland, het kinderskigebiedje van de Happy Skischule Wildschönau. Kinderen vanaf 4 jaar leren hier spelenderwijs skiën, met twee tapijtliften, een carrousel en modern lesmateriaal.\n\nDe skischool biedt groepscursussen voor beginners en gevorderden van ca. 5 tot 13 jaar, op ski's of snowboard, en privélessen. Aan het eind van een cursus is er een kinderwedstrijd waarbij elk kind een medaille krijgt. Verzamelen doe je bij het Zwergenland, ongeveer een kwartier voor aanvang. Vraag vooraf naar taal en tarieven.",
+   "en": "Auffach lies at the head of the Wildschönau valley and is the base for the Schatzberg. At the middle station of the Schatzbergbahn is the Zwergenland, the children's learning area of the Happy Skischule Wildschönau. Children from 4 years learn to ski playfully here, with two conveyor lifts, a carousel and modern teaching aids.\n\nThe ski school offers group courses for beginners and more advanced children of about 5 to 13, on skis or snowboard, as well as private lessons. At the end of a course there is a children's race where every child gets a medal. You meet at the Zwergenland about a quarter of an hour before the start. Ask beforehand about language and rates.",
+   "de": "Auffach liegt am Ende des Wildschönauer Tals und ist Ausgangspunkt für den Schatzberg. An der Mittelstation der Schatzbergbahn befindet sich das Zwergenland, das Kinderland der Happy Skischule Wildschönau. Kinder ab 4 Jahren lernen hier spielerisch Skifahren, mit zwei Förderbändern, einem Karussell und modernen Lernhilfen.\n\nDie Skischule bietet Gruppenkurse für Anfänger und Fortgeschrittene von ca. 5 bis 13 Jahren, auf Ski oder Snowboard, sowie Privatstunden an. Am Kursende gibt es ein Kinderrennen, bei dem jedes Kind eine Medaille bekommt. Treffpunkt ist das Zwergenland, etwa eine Viertelstunde vor Beginn. Fragen Sie vorab nach Sprache und Preisen."
+  },
+  "tips": {
+   "nl": [
+    "Overweeg een privéles op de eerste dag.",
+    "Vraag naar de lestaal en Nederlandstalige instructeurs.",
+    "Wees ruim op tijd bij het Zwergenland."
+   ],
+   "en": [
+    "Consider a private lesson on the first day.",
+    "Ask about the teaching language and Dutch-speaking instructors.",
+    "Be at the Zwergenland in good time."
+   ],
+   "de": [
+    "Am ersten Tag eine Privatstunde erwägen.",
+    "Nach der Kurssprache und niederländischsprachigen Lehrern fragen.",
+    "Rechtzeitig am Zwergenland sein."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 15 minuten van Niederau. Het Zwergenland ligt bij het middenstation van de Schatzbergbahn, dus je neemt eerst de gondel. Controleer de skibusdienstregeling en de actuele cursusdata.",
+   "en": "Auffach is about 15 minutes from Niederau. The Zwergenland is at the middle station of the Schatzbergbahn, so you first take the gondola. Check the ski bus timetable and current course dates.",
+   "de": "Auffach liegt ca. 15 Minuten von Niederau entfernt. Das Zwergenland befindet sich an der Mittelstation der Schatzbergbahn, Sie fahren also zuerst mit der Gondel. Skibus-Fahrplan und aktuelle Kurstermine prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 4 jaar (cursussen ca. 5 tot 13 jaar)",
+    "en": "From approx. 4 years (courses approx. 5 to 13)",
+    "de": "Ab ca. 4 Jahren (Kurse ca. 5 bis 13 Jahre)"
+   },
+   "duration": {
+    "nl": "Per cursus; informeer vooraf",
+    "en": "Per course; ask in advance",
+    "de": "Je nach Kurs; vorab erfragen"
+   },
+   "price": {
+    "nl": "Tarief wisselt; informeer vooraf",
+    "en": "Rates vary; ask in advance",
+    "de": "Preise variieren; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 15 min rijden",
+    "en": "About 15 min by car",
+    "de": "Ca. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Zwergenland, middenstation Schatzbergbahn, Auffach",
+   "en": "Zwergenland, Schatzbergbahn middle station, Auffach",
+   "de": "Zwergenland, Mittelstation Schatzbergbahn, Auffach"
+  },
+  "url": "https://www.skijuwel.com/en/info-service/ski-juwel-a-z/Happy-Skischule-Wildschonau_isd_89935",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een kinderland bij de Schatzberg?",
+     "en": "Is there a children's area at the Schatzberg?",
+     "de": "Gibt es ein Kinderland am Schatzberg?"
+    },
+    "a": {
+     "nl": "Ja, het Zwergenland bij het middenstation van de Schatzbergbahn, voor kinderen vanaf ca. 4 jaar.",
+     "en": "Yes, the Zwergenland at the middle station of the Schatzbergbahn, for children from about 4.",
+     "de": "Ja, das Zwergenland an der Mittelstation der Schatzbergbahn, für Kinder ab ca. 4 Jahren."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "skieen",
+  "season": "winter",
+  "slug_nl": "kinderskischool-auffach",
+  "_words": 174
+ },
+ {
+  "id": "s202",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "salvenaland-hopfgarten",
+  "slug_de": "salvenaland-hopfgarten",
+  "title": {
+   "nl": "Salvenaland Hopfgarten",
+   "en": "Salvenaland Hopfgarten",
+   "de": "Salvenaland Hopfgarten"
+  },
+  "tagline": {
+   "nl": "Speelpark met zwemmeer in het Brixental",
+   "en": "Leisure park with a bathing lake in the Brixental",
+   "de": "Freizeitpark mit Badesee im Brixental"
+  },
+  "intro": {
+   "nl": "Salvenaland is een recreatiepark met zwemmeer in Hopfgarten im Brixental, populair bij gezinnen en tieners. In het meer ligt een opblaasbare ijsberg voor oudere kinderen, en voor de jongsten is er een kinderbad met waterspeelplek. Wie het meerwater te fris vindt, kan terecht in een verwarmd zwembad.\n\nOp het terrein vind je een 18-holes minigolfbaan, minikarts, een zomerrodelbaan, een springkussen en velden voor volleybal, basketbal en voetbal. Aan het meer staat een restaurant met terras. Het park is in de zomer geopend, in 2026 vanaf 1 mei doorgaans dagelijks overdag; controleer vooraf de actuele tijden.",
+   "en": "Salvenaland is a leisure park with a bathing lake in Hopfgarten im Brixental, popular with families and teenagers. The lake has an inflatable iceberg for older children, and the youngest have a paddling pool with a water play area. Anyone who finds the lake water too chilly can use a heated pool.\n\nThe grounds hold an 18-hole mini-golf course, mini-karts, a summer toboggan run, a bouncy cushion and courts for volleyball, basketball and football. A restaurant with a terrace stands by the lake. The park is open in summer, in 2026 generally daily during the day from 1 May; check current times beforehand.",
+   "de": "Das Salvenaland ist ein Freizeitpark mit Badesee in Hopfgarten im Brixental, beliebt bei Familien und Jugendlichen. Im See liegt ein aufblasbarer Eisberg für ältere Kinder, für die Kleinsten gibt es ein Kinderbecken mit Wasserspielbereich. Wem das Seewasser zu kühl ist, kann in ein beheiztes Becken ausweichen.\n\nAuf dem Gelände findest du eine 18-Loch-Minigolfanlage, Minikarts, eine Sommerrodelbahn, ein Hüpfkissen sowie Plätze für Volleyball, Basketball und Fußball. Am See steht ein Restaurant mit Terrasse. Der Park ist im Sommer geöffnet, 2026 ab 1. Mai in der Regel täglich tagsüber; aktuelle Zeiten vorab prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Neem zwemkleding en een handdoek mee voor het meer.",
+    "Kies een warme dag; het meer is dan het leukst.",
+    "Controleer de leeftijdsgrenzen bij de kart- en rodelbaan.",
+    "Reken op een halve tot hele dag."
+   ],
+   "en": [
+    "Bring swimwear and a towel for the lake.",
+    "Pick a warm day; the lake is most fun then.",
+    "Check age limits for the kart and toboggan tracks.",
+    "Plan on half a day to a full day."
+   ],
+   "de": [
+    "Badesachen und Handtuch für den See mitbringen.",
+    "Einen warmen Tag wählen; dann macht der See am meisten Spaß.",
+    "Altersgrenzen für Kart- und Rodelbahn prüfen.",
+    "Einen halben bis ganzen Tag einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Hopfgarten in ca. 25 minuten rijden. Je kunt ook fietsen of wandelen langs de panoramaroute. Informeer vooraf naar tarieven en openingstijden.",
+   "en": "From Niederau, Hopfgarten is about 25 minutes by car. You can also cycle or walk along the panorama route. Check prices and opening times beforehand.",
+   "de": "Von Niederau sind es ca. 25 Minuten Fahrt nach Hopfgarten. Auch mit dem Rad oder zu Fuß über die Panoramaroute erreichbar. Preise und Öffnungszeiten vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinnen met kinderen en tieners",
+    "en": "Families with children and teens",
+    "de": "Familien mit Kindern und Jugendlichen"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min by car",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot en met augustus)",
+    "en": "Summer (roughly May to August)",
+    "de": "Sommer (ca. Mai bis August)"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij Salvenaland zwemmen?",
+     "en": "Can you swim at Salvenaland?",
+     "de": "Kann man im Salvenaland baden?"
+    },
+    "a": {
+     "nl": "Ja, er is een zwemmeer met een opblaasbare ijsberg en een kinderbad, plus een verwarmd zwembad.",
+     "en": "Yes, there is a bathing lake with an inflatable iceberg and a paddling pool, plus a heated pool.",
+     "de": "Ja, es gibt einen Badesee mit aufblasbarem Eisberg und Kinderbecken sowie ein beheiztes Becken."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "attracties",
+  "season": "summer",
+  "slug_nl": "freizeitpark-hopfgarten-brixentaler-kinderland",
+  "_words": 175
+ },
+ {
+  "id": "s257",
+  "drop": false,
+  "drop_reason": "",
+  "place": "rattenberg",
+  "slug_en": "glass-shops-rattenberg",
+  "slug_de": "glaswerkstaetten-rattenberg",
+  "title": {
+   "nl": "Glas in Rattenberg",
+   "en": "Glass in Rattenberg",
+   "de": "Glas in Rattenberg"
+  },
+  "tagline": {
+   "nl": "Glasblazers, ateliers en winkels in de glasstad van Tirol",
+   "en": "Glassblowers, studios and shops in Tyrol's glass town",
+   "de": "Glasbläser, Werkstätten und Läden in der Glasstadt Tirols"
+  },
+  "intro": {
+   "nl": "Rattenberg in het Alpbachtal staat bekend als glasstad. In de smalle straten van het middeleeuwse stadje liggen winkels en ateliers met glaswerk, van drinkglazen en sieraden tot kunstvoorwerpen. Bij Kisslinger Kristall-Glas staat een glasoven en wordt ter plekke glas geblazen; bezoekers kunnen er zien hoe glasblazers en graveurs werken.\n\nIn de zomermaanden kun je op bepaalde middagen onder begeleiding zelf een glazen bol blazen en meenemen. Controleer vooraf de actuele dagen en openingstijden. Rondkijken is een rustig uitstapje voor een halve dag; het glas is breekbaar, dus houd kleine kinderen dicht bij u.",
+   "en": "Rattenberg in the Alpbachtal is known as a glass town. The lanes of the medieval little town hold shops and studios selling glassware, from drinking glasses and jewellery to art pieces. At Kisslinger Kristall-Glas there is a glass furnace and glass is blown on the spot, so visitors can watch glassblowers and engravers at work.\n\nIn the summer months you can blow your own glass sphere under guidance on certain afternoons and take it home. Check current days and opening hours beforehand. It makes a relaxed half-day outing; glass is fragile, so keep small children close.",
+   "de": "Rattenberg im Alpbachtal ist als Glasstadt bekannt. In den Gassen des mittelalterlichen Städtchens gibt es Läden und Werkstätten mit Glaswaren, von Trinkgläsern und Schmuck bis zu Kunstobjekten. Bei Kisslinger Kristall-Glas steht ein Glasofen und es wird vor Ort Glas geblasen, sodass man Glasbläsern und Graveuren bei der Arbeit zusehen kann.\n\nIn den Sommermonaten kann man an bestimmten Nachmittagen unter Anleitung eine eigene Glaskugel blasen und mitnehmen. Aktuelle Tage und Öffnungszeiten vorab prüfen. Es ist ein entspannter Halbtagesausflug; Glas ist zerbrechlich, halten Sie kleine Kinder daher in Ihrer Nähe."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf naar de dagen van het zelf glasblazen.",
+    "Houd jonge kinderen dicht bij u in de winkels.",
+    "Combineer met een wandeling door de autovrije oude stad.",
+    "Pak breekbare aankopen goed in voor de terugreis."
+   ],
+   "en": [
+    "Ask beforehand which days guest glassblowing takes place.",
+    "Keep young children close in the shops.",
+    "Combine with a stroll through the car-free old town.",
+    "Pack fragile purchases well for the return trip."
+   ],
+   "de": [
+    "Vorab nach den Tagen für das Mitblasen fragen.",
+    "Halten Sie kleine Kinder in den Läden nah bei sich.",
+    "Verbinden Sie den Besuch mit einem Bummel durch die autofreie Altstadt.",
+    "Verpacken Sie zerbrechliche Einkäufe gut für die Heimreise."
+   ]
+  },
+  "practical": {
+   "nl": "Rattenberg ligt ca. 30 minuten rijden van Niederau via Wörgl en de A12. Parkeer buiten de autovrije oude stad en loop naar het centrum.",
+   "en": "Rattenberg is about 30 minutes by car from Niederau via Wörgl and the A12. Park outside the car-free old town and walk in.",
+   "de": "Rattenberg liegt etwa 30 Autominuten von Niederau entfernt über Wörgl und die A12. Parken Sie außerhalb der autofreien Altstadt und gehen Sie zu Fuß hinein."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "Approx. 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Rondkijken is meestal gratis; zelf blazen kost extra",
+    "en": "Browsing is usually free; blowing your own costs extra",
+    "de": "Stöbern meist kostenlos; Mitblasen kostet extra"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar; zelf blazen alleen in de zomer",
+    "en": "All year; guest glassblowing in summer only",
+    "de": "Ganzjährig; Mitblasen nur im Sommer"
+   }
+  },
+  "location": {
+   "nl": "Rattenberg, Alpbachtal",
+   "en": "Rattenberg, Alpbachtal",
+   "de": "Rattenberg, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kan ik zelf glas blazen?",
+     "en": "Can I blow glass myself?",
+     "de": "Kann ich selbst Glas blasen?"
+    },
+    "a": {
+     "nl": "Bij Kisslinger Kristall-Glas kan dat in de zomer op bepaalde middagen; controleer vooraf de actuele dagen.",
+     "en": "At Kisslinger Kristall-Glas this is possible on certain afternoons in summer; check current days beforehand.",
+     "de": "Bei Kisslinger Kristall-Glas ist das im Sommer an bestimmten Nachmittagen möglich; aktuelle Tage vorab prüfen."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "slug_nl": "glasmuseum-rattenberg",
+  "_words": 175
+ },
+ {
+  "id": "s164",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "pillersee-walks-alpine-pastures",
+  "slug_de": "pillersee-wanderungen-almwiesen",
+  "title": {
+   "nl": "Wandelen bij de Pillersee",
+   "en": "Walking around the Pillersee",
+   "de": "Wandern am Pillersee"
+  },
+  "tagline": {
+   "nl": "Rustige routes in het Pillerseetal onder de Loferer Steinberge",
+   "en": "Quiet routes in the Pillerseetal below the Loferer Steinberge",
+   "de": "Ruhige Wege im Pillerseetal unter den Loferer Steinbergen"
+  },
+  "intro": {
+   "nl": "Het Pillerseetal ligt in de Kitzbüheler Alpen, tegen de grens met Salzburgerland, rond St. Ulrich am Pillersee, St. Jakob in Haus en Fieberbrunn. De Pillersee is een bergmeer van ruim anderhalve kilometer lang, met de kalkwanden van de Loferer Steinberge op de achtergrond.\n\nEen bekende, eenvoudige tocht is de Pillerseerunde van ca. 9 km (ca. 2,5 uur) rond het meer. Daarnaast kun je langere routes naar alpenweiden en almen lopen; de regio heeft in totaal ca. 400 km aan wandelroutes. Een wandelkaart en tips krijg je bij het toeristenbureau in het dal.",
+   "en": "The Pillerseetal lies in the Kitzbühel Alps, close to the Salzburg border, around St. Ulrich am Pillersee, St. Jakob in Haus and Fieberbrunn. The Pillersee is a mountain lake a little over 1.5 km long, with the limestone walls of the Loferer Steinberge as a backdrop.\n\nA well-known easy outing is the Pillerseerunde, a loop of about 9 km (roughly 2.5 hours) around the lake. Longer routes lead up to alpine pastures and alms; the region has around 400 km of walking routes in total. You can pick up a map and tips at the tourist office in the valley.",
+   "de": "Das Pillerseetal liegt in den Kitzbüheler Alpen nahe der Salzburger Grenze, rund um St. Ulrich am Pillersee, St. Jakob in Haus und Fieberbrunn. Der Pillersee ist ein Bergsee von gut 1,5 km Länge, vor der Kulisse der Loferer Steinberge.\n\nEine bekannte, einfache Tour ist die Pillerseerunde mit ca. 9 km (rund 2,5 Stunden) um den See. Längere Routen führen hinauf zu Almwiesen und Almen; insgesamt hat die Region rund 400 km Wanderwege. Karte und Tipps gibt es beim Tourismusbüro im Tal."
+  },
+  "tips": {
+   "nl": [
+    "Haal een wandelkaart bij het toeristenbureau voor de actuele routes.",
+    "Plan een stop bij het meer.",
+    "Draag goede schoenen als je naar de alpenweiden omhoog loopt.",
+    "Check het weer; in de bergen kan het snel omslaan."
+   ],
+   "en": [
+    "Pick up a walking map at the tourist office for current routes.",
+    "Plan a stop at the lake.",
+    "Wear good shoes if you climb up to the alpine pastures.",
+    "Check the weather; it can change quickly in the mountains."
+   ],
+   "de": [
+    "Hol dir im Tourismusbüro eine Wanderkarte für aktuelle Routen.",
+    "Plane einen Halt am See ein.",
+    "Trag gute Schuhe, wenn du zu den Almwiesen aufsteigst.",
+    "Prüfe das Wetter; in den Bergen kann es schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Het Pillerseetal ligt ca. 1 uur rijden van Niederau, via Wörgl, Kitzbühel en St. Johann. De routes starten meestal in of nabij de dorpen; parkeren is in de regel mogelijk.",
+   "en": "The Pillerseetal is about 1 hour by car from Niederau, via Wörgl, Kitzbühel and St. Johann. Routes mostly start in or near the villages; parking is generally available.",
+   "de": "Das Pillerseetal liegt ca. 1 Stunde Autofahrt von Niederau entfernt, über Wörgl, Kitzbühel und St. Johann. Die Routen starten meist in oder nahe den Orten; Parkplätze sind in der Regel vorhanden."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden (afhankelijk van de route)",
+    "en": "All ages (depending on the route)",
+    "de": "Für alle Altersgruppen (je nach Route)"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "About 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen is gratis",
+    "en": "Walking is free",
+    "de": "Wandern ist kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 1 u rijden",
+    "en": "About 1 h by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Pillerseetal, Tirol",
+   "en": "Pillerseetal, Tyrol",
+   "de": "Pillerseetal, Tirol"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/pillerseetal/sommer/wandertipps-st-ulrich-am-pillersee.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt de Pillersee?",
+     "en": "Where is the Pillersee?",
+     "de": "Wo liegt der Pillersee?"
+    },
+    "a": {
+     "nl": "In het Pillerseetal ten noordoosten van Kitzbühel, bij St. Ulrich am Pillersee.",
+     "en": "In the Pillerseetal north-east of Kitzbühel, near St. Ulrich am Pillersee.",
+     "de": "Im Pillerseetal nordöstlich von Kitzbühel, bei St. Ulrich am Pillersee."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "wandelen",
+  "season": "summer",
+  "slug_nl": "pillersee-wandelroutes-en-alpenweiden",
+  "_words": 175
+ },
+ {
+  "id": "s189",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kaltenbach",
+  "slug_en": "bike-park-hochzillertal-kaltenbach",
+  "slug_de": "bikepark-hochzillertal-kaltenbach",
+  "title": {
+   "nl": "Bike Park Hochzillertal (Kaltenbach)",
+   "en": "Bike Park Hochzillertal, Kaltenbach",
+   "de": "Bikepark Hochzillertal in Kaltenbach"
+  },
+  "tagline": {
+   "nl": "Mountainbiken in het Zillertal met trail, trialpark en pumptrack",
+   "en": "Mountain biking in the Zillertal with a trail, trial park and pump track",
+   "de": "Mountainbiken im Zillertal mit Trail, Trialpark und Pumptrack"
+  },
+  "intro": {
+   "nl": "In Kaltenbach, in het Zillertal, ligt de Bike Park Hochzillertal bij het dalstation van de bergbaan. Het park heeft een singletrail van ca. 0,9 km (middelmatig niveau), een trialpark en een pumptrack van ruim 100 meter. Het is een compacte plek om techniek te oefenen of een paar uur te fietsen.\n\nDe pumptrack ligt naast het sportwinkelpand bij het dalstation; de trail begint bij het klimpark in het dorp en loopt door het bos naar het dalstation. Het park is naar verluidt gratis toegankelijk en loopt ongeveer van juni tot oktober. Controleer vooraf de actuele situatie.",
+   "en": "In Kaltenbach, in the Zillertal, the Bike Park Hochzillertal sits by the valley station of the lift. It has a singletrail of about 0.9 km (medium difficulty), a trial park and a pump track of more than 100 metres. It is a compact spot to practise technique or ride for a few hours.\n\nThe pump track is next to the sports shop at the valley station; the trail starts at the high-rope park in the village and runs through forest down to the valley station. The park is reported to be free to use and runs roughly from June to October. Check the current situation before you go.",
+   "de": "In Kaltenbach im Zillertal liegt der Bikepark Hochzillertal an der Talstation der Bergbahn. Er hat einen Singletrail von ca. 0,9 km (mittlere Schwierigkeit), einen Trialpark und einen Pumptrack von mehr als 100 Metern. Ein kompakter Ort, um Technik zu üben oder ein paar Stunden zu fahren.\n\nDer Pumptrack liegt neben dem Sportgeschäft an der Talstation; der Trail beginnt am Hochseilgarten im Ort und führt durch den Wald hinunter zur Talstation. Die Nutzung soll kostenlos sein, die Saison dauert ungefähr von Juni bis Oktober. Prüfe vor der Fahrt die aktuelle Lage."
+  },
+  "tips": {
+   "nl": [
+    "Helm en bescherming zijn verstandig.",
+    "Begin op de pumptrack om het gevoel voor de fiets te krijgen voordat je de trail op gaat.",
+    "Controleer vooraf of het park open is."
+   ],
+   "en": [
+    "A helmet and protective gear are sensible.",
+    "Start on the pump track to get a feel for the bike before heading onto the trail.",
+    "Check beforehand that the park is open."
+   ],
+   "de": [
+    "Helm und Schutzausrüstung sind sinnvoll.",
+    "Beginne auf dem Pumptrack, um ein Gefühl für das Rad zu bekommen, bevor du auf den Trail fährst.",
+    "Prüfe vorab, ob der Park geöffnet ist."
+   ]
+  },
+  "practical": {
+   "nl": "Kaltenbach ligt ca. 45 minuten rijden van Niederau, in het Zillertal via Wörgl en de B169. Parkeren is in de buurt van het dorp en de dalstation mogelijk.",
+   "en": "Kaltenbach is about 45 minutes by car from Niederau, in the Zillertal via Wörgl and the B169. Parking is available near the village and the valley station.",
+   "de": "Kaltenbach liegt ca. 45 Autominuten von Niederau entfernt im Zillertal, über Wörgl und die B169. Parken ist in der Nähe des Ortes und der Talstation möglich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Afhankelijk van niveau; helm aanbevolen",
+    "en": "Depending on skill; helmet recommended",
+    "de": "Je nach Können; Helm empfohlen"
+   },
+   "duration": {
+    "nl": "Een paar uur",
+    "en": "A few hours",
+    "de": "Einige Stunden"
+   },
+   "price": {
+    "nl": "Naar verluidt gratis; informeer vooraf",
+    "en": "Reported to be free; check in advance",
+    "de": "Soll kostenlos sein; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "About 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kaltenbach, Zillertal",
+   "en": "Kaltenbach, Zillertal",
+   "de": "Kaltenbach, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er in de Bike Park Hochzillertal?",
+     "en": "What is there at the Bike Park Hochzillertal?",
+     "de": "Was gibt es im Bikepark Hochzillertal?"
+    },
+    "a": {
+     "nl": "Een singletrail, een trialpark en een pumptrack, bij het dalstation in Kaltenbach.",
+     "en": "A singletrail, a trial park and a pump track, by the valley station in Kaltenbach.",
+     "de": "Einen Singletrail, einen Trialpark und einen Pumptrack bei der Talstation in Kaltenbach."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "fietsen",
+  "season": "summer",
+  "slug_nl": "zillertaler-superskipass-zomerfietsen-hochzillertal",
+  "_words": 175
+ },
+ {
+  "id": "s213",
+  "drop": false,
+  "drop_reason": "",
+  "place": "thiersee",
+  "slug_en": "thiersee-lido",
+  "slug_de": "strandbad-thiersee",
+  "title": {
+   "nl": "Strandbad Thiersee",
+   "en": "Thiersee lido",
+   "de": "Strandbad Thiersee"
+  },
+  "tagline": {
+   "nl": "Zwemmen in een schoon meer bij Kufstein",
+   "en": "Swimming in a clean lake near Kufstein",
+   "de": "Baden in einem sauberen See bei Kufstein"
+  },
+  "intro": {
+   "nl": "Het Thiersee ligt in het Kufsteinerland en geldt als een van de schoonste meren van Tirol, met een gemiddelde watertemperatuur van rond 22 °C in de zomer. Het meer is ongeveer 25 hectare groot en tot circa 12 meter diep.\n\nAan het meer ligt een strandbad met ligweide, een duiktoren, een waterglijbaan-achtig springelement (aqua jump) en een beachvolleybalveld. Je kunt er ook roeiboten, waterfietsen en dolfijnboten huren. Het is rustiger dan de grotere meren in de buurt en daardoor geschikt voor gezinnen die een ontspannen dag aan het water zoeken. Rond het meer lopen wandelpaden.",
+   "en": "The Thiersee lies in the Kufsteinerland and is considered one of the cleanest lakes in Tyrol, with an average summer water temperature of around 22 °C. The lake covers about 25 hectares and is up to roughly 12 metres deep.\n\nOn the shore there is a lido with a sunbathing lawn, a diving tower, an aqua jump and a beach volleyball court. Rowing boats, pedal boats and dolphin-shaped boats can be rented. It is quieter than the larger lakes nearby, which makes it a good choice for families who want a relaxed day by the water. Walking paths run around the lake.",
+   "de": "Der Thiersee liegt im Kufsteinerland und gilt als einer der saubersten Seen Tirols, mit einer durchschnittlichen Wassertemperatur von etwa 22 °C im Sommer. Der See ist rund 25 Hektar groß und bis zu etwa 12 Meter tief.\n\nAm Ufer gibt es ein Strandbad mit Liegewiese, Sprungturm, Aqua Jump und Beachvolleyballplatz. Ruderboote, Tretboote und Delfinboote können gemietet werden. Der See ist ruhiger als die größeren Seen der Umgebung und eignet sich daher für Familien, die einen entspannten Tag am Wasser suchen. Rund um den See führen Spazierwege."
+  },
+  "tips": {
+   "nl": [
+    "Neem geld mee: voor de toegang wordt meestal een kleine bijdrage gevraagd.",
+    "Huur een roeiboot of waterfiets voor een rondje over het meer.",
+    "Kom doordeweeks of in de ochtend voor meer rust."
+   ],
+   "en": [
+    "Bring some cash: a small entry fee is usually charged.",
+    "Rent a rowing or pedal boat for a trip on the lake.",
+    "Come on a weekday or in the morning for more peace."
+   ],
+   "de": [
+    "Nehmen Sie etwas Geld mit: für den Eintritt wird meist ein kleiner Betrag verlangt.",
+    "Mieten Sie ein Ruder- oder Tretboot für eine Runde auf dem See.",
+    "Kommen Sie wochentags oder vormittags für mehr Ruhe."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 40 tot 45 minuten met de auto via Wörgl en Kufstein. Er is parkeergelegenheid in de buurt. Openingstijden en tarieven kunnen wisselen; informeer vooraf.",
+   "en": "From Niederau it is about 40 to 45 minutes by car via Wörgl and Kufstein. Parking is available nearby. Opening times and prices can change; check beforehand.",
+   "de": "Von Niederau fahren Sie etwa 40 bis 45 Minuten mit dem Auto über Wörgl und Kufstein. Parkmöglichkeiten gibt es in der Nähe. Öffnungszeiten und Preise können sich ändern; erkundigen Sie sich vorab."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Kleine entreeprijs; informeer vooraf",
+    "en": "Small entry fee; check beforehand",
+    "de": "Geringer Eintrittspreis; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 40 tot 45 min rijden",
+    "en": "Approx. 40 to 45 min by car",
+    "de": "Ca. 40 bis 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Thiersee, Kufsteinerland",
+   "en": "Thiersee, Kufsteinerland",
+   "de": "Thiersee, Kufsteinerland"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij het Thiersee boten huren?",
+     "en": "Can you rent boats at the Thiersee?",
+     "de": "Kann man am Thiersee Boote mieten?"
+    },
+    "a": {
+     "nl": "Ja, er zijn roeiboten, waterfietsen en dolfijnboten te huur tegen een kleine vergoeding.",
+     "en": "Yes, rowing boats, pedal boats and dolphin boats can be rented for a small fee.",
+     "de": "Ja, Ruderboote, Tretboote und Delfinboote können gegen eine kleine Gebühr gemietet werden."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "slug_nl": "naturbad-thiersee",
+  "_words": 175
+ },
+ {
+  "id": "s56",
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "hexenwasser-soell",
+  "slug_de": "hexenwasser-soell",
+  "title": {
+   "nl": "Hexenwasser Söll",
+   "en": "Hexenwasser Söll",
+   "de": "Hexenwasser Söll"
+  },
+  "tagline": {
+   "nl": "Waterspeelwereld met heksenthema op Hochsöll",
+   "en": "A witch-themed water adventure world on Hochsöll",
+   "de": "Wasser-Erlebniswelt mit Hexenthema auf der Hochsöll"
+  },
+  "intro": {
+   "nl": "Hexenwasser is een belevingswereld rond water op Hochsöll, boven Söll in het gebied Wilder Kaiser, op ongeveer 1.150 tot 1.350 meter hoogte. Je komt er met de gondelbahn vanuit Söll. Langs de wandelroute liggen waterspeelplekken en kleine verrassingen voor kinderen.\n\nTot de plekken horen het Huis van de Bijenkoningin, zoemende stenen, de Hexenbach met een heksenwasplaats en steenmolen, en de Simonalm, een boerderij van zo’n vierhonderd jaar oud waar alles om eieren draait. Er loopt ook Oostenrijks langste blotevoetenpad met meer dan zestig stations. Bij de Stöcklalm kun je rustig iets eten of drinken.",
+   "en": "Hexenwasser is a water-themed adventure world on Hochsöll, above Söll in the Wilder Kaiser area, at roughly 1,150 to 1,350 metres. You reach it by the gondola from Söll. Along the walking route are water play areas and small surprises for children.\n\nHighlights include the House of the Bee Queen, humming stones, the Hexenbach with a witches’ washing place and stone mill, and the Simonalm, a farmhouse some four hundred years old where everything revolves around eggs. The route also includes Austria’s longest barefoot trail with more than sixty stations. At the Stöcklalm you can stop for a bite or a drink.",
+   "de": "Das Hexenwasser ist eine Wasser-Erlebniswelt auf der Hochsöll, oberhalb von Söll im Gebiet Wilder Kaiser, auf etwa 1.150 bis 1.350 Metern. Erreichbar ist sie mit der Gondelbahn ab Söll. Entlang des Wanderwegs warten Wasserspielplätze und kleine Überraschungen für Kinder.\n\nDazu gehören das Haus der Bienenkönigin, summende Steine, der Hexenbach mit Hexenwaschplatz und Steinmühle sowie die Simonalm, ein rund vierhundert Jahre alter Bauernhof, auf dem sich alles um Eier dreht. Außerdem gibt es Österreichs längsten Barfußweg mit über sechzig Stationen. An der Stöcklalm kann man in Ruhe einkehren."
+  },
+  "tips": {
+   "nl": [
+    "Neem reservekleding mee; kinderen worden hier zeker nat.",
+    "Draag schoenen die makkelijk uit en aan gaan voor het blotevoetenpad.",
+    "Kijk bij de Simonalm naar het eierthema.",
+    "Plan een pauze bij de Stöcklalm."
+   ],
+   "en": [
+    "Pack spare clothes; children will certainly get wet here.",
+    "Wear shoes that come off and on easily for the barefoot trail.",
+    "Look in at the Simonalm for its egg theme.",
+    "Plan a break at the Stöcklalm."
+   ],
+   "de": [
+    "Wechselkleidung einpacken; Kinder werden hier garantiert nass.",
+    "Schuhe tragen, die sich leicht aus- und anziehen lassen, für den Barfußweg.",
+    "An der Simonalm das Eier-Thema anschauen.",
+    "Eine Pause an der Stöcklalm einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Söll in ca. 35 minuten rijden. Parkeer bij het dalstation van de gondelbahn en rijd omhoog naar het Hexenwasser. Informeer vooraf naar openingstijden en prijzen.",
+   "en": "From Niederau, Söll is about 35 minutes by car. Park at the valley station of the gondola and ride up to the Hexenwasser. Check opening times and prices beforehand.",
+   "de": "Von Niederau sind es ca. 35 Minuten Fahrt nach Söll. An der Talstation der Gondelbahn parken und zum Hexenwasser hinauffahren. Öffnungszeiten und Preise vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinnen met kinderen",
+    "en": "Families with children",
+    "de": "Familien mit Kindern"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Gondel; prijs wisselt, informeer vooraf",
+    "en": "Gondola fare; prices vary, check beforehand",
+    "de": "Gondel; Preise wechseln, vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "Approx. 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hochsöll, Söll (Wilder Kaiser)",
+   "en": "Hochsöll, Söll (Wilder Kaiser)",
+   "de": "Hochsöll, Söll (Wilder Kaiser)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe kom je bij het Hexenwasser?",
+     "en": "How do you get to the Hexenwasser?",
+     "de": "Wie kommt man zum Hexenwasser?"
+    },
+    "a": {
+     "nl": "Met de gondelbahn vanuit Söll; boven volg je de route langs de waterspeelplekken.",
+     "en": "By the gondola from Söll; up top you follow the route past the water play areas.",
+     "de": "Mit der Gondelbahn ab Söll; oben folgt man dem Weg zu den Wasserspielplätzen."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "attracties",
+  "season": "summer",
+  "slug_nl": "hexenwasser-soll-wilder-kaiser",
+  "_words": 176
+ },
+ {
+  "id": "s237",
+  "drop": false,
+  "drop_reason": "",
+  "place": "telfs",
+  "slug_en": "tyrolean-folk-theatre-telfs",
+  "slug_de": "tiroler-volksschauspiele-telfs",
+  "title": {
+   "nl": "Tiroler Volksschauspiele Telfs",
+   "en": "Tyrolean Folk Theatre Festival, Telfs",
+   "de": "Tiroler Volksschauspiele Telfs"
+  },
+  "tagline": {
+   "nl": "Zomers volkstheaterfestival in Telfs, in het Duits",
+   "en": "Summer folk theatre festival in Telfs, performed in German",
+   "de": "Sommerliches Volkstheaterfestival in Telfs"
+  },
+  "intro": {
+   "nl": "De Tiroler Volksschauspiele zijn een theaterfestival dat elke zomer in Telfs plaatsvindt, in het Inntal ten westen van Innsbruck. Het festival werd in 1981 opgericht en richt zich op volkstheater, met een mix van beroepsacteurs en amateurs uit de streek en bijzondere speelplekken.\n\nSinds 2023 is de Birkenberg een speelplek, met een foyer bij de Mariahilfkapel. In totaal zijn er per jaar zo'n 60 voorstellingen. Voor Nederlandstalige gezinnen is de taal een drempel: er wordt in het Duits gespeeld, soms met dialect. Het past dus vooral bij tieners en volwassenen met enige kennis van Duits.",
+   "en": "The Tyrolean Folk Theatre Festival takes place every summer in Telfs, in the Inn Valley west of Innsbruck. It was founded in 1981 and focuses on folk theatre, mixing professional actors with local amateurs and using special venues.\n\nSince 2023 the Birkenberg has been a venue, with a foyer by the Mariahilf Chapel. There are around 60 performances in total each year. For English or Dutch-speaking families language is a hurdle: plays are in German, sometimes in dialect. It suits teenagers and adults with some knowledge of German best.",
+   "de": "Die Tiroler Volksschauspiele finden jeden Sommer in Telfs statt, im Inntal westlich von Innsbruck. Das Festival wurde 1981 gegründet und widmet sich dem Volkstheater, mit einer Mischung aus Berufsschauspielern und Laien aus der Region und besonderen Spielorten.\n\nSeit 2023 ist der Birkenberg ein Spielort, mit einem Foyer an der Mariahilfkapelle. Insgesamt gibt es pro Jahr rund 60 Vorstellungen. Für niederländisch- oder englischsprachige Familien ist die Sprache eine Hürde: Es wird auf Deutsch gespielt, teils im Dialekt. Am besten eignet es sich für Jugendliche und Erwachsene mit Deutschkenntnissen."
+  },
+  "tips": {
+   "nl": [
+    "Controleer het programma; titels en speelplekken wisselen per jaar.",
+    "Neem warme kleding mee; avonden in openlucht kunnen koel zijn.",
+    "Reserveer kaarten vooraf, vooral voor premières.",
+    "Plan de terugrit; Telfs ligt ruim een uur van Niederau."
+   ],
+   "en": [
+    "Check the programme; titles and venues change each year.",
+    "Bring warm clothes; outdoor evenings can get cool.",
+    "Book tickets in advance, especially for premieres.",
+    "Plan the drive back; Telfs is over an hour from Niederau."
+   ],
+   "de": [
+    "Prüfen Sie das Programm; Stücke und Spielorte wechseln jedes Jahr.",
+    "Nehmen Sie warme Kleidung mit; Abende im Freien können kühl werden.",
+    "Reservieren Sie Karten vorab, besonders für Premieren.",
+    "Planen Sie die Rückfahrt ein; Telfs liegt gut eine Stunde von Niederau entfernt."
+   ]
+  },
+  "practical": {
+   "nl": "Telfs ligt in het Inntal ten westen van Innsbruck, ca. 1 uur en 15 minuten rijden vanaf Niederau via de A12. Controleer per voorstelling de speelplek en parkeermogelijkheden.",
+   "en": "Telfs lies in the Inn Valley west of Innsbruck, about 1 hour 15 minutes by car from Niederau via the A12. Check the venue and parking for each performance.",
+   "de": "Telfs liegt im Inntal westlich von Innsbruck, etwa 1 Stunde 15 Minuten Autofahrt von Niederau entfernt über die A12. Prüfen Sie je Aufführung den Spielort und die Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vooral vanaf ca. 12 jaar",
+    "en": "Mainly from approx. 12 years",
+    "de": "Vor allem ab ca. 12 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur per voorstelling",
+    "en": "Approx. 2 to 3 hours per performance",
+    "de": "Ca. 2 bis 3 Stunden pro Aufführung"
+   },
+   "price": {
+    "nl": "Kaartprijzen wisselen per stuk; zie de officiële website",
+    "en": "Ticket prices vary by show; see the official website",
+    "de": "Kartenpreise je nach Stück; siehe offizielle Website"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 15 min rijden",
+    "en": "Approx. 1 hour 15 min by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Telfs, Inntal",
+   "en": "Telfs, Inn Valley",
+   "de": "Telfs, Inntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "In welke taal zijn de voorstellingen?",
+     "en": "In what language are the performances?",
+     "de": "In welcher Sprache sind die Aufführungen?"
+    },
+    "a": {
+     "nl": "In het Duits, soms met dialect; er zijn doorgaans geen vertalingen.",
+     "en": "In German, sometimes with dialect; translations are generally not provided.",
+     "de": "Auf Deutsch, teils im Dialekt; Übersetzungen werden in der Regel nicht angeboten."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "slug_nl": "tiroler-volksschauspiele-telfs",
+  "_words": 176
+ },
+ {
+  "id": "s192",
+  "drop": false,
+  "drop_reason": "",
+  "place": "walchsee",
+  "slug_en": "trampoline-park-zahmer-kaiser-walchsee",
+  "slug_de": "trampolinpark-zahmer-kaiser-walchsee",
+  "title": {
+   "nl": "Trampolinpark Zahmer Kaiser Walchsee",
+   "en": "Zahmer Kaiser trampoline park, Walchsee",
+   "de": "Trampolinpark Zahmer Kaiser Walchsee"
+  },
+  "tagline": {
+   "nl": "Trampolines, airbag-springen en minikarts in het Kaiserwinkl",
+   "en": "Trampolines, airbag jumping and mini-karts in the Kaiserwinkl",
+   "de": "Trampoline, Bagjump und Minikart im Kaiserwinkl"
+  },
+  "intro": {
+   "nl": "Het Trampolinpark maakt deel uit van het Freizeitpark Zahmer Kaiser in Walchsee, in het Kaiserwinkl. In de overdekte hal van ongeveer 2.000 m² is er een vrije springzone, een Bagjump-airbag voor stoere sprongen, een freestylegedeelte, wallrunning en een Ninja Warrior-parcours.\n\nDe allerkleinsten kunnen terecht op een eigen kinderspeelplaats, en er is een minikartbaan die zich de langste van West-Oostenrijk noemt. Doordat alles binnen is, werkt het park ook goed op een regenachtige dag. Het is vooral leuk voor kinderen en tieners met veel energie. Openingstijden en prijzen wisselen; kijk vooraf even op de website van het park.",
+   "en": "The trampoline park is part of the Freizeitpark Zahmer Kaiser in Walchsee, in the Kaiserwinkl. The indoor hall of about 2,000 m² has a free-jump zone, a Bagjump airbag for bold leaps, a freestyle area, wall running and a Ninja Warrior course.\n\nThe youngest have their own kids’ playground, and there is a mini-kart track that bills itself as the longest in western Austria. Because everything is indoors, the park also works well on a rainy day. It is mostly fun for energetic children and teens. Opening hours and prices vary, so check the park’s website beforehand.",
+   "de": "Der Trampolinpark gehört zum Freizeitpark Zahmer Kaiser in Walchsee im Kaiserwinkl. In der Halle von rund 2.000 m² gibt es eine Freejump-Zone, einen Bagjump für mutige Sprünge, einen Freestyle-Bereich, Wallrunning und einen Ninja-Warrior-Parcours.\n\nDie Kleinsten haben einen eigenen Kinderspielbereich, dazu gibt es eine Minikartbahn, die sich als längste Westösterreichs bezeichnet. Da alles in der Halle liegt, eignet sich der Park auch für einen Regentag. Er macht vor allem energiegeladenen Kindern und Teenagern Spaß. Öffnungszeiten und Preise wechseln; vorab die Website des Parks prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Draag sportieve kleding en schone sokken voor de trampolines.",
+    "Controleer vooraf de openingstijden; die verschillen per weekdag.",
+    "Handig als regendag-alternatief, want het is een overdekte hal.",
+    "Neem iets te drinken mee; springen maakt dorstig."
+   ],
+   "en": [
+    "Wear sports clothes and clean socks for the trampolines.",
+    "Check opening times beforehand; they differ by weekday.",
+    "A handy rainy-day option, as it is an indoor hall.",
+    "Bring something to drink; jumping is thirsty work."
+   ],
+   "de": [
+    "Sportliche Kleidung und saubere Socken für die Trampoline anziehen.",
+    "Öffnungszeiten vorab prüfen; sie unterscheiden sich je nach Wochentag.",
+    "Praktische Regentag-Alternative, denn es ist eine Halle.",
+    "Etwas zu trinken mitnehmen; Springen macht durstig."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Walchsee in ca. 45 minuten te bereiken, via Wörgl en Kufstein. Informeer vooraf naar openingstijden en prijzen.",
+   "en": "From Niederau, Walchsee is about 45 minutes away, via Wörgl and Kufstein. Check opening times and prices beforehand.",
+   "de": "Von Niederau erreichst du Walchsee in ca. 45 Minuten, über Wörgl und Kufstein. Öffnungszeiten und Preise vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kinderen en tieners",
+    "en": "Children and teens",
+    "de": "Kinder und Jugendliche"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "Approx. 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Overdekt; ook bij slecht weer",
+    "en": "Indoors; also in bad weather",
+    "de": "Überdacht; auch bei Schlechtwetter"
+   }
+  },
+  "location": {
+   "nl": "Walchsee, Kaiserwinkl",
+   "en": "Walchsee, Kaiserwinkl",
+   "de": "Walchsee, Kaiserwinkl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat kun je doen in het Trampolinpark Zahmer Kaiser?",
+     "en": "What can you do at the Zahmer Kaiser trampoline park?",
+     "de": "Was kann man im Trampolinpark Zahmer Kaiser machen?"
+    },
+    "a": {
+     "nl": "Onder meer vrij springen, Bagjump, wallrunning, een Ninja Warrior-parcours en minikarten.",
+     "en": "Among other things free jumping, Bagjump, wall running, a Ninja Warrior course and mini-karting.",
+     "de": "Unter anderem Freejump, Bagjump, Wallrunning, ein Ninja-Warrior-Parcours und Minikart-Fahren."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "attracties",
+  "season": "summer",
+  "slug_nl": "erlebnispark-zahmer-kaiser-kossen",
+  "_words": 177
+ },
+ {
+  "id": "s30",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "auffach",
+  "slug_en": "schatzbergbahn-summer-auffach",
+  "slug_de": "schatzbergbahn-sommer-auffach",
+  "title": {
+   "nl": "Schatzbergbahn in de zomer",
+   "en": "Schatzberg cable car in summer",
+   "de": "Schatzbergbahn im Sommer"
+  },
+  "tagline": {
+   "nl": "Met de gondel van Auffach naar het wandelgebied",
+   "en": "Gondola from Auffach into the hiking area",
+   "de": "Mit der Gondel von Auffach ins Wandergebiet"
+  },
+  "intro": {
+   "nl": "De Schatzbergbahn vertrekt in Auffach en brengt je in ruim een kwartier omhoog; halverwege ligt het middenstation bij Berghaus Koglmoos. Het bergstation ligt op ruim 1.770 meter. Boven vind je een groot wandelgebied met bergrestaurants en hutten zoals de Schatzbergalm, en uitzicht richting toppen als de Gerngipfel en de Joelspitze.\n\nVoor gezinnen is het een praktische manier om hoog te komen zonder lange klim. Bij Koglmoos is een waterspeelplaats met een grote glijbaan en een trampoline, plus een geitenweide en konijnen. In 2026 loopt het zomerseizoen van 4 juni tot 4 oktober; controleer de dienstregeling en het weer vooraf.",
+   "en": "The Schatzbergbahn starts in Auffach and takes you up in a little over a quarter of an hour; halfway lies the middle station at Berghaus Koglmoos. The top station is at just over 1,770 metres. Up there is a large hiking area with mountain restaurants and huts such as the Schatzbergalm, and views towards peaks like the Gerngipfel and the Joelspitze.\n\nFor families it is a practical way to gain height without a long climb. At Koglmoos there is a water playground with a big slide and a trampoline, plus a goat enclosure and rabbits. In 2026 the summer season runs from 4 June to 4 October; check the timetable and the weather beforehand.",
+   "de": "Die Schatzbergbahn startet in Auffach und bringt Sie in gut einer Viertelstunde nach oben; auf halber Strecke liegt die Mittelstation beim Berghaus Koglmoos. Die Bergstation liegt auf gut 1.770 Metern. Oben erwartet Sie ein großes Wandergebiet mit Bergrestaurants und Almen wie der Schatzbergalm sowie Aussicht auf Gipfel wie Gerngipfel und Joelspitze.\n\nFür Familien ist das ein praktischer Weg, ohne langen Aufstieg Höhe zu gewinnen. Bei Koglmoos gibt es einen Wasserspielplatz mit großer Rutsche und Trampolin, dazu ein Ziegengehege und Kaninchen. 2026 dauert die Sommersaison vom 4. Juni bis 4. Oktober; prüfen Sie Fahrplan und Wetter vorab."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf de zomerdienstregeling en het weer.",
+    "Neem een warme laag mee; boven is het kouder dan in het dal.",
+    "Kinderen vinden de waterspeelplaats bij Koglmoos leuk.",
+    "Een rustpunt vind je bij de Schatzbergalm of bij Koglmoos."
+   ],
+   "en": [
+    "Check the summer timetable and the weather beforehand.",
+    "Take a warm layer; it is cooler at the top than in the valley.",
+    "Children enjoy the water playground at Koglmoos.",
+    "You can rest at the Schatzbergalm or at Koglmoos."
+   ],
+   "de": [
+    "Sommerfahrplan und Wetter vorab prüfen.",
+    "Eine warme Schicht mitnehmen; oben ist es kühler als im Tal.",
+    "Kinder mögen den Wasserspielplatz bei Koglmoos.",
+    "Rast ist auf der Schatzbergalm oder bei Koglmoos möglich."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 10 tot 15 minuten rijden van Niederau; het dalstation staat in het dorp. Prijzen en dienstregeling vind je bij Ski Juwel of Wildschönau Tourismus.",
+   "en": "Auffach is about 10 to 15 minutes by car from Niederau; the valley station is in the village. Prices and timetable are available from Ski Juwel or Wildschönau Tourism.",
+   "de": "Auffach liegt ca. 10 bis 15 Autominuten von Niederau entfernt; die Talstation befindet sich im Ort. Preise und Fahrzeiten gibt es bei Ski Juwel oder dem Tourismusverband Wildschönau."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2-3 uur inclusief wandeling",
+    "en": "About 2 to 3 hours including a walk",
+    "de": "Ca. 2 bis 3 Stunden inkl. Spaziergang"
+   },
+   "price": {
+    "nl": "Tarief wisselt; informeer vooraf",
+    "en": "Fares vary; ask in advance",
+    "de": "Tarife variieren; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10-15 min rijden",
+    "en": "About 10 to 15 minutes by car",
+    "de": "Ca. 10 bis 15 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (2026: 4 juni tot 4 oktober)",
+    "en": "Summer (2026: 4 June to 4 October)",
+    "de": "Sommer (2026: 4. Juni bis 4. Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Schatzberg",
+   "en": "Auffach, Schatzberg",
+   "de": "Auffach, Schatzberg"
+  },
+  "url": "https://www.wildschoenau.com/en/info-service/wildschoenau-a-z/Schatzbergbahn_isd_6852380",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog ligt het bergstation?",
+     "en": "How high is the top station?",
+     "de": "Wie hoch liegt die Bergstation?"
+    },
+    "a": {
+     "nl": "Het bergstation ligt op ruim 1.770 meter.",
+     "en": "The top station is at just over 1,770 metres.",
+     "de": "Die Bergstation liegt auf gut 1.770 Metern."
+    }
+   }
+  ],
+  "theme": "avontuur",
+  "season": "summer",
+  "slug_nl": "kabelbaan-schatzberg-panorama",
+  "_words": 177
+ },
+ {
+  "id": "s215",
+  "drop": false,
+  "drop_reason": "",
+  "place": "leutasch",
+  "slug_en": "gaistal-leutasch-walk",
+  "slug_de": "gaistal-leutasch-wanderung",
+  "title": {
+   "nl": "Gaistal bij Leutasch",
+   "en": "Gaistal near Leutasch",
+   "de": "Gaistal bei Leutasch"
+  },
+  "tagline": {
+   "nl": "Een rustig hoogdal met weiden en een heldere beek",
+   "en": "A quiet high valley with meadows and a clear stream",
+   "de": "Ein ruhiges Hochtal mit Almwiesen und klarem Bach"
+  },
+  "intro": {
+   "nl": "Het Gaistal ligt bij Leutasch op het Seefelder Plateau, aan de zuidkant van het Wettersteingebergte. Door het dal stroomt de Leutascher Ache. Het is een van de bekendste wandelgebieden van het plateau, met comfortabele paden naar meerdere almen, zoals de Gaistalalm, Hämmermoosalm en Tillfussalm.\n\nEen populaire gezinsroute is de rondwandeling langs drie almen vanaf parkeerplaats Salzbach: ca. 10 km, ca. 3 tot 3,5 uur en ca. 290 hoogtemeters. De afstanden zijn relatief kort en er is veel te zien, waardoor het dal goed bij kinderen past. Kaarten en tips krijg je bij het toeristenbureau van Leutasch.",
+   "en": "The Gaistal lies near Leutasch on the Seefeld plateau, on the south side of the Wetterstein range. The Leutascher Ache flows through the valley. It is one of the best-known hiking areas on the plateau, with comfortable paths to several alms such as the Gaistalalm, Hämmermoosalm and Tillfussalm.\n\nA popular family route is the three-alm loop from the Salzbach car park: about 10 km, 3 to 3.5 hours and about 290 metres of climbing. Distances are fairly short and there is plenty to see, which suits children well. Maps and tips are available from the Leutasch tourist office.",
+   "de": "Das Gaistal liegt bei Leutasch auf dem Seefelder Plateau, an der Südseite des Wettersteingebirges. Durch das Tal fließt die Leutascher Ache. Es ist eines der bekanntesten Wandergebiete des Plateaus, mit bequemen Wegen zu mehreren Almen wie Gaistalalm, Hämmermoosalm und Tillfussalm.\n\nEine beliebte Familienroute ist die 3-Almen-Runde ab dem Parkplatz Salzbach: ca. 10 km, 3 bis 3,5 Stunden und ca. 290 Höhenmeter. Die Strecken sind relativ kurz und es gibt viel zu sehen, was gut zu Kindern passt. Karten und Tipps gibt es beim Tourismusbüro Leutasch."
+  },
+  "tips": {
+   "nl": [
+    "Gebruik de brede paden ook voor een kinderwagen of fiets, controleer eerst het pad.",
+    "Neem een jas mee; in het dal kan het snel koeler zijn.",
+    "Plan een stop bij een Almhütte voor een pauze."
+   ],
+   "en": [
+    "The wide paths also suit prams and bikes, but check the path first.",
+    "Bring a jacket; it can get cooler in the valley.",
+    "Plan a stop at an Almhütte for a break."
+   ],
+   "de": [
+    "Die breiten Wege eignen sich auch für Kinderwagen und Rad, prüfe den Weg aber vorab.",
+    "Nimm eine Jacke mit; im Tal kann es schnell kühler werden.",
+    "Plane eine Einkehr in einer Almhütte als Pause ein."
+   ]
+  },
+  "practical": {
+   "nl": "Leutasch ligt ca. 1 uur en 20 minuten rijden van Niederau, via de A12 richting Telfs en dan naar Seefeld en Leutasch.",
+   "en": "Leutasch is about 1 hour 20 minutes by car from Niederau, via the A12 towards Telfs and then on to Seefeld and Leutasch.",
+   "de": "Leutasch liegt ca. 1 Std. 20 Min. Autofahrt von Niederau entfernt, über die A12 Richtung Telfs und weiter nach Seefeld und Leutasch."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 3 tot 3,5 uur (rondwandeling)",
+    "en": "About 3 to 3.5 hours (loop)",
+    "de": "Ca. 3 bis 3,5 Stunden (Runde)"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 20 rijden",
+    "en": "About 1 h 20 by car",
+    "de": "Ca. 1 Std. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Leutasch, Seefelder Plateau",
+   "en": "Leutasch, Seefeld plateau",
+   "de": "Leutasch, Seefelder Plateau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het Gaistal geschikt voor gezinnen?",
+     "en": "Is the Gaistal suitable for families?",
+     "de": "Ist das Gaistal für Familien geeignet?"
+    },
+    "a": {
+     "nl": "Ja, de paden zijn grotendeels breed en vlak, zodat je met kinderen makkelijk een stuk kunt lopen.",
+     "en": "Yes, the paths are mostly wide and flat, so you can easily walk a stretch with children.",
+     "de": "Ja, die Wege sind überwiegend breit und flach, sodass du mit Kindern gut ein Stück gehen kannst."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "wandelen",
+  "season": "summer",
+  "slug_nl": "gaistal-wandeling-bij-leutasch",
+  "_words": 177
+ },
+ {
+  "id": "s249",
+  "drop": false,
+  "drop_reason": "",
+  "place": "walchsee",
+  "slug_en": "water-skiing-walchsee",
+  "slug_de": "wasserski-walchsee",
+  "title": {
+   "nl": "Waterskiën en watersport op het Walchsee",
+   "en": "Water skiing and water sports on the Walchsee",
+   "de": "Wasserski und Wassersport am Walchsee"
+  },
+  "tagline": {
+   "nl": "Waterski, tubes en bootverhuur op een van de warmste meren van Tirol",
+   "en": "Water skiing, tubes and boat rental on one of Tyrol's warmest lakes",
+   "de": "Wasserski, Tubes und Bootsverleih an einem der wärmsten Seen Tirols"
+  },
+  "intro": {
+   "nl": "Het Walchsee in het Kaiserwinkl is het vierde meer van Tirol qua oppervlakte (ca. 95 hectare) en wordt in de zomer tot ongeveer 24 °C. Het is naar verluidt het enige meer in Tirol waar je achter een boot kunt waterskiën; die traditie gaat terug tot de jaren vijftig.\n\nHet watersportcentrum Karl²O biedt waterskiën, waterpret met tubes en wings, stand-uppaddleboarden, verhuur van elektrische boten en waterfietsen en vissen. Of wakeboarden mogelijk is, kun je het beste vooraf navragen. Voor kinderen en beginners is de minimumleeftijd per activiteit verschillend; vraag naar de voorwaarden en reserveer bij drukte vooraf.",
+   "en": "The Walchsee in the Kaiserwinkl is Tyrol's fourth-largest lake by area (about 95 hectares) and warms up to roughly 24 °C in summer. It is said to be the only lake in Tyrol where you can water ski behind a boat, a tradition dating back to the 1950s.\n\nThe Karl²O water sports centre offers water skiing, tube and wing rides, stand-up paddleboarding, rental of electric boats and pedal boats, and fishing. Ask beforehand whether wakeboarding is available. Minimum ages differ per activity, so ask about the conditions and book ahead when it is busy.",
+   "de": "Der Walchsee im Kaiserwinkl ist flächenmäßig der viertgrößte See Tirols (rund 95 Hektar) und erwärmt sich im Sommer auf etwa 24 °C. Er gilt als der einzige See Tirols, auf dem man hinter einem Boot Wasserski fahren kann; diese Tradition reicht bis in die 1950er-Jahre zurück.\n\nDas Wassersportzentrum Karl²O bietet Wasserski, Tubes und Wings, Stand-up-Paddling, Verleih von Elektro- und Tretbooten sowie Fischen an. Ob Wakeboarden möglich ist, erfragen Sie am besten vorab. Das Mindestalter unterscheidet sich je nach Aktivität; fragen Sie nach den Bedingungen und reservieren Sie bei Andrang im Voraus."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf naar leeftijdsgrenzen en beschikbaarheid per activiteit.",
+    "Gebruik zonnebrand: op open water is de zon sterk.",
+    "Het water is relatief warm, waardoor een val minder schrikt."
+   ],
+   "en": [
+    "Ask about age limits and availability per activity beforehand.",
+    "Use sunscreen: the sun is strong on open water.",
+    "The water is relatively warm, so a fall is less of a shock."
+   ],
+   "de": [
+    "Fragen Sie vorab nach Altersgrenzen und Verfügbarkeit je Aktivität.",
+    "Verwenden Sie Sonnencreme: Auf offenem Wasser ist die Sonne stark.",
+    "Das Wasser ist vergleichsweise warm, ein Sturz ist daher weniger unangenehm."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 45 minuten met de auto via Wörgl en Kufstein richting Walchsee. Prijzen en tijden wisselen per seizoen; informeer bij het watersportcentrum.",
+   "en": "From Niederau it is about 45 minutes by car via Wörgl and Kufstein towards Walchsee. Prices and times vary by season; ask the water sports centre.",
+   "de": "Von Niederau fahren Sie etwa 45 Minuten mit dem Auto über Wörgl und Kufstein Richtung Walchsee. Preise und Zeiten wechseln je nach Saison; fragen Sie beim Wassersportzentrum nach."
+  },
+  "facts": {
+   "age": {
+    "nl": "Afhankelijk van de activiteit; informeer vooraf",
+    "en": "Depends on the activity; check beforehand",
+    "de": "Je nach Aktivität; vorab erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "Approx. 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Walchsee, Kaiserwinkl",
+   "en": "Walchsee, Kaiserwinkl",
+   "de": "Walchsee, Kaiserwinkl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je op het Walchsee waterskiën?",
+     "en": "Can you water ski on the Walchsee?",
+     "de": "Kann man am Walchsee Wasserski fahren?"
+    },
+    "a": {
+     "nl": "Ja, het Walchsee staat bekend als het enige meer in Tirol waar je achter een boot kunt waterskiën; het watersportcentrum organiseert dat.",
+     "en": "Yes, the Walchsee is known as the only lake in Tyrol where you can water ski behind a boat; the water sports centre runs it.",
+     "de": "Ja, der Walchsee gilt als der einzige See Tirols, auf dem man hinter einem Boot Wasserski fahren kann; das Wassersportzentrum bietet es an."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "slug_nl": "wakeboarden-op-het-walchsee",
+  "_words": 177
+ },
+ {
+  "id": "s63",
+  "drop": false,
+  "drop_reason": "",
+  "place": "walchsee",
+  "slug_en": "walchsee-lake-beach",
+  "slug_de": "strandbad-walchsee",
+  "title": {
+   "nl": "Walchsee",
+   "en": "Walchsee",
+   "de": "Walchsee"
+  },
+  "tagline": {
+   "nl": "Een van de warmste zwemmeren van Tirol",
+   "en": "One of the warmest bathing lakes in Tyrol",
+   "de": "Einer der wärmsten Badeseen Tirols"
+  },
+  "intro": {
+   "nl": "Het Walchsee ligt in het Kaiserwinkl, tussen het Kaisergebergte en de Chiemgauer Alpen. Met ca. 95 tot 100 hectare is het groot, en het geldt als een van de warmste zwemmeren van Tirol; in de zomer wordt het water vaak 23 tot 25 graden, soms iets meer.\n\nHet water loopt op veel plekken ondiep af, wat het meer geschikt maakt voor gezinnen met kleine kinderen. Er zijn meerdere betaalde badplekken. Aan de oostoever liggen een strandbar, een beachvolleybalveld en een Aqua Funpark met onder meer klimwand, trampoline en glijbanen. Je kunt hier ook SUP-boards en boten huren, al verschilt het aanbod per aanbieder.",
+   "en": "The Walchsee lies in the Kaiserwinkl between the Kaiser Mountains and the Chiemgau Alps. At around 95 to 100 hectares it is sizeable, and it counts as one of the warmest bathing lakes in Tyrol; in summer the water often reaches 23 to 25 degrees, sometimes a little more.\n\nThe water is shallow at many entry points, which suits families with small children. There are several bathing areas that charge admission. On the east shore there are a beach bar, a beach volleyball court and an Aqua Funpark with, among other things, a climbing wall, trampoline and slides. SUP boards and boats can also be hired, although the offer varies by provider.",
+   "de": "Der Walchsee liegt im Kaiserwinkl zwischen Kaisergebirge und Chiemgauer Alpen. Mit rund 95 bis 100 Hektar ist er groß und gilt als einer der wärmsten Badeseen Tirols; im Sommer erreicht das Wasser oft 23 bis 25 Grad, teils etwas mehr.\n\nDer Einstieg ist an vielen Stellen flach, was den See für Familien mit kleinen Kindern geeignet macht. Es gibt mehrere kostenpflichtige Badeplätze. Am Ostufer finden sich eine Strandbar, ein Beachvolleyballfeld und ein Aqua Funpark mit unter anderem Kletterwand, Trampolin und Rutschen. SUP-Boards und Boote lassen sich ebenfalls mieten, das Angebot hängt jedoch vom Anbieter ab."
+  },
+  "tips": {
+   "nl": [
+    "Het water is warm genoeg voor ook de kleinsten, maar blijf altijd dichtbij.",
+    "Huur een SUP-board of boot voor een rondje over het meer.",
+    "Kom op een rustige doordeweekse dag voor de meeste ruimte."
+   ],
+   "en": [
+    "The water is warm enough even for little ones, but always stay close by.",
+    "Hire a SUP board or boat for a trip on the lake.",
+    "Come on a quiet weekday for the most space."
+   ],
+   "de": [
+    "Das Wasser ist auch für die Kleinsten warm genug, bleiben Sie aber immer in der Nähe.",
+    "Ein SUP-Board oder Boot für eine Runde auf dem See mieten.",
+    "An einem ruhigen Wochentag gibt es am meisten Platz."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 45 minuten rijden via Wörgl en Kufstein naar Walchsee.",
+   "en": "From Niederau it is about 45 minutes by car via Wörgl and Kufstein to Walchsee.",
+   "de": "Von Niederau sind es etwa 45 Minuten mit dem Auto über Wörgl und Kufstein nach Walchsee."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve of hele dag",
+    "en": "Half or full day",
+    "de": "Halber oder ganzer Tag"
+   },
+   "price": {
+    "nl": "Tarieven per strandbad wisselen; informeer vooraf",
+    "en": "Prices vary by lido; check beforehand",
+    "de": "Preise je nach Strandbad unterschiedlich; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "About 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Walchsee, Kaiserwinkl",
+   "en": "Walchsee, Kaiserwinkl",
+   "de": "Walchsee, Kaiserwinkl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe warm wordt het Walchsee?",
+     "en": "How warm does the Walchsee get?",
+     "de": "Wie warm wird der Walchsee?"
+    },
+    "a": {
+     "nl": "In de zomer meestal ca. 23 tot 25 graden, waarmee het een van de warmste meren van Tirol is.",
+     "en": "In summer usually about 23 to 25 degrees, making it one of the warmest lakes in Tyrol.",
+     "de": "Im Sommer meist ca. 23 bis 25 Grad, damit zählt er zu den wärmsten Seen Tirols."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "slug_nl": "walchsee-bergmeer",
+  "_words": 177
+ },
+ {
+  "id": "s174",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "st-johann-in-tirol",
+  "slug_en": "tennis-st-johann-in-tirol",
+  "slug_de": "tennis-st-johann-in-tirol",
+  "title": {
+   "nl": "Tennis in St. Johann in Tirol",
+   "en": "Tennis in St. Johann in Tirol",
+   "de": "Tennis in St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Tennissen met uitzicht op de bergen in het Leukental",
+   "en": "Tennis with mountain views in the Leukental",
+   "de": "Tennis mit Bergblick im Leukental"
+  },
+  "intro": {
+   "nl": "St. Johann in Tirol ligt in het Leukental en heeft tennisbanen met uitzicht op de omringende bergen. Ook kinderen en beginners kunnen er terecht, bijvoorbeeld met lessen. In de regio vind je doorgaans zowel buitenbanen als overdekte banen, wat handig is bij wisselend bergweer.\n\nVraag het toeristenbureau van St. Johann of het sportcentrum naar het actuele aanbod aan banen, tarieven en lessen, en reserveer een baan vooraf. Rackets en ballen kunnen meestal worden gehuurd, en voor jonge kinderen bestaat vaak een vorm van minitennis. Het past goed bij een sportieve ochtend tussen de wandeldagen in, en een terras bij de banen maakt er vaak een gezellige pauze van.",
+   "en": "St. Johann in Tirol lies in the Leukental valley and has tennis courts with views of the surrounding mountains. Children and beginners are welcome too, for instance with lessons. In the region you usually find both outdoor and indoor courts, which is handy when the mountain weather changes.\n\nAsk the St. Johann tourist office or the sports centre about the current courts, rates and lessons, and book a court in advance. Rackets and balls can usually be hired, and young children often have a form of mini tennis. It fits well with a sporty morning between hiking days, and a terrace near the courts often makes for a pleasant break.",
+   "de": "St. Johann in Tirol liegt im Leukental und hat Tennisplätze mit Blick auf die umliegenden Berge. Auch Kinder und Anfänger sind willkommen, zum Beispiel mit Stunden. In der Region gibt es in der Regel sowohl Außen- als auch Hallenplätze, was bei wechselhaftem Bergwetter praktisch ist.\n\nFragen Sie das Tourismusbüro St. Johann oder das Sportzentrum nach dem aktuellen Angebot an Plätzen, Preisen und Kursen und reservieren Sie vorab einen Platz. Schläger und Bälle lassen sich meist ausleihen, und für kleine Kinder gibt es oft eine Form von Minitennis. Es passt gut zu einem sportlichen Vormittag zwischen den Wandertagen, und eine Terrasse bei den Plätzen macht daraus oft eine gemütliche Pause."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een baan vooraf.",
+    "Vraag naar huur van rackets en ballen en naar minitennis voor jonge kinderen.",
+    "Plan bij wisselend weer een overdekte baan in."
+   ],
+   "en": [
+    "Book a court beforehand.",
+    "Ask about racket and ball hire and about mini tennis for young children.",
+    "Plan for an indoor court if the weather is changeable."
+   ],
+   "de": [
+    "Reserviere vorab einen Platz.",
+    "Frage nach Verleih von Schlägern und Bällen und nach Mini-Tennis für kleine Kinder.",
+    "Plane bei wechselhaftem Wetter einen Hallenplatz ein."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 35 minuten rijden naar St. Johann in Tirol. Vraag bij het toeristenbureau waar de banen liggen en hoe je reserveert.",
+   "en": "From Niederau it is about a 35-minute drive to St. Johann in Tirol. Ask the tourist office where the courts are and how to book.",
+   "de": "Von Niederau aus sind es ca. 35 Minuten Fahrt nach St. Johann in Tirol. Fragen Sie beim Tourismusbüro, wo die Plätze liegen und wie man reserviert."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Tarief per baan wisselt; informeer vooraf",
+    "en": "Court rates vary; check beforehand",
+    "de": "Platzpreise variieren; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (buiten); winter (overdekt)",
+    "en": "Summer (outdoor); winter (indoor)",
+    "de": "Sommer (draußen); Winter (Halle)"
+   }
+  },
+  "location": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn er lessen voor kinderen?",
+     "en": "Are there lessons for children?",
+     "de": "Gibt es Kurse für Kinder?"
+    },
+    "a": {
+     "nl": "Voor kinderen en beginners zijn er meestal lessen; vraag het sportcentrum naar de actuele mogelijkheden.",
+     "en": "Lessons for children and beginners are usually available; ask the sports centre about current options.",
+     "de": "Für Kinder und Anfänger gibt es meist Kurse; fragen Sie das Sportzentrum nach den aktuellen Möglichkeiten."
+    }
+   }
+  ],
+  "theme": "avontuur",
+  "season": "summer",
+  "slug_nl": "tennis-in-st-johann-in-tirol",
+  "_words": 178
+ },
+ {
+  "id": "s137",
+  "drop": false,
+  "drop_reason": "",
+  "place": "westendorf",
+  "slug_en": "sennerei-westendorf-dairy",
+  "slug_de": "sennerei-westendorf",
+  "title": {
+   "nl": "Sennerei Westendorf",
+   "en": "Sennerei Westendorf dairy",
+   "de": "Sennerei Westendorf"
+  },
+  "tagline": {
+   "nl": "Kaas en zuivel uit het Brixental, direct bij de maker",
+   "en": "Cheese and dairy from the Brixental, straight from the maker",
+   "de": "Käse und Milchprodukte aus dem Brixental, direkt vom Hersteller"
+  },
+  "intro": {
+   "nl": "De Sennerei Westendorf is een kleine, familiebedrijfachtige zuivelfabriek in het dorp. Er worden onder meer Tilsiter, Bergkäse, bierkaas en Brodakas gemaakt, daarnaast boter, yoghurt, room en kwark. De Brodakas is een zure-melkkaas en een specialiteit van het Brixental die volgens de toeristische informatie alleen hier verkrijgbaar is.\n\nIn de winkel koop je de eigen producten en daarnaast regionale artikelen zoals spek en worst, eieren, honing, jam, kruiden en thee. Het is een leuke stop als je lokale producten als souvenir wilt meenemen. Of er rondleidingen of proeverijen zijn, hangt van het moment af; vraag dat ter plaatse of via het toeristenbureau.",
+   "en": "The Sennerei Westendorf is a small, family-run dairy in the village. Among other things it makes Tilsiter, Bergkäse, beer cheese and Brodakas, as well as butter, yoghurt, cream and curd. Brodakas is a sour-milk cheese and a Brixental speciality that, according to tourist information, is only available here.\n\nThe shop sells the dairy's own products along with regional items such as bacon and sausages, eggs, honey, jam, spices and tea. It is a nice stop if you want to take local products home as souvenirs. Whether tours or tastings are on offer depends on the time; ask on site or via the tourist office.",
+   "de": "Die Sennerei Westendorf ist eine kleine, familiär geführte Käserei im Ort. Hergestellt werden unter anderem Tilsiter, Bergkäse, Bierkäse und Brodakas sowie Butter, Joghurt, Rahm und Topfen. Der Brodakas ist ein Sauermilchkäse und eine Brixentaler Spezialität, die laut Tourismusinformation nur hier erhältlich ist.\n\nIm Laden gibt es die eigenen Produkte sowie regionale Artikel wie Speck und Wurst, Eier, Honig, Marmelade, Gewürze und Tee. Es ist ein schöner Stopp, wenn du regionale Produkte als Souvenir mitnehmen möchtest. Ob Führungen oder Verkostungen angeboten werden, hängt vom Zeitpunkt ab; frag vor Ort oder beim Tourismusbüro."
+  },
+  "tips": {
+   "nl": [
+    "Kijk vooraf naar de openingstijden; de winkel is niet de hele dag open.",
+    "Probeer de Brodakas, een specialiteit van het Brixental.",
+    "Koop kaas als souvenir en houd hem onderweg koel.",
+    "Vraag ter plaatse of een rondleiding of proeverij mogelijk is."
+   ],
+   "en": [
+    "Check opening hours beforehand; the shop is not open all day.",
+    "Try the Brodakas, a Brixental speciality.",
+    "Buy cheese as a souvenir and keep it cool on the way.",
+    "Ask on site whether a tour or tasting is possible."
+   ],
+   "de": [
+    "Prüfe vorab die Öffnungszeiten; der Laden ist nicht ganztägig geöffnet.",
+    "Probiere den Brodakas, eine Brixentaler Spezialität.",
+    "Kaufe Käse als Souvenir und halte ihn unterwegs kühl.",
+    "Frag vor Ort, ob eine Führung oder Verkostung möglich ist."
+   ]
+  },
+  "practical": {
+   "nl": "De Sennerei ligt in Westendorf, ca. 30 minuten rijden van Niederau. Controleer de actuele openingstijden van de winkel.",
+   "en": "The Sennerei is in Westendorf, roughly 30 minutes by car from Niederau. Check the shop's current opening hours.",
+   "de": "Die Sennerei liegt in Westendorf, ca. 30 Fahrminuten von Niederau entfernt. Prüfe die aktuellen Öffnungszeiten des Ladens."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 30 tot 60 min.",
+    "en": "Approx. 30 to 60 min.",
+    "de": "Ca. 30 bis 60 Min."
+   },
+   "price": {
+    "nl": "Gratis te bezoeken; producten zijn te koop",
+    "en": "Free to visit; products are for sale",
+    "de": "Besuch kostenlos; Produkte sind käuflich"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Westendorf, Brixental",
+   "en": "Westendorf, Brixental",
+   "de": "Westendorf, Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat maakt de Sennerei Westendorf?",
+     "en": "What does the Sennerei Westendorf make?",
+     "de": "Was stellt die Sennerei Westendorf her?"
+    },
+    "a": {
+     "nl": "Onder meer Tilsiter, Bergkäse, bierkaas en Brodakas, plus boter, yoghurt, room en kwark.",
+     "en": "Among other things Tilsiter, Bergkäse, beer cheese and Brodakas, plus butter, yoghurt, cream and curd.",
+     "de": "Unter anderem Tilsiter, Bergkäse, Bierkäse und Brodakas sowie Butter, Joghurt, Rahm und Topfen."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "slug_nl": "kaastour-westendorf",
+  "_words": 178
+ }
+]
