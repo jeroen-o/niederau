@@ -1767,5 +1767,57 @@
    "skiën"
   ],
   false
+ ],
+ [
+  "niederau-herfst-kerk-twee-torens-blauwe-lucht",
+  [
+   "Kerk met een rood dak, een kleine uivormige toren en een tweede klokkentoren, boven een stenen muur onder een blauwe lucht met wolken",
+   "Church with a red roof, a small onion-shaped tower and a second clock tower, above a stone wall under a blue sky with clouds",
+   "Kirche mit rotem Dach, einem kleinen Zwiebelturm und einem zweiten Uhrturm über einer Steinmauer unter blauem Himmel mit Wolken"
+  ],
+  [],
+  false
+ ],
+ [
+  "niederau-zomer-rivier-tuber-kloof",
+  [
+   "Tuber in een rode helm op een zwarte binnenband in een bergrivier tussen steile, beboste oevers",
+   "Tuber in a red helmet on a black inner tube in a mountain river between steep, wooded banks",
+   "Tuber mit rotem Helm auf einem schwarzen Schlauch in einem Gebirgsfluss zwischen steilen, bewaldeten Ufern"
+  ],
+  [
+   "tubing",
+   "riviertuben",
+   "rivier",
+   "raften",
+   "wildwater"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-rivier-tubing-groep-oever",
+  [
+   "Groep in wetsuits, rode helmen en zwemvesten met zwarte binnenbanden aan de oever van een groene bergrivier, bij een rotswand",
+   "Group in wetsuits, red helmets and life vests with black inner tubes on the bank of a green mountain river, by a rock face",
+   "Gruppe in Neoprenanzügen, roten Helmen und Schwimmwesten mit schwarzen Schläuchen am Ufer eines grünen Gebirgsflusses vor einer Felswand"
+  ],
+  [
+   "tubing",
+   "riviertuben",
+   "rivier",
+   "raften",
+   "wildwater"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-heuvel-dorp-bewolkt",
+  [
+   "Groene heuvel met verspreide huizen en een bosrand onder wolken en een stukje blauwe lucht, met bomen op de voorgrond",
+   "Green hill with scattered houses and a forest edge under clouds and a patch of blue sky, with trees in the foreground",
+   "Grüner Hügel mit verstreuten Häusern und Waldrand unter Wolken und einem Stück blauem Himmel, mit Bäumen im Vordergrund"
+  ],
+  [],
+  false
  ]
 ]
