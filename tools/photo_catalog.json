@@ -1581,5 +1581,61 @@
    "rodelbaan"
   ],
   false
+ ],
+ [
+  "niederau-zomer-stoeltjeslift-meer-dal-uitzicht",
+  [
+   "Uitzicht vanuit een stoeltjeslift op een bergmeer, een dorp met kerk en bosrijke berghellingen in de zomer",
+   "View from a chairlift onto a mountain lake, a village with a church and wooded mountainsides in summer",
+   "Blick aus einem Sessellift auf einen Bergsee, ein Dorf mit Kirche und bewaldete Berghänge im Sommer"
+  ],
+  [],
+  false
+ ],
+ [
+  "niederau-zomer-golfer-swing-kasteel",
+  [
+   "Golfer in de uitzwaai van een slag op een heuvelachtige fairway, met een kasteelachtig gebouw tussen de bomen",
+   "Golfer in the follow-through of a shot on a hilly fairway, with a castle-like building among the trees",
+   "Golfer im Nachschwung eines Schlags auf einem hügeligen Fairway, mit einem schlossartigen Gebäude zwischen den Bäumen"
+  ],
+  [],
+  false
+ ],
+ [
+  "niederau-zomer-golfbaan-grasvallei-bomen",
+  [
+   "Grasland op een golfbaan met een pad tussen bomen en struiken onder een blauwe lucht",
+   "Grassland on a golf course with a path between trees and shrubs under a blue sky",
+   "Rasenfläche auf einem Golfplatz mit einem Weg zwischen Bäumen und Sträuchern unter blauem Himmel"
+  ],
+  [],
+  false
+ ],
+ [
+  "niederau-zomer-mountainbikers-grindweg-bos",
+  [
+   "Twee mountainbikers rijden over een grindweg door het bos, met bloeiende bermen",
+   "Two mountain bikers riding along a gravel road through the forest, with flowering verges",
+   "Zwei Mountainbiker fahren auf einem Schotterweg durch den Wald, mit blühenden Wegrändern"
+  ],
+  [
+   "mountainbike",
+   "e-bike",
+   "fietsen",
+   "fietsroute",
+   "mtb"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-wandelpad-weide-bergdorp",
+  [
+   "Smal wandelpad langs een grasweide met uitzicht op een bosrijke berg en huizen van een dorp",
+   "Narrow footpath along a grass meadow with a view of a wooded mountain and the houses of a village",
+   "Schmaler Wanderweg an einer Wiese mit Blick auf einen bewaldeten Berg und die Häuser eines Dorfes"
+  ],
+  [],
+  false
  ]
 ]
