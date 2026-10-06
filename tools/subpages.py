@@ -22,9 +22,9 @@ def url(lang):
 TITLE = t("Markbachjoch Niederau: gondel, hutten en geschiedenis",
           "Markbachjoch Niederau: gondola, mountain huts and history",
           "Markbachjoch Niederau: Gondel, Hütten und Geschichte")
-DESC = t("Het Markbachjoch boven Niederau (Wildschönau, Tirol): de Markbachjochbahn, hutten en restaurants op de berg, wandelen, skiën en de geschiedenis sinds de eerste stoeltjeslift van 1947.",
-         "The Markbachjoch above Niederau (Wildschönau, Tyrol): the Markbachjochbahn gondola, huts and restaurants on the mountain, hiking, skiing and the history since the first chairlift of 1947.",
-         "Das Markbachjoch über Niederau (Wildschönau, Tirol): die Markbachjochbahn, Hütten und Gasthäuser am Berg, Wandern, Skifahren und die Geschichte seit dem ersten Sessellift von 1947.")
+DESC = t("Het Markbachjoch boven Niederau: de Markbachjochbahn, hutten en restaurants, wandelen, skiën en de geschiedenis sinds de eerste stoeltjeslift van 1947.",
+         "The Markbachjoch above Niederau: the gondola, mountain huts and restaurants, hiking, skiing and history since the first chairlift of 1947.",
+         "Das Markbachjoch über Niederau: Markbachjochbahn, Hütten und Gasthäuser, Wandern, Skifahren und Geschichte seit dem ersten Sessellift von 1947.")
 OG_TITLE = t("Markbachjoch – de oudste bergbaan van Niederau", "Markbachjoch – Niederau’s oldest mountain lift", "Markbachjoch – die älteste Bergbahn von Niederau")
 IMG_ALT = t("Gondel van de Markbachjochbahn boven Niederau", "Gondola of the Markbachjochbahn above Niederau", "Gondel der Markbachjochbahn über Niederau")
 
