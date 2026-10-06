@@ -1382,5 +1382,81 @@
    "winterlandschap"
   ],
   false
+ ],
+ [
+  "niederau-winter-konijn-skistokken-ski",
+  [
+   "Konijn in de sneeuw tussen skistokken en ski’s",
+   "Rabbit in the snow between ski poles and skis",
+   "Kaninchen im Schnee zwischen Skistöcken und Skiern"
+  ],
+  [
+   "konijn",
+   "dieren",
+   "skiën",
+   "wild"
+  ],
+  false
+ ],
+ [
+  "niederau-piste-geprepareerd-besneeuwde-sparren",
+  [
+   "Geprepareerde skipiste tussen met sneeuw bedekte sparren onder een diepblauwe lucht",
+   "Groomed ski slope between snow-covered spruce trees under a deep blue sky",
+   "Präparierte Skipiste zwischen schneebedeckten Fichten unter tiefblauem Himmel"
+  ],
+  [
+   "skiën",
+   "piste",
+   "pistes",
+   "geprepareerde pistes",
+   "winterlandschap"
+  ],
+  false
+ ],
+ [
+  "niederau-winter-uitzicht-skipiste-lift",
+  [
+   "Uitzicht vanaf een terras op een besneeuwde skipiste met lift, met ingesneeuwde auto’s en een houten hekje op de voorgrond",
+   "View from a terrace onto a snowy ski slope with a lift, with snowed-in cars and a wooden fence in the foreground",
+   "Blick von einer Terrasse auf eine verschneite Skipiste mit Lift, im Vordergrund eingeschneite Autos und ein Holzzaun"
+  ],
+  [
+   "sneeuw",
+   "winterlandschap",
+   "skiën",
+   "oefenlift"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-boerderijerf-hooibalen",
+  [
+   "Boerenerf in de regen met hooibalen onder een overkapping, een kruiwagen, een hooischudder en een witte bestelbus, met groene heuvels op de achtergrond",
+   "Farmyard on a rainy day with hay bales under a shelter, a wheelbarrow, a hay tedder and a white van, with green hills behind",
+   "Bauernhof an einem Regentag mit Heuballen unter einem Unterstand, einer Schubkarre, einem Heuwender und einem weißen Lieferwagen, dahinter grüne Hügel"
+  ],
+  [
+   "boerderij",
+   "hooi",
+   "boerenerf",
+   "kinderboerderij"
+  ],
+  false
+ ],
+ [
+  "niederau-winter-sneeuwval-avond-terras",
+  [
+   "Dikke sneeuwval ’s avonds bij een besneeuwd sparretje en een verlichte gevel met neonletters",
+   "Heavy snowfall in the evening near a snow-covered little spruce and a lit façade with neon letters",
+   "Starker Schneefall am Abend bei einem verschneiten Fichtenbäumchen und einer beleuchteten Fassade mit Neonschrift"
+  ],
+  [
+   "sneeuwval",
+   "avond",
+   "winterlandschap",
+   "sneeuw"
+  ],
+  false
  ]
 ]
