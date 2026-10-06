@@ -539,7 +539,8 @@ def build_hub(kind):
                 n = len([a for a in acts if a["theme"] == t])
                 cards.append((L(themes[t]["title"], lang), L(themes[t].get("tagline", {}), lang), u_theme(t, lang), f"{n} {ui('n_act_count', lang)}"))
             ov = card_list([(COLL[c]["title"][LANGS.index(lang)], COLL[c]["tagline"][LANGS.index(lang)], u_coll(c, lang), f"{len(coll_acts(c))} {ui('n_act_count', lang)}") for c in COLL], lang)
-            content = f'<h2>{ui("overviews", lang)}</h2>' + ov + f'<h2>{ui("themes", lang)}</h2>' + card_list(cards, lang)
+            gd = card_list([(L(g["title"], lang), L(g.get("tagline", {}), lang), u_guide(g, lang), "") for g in GUIDES], lang) if GUIDES else ""
+            content = (f'<h2>{ui("n_guides", lang)}</h2>' + gd if gd else "") + f'<h2>{ui("overviews", lang)}</h2>' + ov + f'<h2>{ui("themes", lang)}</h2>' + card_list(cards, lang)
         else:
             content = ""
             for r in REGION_ORDER:
@@ -654,10 +655,10 @@ def build_events():
 # ---------- gidspagina's ----------
 GUIDES = jload("guides/*.json")
 GH = {"title": ("Gidsen en praktische tips", "Guides and practical tips", "Ratgeber und praktische Tipps"),
-      "tagline": ("Eten, beste reistijd en meer over Niederau", "Food, best time to visit and more about Niederau", "Essen, beste Reisezeit und mehr zu Niederau"),
-      "intro": ("Hier vind je verdiepende gidsen bij je verblijf in Niederau en de Wildschönau: wanneer je het best komt, wat je eet en meer. Ze vullen de pagina’s over activiteiten en dorpen aan.",
-                "Here you will find in-depth guides for your stay in Niederau and the Wildschönau: when to come, what to eat and more. They complement the pages about activities and villages.",
-                "Hier finden Sie vertiefende Ratgeber für Ihren Aufenthalt in Niederau und der Wildschönau: wann man am besten kommt, was man isst und mehr. Sie ergänzen die Seiten zu Aktivitäten und Orten.")}
+      "tagline": ("Reistijd, reizen, eten, veiligheid en meer", "Best time to visit, travel, food, safety and more", "Reisezeit, Anreise, Essen, Sicherheit und mehr"),
+      "intro": ("Hier vind je verdiepende gidsen bij je verblijf in Niederau en de Wildschönau: wanneer je het best komt, hoe je er komt, wat je eet en hoe je veilig de bergen in gaat. Ze vullen de pagina’s over activiteiten en dorpen aan.",
+                "Here you will find in-depth guides for your stay in Niederau and the Wildschönau: when to come, how to get there, what to eat and how to stay safe in the mountains. They complement the pages about activities and villages.",
+                "Hier finden Sie vertiefende Ratgeber für Ihren Aufenthalt in Niederau und der Wildschönau: wann man am besten kommt, wie man anreist, was man isst und wie man sicher in die Berge geht. Sie ergänzen die Seiten zu Aktivitäten und Orten.")}
 def u_guide(g, lang): return f"/{PREFIX[lang]}{DIRS['guide'][lang]}/{g['slug'][lang]}/"
 def u_guides(lang): return f"/{PREFIX[lang]}{DIRS['guide'][lang]}/"
 def build_guides():
