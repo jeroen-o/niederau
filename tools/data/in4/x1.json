@@ -1,0 +1,287 @@
+[
+ {
+  "id": "s201",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "innsbruck-old-town-day-trip",
+  "slug_de": "innsbruck-altstadt-tagesausflug",
+  "title": {
+   "nl": "Innsbruck Altstadt en Hofburg",
+   "en": "Innsbruck old town and Hofburg",
+   "de": "Innsbruck Altstadt und Hofburg"
+  },
+  "tagline": {
+   "nl": "Dagje stad met het Goldenes Dachl, de Hofburg en de Nordkette",
+   "en": "A city day out with the Golden Roof, the Hofburg and the Nordkette",
+   "de": "Stadttag mit Goldenem Dachl, Hofburg und Nordkette"
+  },
+  "intro": {
+   "nl": "Innsbruck is de hoofdstad van Tirol en een prettige stad voor een dag: de Altstadt is compact en grotendeels autovrij. Het Goldenes Dachl, het balkon met 2.657 vergulde koperen schindels dat keizer Maximiliaan I liet bouwen, is het bekendste punt. Daarnaast liggen de Hofburg en de middeleeuwse straatjes met arcaden.\n\nWie wil, combineert de stad met de Nordkettenbahn, die in drie stukken van het centrum naar de Hafelekar omhoogrijdt. Een kaart zoals de Innsbruck Card kan lonen als u meerdere bezienswaardigheden en liften bezoekt; reken vooraf na of dat bij uw plan past. Met kinderen werkt een half programma meestal beter dan alles in een dag.",
+   "en": "Innsbruck is the capital of Tyrol and a pleasant city for a day out: the old town is compact and largely car-free. The Golden Roof, the balcony with 2,657 gilded copper shingles built for Emperor Maximilian I, is the best-known landmark. Close by are the Hofburg and the medieval arcaded streets.\n\nIf you like, combine the city with the Nordkette cable car, which climbs from the centre to the Hafelekar in three stages. A pass such as the Innsbruck Card can pay off if you visit several sights and lifts; work out beforehand whether it fits your plan. With children, a partial programme usually works better than trying to do everything in one day.",
+   "de": "Innsbruck ist die Hauptstadt Tirols und ein angenehmes Ziel für einen Tag: Die Altstadt ist kompakt und weitgehend autofrei. Das Goldene Dachl, der Prunkerker mit 2.657 vergoldeten Kupferschindeln für Kaiser Maximilian I., ist das bekannteste Wahrzeichen. Ganz in der Nähe liegen die Hofburg und die mittelalterlichen Lauben-Gassen.\n\nWer möchte, verbindet die Stadt mit der Nordkettenbahn, die in drei Abschnitten vom Zentrum zum Hafelekar hinaufführt. Eine Karte wie die Innsbruck Card kann sich lohnen, wenn Sie mehrere Sehenswürdigkeiten und Bergbahnen besuchen; rechnen Sie vorab nach, ob sie zu Ihrem Plan passt. Mit Kindern funktioniert ein Teilprogramm meist besser als alles an einem Tag."
+  },
+  "tips": {
+   "nl": [
+    "Ga met de trein vanaf Wörgl; parkeren in het centrum is duur en druk.",
+    "Reken vooraf na of de Innsbruck Card loont voor uw programma.",
+    "Pak de Nordkettenbahn bij voorkeur 's ochtends, dan is het rustiger.",
+    "Kies per dag twee of drie bezienswaardigheden in plaats van alles."
+   ],
+   "en": [
+    "Take the train from Wörgl; parking in the centre is expensive and busy.",
+    "Work out in advance whether the Innsbruck Card pays off for your plans.",
+    "Ride the Nordkette cable car in the morning when it is quieter.",
+    "Choose two or three sights per day instead of trying to see everything."
+   ],
+   "de": [
+    "Fahren Sie mit der Bahn ab Wörgl; Parken im Zentrum ist teuer und voll.",
+    "Rechnen Sie vorab nach, ob sich die Innsbruck Card für Ihr Programm lohnt.",
+    "Fahren Sie mit der Nordkettenbahn am besten vormittags, dann ist es ruhiger.",
+    "Wählen Sie pro Tag zwei oder drei Sehenswürdigkeiten statt alles zu sehen."
+   ]
+  },
+  "practical": {
+   "nl": "Innsbruck ligt ca. 1 uur rijden van Niederau via de A12. Met de trein kan het ook: neem vanuit Wörgl de regionale trein of een Railjet naar Innsbruck Hbf (ca. 30 tot 40 minuten); de Altstadt ligt op loopafstand van het station.",
+   "en": "Innsbruck is about 1 hour by car from Niederau via the A12. The train works too: take a regional train or Railjet from Wörgl to Innsbruck Hbf (approx. 30 to 40 minutes); the old town is a short walk from the station.",
+   "de": "Innsbruck liegt etwa 1 Stunde Autofahrt von Niederau entfernt über die A12. Auch die Bahn ist eine gute Option: Von Wörgl fahren Regionalzug oder Railjet nach Innsbruck Hbf (ca. 30 bis 40 Minuten); die Altstadt ist vom Bahnhof zu Fuß erreichbar."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Wisselt per bezienswaardigheid; Innsbruck Card optioneel",
+    "en": "Varies by sight; Innsbruck Card optional",
+    "de": "Je nach Sehenswürdigkeit; Innsbruck Card optional"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck",
+   "en": "Innsbruck",
+   "de": "Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe kom ik zonder auto in Innsbruck?",
+     "en": "How do I get to Innsbruck without a car?",
+     "de": "Wie komme ich ohne Auto nach Innsbruck?"
+    },
+    "a": {
+     "nl": "Met de trein vanaf Wörgl naar Innsbruck Hbf; de Altstadt ligt op loopafstand van het station.",
+     "en": "By train from Wörgl to Innsbruck Hbf; the old town is within walking distance of the station.",
+     "de": "Mit der Bahn von Wörgl nach Innsbruck Hbf; die Altstadt ist vom Bahnhof zu Fuß erreichbar."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s68",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "tirol-panorama-innsbruck",
+  "slug_de": "tirol-panorama-innsbruck",
+  "title": {
+   "nl": "Tirol Panorama Innsbruck",
+   "en": "Tirol Panorama, Innsbruck",
+   "de": "Tirol Panorama Innsbruck"
+  },
+  "tagline": {
+   "nl": "Rondschilderij van de slag om de Bergisel en het Kaiserjägermuseum",
+   "en": "Giant circular painting of the Battle of Bergisel and the Kaiserjäger museum",
+   "de": "Riesenrundgemälde der Bergiselschlacht und Kaiserjägermuseum"
+  },
+  "intro": {
+   "nl": "Op de Bergisel bij Innsbruck staat het Tirol Panorama, geopend in 2011. Het hart is het Riesenrundgemälde: een rondschilderij uit 1896 van 1.000 m² dat de derde slag om de Bergisel van 13 augustus 1809 toont. Het werd door de Münchense schilder Zeno Diemer gemaakt onder leiding van Franz von Defregger en is een van maar twintig klassieke rondschilderijen die nog bestaan.\n\nNaast het panorama zijn er de vaste tentoonstelling Schauplatz Tirol en het Kaiserjägermuseum, dat de militaire geschiedenis van de Tiroolse keizerjagers vertelt. Kinderen vinden het panorama vaak indrukwekkend door het formaat en de vele details. Reken op ongeveer anderhalf uur.",
+   "en": "On the Bergisel above Innsbruck stands the Tirol Panorama, opened in 2011. Its heart is the Riesenrundgemälde: a 1,000 m² circular painting from 1896 showing the third Battle of Bergisel on 13 August 1809. It was made by the Munich painter Zeno Diemer under the supervision of Franz von Defregger and is one of only twenty classic circular paintings still in existence.\n\nBesides the panorama there is the permanent exhibition Schauplatz Tirol and the Kaiserjäger museum, which tells the military history of the Tyrolean Kaiserjäger regiment. Children often find the panorama impressive for its size and the many details. Allow about an hour and a half.",
+   "de": "Auf dem Bergisel bei Innsbruck steht das Tirol Panorama, eröffnet 2011. Sein Herzstück ist das Riesenrundgemälde: ein Rundbild von 1896 mit 1.000 m², das die dritte Bergiselschlacht vom 13. August 1809 zeigt. Es wurde vom Münchner Maler Zeno Diemer unter Leitung von Franz von Defregger geschaffen und ist eines von nur zwanzig klassischen Riesenrundgemälden, die noch existieren.\n\nNeben dem Panorama gibt es die Dauerausstellung Schauplatz Tirol und das Kaiserjägermuseum, das die Militärgeschichte der Tiroler Kaiserjäger erzählt. Kinder finden das Panorama oft wegen seiner Größe und der vielen Details beeindruckend. Planen Sie etwa anderthalb Stunden ein."
+  },
+  "tips": {
+   "nl": [
+    "Laat kinderen zoeken naar kleine details in het rondschilderij.",
+    "Combineer met de skischans Bergisel, die vlakbij ligt.",
+    "Kies een regenachtige dag; het meeste is binnen."
+   ],
+   "en": [
+    "Let children search for small details in the circular painting.",
+    "Combine with the Bergisel ski jump, which is close by.",
+    "Choose a rainy day; most of it is indoors."
+   ],
+   "de": [
+    "Lass Kinder kleine Details im Rundgemälde suchen.",
+    "Verbinde den Besuch mit der nahen Bergisel-Schanze.",
+    "Wähle einen Regentag; das meiste findet drinnen statt."
+   ]
+  },
+  "practical": {
+   "nl": "Het museum ligt op de Bergisel, aan de zuidkant van Innsbruck, ca. 1 uur rijden vanaf Niederau via de A12. Volg de borden Bergisel en informeer vooraf naar openingstijden en parkeren.",
+   "en": "The museum is on the Bergisel at the southern edge of Innsbruck, about 1 hour by car from Niederau via the A12. Follow the signs for Bergisel and check opening times and parking beforehand.",
+   "de": "Das Museum liegt am Bergisel am Südrand von Innsbruck, etwa 1 Stunde Autofahrt von Niederau entfernt über die A12. Folge der Beschilderung Bergisel und erkundige dich vorab nach Öffnungszeiten und Parken."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From approx. 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Entree; actuele prijzen op de officiële website",
+    "en": "Admission charged; see the official website for current prices",
+    "de": "Eintritt; aktuelle Preise auf der offiziellen Website"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (controleer openingstijden)",
+    "en": "All year (check opening hours)",
+    "de": "Ganzjährig (Öffnungszeiten prüfen)"
+   }
+  },
+  "location": {
+   "nl": "Bergisel, Innsbruck",
+   "en": "Bergisel, Innsbruck",
+   "de": "Bergisel, Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het Riesenrundgemälde?",
+     "en": "What is the Riesenrundgemälde?",
+     "de": "Was ist das Riesenrundgemälde?"
+    },
+    "a": {
+     "nl": "Een rondschilderij uit 1896 van 1.000 m² over de derde slag om de Bergisel in 1809, gemaakt door Zeno Diemer.",
+     "en": "A 1,000 m² circular painting from 1896 of the third Battle of Bergisel in 1809, made by Zeno Diemer.",
+     "de": "Ein Rundbild von 1896 mit 1.000 m² über die dritte Bergiselschlacht 1809, geschaffen von Zeno Diemer."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s153",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "day-trip-innsbruck",
+  "slug_de": "tagesausflug-innsbruck",
+  "title": {
+   "nl": "Dagtrip Innsbruck",
+   "en": "Day trip to Innsbruck",
+   "de": "Tagesausflug nach Innsbruck"
+  },
+  "tagline": {
+   "nl": "Tiroler hoofdstad met oude binnenstad, Gouden Dakje en bergbaan",
+   "en": "The Tyrolean capital with its old town, Golden Roof and mountain railway",
+   "de": "Tirols Hauptstadt mit Altstadt, Goldenem Dachl und Bergbahn"
+  },
+  "intro": {
+   "nl": "Innsbruck ligt op ca. een uur van Niederau en combineert een middeleeuwse binnenstad met bergen die letterlijk boven de straten oprijzen. Rond de smalle straten van de Altstadt staat het Goldenes Dachl, een erker met een verguld dak uit de late middeleeuwen, vlakbij de keizerlijke Hofburg.\n\nMet de Nordkettenbahn vanaf het centrum kom je in korte tijd op grote hoogte, waar het uitzicht over de stad en de Inntal reikt. Kinderen vinden de Alpenzoo en de oude binnenstad vaak de leukste onderdelen. Parkeren in het centrum is beperkt en kan duur zijn; park-and-ride of de trein vanaf Wörgl is vaak praktischer.",
+   "en": "Innsbruck is about an hour from Niederau and pairs a medieval old town with mountains that rise right above the streets. In the narrow lanes of the Altstadt stands the Goldenes Dachl, a late-medieval oriel with a gilded roof, close to the imperial Hofburg.\n\nThe Nordkettenbahn from the centre takes you to high altitude quickly, with views across the city and the Inn valley. Children often enjoy the Alpine Zoo and the old town most. Parking in the centre is limited and can be expensive; park and ride, or the train from Wörgl, is often more practical.",
+   "de": "Innsbruck liegt rund eine Stunde von Niederau entfernt und verbindet eine mittelalterliche Altstadt mit Bergen, die direkt über den Straßen aufragen. In den engen Gassen der Altstadt steht das Goldene Dachl, ein spätmittelalterlicher Erker mit vergoldetem Dach, unweit der kaiserlichen Hofburg.\n\nMit der Nordkettenbahn ab dem Zentrum gelangt man rasch in große Höhe, mit Blick über die Stadt und das Inntal. Kinder mögen oft den Alpenzoo und die Altstadt am meisten. Parkplätze im Zentrum sind begrenzt und teils teuer; Park & Ride oder die Bahn ab Wörgl sind oft praktischer."
+  },
+  "tips": {
+   "nl": [
+    "Kom bij voorkeur met de trein of gebruik een P+R; parkeren in het centrum is lastig.",
+    "Vraag naar de Innsbruck Card als je meerdere bezienswaardigheden wilt bezoeken; reken zelf na of dat loont.",
+    "Combineer de oude binnenstad met een bezoek aan Hofburg of Alpenzoo.",
+    "Let bij de bergbaan op het weer; bij mist is het uitzicht beperkt."
+   ],
+   "en": [
+    "Take the train or use a park and ride; parking in the centre is tricky.",
+    "Ask about the Innsbruck Card if you want to see several sights; work out yourself whether it pays off.",
+    "Combine the old town with a visit to the Hofburg or the Alpine Zoo.",
+    "Check the weather before taking the mountain railway; in fog the view is limited."
+   ],
+   "de": [
+    "Am besten mit der Bahn anreisen oder Park & Ride nutzen; Parken im Zentrum ist schwierig.",
+    "Zur Innsbruck Card informieren, wenn mehrere Sehenswürdigkeiten geplant sind; selbst nachrechnen, ob sie sich lohnt.",
+    "Altstadt mit einem Besuch der Hofburg oder des Alpenzoos verbinden.",
+    "Vor der Bergbahn das Wetter prüfen; bei Nebel ist die Aussicht eingeschränkt."
+   ]
+  },
+  "practical": {
+   "nl": "Met de auto is Innsbruck ca. 50 tot 60 minuten rijden via de A12 (Oostenrijkse vignet nodig). De trein vanaf Wörgl Hbf doet er ruim een halfuur over; Wörgl ligt ca. 20 minuten van Niederau.",
+   "en": "By car Innsbruck is about 50 to 60 minutes along the A12 (Austrian motorway vignette required). The train from Wörgl Hbf takes a little over half an hour; Wörgl is about 20 minutes from Niederau.",
+   "de": "Mit dem Auto ist Innsbruck über die A12 in ca. 50 bis 60 Minuten erreichbar (österreichische Vignette nötig). Der Zug ab Wörgl Hbf braucht gut eine halbe Stunde; Wörgl liegt etwa 20 Minuten von Niederau entfernt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganztägig"
+   },
+   "price": {
+    "nl": "Wisselt per bezienswaardigheid; informeer vooraf",
+    "en": "Varies by sight; check beforehand",
+    "de": "Je nach Sehenswürdigkeit unterschiedlich; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 tot 60 min rijden",
+    "en": "About 50 to 60 min by car",
+    "de": "Ca. 50 bis 60 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck, Tirol",
+   "en": "Innsbruck, Tyrol",
+   "de": "Innsbruck, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Innsbruck beter met trein of auto te bezoeken?",
+     "en": "Is Innsbruck better visited by train or car?",
+     "de": "Ist Innsbruck besser mit Bahn oder Auto zu besuchen?"
+    },
+    "a": {
+     "nl": "De trein vanaf Wörgl is vaak het gemakkelijkst, omdat parkeren in het centrum beperkt is. Met de auto kun je een P+R gebruiken.",
+     "en": "The train from Wörgl is often easiest because parking in the centre is limited. By car you can use a park and ride.",
+     "de": "Die Bahn ab Wörgl ist oft am bequemsten, da Parkplätze im Zentrum begrenzt sind. Mit dem Auto bietet sich Park & Ride an."
+    }
+   }
+  ],
+  "verified": false
+ }
+]
