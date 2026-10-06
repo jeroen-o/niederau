@@ -761,6 +761,14 @@ T['de'] += [(a, c) for a, b, c in PHOTO20_PAIRS]
 PHOTO21_PAIRS = [('Kerk met een rood dak, een kleine uivormige toren en een tweede klokkentoren, boven een stenen muur onder een blauwe lucht met wolken', 'Church with a red roof, a small onion-shaped tower and a second clock tower, above a stone wall under a blue sky with clouds', 'Kirche mit rotem Dach, einem kleinen Zwiebelturm und einem zweiten Uhrturm über einer Steinmauer unter blauem Himmel mit Wolken'), ('Tuber in een rode helm op een zwarte binnenband in een bergrivier tussen steile, beboste oevers', 'Tuber in a red helmet on a black inner tube in a mountain river between steep, wooded banks', 'Tuber mit rotem Helm auf einem schwarzen Schlauch in einem Gebirgsfluss zwischen steilen, bewaldeten Ufern'), ('Groep in wetsuits, rode helmen en zwemvesten met zwarte binnenbanden aan de oever van een groene bergrivier, bij een rotswand', 'Group in wetsuits, red helmets and life vests with black inner tubes on the bank of a green mountain river, by a rock face', 'Gruppe in Neoprenanzügen, roten Helmen und Schwimmwesten mit schwarzen Schläuchen am Ufer eines grünen Gebirgsflusses vor einer Felswand'), ('Groene heuvel met verspreide huizen en een bosrand onder wolken en een stukje blauwe lucht, met bomen op de voorgrond', 'Green hill with scattered houses and a forest edge under clouds and a patch of blue sky, with trees in the foreground', 'Grüner Hügel mit verstreuten Häusern und Waldrand unter Wolken und einem Stück blauem Himmel, mit Bäumen im Vordergrund')]
 T['en'] += [(a, b) for a, b, c in PHOTO21_PAIRS]
 T['de'] += [(a, c) for a, b, c in PHOTO21_PAIRS]
+PHOTOPG_PAIRS = [('        <li><a href="fotos/">Foto’s</a></li>', '        <li><a href="photos/">Photos</a></li>', '        <li><a href="fotos/">Fotos</a></li>'),
+ ('<a class="btn" href="fotos/">Alle foto’s bekijken</a>', '<a class="btn" href="photos/">View all photos</a>', '<a class="btn" href="fotos/">Alle Fotos ansehen</a>')]
+T['en'] += [(a, b) for a, b, c in PHOTOPG_PAIRS]
+T['de'] += [(a, c) for a, b, c in PHOTOPG_PAIRS]
+# foto-alts die niet meer op de homepage staan (alleen nog op /fotos/) zijn niet fout
+OBSOLETE |= {p[0] for _n, _v in list(globals().items()) if _n.startswith('PHOTO') and _n.endswith('_PAIRS') and _n != 'PHOTOPG_PAIRS' for p in _v}
+import json as _json
+OBSOLETE |= {'alt="' + _a[0] + '"' for _f, _a, _k, _h in _json.load(open(ROOT / 'tools' / 'photo_catalog.json', encoding='utf-8'))}
 ok = True
 for lang in ("en", "de"):
     html = src
