@@ -98,7 +98,11 @@ def is_local(a):
     text = " ".join([L(a.get("title", {}), "nl"), L(a.get("tagline", {}), "nl")]).lower()
     return a.get("place") in LOCAL_PLACES or (not a.get("place") and any(w in text for w in LOCAL_WORDS))
 
+ACT_PHOTO = {"s172": "kufstein-vesting-gekleurde-huizen-inn", "w31": "kufstein-vesting-gekleurde-huizen-inn", "s218": "inntal-fietspad-langs-de-inn"}
 def photo_for(a):
+    if a["id"] in ACT_PHOTO:
+        f = ACT_PHOTO[a["id"]]
+        return next((ff, alts, h) for ff, alts, _k, h in PHOTOS if ff == f)
     """Beste eigen foto voor een activiteit in/bij Wildschönau; None als er geen passende is."""
     text = " ".join([L(a.get("title", {}), "nl"), L(a.get("tagline", {}), "nl"), a.get("theme", "")]).lower()
     local = a.get("place") in LOCAL_PLACES or (not a.get("place") and any(w in text for w in LOCAL_WORDS))
@@ -148,7 +152,7 @@ def gen_fig(key, lang, season=None):
     if season: return gen_one(gen_pick(key, season), lang)
     return "".join(gen_one(gen_pick(key, s), lang, f' data-only="{s}"') for s in ("winter", "summer"))
 
-PLACE_PHOTO = {"oberau": "oberau-wildschoenau-winter", "thierbach": "thierbach-wildschoenau-sneeuwschoenwandelen", "auffach": "auffach-wildschoenau-e-bike", "muehltal": "muehltal-herfst-wandelen-gezin"}
+PLACE_PHOTO = {"kufstein": "kufstein-vesting-gekleurde-huizen-inn", "oberau": "oberau-wildschoenau-winter", "thierbach": "thierbach-wildschoenau-sneeuwschoenwandelen", "auffach": "auffach-wildschoenau-e-bike", "muehltal": "muehltal-herfst-wandelen-gezin"}
 REGION_PHOTO = {"wildschoenau": "niederau-wildschoenau-pistes-liften-winter"}
 
 # thema-afbeeldingen (bestaande eigen/hotelfoto's) met beschrijvende alt

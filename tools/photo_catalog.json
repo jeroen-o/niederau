@@ -1943,5 +1943,46 @@
   ],
   [],
   false
+ ],
+ [
+  "inntal-fietspad-langs-de-inn",
+  [
+   "Grindpad langs een brede, troebele rivier in een dal met bergen en sneeuwtoppen in de verte",
+   "Gravel path along a wide, silty river in a valley with mountains and snowy peaks in the distance",
+   "Schotterweg entlang eines breiten, trüben Flusses in einem Tal mit Bergen und Schneegipfeln in der Ferne"
+  ],
+  [
+   "fietsen langs de inn",
+   "inn",
+   "fietsroute",
+   "fietspad",
+   "wörgl"
+  ],
+  false
+ ],
+ [
+  "kufstein-vesting-gekleurde-huizen-inn",
+  [
+   "Gekleurde huizen langs de Inn met de vesting Kufstein op een rots erboven",
+   "Colourful houses along the Inn with Kufstein Fortress on a rock above them",
+   "Bunte Häuser am Inn mit der Festung Kufstein auf dem Felsen darüber"
+  ],
+  [
+   "festung kufstein",
+   "kufstein",
+   "vesting",
+   "burcht"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-alm-sneeuwrest-weide",
+  [
+   "Groene alm met een restant sneeuw tegen een rij sparren, met een afrastering en uitzicht op bergen onder een bewolkte lucht",
+   "Green alpine pasture with a remnant of snow against a row of spruces, with a fence and a view of mountains under an overcast sky",
+   "Grüne Almwiese mit einem Schneerest vor einer Reihe von Fichten, mit Zaun und Blick auf Berge unter bewölktem Himmel"
+  ],
+  [],
+  false
  ]
 ]
