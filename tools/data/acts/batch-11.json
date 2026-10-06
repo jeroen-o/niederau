@@ -78,7 +78,7 @@
    "en": "Niederau and surroundings, Wildschönau",
    "de": "Niederau und Umgebung, Wildschönau"
   },
-  "url": "https://www.wildschoenau.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -92,7 +92,8 @@
      "de": "Ja, laut Region gibt es Schneeschuhe bei Verleihbetrieben in Niederau. Frag vorab nach Kindergrößen."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s100",
@@ -187,17 +188,200 @@
      "de": "Wandern, Mountainbiken, Baden im Walchsee oder im Waldschwimmbad Kössen, Golf, Rafting auf der Großache und Gleitschirmfliegen am Unterberghorn."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s113",
-  "drop": true,
-  "drop_reason": "Aanbod (begeleide bosmeditatie) niet te bevestigen."
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "forest-meditation-wildschoenau",
+  "slug_de": "waldmeditation-wildschoenau",
+  "title": {
+   "nl": "Meditatie in het bos",
+   "en": "Forest meditation",
+   "de": "Meditation im Wald"
+  },
+  "tagline": {
+   "nl": "Een rustig uur tussen de bomen",
+   "en": "A quiet hour among the trees",
+   "de": "Eine ruhige Stunde zwischen den Bäumen"
+  },
+  "intro": {
+   "nl": "In de bossen rond Niederau is er gelegenheid voor een begeleide meditatie in de natuur. Je zit of staat op een rustige plek, richt je op de ademhaling en luistert naar wat het bos laat horen. Het is een rustig tegenwicht voor een vakantie vol actie.\n\nHet is vooral geschikt voor volwassenen en tieners die iets willen doen zonder prestatiedruk. De plek ligt op korte afstand van het dorp, vaak na een korte wandeling. Aanbieder, dag en voorwaarden kunnen wisselen, dus vraag bij de VVV of het hotel naar de actuele mogelijkheden. Draag gemakkelijke kleding en zet je telefoon op stil.",
+   "en": "In the woods around Niederau there is the chance to join a guided meditation in nature. You sit or stand in a quiet spot, focus on your breathing and listen to what the forest offers. It is a calm counterweight to a holiday full of action.\n\nIt mostly suits adults and teenagers who want something without performance pressure. The spot is close to the village, often after a short walk. Provider, day and conditions can change, so ask the tourist office or your hotel what is currently on offer. Wear comfortable clothes and put your phone on silent.",
+   "de": "In den Wäldern rund um Niederau gibt es die Möglichkeit zu einer geführten Meditation in der Natur. Man sitzt oder steht an einem ruhigen Platz, konzentriert sich auf den Atem und hört auf den Wald. Das ist ein ruhiger Ausgleich zu einem aktiven Urlaub.\n\nEs eignet sich vor allem für Erwachsene und Jugendliche, die etwas ohne Leistungsdruck machen möchten. Der Platz liegt nahe am Ort, oft nach einem kurzen Spaziergang. Anbieter, Tag und Bedingungen können wechseln; frag beim Tourismusverband oder im Hotel nach dem aktuellen Angebot. Trage bequeme Kleidung und stelle das Handy auf lautlos."
+  },
+  "tips": {
+   "nl": [
+    "Draag gemakkelijke kleding en stevige schoenen.",
+    "Zet je telefoon op stil.",
+    "Neem iets warms te drinken mee voor achteraf.",
+    "Vraag vooraf naar de actuele mogelijkheden."
+   ],
+   "en": [
+    "Wear comfortable clothes and sturdy shoes.",
+    "Put your phone on silent.",
+    "Bring a warm drink for afterwards.",
+    "Ask in advance about current options."
+   ],
+   "de": [
+    "Bequeme Kleidung und feste Schuhe tragen.",
+    "Das Handy auf lautlos stellen.",
+    "Ein warmes Getränk für danach mitnehmen.",
+    "Vorab nach den aktuellen Möglichkeiten fragen."
+   ]
+  },
+  "practical": {
+   "nl": "Het startpunt ligt vlak bij Niederau, vaak na een korte wandeling. Reserveren via de VVV of je hotel; vraag naar tijd en plek.",
+   "en": "The starting point is close to Niederau, often after a short walk. Book through the tourist office or your hotel; ask about time and place.",
+   "de": "Der Treffpunkt liegt nahe Niederau, oft nach einem kurzen Spaziergang. Anmeldung über den Tourismusverband oder das Hotel; nach Zeit und Ort fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Volwassenen en tieners",
+    "en": "Adults and teenagers",
+    "de": "Erwachsene und Jugendliche"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Vlak bij Niederau",
+    "en": "Close to Niederau",
+    "de": "Nahe Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "In of vlak bij Niederau",
+   "en": "In or close to Niederau",
+   "de": "In oder nahe Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is meditatie geschikt voor beginners?",
+     "en": "Is it suitable for beginners?",
+     "de": "Ist es für Anfänger geeignet?"
+    },
+    "a": {
+     "nl": "Ja, ervaring is in de regel niet nodig; vraag dit wel bij de aanbieder.",
+     "en": "Generally yes, no experience is usually needed; confirm with the provider.",
+     "de": "In der Regel ja, Erfahrung ist meist nicht nötig; beim Anbieter bestätigen lassen."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s125",
-  "drop": true,
-  "drop_reason": "Kneipp-plek/aanbod bij Niederau niet te bevestigen."
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "kneipp-stream-wildschoenau",
+  "slug_de": "kneipp-bach-wildschoenau",
+  "title": {
+   "nl": "Kneippen in de bergbeek",
+   "en": "Kneipp in a mountain stream",
+   "de": "Kneippen im Bergbach"
+  },
+  "tagline": {
+   "nl": "Voeten in koud bronwater, een korte oppepper",
+   "en": "Feet in cold spring water, a quick boost",
+   "de": "Füße im kalten Quellwasser, ein kleiner Muntermacher"
+  },
+  "intro": {
+   "nl": "Kneippen betekent kort door koud water lopen om de bloedsomloop te stimuleren. In de Wildschönau kun je dat langs beken en wandelpaden doen; op sommige plekken staat een Kneipp-voorziening. Het koude water geeft meteen een frisse, energieke indruk.\n\nHet is een eenvoudige activiteit voor alle leeftijden en kost niets. Doe het rustig: loop een paar minuten door het water, stap eruit en droog je voeten goed af. Combineer het met een wandeling en neem droge sokken mee. Of er bij Niederau een vaste voorziening is en waar precies, kun je bij de VVV navragen.",
+   "en": "Kneipping means walking briefly through cold water to stimulate circulation. In the Wildschönau you can do it along streams and walking paths; in some places there is a Kneipp facility. The cold water gives an immediate fresh, energising feeling.\n\nIt is a simple activity for all ages and costs nothing. Take it easy: walk through the water for a few minutes, step out and dry your feet well. Combine it with a walk and bring dry socks. Whether there is a fixed facility near Niederau, and where exactly, you can ask the tourist office.",
+   "de": "Kneippen heißt, kurz durch kaltes Wasser zu gehen, um den Kreislauf anzuregen. In der Wildschönau geht das an Bächen und Wanderwegen; an manchen Stellen gibt es eine Kneipp-Anlage. Das kalte Wasser wirkt sofort erfrischend.\n\nEs ist eine einfache Aktivität für alle Altersgruppen und kostet nichts. Geh es ruhig an: ein paar Minuten durchs Wasser gehen, heraussteigen und die Füße gut abtrocknen. Verbinde es mit einer Wanderung und nimm trockene Socken mit. Ob und wo es bei Niederau eine feste Anlage gibt, erfährt man beim Tourismusverband."
+  },
+  "tips": {
+   "nl": [
+    "Neem droge sokken en een handdoek mee.",
+    "Blijf niet te lang in het koude water.",
+    "Doe het alleen op veilige, ondiepe plekken.",
+    "Combineer het met een wandeling."
+   ],
+   "en": [
+    "Bring dry socks and a towel.",
+    "Do not stay in the cold water too long.",
+    "Only do it in safe, shallow spots.",
+    "Combine it with a walk."
+   ],
+   "de": [
+    "Trockene Socken und ein Handtuch mitnehmen.",
+    "Nicht zu lange im kalten Wasser bleiben.",
+    "Nur an sicheren, flachen Stellen kneippen.",
+    "Mit einer Wanderung verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Plekken liggen langs beken en wandelpaden in het dal. Vraag bij de VVV waar het veilig en toegankelijk is.",
+   "en": "Spots are along streams and walking paths in the valley. Ask the tourist office where it is safe and accessible.",
+   "de": "Die Stellen liegen an Bächen und Wanderwegen im Tal. Beim Tourismusverband erfragen, wo es sicher und zugänglich ist."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 30 min",
+    "en": "About 30 min",
+    "de": "Ca. 30 Min."
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Vanaf Niederau te voet of na korte rit",
+    "en": "From Niederau on foot or a short drive",
+    "de": "Ab Niederau zu Fuß oder nach kurzer Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau, bij Niederau",
+   "en": "Wildschönau, near Niederau",
+   "de": "Wildschönau, bei Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is kneippen veilig voor kinderen?",
+     "en": "Is Kneipp safe for children?",
+     "de": "Ist Kneippen für Kinder sicher?"
+    },
+    "a": {
+     "nl": "Ja, mits onder toezicht, kort en op ondiepe plekken; maak kinderen niet te koud.",
+     "en": "Yes, if supervised, brief and in shallow spots; do not let children get too cold.",
+     "de": "Ja, unter Aufsicht, kurz und an flachen Stellen; Kinder nicht auskühlen lassen."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s14",
@@ -278,7 +462,7 @@
    "en": "Hotel Wastlhof, Niederau",
    "de": "Hotel Wastlhof, Niederau"
   },
-  "url": "https://www.hotelwastlhof.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -292,12 +476,14 @@
      "de": "Es richtet sich an Hausgäste. Das Hotel kann sagen, ob Ausnahmen möglich sind."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s177",
   "drop": true,
-  "drop_reason": "Dubbel van s78 (Aqua Dome Längenfeld); s78 is behouden."
+  "drop_reason": "Dubbel van s78 (Aqua Dome Längenfeld); s78 is behouden.",
+  "verified": false
  },
  {
   "id": "s207",
@@ -392,22 +578,296 @@
      "de": "Der Eintritt ist frei; nur die Gondelfahrt kostet."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s21",
-  "drop": true,
-  "drop_reason": "Yoga op de alm (tijden, prijs) niet te bevestigen."
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "yoga-on-the-alp-niederau",
+  "slug_de": "yoga-auf-der-alm-niederau",
+  "title": {
+   "nl": "Yoga op de alm",
+   "en": "Yoga on the alp",
+   "de": "Yoga auf der Alm"
+  },
+  "tagline": {
+   "nl": "Rekken en ademen met uitzicht over het dal",
+   "en": "Stretch and breathe with a view over the valley",
+   "de": "Dehnen und Atmen mit Blick ins Tal"
+  },
+  "intro": {
+   "nl": "Yoga op een alpenweide combineert eenvoudige oefeningen met frisse berglucht en uitzicht over het dal. Meestal loop je eerst een stuk omhoog naar de plek en doe je daarna een les in de open lucht, onder begeleiding van een docent.\n\nDe oefeningen zijn rustig en geschikt voor beginners. Kinderen kunnen vaak meedoen, en voor veel gezinnen is dat het leukste: samen balanceren op de mat terwijl de koeien toekijken. Dag, tijd en prijs wisselen; vraag bij de VVV of je hotel naar het actuele aanbod. Neem een eigen mat of vraag naar verhuur, en kleed je in lagen.",
+   "en": "Yoga on an alpine meadow combines simple exercises with fresh mountain air and a view over the valley. Usually you walk up to the spot first and then take a class in the open air, led by a teacher.\n\nThe exercises are gentle and suit beginners. Children can often join in, which many families find the best part: balancing on the mat together while cows look on. Day, time and price change; ask the tourist office or your hotel about the current offer. Bring your own mat or ask about rental, and dress in layers.",
+   "de": "Yoga auf einer Almwiese verbindet einfache Übungen mit frischer Bergluft und Blick ins Tal. Meist geht man zuerst ein Stück hinauf zum Platz und nimmt dann an einer Stunde unter freiem Himmel teil, geleitet von einer Lehrerin oder einem Lehrer.\n\nDie Übungen sind ruhig und für Anfänger geeignet. Kinder können oft mitmachen, was vielen Familien am besten gefällt: gemeinsam auf der Matte balancieren, während Kühe zuschauen. Tag, Zeit und Preis wechseln; frag beim Tourismusverband oder im Hotel nach dem aktuellen Angebot. Eigene Matte mitbringen oder nach Verleih fragen und Kleidung im Zwiebelprinzip wählen."
+  },
+  "tips": {
+   "nl": [
+    "Kleed je in lagen; het kan boven fris zijn.",
+    "Neem een mat mee of vraag naar verhuur.",
+    "Beginners zijn welkom.",
+    "Houd afstand van het vee op de weide."
+   ],
+   "en": [
+    "Dress in layers; it can be cool up there.",
+    "Bring a mat or ask about rental.",
+    "Beginners are welcome.",
+    "Keep your distance from livestock on the pasture."
+   ],
+   "de": [
+    "Im Zwiebelprinzip kleiden; oben kann es frisch sein.",
+    "Matte mitbringen oder Verleih erfragen.",
+    "Anfänger sind willkommen.",
+    "Abstand zu den Weidetieren halten."
+   ]
+  },
+  "practical": {
+   "nl": "Het verzamelpunt ligt bij Niederau; daarna loop je ca. een half uur omhoog. Aanmelden via de VVV of je hotel; vraag naar de actuele data.",
+   "en": "The meeting point is in Niederau, followed by a walk of roughly half an hour uphill. Book through the tourist office or your hotel; ask about current dates.",
+   "de": "Der Treffpunkt liegt in Niederau, danach geht man ca. eine halbe Stunde bergauf. Anmeldung über Tourismusverband oder Hotel; aktuelle Termine erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From about 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur plus wandeling",
+    "en": "About 1 hour plus the walk",
+    "de": "Ca. 1 Stunde plus Anmarsch"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Vanaf Niederau te voet",
+    "en": "From Niederau on foot",
+    "de": "Ab Niederau zu Fuß"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Alpenweiden bij Niederau",
+   "en": "Alpine pastures near Niederau",
+   "de": "Almwiesen bei Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet ik ervaring hebben?",
+     "en": "Do I need experience?",
+     "de": "Brauche ich Erfahrung?"
+    },
+    "a": {
+     "nl": "Nee, beginners zijn welkom; vraag de aanbieder naar de leeftijdsgrens.",
+     "en": "No, beginners are welcome; ask the provider about the age limit.",
+     "de": "Nein, Anfänger sind willkommen; beim Anbieter nach der Altersgrenze fragen."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s24",
-  "drop": true,
-  "drop_reason": "Hotelprogramma niet te bevestigen; overlapt met s14."
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "kids-olympics-wastlhof",
+  "slug_de": "kinder-olympiade-wastlhof",
+  "title": {
+   "nl": "Kinder-Olympiade bij Wastlhof",
+   "en": "Children's Olympics at Wastlhof",
+   "de": "Kinder-Olympiade im Wastlhof"
+  },
+  "tagline": {
+   "nl": "Een sportieve middag met spelletjes en een medaille",
+   "en": "A sporty afternoon of games and a medal",
+   "de": "Ein sportlicher Nachmittag mit Spielen und Medaille"
+  },
+  "intro": {
+   "nl": "Hotel Wastlhof, partner van deze site, organiseert voor zijn jonge gasten een sportieve wedstrijd in olympische stijl. Kinderen doen mee aan onderdelen als estafette, werpspelletjes en een hindernisbaan, en aan het eind is er een kleine huldiging.\n\nHet draait om meedoen en plezier, niet om winnen. Ouders en grootouders kunnen langs de kant aanmoedigen. De onderdelen en leeftijdsgroepen kunnen wisselen en niet elke week is er een editie. Vraag bij de receptie wanneer de volgende is en of je kind kan meedoen. Draag sportkleding en gymschoenen, en neem bij warm weer water mee.",
+   "en": "Hotel Wastlhof, a partner of this site, organises a sporty contest in Olympic style for its young guests. Children take part in events such as a relay, throwing games and an obstacle course, and there is a small award ceremony at the end.\n\nIt is about taking part and having fun, not winning. Parents and grandparents can cheer from the side. Events and age groups can change and there is not an edition every week. Ask reception when the next one is and whether your child can take part. Wear sportswear and trainers, and bring water in warm weather.",
+   "de": "Das Hotel Wastlhof, Partner dieser Seite, veranstaltet für seine jungen Gäste einen sportlichen Wettbewerb im olympischen Stil. Die Kinder machen bei Staffellauf, Wurfspielen und einem Hindernisparcours mit, am Ende gibt es eine kleine Siegerehrung.\n\nEs geht ums Mitmachen und den Spaß, nicht ums Gewinnen. Eltern und Großeltern können am Rand anfeuern. Disziplinen und Altersgruppen können wechseln, und nicht jede Woche gibt es eine Ausgabe. Frag an der Rezeption, wann die nächste stattfindet und ob dein Kind mitmachen kann. Sportkleidung und Turnschuhe tragen, bei Wärme Wasser mitnehmen."
+  },
+  "tips": {
+   "nl": [
+    "Draag sportkleding en gymschoenen.",
+    "Vraag bij de receptie wanneer de volgende editie is.",
+    "Moedig alle kinderen aan, niet alleen je eigen.",
+    "Neem bij warm weer water mee."
+   ],
+   "en": [
+    "Wear sportswear and trainers.",
+    "Ask reception when the next edition is.",
+    "Cheer on all children, not just your own.",
+    "Bring water in warm weather."
+   ],
+   "de": [
+    "Sportkleidung und Turnschuhe tragen.",
+    "An der Rezeption nach dem nächsten Termin fragen.",
+    "Alle Kinder anfeuern, nicht nur das eigene.",
+    "Bei Wärme Wasser mitnehmen."
+   ]
+  },
+  "practical": {
+   "nl": "Het onderdeel vindt plaats bij Hotel Wastlhof in Niederau, partner van deze site. Dag, tijd en voorwaarden kunnen wisselen; vraag bij de receptie naar het actuele programma.",
+   "en": "This takes place at Hotel Wastlhof in Niederau, a partner of this site. Day, time and conditions can change; ask reception for the current programme.",
+   "de": "Das Angebot findet im Hotel Wastlhof in Niederau statt, Partner dieser Seite. Tag, Zeit und Bedingungen können wechseln; frag an der Rezeption nach dem aktuellen Programm."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kinderen van ca. 5 jaar; informeer vooraf",
+    "en": "Children from about 5; ask in advance",
+    "de": "Kinder ab ca. 5 Jahren; vorab erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Voor hotelgasten; informeer bij het hotel",
+    "en": "For hotel guests; ask the hotel",
+    "de": "Für Hausgäste; im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "Op locatie in Niederau",
+    "en": "On site in Niederau",
+    "de": "Vor Ort in Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is dit ook voor niet-gasten?",
+     "en": "Is this open to non-guests?",
+     "de": "Gilt das auch für Nicht-Hausgäste?"
+    },
+    "a": {
+     "nl": "Het is bedoeld voor gasten van het hotel; vraag het hotel of uitzonderingen mogelijk zijn.",
+     "en": "It is meant for hotel guests; ask the hotel whether exceptions are possible.",
+     "de": "Es richtet sich an Hausgäste; im Hotel kann man nach Ausnahmen fragen."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s50",
-  "drop": true,
-  "drop_reason": "Hotelprogramma niet te bevestigen."
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "family-yoga-wastlhof",
+  "slug_de": "familienyoga-wastlhof",
+  "title": {
+   "nl": "Familieyoga bij Wastlhof",
+   "en": "Family yoga at Wastlhof",
+   "de": "Familienyoga im Wastlhof"
+  },
+  "tagline": {
+   "nl": "Ouders en kinderen samen op de mat",
+   "en": "Parents and children together on the mat",
+   "de": "Eltern und Kinder gemeinsam auf der Matte"
+  },
+  "intro": {
+   "nl": "Bij Hotel Wastlhof, partner van deze site, is er familieyoga waarbij ouders en kinderen samen oefenen. De poses zijn eenvoudig, met aandacht voor ademhaling en ontspanning. Er is geen ervaring nodig.\n\nBij mooi weer kan de les buiten plaatsvinden, bijvoorbeeld in de tuin, anders binnen. Het is een rustig begin van de dag en een manier om als gezin even samen stil te staan tussen alle activiteiten. Tijd, prijs en deelname kunnen wisselen; vraag bij de receptie naar de actuele mogelijkheden en of aansluitend een gezamenlijk ontbijt mogelijk is. Draag gemakkelijke kleding.",
+   "en": "Hotel Wastlhof, a partner of this site, offers family yoga in which parents and children practise together. The poses are simple, with attention to breathing and relaxation. No experience is needed.\n\nIn good weather the class can take place outdoors, for example in the garden, otherwise indoors. It is a calm start to the day and a way for the family to pause together between activities. Time, price and participation can change; ask reception about current options and whether a shared breakfast afterwards is possible. Wear comfortable clothes.",
+   "de": "Im Hotel Wastlhof, Partner dieser Seite, gibt es Familienyoga, bei dem Eltern und Kinder gemeinsam üben. Die Haltungen sind einfach, mit Aufmerksamkeit für Atmung und Entspannung. Erfahrung ist nicht nötig.\n\nBei schönem Wetter kann die Stunde draußen stattfinden, etwa im Garten, sonst drinnen. Es ist ein ruhiger Start in den Tag und eine Möglichkeit, als Familie zwischen den Aktivitäten kurz innezuhalten. Zeit, Preis und Teilnahme können wechseln; frag an der Rezeption nach den aktuellen Möglichkeiten und ob danach ein gemeinsames Frühstück möglich ist. Bequeme Kleidung tragen."
+  },
+  "tips": {
+   "nl": [
+    "Draag gemakkelijke kleding.",
+    "Er is geen ervaring nodig.",
+    "Vraag naar de plek bij slecht weer.",
+    "Meld je tijdig aan bij de receptie."
+   ],
+   "en": [
+    "Wear comfortable clothes.",
+    "No experience is needed.",
+    "Ask where it is held in bad weather.",
+    "Register in good time at reception."
+   ],
+   "de": [
+    "Bequeme Kleidung tragen.",
+    "Erfahrung ist nicht nötig.",
+    "Nach dem Ort bei schlechtem Wetter fragen.",
+    "Rechtzeitig an der Rezeption anmelden."
+   ]
+  },
+  "practical": {
+   "nl": "Het onderdeel vindt plaats bij Hotel Wastlhof in Niederau, partner van deze site. Dag, tijd en voorwaarden kunnen wisselen; vraag bij de receptie naar het actuele programma.",
+   "en": "This takes place at Hotel Wastlhof in Niederau, a partner of this site. Day, time and conditions can change; ask reception for the current programme.",
+   "de": "Das Angebot findet im Hotel Wastlhof in Niederau statt, Partner dieser Seite. Tag, Zeit und Bedingungen können wechseln; frag an der Rezeption nach dem aktuellen Programm."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 5 jaar met ouder",
+    "en": "From about 5 with a parent",
+    "de": "Ab ca. 5 Jahren mit Elternteil"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Op locatie in Niederau",
+    "en": "On site in Niederau",
+    "de": "Vor Ort in Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is ervaring nodig?",
+     "en": "Is experience needed?",
+     "de": "Ist Erfahrung nötig?"
+    },
+    "a": {
+     "nl": "Nee, de poses zijn eenvoudig en voor beginners.",
+     "en": "No, the poses are simple and suit beginners.",
+     "de": "Nein, die Haltungen sind einfach und für Anfänger."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s78",
@@ -488,7 +948,7 @@
    "en": "Längenfeld, Ötztal",
    "de": "Längenfeld, Ötztal"
   },
-  "url": "https://www.aqua-dome.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -502,7 +962,8 @@
      "de": "Ja, es gibt einen eigenen Kinder- und Familienbereich, und Kinder ab 3 Jahren zahlen den Kindertarif. Regeln je Bereich auf der Website prüfen."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "w13",
@@ -583,7 +1044,7 @@
    "en": "Hotel Wastlhof, Niederau",
    "de": "Hotel Wastlhof, Niederau"
   },
-  "url": "https://www.hotelwastlhof.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -597,22 +1058,296 @@
      "de": "Das kann wechseln; frag vor der Buchung im Hotel nach."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "w14",
-  "drop": true,
-  "drop_reason": "Kinderdisco (dag, tijden) niet te bevestigen."
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "kids-disco-wastlhof",
+  "slug_de": "kinderdisco-wastlhof",
+  "title": {
+   "nl": "Kinderdisco bij Wastlhof",
+   "en": "Kids' disco at Wastlhof",
+   "de": "Kinderdisco im Wastlhof"
+  },
+  "tagline": {
+   "nl": "Een avond dansen en spelen voor kinderen",
+   "en": "An evening of dancing and games for children",
+   "de": "Ein Abend zum Tanzen und Spielen für Kinder"
+  },
+  "intro": {
+   "nl": "Hotel Wastlhof, partner van deze site, organiseert een kinderdisco voor zijn jonge gasten. Er is muziek om op te dansen, soms met dansspelletjes en een kleine wedstrijd. Het is een ontspannen manier om na een dag in de sneeuw nog even energie kwijt te raken.\n\nOuders mogen doorgaans meekijken of meedansen. Of er een vaste avond is en voor welke leeftijden, kan wisselen; vraag bij de receptie naar het actuele programma. Neem gymschoenen of binnenschoenen mee en overweeg een extra shirt, want dansen maakt warm. Het programma is bedoeld voor gasten van het hotel.",
+   "en": "Hotel Wastlhof, a partner of this site, organises a kids' disco for its young guests. There is music to dance to, sometimes with dance games and a small contest. It is a relaxed way to burn off some energy after a day in the snow.\n\nParents can usually watch or dance along. Whether there is a fixed evening and for which ages can change; ask reception for the current programme. Bring trainers or indoor shoes and consider a spare shirt, as dancing gets warm. The programme is intended for hotel guests.",
+   "de": "Das Hotel Wastlhof, Partner dieser Seite, veranstaltet für seine jungen Gäste eine Kinderdisco. Es gibt Musik zum Tanzen, manchmal mit Tanzspielen und einem kleinen Wettbewerb. So können Kinder nach einem Tag im Schnee noch etwas Energie loswerden.\n\nEltern dürfen meist zuschauen oder mittanzen. Ob es einen festen Abend gibt und für welche Altersgruppen, kann wechseln; frag an der Rezeption nach dem aktuellen Programm. Turn- oder Hausschuhe mitnehmen und ein Ersatzshirt einpacken, denn Tanzen macht warm. Das Angebot richtet sich an Hausgäste."
+  },
+  "tips": {
+   "nl": [
+    "Neem gymschoenen of binnenschoenen mee.",
+    "Vraag naar het actuele programma.",
+    "Een extra shirt is handig.",
+    "Ouders mogen vaak meedoen."
+   ],
+   "en": [
+    "Bring trainers or indoor shoes.",
+    "Ask about the current programme.",
+    "A spare shirt is handy.",
+    "Parents can often join in."
+   ],
+   "de": [
+    "Turn- oder Hausschuhe mitnehmen.",
+    "Nach dem aktuellen Programm fragen.",
+    "Ein Ersatzshirt ist praktisch.",
+    "Eltern können oft mitmachen."
+   ]
+  },
+  "practical": {
+   "nl": "Het onderdeel vindt plaats bij Hotel Wastlhof in Niederau, partner van deze site. Dag, tijd en voorwaarden kunnen wisselen; vraag bij de receptie naar het actuele programma.",
+   "en": "This takes place at Hotel Wastlhof in Niederau, a partner of this site. Day, time and conditions can change; ask reception for the current programme.",
+   "de": "Das Angebot findet im Hotel Wastlhof in Niederau statt, Partner dieser Seite. Tag, Zeit und Bedingungen können wechseln; frag an der Rezeption nach dem aktuellen Programm."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kinderen ca. 4 tot 14 jaar; informeer vooraf",
+    "en": "Children about 4 to 14; ask in advance",
+    "de": "Kinder ca. 4 bis 14 Jahre; vorab erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Voor hotelgasten; informeer bij het hotel",
+    "en": "For hotel guests; ask the hotel",
+    "de": "Für Hausgäste; im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "Op locatie in Niederau",
+    "en": "On site in Niederau",
+    "de": "Vor Ort in Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is dit ook voor niet-gasten?",
+     "en": "Is this open to non-guests?",
+     "de": "Gilt das auch für Nicht-Hausgäste?"
+    },
+    "a": {
+     "nl": "Het is bedoeld voor gasten van het hotel; vraag het hotel of uitzonderingen mogelijk zijn.",
+     "en": "It is meant for hotel guests; ask the hotel whether exceptions are possible.",
+     "de": "Es richtet sich an Hausgäste; im Hotel kann man nach Ausnahmen fragen."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w18",
-  "drop": true,
-  "drop_reason": "Familiequiz (dag, tijden) niet te bevestigen."
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "family-quiz-evening-wastlhof",
+  "slug_de": "familien-quizabend-wastlhof",
+  "title": {
+   "nl": "Familiequiz bij Wastlhof",
+   "en": "Family quiz at Wastlhof",
+   "de": "Familien-Quizabend im Wastlhof"
+  },
+  "tagline": {
+   "nl": "Een gezellige quizavond over Tirol en de Alpen",
+   "en": "A fun quiz evening about Tyrol and the Alps",
+   "de": "Ein geselliger Quizabend über Tirol und die Alpen"
+  },
+  "intro": {
+   "nl": "Hotel Wastlhof, partner van deze site, houdt voor zijn gasten een familiequiz. Teams beantwoorden vragen over natuur, wintersport, Tiroler cultuur, muziek en de Wildschönau. Het is een gezellige avond waarin ouders en kinderen samen een team vormen.\n\nTeams bestaan uit enkele personen, zodat gezinnen goed samen kunnen spelen. Kinderen kunnen vaak meer bijdragen dan ouders denken. Dag, tijd, taal en prijzen kunnen wisselen, dus vraag bij de receptie naar het actuele programma en of de quiz ook in het Nederlands kan. Een kleine prijs voor de winnaars hoort er vaak bij. Het programma is bedoeld voor gasten van het hotel.",
+   "en": "Hotel Wastlhof, a partner of this site, holds a family quiz for its guests. Teams answer questions on nature, winter sports, Tyrolean culture, music and the Wildschönau. It is a fun evening where parents and children form a team together.\n\nTeams are made up of a few people, so families can play well together. Children can often contribute more than parents expect. Day, time, language and prizes can change, so ask reception for the current programme and whether the quiz can be held in Dutch. A small prize for the winners is often part of it. The programme is intended for hotel guests.",
+   "de": "Das Hotel Wastlhof, Partner dieser Seite, veranstaltet für seine Gäste einen Familienquiz. Teams beantworten Fragen zu Natur, Wintersport, Tiroler Kultur, Musik und zur Wildschönau. Es ist ein geselliger Abend, an dem Eltern und Kinder gemeinsam ein Team bilden.\n\nTeams bestehen aus wenigen Personen, sodass Familien gut zusammen spielen können. Kinder wissen oft mehr, als Eltern denken. Tag, Zeit, Sprache und Preise können wechseln; frag an der Rezeption nach dem aktuellen Programm und ob der Quiz auch auf Niederländisch möglich ist. Ein kleiner Preis für die Sieger gehört oft dazu. Das Angebot richtet sich an Hausgäste."
+  },
+  "tips": {
+   "nl": [
+    "Maak onderweg aantekeningen over het dal.",
+    "Vorm een gezinsteam; kinderen zijn een aanwinst.",
+    "Vraag naar de taal van de quiz.",
+    "Meld je tijdig aan bij de receptie."
+   ],
+   "en": [
+    "Take notes about the valley during your stay.",
+    "Form a family team; children are an asset.",
+    "Ask about the language of the quiz.",
+    "Register in good time at reception."
+   ],
+   "de": [
+    "Mach dir während des Urlaubs Notizen über das Tal.",
+    "Bilde ein Familienteam; Kinder sind eine Bereicherung.",
+    "Nach der Sprache des Quiz fragen.",
+    "Rechtzeitig an der Rezeption anmelden."
+   ]
+  },
+  "practical": {
+   "nl": "Het onderdeel vindt plaats bij Hotel Wastlhof in Niederau, partner van deze site. Dag, tijd en voorwaarden kunnen wisselen; vraag bij de receptie naar het actuele programma.",
+   "en": "This takes place at Hotel Wastlhof in Niederau, a partner of this site. Day, time and conditions can change; ask reception for the current programme.",
+   "de": "Das Angebot findet im Hotel Wastlhof in Niederau statt, Partner dieser Seite. Tag, Zeit und Bedingungen können wechseln; frag an der Rezeption nach dem aktuellen Programm."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Voor hotelgasten; informeer bij het hotel",
+    "en": "For hotel guests; ask the hotel",
+    "de": "Für Hausgäste; im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "Op locatie in Niederau",
+    "en": "On site in Niederau",
+    "de": "Vor Ort in Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is dit ook voor niet-gasten?",
+     "en": "Is this open to non-guests?",
+     "de": "Gilt das auch für Nicht-Hausgäste?"
+    },
+    "a": {
+     "nl": "Het is bedoeld voor gasten van het hotel; vraag het hotel of uitzonderingen mogelijk zijn.",
+     "en": "It is meant for hotel guests; ask the hotel whether exceptions are possible.",
+     "de": "Es richtet sich an Hausgäste; im Hotel kann man nach Ausnahmen fragen."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w25",
-  "drop": true,
-  "drop_reason": "Kinderyoga (tijd, prijs) niet te bevestigen."
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "kids-yoga-wastlhof",
+  "slug_de": "kinderyoga-wastlhof",
+  "title": {
+   "nl": "Kinderyoga bij Wastlhof",
+   "en": "Kids' yoga at Wastlhof",
+   "de": "Kinderyoga im Wastlhof"
+  },
+  "tagline": {
+   "nl": "Spelenderwijs rekken en ademen na de piste",
+   "en": "Playful stretching and breathing after the slopes",
+   "de": "Spielerisch dehnen und atmen nach der Piste"
+  },
+  "intro": {
+   "nl": "Hotel Wastlhof, partner van deze site, biedt kinderyoga voor zijn jonge gasten. Kinderen leren spelenderwijs rekken, ademen en tot rust komen, vaak met poses die naar dieren of bergen zijn genoemd. Het helpt na een dag skiën om het lichaam te laten ontspannen.\n\nEr is geen ervaring nodig en de les duurt niet lang, zodat kinderen het goed volhouden. Dag, tijd en prijs kunnen wisselen; vraag bij de receptie naar de actuele mogelijkheden. Draag gemakkelijke kleding. De les is bedoeld voor gasten van het hotel.",
+   "en": "Hotel Wastlhof, a partner of this site, offers kids' yoga for its young guests. Children learn playfully to stretch, breathe and settle, often with poses named after animals or mountains. After a day of skiing it helps the body to relax.\n\nNo experience is needed and the class is not long, so children can keep it up. Day, time and price can change; ask reception about current options. Wear comfortable clothes. The class is intended for hotel guests.",
+   "de": "Das Hotel Wastlhof, Partner dieser Seite, bietet Kinderyoga für seine jungen Gäste an. Kinder lernen spielerisch, sich zu dehnen, zu atmen und zur Ruhe zu kommen, oft mit Haltungen, die nach Tieren oder Bergen benannt sind. Nach einem Skitag hilft es dem Körper, sich zu entspannen.\n\nErfahrung ist nicht nötig, und die Stunde dauert nicht lange, sodass Kinder gut durchhalten. Tag, Zeit und Preis können wechseln; frag an der Rezeption nach den aktuellen Möglichkeiten. Bequeme Kleidung tragen. Das Angebot richtet sich an Hausgäste."
+  },
+  "tips": {
+   "nl": [
+    "Draag gemakkelijke kleding.",
+    "Er is geen ervaring nodig.",
+    "Plan de les na de ski-dag voor ontspanning.",
+    "Vraag of een mat beschikbaar is."
+   ],
+   "en": [
+    "Wear comfortable clothes.",
+    "No experience is needed.",
+    "Schedule the class after the ski day to unwind.",
+    "Ask whether a mat is provided."
+   ],
+   "de": [
+    "Bequeme Kleidung tragen.",
+    "Erfahrung ist nicht nötig.",
+    "Die Stunde nach dem Skitag zum Entspannen nutzen.",
+    "Fragen, ob eine Matte vorhanden ist."
+   ]
+  },
+  "practical": {
+   "nl": "Het onderdeel vindt plaats bij Hotel Wastlhof in Niederau, partner van deze site. Dag, tijd en voorwaarden kunnen wisselen; vraag bij de receptie naar het actuele programma.",
+   "en": "This takes place at Hotel Wastlhof in Niederau, a partner of this site. Day, time and conditions can change; ask reception for the current programme.",
+   "de": "Das Angebot findet im Hotel Wastlhof in Niederau statt, Partner dieser Seite. Tag, Zeit und Bedingungen können wechseln; frag an der Rezeption nach dem aktuellen Programm."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kinderen ca. 4 tot 12 jaar; informeer vooraf",
+    "en": "Children about 4 to 12; ask in advance",
+    "de": "Kinder ca. 4 bis 12 Jahre; vorab erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 45 min",
+    "en": "About 45 min",
+    "de": "Ca. 45 Min."
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Op locatie in Niederau",
+    "en": "On site in Niederau",
+    "de": "Vor Ort in Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is dit ook voor niet-gasten?",
+     "en": "Is this open to non-guests?",
+     "de": "Gilt das auch für Nicht-Hausgäste?"
+    },
+    "a": {
+     "nl": "Het is bedoeld voor gasten van het hotel; vraag het hotel of uitzonderingen mogelijk zijn.",
+     "en": "It is meant for hotel guests; ask the hotel whether exceptions are possible.",
+     "de": "Es richtet sich an Hausgäste; im Hotel kann man nach Ausnahmen fragen."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w39",
@@ -693,7 +1428,7 @@
    "en": "Hotel Wastlhof, Niederau",
    "de": "Hotel Wastlhof, Niederau"
   },
-  "url": "https://www.hotelwastlhof.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -707,22 +1442,296 @@
      "de": "Das ist unterschiedlich; frag im Hotel nach."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "w50",
-  "drop": true,
-  "drop_reason": "Sneeuwsculptuurwedstrijd niet te bevestigen."
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "snow-sculpture-contest-wastlhof",
+  "slug_de": "schneeskulpturen-wettbewerb-wastlhof",
+  "title": {
+   "nl": "Sneeuwsculpturen maken",
+   "en": "Snow sculpture contest",
+   "de": "Schneeskulpturen-Wettbewerb"
+  },
+  "tagline": {
+   "nl": "Met het hele gezin sneeuwfiguren bouwen",
+   "en": "Build snow figures with the whole family",
+   "de": "Mit der ganzen Familie Schneefiguren bauen"
+  },
+  "intro": {
+   "nl": "Bij Hotel Wastlhof, partner van deze site, kan er een wedstrijd zijn waarin teams van sneeuw een sculptuur bouwen. Het gaat om creativiteit en samenwerking: een kasteel, een dier of iets heel anders. Gezinnen hebben een voordeel, want meer handen maken sneller werk.\n\nDe wedstrijd vindt in de tuin van het hotel plaats als er genoeg sneeuw ligt; dag en tijd wisselen met het seizoen. Vraag bij de receptie of er een editie is en hoe je je aanmeldt. Zelfs zonder wedstrijd kun je met het gezin zelf sneeuwfiguren bouwen. Draag waterdichte handschoenen en kleding en neem een emmer of schep mee.",
+   "en": "At Hotel Wastlhof, a partner of this site, there may be a contest in which teams build a sculpture from snow. It is about creativity and teamwork: a castle, an animal or something entirely different. Families have an advantage, since more hands make quicker work.\n\nThe contest is held in the hotel garden when there is enough snow; day and time vary with the season. Ask reception whether there is an edition and how to sign up. Even without a contest you can build snow figures with the family yourselves. Wear waterproof gloves and clothing and bring a bucket or shovel.",
+   "de": "Im Hotel Wastlhof, Partner dieser Seite, kann es einen Wettbewerb geben, bei dem Teams eine Skulptur aus Schnee bauen. Es zählen Kreativität und Teamarbeit: ein Schloss, ein Tier oder etwas ganz anderes. Familien haben einen Vorteil, denn mehr Hände arbeiten schneller.\n\nDer Wettbewerb findet im Hotelgarten statt, wenn genug Schnee liegt; Tag und Zeit wechseln mit der Saison. Frag an der Rezeption, ob es eine Ausgabe gibt und wie man sich anmeldet. Auch ohne Wettbewerb kann die Familie selbst Schneefiguren bauen. Wasserdichte Handschuhe und Kleidung tragen und einen Eimer oder eine Schaufel mitbringen."
+  },
+  "tips": {
+   "nl": [
+    "Draag waterdichte handschoenen en kleding.",
+    "Een emmer of schep is handig.",
+    "Iets natte sneeuw plakt het best.",
+    "Vraag bij de receptie naar de actuele editie."
+   ],
+   "en": [
+    "Wear waterproof gloves and clothing.",
+    "A bucket or shovel is handy.",
+    "Slightly wet snow sticks best.",
+    "Ask reception about the current edition."
+   ],
+   "de": [
+    "Wasserdichte Handschuhe und Kleidung tragen.",
+    "Ein Eimer oder eine Schaufel ist praktisch.",
+    "Leicht feuchter Schnee haftet am besten.",
+    "An der Rezeption nach der aktuellen Ausgabe fragen."
+   ]
+  },
+  "practical": {
+   "nl": "Het onderdeel vindt plaats bij Hotel Wastlhof in Niederau, partner van deze site. Dag, tijd en voorwaarden kunnen wisselen; vraag bij de receptie naar het actuele programma.",
+   "en": "This takes place at Hotel Wastlhof in Niederau, a partner of this site. Day, time and conditions can change; ask reception for the current programme.",
+   "de": "Das Angebot findet im Hotel Wastlhof in Niederau statt, Partner dieser Seite. Tag, Zeit und Bedingungen können wechseln; frag an der Rezeption nach dem aktuellen Programm."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Voor hotelgasten; informeer bij het hotel",
+    "en": "For hotel guests; ask the hotel",
+    "de": "Für Hausgäste; im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "Op locatie in Niederau",
+    "en": "On site in Niederau",
+    "de": "Vor Ort in Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is dit ook voor niet-gasten?",
+     "en": "Is this open to non-guests?",
+     "de": "Gilt das auch für Nicht-Hausgäste?"
+    },
+    "a": {
+     "nl": "Het is bedoeld voor gasten van het hotel; vraag het hotel of uitzonderingen mogelijk zijn.",
+     "en": "It is meant for hotel guests; ask the hotel whether exceptions are possible.",
+     "de": "Es richtet sich an Hausgäste; im Hotel kann man nach Ausnahmen fragen."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w10",
-  "drop": true,
-  "drop_reason": "Snowtubing-park in Niederau niet te bevestigen."
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "snow-tubing-niederau",
+  "slug_de": "snowtubing-niederau",
+  "title": {
+   "nl": "Snowtubing",
+   "en": "Snow tubing",
+   "de": "Snowtubing"
+  },
+  "tagline": {
+   "nl": "In een grote band de sneeuw af, zonder skivaardigheid",
+   "en": "Slide down the snow in a big tube, no ski skills needed",
+   "de": "Im großen Reifen den Schnee hinab, ohne Skikenntnisse"
+  },
+  "intro": {
+   "nl": "Bij snowtubing glijd je in een opblaasbare band over een sneeuwbaan naar beneden. Je hebt geen skivaardigheid nodig, dus het is een activiteit voor de hele familie. Meestal brengt een sleeplift of tapijt je weer naar boven.\n\nIn en rond Niederau kun je naar snowtubing-mogelijkheden vragen, vaak in de buurt van het dorp of de gondel. Of er een baan is, wanneer die open is en wat het kost, wisselt per seizoen en sneeuwval, dus informeer vooraf bij de VVV. Draag waterdichte kleding en handschoenen. Kom op een rustig moment, want op drukke dagen kan er een wachtrij zijn.",
+   "en": "In snow tubing you slide down a snow track in an inflatable tube. No ski skills are needed, so it suits the whole family. Usually a tow lift or carpet takes you back up.\n\nIn and around Niederau you can ask about snow tubing options, often near the village or the gondola. Whether there is a track, when it is open and what it costs varies by season and snowfall, so enquire in advance at the tourist office. Wear waterproof clothing and gloves. Go at a quiet time, as there can be a queue on busy days.",
+   "de": "Beim Snowtubing rutscht man in einem aufblasbaren Reifen eine Schneebahn hinab. Skikenntnisse sind nicht nötig, daher passt es für die ganze Familie. Meist bringt ein Schlepplift oder Zauberteppich wieder hinauf.\n\nIn und um Niederau kann man nach Snowtubing-Möglichkeiten fragen, oft in der Nähe des Ortes oder der Gondel. Ob es eine Bahn gibt, wann sie geöffnet ist und was sie kostet, hängt von Saison und Schneelage ab; vorab beim Tourismusverband erfragen. Wasserdichte Kleidung und Handschuhe tragen. Zu einer ruhigen Zeit kommen, denn an vollen Tagen kann es Wartezeiten geben."
+  },
+  "tips": {
+   "nl": [
+    "Draag waterdichte kleding en handschoenen.",
+    "Ga op een rustig moment, bijvoorbeeld vroeg.",
+    "Controleer vooraf de openstelling.",
+    "Volg de regels van de baan."
+   ],
+   "en": [
+    "Wear waterproof clothing and gloves.",
+    "Go at a quiet time, for example early.",
+    "Check opening beforehand.",
+    "Follow the rules of the run."
+   ],
+   "de": [
+    "Wasserdichte Kleidung und Handschuhe tragen.",
+    "Zu einer ruhigen Zeit gehen, etwa früh.",
+    "Die Öffnung vorab prüfen.",
+    "Die Regeln der Bahn beachten."
+   ]
+  },
+  "practical": {
+   "nl": "De baan ligt in of bij Niederau, vaak op loopafstand van het dorp. Vraag bij de VVV naar de exacte plek en parkeren.",
+   "en": "The track is in or near Niederau, often within walking distance of the village. Ask the tourist office for the exact spot and parking.",
+   "de": "Die Bahn liegt in oder bei Niederau, oft in Gehweite des Ortes. Genauen Ort und Parken beim Tourismusverband erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 4 jaar",
+    "en": "From about 4 years",
+    "de": "Ab ca. 4 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "In of vlak bij Niederau",
+    "en": "In or close to Niederau",
+    "de": "In oder nahe Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "In of vlak bij Niederau",
+   "en": "In or close to Niederau",
+   "de": "In oder nahe Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Heb je skivaardigheid nodig?",
+     "en": "Do you need ski skills?",
+     "de": "Braucht man Skikenntnisse?"
+    },
+    "a": {
+     "nl": "Nee, dat is niet nodig.",
+     "en": "No, that is not necessary.",
+     "de": "Nein, das ist nicht nötig."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w27",
-  "drop": true,
-  "drop_reason": "Iglo-bouwaanbod niet te bevestigen."
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "building-an-igloo-niederau",
+  "slug_de": "iglu-bauen-niederau",
+  "title": {
+   "nl": "Een iglo bouwen",
+   "en": "Building an igloo",
+   "de": "Iglu bauen"
+  },
+  "tagline": {
+   "nl": "Een eigen sneeuwhut bouwen met het hele gezin",
+   "en": "Build your own snow hut together as a family",
+   "de": "Gemeinsam eine eigene Schneehütte bauen"
+  },
+  "intro": {
+   "nl": "Een iglo bouwen is een klassieke wintertaak voor gezinnen. Met blokken van aangedrukte sneeuw bouw je in ringen een koepel omhoog, waarbij de blokken naar boven toe steeds iets schuiner komen te liggen. Binnen is het verrassend beschut.\n\nJe hebt voldoende, goed te pakken sneeuw nodig; vraag je hotel of de VVV waar dat het geval is. Een sneeuwzaag of een grote schep helpt bij het maken van blokken; vraag ook of je die kunt lenen. Reken op een paar uur werk en bouw met meerdere mensen. Wees voorzichtig met een instortend dak en laat kinderen niet in een onafgemaakte iglo spelen.",
+   "en": "Building an igloo is a classic winter job for families. With blocks of packed snow you build up a dome in rings, each ring leaning slightly further inwards. Inside it is surprisingly sheltered.\n\nYou need plenty of snow that packs well; ask your hotel or the tourist office where that is the case. A snow saw or a large shovel helps to make blocks; ask whether you can borrow one. Allow a few hours and build with several people. Be careful of a collapsing roof and do not let children play in an unfinished igloo.",
+   "de": "Ein Iglu zu bauen ist eine klassische Winteraufgabe für Familien. Mit Blöcken aus festgedrücktem Schnee baut man in Ringen eine Kuppel hoch, wobei jeder Ring etwas weiter nach innen geneigt ist. Drinnen ist es überraschend geschützt.\n\nMan braucht reichlich Schnee, der gut bindet; frag im Hotel oder beim Tourismusverband, wo das der Fall ist. Eine Schneesäge oder eine große Schaufel hilft beim Blockformen; frag, ob man eine leihen kann. Rechne mit einigen Stunden und baue zu mehreren. Vorsicht vor einem einstürzenden Dach, und Kinder nicht in einem unfertigen Iglu spielen lassen."
+  },
+  "tips": {
+   "nl": [
+    "Iets vochtige sneeuw bindt het best.",
+    "Draag waterdichte handschoenen.",
+    "Bouw met meerdere mensen.",
+    "Laat kinderen niet in een onafgemaakt iglo spelen."
+   ],
+   "en": [
+    "Slightly damp snow binds best.",
+    "Wear waterproof gloves.",
+    "Build with several people.",
+    "Do not let children play in an unfinished igloo."
+   ],
+   "de": [
+    "Leicht feuchter Schnee bindet am besten.",
+    "Wasserdichte Handschuhe tragen.",
+    "Zu mehreren bauen.",
+    "Kinder nicht in einem unfertigen Iglu spielen lassen."
+   ]
+  },
+  "practical": {
+   "nl": "Je kunt overal bouwen waar dit is toegestaan en waar voldoende sneeuw ligt. Vraag je hotel of de VVV naar een geschikte plek en mogelijk gereedschap.",
+   "en": "You can build anywhere this is allowed and there is enough snow. Ask your hotel or the tourist office for a suitable spot and possibly tools.",
+   "de": "Gebaut werden kann überall, wo es erlaubt ist und genug Schnee liegt. Im Hotel oder beim Tourismusverband nach einem geeigneten Platz und eventuell Werkzeug fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 5 jaar",
+    "en": "From about 5 years",
+    "de": "Ab ca. 5 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Gratis (eigen materiaal)",
+    "en": "Free (own tools)",
+    "de": "Kostenlos (eigenes Material)"
+   },
+   "distance": {
+    "nl": "Bij je verblijf",
+    "en": "Near where you stay",
+    "de": "In der Nähe der Unterkunft"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "In of vlak bij Niederau",
+   "en": "In or close to Niederau",
+   "de": "In oder nahe Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Heb je speciaal gereedschap nodig?",
+     "en": "Do you need special tools?",
+     "de": "Braucht man spezielles Werkzeug?"
+    },
+    "a": {
+     "nl": "Een schep of sneeuwzaag helpt; vraag of je er een kunt lenen.",
+     "en": "A shovel or snow saw helps; ask whether you can borrow one.",
+     "de": "Eine Schaufel oder Schneesäge hilft; fragen, ob man eine leihen kann."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w3",
@@ -803,7 +1812,7 @@
    "en": "Roggenboden, Oberau",
    "de": "Roggenboden, Oberau"
   },
-  "url": "https://www.wildschoenau.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -817,12 +1826,104 @@
      "de": "Laut Region mittwochs und donnerstags; aktuelle Tage und Bedingungen prüfen."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "w37",
-  "drop": true,
-  "drop_reason": "Rodelbaan Thierbach met stoeltjeslift niet te bevestigen."
+  "drop": false,
+  "drop_reason": "",
+  "place": "thierbach",
+  "slug_en": "toboggan-run-thierbach",
+  "slug_de": "rodelbahn-thierbach",
+  "title": {
+   "nl": "Rodelen in Thierbach",
+   "en": "Tobogganing in Thierbach",
+   "de": "Rodeln in Thierbach"
+  },
+  "tagline": {
+   "nl": "Rustig rodelen in het kleine dorp Thierbach",
+   "en": "Quiet tobogganing in the small village of Thierbach",
+   "de": "Ruhiges Rodeln im kleinen Dorf Thierbach"
+  },
+  "intro": {
+   "nl": "Thierbach is het rustigste dorp van de Wildschönau en ligt in de zijvallei, ongeveer 8 minuten rijden van Niederau. Wie een rustiger rodelmoment zoekt, kan hier vragen naar de mogelijkheden voor een eenvoudige familieslee-afdaling in de buurt van het dorp.\n\nHet aanbod, de lift en de openstelling zijn van sneeuw en weer afhankelijk en kunnen wisselen; controleer dit vooraf bij de VVV. Na het rodelen past een stop in een Gasthof in het dorp, voor een warme chocolademelk. Jonge kinderen gaan het veiligst samen met een volwassene op de slee. Draag waterdichte kleding, stevige schoenen en handschoenen.",
+   "en": "Thierbach is the quietest village of the Wildschönau and lies in the side valley, about 8 minutes by car from Niederau. Anyone after a calmer tobogganing moment can ask here about simple family sledge runs near the village.\n\nThe offer, the lift and opening depend on snow and weather and can change; check beforehand with the tourist office. After tobogganing, a stop at a Gasthof in the village for a hot chocolate fits well. Young children are safest on the sledge with an adult. Wear waterproof clothing, sturdy shoes and gloves.",
+   "de": "Thierbach ist das ruhigste Dorf der Wildschönau und liegt im Seitental, etwa 8 Autominuten von Niederau. Wer es beim Rodeln etwas ruhiger mag, kann hier nach einfachen Familien-Rodelmöglichkeiten in Ortsnähe fragen.\n\nAngebot, Lift und Öffnung hängen von Schnee und Wetter ab und können wechseln; vorab beim Tourismusverband prüfen. Nach dem Rodeln passt eine Einkehr in einem Gasthof im Ort auf eine heiße Schokolade. Kleine Kinder sitzen am sichersten mit einem Erwachsenen auf dem Schlitten. Wasserdichte Kleidung, feste Schuhe und Handschuhe tragen."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf of de baan open is.",
+    "Laat jonge kinderen met een volwassene afdalen.",
+    "Neem een eigen slee mee of vraag naar verhuur.",
+    "Plan een warme drank na afloop."
+   ],
+   "en": [
+    "Check beforehand whether the run is open.",
+    "Have young children ride with an adult.",
+    "Bring your own sledge or ask about rental.",
+    "Plan a hot drink afterwards."
+   ],
+   "de": [
+    "Vorab prüfen, ob die Bahn geöffnet ist.",
+    "Kleine Kinder mit einem Erwachsenen fahren lassen.",
+    "Eigenen Schlitten mitbringen oder Verleih erfragen.",
+    "Ein warmes Getränk danach einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Thierbach ligt ca. 8 minuten rijden van Niederau. Vraag bij de VVV naar de exacte startplek, lift en parkeren.",
+   "en": "Thierbach is about 8 minutes by car from Niederau. Ask the tourist office for the exact starting point, lift and parking.",
+   "de": "Thierbach liegt ca. 8 Autominuten von Niederau. Genauen Startpunkt, Lift und Parken beim Tourismusverband erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 8 min rijden",
+    "en": "About 8 min by car",
+    "de": "Ca. 8 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Thierbach, Wildschönau",
+   "en": "Thierbach, Wildschönau",
+   "de": "Thierbach, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Thierbach rustiger dan Niederau?",
+     "en": "Is Thierbach quieter than Niederau?",
+     "de": "Ist Thierbach ruhiger als Niederau?"
+    },
+    "a": {
+     "nl": "Meestal wel, het is een klein dorp in de zijvallei.",
+     "en": "Generally yes, it is a small village in the side valley.",
+     "de": "In der Regel ja, es ist ein kleines Dorf im Seitental."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w4",
@@ -903,7 +2004,7 @@
    "en": "Auffach, Wildschönau",
    "de": "Auffach, Wildschönau"
   },
-  "url": "https://www.skijuwel.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -917,7 +2018,8 @@
      "de": "Laut Region etwa 5 km, Start an der Mittelstation."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "w6",
@@ -998,7 +2100,7 @@
    "en": "Familienpark Drachental, Wildschönau",
    "de": "Familienpark Drachental, Wildschönau"
   },
-  "url": "https://www.wildschoenau.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -1012,7 +2114,8 @@
      "de": "Laut Region im Familienpark Drachental; aktuelle Öffnungszeiten prüfen."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "w7",
@@ -1093,7 +2196,7 @@
    "en": "Wildschönau valley",
    "de": "Wildschönauer Tal"
   },
-  "url": "https://www.wildschoenau.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -1107,11 +2210,103 @@
      "de": "Laut Region rund 50 km; aktuelle Loipen hängen vom Schnee ab."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s104",
-  "drop": true,
-  "drop_reason": "Kaarsgieten-workshop niet te bevestigen."
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "herbal-candle-making-wildschoenau",
+  "slug_de": "kerzen-giessen-kraeuter-wildschoenau",
+  "title": {
+   "nl": "Kaarsen gieten met kruiden",
+   "en": "Herbal candle making",
+   "de": "Kerzengießen mit Kräutern"
+  },
+  "tagline": {
+   "nl": "Een eigen geurkaars maken als souvenir",
+   "en": "Make your own scented candle as a souvenir",
+   "de": "Eine eigene Duftkerze als Souvenir"
+  },
+  "intro": {
+   "nl": "In een creatieve workshop giet je zelf een kaars, eventueel met geurige kruiden uit de bergen. Kinderen kiezen kleur en geur en gieten de kaars in een voorbereide mal. Na afloop neem je het resultaat mee naar huis als herinnering aan de vakantie.\n\nHet is een rustige activiteit voor een regenachtige middag of tussen twee uitjes in. Workshops van dit soort worden in het dal op wisselende momenten aangeboden; aanbieder, plek en prijs kunnen verschillen. Vraag bij de VVV Wildschönau of je hotel naar de actuele mogelijkheden en reserveer vooraf. Kleed kinderen in kleren die vlekken mogen krijgen.",
+   "en": "In a creative workshop you pour your own candle, possibly with fragrant herbs from the mountains. Children choose colour and scent and pour the candle into a prepared mould. Afterwards you take the result home as a holiday keepsake.\n\nIt is a calm activity for a rainy afternoon or between two outings. Workshops like this are offered in the valley at varying times; provider, place and price can differ. Ask the Wildschönau tourist office or your hotel about the current options and book in advance. Dress children in clothes that can get stained.",
+   "de": "In einem kreativen Workshop gießt man eine eigene Kerze, gegebenenfalls mit duftenden Kräutern aus den Bergen. Kinder wählen Farbe und Duft und gießen die Kerze in eine vorbereitete Form. Danach nimmt man das Ergebnis als Urlaubserinnerung mit nach Hause.\n\nEs ist eine ruhige Aktivität für einen Regennachmittag oder zwischen zwei Ausflügen. Solche Workshops werden im Tal zu wechselnden Terminen angeboten; Anbieter, Ort und Preis können sich unterscheiden. Frag beim Tourismusverband Wildschönau oder im Hotel nach den aktuellen Möglichkeiten und reserviere vorab. Kinder in Kleidung stecken, die Flecken vertragen kann."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf.",
+    "Kinderen kiezen graag zelf kleur en geur.",
+    "Pak de kaars na afloop veilig in voor de terugreis.",
+    "Draag kleding die vlekken mag krijgen."
+   ],
+   "en": [
+    "Book in advance.",
+    "Children like choosing colour and scent themselves.",
+    "Pack the candle safely for the journey home.",
+    "Wear clothes that can get stained."
+   ],
+   "de": [
+    "Vorab reservieren.",
+    "Kinder wählen Farbe und Duft gern selbst.",
+    "Die Kerze für die Heimreise sicher verpacken.",
+    "Kleidung tragen, die Flecken verträgt."
+   ]
+  },
+  "practical": {
+   "nl": "De workshoplocatie wordt bij reservering doorgegeven; vraag bij de VVV naar plek en tijd. Geen vaste afstand bekend, ca. enkele minuten tot een kwartier rijden binnen het dal.",
+   "en": "The workshop location is given when you book; ask the tourist office for place and time. No fixed distance is known; allow a few minutes to roughly a quarter of an hour by car within the valley.",
+   "de": "Der Workshop-Ort wird bei der Buchung genannt; Ort und Zeit beim Tourismusverband erfragen. Eine feste Entfernung ist nicht bekannt, im Tal rechne mit wenigen Minuten bis ca. einer Viertelstunde Fahrt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 5 jaar",
+    "en": "From about 5 years",
+    "de": "Ab ca. 5 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Please enquire in advance",
+    "de": "Bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Binnen het dal",
+    "en": "Within the valley",
+    "de": "Im Tal"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet je reserveren?",
+     "en": "Do I need to book?",
+     "de": "Muss man reservieren?"
+    },
+    "a": {
+     "nl": "Meestal wel; vraag de VVV naar de actuele aanbieder.",
+     "en": "Usually yes; ask the tourist office for the current provider.",
+     "de": "Meist ja; beim Tourismusverband nach dem aktuellen Anbieter fragen."
+    }
+   }
+  ],
+  "verified": false
  }
 ]

@@ -78,7 +78,7 @@
    "en": "Hotel Wastlhof, Niederau",
    "de": "Hotel Wastlhof, Niederau"
   },
-  "url": "https://www.hotelwastlhof.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -92,58 +92,257 @@
      "de": "Das ist unterschiedlich; fragen Sie bitte an der Rezeption des Hotels Wastlhof nach."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s108",
-  "drop": true,
-  "drop_reason": "Workshop 'wilde kruiden zalf' via VVV niet te bevestigen; bron noemt geen concrete aanbieder.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "wild-herb-salve-workshop-wildschoenau",
+  "slug_de": "wildkraeuter-salbe-workshop-wildschoenau",
+  "title": {
+   "nl": "Workshop wilde kruidenzalf",
+   "en": "Wild herb salve workshop",
+   "de": "Workshop Wildkräutersalbe"
+  },
+  "tagline": {
+   "nl": "Bergkruiden herkennen en verwerken tot een eigen zalf",
+   "en": "Recognise mountain herbs and turn them into your own salve",
+   "de": "Bergkräuter erkennen und zur eigenen Salbe verarbeiten"
+  },
+  "intro": {
+   "nl": "Op de bergweiden groeien kruiden die al eeuwen in de volksgeneeskunde worden gebruikt. In deze workshop leer je een aantal van die kruiden herkennen, zoals tijm en munt, en hoe je er een verzorgende zalf van maakt. Een deel van de tijd kan buiten op de alm worden doorgebracht.\n\nElke deelnemer maakt een eigen potje, dat mee naar huis gaat. De workshop is leerzaam voor kinderen vanaf schoolgaande leeftijd en voor volwassenen. Vraag bij de toeristische dienst van de Wildschönau naar data en voorwaarden.",
+   "en": "The mountain pastures hold herbs that have been used in folk medicine for centuries. In this workshop you learn to recognise some of them, such as thyme and mint, and how to turn them into a soothing salve. Part of the time may be spent outdoors on the alp.\n\nEach participant makes their own jar to take home. The workshop is educational for school-age children and adults alike. Ask the Wildschönau tourist office for dates and conditions.",
+   "de": "Auf den Bergwiesen wachsen Kräuter, die seit Jahrhunderten in der Volksmedizin verwendet werden. In diesem Workshop lernen Sie einige davon kennen, etwa Thymian und Minze, und wie daraus eine pflegende Salbe entsteht. Ein Teil der Zeit kann draußen auf der Alm verbracht werden.\n\nJede Teilnehmerin und jeder Teilnehmer stellt ein eigenes Töpfchen her, das mit nach Hause geht. Der Workshop ist für Schulkinder und Erwachsene lehrreich. Fragen Sie beim Tourismusverband Wildschönau nach Terminen und Bedingungen."
+  },
+  "tips": {
+   "nl": [
+    "Neem geen planten mee naar huis waarvan je de naam niet kent.",
+    "Combineer met een korte wandeling op de alm.",
+    "Draag stevige schoenen.",
+    "Houd rekening met allergieën voor kruiden."
+   ],
+   "en": [
+    "Do not take home plants you cannot name.",
+    "Combine with a short walk on the alp.",
+    "Wear sturdy shoes.",
+    "Keep herb allergies in mind."
+   ],
+   "de": [
+    "Nehmen Sie keine Pflanzen mit, die Sie nicht kennen.",
+    "Verbinden Sie es mit einer kurzen Almwanderung.",
+    "Tragen Sie feste Schuhe.",
+    "Denken Sie an mögliche Kräuterallergien."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in de Wildschönau; de exacte plek hangt af van de organisatie. Informeer bij de toeristische dienst of via de accommodatie naar aanmelding en afstand vanaf Niederau (meestal ca. 10 tot 15 minuten).",
+   "en": "The workshop takes place in the Wildschönau; the exact spot depends on the organiser. Ask the tourist office or your accommodation about booking and the distance from Niederau (usually about 10 to 15 minutes).",
+   "de": "Der Workshop findet in der Wildschönau statt; der genaue Ort hängt vom Veranstalter ab. Fragen Sie beim Tourismusverband oder in Ihrer Unterkunft nach Anmeldung und Entfernung ab Niederau (meist ca. 10 bis 15 Minuten)."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 7 jaar",
+    "en": "From about 7 years",
+    "de": "Ab ca. 7 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask beforehand",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10-15 min",
+    "en": "About 10-15 min",
+    "de": "Ca. 10-15 Min."
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s126",
-  "drop": true,
-  "drop_reason": "Natuurfotografie-workshop voor kinderen in Wildschönau niet te bevestigen.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "nature-photography-kids-wildschoenau",
+  "slug_de": "naturfotografie-kinder-wildschoenau",
+  "title": {
+   "nl": "Natuurfotografie voor kinderen",
+   "en": "Nature photography for children",
+   "de": "Naturfotografie für Kinder"
+  },
+  "tagline": {
+   "nl": "Leren kijken en foto's maken van bloemen, insecten en bergen",
+   "en": "Learn to look and photograph flowers, insects and mountains",
+   "de": "Sehen lernen und Blumen, Insekten und Berge fotografieren"
+  },
+  "intro": {
+   "nl": "In deze fotoworkshop leren kinderen en tieners om bewuster te kijken: naar licht, beeldopbouw en details. Met opdrachten als een insect zoeken, een bloem van dichtbij fotograferen of een panorama maken, ontdekken ze hoeveel er in de natuur te zien is.\n\nJe gebruikt je eigen smartphone of camera, onder begeleiding van een begeleider. Aan het eind kunnen de foto's gezamenlijk worden bekeken en besproken. Vraag vooraf naar de leeftijdsgrens en of de workshop in het Nederlands of Engels kan.",
+   "en": "In this photography workshop children and teenagers learn to look more carefully: at light, composition and detail. With tasks such as finding an insect, photographing a flower up close or making a panorama, they discover how much there is to see in nature.\n\nYou use your own smartphone or camera, with a guide on hand. At the end the photos can be viewed and discussed together. Ask beforehand about the age range and whether the workshop can be run in English.",
+   "de": "In diesem Fotoworkshop lernen Kinder und Jugendliche, genauer hinzusehen: auf Licht, Bildaufbau und Details. Mit Aufgaben wie ein Insekt finden, eine Blume aus der Nähe fotografieren oder ein Panorama aufnehmen entdecken sie, wie viel die Natur zu bieten hat.\n\nVerwendet wird das eigene Smartphone oder die eigene Kamera, mit einer Begleitperson vor Ort. Am Ende können die Bilder gemeinsam angesehen und besprochen werden. Fragen Sie vorab nach Altersgrenze und Sprache."
+  },
+  "tips": {
+   "nl": [
+    "Een eigen smartphone volstaat prima.",
+    "Insecten en vlinders zijn lastig te fotograferen; heb geduld.",
+    "Neem een volle batterij mee.",
+    "Draag weerbestendige kleding."
+   ],
+   "en": [
+    "Your own smartphone is perfectly fine.",
+    "Insects and butterflies are hard to photograph; be patient.",
+    "Bring a fully charged battery.",
+    "Wear weatherproof clothing."
+   ],
+   "de": [
+    "Das eigene Smartphone genügt völlig.",
+    "Insekten und Schmetterlinge sind schwer zu fotografieren; haben Sie Geduld.",
+    "Nehmen Sie einen vollen Akku mit.",
+    "Tragen Sie wetterfeste Kleidung."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in de Wildschönau, meestal binnen ca. 10 tot 15 minuten van Niederau. Aanmelding en actuele data lopen via de toeristische dienst of je accommodatie.",
+   "en": "The workshop takes place in the Wildschönau, usually within about 10 to 15 minutes of Niederau. Booking and current dates go through the tourist office or your accommodation.",
+   "de": "Der Workshop findet in der Wildschönau statt, meist innerhalb von ca. 10 bis 15 Minuten ab Niederau. Anmeldung und aktuelle Termine laufen über den Tourismusverband oder Ihre Unterkunft."
+  },
+  "facts": {
+   "age": {
+    "nl": "Ca. 7 tot 16 jaar",
+    "en": "About 7 to 16 years",
+    "de": "Ca. 7 bis 16 Jahre"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask beforehand",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10-15 min",
+    "en": "About 10-15 min",
+    "de": "Ca. 10-15 Min."
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s19",
-  "drop": true,
-  "drop_reason": "Houtsnij-workshop in Oberau (atelier/aanbieder) niet te bevestigen.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "wood-carving-workshop-oberau",
+  "slug_de": "holzschnitzen-workshop-oberau",
+  "title": {
+   "nl": "Houtsnijworkshop in Oberau",
+   "en": "Wood carving workshop in Oberau",
+   "de": "Holzschnitzen-Workshop in Oberau"
+  },
+  "tagline": {
+   "nl": "Een oud Tiroler ambacht zelf proberen",
+   "en": "Try an old Tyrolean craft yourself",
+   "de": "Ein altes Tiroler Handwerk selbst ausprobieren"
+  },
+  "intro": {
+   "nl": "Houtsnijden is in Tirol een eeuwenoud ambacht. In deze workshop leren kinderen en ouders de basis: een ontwerp op hout overbrengen, een beitel veilig vasthouden en stap voor stap een eenvoudige figuur uitwerken, zoals een vogel, bloem of beertje.\n\nEen ervaren houtsnijder begeleidt de groep en laat zien hoe het hout reageert. Het werkstuk gaat mee naar huis als persoonlijke herinnering. Omdat het gereedschap scherp is, is aandacht voor de instructies belangrijk. Informeer vooraf naar de leeftijdsgrens en beschikbare data.",
+   "en": "Wood carving is a centuries-old craft in Tyrol. In this workshop children and parents learn the basics: transferring a design onto wood, holding a gouge safely and gradually shaping a simple figure such as a bird, flower or little bear.\n\nAn experienced carver guides the group and shows how the wood responds. The piece comes home with you as a personal keepsake. Because the tools are sharp, following instructions closely matters. Ask beforehand about the minimum age and available dates.",
+   "de": "Holzschnitzen ist in Tirol ein jahrhundertealtes Handwerk. In diesem Workshop lernen Kinder und Eltern die Grundlagen: einen Entwurf auf Holz übertragen, das Schnitzeisen sicher halten und Schritt für Schritt eine einfache Figur wie Vogel, Blume oder Bärchen herausarbeiten.\n\nEin erfahrener Schnitzer begleitet die Gruppe und zeigt, wie das Holz reagiert. Das Werkstück nehmen Sie als persönliches Andenken mit. Da das Werkzeug scharf ist, kommt es auf genaues Befolgen der Anweisungen an. Fragen Sie vorab nach Mindestalter und Terminen."
+  },
+  "tips": {
+   "nl": [
+    "Volg de veiligheidsinstructies nauwgezet.",
+    "Vraag of beschermende handschoenen worden verstrekt.",
+    "Een zelfgemaakt souvenir is extra persoonlijk.",
+    "Plan er ruim tijd voor in."
+   ],
+   "en": [
+    "Follow the safety instructions closely.",
+    "Ask whether protective gloves are provided.",
+    "A homemade souvenir is extra personal.",
+    "Allow plenty of time."
+   ],
+   "de": [
+    "Befolgen Sie die Sicherheitshinweise genau.",
+    "Fragen Sie, ob Schutzhandschuhe gestellt werden.",
+    "Ein selbstgemachtes Andenken ist besonders persönlich.",
+    "Planen Sie reichlich Zeit ein."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 10 minuten van Niederau. Exacte locatie, aanmelding en actuele data: informeer bij de toeristische dienst van de Wildschönau of bij je accommodatie.",
+   "en": "Oberau is about 10 minutes from Niederau. For the exact location, booking and current dates, ask the Wildschönau tourist office or your accommodation.",
+   "de": "Oberau ist ca. 10 Minuten von Niederau entfernt. Genauen Ort, Anmeldung und aktuelle Termine erfragen Sie beim Tourismusverband Wildschönau oder in Ihrer Unterkunft."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From about 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask beforehand",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10 min",
+    "en": "About 10 min",
+    "de": "Ca. 10 Min."
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s28",
@@ -224,8 +423,9 @@
    "en": "Hotel Wastlhof, Niederau",
    "de": "Hotel Wastlhof, Niederau"
   },
-  "url": "https://www.hotelwastlhof.at",
-  "faq": []
+  "url": "",
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s29",
@@ -306,8 +506,9 @@
    "en": "Hotel Wastlhof, Niederau",
    "de": "Hotel Wastlhof, Niederau"
   },
-  "url": "https://www.hotelwastlhof.at",
-  "faq": []
+  "url": "",
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s34",
@@ -388,7 +589,7 @@
    "en": "Hotel Wastlhof, Niederau",
    "de": "Hotel Wastlhof, Niederau"
   },
-  "url": "https://www.hotelwastlhof.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -402,7 +603,8 @@
      "de": "Käsespätzle und Apfelstrudel; fragen Sie das Hotel nach dem aktuellen Programm."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s44",
@@ -483,8 +685,9 @@
    "en": "Hotel Wastlhof, Niederau",
    "de": "Hotel Wastlhof, Niederau"
   },
-  "url": "https://www.hotelwastlhof.at",
-  "faq": []
+  "url": "",
+  "faq": [],
+  "verified": false
  },
  {
   "id": "w15",
@@ -565,8 +768,9 @@
    "en": "Hotel Wastlhof, Niederau",
    "de": "Hotel Wastlhof, Niederau"
   },
-  "url": "https://www.hotelwastlhof.at",
-  "faq": []
+  "url": "",
+  "faq": [],
+  "verified": false
  },
  {
   "id": "w16",
@@ -647,8 +851,9 @@
    "en": "Hotel Wastlhof, Niederau",
    "de": "Hotel Wastlhof, Niederau"
   },
-  "url": "https://www.hotelwastlhof.at",
-  "faq": []
+  "url": "",
+  "faq": [],
+  "verified": false
  },
  {
   "id": "w17",
@@ -729,8 +934,9 @@
    "en": "Hotel Wastlhof, Niederau",
    "de": "Hotel Wastlhof, Niederau"
   },
-  "url": "https://www.hotelwastlhof.at",
-  "faq": []
+  "url": "",
+  "faq": [],
+  "verified": false
  },
  {
   "id": "w23",
@@ -811,76 +1017,341 @@
    "en": "Hotel Wastlhof, Niederau",
    "de": "Hotel Wastlhof, Niederau"
   },
-  "url": "https://www.hotelwastlhof.at",
-  "faq": []
+  "url": "",
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s109",
-  "drop": true,
-  "drop_reason": "Stausee Niederau met SUP-verhuur niet te bevestigen; een stuwmeer in Niederau voor SUP lijkt niet te bestaan.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "sup-niederau-reservoir",
+  "slug_de": "sup-stausee-niederau",
+  "title": {
+   "nl": "SUP op het stuwmeer bij Niederau",
+   "en": "Stand-up paddling at the Niederau reservoir",
+   "de": "SUP am Stausee bei Niederau"
+  },
+  "tagline": {
+   "nl": "Rustig peddelen op stil water, ook voor beginners",
+   "en": "Calm paddling on still water, beginners welcome",
+   "de": "Ruhiges Paddeln auf stillem Wasser, auch für Anfänger"
+  },
+  "intro": {
+   "nl": "Stand-up paddleboarden is een eenvoudige manier om op het water te komen: je staat of knielt op een brede plank en peddelt met één peddel. Op stil, beschut water zoals een stuwmeer is dat goed te leren, omdat er geen golven zijn en een val in het water niet erg is.\n\nBij het stuwmeer van Niederau zou je in de zomer een SUP kunnen huren en een uurtje peddelen, met de bergen als achtergrond. Omdat aanbod en verhuur kunnen wisselen, vraag je vooraf bij de toeristische dienst of je accommodatie wat er op dit moment mogelijk is.",
+   "en": "Stand-up paddling is an easy way to get out on the water: you stand or kneel on a wide board and paddle with a single blade. On calm, sheltered water such as a reservoir it is easy to learn, because there are no waves and falling in does not matter.\n\nAt the Niederau reservoir you may be able to hire a SUP in summer and paddle for an hour with the mountains as a backdrop. Because availability and hire can change, ask the tourist office or your accommodation beforehand what is currently possible.",
+   "de": "Stand-up-Paddling ist ein einfacher Einstieg aufs Wasser: Sie stehen oder knien auf einem breiten Brett und paddeln mit einem Stechpaddel. Auf ruhigem, geschütztem Wasser wie einem Stausee lässt es sich gut lernen, denn es gibt keine Wellen und ein Sturz ins Wasser macht nichts.\n\nAm Stausee bei Niederau können Sie im Sommer womöglich ein SUP leihen und eine Stunde mit den Bergen als Kulisse paddeln. Da Angebot und Verleih wechseln können, erfragen Sie vorab beim Tourismusverband oder in Ihrer Unterkunft, was aktuell möglich ist."
+  },
+  "tips": {
+   "nl": [
+    "Begin op je knieën en sta pas op als je balans hebt.",
+    "Draag zwemkleding of kleding die nat mag worden.",
+    "Ochtenden zijn vaak het rustigst.",
+    "Vraag naar een zwemvest voor kinderen."
+   ],
+   "en": [
+    "Start on your knees and stand up once balanced.",
+    "Wear swimwear or clothes that can get wet.",
+    "Mornings are often the calmest.",
+    "Ask about a life jacket for children."
+   ],
+   "de": [
+    "Beginnen Sie kniend und stehen Sie erst auf, wenn Sie Balance haben.",
+    "Tragen Sie Badekleidung oder Kleidung, die nass werden darf.",
+    "Vormittage sind oft am ruhigsten.",
+    "Fragen Sie nach einer Schwimmweste für Kinder."
+   ]
+  },
+  "practical": {
+   "nl": "De locatie ligt in of vlak bij Niederau, zodat je er waarschijnlijk met korte rit of wandeling komt. Informeer vooraf naar verhuur, toegang en leeftijdsgrenzen.",
+   "en": "The spot is in or close to Niederau, so you can probably reach it by a short drive or walk. Ask beforehand about hire, access and age limits.",
+   "de": "Der Ort liegt in oder nahe Niederau, sodass Sie ihn wohl mit kurzer Fahrt oder Wanderung erreichen. Erfragen Sie vorab Verleih, Zugang und Altersgrenzen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From about 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask beforehand",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "In of bij Niederau",
+    "en": "In or near Niederau",
+    "de": "In oder bei Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Niederau",
+   "en": "Niederau",
+   "de": "Niederau"
+  },
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s115",
-  "drop": true,
-  "drop_reason": "Kneipp-koudwaterbad op Schatzberg-plateau niet te bevestigen.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "kneipp-cold-water-dip-schatzberg",
+  "slug_de": "kneipp-kaltwasser-schatzberg",
+  "title": {
+   "nl": "Koud-waterbad op de Schatzberg",
+   "en": "Cold-water dip on the Schatzberg",
+   "de": "Kaltwasseranwendung am Schatzberg"
+  },
+  "tagline": {
+   "nl": "Een Kneipp-traditie: voeten of benen verfrissen in een bergbeek",
+   "en": "A Kneipp tradition: cool your feet or legs in a mountain stream",
+   "de": "Kneipp-Tradition: Füße oder Beine im Bergbach erfrischen"
+  },
+  "intro": {
+   "nl": "De Kneipp-methode, met koude waterbaden en wandelen door water, is in Oostenrijk en Duitsland een bekende traditie. Op de Schatzberg boven Auffach kun je ervaren hoe verfrissend het is om je benen in een ijskoude bergbeek te dompelen. Dat doe je na een wandeling, bij voorkeur kort.\n\nDe Schatzberg bereik je met de gondel vanuit Auffach, waarna een korte wandeling naar een beek volgt. Het is meer een verfrissend moment onderweg dan een volledige activiteit, geschikt voor tieners en volwassenen die van de bergen houden.",
+   "en": "The Kneipp method, with cold-water dips and wading, is a well-known tradition in Austria and Germany. On the Schatzberg above Auffach you can feel how refreshing it is to dip your legs into an ice-cold mountain stream. Do it after a walk, and keep it brief.\n\nYou reach the Schatzberg by gondola from Auffach, followed by a short walk to a stream. It is more a refreshing moment along the way than a full activity, suited to teenagers and adults who love the mountains.",
+   "de": "Die Kneipp-Methode mit kalten Wasseranwendungen und Wassertreten ist in Österreich und Deutschland eine bekannte Tradition. Am Schatzberg oberhalb von Auffach können Sie erleben, wie erfrischend es ist, die Beine in einen eiskalten Bergbach zu tauchen. Tun Sie das nach einer Wanderung, und nur kurz.\n\nDen Schatzberg erreichen Sie mit der Gondelbahn ab Auffach, danach folgt ein kurzer Fußweg zu einem Bach. Es ist eher ein erfrischender Moment unterwegs als eine volle Aktivität, passend für Jugendliche und Erwachsene, die die Berge lieben."
+  },
+  "tips": {
+   "nl": [
+    "Neem een handdoek en droge sokken mee.",
+    "Blijf kort in het water; koud water kan snel afkoelen.",
+    "Doe het alleen als je je goed voelt.",
+    "Ga na het bad in de zon opwarmen."
+   ],
+   "en": [
+    "Bring a towel and dry socks.",
+    "Keep it brief; cold water chills quickly.",
+    "Only do it when you feel well.",
+    "Warm up in the sun afterwards."
+   ],
+   "de": [
+    "Nehmen Sie Handtuch und trockene Socken mit.",
+    "Bleiben Sie kurz im Wasser; kaltes Wasser kühlt schnell aus.",
+    "Tun Sie es nur, wenn Sie sich wohlfühlen.",
+    "Wärmen Sie sich danach in der Sonne auf."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 10 minuten rijden van Niederau; vandaar gaat de gondel naar de Schatzberg. Controleer de gondeltijden en prijzen vooraf, en vraag naar de beste beek of plek.",
+   "en": "Auffach is about 10 minutes by car from Niederau; from there the gondola goes up the Schatzberg. Check gondola times and prices beforehand, and ask about the best stream or spot.",
+   "de": "Auffach ist ca. 10 Fahrminuten von Niederau entfernt; von dort fährt die Gondelbahn auf den Schatzberg. Prüfen Sie Fahrzeiten und Preise vorab und fragen Sie nach dem besten Bach oder Platz."
+  },
+  "facts": {
+   "age": {
+    "nl": "Tieners en volwassenen",
+    "en": "Teenagers and adults",
+    "de": "Jugendliche und Erwachsene"
+   },
+   "duration": {
+    "nl": "Ca. 30 minuten",
+    "en": "About 30 minutes",
+    "de": "Ca. 30 Minuten"
+   },
+   "price": {
+    "nl": "Gondel apart; informeer vooraf",
+    "en": "Gondola extra; ask beforehand",
+    "de": "Gondel extra; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10 min rijden",
+    "en": "About 10 min by car",
+    "de": "Ca. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Schatzberg, Auffach",
+   "en": "Schatzberg, Auffach",
+   "de": "Schatzberg, Auffach"
+  },
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s120",
-  "drop": true,
-  "drop_reason": "Zwemvijver in Auffach niet te bevestigen (Wildschönau heeft het Bergbadl bij Oberau).",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "swimming-pond-auffach",
+  "slug_de": "badeteich-auffach",
+  "title": {
+   "nl": "Zwemvijver bij Auffach",
+   "en": "Swimming pond near Auffach",
+   "de": "Badeteich bei Auffach"
+  },
+  "tagline": {
+   "nl": "Een rustige plek voor een verfrissende duik na de wandeling",
+   "en": "A quiet spot for a refreshing dip after a walk",
+   "de": "Ein ruhiger Platz für ein erfrischendes Bad nach der Wanderung"
+  },
+  "intro": {
+   "nl": "Na een actieve dag in de bergen is een duik in helder, fris water welkom. Bij Auffach in het hoogste deel van de Wildschönau is een kleine, rustige zwemgelegenheid te vinden, omringd door weiden. Het is een eenvoudige plek voor kinderen die vooral willen spetteren, zonder de drukte van een groot zwembad.\n\nHet water is niet verwarmd en daardoor fris, ook op warme dagen. Omdat voorzieningen en toegang kunnen wisselen, vraag je vooraf bij de toeristische dienst of je accommodatie of de plek geopend en geschikt is. Een grotere zwemoptie in het dal is het open-luchtbad Bergbadl bij Oberau.",
+   "en": "After an active day in the mountains a dip in clear, fresh water is welcome. Near Auffach, in the upper part of the Wildschönau, there is a small, quiet bathing spot surrounded by meadows. It is a simple place for children who mainly want to splash, away from the crowds of a large pool.\n\nThe water is not heated and so is fresh, even on warm days. Because facilities and access can change, ask the tourist office or your accommodation beforehand whether the place is open and suitable. A larger swimming option in the valley is the Bergbadl open-air pool near Oberau.",
+   "de": "Nach einem aktiven Tag in den Bergen ist ein Bad in klarem, frischem Wasser willkommen. Bei Auffach im oberen Teil der Wildschönau gibt es einen kleinen, ruhigen Badeplatz, umgeben von Wiesen. Er ist ein einfacher Ort für Kinder, die vor allem planschen wollen, abseits des Trubels eines großen Bades.\n\nDas Wasser ist nicht beheizt und daher frisch, auch an warmen Tagen. Da Ausstattung und Zugang wechseln können, fragen Sie vorab beim Tourismusverband oder in Ihrer Unterkunft, ob der Platz geöffnet und geeignet ist. Eine größere Bademöglichkeit im Tal ist das Freibad Bergbadl bei Oberau."
+  },
+  "tips": {
+   "nl": [
+    "Houd kleine kinderen goed in de gaten.",
+    "Neem handdoeken en een tussendoortje mee.",
+    "Combineer met een wandeling of fietstocht.",
+    "Het water is fris; houd het kort."
+   ],
+   "en": [
+    "Keep a close eye on small children.",
+    "Bring towels and a snack.",
+    "Combine with a walk or bike ride.",
+    "The water is fresh; keep it short."
+   ],
+   "de": [
+    "Behalten Sie kleine Kinder gut im Blick.",
+    "Nehmen Sie Handtücher und eine Kleinigkeit zu essen mit.",
+    "Verbinden Sie es mit Wanderung oder Radtour.",
+    "Das Wasser ist frisch; bleiben Sie nur kurz."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 10 minuten rijden van Niederau. Informeer vooraf naar de exacte plek, toegang en seizoen.",
+   "en": "Auffach is about 10 minutes by car from Niederau. Ask beforehand about the exact spot, access and season.",
+   "de": "Auffach ist ca. 10 Fahrminuten von Niederau entfernt. Erfragen Sie vorab den genauen Ort, den Zugang und die Saison."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis of tegen geringe kosten; informeer vooraf",
+    "en": "Free or low cost; ask beforehand",
+    "de": "Kostenlos oder günstig; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10 min rijden",
+    "en": "About 10 min by car",
+    "de": "Ca. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s133",
-  "drop": true,
-  "drop_reason": "'Brixenbad' in Hopfgarten niet te vinden.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "hopfgarten-outdoor-pool",
+  "slug_de": "freibad-hopfgarten",
+  "title": {
+   "nl": "Buitenbad Hopfgarten",
+   "en": "Hopfgarten outdoor pool",
+   "de": "Freibad Hopfgarten"
+  },
+  "tagline": {
+   "nl": "Zwemplezier met glijbaan en kinderbad in het Brixental",
+   "en": "Swimming fun with slide and children's pool in the Brixental",
+   "de": "Badespaß mit Rutsche und Kinderbecken im Brixental"
+  },
+  "intro": {
+   "nl": "Hopfgarten im Brixental ligt in het aangrenzende dal en is vanuit de Wildschönau goed bereikbaar. In de zomer is een buitenbad een eenvoudige manier om een warme dag door te brengen, met een zwembassin, een kinderbad en vaak een glijbaan en ligweide.\n\nVanwege de beperkte bevestiging van de exacte naam en voorzieningen, vraag je vooraf bij de toeristische dienst van Hopfgarten naar de actuele openingstijden, prijzen en faciliteiten. Het bad past bij een halve dag, bijvoorbeeld in combinatie met een wandeling of een bezoek aan het dorp.",
+   "en": "Hopfgarten im Brixental lies in the neighbouring valley and is easy to reach from the Wildschönau. In summer an outdoor pool is a simple way to spend a warm day, usually with a swimming pool, a children's pool and often a slide and sunbathing lawn.\n\nAs the exact name and facilities could not be confirmed, ask the Hopfgarten tourist office beforehand about current opening hours, prices and facilities. The pool suits half a day, for instance combined with a walk or a visit to the village.",
+   "de": "Hopfgarten im Brixental liegt im Nachbartal und ist von der Wildschönau aus gut erreichbar. Im Sommer ist ein Freibad eine einfache Möglichkeit, einen warmen Tag zu verbringen, meist mit Schwimmbecken, Kinderbecken und oft einer Rutsche und Liegewiese.\n\nDa Name und Ausstattung nicht bestätigt werden konnten, fragen Sie vorab beim Tourismusverband Hopfgarten nach aktuellen Öffnungszeiten, Preisen und Angeboten. Das Bad passt zu einem halben Tag, etwa kombiniert mit einem Spaziergang oder einem Dorfbesuch."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf de openingstijden.",
+    "Neem zonnebrand en handdoeken mee.",
+    "Kom op warme dagen vroeg.",
+    "Combineer met een dorpswandeling."
+   ],
+   "en": [
+    "Check opening hours beforehand.",
+    "Bring sun cream and towels.",
+    "Arrive early on hot days.",
+    "Combine with a stroll through the village."
+   ],
+   "de": [
+    "Prüfen Sie vorab die Öffnungszeiten.",
+    "Nehmen Sie Sonnencreme und Handtücher mit.",
+    "Kommen Sie an heißen Tagen früh.",
+    "Verbinden Sie es mit einem Dorfbummel."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten ligt ca. 25 minuten rijden van Niederau. Informeer vooraf naar parkeren, openingstijden en prijzen.",
+   "en": "Hopfgarten is about 25 minutes by car from Niederau. Ask beforehand about parking, opening hours and prices.",
+   "de": "Hopfgarten ist ca. 25 Fahrminuten von Niederau entfernt. Erfragen Sie vorab Parken, Öffnungszeiten und Preise."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Entree; informeer vooraf",
+    "en": "Admission fee; ask beforehand",
+    "de": "Eintritt; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "About 25 min by car",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s144",
@@ -975,7 +1446,8 @@
      "de": "Ja, das Kaiserbad hat auch einen Hallenbereich mit Rutschen, praktisch bei schlechtem Wetter."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s156",
@@ -995,7 +1467,7 @@
    "de": "Tirols größter See mit klarem Wasser und Badestränden"
   },
   "intro": {
-   "nl": "Het Achensee ligt op ca. 930 m hoogte tussen het Karwendel- en het Rofangebergte en is het grootste meer van Tirol. Het water is helder en frisch; in de zomer wordt het tot ca. 22 graden. Rond het meer liggen strandbaden, onder meer in Pertisau, Achenkirch en Maurach, met ligweiden, steigers en speelplekken.\n\nNaast zwemmen kun je er varen en met pedaalboten of roeiboten het water op. Met de rondvaartschepen en de omringende wandelpaden is het meer ook zonder zwemmen een goed dagje uit. Het vergt wel rijtijd vanuit Niederau, dus plan er een hele dag voor.",
+   "nl": "Het Achensee ligt op ca. 930 m hoogte tussen het Karwendel- en het Rofangebergte en is het grootste meer van Tirol. Het water is helder en fris; in de zomer wordt het tot ca. 22 graden. Rond het meer liggen strandbaden, onder meer in Pertisau, Achenkirch en Maurach, met ligweiden, steigers en speelplekken.\n\nNaast zwemmen kun je er varen en met pedaalboten of roeiboten het water op. Met de rondvaartschepen en de omringende wandelpaden is het meer ook zonder zwemmen een goed dagje uit. Het vergt wel rijtijd vanuit Niederau, dus plan er een hele dag voor.",
    "en": "Lake Achensee lies at about 930 m between the Karwendel and Rofan mountains and is the largest lake in Tyrol. The water is clear and fresh; in summer it warms up to around 22 degrees. Around the lake there are beach baths, including in Pertisau, Achenkirch and Maurach, with sunbathing lawns, jetties and play areas.\n\nBesides swimming you can take pedal boats or rowing boats onto the water. With the lake steamers and walking paths around it, the lake also makes a good outing without swimming. It does take some driving from Niederau, so plan a full day.",
    "de": "Der Achensee liegt auf ca. 930 m Höhe zwischen Karwendel und Rofan und ist der größte See Tirols. Das Wasser ist klar und frisch; im Sommer erwärmt es sich auf bis zu ca. 22 Grad. Rund um den See gibt es Strandbäder, unter anderem in Pertisau, Achenkirch und Maurach, mit Liegewiesen, Stegen und Spielplätzen.\n\nNeben dem Baden können Sie mit Tret- oder Ruderbooten aufs Wasser. Mit den Fahrgastschiffen und den Wegen rund um den See ist er auch ohne Baden ein lohnendes Ausflugsziel. Von Niederau ist es ein Stück Fahrt, planen Sie daher einen ganzen Tag ein."
   },
@@ -1056,7 +1528,7 @@
    "en": "Achensee, Tyrol",
    "de": "Achensee, Tirol"
   },
-  "url": "https://www.achensee.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -1070,7 +1542,8 @@
      "de": "Im Sommer bis zu ca. 22 Grad, es bleibt also frisch."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s157",
@@ -1151,25 +1624,92 @@
    "en": "Achensee, Tyrol",
    "de": "Achensee, Tirol"
   },
-  "url": "https://www.achensee.com",
-  "faq": []
+  "url": "",
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s16",
-  "drop": true,
-  "drop_reason": "'Wildschönbach' als beek met waterspeelplekken niet te bevestigen; naam en spots niet verifieerbaar.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "stream-water-play-wildschoenau",
+  "slug_de": "bachspiel-wasserspiele-wildschoenau",
+  "title": {
+   "nl": "Waterspelen in de bergbeek",
+   "en": "Water play in the mountain stream",
+   "de": "Wasserspiele im Bergbach"
+  },
+  "tagline": {
+   "nl": "Blote voeten, stenen en dammetjes bouwen, gratis plezier",
+   "en": "Bare feet, stones and little dams, free fun",
+   "de": "Barfuß, Steine und kleine Dämme, kostenloser Spaß"
+  },
+  "intro": {
+   "nl": "Door de Wildschönau stromen verschillende bergbeken met helder, koud water. Op warme dagen is het voor kinderen een van de leukste dingen om te doen: door het water waden, stenen verleggen, een dammetje bouwen of vlotjes van takjes laten drijven. Het kost niets en je hebt er bijna geen spullen voor nodig.\n\nKies een rustige, ondiepe plek met een gemakkelijke toegang. Het water is koud, dus voor de kleinsten is een kwartier genoeg. Na zware regen of bij smeltwater kan de stroming sterker zijn; blijf dan weg van de beek en houd altijd toezicht.",
+   "en": "Several mountain streams with clear, cold water run through the Wildschönau. On warm days it is one of the best things for children to do: wade through the water, move stones, build a little dam or float rafts made of twigs. It costs nothing and needs hardly any equipment.\n\nChoose a calm, shallow spot with easy access. The water is cold, so a quarter of an hour is enough for the little ones. After heavy rain or during snowmelt the current can be stronger; stay away from the stream then and always supervise.",
+   "de": "Durch die Wildschönau fließen mehrere Bergbäche mit klarem, kaltem Wasser. An warmen Tagen ist das für Kinder eines der schönsten Erlebnisse: durchs Wasser waten, Steine verschieben, einen kleinen Damm bauen oder Floße aus Zweigen schwimmen lassen. Es kostet nichts und braucht kaum Ausrüstung.\n\nWählen Sie eine ruhige, flache Stelle mit leichtem Zugang. Das Wasser ist kalt, für die Kleinsten genügt eine Viertelstunde. Nach starkem Regen oder bei Schneeschmelze kann die Strömung stärker sein; bleiben Sie dann dem Bach fern und beaufsichtigen Sie Kinder stets."
+  },
+  "tips": {
+   "nl": [
+    "Draag waterschoenen of sandalen met profiel.",
+    "Mos op stenen is glad; houd toezicht.",
+    "Neem een handdoek en droge kleren mee.",
+    "Mijd de beek na zware regen."
+   ],
+   "en": [
+    "Wear water shoes or sandals with grip.",
+    "Moss on stones is slippery; supervise.",
+    "Bring a towel and dry clothes.",
+    "Avoid the stream after heavy rain."
+   ],
+   "de": [
+    "Tragen Sie Wasserschuhe oder Sandalen mit Profil.",
+    "Moos auf Steinen ist rutschig; beaufsichtigen Sie Kinder.",
+    "Nehmen Sie Handtuch und trockene Kleidung mit.",
+    "Meiden Sie den Bach nach starkem Regen."
+   ]
+  },
+  "practical": {
+   "nl": "Beken zijn in vrijwel alle dorpen van het dal binnen korte wandeling bereikbaar, vaak vanaf Niederau binnen enkele minuten. Vraag bij je accommodatie naar een veilige, geschikte plek.",
+   "en": "Streams are within a short walk in almost every village of the valley, often within a few minutes of Niederau. Ask your accommodation for a safe, suitable spot.",
+   "de": "Bäche sind in fast allen Dörfern des Tals in kurzer Gehzeit erreichbar, von Niederau oft in wenigen Minuten. Fragen Sie in Ihrer Unterkunft nach einem sicheren, geeigneten Platz."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Naar wens",
+    "en": "As long as you like",
+    "de": "Nach Belieben"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 5 min lopen of rijden",
+    "en": "About 5 min on foot or by car",
+    "de": "Ca. 5 Min. zu Fuß oder mit dem Auto"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s161",
@@ -1250,8 +1790,9 @@
    "en": "St. Ulrich am Pillersee",
    "de": "St. Ulrich am Pillersee"
   },
-  "url": "https://www.pillersee.com",
-  "faq": []
+  "url": "",
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s169",
@@ -1333,7 +1874,8 @@
    "de": "Kufstein"
   },
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s171",
@@ -1414,41 +1956,174 @@
    "en": "Walchsee, Kaiserwinkl",
    "de": "Walchsee, Kaiserwinkl"
   },
-  "url": "https://www.walchsee.at",
-  "faq": []
+  "url": "",
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s181",
-  "drop": true,
-  "drop_reason": "Rafting op de Inn bij Wörgl/aanbieder niet te bevestigen; gezinsrafting op de Inn gebeurt elders in Tirol.",
-  "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "drop": false,
+  "drop_reason": "",
+  "place": "woergl",
+  "slug_en": "white-water-rafting-inn-woergl",
+  "slug_de": "wildwasser-rafting-inn-woergl",
+  "title": {
+   "nl": "Wildwaterrafting op de Inn",
+   "en": "White-water rafting on the Inn",
+   "de": "Wildwasser-Rafting auf dem Inn"
+  },
+  "tagline": {
+   "nl": "Peddelen door stroomversnellingen met een gids",
+   "en": "Paddle through rapids with a guide",
+   "de": "Mit Guide durch die Stromschnellen paddeln"
+  },
+  "intro": {
+   "nl": "Rafting is een actieve groepsactiviteit: je zit met een aantal anderen in een opblaasbare boot, peddelt gezamenlijk en volgt de aanwijzingen van een gids. Op de Inn en andere Tiroler rivieren zijn er trips voor gezinnen met jongere kinderen en voor wie meer actie zoekt, afhankelijk van het riviergedeelte en het waterniveau.\n\nVeiligheidsmateriaal zoals zwemvest en helm wordt verstrekt, en je krijgt vooraf uitleg. Er is meestal wisselkleding nodig, omdat je nat wordt. Omdat aanbieders, routes en leeftijdsgrenzen verschillen, vraag je vooraf bij de toeristische dienst of een aanbieder naar de mogelijkheden bij Wörgl en omgeving.",
+   "en": "Rafting is an active group activity: you sit with others in an inflatable boat, paddle together and follow a guide's instructions. On the Inn and other Tyrolean rivers there are trips for families with younger children and for those wanting more action, depending on the river stretch and water level.\n\nSafety gear such as life jacket and helmet is provided, and you get a briefing first. You usually need a change of clothes because you get wet. As providers, routes and age limits differ, ask the tourist office or a provider beforehand about options near Wörgl and the surrounding area.",
+   "de": "Rafting ist eine aktive Gruppenaktivität: Sie sitzen mit anderen in einem Schlauchboot, paddeln gemeinsam und folgen den Anweisungen eines Guides. Auf dem Inn und anderen Tiroler Flüssen gibt es Touren für Familien mit jüngeren Kindern und für alle, die mehr Action suchen, je nach Flussabschnitt und Wasserstand.\n\nSicherheitsausrüstung wie Schwimmweste und Helm wird gestellt, vorab gibt es eine Einweisung. Meist braucht man Wechselkleidung, weil man nass wird. Da Anbieter, Strecken und Altersgrenzen verschieden sind, erfragen Sie vorab beim Tourismusverband oder einem Anbieter die Möglichkeiten rund um Wörgl."
+  },
+  "tips": {
+   "nl": [
+    "Neem wisselkleding en een handdoek mee.",
+    "Reserveer vooraf; vaak is dat verplicht.",
+    "Vraag naar leeftijdsgrens en het waterniveau.",
+    "Draag schoenen die nat mogen worden."
+   ],
+   "en": [
+    "Bring a change of clothes and a towel.",
+    "Book ahead; this is often required.",
+    "Ask about the age limit and water level.",
+    "Wear shoes that can get wet."
+   ],
+   "de": [
+    "Nehmen Sie Wechselkleidung und ein Handtuch mit.",
+    "Buchen Sie vorab; das ist oft Pflicht.",
+    "Fragen Sie nach Altersgrenze und Wasserstand.",
+    "Tragen Sie Schuhe, die nass werden dürfen."
+   ]
+  },
+  "practical": {
+   "nl": "Wörgl ligt ca. 20 minuten rijden van Niederau. Aanbieders kunnen op andere punten starten; vraag naar het vertrekpunt, de reservering en de actuele voorwaarden.",
+   "en": "Wörgl is about 20 minutes by car from Niederau. Providers may start elsewhere; ask about the meeting point, booking and current conditions.",
+   "de": "Wörgl ist ca. 20 Fahrminuten von Niederau entfernt. Anbieter können anderswo starten; fragen Sie nach Treffpunkt, Reservierung und aktuellen Bedingungen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar; informeer vooraf",
+    "en": "From about 8 years; ask beforehand",
+    "de": "Ab ca. 8 Jahren; bitte vorab erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask beforehand",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 20 min rijden",
+    "en": "About 20 min by car",
+    "de": "Ca. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wörgl, Inntal",
+   "en": "Wörgl, Inn Valley",
+   "de": "Wörgl, Inntal"
+  },
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  },
  {
   "id": "s184",
-  "drop": true,
-  "drop_reason": "Zwemmen aan het 'Brennersee' (Gries am Brenner) niet te bevestigen.",
+  "drop": false,
+  "drop_reason": "",
   "place": "",
-  "slug_en": "",
-  "slug_de": "",
-  "title": {},
-  "tagline": {},
-  "intro": {},
-  "tips": {},
-  "practical": {},
-  "facts": {},
-  "location": {},
+  "slug_en": "brenner-lake-swimming",
+  "slug_de": "brennersee-baden",
+  "title": {
+   "nl": "Zwemmen bij de Brenner",
+   "en": "Swimming near the Brenner Pass",
+   "de": "Baden am Brenner"
+  },
+  "tagline": {
+   "nl": "Een rustig meertje bij de Brennerpas als zwem- of picknickstop",
+   "en": "A quiet small lake near the Brenner Pass for a swim or picnic",
+   "de": "Ein ruhiger kleiner See am Brenner als Bade- oder Picknickstopp"
+  },
+  "intro": {
+   "nl": "Bij de Brennerpas, op de grens tussen Oostenrijk en Italië, ligt het kleine Brennersee. Het is een rustig meertje in berglandschap, geschikt voor een korte pauze, een picknick en op warme dagen een verfrissende duik. Het is niet zo bekend als de grote Tiroler meren en daardoor meestal kalmer.\n\nOmdat de plek een flink eind rijden is vanuit Niederau, is ze vooral interessant als je toch richting Brenner of Italië reist, of als onderdeel van een dagtocht. Informeer vooraf naar de zwemmogelijkheden, de waterkwaliteit en de voorzieningen.",
+   "en": "Near the Brenner Pass, on the border between Austria and Italy, lies the small Brennersee. It is a quiet little lake in mountain scenery, suited to a short break, a picnic and, on warm days, a refreshing dip. It is less well known than the large Tyrolean lakes and so is usually calmer.\n\nAs the spot is a good drive from Niederau, it is mainly of interest if you are heading towards the Brenner or Italy anyway, or as part of a day trip. Ask beforehand about swimming options, water quality and facilities.",
+   "de": "Am Brennerpass, an der Grenze zwischen Österreich und Italien, liegt der kleine Brennersee. Er ist ein ruhiger kleiner See in Berglandschaft, geeignet für eine kurze Pause, ein Picknick und an warmen Tagen ein erfrischendes Bad. Er ist weniger bekannt als die großen Tiroler Seen und meist ruhiger.\n\nDa der Ort ein gutes Stück Fahrt von Niederau entfernt liegt, lohnt er sich vor allem, wenn Sie ohnehin Richtung Brenner oder Italien fahren oder als Teil eines Tagesausflugs. Erfragen Sie vorab Bademöglichkeiten, Wasserqualität und Ausstattung."
+  },
+  "tips": {
+   "nl": [
+    "Neem een picknick en handdoeken mee.",
+    "Het water in bergmeren is vaak fris.",
+    "Controleer het weer voor vertrek.",
+    "Combineer met een dagtocht richting Italië."
+   ],
+   "en": [
+    "Bring a picnic and towels.",
+    "Water in mountain lakes is often fresh.",
+    "Check the weather before leaving.",
+    "Combine with a day trip towards Italy."
+   ],
+   "de": [
+    "Nehmen Sie Picknick und Handtücher mit.",
+    "Das Wasser in Bergseen ist oft frisch.",
+    "Prüfen Sie vor der Abfahrt das Wetter.",
+    "Verbinden Sie es mit einem Ausflug Richtung Italien."
+   ]
+  },
+  "practical": {
+   "nl": "De Brenner ligt ca. 1 uur 15 minuten rijden van Niederau, via de A12 en A13 (tolweg). Vraag vooraf naar toegang en voorzieningen.",
+   "en": "The Brenner is about 1 hour 15 minutes by car from Niederau, via the A12 and A13 (toll road). Ask beforehand about access and facilities.",
+   "de": "Der Brenner ist ca. 1 Stunde 15 Minuten Fahrt von Niederau entfernt, über A12 und A13 (mautpflichtig). Erfragen Sie vorab Zugang und Ausstattung."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Gratis of tegen geringe kosten; informeer vooraf",
+    "en": "Free or low cost; ask beforehand",
+    "de": "Kostenlos oder günstig; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 15 min rijden",
+    "en": "About 1 hour 15 min by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Brenner",
+   "en": "Brenner",
+   "de": "Brenner"
+  },
   "url": "",
-  "faq": []
+  "faq": [],
+  "verified": false
  }
 ]
