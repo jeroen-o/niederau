@@ -1,0 +1,530 @@
+[
+ {
+  "slug": "schlitters",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Schlitters",
+   "en": "Schlitters",
+   "de": "Schlitters"
+  },
+  "tagline": {
+   "nl": "Rustig dorp aan de Ziller met een badmeer en de Zillertalbahn",
+   "en": "Quiet village on the Ziller with a bathing lake and the Zillertalbahn",
+   "de": "Ruhiges Dorf an der Ziller mit Badesee und Zillertalbahn"
+  },
+  "intro": {
+   "nl": "Schlitters ligt in het onderste deel van het Zillertal, aan de Ziller, op ongeveer 548 m hoogte. Het is een klein dorp met ruim 1.400 inwoners dat al in het jaar 936 in oude bronnen wordt genoemd. Het Zillertal is hier nog breed en zonnig, met zachte, beboste hellingen aan beide kanten.\n\nHet dorp is geen groot toeristencentrum, en dat is juist de charme. Bij het badmeer, een recreatiegebied van ruim twee hectare met een watervlak van ongeveer een hectare, kunnen kinderen zwemmen en spelen; er zijn ook een speeltuin en mogelijkheden voor tennis, voetbal en minigolf. De Pfarrkirche St. Martin dateert van rond 1500 en is een rustig stop voor wie het dorp wil zien.\n\nVanuit Niederau is Schlitters een eenvoudige uitstap van een halve dag. Het past goed bij gezinnen met jonge kinderen die een rustige zwemmiddag zoeken, en bij fietsers die een stuk van het Zillertaler Radweg willen rijden. Combineer het eventueel met een bezoek aan een van de grotere plaatsen verderop in het dal.",
+   "en": "Schlitters sits in the lower part of the Zillertal, beside the Ziller river at roughly 548 m. It is a small village of a little over 1,400 residents, first mentioned in records as early as the year 936. The valley is still wide and sunny here, with gently sloping, wooded hillsides on either side.\n\nThe village is not a big tourist hub, and that is part of its appeal. At the bathing lake, a leisure area of just over two hectares with a water surface of about one hectare, children can swim and play; there is also a playground and room for tennis, football and mini-golf. The parish church of St Martin dates from around 1500 and makes a quiet stop for anyone who wants to see the village itself.\n\nFrom Niederau, Schlitters is an easy half-day outing. It suits families with younger children looking for a relaxed afternoon by the water, and cyclists who want to ride a stretch of the Zillertal cycle path. You can combine it with a visit to one of the larger towns further up the valley.",
+   "de": "Schlitters liegt im unteren Zillertal, direkt an der Ziller auf rund 548 m Höhe. Das kleine Dorf hat gut 1.400 Einwohner und wird schon im Jahr 936 urkundlich erwähnt. Das Tal ist hier noch breit und sonnig, mit sanften, bewaldeten Hängen auf beiden Seiten.\n\nEin großes Touristenzentrum ist Schlitters nicht, und genau das macht den Reiz aus. Am Badesee, einem Freizeitgelände von gut zwei Hektar mit etwa einem Hektar Wasserfläche, können Kinder baden und spielen; dazu gibt es einen Spielplatz sowie Möglichkeiten für Tennis, Fußball und Minigolf. Die Pfarrkirche St. Martin stammt aus der Zeit um 1500 und ist ein ruhiger Halt für alle, die das Dorf selbst kennenlernen möchten.\n\nVon Niederau aus ist Schlitters ein einfacher Halbtagesausflug. Der Ort passt zu Familien mit kleineren Kindern, die einen entspannten Nachmittag am Wasser suchen, und zu Radfahrern, die ein Stück des Zillertal-Radwegs fahren möchten. Man kann ihn gut mit einem Besuch in einem der größeren Orte weiter oben im Tal verbinden."
+  },
+  "highlights": {
+   "nl": [
+    "Het badmeer van Schlitters met speeltuin, tennis, voetbal en minigolf is vooral in de zomer een goede stop met kinderen.",
+    "De Pfarrkirche St. Martin uit ongeveer 1500 is een rustige bezienswaardigheid in het dorp.",
+    "Het Zillertaler Radweg loopt langs het meer en de Ziller en is geschikt voor een vlakke fietstocht.",
+    "Het station van de Zillertalbahn, de smalspoorlijn door het dal, ligt in het dorp.",
+    "Rond het dorp lopen wandelroutes, bijvoorbeeld naar de Larchkopf; in de zomer wordt traditioneel een dorpsfeest gehouden."
+   ],
+   "en": [
+    "The Schlitters bathing lake, with a playground, tennis, football and mini-golf, is a good summer stop with children.",
+    "The parish church of St Martin, from around 1500, is a quiet sight in the village.",
+    "The Zillertal cycle path runs past the lake and the Ziller and suits an easy, flat ride.",
+    "The Zillertalbahn narrow-gauge railway has a station in the village.",
+    "Hiking routes lead out of the village, for example towards the Larchkopf; a village festival is traditionally held in summer."
+   ],
+   "de": [
+    "Der Badesee Schlitters mit Spielplatz, Tennis, Fußball und Minigolf ist im Sommer ein guter Stopp mit Kindern.",
+    "Die Pfarrkirche St. Martin aus der Zeit um 1500 ist eine ruhige Sehenswürdigkeit im Ort.",
+    "Der Zillertal-Radweg führt am See und an der Ziller entlang und eignet sich für eine flache Radtour.",
+    "Die Zillertalbahn, die Schmalspurbahn durchs Tal, hat im Dorf einen Bahnhof.",
+    "Rund um den Ort verlaufen Wanderwege, etwa Richtung Larchkopf; im Sommer findet traditionell ein Dorffest statt."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 45 minuten met de auto vanaf Niederau, via Wörgl en de A12 richting Zillertal (afrit Zillertal), daarna de weg langs de Ziller.",
+   "en": "About 45 minutes by car from Niederau, via Wörgl and the A12 towards the Zillertal (Zillertal exit), then the road along the Ziller.",
+   "de": "Ca. 45 Minuten mit dem Auto ab Niederau, über Wörgl und die A12 Richtung Zillertal (Ausfahrt Zillertal), dann auf der Straße entlang der Ziller."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met jonge kinderen en rustige fietsers.",
+   "en": "Suits families with young children and relaxed cyclists.",
+   "de": "Passt zu Familien mit kleinen Kindern und gemütlichen Radfahrern."
+  },
+  "season": {
+   "nl": "Vooral zomer; het badmeer is dan het mooist.",
+   "en": "Mainly summer, when the bathing lake is at its best.",
+   "de": "Vor allem im Sommer, wenn der Badesee am schönsten ist."
+  },
+  "drive_min": 45,
+  "elevation_m": 548,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je in Schlitters zwemmen?",
+     "en": "Can you swim in Schlitters?",
+     "de": "Kann man in Schlitters baden?"
+    },
+    "a": {
+     "nl": "Ja, Schlitters heeft een badmeer met speeltuin en sportmogelijkheden. Informeer vooraf naar de actuele openingstijden en het toegangsbeleid.",
+     "en": "Yes, Schlitters has a bathing lake with a playground and sports facilities. Check current opening times and access conditions beforehand.",
+     "de": "Ja, Schlitters hat einen Badesee mit Spielplatz und Sportmöglichkeiten. Aktuelle Öffnungszeiten und Zugangsbedingungen vorab prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is Schlitters van Niederau?",
+     "en": "How far is Schlitters from Niederau?",
+     "de": "Wie weit ist Schlitters von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Ongeveer 45 minuten rijden via Wörgl en de A12; het is een geschikte halve dagtocht.",
+     "en": "Roughly 45 minutes by car via Wörgl and the A12, which makes a suitable half-day trip.",
+     "de": "Etwa 45 Minuten Fahrt über Wörgl und die A12; ein passender Halbtagesausflug."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "bruck-am-ziller",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Bruck am Ziller",
+   "en": "Bruck am Ziller",
+   "de": "Bruck am Ziller"
+  },
+  "tagline": {
+   "nl": "Zonnig dorp in het onderste Zillertal, bekend als 'Meran van het Zillertal'",
+   "en": "Sunny village in the lower Zillertal, nicknamed the 'Merano of the Zillertal'",
+   "de": "Sonniges Dorf im unteren Zillertal, genannt 'Meran des Zillertals'"
+  },
+  "intro": {
+   "nl": "Bruck am Ziller ligt op ongeveer 579 m hoogte in het onderste deel van het Zillertal en heeft zo'n duizend inwoners. Het dorp staat bekend om zijn vele zonuren en wordt daarom wel het 'Meran van het Zillertal' genoemd.\n\nHet is een rustige plaats zonder grote attracties, maar met een goede ligging. De kerk van St. Leonhard is de bekendste bezienswaardigheid in het dorp. Het Zillertaler Radweg begint in het nabijgelegen Strass en loopt zo'n 30 km door het dal tot Mayrhofen; de route is overwegend vlak en dus ook met kinderen goed te doen. Wandelaars vinden in de omgeving rondwandelingen, bijvoorbeeld via Schlitters en Strass, en ervaren bergwandelaars kunnen vanuit het dal hogere tochten ondernemen.\n\nIn de winter liggen verschillende skigebieden binnen handbereik, waaronder Spieljoch, Hochfügen en de Zillertal Arena. Voor gezinnen uit Niederau is Bruck vooral interessant als onderdeel van een dagje Zillertal: even bij de kerk stoppen, een stuk fietsen of wandelen en daarna verder het dal in.",
+   "en": "Bruck am Ziller lies at about 579 m in the lower part of the Zillertal and has roughly a thousand residents. The village is known for its many hours of sunshine, which is why it is sometimes called the 'Merano of the Zillertal'.\n\nIt is a quiet place without big attractions, but with a good location. The church of St Leonhard is the best-known sight in the village. The Zillertal cycle path starts in nearby Strass and runs about 30 km through the valley to Mayrhofen; it is mostly flat and so manageable with children. Walkers will find circular routes nearby, for example via Schlitters and Strass, and experienced mountain hikers can set out on higher tours from the valley floor.\n\nIn winter several ski areas are within reach, including Spieljoch, Hochfügen and the Zillertal Arena. For families staying in Niederau, Bruck is mainly interesting as part of a day in the Zillertal: a stop at the church, a stretch of cycling or walking, and then on further up the valley.",
+   "de": "Bruck am Ziller liegt auf etwa 579 m Höhe im unteren Zillertal und hat rund tausend Einwohner. Der Ort ist für seine vielen Sonnenstunden bekannt und wird deshalb auch 'Meran des Zillertals' genannt.\n\nEs ist ein ruhiger Ort ohne große Attraktionen, aber mit guter Lage. Die Kirche St. Leonhard ist die bekannteste Sehenswürdigkeit im Dorf. Der Zillertal-Radweg beginnt im nahen Strass und führt etwa 30 km durchs Tal bis Mayrhofen; er ist überwiegend flach und daher auch mit Kindern gut machbar. Wanderer finden in der Umgebung Rundwege, etwa über Schlitters und Strass, und erfahrene Bergwanderer können vom Talboden aus höhere Touren starten.\n\nIm Winter sind mehrere Skigebiete erreichbar, darunter Spieljoch, Hochfügen und die Zillertal Arena. Für Familien aus Niederau ist Bruck vor allem als Teil eines Zillertal-Tages interessant: ein Halt an der Kirche, ein Stück Rad fahren oder wandern und dann weiter das Tal hinein. Zur Sicherheit sollte man bei der Planung des Tages stets das aktuelle Wetter und die aktuellen Öffnungszeiten prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "De kerk van St. Leonhard is de bekendste bezienswaardigheid van het dorp.",
+    "Het Zillertaler Radweg van Strass naar Mayrhofen (ca. 30 km) is een overwegend vlakke fietsroute.",
+    "Rondwandeling Bruck - Schlitters - Strass - Bruck door het dal.",
+    "In de winter liggen de skigebieden Spieljoch, Hochfügen en de Zillertal Arena in de buurt.",
+    "Vanuit het dal beginnen bergtochten richting de Zillertaler Alpen, tot de Hohe Weißzint (3.371 m) voor ervaren bergwandelaars."
+   ],
+   "en": [
+    "The church of St Leonhard is the best-known sight in the village.",
+    "The Zillertal cycle path from Strass to Mayrhofen (about 30 km) is a mostly flat ride.",
+    "A circular walk Bruck - Schlitters - Strass - Bruck runs through the valley.",
+    "In winter the Spieljoch, Hochfügen and Zillertal Arena ski areas are nearby.",
+    "Mountain tours towards the Zillertal Alps start from the valley, up to the Hohe Weißzint (3,371 m) for experienced hikers."
+   ],
+   "de": [
+    "Die Kirche St. Leonhard ist die bekannteste Sehenswürdigkeit des Ortes.",
+    "Der Zillertal-Radweg von Strass nach Mayrhofen (ca. 30 km) ist eine überwiegend flache Radstrecke.",
+    "Eine Rundwanderung Bruck - Schlitters - Strass - Bruck führt durchs Tal.",
+    "Im Winter liegen die Skigebiete Spieljoch, Hochfügen und Zillertal Arena in der Nähe.",
+    "Vom Tal aus starten Bergtouren Richtung Zillertaler Alpen, bis zum Hohen Weißzint (3.371 m) für erfahrene Bergwanderer."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 45 minuten met de auto vanaf Niederau, via Wörgl en de A12 (afrit Zillertal), daarna de weg langs de Ziller.",
+   "en": "About 45 minutes by car from Niederau, via Wörgl and the A12 (Zillertal exit), then the road along the Ziller.",
+   "de": "Ca. 45 Minuten mit dem Auto ab Niederau, über Wörgl und die A12 (Ausfahrt Zillertal), dann auf der Straße entlang der Ziller."
+  },
+  "best_for": {
+   "nl": "Past bij fietsers, rustige wandelaars en een dagje Zillertal.",
+   "en": "Suits cyclists, easy walkers and a day out in the Zillertal.",
+   "de": "Passt zu Radfahrern, Genusswanderern und einem Zillertal-Tag."
+  },
+  "season": {
+   "nl": "Het hele jaar; vooral zomer voor fietsen en wandelen.",
+   "en": "Year-round; summer is best for cycling and walking.",
+   "de": "Ganzjährig; im Sommer besonders für Radfahren und Wandern."
+  },
+  "drive_min": 45,
+  "elevation_m": 579,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom heet Bruck am Ziller het 'Meran van het Zillertal'?",
+     "en": "Why is Bruck am Ziller called the 'Merano of the Zillertal'?",
+     "de": "Warum wird Bruck am Ziller 'Meran des Zillertals' genannt?"
+    },
+    "a": {
+     "nl": "Het dorp heeft veel zonuren en een zacht klimaat voor het dal; daar komt de bijnaam vandaan.",
+     "en": "The village gets many hours of sunshine and a mild climate for the valley, which is where the nickname comes from.",
+     "de": "Der Ort hat viele Sonnenstunden und für das Tal ein mildes Klima; daher der Beiname."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar begint het Zillertaler Radweg?",
+     "en": "Where does the Zillertal cycle path start?",
+     "de": "Wo beginnt der Zillertal-Radweg?"
+    },
+    "a": {
+     "nl": "In het nabijgelegen Strass; de route loopt ongeveer 30 km naar Mayrhofen en is overwegend vlak.",
+     "en": "In nearby Strass; the route runs about 30 km to Mayrhofen and is mostly flat.",
+     "de": "Im nahen Strass; die Strecke führt etwa 30 km nach Mayrhofen und ist überwiegend flach."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "ramsau-im-zillertal",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Ramsau im Zillertal",
+   "en": "Ramsau im Zillertal",
+   "de": "Ramsau im Zillertal"
+  },
+  "tagline": {
+   "nl": "Dorp aan de ingang van het hogere Zillertal, vlak bij Mayrhofen",
+   "en": "Village at the gateway to the upper Zillertal, close to Mayrhofen",
+   "de": "Dorf am Eingang ins obere Zillertal, nahe bei Mayrhofen"
+  },
+  "intro": {
+   "nl": "Ramsau im Zillertal ligt op ongeveer 604 m hoogte, in het district Schwaz, en telt ruim 1.700 inwoners. Het dorp ligt zo'n 4 km van Mayrhofen en is daarmee een rustiger alternatief voor wie dicht bij het grote skigebied wil zijn.\n\nHet bekendste punt in het dorp is het Ramsauer Kirchl, een historische kerk midden in het dorp. De Zillertalbahn, de ruim honderd jaar oude smalspoorlijn, rijdt door het dal en is voor veel kinderen een attractie op zich. Ook de Alte Mühle van de 'Wurzenmax', waar een verzameling mineralen en kristallen wordt getoond, wordt als bezienswaardigheid genoemd; informeer vooraf of en wanneer die te bezoeken is.\n\nIn de zomer zijn er veel wandel-, fiets- en klimroutes in de omgeving, en de weg naar de Gerlospass is populair. In de winter kun je skiën in Mayrhofen en is het dal ook geschikt voor winterwandelen en sneeuwschoenwandelen. Vanuit Niederau is Ramsau een langere dagtocht, die je goed met Mayrhofen combineert. Neem voor de zekerheid altijd even de actuele weer- en openingsinformatie mee in je planning.",
+   "en": "Ramsau im Zillertal lies at about 604 m in the Schwaz district and has a little over 1,700 residents. The village is some 4 km from Mayrhofen, which makes it a quieter alternative for anyone who wants to be close to the big ski area.\n\nThe best-known landmark in the village is the Ramsauer Kirchl, a historic church in the middle of the village. The Zillertalbahn, the narrow-gauge railway that is more than a hundred years old, runs through the valley and is an attraction in itself for many children. The Alte Mühle of the 'Wurzenmax', which displays a collection of minerals and crystals, is also mentioned as a sight; check beforehand whether and when it can be visited.\n\nIn summer there are many walking, cycling and climbing routes in the area, and the road towards the Gerlos Pass is popular. In winter you can ski in Mayrhofen, and the valley also suits winter walking and snowshoeing. From Niederau, Ramsau is a longer day trip that combines well with Mayrhofen.",
+   "de": "Ramsau im Zillertal liegt auf etwa 604 m Höhe im Bezirk Schwaz und hat gut 1.700 Einwohner. Der Ort ist rund 4 km von Mayrhofen entfernt und damit eine ruhigere Alternative für alle, die nahe am großen Skigebiet sein möchten.\n\nDas bekannteste Wahrzeichen im Dorf ist das Ramsauer Kirchl, eine historische Kirche mitten im Ort. Die Zillertalbahn, die über hundert Jahre alte Schmalspurbahn, fährt durchs Tal und ist für viele Kinder eine Attraktion für sich. Auch die Alte Mühle des 'Wurzenmax' mit einer Sammlung von Mineralien und Kristallen wird als Sehenswürdigkeit genannt; vorab klären, ob und wann sie besichtigt werden kann.\n\nIm Sommer gibt es in der Umgebung viele Wander-, Rad- und Kletterrouten, und die Straße Richtung Gerlospass ist beliebt. Im Winter kann man in Mayrhofen Ski fahren, außerdem eignet sich das Tal zum Winterwandern und Schneeschuhwandern. Von Niederau aus ist Ramsau ein längerer Tagesausflug, den man gut mit Mayrhofen verbindet. Zur Sicherheit sollte man bei der Planung des Tages stets das aktuelle Wetter und die aktuellen Öffnungszeiten prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "Het Ramsauer Kirchl is het herkenbare historische kerkje in het dorp.",
+    "De Zillertalbahn, een ruim honderd jaar oude smalspoorlijn, rijdt door het dal.",
+    "De Alte Mühle van de 'Wurzenmax' toont een verzameling mineralen en kristallen (vooraf informeren over bezoek).",
+    "In de zomer: wandel-, fiets- en klimroutes en de route richting de Gerlospass.",
+    "In de winter: skiën in Mayrhofen (ca. 4 km), winterwandelen en sneeuwschoenwandelen in het dal."
+   ],
+   "en": [
+    "The Ramsauer Kirchl is the recognisable historic church in the village.",
+    "The Zillertalbahn, a narrow-gauge railway more than a hundred years old, runs through the valley.",
+    "The Alte Mühle of the 'Wurzenmax' displays a collection of minerals and crystals (ask about visits beforehand).",
+    "In summer: walking, cycling and climbing routes, and the route towards the Gerlos Pass.",
+    "In winter: skiing in Mayrhofen (about 4 km), winter walking and snowshoeing in the valley."
+   ],
+   "de": [
+    "Das Ramsauer Kirchl ist die markante historische Kirche im Ort.",
+    "Die Zillertalbahn, eine über hundert Jahre alte Schmalspurbahn, fährt durchs Tal.",
+    "Die Alte Mühle des 'Wurzenmax' zeigt eine Sammlung von Mineralien und Kristallen (Besuch vorab erfragen).",
+    "Im Sommer: Wander-, Rad- und Kletterrouten sowie die Strecke Richtung Gerlospass.",
+    "Im Winter: Skifahren in Mayrhofen (ca. 4 km), Winterwandern und Schneeschuhwandern im Tal."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 55 minuten met de auto vanaf Niederau, via Wörgl en de A12 (afrit Zillertal), daarna door het dal richting Mayrhofen.",
+   "en": "About 55 minutes by car from Niederau, via Wörgl and the A12 (Zillertal exit), then up the valley towards Mayrhofen.",
+   "de": "Ca. 55 Minuten mit dem Auto ab Niederau, über Wörgl und die A12 (Ausfahrt Zillertal), dann durchs Tal Richtung Mayrhofen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die Zillertal en Mayrhofen willen combineren.",
+   "en": "Suits families who want to combine the Zillertal and Mayrhofen.",
+   "de": "Passt zu Familien, die Zillertal und Mayrhofen verbinden möchten."
+  },
+  "season": {
+   "nl": "Het hele jaar: zomer voor wandelen en fietsen, winter voor skiën in Mayrhofen.",
+   "en": "Year-round: summer for walking and cycling, winter for skiing in Mayrhofen.",
+   "de": "Ganzjährig: Sommer zum Wandern und Radfahren, Winter zum Skifahren in Mayrhofen."
+  },
+  "drive_min": 55,
+  "elevation_m": 604,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe ver is Ramsau van Mayrhofen?",
+     "en": "How far is Ramsau from Mayrhofen?",
+     "de": "Wie weit ist Ramsau von Mayrhofen entfernt?"
+    },
+    "a": {
+     "nl": "Ongeveer 4 km; je combineert beide plaatsen dus eenvoudig in één dagtocht.",
+     "en": "About 4 km, so you can easily combine both places in one day trip.",
+     "de": "Etwa 4 km; beide Orte lassen sich also leicht an einem Tag verbinden."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kan ik met de trein naar Ramsau?",
+     "en": "Can I get to Ramsau by train?",
+     "de": "Kann ich mit der Bahn nach Ramsau fahren?"
+    },
+    "a": {
+     "nl": "De Zillertalbahn rijdt door het dal; check de actuele dienstregeling vooraf. Vanuit Niederau is de auto de eenvoudigste optie.",
+     "en": "The Zillertalbahn runs through the valley; check the current timetable beforehand. From Niederau the car is the simplest option.",
+     "de": "Die Zillertalbahn fährt durchs Tal; aktuellen Fahrplan vorab prüfen. Ab Niederau ist das Auto die einfachste Möglichkeit."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "hart-im-zillertal",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Hart im Zillertal",
+   "en": "Hart im Zillertal",
+   "de": "Hart im Zillertal"
+  },
+  "tagline": {
+   "nl": "Rustig dorp met de hoge Harter Schleierwasserfall en het gezinsskigebied Spieljoch",
+   "en": "Peaceful village with the tall Harter Schleierwasserfall and the family ski area Spieljoch",
+   "de": "Ruhiges Dorf mit dem Harter Schleierwasserfall und dem Familienskigebiet Spieljoch"
+  },
+  "intro": {
+   "nl": "Hart im Zillertal ligt op ongeveer 660 m hoogte, aan de ingang van het Zillertal, tegenover Fügen. Het is een kleine gemeente met ruim 1.500 inwoners en werd rond het jaar 1100 voor het eerst genoemd. Het dorp staat bekend als rustig en is vooral geschikt voor wie ontspanning zoekt.\n\nDe bekendste natuurplek is de Harter Schleierwasserfall, met ongeveer 91 m de hoogste waterval van zijn soort in de streek. De rondwandeling ernaartoe is ongeveer 5,7 km lang en kent een stijging van zo'n 280 m. Verder zijn er twee educatieve wandelroutes, een natuurbelevingspad en een vogelpad, vanuit het gehucht Niederberg. De gotische parochiekerk St. Bartholomäus en de bedevaartskapel op de Hartberg zijn de belangrijkste historische bezienswaardigheden.\n\nIn de herfst wordt in het dorp traditioneel de afdaling van het vee van de hoge alpenweiden gevierd. Het gezinsvriendelijke skigebied Spieljoch ligt op enkele minuten rijden. Vanuit Niederau is Hart een geschikte halve dagtocht, vooral in de zomer voor de waterval. Neem voor de zekerheid altijd even de actuele weer- en openingsinformatie mee in je planning.",
+   "en": "Hart im Zillertal lies at about 660 m at the entrance to the Zillertal, opposite Fügen. It is a small municipality of a little over 1,500 residents and was first mentioned around the year 1100. The village is known as a peaceful place and is best for those who want to relax.\n\nThe best-known natural sight is the Harter Schleierwasserfall, at about 91 m the tallest waterfall of its kind in the region. The circular walk to it is roughly 5.7 km long with an ascent of about 280 m. There are also two educational trails, a nature trail and a bird trail, starting from the hamlet of Niederberg. The Gothic parish church of St Bartholomew and the pilgrimage chapel on the Hartberg are the main historic sights.\n\nIn autumn the village traditionally celebrates the cattle drive down from the high alpine pastures. The family-friendly Spieljoch ski area is a few minutes away by car. From Niederau, Hart makes a suitable half-day trip, especially in summer for the waterfall.",
+   "de": "Hart im Zillertal liegt auf etwa 660 m Höhe am Taleingang des Zillertals, gegenüber von Fügen. Es ist eine kleine Gemeinde mit gut 1.500 Einwohnern und wurde um das Jahr 1100 erstmals erwähnt. Der Ort gilt als ruhig und eignet sich vor allem für alle, die Erholung suchen.\n\nDas bekannteste Naturziel ist der Harter Schleierwasserfall, mit etwa 91 m der höchste seiner Art in der Region. Die Rundwanderung dorthin ist rund 5,7 km lang und überwindet etwa 280 Höhenmeter. Außerdem gibt es zwei Lehrwege, einen Naturerlebnisweg und einen Vogellehrpfad, die im Weiler Niederberg beginnen. Die gotische Pfarrkirche St. Bartholomäus und die Wallfahrtskapelle am Hartberg sind die wichtigsten historischen Sehenswürdigkeiten.\n\nIm Herbst wird im Dorf traditionell der Almabtrieb gefeiert. Das familienfreundliche Skigebiet Spieljoch liegt nur wenige Autominuten entfernt. Von Niederau aus ist Hart ein passender Halbtagesausflug, besonders im Sommer wegen des Wasserfalls. Zur Sicherheit sollte man bei der Planung des Tages stets das aktuelle Wetter und die aktuellen Öffnungszeiten prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "De Harter Schleierwasserfall (ca. 91 m) met een rondwandeling van ca. 5,7 km.",
+    "Natuurbelevingspad en vogelpad bij Niederberg, met informatiebordjes.",
+    "De gotische parochiekerk St. Bartholomäus en de bedevaartskapel op de Hartberg.",
+    "De houtbelevingswereld in de buurt met een uitkijkplatform van 16 m.",
+    "Het gezinsskigebied Spieljoch ligt enkele minuten rijden van het dorp."
+   ],
+   "en": [
+    "The Harter Schleierwasserfall (about 91 m) with a circular walk of about 5.7 km.",
+    "A nature trail and bird trail near Niederberg, with information panels.",
+    "The Gothic parish church of St Bartholomew and the pilgrimage chapel on the Hartberg.",
+    "A wood-themed experience area nearby with a 16 m observation platform.",
+    "The family ski area Spieljoch is a few minutes' drive from the village."
+   ],
+   "de": [
+    "Der Harter Schleierwasserfall (ca. 91 m) mit einer Rundwanderung von ca. 5,7 km.",
+    "Naturerlebnisweg und Vogellehrpfad bei Niederberg mit Infotafeln.",
+    "Die gotische Pfarrkirche St. Bartholomäus und die Wallfahrtskapelle am Hartberg.",
+    "Eine Holzerlebniswelt in der Nähe mit 16 m hoher Aussichtsplattform.",
+    "Das Familienskigebiet Spieljoch liegt nur wenige Autominuten vom Ort entfernt."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 50 minuten met de auto vanaf Niederau, via Wörgl en de A12 (afrit Zillertal), daarna door het dal naar Hart.",
+   "en": "About 50 minutes by car from Niederau, via Wörgl and the A12 (Zillertal exit), then along the valley to Hart.",
+   "de": "Ca. 50 Minuten mit dem Auto ab Niederau, über Wörgl und die A12 (Ausfahrt Zillertal), dann durchs Tal nach Hart."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen, wandelaars en rustzoekers.",
+   "en": "Suits families, walkers and those seeking quiet.",
+   "de": "Passt zu Familien, Wanderern und Ruhesuchenden."
+  },
+  "season": {
+   "nl": "Het hele jaar; zomer voor de waterval, winter voor Spieljoch.",
+   "en": "Year-round; summer for the waterfall, winter for Spieljoch.",
+   "de": "Ganzjährig; Sommer für den Wasserfall, Winter für das Spieljoch."
+  },
+  "drive_min": 50,
+  "elevation_m": 660,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is de wandeling naar de Harter Schleierwasserfall?",
+     "en": "How long is the walk to the Harter Schleierwasserfall?",
+     "de": "Wie lang ist die Wanderung zum Harter Schleierwasserfall?"
+    },
+    "a": {
+     "nl": "De rondwandeling is ongeveer 5,7 km lang met zo'n 280 m stijging; plan er een paar uur voor.",
+     "en": "The circular walk is about 5.7 km long with roughly 280 m of ascent; allow a few hours.",
+     "de": "Die Rundwanderung ist etwa 5,7 km lang mit rund 280 Höhenmetern; einige Stunden einplanen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er skiën bij Hart im Zillertal?",
+     "en": "Is there skiing near Hart im Zillertal?",
+     "de": "Kann man bei Hart im Zillertal Ski fahren?"
+    },
+    "a": {
+     "nl": "Ja, het gezinsvriendelijke skigebied Spieljoch ligt op enkele minuten met de auto.",
+     "en": "Yes, the family-friendly Spieljoch ski area is a few minutes away by car.",
+     "de": "Ja, das familienfreundliche Skigebiet Spieljoch liegt nur wenige Autominuten entfernt."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "ehrwald",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Ehrwald",
+   "en": "Ehrwald",
+   "de": "Ehrwald"
+  },
+  "tagline": {
+   "nl": "Aan de voet van de Zugspitze, thuisbasis van de Tiroler Zugspitzbahn",
+   "en": "At the foot of the Zugspitze, home of the Tiroler Zugspitzbahn",
+   "de": "Am Fuß der Zugspitze, Heimat der Tiroler Zugspitzbahn"
+  },
+  "intro": {
+   "nl": "Ehrwald ligt in het district Reutte, in het Tiroler Zugspitzarena-gebied, aan de voet van het Wettersteingebergte met de 2.962 m hoge Zugspitze. Het dorp ligt op ongeveer 994 m hoogte en vormt samen met Lermoos, Biberwier, Berwang en Heiterwang de regio Zugspitzarena.\n\nDe grote trekpleister is de Tiroler Zugspitzbahn: een moderne kabelbaan met twee cabines voor elk 100 personen brengt je naar het Zugspitzplatt op bijna 2.950 m. Bij helder weer reikt het uitzicht ver, en het belevingsmuseum 'Faszination Zugspitze' is ook bij slecht weer een optie. De Ehrwalder Almbahn voert naar de Ehrwalder Alm op ongeveer 1.500 m; daar beginnen populaire wandelingen, onder meer naar de Seebensee.\n\nIn de winter zijn er pistes, een skikleuterschool en verlichte rodelbanen. Een bijzondere traditie is het Bergfeuer Ehrwald rond de zomerzonnewende, dat sinds 2010 op de UNESCO-lijst van immaterieel erfgoed staat. Vanuit Niederau is Ehrwald een lange maar goed te doen dagtocht met de auto. Neem voor de zekerheid altijd even de actuele weer- en openingsinformatie mee in je planning.",
+   "en": "Ehrwald lies in the Reutte district, within the Tiroler Zugspitz Arena, at the foot of the Wetterstein range and the 2,962 m Zugspitze. The village sits at about 994 m and, together with Lermoos, Biberwier, Berwang and Heiterwang, forms the Zugspitz Arena region.\n\nThe big draw is the Tiroler Zugspitzbahn: a modern cable car with two cabins for 100 people each takes you to the Zugspitzplatt at almost 2,950 m. On clear days the view stretches far, and the 'Faszination Zugspitze' experience museum is an option even in poor weather. The Ehrwalder Almbahn leads up to the Ehrwalder Alm at about 1,500 m, where popular walks begin, including the one to the Seebensee.\n\nIn winter there are pistes, a ski kindergarten and floodlit toboggan runs. A special tradition is the Bergfeuer Ehrwald around the summer solstice, on the UNESCO list of intangible cultural heritage since 2010. From Niederau, Ehrwald is a long but manageable day trip by car. For safety's sake, always check current weather and opening information when planning your day.",
+   "de": "Ehrwald liegt im Bezirk Reutte in der Tiroler Zugspitz Arena, am Fuß des Wettersteingebirges mit der 2.962 m hohen Zugspitze. Der Ort liegt auf etwa 994 m und bildet zusammen mit Lermoos, Biberwier, Berwang und Heiterwang die Region Zugspitz Arena.\n\nDer große Anziehungspunkt ist die Tiroler Zugspitzbahn: Eine moderne Seilbahn mit zwei Kabinen für je 100 Personen bringt Besucher auf das Zugspitzplatt auf knapp 2.950 m. Bei klarem Wetter reicht die Sicht weit, und das Erlebnismuseum 'Faszination Zugspitze' ist auch bei schlechtem Wetter eine Option. Die Ehrwalder Almbahn führt zur Ehrwalder Alm auf etwa 1.500 m, wo beliebte Wanderungen beginnen, unter anderem zum Seebensee.\n\nIm Winter gibt es Pisten, einen Skikindergarten und beleuchtete Rodelbahnen. Eine besondere Tradition ist das Bergfeuer Ehrwald zur Sommersonnenwende, seit 2010 auf der UNESCO-Liste des immateriellen Kulturerbes. Von Niederau aus ist Ehrwald ein langer, aber gut machbarer Tagesausflug mit dem Auto. Zur Sicherheit sollte man bei der Planung des Tages stets das aktuelle Wetter und die aktuellen Öffnungszeiten prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "De Tiroler Zugspitzbahn naar het Zugspitzplatt (bergstation op ca. 2.950 m), met het museum 'Faszination Zugspitze'.",
+    "De Ehrwalder Almbahn naar de Ehrwalder Alm (ca. 1.500 m), vertrekpunt van wandelingen.",
+    "De wandeling naar de Seebensee voor de Zugspitze-achtergrond.",
+    "In de winter: skiën op de Ehrwalder Alm, skikleuterschool en verlichte rodelbanen (informeer naar actuele tijden).",
+    "Het Bergfeuer Ehrwald rond de zonnewende, sinds 2010 UNESCO-erfgoed."
+   ],
+   "en": [
+    "The Tiroler Zugspitzbahn to the Zugspitzplatt (top station at about 2,950 m), with the 'Faszination Zugspitze' museum.",
+    "The Ehrwalder Almbahn to the Ehrwalder Alm (about 1,500 m), starting point for walks.",
+    "The walk to the Seebensee with the Zugspitze as a backdrop.",
+    "In winter: skiing on the Ehrwalder Alm, a ski kindergarten and floodlit toboggan runs (check current times).",
+    "The Bergfeuer Ehrwald around the solstice, UNESCO heritage since 2010."
+   ],
+   "de": [
+    "Die Tiroler Zugspitzbahn auf das Zugspitzplatt (Bergstation auf ca. 2.950 m) mit dem Museum 'Faszination Zugspitze'.",
+    "Die Ehrwalder Almbahn zur Ehrwalder Alm (ca. 1.500 m), Ausgangspunkt für Wanderungen.",
+    "Die Wanderung zum Seebensee vor der Kulisse der Zugspitze.",
+    "Im Winter: Skifahren auf der Ehrwalder Alm, Skikindergarten und beleuchtete Rodelbahnen (aktuelle Zeiten erfragen).",
+    "Das Bergfeuer Ehrwald zur Sonnenwende, seit 2010 UNESCO-Kulturerbe."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 1,5 tot 2 uur met de auto vanaf Niederau, via de Inntal-autosnelweg richting Innsbruck en verder via Telfs en de Fernpass of via Mieming; plan een volledige dag.",
+   "en": "About 1.5 to 2 hours by car from Niederau, via the Inn valley motorway towards Innsbruck and on via Telfs and the Fernpass or via Mieming; plan a full day.",
+   "de": "Ca. 1,5 bis 2 Stunden mit dem Auto ab Niederau, über die Inntalautobahn Richtung Innsbruck und weiter über Telfs und den Fernpass oder über Mieming; einen ganzen Tag einplanen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met oudere kinderen die van bergen en uitzicht houden.",
+   "en": "Suits families with older children who enjoy mountains and views.",
+   "de": "Passt zu Familien mit älteren Kindern, die Berge und Aussicht lieben."
+  },
+  "season": {
+   "nl": "Het hele jaar; zomer voor wandelen en de Zugspitze, winter voor ski en rodelen.",
+   "en": "Year-round; summer for hiking and the Zugspitze, winter for skiing and tobogganing.",
+   "de": "Ganzjährig; Sommer zum Wandern und für die Zugspitze, Winter zum Skifahren und Rodeln."
+  },
+  "drive_min": 105,
+  "elevation_m": 994,
+  "url": "https://zugspitzarena.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog gaat de Tiroler Zugspitzbahn?",
+     "en": "How high does the Tiroler Zugspitzbahn go?",
+     "de": "Wie hoch fährt die Tiroler Zugspitzbahn?"
+    },
+    "a": {
+     "nl": "De bergstation ligt op ongeveer 2.950 m, op het Zugspitzplatt; de top van de Zugspitze is 2.962 m. Controleer vooraf het weer en de actuele dienstregeling.",
+     "en": "The top station is at about 2,950 m on the Zugspitzplatt; the summit of the Zugspitze is 2,962 m. Check the weather and current timetable beforehand.",
+     "de": "Die Bergstation liegt auf etwa 2.950 m am Zugspitzplatt; der Gipfel der Zugspitze misst 2.962 m. Wetter und aktuellen Fahrplan vorab prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Ehrwald te doen als dagtocht vanuit Niederau?",
+     "en": "Is Ehrwald doable as a day trip from Niederau?",
+     "de": "Ist Ehrwald als Tagesausflug ab Niederau machbar?"
+    },
+    "a": {
+     "nl": "Ja, maar reken op ca. 1,5 tot 2 uur enkele reis; vertrek vroeg en kies één hoofddoel, zoals de Zugspitzbahn of de Ehrwalder Alm.",
+     "en": "Yes, but allow about 1.5 to 2 hours each way; leave early and choose one main goal, such as the Zugspitzbahn or the Ehrwalder Alm.",
+     "de": "Ja, aber mit ca. 1,5 bis 2 Stunden pro Strecke rechnen; früh starten und ein Hauptziel wählen, etwa die Zugspitzbahn oder die Ehrwalder Alm."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "leutasch",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Leutasch",
+   "en": "Leutasch",
+   "de": "Leutasch"
+  },
+  "tagline": {
+   "nl": "Hoogdal in de Olympiaregion Seefeld met Geisterklamm en Gaistal",
+   "en": "High valley in the Olympiaregion Seefeld with the Geisterklamm and Gaistal",
+   "de": "Hochtal in der Olympiaregion Seefeld mit Geisterklamm und Gaistal"
+  },
+  "intro": {
+   "nl": "Leutasch is een hoogdal op het Seefelder Plateau in de Olympiaregion Seefeld, tegen de Beierse grens. De gemeente ligt op ongeveer 1.136 m, telt zo'n 2.400 inwoners en bestaat uit tientallen gehuchten, ingeklemd tussen Wetterstein, Karwendel en het Mieminger Gebergte.\n\nHet bekendste uitstapje is de Leutascher Geisterklamm: een 75 m diepe kloof die sinds augustus 2005 via moderne stalen paden toegankelijk is en Leutasch verbindt met Mittenwald in Beieren. Het Gaistal biedt veel gezinsvriendelijke wandelingen naar alpenhutten, zoals de Gaistalalm, Hämmermoosalm, Tillfussalm, Wangalm en Rotmoosalm; een tocht van ongeveer drie uur is een gangbare dagwandeling.\n\nIn de winter is Leutasch een sneeuwzekere langlaufbestemming met een groot, dagelijks geprepareerd netwerk voor klassiek en skating; in de zomer zijn er wandelen en fietsen. Vanuit Niederau is het een dagtocht met de auto, ongeveer anderhalf tot twee uur enkele reis. Het past het best bij gezinnen die natuur en rustige wandelingen zoeken. Neem voor de zekerheid altijd even de actuele weer- en openingsinformatie mee in je planning.",
+   "en": "Leutasch is a high valley on the Seefeld Plateau in the Olympiaregion Seefeld, close to the Bavarian border. The municipality lies at about 1,136 m, has around 2,400 residents and is made up of dozens of hamlets, set between the Wetterstein, Karwendel and Mieming ranges.\n\nThe best-known outing is the Leutascher Geisterklamm: a gorge 75 m deep, accessible since August 2005 by modern steel walkways, which links Leutasch with Mittenwald in Bavaria. The Gaistal offers many family-friendly walks to alpine huts, such as the Gaistalalm, Hämmermoosalm, Tillfussalm, Wangalm and Rotmoosalm; a walk of about three hours is a common day hike.\n\nIn winter Leutasch is a snow-reliable cross-country destination with a large, daily-groomed network for classic and skating; in summer there is walking and cycling. From Niederau it is a day trip by car, roughly one and a half to two hours each way. It suits families looking for nature and gentle walks best. For safety's sake, always check current weather and opening information when planning your day.",
+   "de": "Leutasch ist ein Hochtal auf dem Seefelder Plateau in der Olympiaregion Seefeld, nahe der bayerischen Grenze. Die Gemeinde liegt auf etwa 1.136 m, hat rund 2.400 Einwohner und besteht aus vielen Weilern, eingebettet zwischen Wetterstein, Karwendel und Mieminger Gebirge.\n\nDas bekannteste Ausflugsziel ist die Leutascher Geisterklamm: eine 75 m tiefe Schlucht, die seit August 2005 über moderne Stahlstege begehbar ist und Leutasch mit Mittenwald in Bayern verbindet. Das Gaistal bietet viele familienfreundliche Wanderungen zu Almen, etwa zur Gaistalalm, Hämmermoosalm, Tillfussalm, Wangalm und Rotmoosalm; eine Tour von rund drei Stunden ist eine übliche Tageswanderung.\n\nIm Winter ist Leutasch ein schneesicheres Langlaufziel mit einem großen, täglich gespurten Netz für Klassisch und Skating; im Sommer wird gewandert und geradelt. Von Niederau aus ist es ein Tagesausflug mit dem Auto, ungefähr anderthalb bis zwei Stunden pro Strecke. Am besten passt es zu Familien, die Natur und gemütliche Wanderungen suchen. Zur Sicherheit sollte man bei der Planung des Tages stets das aktuelle Wetter und die aktuellen Öffnungszeiten prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "De Leutascher Geisterklamm: 75 m diepe kloof met stalen paden, geopend in augustus 2005.",
+    "Het Gaistal met gezinsvriendelijke wandelingen naar alpenhutten, zoals de Gaistalalm.",
+    "Een driealmenrondwandeling in het Gaistal vanaf de parkeerplaats Salzbach.",
+    "In de winter: uitgebreid, dagelijks geprepareerd langlaufnetwerk (klassiek en skating).",
+    "Het Kirchplatzl en de gehuchten van Leutasch voor een rustige wandeling door het dorp."
+   ],
+   "en": [
+    "The Leutascher Geisterklamm: a 75 m deep gorge with steel walkways, opened in August 2005.",
+    "The Gaistal with family-friendly walks to alpine huts such as the Gaistalalm.",
+    "A three-alp circular walk in the Gaistal from the Salzbach car park.",
+    "In winter: an extensive, daily-groomed cross-country network (classic and skating).",
+    "The Kirchplatzl and the hamlets of Leutasch for a quiet stroll through the village."
+   ],
+   "de": [
+    "Die Leutascher Geisterklamm: 75 m tiefe Schlucht mit Stahlstegen, eröffnet im August 2005.",
+    "Das Gaistal mit familienfreundlichen Wanderungen zu Almen wie der Gaistalalm.",
+    "Eine 3-Almen-Rundwanderung im Gaistal ab dem Parkplatz Salzbach.",
+    "Im Winter: ein ausgedehntes, täglich gespurtes Langlaufnetz (Klassisch und Skating).",
+    "Das Kirchplatzl und die Weiler von Leutasch für einen ruhigen Spaziergang durchs Dorf."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 1,5 tot 2 uur met de auto vanaf Niederau, via de Inntal-autosnelweg (A12) richting Innsbruck, daarna via Zirl en Seefeld naar Leutasch; plan een dagtocht.",
+   "en": "About 1.5 to 2 hours by car from Niederau, via the Inn valley motorway (A12) towards Innsbruck, then via Zirl and Seefeld to Leutasch; plan a day trip.",
+   "de": "Ca. 1,5 bis 2 Stunden mit dem Auto ab Niederau, über die Inntalautobahn (A12) Richtung Innsbruck, dann über Zirl und Seefeld nach Leutasch; einen Tagesausflug einplanen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die natuur, wandelen en langlaufen zoeken.",
+   "en": "Suits families looking for nature, walking and cross-country skiing.",
+   "de": "Passt zu Familien, die Natur, Wandern und Langlauf suchen."
+  },
+  "season": {
+   "nl": "Het hele jaar; zomer voor wandelen, winter voor langlaufen.",
+   "en": "Year-round; summer for walking, winter for cross-country skiing.",
+   "de": "Ganzjährig; Sommer zum Wandern, Winter zum Langlaufen."
+  },
+  "drive_min": 105,
+  "elevation_m": 1136,
+  "url": "https://www.seefeld.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is de Leutascher Geisterklamm?",
+     "en": "What is the Leutascher Geisterklamm?",
+     "de": "Was ist die Leutascher Geisterklamm?"
+    },
+    "a": {
+     "nl": "Een 75 m diepe kloof met stalen wandelpaden, in augustus 2005 geopend, die Leutasch met Mittenwald verbindt. Informeer vooraf naar openingstijden en toegang.",
+     "en": "A gorge 75 m deep with steel walkways, opened in August 2005, linking Leutasch with Mittenwald. Check opening times and entry beforehand.",
+     "de": "Eine 75 m tiefe Schlucht mit Stahlstegen, im August 2005 eröffnet, die Leutasch mit Mittenwald verbindet. Öffnungszeiten und Zugang vorab prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Leutasch geschikt om te langlaufen?",
+     "en": "Is Leutasch good for cross-country skiing?",
+     "de": "Ist Leutasch zum Langlaufen geeignet?"
+    },
+    "a": {
+     "nl": "Ja, Leutasch staat bekend om een groot, dagelijks geprepareerd netwerk met klassieke en skatingloipes.",
+     "en": "Yes, Leutasch is known for a large, daily-groomed network with classic and skating tracks.",
+     "de": "Ja, Leutasch ist für ein großes, täglich gespurtes Netz mit Klassisch- und Skatingloipen bekannt."
+    }
+   }
+  ],
+  "verified": true
+ }
+]

@@ -224,6 +224,8 @@ if _reg.exists():
 - Overviews: winter ({BASE}/activiteiten/winter/), summer ({BASE}/activiteiten/zomer/), what to do when it rains ({BASE}/activiteiten/regendag/) and with kids ({BASE}/activiteiten/met-kinderen/); English and German versions under /en/activities/ and /de/aktivitaeten/.
 - Events calendar (recurring events such as Krautinger Week, Wildschönau valley festival, Almabtrieb, Advent, ski opening): {BASE}/en/events/ (NL {BASE}/agenda/, DE {BASE}/de/veranstaltungen/). Dates vary by year; check with the organiser.
 
+- Guides: when to visit Niederau month by month ({BASE}/en/guides/when-to-visit/; NL {BASE}/gids/wanneer-naar-niederau/, DE {BASE}/de/ratgeber/beste-reisezeit/) and food and drink in the Wildschönau ({BASE}/en/guides/food-and-drink/; NL {BASE}/gids/eten-en-drinken/, DE {BASE}/de/ratgeber/essen-und-trinken/).
+
 ## Tourist office
 - Wildschönau Tourismus (tourist office for Niederau and the whole valley): Hauserweg, Oberau 337, 6311 Wildschönau, +43 5339 8255, info@wildschoenau.com, https://www.wildschoenau.com/ – accommodation in all four villages, events, lift and trail information.
 

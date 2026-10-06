@@ -1,0 +1,530 @@
+[
+ {
+  "slug": "fieberbrunn",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Fieberbrunn",
+   "en": "Fieberbrunn",
+   "de": "Fieberbrunn"
+  },
+  "tagline": {
+   "nl": "Grootste dorp van het Pillerseetal, met skigebied en Timoks Wilder Welt",
+   "en": "Largest village in the Pillerseetal, with a ski area and Timoks Wilder Welt",
+   "de": "Größter Ort im Pillerseetal mit Skigebiet und Timoks Wilder Welt"
+  },
+  "intro": {
+   "nl": "Fieberbrunn ligt op ongeveer 790 m in het Pillerseetal, een zijdal in de Kitzbüheler Alpen ten noordoosten van Kitzbühel. Het is de grootste gemeente van het dal en een goede uitvalsbasis voor een dagje weg vanuit de Wildschönau.\n\nIn de winter vormt Fieberbrunn een toegang tot het skigebied Skicircus Saalbach Hinterglemm Leogang Fieberbrunn. Daarnaast zijn er mogelijkheden voor langlaufen en winterwandelen, ook voor wie de drukke pistes liever mijdt. Het dal heeft een rustiger karakter dan de grote toeristencentra in de buurt, wat veel gezinnen als prettig ervaren. Reken op een uitstapje van een hele dag, zeker als je meerdere onderdelen wilt combineren.\n\nIn de zomer is de omgeving vooral interessant voor wandelaars en mountainbikers. Gezinnen kunnen terecht bij Timoks Wilder Welt met onder meer een alpine coaster, waterspelen, een klimpark en een touwenparcours. Wie even tot rust wil komen, kan de korte reis naar het nabijgelegen Pillersee combineren met een bezoek aan het Jakobskreuz. Wie met kinderen reist, kan het programma goed spreiden: een ochtend in het attractiepark, een picknick onderweg en een korte wandeling aan het eind van de middag.",
+   "en": "Fieberbrunn lies at about 790 m in the Pillerseetal, a side valley of the Kitzbühel Alps to the north-east of Kitzbühel. It is the largest municipality in the valley and a practical base for a day out from the Wildschönau.\n\nIn winter, Fieberbrunn gives access to the Skicircus Saalbach Hinterglemm Leogang Fieberbrunn ski area. There are also cross-country trails and winter walks, which suit anyone who prefers to avoid the busy slopes. The valley feels calmer than the large tourist hubs nearby, which many families appreciate. Plan a full day out, especially if you want to combine several activities.\n\nIn summer the surroundings mainly appeal to hikers and mountain bikers. Families can visit Timoks Wilder Welt, which offers an alpine coaster, water play, a climbing park and a rope course. If you want a quieter outing, you can combine the short trip to the nearby Pillersee with a visit to the Jakobskreuz. If you travel with children, you can spread the programme well: a morning at the adventure park, a picnic on the way and a short walk in the late afternoon.",
+   "de": "Fieberbrunn liegt auf rund 790 m im Pillerseetal, einem Seitental der Kitzbüheler Alpen nordöstlich von Kitzbühel. Es ist die größte Gemeinde des Tals und ein praktischer Ausgangspunkt für einen Tagesausflug aus der Wildschönau.\n\nIm Winter bietet Fieberbrunn Zugang zum Skigebiet Skicircus Saalbach Hinterglemm Leogang Fieberbrunn. Dazu kommen Langlaufloipen und Winterwanderwege, was auch denjenigen gefällt, die volle Pisten lieber meiden. Das Tal wirkt ruhiger als die großen Tourismuszentren in der Nähe, was viele Familien schätzen. Man sollte einen ganzen Tag einplanen, vor allem wenn man mehrere Programmpunkte verbinden möchte.\n\nIm Sommer ist die Umgebung vor allem für Wanderer und Mountainbiker interessant. Familien finden in Timoks Wilder Welt unter anderem eine Alpine Coaster, Wasserspiele, einen Kletterpark und einen Seilgarten. Wer es ruhiger mag, verbindet den kurzen Abstecher zum nahen Pillersee mit einem Besuch beim Jakobskreuz. Wer mit Kindern reist, kann das Programm gut verteilen: ein Vormittag im Erlebnispark, ein Picknick unterwegs und ein kurzer Spaziergang am späten Nachmittag. Festes Schuhwerk und Regenkleidung sind auch im Sommer empfehlenswert."
+  },
+  "highlights": {
+   "nl": [
+    "Timoks Wilder Welt: alpine coaster, waterspelen, klimpark en touwenparcours voor kinderen.",
+    "Het Jakobskreuz met Antoniuskapel op de Buchensteinwand, naar eigen zeggen 's werelds grootste begaanbare topkruis, het hele jaar open.",
+    "Wandel- en mountainbiketochten rond het dorp in de zomer.",
+    "Skicircus Saalbach Hinterglemm Leogang Fieberbrunn voor wintersport.",
+    "Langlaufen en winterwandelen in het Pillerseetal."
+   ],
+   "en": [
+    "Timoks Wilder Welt: alpine coaster, water play, climbing park and rope course for children.",
+    "The Jakobskreuz and Antonius Chapel on the Buchensteinwand, billed as the world's largest accessible summit cross, open all year.",
+    "Hiking and mountain biking routes around the village in summer.",
+    "Skicircus Saalbach Hinterglemm Leogang Fieberbrunn for winter sports.",
+    "Cross-country skiing and winter walking in the Pillerseetal."
+   ],
+   "de": [
+    "Timoks Wilder Welt: Alpine Coaster, Wasserspiele, Kletterpark und Seilgarten für Kinder.",
+    "Das Jakobskreuz mit Antoniuskapelle auf der Buchensteinwand, laut Tourismus das weltweit größte begehbare Gipfelkreuz, ganzjährig geöffnet.",
+    "Wander- und Mountainbikerouten rund um den Ort im Sommer.",
+    "Skicircus Saalbach Hinterglemm Leogang Fieberbrunn für den Wintersport.",
+    "Langlaufen und Winterwandern im Pillerseetal."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 50 minuten rijden vanaf Niederau, bij benadering via Wörgl en Kitzbühel (B178/B161). Controleer de actuele route voor vertrek.",
+   "en": "About 50 minutes by car from Niederau, roughly via Wörgl and Kitzbühel (B178/B161). Check the current route before setting off.",
+   "de": "Ca. 50 Minuten Fahrt ab Niederau, ungefähr über Wörgl und Kitzbühel (B178/B161). Aktuelle Route vor der Abfahrt prüfen."
+  },
+  "best_for": {
+   "nl": "Gezinnen met kinderen en actieve vakantiegangers.",
+   "en": "Families with children and active holidaymakers.",
+   "de": "Familien mit Kindern und Aktivurlauber."
+  },
+  "season": {
+   "nl": "Zomer en winter.",
+   "en": "Summer and winter.",
+   "de": "Sommer und Winter."
+  },
+  "drive_min": 50,
+  "elevation_m": 790,
+  "url": "https://www.kitzbueheler-alpen.com/de/pital/fieberbrunn.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er in Fieberbrunn te doen met kinderen?",
+     "en": "What is there to do in Fieberbrunn with children?",
+     "de": "Was kann man in Fieberbrunn mit Kindern unternehmen?"
+    },
+    "a": {
+     "nl": "In de zomer is Timoks Wilder Welt met alpine coaster, waterspelen, klimpark en touwenparcours een gewilde bestemming. In de winter zijn er het skigebied en winterwandelroutes.",
+     "en": "In summer, Timoks Wilder Welt with its alpine coaster, water play, climbing park and rope course is a popular choice. In winter there are the ski area and winter walking routes.",
+     "de": "Im Sommer ist Timoks Wilder Welt mit Alpine Coaster, Wasserspielen, Kletterpark und Seilgarten ein beliebtes Ziel. Im Winter gibt es das Skigebiet und Winterwanderwege."
+    }
+   },
+   {
+    "q": {
+     "nl": "Op welke hoogte ligt Fieberbrunn?",
+     "en": "At what altitude is Fieberbrunn?",
+     "de": "Auf welcher Höhe liegt Fieberbrunn?"
+    },
+    "a": {
+     "nl": "Het dorp ligt op ongeveer 790 m, iets lager dan Niederau (828 m).",
+     "en": "The village lies at about 790 m, slightly lower than Niederau (828 m).",
+     "de": "Der Ort liegt auf rund 790 m, etwas tiefer als Niederau (828 m)."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "st-ulrich-am-pillersee",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "St. Ulrich am Pillersee",
+   "en": "St. Ulrich am Pillersee",
+   "de": "St. Ulrich am Pillersee"
+  },
+  "tagline": {
+   "nl": "Dorp aan de smaragdgroene Pillersee, met wandelen, zwemmen en winterpret",
+   "en": "Village on the emerald Pillersee, for walking, swimming and winter fun",
+   "de": "Dorf am smaragdgrünen Pillersee mit Wandern, Baden und Winterspaß"
+  },
+  "intro": {
+   "nl": "St. Ulrich am Pillersee ligt op ongeveer 835 m in het hart van het Pillerseetal, direct aan de Pillersee. De Loferer Steinberge en de Buchensteinwand vormen het decor, een mooie omlijsting voor een rustig uitstapje.\n\nHet meer is het middelpunt van het dorp. Aan de oever zijn onder meer een speeltuin, een kneippaanleg, bootverhuur, suppen en visserij te vinden, en bij warm weer kun je er zwemmen. Het water wordt in de zomer niet erg warm, dus een korte duik is het meest realistisch. Door de ligging aan het water en de vele korte routes is het dorp ook geschikt voor wie niet te ver wil lopen of met jonge kinderen reist.\n\nRond het meer lopen wandelroutes voor elk niveau, van een ontspannen wandeling tot een bergtocht in de Loferer Steinberge. In de winter kun je langlaufen en winterwandelen, en de skigebieden Buchensteinwand en Steinplatte liggen op korte rijafstand. De parochiekerk uit de late vijftiende eeuw is een bezoek waard. Combineer het dorp bijvoorbeeld met een bezoek aan Fieberbrunn of Waidring, die allebei in hetzelfde dal liggen, als je een langere dag wilt maken.",
+   "en": "St. Ulrich am Pillersee lies at roughly 835 m in the heart of the Pillerseetal, right on the Pillersee. The Loferer Steinberge and the Buchensteinwand form the backdrop, a fine setting for a relaxed day out.\n\nThe lake is the centre of village life. Its shores offer a playground, Kneipp facilities, boat hire, stand-up paddling and fishing, and in warm weather you can swim there. The water does not get very warm in summer, so a short dip is the realistic option. Thanks to its lakeside position and the many short routes, the village also suits anyone who does not want to walk far or who travels with young children.\n\nTrails around the lake suit every level, from an easy stroll to a mountain hike in the Loferer Steinberge. In winter you can cross-country ski and enjoy winter walks, and the Buchensteinwand and Steinplatte ski areas are a short drive away. The parish church, built in the late fifteenth century, is worth a look. If you want a longer day, you could combine the village with a visit to Fieberbrunn or Waidring, which both lie in the same valley.",
+   "de": "St. Ulrich am Pillersee liegt auf rund 835 m mitten im Pillerseetal, direkt am Pillersee. Die Loferer Steinberge und die Buchensteinwand bilden die Kulisse, ein schöner Rahmen für einen entspannten Ausflug.\n\nDer See ist der Mittelpunkt des Ortes. Am Ufer gibt es unter anderem einen Spielplatz, eine Kneippanlage, Bootsverleih, Stand-up-Paddling und Fischen, und bei warmem Wetter kann man hier baden. Das Wasser wird im Sommer nicht sehr warm, ein kurzer Sprung ins Wasser ist daher die realistische Variante. Durch die Lage am Wasser und die vielen kurzen Routen eignet sich der Ort auch für alle, die nicht weit gehen möchten oder mit kleinen Kindern reisen.\n\nRund um den See führen Wanderwege für jedes Niveau, vom gemütlichen Spaziergang bis zur Bergtour in den Loferer Steinbergen. Im Winter kann man langlaufen und winterwandern, die Skigebiete Buchensteinwand und Steinplatte sind nur wenige Fahrminuten entfernt. Die Pfarrkirche aus dem späten 15. Jahrhundert ist einen Blick wert. Wer einen längeren Tag plant, kann den Ort mit einem Besuch in Fieberbrunn oder Waidring verbinden, die beide im selben Tal liegen."
+  },
+  "highlights": {
+   "nl": [
+    "Pillersee met speeltuin, kneippaanleg, bootverhuur, suppen en visserij.",
+    "Wandelroutes rond het meer en in de Loferer Steinberge.",
+    "Het Jakobskreuz op de Buchensteinwand, het wereldwijd grootste begaanbare topkruis.",
+    "Het Alpensportbad, een binnenbad met wellness, handig bij slecht weer.",
+    "Langlaufen en winterwandelen rond het meer in de winter."
+   ],
+   "en": [
+    "Pillersee with a playground, Kneipp facilities, boat hire, stand-up paddling and fishing.",
+    "Walking routes around the lake and in the Loferer Steinberge.",
+    "The Jakobskreuz on the Buchensteinwand, billed as the world's largest accessible summit cross.",
+    "The Alpensportbad, an indoor pool with wellness facilities, handy on a rainy day.",
+    "Cross-country skiing and winter walks around the lake in winter."
+   ],
+   "de": [
+    "Pillersee mit Spielplatz, Kneippanlage, Bootsverleih, Stand-up-Paddling und Fischen.",
+    "Wanderwege rund um den See und in den Loferer Steinbergen.",
+    "Das Jakobskreuz auf der Buchensteinwand, das größte begehbare Gipfelkreuz der Welt.",
+    "Das Alpensportbad, ein Hallenbad mit Wellnessbereich, praktisch bei Regenwetter.",
+    "Langlaufen und Winterwandern rund um den See im Winter."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 55 minuten rijden vanaf Niederau, bij benadering via Wörgl, St. Johann in Tirol en de B164. Controleer de actuele route voor vertrek.",
+   "en": "About 55 minutes by car from Niederau, roughly via Wörgl, St. Johann in Tirol and the B164. Check the current route before setting off.",
+   "de": "Ca. 55 Minuten Fahrt ab Niederau, ungefähr über Wörgl, St. Johann in Tirol und die B164. Aktuelle Route vor der Abfahrt prüfen."
+  },
+  "best_for": {
+   "nl": "Gezinnen en rustzoekers die van meer en wandelen houden.",
+   "en": "Families and quiet-seekers who enjoy lakes and walking.",
+   "de": "Familien und Ruhesuchende, die See und Wandern mögen."
+  },
+  "season": {
+   "nl": "Het hele jaar, met zwemmen in de zomer en langlaufen in de winter.",
+   "en": "All year, with swimming in summer and cross-country skiing in winter.",
+   "de": "Ganzjährig, mit Baden im Sommer und Langlaufen im Winter."
+  },
+  "drive_min": 55,
+  "elevation_m": null,
+  "url": "https://www.kitzbueheler-alpen.com/de/pital/st-ulrich-am-pillersee.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je in de Pillersee zwemmen?",
+     "en": "Can you swim in the Pillersee?",
+     "de": "Kann man im Pillersee baden?"
+    },
+    "a": {
+     "nl": "Ja, het meer wordt als natuurlijk zwemwater gebruikt. De temperatuur blijft in de zomer onder de ca. 18 graden, dus het is fris.",
+     "en": "Yes, the lake is used for swimming. According to sources, the temperature stays below about 18 degrees in summer, so it is fresh.",
+     "de": "Ja, der See wird zum Baden genutzt. Laut Quellen bleibt die Wassertemperatur im Sommer unter ca. 18 Grad, es ist also frisch."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er iets te doen bij slecht weer?",
+     "en": "Is there anything to do in bad weather?",
+     "de": "Gibt es etwas bei schlechtem Wetter?"
+    },
+    "a": {
+     "nl": "Het Alpensportbad in het dorp is een binnenbad met wellnessfaciliteiten. Informeer vooraf naar openingstijden.",
+     "en": "The Alpensportbad in the village is an indoor pool with wellness facilities. Check opening times beforehand.",
+     "de": "Das Alpensportbad im Ort ist ein Hallenbad mit Wellnessbereich. Öffnungszeiten vorab erfragen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "st-jakob-in-haus",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "St. Jakob in Haus",
+   "en": "St. Jakob in Haus",
+   "de": "St. Jakob in Haus"
+  },
+  "tagline": {
+   "nl": "Kleinste gemeente van het Pillerseetal, zonnig en rustig, met Familienland",
+   "en": "Smallest municipality in the Pillerseetal, sunny and quiet, with Familienland",
+   "de": "Kleinste Gemeinde im Pillerseetal, sonnig und ruhig, mit Familienland"
+  },
+  "intro": {
+   "nl": "St. Jakob in Haus ligt op ongeveer 855 m tussen Fieberbrunn en St. Ulrich am Pillersee. Met zo'n achthonderd inwoners is het de kleinste gemeente van het district Kitzbühel, en het toerisme is er de belangrijkste inkomstenbron.\n\nHet dorp staat bekend als het zonnigste van het Pillerseetal, in zomer en winter. Dat maakt het een prettig vertrekpunt voor wandelingen, onder meer naar de Buchensteinwand (1.558 m) met het Jakobskreuz. Ook loopt er een pelgrimsroute door het dorp. Door zijn bescheiden omvang is het dorp overzichtelijk en rustig. Het is geen plek voor uitgaan, maar wel voor een ontspannen dag in de natuur.\n\nVoor gezinnen is Familienland Pillerseetal een bekende attractie, met onder meer een familieachtbaan, een raftingparcours, Vikingland en een klimhal. In de winter kun je langlaufen over een zonnige loipe, die via St. Ulrich doorloopt naar Hochfilzen. Aan het einde van juni vindt de Stoabergmarsch plaats, een 24-uurs wandelevenement richting Leogang. Wie meer wil zien, combineert het bezoek met het nabijgelegen Fieberbrunn of de Pillersee bij St. Ulrich, beide op slechts een paar kilometer afstand.",
+   "en": "St. Jakob in Haus lies at roughly 855 m between Fieberbrunn and St. Ulrich am Pillersee. With around eight hundred residents it is the smallest municipality in the Kitzbühel district, and tourism is its main source of income.\n\nThe village is known as the sunniest in the Pillerseetal, in both summer and winter. That makes it a pleasant starting point for hikes, for example to the Buchensteinwand (1,558 m) with the Jakobskreuz. A pilgrimage route also passes through the village. Because of its modest size the village is easy to get around and quiet. It is not a place for nightlife, but it works well for a relaxed day in nature.\n\nFor families, Familienland Pillerseetal is a well-known attraction, with a family roller coaster, a rafting course, Viking land and a climbing hall. In winter you can cross-country ski on a sunny trail that continues via St. Ulrich to Hochfilzen. At the end of June the Stoabergmarsch takes place, a 24-hour hiking event heading towards Leogang. If you want to see more, combine your visit with nearby Fieberbrunn or the Pillersee at St. Ulrich, both only a few kilometres away.",
+   "de": "St. Jakob in Haus liegt auf rund 855 m zwischen Fieberbrunn und St. Ulrich am Pillersee. Mit etwa achthundert Einwohnern ist es die kleinste Gemeinde des Bezirks Kitzbühel, und der Tourismus ist die wichtigste Einnahmequelle.\n\nDer Ort gilt als der sonnigste im Pillerseetal, im Sommer wie im Winter. Das macht ihn zu einem angenehmen Ausgangspunkt für Wanderungen, etwa auf die Buchensteinwand (1.558 m) mit dem Jakobskreuz. Auch ein Pilgerweg führt durch den Ort. Wegen seiner bescheidenen Größe ist der Ort überschaubar und ruhig. Er ist kein Ort für Nachtleben, eignet sich aber gut für einen entspannten Tag in der Natur.\n\nFür Familien ist das Familienland Pillerseetal eine bekannte Attraktion, mit einer Familien-Achterbahn, einem Rafting-Parcours, Wikingerland und einer Kletterhalle. Im Winter kann man auf einer sonnigen Loipe langlaufen, die über St. Ulrich bis nach Hochfilzen führt. Ende Juni findet der Stoabergmarsch statt, ein 24-Stunden-Wanderevent in Richtung Leogang. Wer mehr sehen möchte, verbindet den Besuch mit dem nahen Fieberbrunn oder dem Pillersee bei St. Ulrich, beide nur wenige Kilometer entfernt."
+  },
+  "highlights": {
+   "nl": [
+    "Familienland Pillerseetal met familieachtbaan, raftingparcours, Vikingland en klimhal.",
+    "Wandelen naar de Buchensteinwand (1.558 m) en het Jakobskreuz.",
+    "Pelgrimsroute en Besinnungsweg door het dorp.",
+    "Langlaufen op een zonnige loipe die doorloopt naar Hochfilzen.",
+    "Stoabergmarsch, 24-uurs wandelevenement eind juni."
+   ],
+   "en": [
+    "Familienland Pillerseetal with a family roller coaster, rafting course, Viking land and climbing hall.",
+    "Hiking to the Buchensteinwand (1,558 m) and the Jakobskreuz.",
+    "Pilgrimage route and Besinnungsweg through the village.",
+    "Cross-country skiing on a sunny trail continuing to Hochfilzen.",
+    "Stoabergmarsch, a 24-hour hiking event at the end of June."
+   ],
+   "de": [
+    "Familienland Pillerseetal mit Familien-Achterbahn, Rafting-Parcours, Wikingerland und Kletterhalle.",
+    "Wandern zur Buchensteinwand (1.558 m) und zum Jakobskreuz.",
+    "Pilgerweg und Besinnungsweg durch den Ort.",
+    "Langlaufen auf einer sonnigen Loipe bis nach Hochfilzen.",
+    "Stoabergmarsch, ein 24-Stunden-Wanderevent Ende Juni."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 50 minuten rijden vanaf Niederau, bij benadering via Wörgl en Kitzbühel richting Fieberbrunn. Controleer de actuele route voor vertrek.",
+   "en": "About 50 minutes by car from Niederau, roughly via Wörgl and Kitzbühel towards Fieberbrunn. Check the current route before setting off.",
+   "de": "Ca. 50 Minuten Fahrt ab Niederau, ungefähr über Wörgl und Kitzbühel Richtung Fieberbrunn. Aktuelle Route vor der Abfahrt prüfen."
+  },
+  "best_for": {
+   "nl": "Gezinnen en wandelaars die een rustig, zonnig dorp zoeken.",
+   "en": "Families and walkers looking for a quiet, sunny village.",
+   "de": "Familien und Wanderer, die einen ruhigen, sonnigen Ort suchen."
+  },
+  "season": {
+   "nl": "Zomer en winter.",
+   "en": "Summer and winter.",
+   "de": "Sommer und Winter."
+  },
+  "drive_min": 50,
+  "elevation_m": 855,
+  "url": "https://www.kitzbueheler-alpen.com/de/pital/st-jakob-in-haus.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is Familienland Pillerseetal?",
+     "en": "What is Familienland Pillerseetal?",
+     "de": "Was ist das Familienland Pillerseetal?"
+    },
+    "a": {
+     "nl": "Een belevingspark voor gezinnen met onder meer een familieachtbaan, een raftingparcours, Vikingland en een klimhal. Controleer openingstijden en prijzen vooraf.",
+     "en": "An adventure park for families with a family roller coaster, a rafting course, Viking land and a climbing hall. Check opening times and prices beforehand.",
+     "de": "Ein Erlebnispark für Familien mit unter anderem einer Familien-Achterbahn, einem Rafting-Parcours, Wikingerland und einer Kletterhalle. Öffnungszeiten und Preise vorab prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je vanuit St. Jakob in Haus langlaufen?",
+     "en": "Can you cross-country ski from St. Jakob in Haus?",
+     "de": "Kann man von St. Jakob in Haus aus langlaufen?"
+    },
+    "a": {
+     "nl": "Ja, de loipe geldt als zonnig en loopt via St. Ulrich am Pillersee door tot Hochfilzen.",
+     "en": "Yes, the trail is described as sunny and continues via St. Ulrich am Pillersee to Hochfilzen.",
+     "de": "Ja, die Loipe gilt als sonnig und führt über St. Ulrich am Pillersee bis nach Hochfilzen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "waidring",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Waidring",
+   "en": "Waidring",
+   "de": "Waidring"
+  },
+  "tagline": {
+   "nl": "Dorp aan de voet van de Steinplatte met Triassic Park en skigebied",
+   "en": "Village at the foot of the Steinplatte with Triassic Park and a ski area",
+   "de": "Ort am Fuß der Steinplatte mit Triassic Park und Skigebiet"
+  },
+  "intro": {
+   "nl": "Waidring ligt op ongeveer 780 m aan de voet van de Loferer Steinberge en de Steinplatte, aan de weg richting Lofer en het Salzburgerland. Het is een van de noordelijke dorpen van het Pillerseetal en een prettige bestemming voor een dagtocht.\n\nDe Steinplatte (1.869 m) is de huisberg. Een tolweg voert omhoog, en de bergbaan brengt je in de zomer naar de Triassic Park, waar kinderen leren over het oerzee Tethys en de hoogstgelegen zandstrand van de Alpen te zien krijgen. Panoramawandelingen en hutten maken de dag compleet. De tocht erheen is een leuke afwisseling op een dag in de Wildschönau, omdat je een ander landschap met steile kalkwanden ziet.\n\nIn de winter is de Steinplatte een skigebied met moderne liften en brede pistes, geschikt voor gezinnen en rustige skiërs. Er zijn ook winterwandelroutes. In het dorp zelf staat de achttiende-eeuwse parochiekerk, en een fiets- of wandeltocht leidt naar de bedevaartskerk Maria Kirchental. Informeer vooraf naar de bedrijfstijden van de bergbaan en de tol, want die verschillen per seizoen.",
+   "en": "Waidring lies at roughly 780 m at the foot of the Loferer Steinberge and the Steinplatte, on the road towards Lofer and the Salzburg region. It is one of the northern villages of the Pillerseetal and a pleasant destination for a day trip.\n\nThe Steinplatte (1,869 m) is the local mountain. A toll road leads up, and in summer the cable car takes you to the Triassic Park, where children learn about the prehistoric Tethys sea and can see the highest sandy beach in the Alps. Panoramic walks and mountain huts round off the day. The trip is a pleasant change from a day in the Wildschönau, as you see a different landscape with steep limestone walls.\n\nIn winter the Steinplatte is a ski area with modern lifts and broad slopes, suited to families and relaxed skiers. There are winter walking routes too. In the village itself stands the eighteenth-century parish church, and a bike ride or hike leads to the pilgrimage church of Maria Kirchental. Check the operating times of the cable car and the toll beforehand, as they differ by season.",
+   "de": "Waidring liegt auf rund 780 m am Fuß der Loferer Steinberge und der Steinplatte, an der Straße Richtung Lofer und Salzburger Land. Es ist einer der nördlichen Orte des Pillerseetals und ein angenehmes Ziel für einen Tagesausflug.\n\nDie Steinplatte (1.869 m) ist der Hausberg. Eine Mautstraße führt hinauf, und im Sommer bringt die Bergbahn Besucher zum Triassic Park, wo Kinder etwas über das Urmeer Tethys lernen und den höchstgelegenen Sandstrand der Alpen sehen. Panoramawege und Almhütten runden den Tag ab. Die Fahrt ist eine schöne Abwechslung zu einem Tag in der Wildschönau, da man eine andere Landschaft mit steilen Kalkwänden erlebt.\n\nIm Winter ist die Steinplatte ein Skigebiet mit modernen Liften und breiten Pisten, geeignet für Familien und Genussskifahrer. Es gibt auch Winterwanderwege. Im Ort steht die Pfarrkirche aus dem 18. Jahrhundert, und eine Rad- oder Wandertour führt zur Wallfahrtskirche Maria Kirchental. Betriebszeiten der Bergbahn und Maut vorab prüfen, da sie je nach Saison unterschiedlich sind. Warme Kleidung gehört auch im Sommer ins Gepäck, denn auf dem Plateau ist es deutlich kühler als im Tal."
+  },
+  "highlights": {
+   "nl": [
+    "Triassic Park op de Steinplatte: oerzee Tethys en hoogstgelegen zandstrand van de Alpen.",
+    "Panoramawandelingen en berghutten op de Steinplatte (1.869 m).",
+    "Skigebied Steinplatte in de winter, geschikt voor gezinnen.",
+    "Fiets- of wandeltocht naar de bedevaartskerk Maria Kirchental.",
+    "Dorpswandeling met de parochiekerk uit de achttiende eeuw."
+   ],
+   "en": [
+    "Triassic Park on the Steinplatte: prehistoric Tethys sea and the highest sandy beach in the Alps.",
+    "Panoramic walks and mountain huts on the Steinplatte (1,869 m).",
+    "Steinplatte ski area in winter, suited to families.",
+    "Bike ride or hike to the pilgrimage church of Maria Kirchental.",
+    "Village walk with the eighteenth-century parish church."
+   ],
+   "de": [
+    "Triassic Park auf der Steinplatte: Urmeer Tethys und höchstgelegener Sandstrand der Alpen.",
+    "Panoramawege und Almhütten auf der Steinplatte (1.869 m).",
+    "Skigebiet Steinplatte im Winter, familiengeeignet.",
+    "Rad- oder Wandertour zur Wallfahrtskirche Maria Kirchental.",
+    "Dorfrundgang mit der Pfarrkirche aus dem 18. Jahrhundert."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau, bij benadering via Wörgl, St. Johann in Tirol en de B178 richting Lofer. Controleer de actuele route voor vertrek.",
+   "en": "About 60 minutes by car from Niederau, roughly via Wörgl, St. Johann in Tirol and the B178 towards Lofer. Check the current route before setting off.",
+   "de": "Ca. 60 Minuten Fahrt ab Niederau, ungefähr über Wörgl, St. Johann in Tirol und die B178 Richtung Lofer. Aktuelle Route vor der Abfahrt prüfen."
+  },
+  "best_for": {
+   "nl": "Gezinnen met kinderen, wandelaars en skiërs.",
+   "en": "Families with children, walkers and skiers.",
+   "de": "Familien mit Kindern, Wanderer und Skifahrer."
+  },
+  "season": {
+   "nl": "Zomer en winter.",
+   "en": "Summer and winter.",
+   "de": "Sommer und Winter."
+  },
+  "drive_min": 60,
+  "elevation_m": null,
+  "url": "https://www.kitzbueheler-alpen.com/de/pital/waidring.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is de Triassic Park?",
+     "en": "What is the Triassic Park?",
+     "de": "Was ist der Triassic Park?"
+    },
+    "a": {
+     "nl": "Een zomerattractie op de Steinplatte die kinderen meeneemt naar de tijd van de oerzee Tethys, met het hoogstgelegen zandstrand van de Alpen. Je bereikt hem met de bergbaan.",
+     "en": "A summer attraction on the Steinplatte that takes children back to the time of the Tethys sea, with the highest sandy beach in the Alps. You reach it by cable car.",
+     "de": "Eine Sommerattraktion auf der Steinplatte, die Kinder in die Zeit des Urmeers Tethys mitnimmt, mit dem höchstgelegenen Sandstrand der Alpen. Man erreicht ihn mit der Bergbahn."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Waidring geschikt voor skiën met kinderen?",
+     "en": "Is Waidring suitable for skiing with children?",
+     "de": "Ist Waidring zum Skifahren mit Kindern geeignet?"
+    },
+    "a": {
+     "nl": "Het skigebied Steinplatte heeft moderne liften en brede pistes en wordt als geschikt voor gezinnen en genietersskiërs beschreven.",
+     "en": "The Steinplatte ski area has modern lifts and broad slopes and is described as suited to families and relaxed skiers.",
+     "de": "Das Skigebiet Steinplatte hat moderne Lifte und breite Pisten und wird als geeignet für Familien und Genussskifahrer beschrieben."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "reith-bei-kitzbuehel",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Reith bei Kitzbühel",
+   "en": "Reith bei Kitzbühel",
+   "de": "Reith bei Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Rustig dorp vlak bij Kitzbühel, met het Schwarzsee als zwemplek",
+   "en": "Quiet village close to Kitzbühel, with the Schwarzsee for swimming",
+   "de": "Ruhiger Ort nahe Kitzbühel mit dem Schwarzsee zum Baden"
+  },
+  "intro": {
+   "nl": "Reith bei Kitzbühel ligt op ongeveer 762 m in de Kitzbüheler Alpen, op zo'n vijf kilometer van Kitzbühel. Het dorp is rustiger dan zijn beroemde buur en heeft veel van zijn traditionele karakter behouden.\n\nHet bekendste uitje is het Schwarzsee, dat als een van de warmste veenmeren van Tirol bekendstaat en in de zomer tot ongeveer 25 graden kan komen. Ook de Gieringer Weiher en de Vogelsberger Weiher zijn zwemplekken. Samen liggen ze in het wandel- en fietsgebied Bichlach. Omdat het dorp zo dicht bij Kitzbühel ligt, kun je een bezoek combineren met een wandeling door de stad of een middag aan het meer.\n\nDe omgeving nodigt uit tot wandelen en fietsen, en een korte wandeling brengt je bij de Schleierwasserfall. In de winter zijn er geleide winterwandelingen en een rodelbaan op de Gaisberg, populair bij gezinnen. Kitzbühel zelf is met de auto in ongeveer tien minuten te bereiken. Het is een fijne keuze als je een rustige dag zoekt zonder lange autorit.",
+   "en": "Reith bei Kitzbühel lies at roughly 762 m in the Kitzbühel Alps, about five kilometres from Kitzbühel. The village is quieter than its famous neighbour and has kept much of its traditional character.\n\nThe best-known outing is the Schwarzsee, regarded as one of the warmest moorland lakes in Tyrol, reaching around 25 degrees in summer. The Gieringer Weiher and Vogelsberger Weiher are also swimming spots. Together they lie in the Bichlach walking and cycling area. Because the village is so close to Kitzbühel, you can combine a visit with a stroll through the town or an afternoon by the lake.\n\nThe surroundings invite hiking and cycling, and a short walk leads to the Schleierwasserfall waterfall. In winter there are guided winter walks and a sledging run on the Gaisberg, popular with families. Kitzbühel itself is about ten minutes away by car. It is a good choice if you want a calm day without a long drive. Bring a towel and sun cream, and keep an eye on the weather forecast.",
+   "de": "Reith bei Kitzbühel liegt auf rund 762 m in den Kitzbüheler Alpen, etwa fünf Kilometer von Kitzbühel entfernt. Der Ort ist ruhiger als sein berühmter Nachbar und hat viel von seinem traditionellen Charakter bewahrt.\n\nDas bekannteste Ausflugsziel ist der Schwarzsee, der als einer der wärmsten Moorseen Tirols gilt und im Sommer rund 25 Grad erreichen kann. Auch der Gieringer Weiher und der Vogelsberger Weiher sind Badeplätze. Gemeinsam liegen sie im Wander- und Radgebiet Bichlach. Weil der Ort so nah bei Kitzbühel liegt, lässt sich ein Besuch mit einem Stadtbummel oder einem Nachmittag am See verbinden.\n\nDie Umgebung lädt zum Wandern und Radfahren ein, und ein kurzer Spaziergang führt zum Schleierwasserfall. Im Winter gibt es geführte Winterwanderungen und eine Rodelbahn am Gaisberg, beliebt bei Familien. Kitzbühel selbst ist mit dem Auto in etwa zehn Minuten erreichbar. Es ist eine gute Wahl, wenn man einen ruhigen Tag ohne lange Autofahrt sucht. Handtuch und Sonnencreme nicht vergessen, und am besten vorher den Wetterbericht prüfen. Der Ort eignet sich gut für spontane Ausflüge."
+  },
+  "highlights": {
+   "nl": [
+    "Schwarzsee: veenmeer dat tot ca. 25 graden kan worden, met zwembad en bootverhuur.",
+    "Gieringer Weiher en Vogelsberger Weiher als extra zwemplekken.",
+    "Schleierwasserfall, korte wandeling vanaf het dorp.",
+    "Wandel- en fietsroutes in het gebied Bichlach.",
+    "Rodelbaan op de Gaisberg en winterwandelingen in de winter."
+   ],
+   "en": [
+    "Schwarzsee: a moorland lake that can reach about 25 degrees, with an outdoor pool and boat hire.",
+    "Gieringer Weiher and Vogelsberger Weiher as further swimming spots.",
+    "Schleierwasserfall, a short walk from the village.",
+    "Walking and cycling routes in the Bichlach area.",
+    "Sledging run on the Gaisberg and winter walks in winter."
+   ],
+   "de": [
+    "Schwarzsee: Moorsee, der rund 25 Grad erreichen kann, mit Freibad und Bootsverleih.",
+    "Gieringer Weiher und Vogelsberger Weiher als weitere Badeplätze.",
+    "Schleierwasserfall, kurzer Spaziergang vom Ort aus.",
+    "Wander- und Radrouten im Gebiet Bichlach.",
+    "Rodelbahn am Gaisberg und Winterwanderungen im Winter."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten rijden vanaf Niederau, bij benadering via Hopfgarten en Kirchberg richting Kitzbühel. Controleer de actuele route voor vertrek.",
+   "en": "About 35 minutes by car from Niederau, roughly via Hopfgarten and Kirchberg towards Kitzbühel. Check the current route before setting off.",
+   "de": "Ca. 35 Minuten Fahrt ab Niederau, ungefähr über Hopfgarten und Kirchberg Richtung Kitzbühel. Aktuelle Route vor der Abfahrt prüfen."
+  },
+  "best_for": {
+   "nl": "Gezinnen die zwemmen en rustig wandelen willen combineren.",
+   "en": "Families who want to combine swimming and gentle walks.",
+   "de": "Familien, die Baden und ruhiges Wandern verbinden möchten."
+  },
+  "season": {
+   "nl": "Vooral zomer, ook geschikt voor winterwandelen en rodelen.",
+   "en": "Mainly summer, also suited to winter walks and sledging.",
+   "de": "Vor allem Sommer, auch für Winterwandern und Rodeln geeignet."
+  },
+  "drive_min": 35,
+  "elevation_m": 762,
+  "url": "https://www.kitzbuehel.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij Reith zwemmen?",
+     "en": "Can you swim near Reith?",
+     "de": "Kann man bei Reith baden?"
+    },
+    "a": {
+     "nl": "Ja, het Schwarzsee, de Gieringer Weiher en de Vogelsberger Weiher zijn zwemplekken. Het Schwarzsee staat bekend als een van de warmste meren in de regio.",
+     "en": "Yes, the Schwarzsee, the Gieringer Weiher and the Vogelsberger Weiher are swimming spots. The Schwarzsee is known as one of the warmest lakes in the area.",
+     "de": "Ja, der Schwarzsee, der Gieringer Weiher und der Vogelsberger Weiher sind Badeplätze. Der Schwarzsee gilt als einer der wärmsten Seen der Region."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is Reith van Kitzbühel?",
+     "en": "How far is Reith from Kitzbühel?",
+     "de": "Wie weit ist Reith von Kitzbühel entfernt?"
+    },
+    "a": {
+     "nl": "Ongeveer vijf kilometer, dus circa tien minuten met de auto.",
+     "en": "About five kilometres, so around ten minutes by car.",
+     "de": "Etwa fünf Kilometer, also rund zehn Minuten mit dem Auto."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "erl",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Erl",
+   "en": "Erl",
+   "de": "Erl"
+  },
+  "tagline": {
+   "nl": "Passiespeldorp aan de Inn met de Tiroler Festspiele Erl",
+   "en": "Passion play village on the Inn with the Tiroler Festspiele Erl",
+   "de": "Passionsspielort am Inn mit den Tiroler Festspielen Erl"
+  },
+  "intro": {
+   "nl": "Erl ligt in de noordoosthoek van Tirol, aan de Inn en vlak bij de Duitse grens, ongeveer 15 km ten noorden van Kufstein. Het dorp is vooral bekend om zijn passiespelen en zijn klassieke muziekfestival.\n\nSinds 1613 worden hier om de zes jaar passiespelen opgevoerd. Het Passionsspielhaus, dat plaats biedt aan maximaal 1.500 bezoekers, wordt sinds 1989 ook gebruikt voor de Tiroler Festspiele Erl, een festival voor klassieke muziek en opera, opgericht door Gustav Kuhn. In 2012 kwam daar het Festspielhaus bij, een donker, modern gebouw met 732 zitplaatsen. Het dorp zelf is klein en overzichtelijk, met een open landschap langs de rivier en uitzicht op de Beierse en Tiroler bergen.\n\nVoor gezinnen is Erl vooral interessant als je een cultureel uitje wilt combineren met een rustige wandeling of fietstocht in het Kufsteinerland, zoals de dorpsroute Erl. Controleer vooraf het programma en de toegankelijkheid voor kinderen. Wie een concert bezoekt, kan er een rustige dag van maken door eerst te wandelen of te fietsen en daarna te eten in de buurt.",
+   "en": "Erl lies in the north-eastern corner of Tyrol, on the Inn and close to the German border, about 15 km north of Kufstein. The village is best known for its passion plays and its classical music festival.\n\nPassion plays have been staged here every six years since 1613. The Passionsspielhaus, which holds up to 1,500 visitors, has also hosted the Tiroler Festspiele Erl since 1989, a festival of classical music and opera founded by Gustav Kuhn. In 2012 the Festspielhaus was added, a dark, modern building with 732 seats. The village itself is small and easy to get around, with open countryside along the river and views of the Bavarian and Tyrolean mountains.\n\nFor families, Erl is mainly interesting if you want to combine a cultural outing with a gentle walk or bike ride in the Kufsteinerland, such as the Erl village route. Check the programme and its suitability for children beforehand. If you attend a concert, you can turn it into a relaxed day by walking or cycling first and eating nearby afterwards.",
+   "de": "Erl liegt im nordöstlichen Zipfel Tirols am Inn, nahe der deutschen Grenze, rund 15 km nördlich von Kufstein. Der Ort ist vor allem für seine Passionsspiele und sein Festival für klassische Musik bekannt.\n\nSeit 1613 werden hier alle sechs Jahre Passionsspiele aufgeführt. Das Passionsspielhaus, das bis zu 1.500 Besucher fasst, wird seit 1989 auch für die Tiroler Festspiele Erl genutzt, ein Festival für klassische Musik und Oper, gegründet von Gustav Kuhn. 2012 kam das Festspielhaus hinzu, ein dunkler, moderner Bau mit 732 Plätzen. Der Ort selbst ist klein und überschaubar, mit offener Landschaft am Fluss und Blick auf die bayerischen und Tiroler Berge.\n\nFür Familien ist Erl vor allem interessant, wenn man einen Kulturausflug mit einem gemütlichen Spaziergang oder einer Radtour im Kufsteinerland verbinden möchte, etwa auf der Dorf-Runde Erl. Programm und Kindertauglichkeit vorab prüfen. Wer ein Konzert besucht, kann daraus einen entspannten Tag machen, indem er zuerst wandert oder Rad fährt und danach in der Nähe isst. Besucher sollten rechtzeitig reservieren, da Karten für Vorstellungen begrenzt sind."
+  },
+  "highlights": {
+   "nl": [
+    "Passionsspiele, die sinds 1613 om de zes jaar in Erl worden opgevoerd.",
+    "Tiroler Festspiele Erl: festival voor klassieke muziek en opera in het Passionsspielhaus en het Festspielhaus.",
+    "Festspielhaus (geopend 2012, 732 zitplaatsen) als architectonische blikvanger.",
+    "Dorf-Runde Erl: wandeling door het dorp.",
+    "Fietsen en wandelen langs de Inn in het Kufsteinerland."
+   ],
+   "en": [
+    "Passion plays staged in Erl every six years since 1613.",
+    "Tiroler Festspiele Erl: a festival of classical music and opera in the Passionsspielhaus and the Festspielhaus.",
+    "The Festspielhaus (opened 2012, 732 seats) as an architectural landmark.",
+    "Dorf-Runde Erl: a walk through the village.",
+    "Cycling and walking along the Inn in the Kufsteinerland."
+   ],
+   "de": [
+    "Passionsspiele, die seit 1613 alle sechs Jahre in Erl aufgeführt werden.",
+    "Tiroler Festspiele Erl: Festival für klassische Musik und Oper im Passionsspielhaus und im Festspielhaus.",
+    "Das Festspielhaus (eröffnet 2012, 732 Plätze) als architektonisches Wahrzeichen.",
+    "Dorf-Runde Erl: Spaziergang durch den Ort.",
+    "Radfahren und Wandern entlang des Inns im Kufsteinerland."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 45 minuten rijden vanaf Niederau, bij benadering via Wörgl en Kufstein (A12) en daarna richting Erl. Controleer de actuele route voor vertrek.",
+   "en": "About 45 minutes by car from Niederau, roughly via Wörgl and Kufstein (A12) and then towards Erl. Check the current route before setting off.",
+   "de": "Ca. 45 Minuten Fahrt ab Niederau, ungefähr über Wörgl und Kufstein (A12) und dann Richtung Erl. Aktuelle Route vor der Abfahrt prüfen."
+  },
+  "best_for": {
+   "nl": "Cultuurliefhebbers en gezinnen die een rustige dagtocht zoeken.",
+   "en": "Culture lovers and families looking for a quiet day trip.",
+   "de": "Kulturinteressierte und Familien, die einen ruhigen Tagesausflug suchen."
+  },
+  "season": {
+   "nl": "Vooral zomer en rond de festivalperiodes; ook winterconcerten.",
+   "en": "Mainly summer and festival periods; there are winter concerts too.",
+   "de": "Vor allem Sommer und Festivalzeiten; es gibt auch Winterkonzerte."
+  },
+  "drive_min": 45,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat zijn de Tiroler Festspiele Erl?",
+     "en": "What are the Tiroler Festspiele Erl?",
+     "de": "Was sind die Tiroler Festspiele Erl?"
+    },
+    "a": {
+     "nl": "Een festival voor klassieke muziek en opera, gehouden in het Passionsspielhaus en sinds 2012 ook in het Festspielhaus, dat ook een winterprogramma heeft.",
+     "en": "A festival of classical music and opera held in the Passionsspielhaus and, since 2012, in the Festspielhaus, which also has a winter programme.",
+     "de": "Ein Festival für klassische Musik und Oper im Passionsspielhaus und seit 2012 auch im Festspielhaus, das auch ein Winterprogramm hat."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe vaak zijn er passiespelen in Erl?",
+     "en": "How often are the passion plays held in Erl?",
+     "de": "Wie oft finden die Passionsspiele in Erl statt?"
+    },
+    "a": {
+     "nl": "Om de zes jaar, een traditie die sinds 1613 bestaat. Controleer de actuele jaartallen bij de organisatie.",
+     "en": "Every six years, a tradition dating back to 1613. Check the current dates with the organisers.",
+     "de": "Alle sechs Jahre, eine Tradition seit 1613. Aktuelle Termine bei den Veranstaltern prüfen."
+    }
+   }
+  ],
+  "verified": false
+ }
+]

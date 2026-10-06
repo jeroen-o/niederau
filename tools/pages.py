@@ -11,7 +11,8 @@ LANGS = ("nl", "en", "de")
 OG = f"{BASE}/assets/img/niederau-wildschoenau-tirol-1200x630.jpg"
 e = html.escape
 
-DIRS = {"events": {"nl": "agenda", "en": "events", "de": "veranstaltungen"},
+DIRS = {"guide": {"nl": "gids", "en": "guides", "de": "ratgeber"},
+        "events": {"nl": "agenda", "en": "events", "de": "veranstaltungen"},
         "act": {"nl": "activiteiten", "en": "activities", "de": "aktivitaeten"},
         "place": {"nl": "omgeving", "en": "nearby", "de": "umgebung"},
         "region": {"nl": "regio", "en": "region", "de": "region"}}
@@ -25,6 +26,7 @@ UI = {
  "n_act": ("Activiteiten", "Activities", "Aktivitäten"),
  "n_place": ("Omgeving", "Around Niederau", "Umgebung"),
  "events_h": ("Terugkerende evenementen", "Recurring events", "Wiederkehrende Veranstaltungen"),
+ "n_guides": ("Gidsen", "Guides", "Ratgeber"),
  "n_events": ("Agenda", "Events", "Veranstaltungen"),
  "n_mb": ("Markbachjoch", "Markbachjoch", "Markbachjoch"),
  "toggle_label": ("Wissel tussen zomer- en winterversie", "Switch between summer and winter version", "Zwischen Sommer- und Winterversion wechseln"),
@@ -314,6 +316,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
         <li><a href="{u_hub("act", lang)}">{ui("n_act", lang)}</a></li>
         <li><a href="{u_hub("place", lang)}">{ui("n_place", lang)}</a></li>
         <li><a href="{u_events(lang)}">{ui("n_events", lang)}</a></li>
+        <li><a href="{u_guides(lang)}">{ui("n_guides", lang)}</a></li>
         <li><a href="/{PREFIX[lang]}markbachjoch/">{ui("n_mb", lang)}</a></li>
       </ul>
     </div>
@@ -648,6 +651,49 @@ def build_events():
         write(urls[lang], shell(lang, "events", urls, f"{name} | Niederau.nl", desc, body, ld, og_type="website"))
     registry.append(("events", urls, None))
 
+# ---------- gidspagina's ----------
+GUIDES = jload("guides/*.json")
+GH = {"title": ("Gidsen en praktische tips", "Guides and practical tips", "Ratgeber und praktische Tipps"),
+      "tagline": ("Eten, beste reistijd en meer over Niederau", "Food, best time to visit and more about Niederau", "Essen, beste Reisezeit und mehr zu Niederau"),
+      "intro": ("Hier vind je verdiepende gidsen bij je verblijf in Niederau en de Wildschönau: wanneer je het best komt, wat je eet en meer. Ze vullen de pagina’s over activiteiten en dorpen aan.",
+                "Here you will find in-depth guides for your stay in Niederau and the Wildschönau: when to come, what to eat and more. They complement the pages about activities and villages.",
+                "Hier finden Sie vertiefende Ratgeber für Ihren Aufenthalt in Niederau und der Wildschönau: wann man am besten kommt, was man isst und mehr. Sie ergänzen die Seiten zu Aktivitäten und Orten.")}
+def u_guide(g, lang): return f"/{PREFIX[lang]}{DIRS['guide'][lang]}/{g['slug'][lang]}/"
+def u_guides(lang): return f"/{PREFIX[lang]}{DIRS['guide'][lang]}/"
+def build_guides():
+    if not GUIDES: return
+    for g in GUIDES:
+        urls = {l: u_guide(g, l) for l in LANGS}
+        for lang in LANGS:
+            name = L(g["title"], lang)
+            cr, cr_ld = crumbs(lang, [(GH["title"][LANGS.index(lang)], u_guides(lang)), (name, urls[lang])])
+            intro = "".join(f"<p>{e(x)}</p>" for x in paras(L(g.get("intro", {}), lang)))
+            secs = "".join(f'<h2>{e(L(x["h"], lang))}</h2><p>{e(L(x["p"], lang))}</p>' for x in g.get("sections", []))
+            tips = L(g.get("tips", {}), lang, [])
+            tips_h = f'<h2>{ui("tips", lang)}</h2><ul class="check">' + "".join(f"<li>{e(t)}</li>" for t in tips) + "</ul>" if tips else ""
+            faq_s, faq_ld = faq_html(g.get("faq"), lang)
+            body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
+<div>{cr}<p class="eyebrow">{GH["title"][LANGS.index(lang)]}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(g.get("tagline", {}), lang))}</p>{intro}</div>
+<div>{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
+<section class="alt"><div class="wrap">{secs}</div></section>{faq_s}'''
+            desc = (L(g.get("tagline", {}), lang) + " " + " ".join(paras(L(g.get("intro", {}), lang)))[:170]).strip()[:300]
+            ld = [{"@type": "Article", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "headline": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "author": {"@type": "Organization", "name": "Niederau.nl"}, "publisher": {"@id": f"{BASE}/#website"}},
+                  dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
+            write(urls[lang], shell(lang, "guide:" + g["id"], urls, f"{name} | Niederau.nl", desc, body, ld))
+        registry.append(("guide:" + g["id"], urls, None))
+    urls = {l: u_guides(l) for l in LANGS}
+    for lang in LANGS:
+        i = LANGS.index(lang); name = GH["title"][i]
+        cr, cr_ld = crumbs(lang, [(name, urls[lang])])
+        cards = card_list([(L(g["title"], lang), L(g.get("tagline", {}), lang), u_guide(g, lang), "") for g in GUIDES], lang)
+        body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(GH["tagline"][i])}</p><p>{e(GH["intro"][i])}</p></div></section>
+<section class="alt"><div class="wrap"><h2>{e(name)}</h2>{cards}</div></section>'''
+        desc = (GH["tagline"][i] + ". " + GH["intro"][i])[:300]
+        ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY},
+              dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})]
+        write(urls[lang], shell(lang, "guides", urls, f"{name} | Niederau.nl", desc, body, ld, og_type="website"))
+    registry.append(("guides", urls, None))
+
 def main():
     # oude uitvoer opruimen (alleen gegenereerde mappen)
     for kind in list(DIRS):
@@ -658,6 +704,7 @@ def main():
     for r in regions: build_region(r)
     for t in themes: build_theme(t)
     build_events()
+    build_guides()
     for c in COLL: build_coll(c)
     if hubs.get("activities"): build_hub("act")
     if hubs.get("places"): build_hub("place")
