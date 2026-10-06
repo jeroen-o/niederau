@@ -239,6 +239,22 @@ def home(lang): return "/" if lang == "nl" else f"/{lang}/"
 
 registry = []  # (key, {lang: url}, lastmod)
 
+
+def main_nav(lang):
+    """Zelfde hoofdmenu als de hoofdpagina (uit de gebouwde index van die taal); Activiteiten wijst naar de hub."""
+    f = ROOT / (PREFIX[lang] + "index.html")
+    t = f.read_text(encoding="utf-8")
+    nav = t[t.index('<nav class="nav"'):t.index('<button class="season-toggle"')]
+    out = []
+    for href, label in _re0.findall(r'<a href="([^"]+)">([^<]+)</a>', nav):
+        if href.startswith("#"):
+            url_ = f"{home(lang)}{href}"
+            if href[1:] in ("activiteiten", "activities", "aktivitaeten"): url_ = u_hub("act", lang)
+        else:
+            url_ = f"/{PREFIX[lang]}{href}"
+        out.append(f'<a href="{url_}">{label}</a>')
+    return "\n      ".join(out)
+
 def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=None):
     """key identificeert de pagina in alle talen; urls = {lang: pad}."""
     here = BASE + urls[lang]
@@ -302,10 +318,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
     </a>
     <button class="menu-btn" aria-expanded="false" aria-controls="nav">{ui("menu", lang)}</button>
     <nav class="nav" id="nav" aria-label="{ui("nav_label", lang)}">
-      <a href="{home(lang)}">{ui("n_home", lang)}</a>
-      <a href="{u_hub("act", lang)}">{ui("n_act", lang)}</a>
-      <a href="{u_hub("place", lang)}">{ui("n_place", lang)}</a>
-      <a href="/{PREFIX[lang]}markbachjoch/">{ui("n_mb", lang)}</a>
+      {main_nav(lang)}
       {tog}
       <div class="lang" aria-label="{ui("lang_label", lang)}">{lang_nav}</div>
     </nav>
