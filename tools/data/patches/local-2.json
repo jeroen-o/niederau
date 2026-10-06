@@ -1,0 +1,674 @@
+[
+ {
+  "id": "l8",
+  "new": true,
+  "theme": "wandelen",
+  "season": "summer",
+  "verified": true,
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_nl": "feldalphorn-tocht",
+  "slug_en": "feldalphorn-hike",
+  "slug_de": "feldalphorn-wanderung",
+  "title": {
+   "nl": "Feldalphorn-tocht vanaf Markbachjoch",
+   "en": "Feldalphorn hike from the Markbachjoch",
+   "de": "Feldalphorn-Wanderung vom Markbachjoch"
+  },
+  "tagline": {
+   "nl": "Bergwandeling naar een panoramatop van 1.923 m",
+   "en": "Mountain walk to a 1,923 m panoramic summit",
+   "de": "Bergwanderung zu einem Panoramagipfel auf 1.923 m"
+  },
+  "intro": {
+   "nl": "Vanuit Niederau neem je de Markbachjochbahn naar het bergstation. Daar volg je de bewegwijzering van de Wildschönauer Höhenweg over een grindpad, en bij de eerste splitsing ga je rechts richting de Markbachjochalm op ca. 1.454 m. Vanaf de alm loopt de route over een bergrug omhoog.\n\nHet laatste stuk naar de top van de Feldalphorn (1.923 m) is rotsachtig en vraagt even de handen. Boven kijk je ver over de Wildschönau en tot de hoge toppen van de Centrale Alpen. Onderweg loop je over open alpenweiden, met in de zomer veel bloemen. Het is een gemiddeld zware bergtocht voor wie ervaring heeft met wandelen in de bergen.",
+   "en": "From Niederau you take the Markbachjochbahn up to the mountain station. There you follow the signs for the Wildschönauer Höhenweg along a gravel track, and at the first fork you turn right towards the Markbachjochalm at about 1,454 m. Beyond the alpine hut the route climbs along a ridge.\n\nThe final stretch to the summit of the Feldalphorn (1,923 m) is rocky and calls for a little scrambling. At the top the view stretches far across the Wildschönau and on to the high peaks of the Central Alps. On the way you cross open alpine pastures, rich in flowers in summer. It is a moderately demanding mountain walk for people used to hiking in the mountains.",
+   "de": "Von Niederau fährst du mit der Markbachjochbahn zur Bergstation. Dort folgst du der Beschilderung des Wildschönauer Höhenwegs auf einem Schotterweg und biegst an der ersten Gabelung rechts Richtung Markbachjochalm auf ca. 1.454 m ab. Hinter der Alm führt die Route über einen Bergrücken aufwärts.\n\nDas letzte Stück zum Gipfel des Feldalphorns (1.923 m) ist felsig und verlangt etwas Handeinsatz. Oben reicht der Blick weit über die Wildschönau bis zu den hohen Gipfeln der Zentralalpen. Unterwegs quert man offene Almweiden, im Sommer mit vielen Blumen. Es ist eine mittelschwere Bergwanderung für Menschen mit Bergerfahrung."
+  },
+  "tips": {
+   "nl": [
+    "Trek stevige wandelschoenen aan en neem een jas mee; boven kan het snel koud en winderig zijn.",
+    "Controleer de weersverwachting en de laatste rit van de gondel voordat je vertrekt.",
+    "Wil je langer lopen? De Wildschönauer Höhenweg verbindt meerdere toppen, maar is een veel langere dag.",
+    "Houd rekening met een rotsachtig eindstuk; kleine kinderen hebben hier begeleiding nodig."
+   ],
+   "en": [
+    "Wear sturdy walking boots and bring a jacket; it can turn cold and windy at the top.",
+    "Check the weather forecast and the time of the last gondola before you set off.",
+    "Want a longer day? The Wildschönauer Höhenweg links several summits but takes much longer.",
+    "Expect a rocky final stretch; young children need close supervision here."
+   ],
+   "de": [
+    "Trage feste Wanderschuhe und nimm eine Jacke mit; oben kann es schnell kühl und windig werden.",
+    "Prüfe vorab die Wettervorhersage und die letzte Talfahrt der Bahn.",
+    "Mehr Zeit? Der Wildschönauer Höhenweg verbindet mehrere Gipfel, ist aber eine deutlich längere Tagestour.",
+    "Das letzte Stück ist felsig; kleine Kinder brauchen hier Begleitung."
+   ]
+  },
+  "practical": {
+   "nl": "De tocht start bij het bergstation van de Markbachjochbahn, die je vanuit Niederau in enkele minuten bereikt. Het weer en de bergomstandigheden bepalen of de tocht verantwoord is.",
+   "en": "The walk starts at the top station of the Markbachjoch gondola, reached from Niederau within a few minutes. Weather and mountain conditions decide whether the walk is sensible.",
+   "de": "Die Tour beginnt an der Bergstation der Markbachjochbahn, die du von Niederau in wenigen Minuten erreichst. Wetter und Bedingungen entscheiden, ob die Tour sinnvoll ist."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 10 jaar, met bergervaring",
+    "en": "From about 10 years, with mountain experience",
+    "de": "Ab ca. 10 Jahren, mit Bergerfahrung"
+   },
+   "duration": {
+    "nl": "Ca. een halve dag",
+    "en": "About half a day",
+    "de": "Etwa ein halber Tag"
+   },
+   "price": {
+    "nl": "Gondel apart; wandelen is gratis",
+    "en": "Gondola extra; the walk itself is free",
+    "de": "Bergbahn extra; Wandern ist kostenlos"
+   },
+   "distance": {
+    "nl": "Vertrek ca. 5 min vanaf Niederau",
+    "en": "Starts about 5 min from Niederau",
+    "de": "Start ca. 5 Min. von Niederau"
+   },
+   "season": {
+    "nl": "Zomer (bij droog weer)",
+    "en": "Summer (in dry weather)",
+    "de": "Sommer (bei trockenem Wetter)"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Markbachjoch",
+   "en": "Niederau, Markbachjoch",
+   "de": "Niederau, Markbachjoch"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog is de Feldalphorn?",
+     "en": "How high is the Feldalphorn?",
+     "de": "Wie hoch ist das Feldalphorn?"
+    },
+    "a": {
+     "nl": "De top ligt op 1.923 m, ruim 1.000 m boven Niederau (828 m).",
+     "en": "The summit is at 1,923 m, over 1,000 m above Niederau (828 m).",
+     "de": "Der Gipfel liegt auf 1.923 m, über 1.000 m über Niederau (828 m)."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is de tocht geschikt voor kinderen?",
+     "en": "Is the hike suitable for children?",
+     "de": "Ist die Tour für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Alleen voor geoefende kinderen: het eindstuk is rotsachtig. Een rustigere optie is de wandeling naar de Markbachjochalm.",
+     "en": "Only for experienced children: the final section is rocky. A gentler option is the walk to the Markbachjochalm.",
+     "de": "Nur für geübte Kinder: der Schlussanstieg ist felsig. Ruhiger ist die Wanderung zur Markbachjochalm."
+    }
+   }
+  ]
+ },
+ {
+  "id": "l9",
+  "new": true,
+  "theme": "avontuur",
+  "season": "summer",
+  "verified": true,
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_nl": "hoogteparcours-zauberwinkl",
+  "slug_en": "rope-course-zauberwinkl",
+  "slug_de": "hochseilgarten-zauberwinkl",
+  "title": {
+   "nl": "Hoogteparcours Zauberwinkl",
+   "en": "Zauberwinkl high ropes course",
+   "de": "Hochseilgarten Zauberwinkl"
+  },
+  "tagline": {
+   "nl": "Klimmen op 17 tot 21 meter hoogte, onder begeleiding",
+   "en": "Climbing at 17 to 21 metres, with instructors",
+   "de": "Klettern in 17 bis 21 Metern Höhe, mit Begleitung"
+  },
+  "intro": {
+   "nl": "In de Wildschönau ligt het hoogteparcours Zauberwinkl, bedoeld voor gezinnen. Opgeleide instructeurs begeleiden de groep. Op platforms en bij 29 oefeningen (opgave: huidige stand) oefen je balans en vertrouwen, op ongeveer 17 tot 21 meter hoogte. Het hoogste punt is een uitkijkbank op 37 meter.\n\nHelm, klimset en volledige gordel worden verstrekt. Kinderen moeten minstens 1,40 m lang zijn; onder de 10 jaar mogen ze alleen met een ouder mee. Een begeleide tocht duurt ongeveer 2,5 uur. Het parcours is geopend van april tot en met september en je moet vooraf reserveren.",
+   "en": "The Zauberwinkl high ropes course in the Wildschönau is aimed at families. Trained instructors guide the group. On platforms and across 29 exercises (current count), you practise balance and confidence at roughly 17 to 21 metres above the ground. The highest point is a viewing bench at 37 metres.\n\nHelmet, climbing set and full harness are provided. Children must be at least 1.40 m tall, and those under 10 may only take part with a parent. A guided session lasts about 2.5 hours. The course is open from April to September and advance booking is required.",
+   "de": "Im Hochseilgarten Zauberwinkl in der Wildschönau werden Familien von ausgebildeten Trainern begleitet. Auf Plattformen und bei derzeit 29 Übungen trainierst du Gleichgewicht und Selbstvertrauen in etwa 17 bis 21 Metern Höhe. Der höchste Punkt ist eine Aussichtsbank auf 37 Metern.\n\nHelm, Klettergurt und Kletterset werden gestellt. Kinder müssen mindestens 1,40 m groß sein, unter 10 Jahren nur mit einem Elternteil. Eine geführte Tour dauert etwa 2,5 Stunden. Geöffnet ist von April bis September, eine Reservierung vorab ist nötig."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf; zonder reservering kun je niet klimmen.",
+    "Meet je kind na: de minimumlengte van 1,40 m wordt gehanteerd.",
+    "Draag stevige schoenen en kleding waarin je goed beweegt.",
+    "Kies een droge dag; bij slecht weer kan het parcours dicht zijn."
+   ],
+   "en": [
+    "Book ahead; you cannot climb without a reservation.",
+    "Check your child's height: the 1.40 m minimum applies.",
+    "Wear sturdy shoes and clothes you can move easily in.",
+    "Choose a dry day; the course may close in bad weather."
+   ],
+   "de": [
+    "Reserviere vorab; ohne Reservierung kannst du nicht klettern.",
+    "Miss die Körpergröße deines Kindes: die Mindestgröße von 1,40 m gilt.",
+    "Trage feste Schuhe und bequeme Kleidung.",
+    "Wähle einen trockenen Tag; bei schlechtem Wetter kann der Park geschlossen sein."
+   ]
+  },
+  "practical": {
+   "nl": "Het parcours ligt in de Wildschönau. Vraag bij je reservering naar de precieze locatie en het vertrekpunt; vanaf Niederau is het een korte rit.",
+   "en": "The course is in the Wildschönau. Ask for the exact location and meeting point when booking; from Niederau it is a short drive.",
+   "de": "Der Hochseilgarten liegt in der Wildschönau. Frag bei der Reservierung nach genauem Ort und Treffpunkt; von Niederau ist es eine kurze Fahrt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf 1,40 m lengte; onder 10 jaar met ouder",
+    "en": "From 1.40 m tall; under 10 with a parent",
+    "de": "Ab 1,40 m Größe; unter 10 Jahren mit Elternteil"
+   },
+   "duration": {
+    "nl": "Ca. 2,5 uur (begeleid)",
+    "en": "About 2.5 hours (guided)",
+    "de": "Ca. 2,5 Stunden (geführt)"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Korte rit vanaf Niederau",
+    "en": "Short drive from Niederau",
+    "de": "Kurze Fahrt ab Niederau"
+   },
+   "season": {
+    "nl": "April t/m september",
+    "en": "April to September",
+    "de": "April bis September"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Vanaf welke lengte mag een kind mee?",
+     "en": "How tall must a child be?",
+     "de": "Ab welcher Größe darf ein Kind mit?"
+    },
+    "a": {
+     "nl": "Vanaf 1,40 m. Kinderen onder 10 jaar mogen alleen met een ouder.",
+     "en": "From 1.40 m. Children under 10 may only join with a parent.",
+     "de": "Ab 1,40 m. Kinder unter 10 Jahren nur mit einem Elternteil."
+    }
+   },
+   {
+    "q": {
+     "nl": "Moet ik reserveren?",
+     "en": "Do I need to book?",
+     "de": "Muss ich reservieren?"
+    },
+    "a": {
+     "nl": "Ja, reserveren vooraf is vereist; het parcours is van april tot september open.",
+     "en": "Yes, advance booking is required; the course is open from April to September.",
+     "de": "Ja, eine Reservierung vorab ist nötig; geöffnet von April bis September."
+    }
+   }
+  ]
+ },
+ {
+  "id": "l10",
+  "new": true,
+  "theme": "dieren",
+  "season": "summer",
+  "verified": true,
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_nl": "markbachjochalm-speeltuin-geiten",
+  "slug_en": "markbachjochalm-playground-goats",
+  "slug_de": "markbachjochalm-spielplatz-tiere",
+  "title": {
+   "nl": "Markbachjochalm: speeltuin en geiten",
+   "en": "Markbachjochalm: playground and goats",
+   "de": "Markbachjochalm: Spielplatz und Tiere"
+  },
+  "tagline": {
+   "nl": "Speeltuin met bergzicht en dieren om te voeren",
+   "en": "Playground with mountain views and animals to feed",
+   "de": "Spielplatz mit Bergblick und Tieren zum Füttern"
+  },
+  "intro": {
+   "nl": "Vlak bij het bergstation van de Markbachjochbahn ligt de Markbachjochalm, een favoriet uitje voor gezinnen. Naast de berghut vind je een speeltuin met onder meer schommels, glijbanen en klimtoestellen, met uitzicht op de omliggende bergen.\n\nEr is ook een kleine dierenweide, waar onder andere geiten leven die je kunt voeren. De speeltuin is alleen in de zomer open. Je bereikt de alm met de gondel vanuit Niederau of te voet. Een rustige wandeling van het bergstation naar de alm past goed bij kleine kinderen, en na het spelen kun je op het terras iets eten of drinken.",
+   "en": "Close to the top station of the Markbachjochbahn lies the Markbachjochalm, a favourite outing for families. Next to the mountain hut you will find a playground with swings, slides and climbing frames, with views of the surrounding peaks.\n\nThere is also a small animal enclosure, where goats among others can be fed. The playground is open in summer only. You reach the alm by gondola from Niederau or on foot. A gentle walk from the top station to the hut suits small children well, and after playing you can have something to eat or drink on the terrace.",
+   "de": "Nahe der Bergstation der Markbachjochbahn liegt die Markbachjochalm, ein beliebtes Ausflugsziel für Familien. Neben der Hütte gibt es einen Spielplatz mit Schaukeln, Rutschen und Klettergeräten sowie Blick auf die umliegenden Berge.\n\nAußerdem gibt es ein kleines Tiergehege, in dem unter anderem Ziegen gefüttert werden können. Der Spielplatz ist nur im Sommer geöffnet. Man erreicht die Alm mit der Bergbahn ab Niederau oder zu Fuß. Ein ruhiger Spaziergang von der Bergstation zur Hütte passt gut zu kleinen Kindern, danach kann man auf der Terrasse einkehren."
+  },
+  "tips": {
+   "nl": [
+    "Neem een zakje geschikt voer alleen mee als de alm dat toestaat; vraag ter plekke wat mag.",
+    "Combineer het uitje met een wandeling naar de Holzalm met kaasproeverij en eigen speeltuin.",
+    "Smeer in en neem een jas mee; op de berg is het koeler dan in het dal.",
+    "Ga op een droge dag; bij regen is de speeltuin minder leuk."
+   ],
+   "en": [
+    "Only bring animal feed if the alm allows it; ask on site what is permitted.",
+    "Combine the outing with a walk to the Holzalm, with cheese tasting and its own playground.",
+    "Bring sun cream and a jacket; it is cooler up the mountain than in the valley.",
+    "Pick a dry day; the playground is less fun in the rain."
+   ],
+   "de": [
+    "Bring nur Futter mit, wenn die Alm es erlaubt; frag vor Ort, was erlaubt ist.",
+    "Verbinde den Ausflug mit einem Spaziergang zur Holzalm mit Käseverkostung und eigenem Spielplatz.",
+    "Nimm Sonnencreme und eine Jacke mit; am Berg ist es kühler als im Tal.",
+    "Wähle einen trockenen Tag; bei Regen macht der Spielplatz weniger Spaß."
+   ]
+  },
+  "practical": {
+   "nl": "De alm ligt bij het bergstation van de Markbachjochbahn, enkele minuten rijden en een korte gondelrit vanaf het centrum van Niederau.",
+   "en": "The alm lies by the top station of the Markbachjoch gondola, a short ride from the centre of Niederau.",
+   "de": "Die Alm liegt an der Bergstation der Markbachjochbahn, eine kurze Fahrt vom Ortszentrum Niederau."
+  },
+  "facts": {
+   "age": {
+    "nl": "Voor jonge kinderen en gezinnen",
+    "en": "For young children and families",
+    "de": "Für kleine Kinder und Familien"
+   },
+   "duration": {
+    "nl": "Een paar uur",
+    "en": "A few hours",
+    "de": "Ein paar Stunden"
+   },
+   "price": {
+    "nl": "Speeltuin gratis; gondel en horeca extra",
+    "en": "Playground free; gondola and food extra",
+    "de": "Spielplatz kostenlos; Bahn und Einkehr extra"
+   },
+   "distance": {
+    "nl": "Ca. 5 min vanaf Niederau",
+    "en": "About 5 min from Niederau",
+    "de": "Ca. 5 Min. von Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Markbachjoch",
+   "en": "Niederau, Markbachjoch",
+   "de": "Niederau, Markbachjoch"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn er dieren te zien?",
+     "en": "Are there animals to see?",
+     "de": "Gibt es Tiere zu sehen?"
+    },
+    "a": {
+     "nl": "Ja, er is een dierenweide met onder meer geiten die je kunt voeren.",
+     "en": "Yes, there is an animal enclosure with goats among others, which you can feed.",
+     "de": "Ja, es gibt ein Tiergehege mit unter anderem Ziegen, die man füttern kann."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is de speeltuin ook in de winter open?",
+     "en": "Is the playground open in winter?",
+     "de": "Ist der Spielplatz auch im Winter geöffnet?"
+    },
+    "a": {
+     "nl": "Nee, de speeltuin is alleen in de zomer open.",
+     "en": "No, the playground is open in summer only.",
+     "de": "Nein, der Spielplatz ist nur im Sommer geöffnet."
+    }
+   }
+  ]
+ },
+ {
+  "id": "l11",
+  "new": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "verified": true,
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_nl": "krautinger-proeven-wildschonau",
+  "slug_en": "krautinger-tasting-wildschoenau",
+  "slug_de": "krautinger-verkostung-wildschoenau",
+  "title": {
+   "nl": "Krautinger proeven in de Wildschönau",
+   "en": "Krautinger tasting in the Wildschönau",
+   "de": "Krautinger-Verkostung in der Wildschönau"
+  },
+  "tagline": {
+   "nl": "Het streekbrandewijn van stoppelrapen en zijn verhaal",
+   "en": "The regional spirit made from turnips and its story",
+   "de": "Der regionale Brand aus Stoppelrüben und seine Geschichte"
+  },
+  "intro": {
+   "nl": "De Wildschönauer Krautinger is een beschermde streekdrank uit Tirol, gebrand van stoppelrapen. Volgens de overlevering gaf keizerin Maria Theresia in de 18e eeuw 51 boeren in het dal het recht om deze brandewijn te stoken. Zo'n 15 boeren maken er nu nog gebruik van.\n\nDe rapen worden gesneden en geperst, het sap wordt tot een derde ingekookt en vergist, waarna het twee keer wordt gedistilleerd. De sterkte ligt tussen 38 en 48 vol.%. De smaak is eigenzinnig en doet sterk aan groente denken. Tijdens boerderijwandelingen (Hof-zu-Hof) leer je hoe het stoken werkt en kun je proeven. Informeer bij het tourismebureau welke hoeven bezoekers ontvangen.",
+   "en": "The Wildschönauer Krautinger is a protected regional spirit from Tyrol, distilled from turnips. According to tradition, Empress Maria Theresa granted 51 farmers in the valley the right to distil it in the 18th century. Around 15 farmers still use that right today.\n\nThe turnips are sliced and pressed, the juice is boiled down to a third and fermented, and then distilled twice. Strength lies between 38 and 48 per cent. The flavour is distinctive and strongly reminiscent of vegetables. On farm-to-farm walks (Hof-zu-Hof) you learn how distilling works and can taste it. Ask the tourist office which farms welcome visitors.",
+   "de": "Der Wildschönauer Krautinger ist ein geschützter regionaler Brand aus Tirol, gebrannt aus Stoppelrüben. Der Überlieferung nach gestattete Kaiserin Maria Theresia im 18. Jahrhundert 51 Bauern im Tal das Brennrecht. Etwa 15 Bauern machen heute noch davon Gebrauch.\n\nDie Rüben werden geschnitten und gepresst, der Saft wird auf ein Drittel eingekocht, vergoren und zweimal destilliert. Die Stärke liegt zwischen 38 und 48 Vol.-%. Der Geschmack ist eigenwillig und erinnert stark an Gemüse. Bei Hof-zu-Hof-Wanderungen erfährt man, wie gebrannt wird, und kann verkosten. Frag beim Tourismusverband, welche Höfe Besucher empfangen."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een hofbezoek of proeverij vooraf; niet elke boer ontvangt bezoekers.",
+    "Proef met mate: de drank is sterk en de smaak is niet voor iedereen.",
+    "Koop eventueel een flesje als streekproduct, maar vraag eerst naar mogelijkheden.",
+    "Chauffeurs en kinderen kijken en luisteren; proeven is voor volwassenen."
+   ],
+   "en": [
+    "Book a farm visit or tasting ahead; not every farmer receives visitors.",
+    "Taste in moderation: the spirit is strong and the flavour is not for everyone.",
+    "You can buy a small bottle as a local souvenir, but ask what is possible first.",
+    "Drivers and children can watch and listen; tasting is for adults."
+   ],
+   "de": [
+    "Melde Hofbesuch oder Verkostung vorab an; nicht jeder Bauer empfängt Besucher.",
+    "Verkoste mit Maß: der Brand ist stark und der Geschmack nicht jedermanns Sache.",
+    "Eine kleine Flasche als regionales Mitbringsel ist möglich, frag aber vorher nach.",
+    "Fahrer und Kinder schauen und hören zu; die Verkostung ist für Erwachsene."
+   ]
+  },
+  "practical": {
+   "nl": "Het aanbod verspreidt zich over hoeven in de hele Wildschönau, ca. 5 tot 20 min rijden vanaf Niederau. Vraag naar het actuele aanbod en de meetpunten.",
+   "en": "The offer is spread across farms throughout the Wildschönau, about 5 to 20 min by car from Niederau. Ask about the current offer and meeting points.",
+   "de": "Das Angebot verteilt sich auf Höfe im ganzen Tal, ca. 5 bis 20 Min. mit dem Auto von Niederau. Frag nach aktuellem Angebot und Treffpunkten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alleen proeven vanaf 18 jaar",
+    "en": "Tasting for adults only",
+    "de": "Verkostung nur für Erwachsene"
+   },
+   "duration": {
+    "nl": "Wisselt per aanbieder",
+    "en": "Varies by provider",
+    "de": "Je nach Anbieter"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 tot 20 min rijden",
+    "en": "About 5 to 20 min by car",
+    "de": "Ca. 5 bis 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Vooral zomer; aanbod wisselt",
+    "en": "Mainly summer; offer varies",
+    "de": "Vor allem Sommer; Angebot variiert"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar is Krautinger van gemaakt?",
+     "en": "What is Krautinger made from?",
+     "de": "Woraus wird Krautinger gemacht?"
+    },
+    "a": {
+     "nl": "Van stoppelrapen. Het sap wordt ingekookt, vergist en twee keer gedistilleerd.",
+     "en": "From turnips. The juice is reduced, fermented and distilled twice.",
+     "de": "Aus Stoppelrüben. Der Saft wird eingekocht, vergoren und zweimal destilliert."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe sterk is Krautinger?",
+     "en": "How strong is Krautinger?",
+     "de": "Wie stark ist Krautinger?"
+    },
+    "a": {
+     "nl": "Tussen 38 en 48 vol.%.",
+     "en": "Between 38 and 48 per cent ABV.",
+     "de": "Zwischen 38 und 48 Vol.-%."
+    }
+   }
+  ]
+ },
+ {
+  "id": "l12",
+  "new": true,
+  "theme": "dieren",
+  "season": "summer",
+  "verified": true,
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_nl": "schaukaeserei-schoenangeralm",
+  "slug_en": "show-dairy-schoenangeralm",
+  "slug_de": "schaukaeserei-schoenangeralm",
+  "title": {
+   "nl": "Schaukäserei Schönangeralm",
+   "en": "Schönangeralm show dairy",
+   "de": "Schaukäserei Schönangeralm"
+  },
+  "tagline": {
+   "nl": "Kaas maken op de alm, met zo'n 260 dieren",
+   "en": "Cheese-making on the alp, with some 260 animals",
+   "de": "Käse machen auf der Alm, mit rund 260 Tieren"
+  },
+  "intro": {
+   "nl": "De Schönangeralm bij Auffach is de trots van 25 boerenbedrijven uit de Wildschönau. Zo'n 260 dieren grazen er van juni tot september. In de schaukaas­makerij kun je zien hoe de kaasmaker bergkaas, Emmentaler, Camembert, Tilsiter en kruidenkaas maakt. Er wordt alleen melk van Schönauer koeien verwerkt, in totaal ongeveer 2.000 liter.\n\nDe kaas wordt met prijzen bekroond: de kaasmaker won meermaals goud en zilver op de Kaasolympiade. Naast de kaasmakerij staat het Alpengasthof Schönangeralm met zonneterras. Zo combineer je dieren kijken, kaas proeven en een lunch in een mooie berglandschap.",
+   "en": "The Schönangeralm near Auffach is the pride of 25 farms in the Wildschönau. Around 260 animals graze there from June to September. In the show dairy you can watch the cheesemaker produce alpine cheese, Emmental, Camembert, Tilsiter and herb cheese. Only milk from Schönauer cows is used, roughly 2,000 litres in all.\n\nThe cheese has won awards: the cheesemaker took gold and silver several times at the Cheese Olympics. Next to the dairy stands the Alpengasthof Schönangeralm, with a sunny terrace. It makes for an easy mix of animal-watching, cheese tasting and lunch in a lovely mountain setting.",
+   "de": "Die Schönangeralm bei Auffach ist der Stolz von 25 Bauernhöfen der Wildschönau. Rund 260 Tiere weiden dort von Juni bis September. In der Schaukäserei kannst du dem Käser bei der Herstellung von Bergkäse, Emmentaler, Camembert, Tilsiter und Kräuterkäse zusehen. Verarbeitet wird nur Milch von Schönauer Kühen, insgesamt etwa 2.000 Liter.\n\nDer Käse wurde mehrfach prämiert: der Käser gewann bei der Käse-Olympiade Gold und Silber. Neben der Käserei steht der Alpengasthof Schönangeralm mit Sonnenterrasse. So lassen sich Tiere schauen, Käse verkosten und Einkehr schön verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Kom in de zomer (juni tot september), als de dieren op de alm zijn.",
+    "Vraag ter plekke naar de momenten waarop de kaasmaker aan het werk is.",
+    "Neem stevige schoenen mee; het laatste deel kan een wandeling zijn.",
+    "Koop een stuk kaas als souvenir en lunch op het terras."
+   ],
+   "en": [
+    "Visit in summer (June to September), when the animals are on the alp.",
+    "Ask on site when the cheesemaker is at work.",
+    "Bring sturdy shoes; part of the way may be a walk.",
+    "Buy a piece of cheese as a souvenir and have lunch on the terrace."
+   ],
+   "de": [
+    "Komm im Sommer (Juni bis September), wenn die Tiere auf der Alm sind.",
+    "Frag vor Ort, wann der Käser arbeitet.",
+    "Nimm feste Schuhe mit; ein Teil des Wegs kann zu Fuß sein.",
+    "Kaufe ein Stück Käse als Mitbringsel und iss auf der Terrasse."
+   ]
+  },
+  "practical": {
+   "nl": "De alm ligt bij Auffach, het hoogste dorp van het dal, ca. 15 tot 20 min rijden vanaf Niederau. Informeer vooraf over de bereikbaarheid en de actuele werktijden van de kaasmakerij.",
+   "en": "The alp is near Auffach, the valley's highest village, about 15 to 20 min by car from Niederau. Check access and the dairy's current working times beforehand.",
+   "de": "Die Alm liegt bei Auffach, dem höchsten Dorf des Tals, ca. 15 bis 20 Min. mit dem Auto von Niederau. Erkundige dich vorab nach Zufahrt und aktuellen Käsezeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Voor alle leeftijden",
+    "en": "For all ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Kijken gratis; kaas en horeca extra",
+    "en": "Viewing free; cheese and food extra",
+    "de": "Zuschauen kostenlos; Käse und Einkehr extra"
+   },
+   "distance": {
+    "nl": "Ca. 15 tot 20 min rijden",
+    "en": "About 15 to 20 min by car",
+    "de": "Ca. 15 bis 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (juni t/m september)",
+    "en": "Summer (June to September)",
+    "de": "Sommer (Juni bis September)"
+   }
+  },
+  "location": {
+   "nl": "Schönangeralm, Auffach",
+   "en": "Schönangeralm, Auffach",
+   "de": "Schönangeralm, Auffach"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke kazen worden gemaakt?",
+     "en": "Which cheeses are made?",
+     "de": "Welche Käsesorten werden hergestellt?"
+    },
+    "a": {
+     "nl": "Onder meer bergkaas, Emmentaler, Camembert, Tilsiter en kruidenkaas.",
+     "en": "Among others alpine cheese, Emmental, Camembert, Tilsiter and herb cheese.",
+     "de": "Unter anderem Bergkäse, Emmentaler, Camembert, Tilsiter und Kräuterkäse."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer zijn de dieren op de alm?",
+     "en": "When are the animals on the alp?",
+     "de": "Wann sind die Tiere auf der Alm?"
+    },
+    "a": {
+     "nl": "Ongeveer van juni tot september.",
+     "en": "Roughly from June to September.",
+     "de": "Etwa von Juni bis September."
+    }
+   }
+  ]
+ },
+ {
+  "id": "l13",
+  "new": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "verified": true,
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_nl": "almabtrieb-auffach",
+  "slug_en": "cattle-drive-auffach",
+  "slug_de": "almabtrieb-auffach",
+  "title": {
+   "nl": "Almabtrieb in Auffach",
+   "en": "Almabtrieb cattle drive in Auffach",
+   "de": "Almabtrieb in Auffach"
+  },
+  "tagline": {
+   "nl": "Versierde koeien komen van de alm: feest in het dal",
+   "en": "Decorated cows return from the alp: a village festival",
+   "de": "Geschmückte Kühe kommen von der Alm: Fest im Tal"
+  },
+  "intro": {
+   "nl": "Elk najaar worden de dieren van de hoge weiden naar het dal gebracht, en in Auffach is dat een groot dorpsfeest. Meer dan 500 dieren komen naar beneden. Rond het middaguur arriveren de versierde koeien aan de voet van de Schatzberg, ontvangen met applaus en traditionele volksmuziek.\n\nHet feest begint rond 10 uur en loopt tot ca. 18 uur, op het terrein bij het dalstation van de Schatzbergbahn. Er is een ambachtsmarkt, een markt met streekproducten, live muziek en lokale gerechten. De datum ligt meestal in september en verschilt per jaar; in 2026 was dat 19 september. Controleer de actuele datum bij het tourismebureau.",
+   "en": "Each autumn the animals are brought down from the high pastures to the valley, and in Auffach this is a big village festival. More than 500 animals come down. Around midday the decorated cows arrive at the foot of the Schatzberg, greeted with applause and traditional folk music.\n\nThe festival starts around 10 am and runs until about 6 pm, at the valley station of the Schatzberg cable car. There is a craft market, a market with regional products, live music and local food. The date usually falls in September and varies by year; in 2026 it was 19 September. Check the current date with the tourist office.",
+   "de": "Jeden Herbst werden die Tiere von den Hochweiden ins Tal getrieben, und in Auffach wird daraus ein großes Dorffest. Mehr als 500 Tiere kommen herab. Gegen Mittag erreichen die geschmückten Kühe den Fuß des Schatzbergs, begrüßt mit Applaus und Volksmusik.\n\nDas Fest beginnt gegen 10 Uhr und dauert bis ca. 18 Uhr, an der Talstation der Schatzbergbahn. Es gibt einen Handwerksmarkt, einen Markt mit regionalen Produkten, Live-Musik und lokale Gerichte. Der Termin liegt meist im September und variiert; 2026 war es der 19. September. Prüfe das aktuelle Datum beim Tourismusverband."
+  },
+  "tips": {
+   "nl": [
+    "Kom op tijd; de koeien arriveren rond het middaguur en het is dan druk.",
+    "Parkeer vroeg of kom met de bus; Auffach is klein.",
+    "Neem een jas mee; in september kan het fris zijn.",
+    "Probeer streekproducten op de markt."
+   ],
+   "en": [
+    "Arrive in good time; the cows come in around midday and it gets busy.",
+    "Park early or take the bus; Auffach is small.",
+    "Bring a jacket; September can be fresh.",
+    "Try regional products at the market."
+   ],
+   "de": [
+    "Komm rechtzeitig; die Kühe treffen gegen Mittag ein, dann ist es voll.",
+    "Parke früh oder nimm den Bus; Auffach ist klein.",
+    "Nimm eine Jacke mit; im September kann es frisch sein.",
+    "Probiere regionale Produkte am Markt."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 15 tot 20 min rijden vanaf Niederau. Het feest is bij het dalstation van de Schatzbergbahn in het dorpscentrum.",
+   "en": "Auffach is about 15 to 20 min by car from Niederau. The festival takes place at the Schatzberg valley station in the village centre.",
+   "de": "Auffach liegt ca. 15 bis 20 Min. mit dem Auto von Niederau. Das Fest findet an der Talstation der Schatzbergbahn im Ortszentrum statt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Voor alle leeftijden",
+    "en": "For all ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Een dag of dagdeel",
+    "en": "A day or part of a day",
+    "de": "Ein Tag oder Tagesteil"
+   },
+   "price": {
+    "nl": "Toegang vrij; eten en kopen extra",
+    "en": "Free entry; food and shopping extra",
+    "de": "Eintritt frei; Essen und Einkäufe extra"
+   },
+   "distance": {
+    "nl": "Ca. 15 tot 20 min rijden",
+    "en": "About 15 to 20 min by car",
+    "de": "Ca. 15 bis 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Eenmaal per jaar, in september",
+    "en": "Once a year, in September",
+    "de": "Einmal jährlich, im September"
+   }
+  },
+  "location": {
+   "nl": "Auffach",
+   "en": "Auffach",
+   "de": "Auffach"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is de Almabtrieb in Auffach?",
+     "en": "When is the Almabtrieb in Auffach?",
+     "de": "Wann ist der Almabtrieb in Auffach?"
+    },
+    "a": {
+     "nl": "Meestal in september; in 2026 op 19 september. De datum kan per jaar verschillen.",
+     "en": "Usually in September; on 19 September in 2026. The date can differ each year.",
+     "de": "Meist im September; 2026 am 19. September. Das Datum kann jährlich abweichen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoeveel dieren komen naar beneden?",
+     "en": "How many animals come down?",
+     "de": "Wie viele Tiere kommen herab?"
+    },
+    "a": {
+     "nl": "Meer dan 500.",
+     "en": "More than 500.",
+     "de": "Mehr als 500."
+    }
+   }
+  ]
+ }
+]

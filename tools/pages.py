@@ -155,6 +155,17 @@ def jload(pattern):
             print("FOUT in", f, ex)
     return out
 
+import unicodedata as _ud, re as _re0
+def _slugify(x):
+    x = _ud.normalize("NFKD", x).encode("ascii", "ignore").decode().lower()
+    return "-".join(_re0.sub(r"[^a-z0-9]+", "-", x).strip("-").split("-")[:7])
+
+def trim_desc(d, n=158):
+    d = " ".join(d.split())
+    if len(d) <= n: return d
+    cut = d[:n - 1].rsplit(" ", 1)[0].rstrip(" ,;:.-")
+    return cut + "…"
+
 # ---------- data laden ----------
 src = {o["id"]: o for o in json.load(open(DATA / "source_activities.json", encoding="utf-8"))}
 EXCL = set(json.load(open(DATA / "exclude.json", encoding="utf-8"))["ids"]) if (DATA / "exclude.json").exists() else set()
@@ -179,7 +190,8 @@ for a in jload("acts/*.json"):
 _ids = {a["id"] for a in acts}
 for k, pt in PATCH.items():
     if pt.get("id") and pt["id"] not in _ids and not pt.get("drop") and pt.get("new"):
-        pt.setdefault("theme", "golf"); pt.setdefault("season", "summer"); pt.setdefault("slug_nl", pt["id"])
+        pt.setdefault("theme", "golf"); pt.setdefault("season", "summer")
+        if not pt.get("slug_nl"): pt["slug_nl"] = _slugify(L(pt.get("title", {}), "nl")) or pt["id"]
         acts.append(pt)
 places = [PATCH.get(p["slug"], p) for p in jload("places/*.json")]
 places = [p for p in places if not p.get("drop") and p.get("verified") is not False]
@@ -227,9 +239,27 @@ def home(lang): return "/" if lang == "nl" else f"/{lang}/"
 
 registry = []  # (key, {lang: url}, lastmod)
 
+
+def main_nav(lang):
+    """Zelfde hoofdmenu als de hoofdpagina (uit de gebouwde index van die taal); Activiteiten wijst naar de hub."""
+    f = ROOT / (PREFIX[lang] + "index.html")
+    t = f.read_text(encoding="utf-8")
+    nav = t[t.index('<nav class="nav"'):t.index('<button class="season-toggle"')]
+    out = []
+    for href, label in _re0.findall(r'<a href="([^"]+)">([^<]+)</a>', nav):
+        if href.startswith("#"):
+            url_ = f"{home(lang)}{href}"
+            if href[1:] in ("activiteiten", "activities", "aktivitaeten"): url_ = u_hub("act", lang)
+        else:
+            url_ = f"/{PREFIX[lang]}{href}"
+        out.append(f'<a href="{url_}">{label}</a>')
+    return "\n      ".join(out)
+
 def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=None):
     """key identificeert de pagina in alle talen; urls = {lang: pad}."""
     here = BASE + urls[lang]
+    desc = trim_desc(desc)
+    if len(title) > 70: title = title.replace(" | Niederau.nl", "")
     hl = "\n".join(f'<link rel="alternate" hreflang="{c}" href="{BASE}{urls[c]}">' for c in LANGS) + f'\n<link rel="alternate" hreflang="x-default" href="{BASE}{urls["en"]}">'
     cur = lambda c: ' aria-current="true"' if c == lang else ""
     lang_nav = "".join(f'<a href="{urls[c]}" hreflang="{c}" lang="{c}"{cur(c)}>{c.upper()}</a>' for c in LANGS)
@@ -288,10 +318,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
     </a>
     <button class="menu-btn" aria-expanded="false" aria-controls="nav">{ui("menu", lang)}</button>
     <nav class="nav" id="nav" aria-label="{ui("nav_label", lang)}">
-      <a href="{home(lang)}">{ui("n_home", lang)}</a>
-      <a href="{u_hub("act", lang)}">{ui("n_act", lang)}</a>
-      <a href="{u_hub("place", lang)}">{ui("n_place", lang)}</a>
-      <a href="/{PREFIX[lang]}markbachjoch/">{ui("n_mb", lang)}</a>
+      {main_nav(lang)}
       {tog}
       <div class="lang" aria-label="{ui("lang_label", lang)}">{lang_nav}</div>
     </nav>

@@ -1,0 +1,786 @@
+[
+ {
+  "id": "l1",
+  "new": true,
+  "drop": false,
+  "drop_reason": "",
+  "theme": "wandelen",
+  "season": "summer",
+  "place": "muehltal",
+  "verified": true,
+  "slug_nl": "kundler-klamm",
+  "slug_en": "kundler-klamm-gorge",
+  "slug_de": "kundler-klamm",
+  "title": {
+   "nl": "Kundler Klamm",
+   "en": "Kundler Klamm",
+   "de": "Kundler Klamm"
+  },
+  "tagline": {
+   "nl": "Wandeling door de kloof van Mühltal naar Kundl",
+   "en": "Walk through the gorge from Mühltal to Kundl",
+   "de": "Wanderung durch die Klamm von Mühltal nach Kundl"
+  },
+  "intro": {
+   "nl": "De Kundler Klamm is een kloof langs de Wildschönauer Ache, tussen Mühltal en het Inndal bij Kundl. Het pad loopt over een houten brug, langs overhangende rotsen en door korte tunnels. Het is een rustige, makkelijke route die als themawandeling is ingericht en goed past bij gezinnen.\n\nTe voet doe je er ca. een uur over per richting; de hele wandeling is ca. 6,5 km. Wie niet beide kanten wil lopen, kan een deel met het toeristentreintje (Bummelzug) afleggen, dat ca. 20 minuten van Mühltal naar de ingang van de kloof rijdt. Het pad is goed begaanbaar, ook met een kinderwagen of rolstoel. De kloof is ruwweg van april tot half november toegankelijk.",
+   "en": "The Kundler Klamm is a gorge along the Wildschönauer Ache, between Mühltal and the Inn valley near Kundl. The path crosses a wooden bridge, passes rock overhangs and runs through short tunnels. It is a calm, easy route set up as a themed walk, and it suits families well.\n\nOn foot it takes roughly an hour in each direction; the full walk is about 6.5 km. If you do not want to walk both ways, you can cover part of it with the small tourist train (Bummelzug), which takes about 20 minutes from Mühltal to the entrance of the gorge. The path is easy to walk, also with a pushchair or wheelchair. The gorge is accessible roughly from April to mid-November.",
+   "de": "Die Kundler Klamm ist eine Schlucht entlang der Wildschönauer Ache, zwischen Mühltal und dem Inntal bei Kundl. Der Weg führt über eine Holzbrücke, an Felsüberhängen vorbei und durch kurze Tunnel. Es ist eine ruhige, leichte Route, als Themenwanderung angelegt und gut für Familien geeignet.\n\nZu Fuß braucht man ca. eine Stunde pro Richtung; die gesamte Wanderung misst etwa 6,5 km. Wer nicht beide Wege gehen möchte, kann einen Teil mit dem Bummelzug zurücklegen, der in ca. 20 Minuten von Mühltal zum Eingang der Klamm fährt. Der Weg ist leicht begehbar, auch mit Kinderwagen oder Rollstuhl. Die Klamm ist etwa von April bis Mitte November zugänglich."
+  },
+  "tips": {
+   "nl": [
+    "Combineer de wandeling met het treintje voor één richting, dan blijft het ontspannen voor kleine kinderen.",
+    "Neem een licht jasje mee; in de kloof is het koeler dan in het dal.",
+    "Controleer vooraf of de kloof en het treintje in bedrijf zijn.",
+    "Het pad is geschikt voor kinderwagens, dus ook met peuters goed te doen."
+   ],
+   "en": [
+    "Use the train for one direction to keep the outing relaxed for small children.",
+    "Bring a light jacket; it is cooler in the gorge than in the valley.",
+    "Check beforehand that the gorge and the train are running.",
+    "The path suits pushchairs, so it also works well with toddlers."
+   ],
+   "de": [
+    "Nimm für eine Richtung den Bummelzug, dann bleibt der Ausflug für kleine Kinder entspannt.",
+    "Packe eine leichte Jacke ein; in der Klamm ist es kühler als im Tal.",
+    "Prüfe vorab, ob Klamm und Bummelzug in Betrieb sind.",
+    "Der Weg ist kinderwagentauglich und deshalb auch mit Kleinkindern gut machbar."
+   ]
+  },
+  "practical": {
+   "nl": "Mühltal ligt ca. 15 minuten rijden van Niederau; de ingang aan de Kundl-kant ligt aan de rand van het Inndal, ca. 25 minuten rijden. Er is parkeergelegenheid bij beide uiteinden.",
+   "en": "Mühltal is about 15 minutes by car from Niederau; the entrance on the Kundl side lies at the edge of the Inn valley, roughly 25 minutes by car. There is parking at both ends.",
+   "de": "Mühltal liegt ca. 15 Fahrminuten von Niederau entfernt; der Eingang auf der Kundler Seite am Rand des Inntals ca. 25 Minuten. An beiden Enden gibt es Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur heen en terug",
+    "en": "Approx. 2 to 3 hours return",
+    "de": "Ca. 2 bis 3 Stunden hin und zurück"
+   },
+   "price": {
+    "nl": "Informeer vooraf naar kosten van treintje en parkeren",
+    "en": "Ask in advance about train and parking costs",
+    "de": "Kosten für Bummelzug und Parken vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 15 tot 25 min rijden",
+    "en": "Approx. 15 to 25 min by car",
+    "de": "Ca. 15 bis 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. april tot half november)",
+    "en": "Summer (approx. April to mid-November)",
+    "de": "Sommer (ca. April bis Mitte November)"
+   }
+  },
+  "location": {
+   "nl": "Tussen Mühltal en Kundl",
+   "en": "Between Mühltal and Kundl",
+   "de": "Zwischen Mühltal und Kundl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Kundler Klamm geschikt voor kinderwagens?",
+     "en": "Is the Kundler Klamm suitable for pushchairs?",
+     "de": "Ist die Kundler Klamm kinderwagentauglich?"
+    },
+    "a": {
+     "nl": "Ja, het pad is makkelijk begaanbaar en toegankelijk voor kinderwagens en rolstoelen.",
+     "en": "Yes, the path is easy to walk and accessible for pushchairs and wheelchairs.",
+     "de": "Ja, der Weg ist leicht begehbar und für Kinderwagen und Rollstühle zugänglich."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang duurt de wandeling?",
+     "en": "How long does the walk take?",
+     "de": "Wie lange dauert die Wanderung?"
+    },
+    "a": {
+     "nl": "Ruwweg een uur per richting; het treintje van Mühltal naar de ingang doet er ca. 20 minuten over.",
+     "en": "Roughly an hour each way; the train from Mühltal to the entrance takes about 20 minutes.",
+     "de": "Etwa eine Stunde pro Richtung; der Bummelzug von Mühltal zum Eingang braucht ca. 20 Minuten."
+    }
+   }
+  ]
+ },
+ {
+  "id": "l2",
+  "new": true,
+  "drop": false,
+  "drop_reason": "",
+  "theme": "cultuur",
+  "season": "summer",
+  "place": "oberau",
+  "verified": true,
+  "slug_nl": "bergbauernmuseum-zbach",
+  "slug_en": "zbach-mountain-farm-museum",
+  "slug_de": "bergbauernmuseum-zbach",
+  "title": {
+   "nl": "Bergbauernmuseum z'Bach",
+   "en": "z'Bach Mountain Farm Museum",
+   "de": "Bergbauernmuseum z'Bach"
+  },
+  "tagline": {
+   "nl": "Oude boerderij in Oberau over het harde leven van bergboeren",
+   "en": "Old farmhouse in Oberau showing the hard life of mountain farmers",
+   "de": "Alter Hof in Oberau über das harte Leben der Bergbauern"
+  },
+  "intro": {
+   "nl": "Het Bergbauernmuseum z'Bach is een oude boerderij in Oberau met kamers uit 1795. Ruim 1.100 tot 1.200 voorwerpen uit werk, cultuur en dagelijks leven laten zien hoe Tiroler bergboeren vroeger leefden: sober, hard werkend en met weinig middelen.\n\nWie op donderdag komt, treft er een traditionele ambachtsmarkt aan, waar onder meer houtsnijders, draaiers, schoenmakers, vilters en mandenvlechters volgens oude technieken werken. Kinderen kunnen zo zien hoe dingen vroeger gemaakt werden. Het museum ligt aan het einde van de Wirbelwindweg en is dus ook te combineren met een wandeling vanuit Niederau en met een bezoek aan het nabijgelegen openluchtbad.",
+   "en": "The Bergbauernmuseum z'Bach is an old farmhouse in Oberau with rooms dating from 1795. More than 1,100 to 1,200 items from work, culture and daily life show how Tyrolean mountain farmers used to live: frugally, working hard and with few resources.\n\nOn Thursdays there is a traditional craft market, where woodcarvers, turners, shoemakers, felt makers and basket weavers work with old techniques. Children can see how things were once made. The museum sits at the end of the Wirbelwindweg, so it combines well with a walk from Niederau and a visit to the nearby outdoor pool.",
+   "de": "Das Bergbauernmuseum z'Bach ist ein alter Bauernhof in Oberau mit Stuben aus dem Jahr 1795. Über 1.100 bis 1.200 Exponate aus Arbeit, Kultur und Alltag zeigen, wie Tiroler Bergbauern früher lebten: genügsam, hart arbeitend und mit wenigen Mitteln.\n\nDonnerstags findet ein traditioneller Handwerkermarkt statt, bei dem unter anderem Holzschnitzer, Drechsler, Schuhmacher, Filzer und Korbflechter nach alten Techniken arbeiten. Kinder sehen, wie Dinge früher hergestellt wurden. Das Museum liegt am Ende des Wirbelwindwegs und lässt sich daher gut mit einer Wanderung ab Niederau und einem Besuch im nahen Freibad verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Kom op donderdag voor de ambachtsmarkt met demonstraties.",
+    "Combineer het museum met de Wirbelwindweg vanuit Niederau.",
+    "Een bezoek past goed bij een regenachtige dag.",
+    "Informeer vooraf naar de openingstijden."
+   ],
+   "en": [
+    "Visit on a Thursday for the craft market with demonstrations.",
+    "Combine the museum with the Wirbelwindweg from Niederau.",
+    "A visit suits a rainy day well.",
+    "Check the opening times in advance."
+   ],
+   "de": [
+    "Komm donnerstags zum Handwerkermarkt mit Vorführungen.",
+    "Verbinde das Museum mit dem Wirbelwindweg ab Niederau.",
+    "Ein Besuch passt gut zu einem Regentag.",
+    "Erkundige dich vorab nach den Öffnungszeiten."
+   ]
+  },
+  "practical": {
+   "nl": "Het museum ligt in Oberau, ca. 5 tot 10 minuten rijden van Niederau; te voet via de Wirbelwindweg is het ca. 2 uur wandelen.",
+   "en": "The museum is in Oberau, roughly 5 to 10 minutes by car from Niederau; on foot via the Wirbelwindweg it is about a 2-hour walk.",
+   "de": "Das Museum liegt in Oberau, ca. 5 bis 10 Fahrminuten von Niederau; zu Fuß über den Wirbelwindweg sind es ca. 2 Stunden."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Entree met korting voor kinderen; informeer naar actuele tarieven",
+    "en": "Admission with child discount; ask for current rates",
+    "de": "Eintritt mit Kinderermäßigung; aktuelle Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 tot 10 min rijden",
+    "en": "Approx. 5 to 10 min by car",
+    "de": "Ca. 5 bis 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer; ook buiten het seizoen informeren",
+    "en": "Mainly summer; ask about off-season opening",
+    "de": "Hauptsächlich Sommer; Öffnung außerhalb der Saison erfragen"
+   }
+  },
+  "location": {
+   "nl": "Oberau",
+   "en": "Oberau",
+   "de": "Oberau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is de ambachtsmarkt?",
+     "en": "When is the craft market?",
+     "de": "Wann ist der Handwerkermarkt?"
+    },
+    "a": {
+     "nl": "Op donderdag in de middag; controleer vooraf of hij die week doorgaat.",
+     "en": "On Thursday afternoons; check beforehand that it takes place that week.",
+     "de": "Donnerstagnachmittags; prüfe vorab, ob er in der jeweiligen Woche stattfindet."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je het museum met een wandeling combineren?",
+     "en": "Can you combine the museum with a walk?",
+     "de": "Lässt sich das Museum mit einer Wanderung verbinden?"
+    },
+    "a": {
+     "nl": "Ja, de Wirbelwindweg van Niederau eindigt bij het museum; het openluchtbad is daarna nog ca. 5 minuten lopen.",
+     "en": "Yes, the Wirbelwindweg from Niederau ends at the museum; the outdoor pool is a further 5-minute walk.",
+     "de": "Ja, der Wirbelwindweg ab Niederau endet am Museum; das Freibad ist danach noch ca. 5 Gehminuten entfernt."
+    }
+   }
+  ]
+ },
+ {
+  "id": "l3",
+  "new": true,
+  "drop": false,
+  "drop_reason": "",
+  "theme": "attracties",
+  "season": "summer",
+  "place": "oberau",
+  "verified": true,
+  "slug_nl": "familienpark-drachental",
+  "slug_en": "drachental-family-park",
+  "slug_de": "familienpark-drachental",
+  "title": {
+   "nl": "Familienpark Drachental",
+   "en": "Drachental Family Park",
+   "de": "Familienpark Drachental"
+  },
+  "tagline": {
+   "nl": "Speelpark in Oberau met de Drachenflitzer-rodelbaan",
+   "en": "Family park in Oberau with the Drachenflitzer alpine coaster",
+   "de": "Familienpark in Oberau mit dem Alpine Coaster Drachenflitzer"
+  },
+  "intro": {
+   "nl": "Het Familienpark Drachental ligt in het centrum van Oberau en is het hele jaar open. De toegang tot het park zelf is gratis, met onder meer een behendigheidsparcours met springtoren, een drakentoren met ballenbaan en glijbaan, en een speelmeer. Voor losse attracties betaal je apart.\n\nHet hoogtepunt is de Drachenflitzer, een ruim 2 km lange alpine coaster die in zomer en winter rijdt, ook in het donker. Kinderen van 3 tot 7 jaar rijden mee met een volwassene; vanaf 8 jaar mag je alleen. Verder zijn er onder meer een 5D-bioscoop, een tubebaan, een karttrack en een avonturen-minigolfbaan met 18 holes.",
+   "en": "The Familienpark Drachental is in the centre of Oberau and open all year. Entry to the park itself is free, with among other things a motor-skills course with a jumping tower, a dragon tower with ball track and slide, and a play lake. Individual attractions are paid separately.\n\nThe highlight is the Drachenflitzer, an alpine coaster over 2 km long that runs in summer and winter, also after dark. Children aged 3 to 7 ride with an adult; from 8 years you may ride alone. There are also a 5D cinema, a tubing track, a cart track and an 18-hole adventure golf course.",
+   "de": "Der Familienpark Drachental liegt im Zentrum von Oberau und ist ganzjährig geöffnet. Der Eintritt in den Park selbst ist frei, unter anderem mit Motorikparcours samt Sprungturm, Drachenturm mit Kugelbahn und Rutsche und einem Spielsee. Einzelne Attraktionen sind kostenpflichtig.\n\nHöhepunkt ist der Drachenflitzer, ein über 2 km langer Alpine Coaster, der im Sommer und Winter fährt, auch bei Dunkelheit. Kinder von 3 bis 7 Jahren fahren mit einem Erwachsenen mit; ab 8 Jahren darf man allein fahren. Dazu gibt es unter anderem ein 5D-Kino, eine Tubingbahn, eine Cartbahn und eine Abenteuer-Minigolfanlage mit 18 Löchern."
+  },
+  "tips": {
+   "nl": [
+    "Plan een halve dag; het gratis deel van het park is al leuk voor kleine kinderen.",
+    "Kinderen van 3 tot 7 jaar moeten met een volwassene in de Drachenflitzer.",
+    "Een avondrit op de coaster is een bijzondere ervaring.",
+    "Informeer vooraf naar openingstijden; die wisselen per seizoen."
+   ],
+   "en": [
+    "Plan half a day; the free part of the park is already fun for small children.",
+    "Children aged 3 to 7 must ride the Drachenflitzer with an adult.",
+    "An evening ride on the coaster is a special experience.",
+    "Check opening times beforehand; they vary by season."
+   ],
+   "de": [
+    "Plane einen halben Tag ein; schon der kostenlose Teil macht kleinen Kindern Spaß.",
+    "Kinder von 3 bis 7 Jahren müssen den Drachenflitzer mit einem Erwachsenen fahren.",
+    "Eine Abendfahrt auf dem Coaster ist ein besonderes Erlebnis.",
+    "Erkundige dich vorab nach den Öffnungszeiten; sie wechseln je nach Saison."
+   ]
+  },
+  "practical": {
+   "nl": "Het park ligt in Oberau, ca. 5 tot 10 minuten rijden van Niederau; er is ook openbaar vervoer in het dal.",
+   "en": "The park is in Oberau, roughly 5 to 10 minutes by car from Niederau; there is also public transport in the valley.",
+   "de": "Der Park liegt in Oberau, ca. 5 bis 10 Fahrminuten von Niederau; im Tal gibt es auch öffentliche Verkehrsmittel."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 3 jaar voor de coaster; park voor alle leeftijden",
+    "en": "Coaster from approx. 3 years; park for all ages",
+    "de": "Coaster ab ca. 3 Jahren; Park für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "Approx. 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Parktoegang gratis; attracties apart, informeer naar tarieven",
+    "en": "Park entry free; attractions paid separately, ask for rates",
+    "de": "Parkeintritt frei; Attraktionen extra, Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 tot 10 min rijden",
+    "en": "Approx. 5 to 10 min by car",
+    "de": "Ca. 5 bis 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (hoofdseizoen zomer)",
+    "en": "All year (main season summer)",
+    "de": "Ganzjährig (Hauptsaison Sommer)"
+   }
+  },
+  "location": {
+   "nl": "Oberau",
+   "en": "Oberau",
+   "de": "Oberau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de toegang tot het park gratis?",
+     "en": "Is entry to the park free?",
+     "de": "Ist der Eintritt in den Park kostenlos?"
+    },
+    "a": {
+     "nl": "Ja, het park zelf is gratis; voor de Drachenflitzer en andere attracties betaal je apart.",
+     "en": "Yes, the park itself is free; the Drachenflitzer and other attractions are paid separately.",
+     "de": "Ja, der Park selbst ist frei; für den Drachenflitzer und andere Attraktionen zahlst du extra."
+    }
+   },
+   {
+    "q": {
+     "nl": "Vanaf welke leeftijd mogen kinderen in de Drachenflitzer?",
+     "en": "From what age can children ride the Drachenflitzer?",
+     "de": "Ab welchem Alter dürfen Kinder im Drachenflitzer fahren?"
+    },
+    "a": {
+     "nl": "Van 3 tot 7 jaar samen met een volwassene, vanaf 8 jaar alleen.",
+     "en": "From 3 to 7 years with an adult, from 8 years alone.",
+     "de": "Von 3 bis 7 Jahren mit einem Erwachsenen, ab 8 Jahren allein."
+    }
+   }
+  ]
+ },
+ {
+  "id": "l4",
+  "new": true,
+  "drop": false,
+  "drop_reason": "",
+  "theme": "zwemmen",
+  "season": "summer",
+  "place": "niederau",
+  "verified": true,
+  "slug_nl": "freibad-wildschoenau",
+  "slug_en": "wildschoenau-outdoor-pool",
+  "slug_de": "freischwimmbad-wildschoenau",
+  "title": {
+   "nl": "Freischwimmbad Wildschönau",
+   "en": "Wildschönau Outdoor Pool",
+   "de": "Freischwimmbad Wildschönau"
+  },
+  "tagline": {
+   "nl": "Openluchtbad tussen Niederau en Oberau met grote waterglijbaan",
+   "en": "Outdoor pool between Niederau and Oberau with a big water slide",
+   "de": "Freibad zwischen Niederau und Oberau mit großer Wasserrutsche"
+  },
+  "intro": {
+   "nl": "Het Freischwimmbad Wildschönau ligt tussen Niederau en Oberau en is in de zomer bij goed weer dagelijks open. Er zijn ruim 1.000 m² watervlak, verdeeld over een sportbad, een multifunctioneel bad en een babybad. Een grote waterglijbaan is de blikvanger voor kinderen.\n\nNaast het water is er een ligweide, een beachvolleybalveld, een buffet en een grote speelplaats met zandbak en glijbanen. Dat maakt het bad een makkelijke keuze voor een warme middag met kinderen van verschillende leeftijden. Het ligt ook vlak bij het einde van de Wirbelwindweg en het Bergbauernmuseum, zodat je het goed met een wandeling kunt combineren.",
+   "en": "The Freischwimmbad Wildschönau lies between Niederau and Oberau and is open daily in summer when the weather allows. It offers over 1,000 m² of water, split between a sports pool, a multi-purpose pool and a baby pool. A large water slide is the eye-catcher for children.\n\nBeside the water there is a sunbathing lawn, a beach volleyball court, a buffet and a large playground with sandpit and slides. That makes the pool an easy choice for a warm afternoon with children of different ages. It is also close to the end of the Wirbelwindweg and the Bergbauernmuseum, so it combines well with a walk.",
+   "de": "Das Freischwimmbad Wildschönau liegt zwischen Niederau und Oberau und ist im Sommer bei Schönwetter täglich geöffnet. Es bietet über 1.000 m² Wasserfläche, verteilt auf ein Sportbecken, ein Mehrzweckbecken und ein Babybecken. Eine große Wasserrutsche ist der Blickfang für Kinder.\n\nNeben dem Wasser gibt es eine Liegewiese, einen Beachvolleyballplatz, ein Buffet und einen großen Spielplatz mit Sandkasten und Rutschen. So ist das Bad eine einfache Wahl für einen warmen Nachmittag mit Kindern unterschiedlichen Alters. Es liegt auch nahe am Ende des Wirbelwindwegs und am Bergbauernmuseum und lässt sich daher gut mit einer Wanderung verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Controleer bij twijfelachtig weer of het bad open is; het opent bij goed weer.",
+    "Neem een zonnebrandcrème en iets voor op de ligweide mee.",
+    "Combineer met de Wirbelwindweg en het Bergbauernmuseum.",
+    "Met de Wildschönau Card kun je mogelijk korting of gratis toegang krijgen; informeer ernaar."
+   ],
+   "en": [
+    "Check on uncertain days that the pool is open; it opens in good weather.",
+    "Bring sunscreen and something to sit on for the lawn.",
+    "Combine with the Wirbelwindweg and the Bergbauernmuseum.",
+    "The Wildschönau Card may give a discount or free entry; ask about it."
+   ],
+   "de": [
+    "Prüfe bei unsicherem Wetter, ob das Bad geöffnet ist; es öffnet bei Schönwetter.",
+    "Nimm Sonnencreme und eine Decke für die Liegewiese mit.",
+    "Verbinde den Besuch mit dem Wirbelwindweg und dem Bergbauernmuseum.",
+    "Mit der Wildschönau Card gibt es eventuell Ermäßigung oder freien Eintritt; frag danach."
+   ]
+  },
+  "practical": {
+   "nl": "Het bad ligt tussen Niederau en Oberau, ca. 5 minuten rijden van Niederau. Het is ook te voet bereikbaar via de Wirbelwindweg.",
+   "en": "The pool lies between Niederau and Oberau, about 5 minutes by car from Niederau. It can also be reached on foot via the Wirbelwindweg.",
+   "de": "Das Bad liegt zwischen Niederau und Oberau, ca. 5 Fahrminuten von Niederau. Es ist auch zu Fuß über den Wirbelwindweg erreichbar."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Een halve tot hele dag",
+    "en": "Half a day to a full day",
+    "de": "Ein halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Entree met kindertarief; informeer naar actuele prijzen",
+    "en": "Admission with child rate; ask for current prices",
+    "de": "Eintritt mit Kindertarif; aktuelle Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 min rijden",
+    "en": "Approx. 5 min by car",
+    "de": "Ca. 5 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot september, bij goed weer)",
+    "en": "Summer (approx. May to September, weather permitting)",
+    "de": "Sommer (ca. Mai bis September, bei Schönwetter)"
+   }
+  },
+  "location": {
+   "nl": "Tussen Niederau en Oberau",
+   "en": "Between Niederau and Oberau",
+   "de": "Zwischen Niederau und Oberau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen te doen?",
+     "en": "What is there for children?",
+     "de": "Was gibt es für Kinder?"
+    },
+    "a": {
+     "nl": "Een grote waterglijbaan, een babybad en een speelplaats met zandbak en glijbanen.",
+     "en": "A large water slide, a baby pool and a playground with sandpit and slides.",
+     "de": "Eine große Wasserrutsche, ein Babybecken und einen Spielplatz mit Sandkasten und Rutschen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer is het bad open?",
+     "en": "When is the pool open?",
+     "de": "Wann ist das Bad geöffnet?"
+    },
+    "a": {
+     "nl": "In de zomer, ruwweg van mei tot september, bij goed weer; controleer vooraf de actuele tijden.",
+     "en": "In summer, roughly May to September, weather permitting; check current times beforehand.",
+     "de": "Im Sommer, etwa von Mai bis September, bei Schönwetter; aktuelle Zeiten vorab prüfen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "l5",
+  "new": true,
+  "drop": false,
+  "drop_reason": "",
+  "theme": "wandelen",
+  "season": "summer",
+  "place": "niederau",
+  "verified": true,
+  "slug_nl": "wirbelwindweg",
+  "slug_en": "wirbelwindweg-trail",
+  "slug_de": "wirbelwindweg",
+  "title": {
+   "nl": "Wirbelwindweg",
+   "en": "Wirbelwindweg",
+   "de": "Wirbelwindweg"
+  },
+  "tagline": {
+   "nl": "Gezinswandeling met speelplekken van Niederau naar Oberau",
+   "en": "Family trail with play stops from Niederau to Oberau",
+   "de": "Familienwanderung mit Spielstationen von Niederau nach Oberau"
+  },
+  "intro": {
+   "nl": "De Wirbelwindweg is een themawandeling voor gezinnen boven Niederau en Oberau, grotendeels door schaduwrijk bos. De route is ca. 4,5 km lang, kost ca. 2 uur en is licht, met ca. 200 hoogtemeters. Onderweg zijn zes natuurspeelplekken waar kinderen met speelideeën, via QR-codes, aan de slag gaan tussen bosrand, weiden en beekjes.\n\nDe route begint in Niederau bij de oefenlift Tennladen, tegenover Hotel Harfenwirt, en eindigt bij het Bergbauernmuseum z'Bach in Oberau. Daarna is het openluchtbad nog ca. 5 minuten lopen, handig voor een verfrissing. Door het bos is het een prettige keuze voor warme zomerdagen. Voor kinderwagens is de route niet geschikt.",
+   "en": "The Wirbelwindweg is a themed family walk above Niederau and Oberau, mostly through shady forest. The route is about 4.5 km long, takes around 2 hours and is easy, with roughly 200 metres of climbing. Along the way there are six nature play stops where children get play ideas, via QR codes, between forest edge, meadows and streams.\n\nThe route starts in Niederau at the Tennladen practice lift, opposite Hotel Harfenwirt, and ends at the Bergbauernmuseum z'Bach in Oberau. The outdoor pool is then another 5-minute walk, handy for cooling off. Thanks to the forest it is a pleasant choice for warm summer days. The route is not suitable for pushchairs.",
+   "de": "Der Wirbelwindweg ist eine Themenwanderung für Familien oberhalb von Niederau und Oberau, größtenteils durch schattigen Wald. Die Strecke ist ca. 4,5 km lang, dauert etwa 2 Stunden und ist leicht, mit rund 200 Höhenmetern. Unterwegs gibt es sechs Naturspielstationen, an denen Kinder per QR-Code Spielideen zwischen Waldrand, Wiesen und Bächen bekommen.\n\nDie Route beginnt in Niederau am Übungslift Tennladen, gegenüber dem Hotel Harfenwirt, und endet am Bergbauernmuseum z'Bach in Oberau. Das Freibad ist danach noch ca. 5 Gehminuten entfernt, praktisch zum Abkühlen. Durch den Wald ist er eine angenehme Wahl für warme Sommertage. Für Kinderwagen ist der Weg nicht geeignet."
+  },
+  "tips": {
+   "nl": [
+    "Zorg voor een telefoon met camera om de QR-codes bij de speelplekken te scannen.",
+    "Plan het museum of het bad aan het eind in.",
+    "Draag stevige schoenen; de route is niet geschikt voor kinderwagens.",
+    "Neem water en een snack mee voor de pauzes onderweg."
+   ],
+   "en": [
+    "Bring a phone with a camera to scan the QR codes at the play stops.",
+    "Plan the museum or the pool at the end.",
+    "Wear sturdy shoes; the route is not suitable for pushchairs.",
+    "Bring water and a snack for breaks on the way."
+   ],
+   "de": [
+    "Nimm ein Handy mit Kamera mit, um die QR-Codes an den Spielstationen zu scannen.",
+    "Plane am Ende das Museum oder das Freibad ein.",
+    "Trage feste Schuhe; der Weg ist nicht kinderwagentauglich.",
+    "Nimm Wasser und einen Snack für Pausen unterwegs mit."
+   ]
+  },
+  "practical": {
+   "nl": "De start ligt in Niederau, dus je kunt vanuit je verblijf beginnen. Voor de terugweg van Oberau kun je het dalbusje of de auto nemen.",
+   "en": "The start is in Niederau, so you can begin from where you stay. For the way back from Oberau you can use the valley bus or a car.",
+   "de": "Der Start liegt in Niederau, du kannst also direkt von der Unterkunft aus losgehen. Für den Rückweg von Oberau bieten sich Talbus oder Auto an."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 4 jaar op eigen benen; alle leeftijden",
+    "en": "From approx. 4 years on foot; all ages",
+    "de": "Ab ca. 4 Jahren zu Fuß; alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "Approx. 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 4,5 km; start in Niederau",
+    "en": "Approx. 4.5 km; starts in Niederau",
+    "de": "Ca. 4,5 km; Start in Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Niederau tot Oberau",
+   "en": "Niederau to Oberau",
+   "de": "Niederau bis Oberau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Wirbelwindweg geschikt voor kinderwagens?",
+     "en": "Is the Wirbelwindweg suitable for pushchairs?",
+     "de": "Ist der Wirbelwindweg kinderwagentauglich?"
+    },
+    "a": {
+     "nl": "Nee, de route is niet geschikt voor kinderwagens.",
+     "en": "No, the route is not suitable for pushchairs.",
+     "de": "Nein, der Weg ist nicht kinderwagentauglich."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar begint en eindigt de route?",
+     "en": "Where does the route start and end?",
+     "de": "Wo beginnt und endet der Weg?"
+    },
+    "a": {
+     "nl": "Hij begint in Niederau bij de oefenlift Tennladen en eindigt bij het Bergbauernmuseum z'Bach in Oberau.",
+     "en": "It starts in Niederau at the Tennladen practice lift and ends at the Bergbauernmuseum z'Bach in Oberau.",
+     "de": "Er beginnt in Niederau am Übungslift Tennladen und endet am Bergbauernmuseum z'Bach in Oberau."
+    }
+   }
+  ]
+ },
+ {
+  "id": "l6",
+  "new": true,
+  "drop": false,
+  "drop_reason": "",
+  "theme": "cultuur",
+  "season": "summer",
+  "place": "auffach",
+  "verified": true,
+  "slug_nl": "tiroler-holzmuseum",
+  "slug_en": "tyrolean-wood-museum",
+  "slug_de": "tiroler-holzmuseum",
+  "title": {
+   "nl": "Tiroler Holzmuseum Auffach",
+   "en": "Tyrolean Wood Museum in Auffach",
+   "de": "Tiroler Holzmuseum Auffach"
+  },
+  "tagline": {
+   "nl": "Houtmuseum met doolhof van 39 ruimtes aan de ingang van Auffach",
+   "en": "Wood museum with a maze of 39 rooms at the entrance to Auffach",
+   "de": "Holzmuseum mit Labyrinth aus 39 Räumen am Ortseingang von Auffach"
+  },
+  "intro": {
+   "nl": "Het Tiroler Holzmuseum ligt bij de ingang van Auffach en is opgezet door eigenaar Hubert Salcher. Op meer dan 2.000 m² loop je door een doolhof van 39 ruimtes met ruim 3.000 houten voorwerpen, van geschiedenis van de Wildschönau tot houtsnijkunst.\n\nOnderweg kom je ook grappige en bijzondere stukken tegen, zoals de kleinste trouwkapel van Europa, een boomhut voor kinderen in de stijl van Pumuckl en een expositie over houtworm. Aan het museum is een ca. 1 km lang houtthemapad gekoppeld. Honden zijn niet toegestaan. Kinderen tot 1 meter lengte komen gratis binnen; met de Wildschönau Card is er korting.",
+   "en": "The Tyrolean Wood Museum stands at the entrance to Auffach and was created by its owner Hubert Salcher. Across more than 2,000 m² you walk through a maze of 39 rooms with over 3,000 wooden objects, from the history of the Wildschönau to the art of woodcarving.\n\nAlong the way you also meet funny and unusual pieces, such as Europe's smallest wedding chapel, a Pumuckl-style tree house for children and an exhibition on woodworm. A wood theme trail of about 1 km is linked to the museum. Dogs are not allowed. Children up to 1 metre in height enter free; with the Wildschönau Card there is a discount.",
+   "de": "Das Tiroler Holzmuseum liegt am Ortseingang von Auffach und wurde vom Inhaber Hubert Salcher geschaffen. Auf über 2.000 m² geht man durch ein Labyrinth aus 39 Räumen mit mehr als 3.000 hölzernen Exponaten, von der Geschichte der Wildschönau bis zur Schnitzkunst.\n\nUnterwegs begegnen dir auch witzige und ungewöhnliche Stücke, etwa die kleinste Hochzeitskapelle Europas, ein Baumhaus für Kinder im Pumuckl-Stil und eine Holzwurm-Ausstellung. Ein ca. 1 km langer Holzthemenweg gehört zum Museum. Hunde sind nicht erlaubt. Kinder bis 1 Meter Körpergröße haben freien Eintritt; mit der Wildschönau Card gibt es Ermäßigung."
+  },
+  "tips": {
+   "nl": [
+    "Controleer de openingstijden; in de zomer is het museum niet elke dag open.",
+    "Neem de tijd voor het doolhof; kinderen vinden het leuk om alles te ontdekken.",
+    "Loop ook het houtthemapad van ca. 1 km.",
+    "Honden mogen niet mee naar binnen."
+   ],
+   "en": [
+    "Check the opening times; in summer the museum is not open every day.",
+    "Take your time in the maze; children enjoy discovering everything.",
+    "Also walk the wood theme trail of about 1 km.",
+    "Dogs are not allowed inside."
+   ],
+   "de": [
+    "Prüfe die Öffnungszeiten; im Sommer ist das Museum nicht täglich geöffnet.",
+    "Nimm dir Zeit für das Labyrinth; Kinder entdecken gern alles.",
+    "Geh auch den Holzthemenweg von ca. 1 km.",
+    "Hunde dürfen nicht mit hinein."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 15 minuten rijden van Niederau; het museum staat bij de ingang van het dorp. Buiten de zomer is het alleen voor groepen op aanvraag open.",
+   "en": "Auffach is about 15 minutes by car from Niederau; the museum stands at the entrance to the village. Outside summer it opens only for groups on request.",
+   "de": "Auffach liegt ca. 15 Fahrminuten von Niederau entfernt; das Museum steht am Ortseingang. Außerhalb des Sommers ist es nur für Gruppen auf Anfrage geöffnet."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Kinderen tot 1 m gratis; informeer naar actuele tarieven",
+    "en": "Children up to 1 m free; ask for current rates",
+    "de": "Kinder bis 1 m frei; aktuelle Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 15 min rijden",
+    "en": "Approx. 15 min by car",
+    "de": "Ca. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer; in de winter alleen voor groepen op aanvraag",
+    "en": "Summer; in winter groups only on request",
+    "de": "Sommer; im Winter nur Gruppen auf Anfrage"
+   }
+  },
+  "location": {
+   "nl": "Auffach",
+   "en": "Auffach",
+   "de": "Auffach"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn honden toegestaan?",
+     "en": "Are dogs allowed?",
+     "de": "Sind Hunde erlaubt?"
+    },
+    "a": {
+     "nl": "Nee, honden zijn in het museum niet toegestaan.",
+     "en": "No, dogs are not allowed in the museum.",
+     "de": "Nein, Hunde sind im Museum nicht erlaubt."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is het museum in de winter open?",
+     "en": "Is the museum open in winter?",
+     "de": "Ist das Museum im Winter geöffnet?"
+    },
+    "a": {
+     "nl": "In de winter alleen voor groepen vanaf ca. 15 personen op aanvraag.",
+     "en": "In winter only for groups of about 15 or more on request.",
+     "de": "Im Winter nur für Gruppen ab ca. 15 Personen auf Anfrage."
+    }
+   }
+  ]
+ },
+ {
+  "id": "l7",
+  "new": true,
+  "drop": false,
+  "drop_reason": "",
+  "theme": "wandelen",
+  "season": "summer",
+  "place": "auffach",
+  "verified": true,
+  "slug_nl": "joelspitze",
+  "slug_en": "joelspitze-hike",
+  "slug_de": "joelspitze",
+  "title": {
+   "nl": "Joelspitze",
+   "en": "Joelspitze",
+   "de": "Joelspitze"
+  },
+  "tagline": {
+   "nl": "Bergwandeling vanaf de Schatzberg naar een top van 1.964 m",
+   "en": "Mountain hike from the Schatzberg to a 1,964 m summit",
+   "de": "Bergwanderung vom Schatzberg zum 1.964 m hohen Gipfel"
+  },
+  "intro": {
+   "nl": "De Joelspitze is een top van 1.964 m in de Kitzbüheler Alpen en een middelzware bergtocht. De mooiste variant begint met de Schatzbergbahn in Auffach. Vanaf het bergstation volg je een rustig oplopende kampad en een paar gematigde stijgingen, samen ca. 400 hoogtemeters op en neer.\n\nOnderweg kom je langs alpenweiden en veengebieden, op de rug tussen de Wildschönau en het Alpbachtal. Op de top staat een opvallend Mariabeeld en heb je uitzicht van het Karwendel tot de Kaisergebirge en de Zillertaler Alpen. De tocht is ca. 7,3 km en kost ca. 3 uur; terug loop je via de Gernalm naar het bergstation van de Schatzbergbahn.",
+   "en": "The Joelspitze is a 1,964 m summit in the Kitzbühel Alps and a medium-difficulty mountain hike. The best variant starts with the Schatzberg cable car in Auffach. From the top station you follow a gently rising ridge path and a few moderate climbs, about 400 metres of ascent and descent in total.\n\nOn the way you pass alpine meadows and moorland, on the ridge between the Wildschönau and the Alpbach valley. At the summit stands a striking statue of Mary and you have views from the Karwendel to the Kaisergebirge and the Zillertal Alps. The hike is about 7.3 km and takes around 3 hours; you return via the Gernalm to the top station of the Schatzberg cable car.",
+   "de": "Die Joelspitze ist ein 1.964 m hoher Gipfel in den Kitzbüheler Alpen und eine mittelschwere Bergtour. Die schönste Variante beginnt mit der Schatzbergbahn in Auffach. Von der Bergstation folgst du einem sanft ansteigenden Höhenweg und einigen mäßigen Anstiegen, insgesamt ca. 400 Höhenmeter auf und ab.\n\nUnterwegs kommst du an Almwiesen und Moorlandschaften vorbei, auf dem Kamm zwischen der Wildschönau und dem Alpbachtal. Auf dem Gipfel steht eine auffällige Marienstatue, und du hast Aussicht vom Karwendel bis zum Kaisergebirge und zu den Zillertaler Alpen. Die Tour ist ca. 7,3 km lang und dauert etwa 3 Stunden; zurück geht es über die Gernalm zur Bergstation der Schatzbergbahn."
+  },
+  "tips": {
+   "nl": [
+    "Controleer de bedrijfstijden van de Schatzbergbahn voordat je vertrekt.",
+    "Draag bergschoenen en neem regenkleding mee; het weer kan snel omslaan.",
+    "Plan een pauze bij de Gernalm op de terugweg.",
+    "Kies een heldere dag voor het uitzicht."
+   ],
+   "en": [
+    "Check the Schatzberg cable car's operating times before setting off.",
+    "Wear hiking boots and bring rain gear; the weather can change quickly.",
+    "Plan a break at the Gernalm on the way back.",
+    "Pick a clear day for the views."
+   ],
+   "de": [
+    "Prüfe die Betriebszeiten der Schatzbergbahn, bevor du losgehst.",
+    "Trage Bergschuhe und nimm Regenkleidung mit; das Wetter kann schnell umschlagen.",
+    "Plane auf dem Rückweg eine Pause an der Gernalm ein.",
+    "Wähle einen klaren Tag für die Aussicht."
+   ]
+  },
+  "practical": {
+   "nl": "De Schatzbergbahn begint in Auffach, ca. 15 minuten rijden van Niederau. De route is geschikt voor wandelaars met enige bergervaring; met jonge kinderen alleen als ze een paar uur kunnen lopen.",
+   "en": "The Schatzberg cable car starts in Auffach, about 15 minutes by car from Niederau. The route suits walkers with some mountain experience; with young children only if they can walk for a few hours.",
+   "de": "Die Schatzbergbahn startet in Auffach, ca. 15 Fahrminuten von Niederau. Die Route eignet sich für Wanderer mit etwas Bergerfahrung; mit kleinen Kindern nur, wenn sie einige Stunden gehen können."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar met bergervaring",
+    "en": "From approx. 8 years with some mountain experience",
+    "de": "Ab ca. 8 Jahren mit Bergerfahrung"
+   },
+   "duration": {
+    "nl": "Ca. 3 uur",
+    "en": "Approx. 3 hours",
+    "de": "Ca. 3 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen gratis; kosten voor de Schatzbergbahn apart",
+    "en": "Hiking free; Schatzberg cable car costs extra",
+    "de": "Wandern kostenlos; Schatzbergbahn kostet extra"
+   },
+   "distance": {
+    "nl": "Ca. 15 min rijden naar Auffach; ca. 7,3 km route",
+    "en": "Approx. 15 min by car to Auffach; route approx. 7.3 km",
+    "de": "Ca. 15 Min. Fahrt nach Auffach; Route ca. 7,3 km"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Schatzberg",
+   "en": "Auffach, Schatzberg",
+   "de": "Auffach, Schatzberg"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog is de Joelspitze?",
+     "en": "How high is the Joelspitze?",
+     "de": "Wie hoch ist die Joelspitze?"
+    },
+    "a": {
+     "nl": "De top ligt op 1.964 m; vanaf het bergstation van de Schatzbergbahn ca. 400 hoogtemeters op en neer.",
+     "en": "The summit is at 1,964 m; from the top station of the Schatzberg cable car it is about 400 metres of ascent and descent.",
+     "de": "Der Gipfel liegt auf 1.964 m; von der Bergstation der Schatzbergbahn sind es ca. 400 Höhenmeter auf und ab."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang duurt de tocht?",
+     "en": "How long does the hike take?",
+     "de": "Wie lange dauert die Tour?"
+    },
+    "a": {
+     "nl": "Ca. 3 uur voor ca. 7,3 km, inclusief de terugweg via de Gernalm.",
+     "en": "About 3 hours for approx. 7.3 km, including the return via the Gernalm.",
+     "de": "Ca. 3 Stunden für ca. 7,3 km, inklusive Rückweg über die Gernalm."
+    }
+   }
+  ]
+ }
+]
