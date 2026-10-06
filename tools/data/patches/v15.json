@@ -1,0 +1,1424 @@
+[
+ {
+  "id": "s40",
+  "drop": true,
+  "drop_reason": "Geen bevestiging van een boomklimaanbod in of bij Niederau.",
+  "verified": false,
+  "place": "niederau",
+  "slug_en": "tree-climbing-niederau",
+  "slug_de": "baumklettern-niederau",
+  "title": {
+   "nl": "Boomklimmen bij Niederau",
+   "en": "Tree climbing near Niederau",
+   "de": "Baumklettern bei Niederau"
+  },
+  "tagline": {
+   "nl": "Onder begeleiding in de top van een spar",
+   "en": "Guided climbing into the top of a spruce",
+   "de": "Mit Begleitung in den Wipfel einer Fichte"
+  },
+  "intro": {
+   "nl": "Bij boomklimmen klim je met harnas en veiligheidstouw omhoog in een echte boom, onder begeleiding van iemand die de techniek kent. Kinderen komen zo een flink stuk boven de grond en zien het bos van bovenaf. Volgens de bron is dat een aantal meter hoog.\n\nHet is een activiteit voor kinderen vanaf ca. 6 jaar. Draag stevige schoenen en een lange broek tegen de schors. Of en wanneer dit in Niederau wordt aangeboden, is hier niet bevestigd; vraag het bij de toeristische dienst. In de Wildschönau is er ook een bekend hoogteparcours (Zauberwinkl), dat een alternatief kan zijn.",
+   "en": "In tree climbing you climb a real tree using a harness and safety rope, guided by someone who knows the technique. Children get well off the ground and see the forest from above. According to the source that is several metres high.\n\nIt is an activity for children from about 6. Wear sturdy shoes and long trousers against the bark. Whether and when this is offered in Niederau has not been confirmed; ask the tourist office. The Wildschönau also has a known high ropes course (Zauberwinkl), which may be an alternative.",
+   "de": "Beim Baumklettern steigt man mit Gurt und Sicherungsseil in einen echten Baum, begleitet von jemandem, der die Technik kennt. Kinder kommen so weit vom Boden weg und sehen den Wald von oben. Laut Quelle sind das mehrere Meter Höhe.\n\nEs ist eine Aktivität für Kinder ab ca. 6 Jahren. Feste Schuhe und eine lange Hose gegen die Rinde tragen. Ob und wann das in Niederau angeboten wird, ist nicht bestätigt; beim Tourismusverband nachfragen. In der Wildschönau gibt es zudem einen bekannten Hochseilgarten (Zauberwinkl), der eine Alternative sein kann."
+  },
+  "tips": {
+   "nl": [
+    "Draag stevige schoenen en een lange broek.",
+    "Meld je vooraf aan.",
+    "Kinderen onder begeleiding; vraag naar groepsgrootte."
+   ],
+   "en": [
+    "Wear sturdy shoes and long trousers.",
+    "Register in advance.",
+    "Children are supervised; ask about group size."
+   ],
+   "de": [
+    "Feste Schuhe und lange Hose tragen.",
+    "Vorab anmelden.",
+    "Kinder werden begleitet; nach der Gruppengröße fragen."
+   ]
+  },
+  "practical": {
+   "nl": "De plek ligt volgens de bron op ca. 15 minuten lopen van Niederau; vraag naar het verzamelpunt.",
+   "en": "According to the source the spot is about a 15-minute walk from Niederau; ask about the meeting point.",
+   "de": "Laut Quelle liegt der Ort ca. 15 Gehminuten von Niederau; nach dem Treffpunkt fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From about 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Bossen bij Niederau",
+   "en": "Woods near Niederau",
+   "de": "Wälder bei Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het veilig voor kinderen?",
+     "en": "Is it safe for children?",
+     "de": "Ist es für Kinder sicher?"
+    },
+    "a": {
+     "nl": "Met harnas, veiligheidstouw en begeleiding wel; vraag naar de regels.",
+     "en": "With harness, safety rope and supervision, yes; ask about the rules.",
+     "de": "Mit Gurt, Sicherungsseil und Begleitung ja; nach den Regeln fragen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s43",
+  "drop": true,
+  "drop_reason": "Geen bevestigde aanbieder van kajakles op de Inn bij Wörgl gevonden.",
+  "verified": false,
+  "place": "woergl",
+  "slug_en": "kayaking-inn-woergl",
+  "slug_de": "kajak-inn-woergl",
+  "title": {
+   "nl": "Kajakken op de Inn bij Wörgl",
+   "en": "Kayaking on the Inn near Wörgl",
+   "de": "Kajak auf dem Inn bei Wörgl"
+  },
+  "tagline": {
+   "nl": "Beginnen met kajakken op rustig rivierwater",
+   "en": "Starting kayaking on calm river water",
+   "de": "Kajak-Einstieg auf ruhigem Flusswasser"
+  },
+  "intro": {
+   "nl": "De Inn stroomt door Wörgl en is op rustigere stukken breed en geschikt voor een eerste kennismaking met kajakken. Onder begeleiding leer je de pagaai te hanteren, te sturen en met stroming om te gaan. Reddingsvest en helm worden gewoonlijk verstrekt.\n\nHet is een activiteit voor kinderen vanaf ca. 10 jaar en volwassenen. Je wordt nat, dus kleed je daarop en bewaar waardevolle spullen in een waterdichte zak. Welke aanbieder in Wörgl les geeft, is hier niet bevestigd; vraag het bij de toeristische dienst of een kanoclub in de buurt.",
+   "en": "The Inn flows through Wörgl and on calmer stretches is wide and suitable for a first taste of kayaking. With guidance you learn to handle the paddle, steer and deal with current. A life jacket and helmet are usually provided.\n\nIt is an activity for children from about 10 and adults. You will get wet, so dress for it and keep valuables in a waterproof bag. Which provider gives lessons in Wörgl has not been confirmed; ask the tourist office or a nearby canoe club.",
+   "de": "Der Inn fließt durch Wörgl und ist auf ruhigeren Abschnitten breit und für ein erstes Kennenlernen des Kajaks geeignet. Unter Anleitung lernt man, das Paddel zu führen, zu steuern und mit Strömung umzugehen. Schwimmweste und Helm werden meist gestellt.\n\nEs ist eine Aktivität für Kinder ab ca. 10 Jahren und Erwachsene. Man wird nass, daher entsprechend kleiden und Wertsachen in einem wasserdichten Sack aufbewahren. Welcher Anbieter in Wörgl Kurse gibt, ist nicht bestätigt; beim Tourismusbüro oder einem Kanuclub in der Nähe nachfragen."
+  },
+  "tips": {
+   "nl": [
+    "Neem droge kleding mee.",
+    "Gebruik een waterdichte zak voor spullen.",
+    "Vraag naar zwemvaardigheid en leeftijdsgrens."
+   ],
+   "en": [
+    "Bring dry clothes.",
+    "Use a waterproof bag for belongings.",
+    "Ask about swimming ability and age limit."
+   ],
+   "de": [
+    "Trockene Kleidung mitbringen.",
+    "Wasserdichten Sack für Sachen nutzen.",
+    "Nach Schwimmfähigkeit und Altersgrenze fragen."
+   ]
+  },
+  "practical": {
+   "nl": "Wörgl ligt ca. 25 minuten rijden van Niederau. Informeer naar de aanbieder en het startpunt.",
+   "en": "Wörgl is about 25 minutes by car from Niederau. Ask about the provider and starting point.",
+   "de": "Wörgl liegt ca. 25 Autominuten von Niederau entfernt. Anbieter und Startpunkt erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 10 jaar",
+    "en": "From about 10 years",
+    "de": "Ab ca. 10 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2-3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "About 25 minutes by car",
+    "de": "Ca. 25 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wörgl, Inn",
+   "en": "Wörgl, River Inn",
+   "de": "Wörgl, Inn"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het veilig voor beginners?",
+     "en": "Is it safe for beginners?",
+     "de": "Ist es für Anfänger sicher?"
+    },
+    "a": {
+     "nl": "Met begeleiding en veiligheidsmateriaal op rustige stukken wel; vraag naar de details.",
+     "en": "With guidance and safety gear on calm stretches, yes; ask for details.",
+     "de": "Mit Begleitung und Sicherheitsausrüstung auf ruhigen Abschnitten ja; Details erfragen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s7",
+  "drop": true,
+  "drop_reason": "Geen 3D-boogparcours in de Wildschönau bevestigd.",
+  "verified": false,
+  "place": "niederau",
+  "slug_en": "3d-archery-wildschoenau",
+  "slug_de": "3d-bogenschiessen-wildschoenau",
+  "title": {
+   "nl": "3D-boogschieten Wildschönau",
+   "en": "3D archery Wildschönau",
+   "de": "3D-Bogenschießen Wildschönau"
+  },
+  "tagline": {
+   "nl": "Als Robin Hood door het bos",
+   "en": "Like Robin Hood through the woods",
+   "de": "Wie Robin Hood durch den Wald"
+  },
+  "intro": {
+   "nl": "Bij 3D-boogschieten loop je een parcours door het bos met doelen in de vorm van dieren, zoals een everzwijn of hert. Op elk punt schiet je vanaf een vaste plek op het doel. Zo oefenen kinderen focus, rust en beheersing, en volwassenen blijken het vaak verrassend leuk te vinden.\n\nVolgens de bron ligt een parcours van ca. 1,5 km in de Wildschönau en worden boog en pijlen verstrekt. Of dat parcours er is en wie het beheert, is niet bevestigd; informeer bij de toeristische dienst. Voor kinderen zijn lichtere bogen gebruikelijk, vanaf ca. 8 jaar. Een familiecompetitie maakt het extra gezellig.",
+   "en": "3D archery means walking a course through the woods with targets shaped like animals such as a wild boar or deer. At each point you shoot at the target from a fixed spot. Children practise focus, calm and control, and adults often find it surprisingly fun.\n\nAccording to the source there is a course of about 1.5 km in the Wildschönau, with bow and arrows provided. Whether that course exists and who runs it has not been confirmed; ask the tourist office. Lighter bows are usual for children, from about 8. A family competition adds to the fun.",
+   "de": "Beim 3D-Bogenschießen geht man einen Parcours durch den Wald mit Zielen in Tierform, etwa Wildschwein oder Hirsch. An jeder Station schießt man von einem festen Platz auf das Ziel. Kinder üben Fokus, Ruhe und Beherrschung, und Erwachsene finden es oft überraschend unterhaltsam.\n\nLaut Quelle gibt es in der Wildschönau einen Parcours von ca. 1,5 km, Bogen und Pfeile werden gestellt. Ob es diesen Parcours gibt und wer ihn betreibt, ist nicht bestätigt; beim Tourismusbüro nachfragen. Für Kinder sind leichtere Bögen üblich, ab ca. 8 Jahren. Ein Familienwettbewerb macht es noch lustiger."
+  },
+  "tips": {
+   "nl": [
+    "Meld je vooraf aan.",
+    "Draag stevige schoenen en kleding voor het bos.",
+    "Doe een familiecompetitie voor extra plezier."
+   ],
+   "en": [
+    "Register in advance.",
+    "Wear sturdy shoes and clothes for the woods.",
+    "Hold a family competition for extra fun."
+   ],
+   "de": [
+    "Vorab anmelden.",
+    "Feste Schuhe und Waldkleidung tragen.",
+    "Einen Familienwettbewerb veranstalten."
+   ]
+  },
+  "practical": {
+   "nl": "Volgens de bron in de Wildschönau; vraag naar het verzamelpunt.",
+   "en": "According to the source in the Wildschönau; ask about the meeting point.",
+   "de": "Laut Quelle in der Wildschönau; nach dem Treffpunkt fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From about 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In de Wildschönau (ca. 5-15 min)",
+    "en": "In the Wildschönau (about 5 to 15 min)",
+    "de": "In der Wildschönau (ca. 5 bis 15 Min.)"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is ervaring nodig?",
+     "en": "Is experience needed?",
+     "de": "Ist Erfahrung nötig?"
+    },
+    "a": {
+     "nl": "Nee, beginners kunnen meedoen; je krijgt materiaal en uitleg.",
+     "en": "No, beginners can take part; you get equipment and instruction.",
+     "de": "Nein, Anfänger können teilnehmen; Material und Einweisung gibt es dazu."
+    }
+   }
+  ]
+ },
+ {
+  "id": "w12",
+  "drop": true,
+  "drop_reason": "Geen begeleide sterrentocht in de Wildschönau bevestigd.",
+  "verified": false,
+  "place": "niederau",
+  "slug_en": "stargazing-niederau",
+  "slug_de": "sterne-beobachten-niederau",
+  "title": {
+   "nl": "Sterren kijken in de bergen",
+   "en": "Stargazing in the mountains",
+   "de": "Sterne beobachten in den Bergen"
+  },
+  "tagline": {
+   "nl": "De winterse sterrenhemel boven de Wildschönau",
+   "en": "The winter night sky above the Wildschönau",
+   "de": "Der winterliche Sternenhimmel über der Wildschönau"
+  },
+  "intro": {
+   "nl": "Boven een bergdal, ver van stadslicht, is de nachthemel in de winter vaak heel helder. Op een heldere nacht zie je met het blote oog sterrenbeelden als de Grote Beer en Orion, en soms planeten. Kinderen vinden dit meestal indrukwekkend.\n\nVolgens de bron is er een begeleide avondtocht op ca. 1.500 meter met een gids en telescoop, die je met de lift bereikt. Of zo'n aanbod er is, is niet bevestigd; vraag bij de toeristische dienst of je hotel. Je kunt ook zelf even buiten het dorp naar de hemel kijken. Kies een nacht zonder maan en zonder wolken, en kleed je extra warm, want stilstaan in de kou valt zwaar.",
+   "en": "Above a mountain valley, far from city lights, the night sky in winter is often very clear. On a clear night you can see constellations such as the Great Bear and Orion with the naked eye, and sometimes planets. Children usually find it impressive.\n\nAccording to the source there is a guided evening trip at about 1,500 metres with a guide and telescope, reached by lift. Whether such an offer exists has not been confirmed; ask the tourist office or your hotel. You can also look at the sky yourself just outside the village. Pick a night without moon or cloud and dress extra warmly, because standing still in the cold is tough.",
+   "de": "Über einem Bergtal, weit weg vom Stadtlicht, ist der Nachthimmel im Winter oft sehr klar. In einer klaren Nacht sieht man mit bloßem Auge Sternbilder wie den Großen Wagen und Orion, manchmal auch Planeten. Kinder finden das meist beeindruckend.\n\nLaut Quelle gibt es eine geführte Abendtour auf ca. 1.500 Metern mit Guide und Teleskop, erreichbar mit dem Lift. Ob es ein solches Angebot gibt, ist nicht bestätigt; beim Tourismusbüro oder im Hotel nachfragen. Man kann den Himmel auch selbst kurz außerhalb des Ortes betrachten. Eine mondlose, wolkenfreie Nacht wählen und sich extra warm anziehen, denn Stillstehen in der Kälte ist anstrengend."
+  },
+  "tips": {
+   "nl": [
+    "Kies een heldere nacht zonder maan.",
+    "Kleed je extra warm, ook mutsen en handschoenen.",
+    "Neem een verrekijker of zaklamp met rood licht mee."
+   ],
+   "en": [
+    "Choose a clear, moonless night.",
+    "Dress extra warmly, including hat and gloves.",
+    "Bring binoculars or a red-light torch."
+   ],
+   "de": [
+    "Eine klare, mondlose Nacht wählen.",
+    "Extra warm anziehen, auch Mütze und Handschuhe.",
+    "Fernglas oder Taschenlampe mit Rotlicht mitnehmen."
+   ]
+  },
+  "practical": {
+   "nl": "Het uitgangspunt ligt in of bij Niederau; vraag naar het ophaalpunt en de liftdienst.",
+   "en": "The starting point is in or near Niederau; ask about the pick-up point and lift service.",
+   "de": "Der Ausgangspunkt liegt in oder bei Niederau; nach Abholpunkt und Liftbetrieb fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5-2 uur",
+    "en": "About 1.5 to 2 hours",
+    "de": "Ca. 1,5 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe laat begint een sterrentocht?",
+     "en": "When does a stargazing trip start?",
+     "de": "Wann beginnt eine Sternentour?"
+    },
+    "a": {
+     "nl": "Na het donker worden; vraag het tijdstip bij de aanbieder.",
+     "en": "After dark; ask the provider for the time.",
+     "de": "Nach Einbruch der Dunkelheit; die Zeit beim Anbieter erfragen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "w29",
+  "drop": true,
+  "drop_reason": "Geen georganiseerde winterzonsopgang met ontbijt bevestigd (alleen ontbijt op de Norderberg Alm gevonden).",
+  "verified": false,
+  "place": "niederau",
+  "slug_en": "winter-sunrise-breakfast",
+  "slug_de": "winter-sonnenaufgang-fruehstueck",
+  "title": {
+   "nl": "Winterzonsopgang met ontbijt",
+   "en": "Winter sunrise with breakfast",
+   "de": "Wintersonnenaufgang mit Frühstück"
+  },
+  "tagline": {
+   "nl": "De bergen kleuren bij zonsopkomst",
+   "en": "The mountains turn colour at sunrise",
+   "de": "Die Berge färben sich beim Sonnenaufgang"
+  },
+  "intro": {
+   "nl": "Een vroege uitstap in de winter beloont je met kleuren die de meeste vakantiegangers nooit zien: roze, goud en paars boven de bergtoppen. Volgens de bron ga je vroeg, met de gondel omhoog en een korte wandeling naar een uitkijkpunt, met een ontbijtmand en warme drank.\n\nOf zo'n georganiseerde tocht bestaat, is niet bevestigd; vraag bij je hotel of de toeristische dienst. De zonsopgang valt in januari ruim na 7:30 uur en in maart rond 6:15 uur (ca.). Neem een zaklamp mee en kleed je heel warm; stilstaan in de ochtendkou is koud. Voor kinderen is dit een bijzondere herinnering.",
+   "en": "An early winter outing rewards you with colours most holidaymakers never see: pink, gold and purple above the peaks. According to the source you set off early, take the gondola up and walk a short way to a viewpoint, with a breakfast basket and a hot drink.\n\nWhether such an organised trip exists has not been confirmed; ask your hotel or the tourist office. Sunrise is well after 7:30 in January and around 6:15 in March (approx.). Bring a torch and dress very warmly; standing still in the morning cold is chilly. For children it is a special memory.",
+   "de": "Ein früher Ausflug im Winter belohnt mit Farben, die die meisten Urlauber nie sehen: Rosa, Gold und Violett über den Gipfeln. Laut Quelle bricht man früh auf, fährt mit der Gondel hinauf und geht kurz zu einem Aussichtspunkt, mit Frühstückskorb und warmem Getränk.\n\nOb es eine solche organisierte Tour gibt, ist nicht bestätigt; im Hotel oder beim Tourismusbüro nachfragen. Der Sonnenaufgang liegt im Januar deutlich nach 7:30 Uhr und im März gegen 6:15 Uhr (ca.). Eine Taschenlampe mitnehmen und sich sehr warm anziehen; Stillstehen in der Morgenkälte ist kalt. Für Kinder eine besondere Erinnerung."
+  },
+  "tips": {
+   "nl": [
+    "Neem een zaklamp mee.",
+    "Kleed je in lagen en met een dikke jas.",
+    "Controleer de zonsopkomsttijd van die dag."
+   ],
+   "en": [
+    "Bring a torch.",
+    "Dress in layers with a thick jacket.",
+    "Check that day's sunrise time."
+   ],
+   "de": [
+    "Taschenlampe mitnehmen.",
+    "Zwiebellook mit dicker Jacke.",
+    "Die Sonnenaufgangszeit des Tages prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "Vertrek volgens de bron vanuit Niederau met de gondel; vraag bij je hotel naar boeken en tijden.",
+   "en": "According to the source the trip leaves from Niederau by gondola; ask your hotel about booking and times.",
+   "de": "Laut Quelle startet die Tour in Niederau mit der Gondel; im Hotel nach Buchung und Zeiten fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2-3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Niederauer Alm",
+   "en": "Niederau, Niederauer Alm",
+   "de": "Niederau, Niederauer Alm"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe vroeg moet je op?",
+     "en": "How early do you have to get up?",
+     "de": "Wie früh muss man aufstehen?"
+    },
+    "a": {
+     "nl": "Reken op vertrek rond zes tot half zeven in de ochtend; vraag het exacte tijdstip.",
+     "en": "Expect to leave around six to half past six in the morning; ask the exact time.",
+     "de": "Mit Abfahrt gegen sechs bis halb sieben morgens rechnen; die genaue Zeit erfragen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "w36",
+  "drop": true,
+  "drop_reason": "Geen snowcat-meerit op de Schatzberg bevestigd.",
+  "verified": false,
+  "place": "auffach",
+  "slug_en": "snowcat-ride-schatzberg",
+  "slug_de": "pistenraupe-mitfahrt-schatzberg",
+  "title": {
+   "nl": "Snowcat-rit op de Schatzberg",
+   "en": "Snowcat ride on the Schatzberg",
+   "de": "Pistenraupen-Mitfahrt am Schatzberg"
+  },
+  "tagline": {
+   "nl": "Mee in de pistemachine door de avondsneeuw",
+   "en": "Riding in the piste groomer through evening snow",
+   "de": "Mit der Pistenraupe durch den Abendschnee"
+  },
+  "intro": {
+   "nl": "Een snowcat is de grote rupsvoertuig waarmee de pistes in de avond worden gladgestreken. Bij sommige skigebieden kun je als gast meerijden, onder begeleiding en meestal tegen betaling. Kinderen vinden zo'n machine meestal onweerstaanbaar, en de rit door de besneeuwde bergen in het donker is bijzonder.\n\nVolgens de bron vertrekt de rit bij de Schatzberg in Auffach, in de avond, voor ca. een uur, met bovenaan een warm drankje. Of dit aangeboden wordt, is niet bevestigd. Het aantal plaatsen is meestal beperkt, dus reserveer vooraf en vraag naar leeftijd en voorwaarden.",
+   "en": "A snowcat is the large tracked vehicle used to groom the pistes in the evening. At some ski areas guests can ride along, under supervision and usually for a fee. Children generally find such a machine irresistible, and a ride through the snowy mountains in the dark is special.\n\nAccording to the source the ride starts at the Schatzberg in Auffach in the evening, lasts about an hour and includes a hot drink at the top. Whether this is offered has not been confirmed. Places are usually limited, so book ahead and ask about age and conditions.",
+   "de": "Eine Pistenraupe ist das große Kettenfahrzeug, mit dem abends die Pisten präpariert werden. In manchen Skigebieten können Gäste mitfahren, unter Aufsicht und meist gegen Gebühr. Kinder finden so eine Maschine meist unwiderstehlich, und die Fahrt durch die verschneiten Berge im Dunkeln ist besonders.\n\nLaut Quelle startet die Fahrt am Schatzberg in Auffach am Abend, dauert etwa eine Stunde und bietet oben ein warmes Getränk. Ob das angeboten wird, ist nicht bestätigt. Die Plätze sind meist begrenzt, daher vorab reservieren und nach Alter und Bedingungen fragen."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer ruim vooraf.",
+    "Kleed je erg warm.",
+    "Vraag naar de leeftijdsgrens."
+   ],
+   "en": [
+    "Book well ahead.",
+    "Dress very warmly.",
+    "Ask about the age limit."
+   ],
+   "de": [
+    "Rechtzeitig reservieren.",
+    "Sehr warm anziehen.",
+    "Nach der Altersgrenze fragen."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 10-15 minuten rijden van Niederau. Informeer naar het vertrekpunt en de avondvervoer.",
+   "en": "Auffach is about 10 to 15 minutes by car from Niederau. Ask about the departure point and evening transport.",
+   "de": "Auffach liegt ca. 10 bis 15 Autominuten von Niederau entfernt. Abfahrtsort und Abendtransport erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Informeer naar leeftijdsgrens",
+    "en": "Ask about the age limit",
+    "de": "Altersgrenze erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 12 min rijden",
+    "en": "About 12 minutes by car",
+    "de": "Ca. 12 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Winter, 's avonds",
+    "en": "Winter, evenings",
+    "de": "Winter, abends"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Schatzberg",
+   "en": "Auffach, Schatzberg",
+   "de": "Auffach, Schatzberg"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer rijdt de snowcat mee?",
+     "en": "When does the snowcat ride take place?",
+     "de": "Wann findet die Mitfahrt statt?"
+    },
+    "a": {
+     "nl": "Volgens de bron 's avonds; bevestig dag en tijd bij de aanbieder.",
+     "en": "According to the source in the evening; confirm day and time with the provider.",
+     "de": "Laut Quelle abends; Tag und Zeit beim Anbieter bestätigen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "w8",
+  "drop": true,
+  "drop_reason": "Geen huskytocht-aanbieder in de Wildschönau bevestigd.",
+  "place": "niederau",
+  "slug_en": "husky-sled-ride-wildschoenau",
+  "slug_de": "huskytour-wildschoenau",
+  "title": {
+   "nl": "Husky-sledetocht",
+   "en": "Husky sled ride",
+   "de": "Huskytour mit Hundeschlitten"
+  },
+  "tagline": {
+   "nl": "Met een span husky's door het winterlandschap",
+   "en": "Through the winter landscape behind a team of huskies",
+   "de": "Mit einem Husky-Gespann durch die Winterlandschaft"
+  },
+  "intro": {
+   "nl": "Een tocht met een hondenslee is een bijzondere wintervaring voor het hele gezin. Een span husky's trekt de slee door besneeuwde bossen en over open velden, terwijl een ervaren musher de leiding heeft. De honden zijn doorgaans vriendelijk en geven je vaak de gelegenheid ze even te aaien.\n\nVoor tochten in of nabij de Wildschönau geldt: de aanbieders en hun aanbod wisselen. Vraag bij het toeristenbureau of je hotel welke aanbieder er dit seizoen is, wat de tocht kost en vanaf welke leeftijd kinderen mee mogen. Reken op ca. anderhalf uur voor een hele tocht, inclusief uitleg en een warm drankje na afloop.",
+   "en": "A dog sled ride is a special winter experience for the whole family. A team of huskies pulls the sled through snowy forest and over open fields while an experienced musher is in charge. The dogs are generally friendly and you can often pet them for a moment.\n\nFor rides in or near the Wildschönau, operators and offers change. Ask the tourist office or your hotel which operator is active this season, what the ride costs and from what age children may join. Allow roughly an hour and a half for a full ride, including an introduction and a warm drink afterwards.",
+   "de": "Eine Fahrt mit dem Hundeschlitten ist ein besonderes Winterlebnis für die ganze Familie. Ein Gespann Huskys zieht den Schlitten durch verschneite Wälder und über offene Felder, während ein erfahrener Musher die Leitung hat. Die Hunde sind in der Regel freundlich, und oft darf man sie kurz streicheln.\n\nBei Touren in oder bei der Wildschönau wechseln Anbieter und Angebot. Frag beim Tourismusbüro oder in deinem Hotel, welcher Anbieter in dieser Saison aktiv ist, was die Tour kostet und ab welchem Alter Kinder mitfahren dürfen. Rechne für eine ganze Tour mit ca. anderthalb Stunden inklusive Einweisung und einem warmen Getränk danach."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vroeg; dit is een populaire winteractiviteit.",
+    "Kleed je warm, met handschoenen en een muts.",
+    "Vraag vooraf naar de minimumleeftijd.",
+    "Houd je telefoon in je zak en geniet van het moment."
+   ],
+   "en": [
+    "Book early; this is a popular winter activity.",
+    "Dress warmly, with gloves and a hat.",
+    "Ask about the minimum age beforehand.",
+    "Keep your phone in your pocket and enjoy the moment."
+   ],
+   "de": [
+    "Buche früh; das ist eine beliebte Winteraktivität.",
+    "Zieh dich warm an, mit Handschuhen und Mütze.",
+    "Frag vorab nach dem Mindestalter.",
+    "Lass das Handy in der Tasche und genieße den Moment."
+   ]
+  },
+  "practical": {
+   "nl": "Het vertrekpunt hangt af van de aanbieder en ligt in of bij de Wildschönau, ca. 10 tot 25 minuten rijden van Niederau. Boek vooraf via het toeristenbureau of je hotel.",
+   "en": "The starting point depends on the operator and lies in or near the Wildschönau, roughly 10 to 25 minutes by car from Niederau. Book ahead via the tourist office or your hotel.",
+   "de": "Der Startpunkt hängt vom Anbieter ab und liegt in oder bei der Wildschönau, ca. 10 bis 25 Fahrminuten von Niederau entfernt. Buche vorab über das Tourismusbüro oder dein Hotel."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 10–25 min rijden",
+    "en": "Approx. 10–25 min by car",
+    "de": "Ca. 10–25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Omgeving Wildschönau",
+   "en": "Wildschönau area",
+   "de": "Raum Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Mogen kinderen mee op een husky-tocht?",
+     "en": "Can children join a husky ride?",
+     "de": "Dürfen Kinder bei einer Huskytour mitfahren?"
+    },
+    "a": {
+     "nl": "Meestal wel, maar de minimumleeftijd verschilt per aanbieder; vraag dat bij het boeken.",
+     "en": "Usually yes, but the minimum age differs by operator; ask when booking.",
+     "de": "Meist ja, das Mindestalter unterscheidet sich aber je nach Anbieter; frag beim Buchen nach."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s103",
+  "drop": true,
+  "drop_reason": "Geen meehooi-aanbod in de Wildschönau bevestigd.",
+  "place": "niederau",
+  "slug_en": "hay-making-wildschoenau-alps",
+  "slug_de": "heuen-auf-der-alm-wildschoenau",
+  "title": {
+   "nl": "Hooien op de Tiroler alm",
+   "en": "Hay-making on a Tyrolean alp",
+   "de": "Heuen auf der Tiroler Alm"
+  },
+  "tagline": {
+   "nl": "Oud boerenambacht beleven op de steile weiden",
+   "en": "Experience an old farming craft on steep meadows",
+   "de": "Altes Bauernhandwerk auf steilen Wiesen erleben"
+  },
+  "intro": {
+   "nl": "In de zomer maaien bergboeren in Tirol hun steile weiden, op sommige plekken nog met de hand. Als bezoeker kun je soms meehelpen of meekijken, wat een goed beeld geeft van het harde werk dat achter het landschap zit. Het uitzicht over het dal maakt het extra bijzonder.\n\nBedenk dat meehooien geen vast programma is: het hangt af van de boer, het weer en het moment van de oogst, meestal rond juli en augustus. Vraag via het toeristenbureau of je gastheer of een boer iemand meer kan vertellen of je kunt aansluiten. Na afloop is een kop thee of een Brettljause op de boerderij een vaste traditie, maar reken daar niet op zonder dit af te spreken.",
+   "en": "In summer, mountain farmers in Tyrol mow their steep meadows, in some places still by hand. As a visitor you can sometimes help or watch, which gives a good idea of the hard work behind the landscape. The view over the valley makes it extra special.\n\nKeep in mind that joining in is not a fixed programme: it depends on the farmer, the weather and the timing of the harvest, usually around July and August. Ask the tourist office or your host whether a farmer can tell you more or whether you can join. A cup of tea or a Brettljause at the farm afterwards is a tradition, but do not count on it without agreeing it first.",
+   "de": "Im Sommer mähen Bergbauern in Tirol ihre steilen Wiesen, an manchen Stellen noch von Hand. Als Besucher kannst du manchmal mithelfen oder zuschauen, was einen guten Eindruck von der harten Arbeit hinter der Landschaft vermittelt. Die Aussicht über das Tal macht es besonders.\n\nBedenke, dass Mithelfen kein festes Programm ist: Es hängt vom Bauern, vom Wetter und vom Zeitpunkt der Ernte ab, meist rund um Juli und August. Frag beim Tourismusbüro oder bei deinen Gastgebern, ob ein Bauer mehr erzählen kann oder ob du dich anschließen darfst. Eine Tasse Tee oder eine Brettljause auf dem Hof danach ist Tradition, aber verlass dich nicht darauf, ohne es vorher abzusprechen."
+  },
+  "tips": {
+   "nl": [
+    "Draag stevige schoenen en kleding die vuil mag worden.",
+    "Maak vooraf een afspraak; spring niet zomaar een boerderij op.",
+    "Neem water en zonnebrandcrème mee.",
+    "Houd rekening met weersomslag; hooien gebeurt bij droog weer."
+   ],
+   "en": [
+    "Wear sturdy shoes and clothes that can get dirty.",
+    "Arrange it in advance; do not simply walk onto a farm.",
+    "Bring water and sun cream.",
+    "Allow for weather changes; hay-making happens in dry weather."
+   ],
+   "de": [
+    "Trage feste Schuhe und Kleidung, die schmutzig werden darf.",
+    "Sprich es vorab ab; betritt nicht einfach einen Hof.",
+    "Nimm Wasser und Sonnencreme mit.",
+    "Rechne mit Wetterumschwüngen; geheut wird bei trockenem Wetter."
+   ]
+  },
+  "practical": {
+   "nl": "De weiden liggen op de hellingen boven het dal; soms ga je met een lift omhoog en loop je de laatste stukken. Informeer vooraf bij het toeristenbureau; plan ca. 2 tot 3 uur.",
+   "en": "The meadows lie on the slopes above the valley; sometimes you take a lift up and walk the last stretches. Ask the tourist office in advance; plan roughly 2 to 3 hours.",
+   "de": "Die Wiesen liegen an den Hängen über dem Tal; manchmal fährst du mit einer Bergbahn hinauf und gehst die letzten Stücke zu Fuß. Erkundige dich vorab beim Tourismusbüro; plane ca. 2 bis 3 Stunden ein."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "Approx. 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 10–20 min rijden",
+    "en": "Approx. 10–20 min by car",
+    "de": "Ca. 10–20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (juli–augustus)",
+    "en": "Summer (July–August)",
+    "de": "Sommer (Juli–August)"
+   }
+  },
+  "location": {
+   "nl": "Almweiden in de Wildschönau",
+   "en": "Alpine meadows in the Wildschönau",
+   "de": "Almwiesen in der Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer wordt er gehooid?",
+     "en": "When is hay made?",
+     "de": "Wann wird geheut?"
+    },
+    "a": {
+     "nl": "Meestal rond juli en augustus, afhankelijk van het weer; maak vooraf een afspraak.",
+     "en": "Usually around July and August, depending on the weather; arrange it in advance.",
+     "de": "Meist rund um Juli und August, je nach Wetter; bitte vorher absprechen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s105",
+  "drop": true,
+  "drop_reason": "Geen bijenbezoek met honingproeverij in de Wildschönau bevestigd.",
+  "place": "niederau",
+  "slug_en": "bee-visit-honey-tasting",
+  "slug_de": "bienenbesuch-honigverkostung",
+  "title": {
+   "nl": "Bijenbezoek en honing proeven",
+   "en": "Bee visit and honey tasting",
+   "de": "Bienenbesuch und Honigverkostung"
+  },
+  "tagline": {
+   "nl": "Leer van een imker hoe honing ontstaat",
+   "en": "Learn from a beekeeper how honey is made",
+   "de": "Von einem Imker lernen, wie Honig entsteht"
+  },
+  "intro": {
+   "nl": "Bij een imker in de omgeving leer je hoe een bijenvolk werkt, wat de rol van de koningin en de werksters is en hoe honing wordt geoogst. Je kunt vaak verse honing proeven en producten kopen. Voor kinderen is het een bijzondere manier om bijen van dichtbij en veilig te bekijken.\n\nBeschermende kleding of een hoed met net is meestal aanwezig als je dichtbij de kasten komt. Het aanbod en de tijden verschillen per imker en seizoen; vraag via het toeristenbureau of je hotel naar een imker in of bij de Wildschönau. Reken op ca. anderhalf uur. Draag bedekkende kleding en vertel het vooraf als iemand allergisch is voor insectensteken.",
+   "en": "At a local beekeeper you learn how a bee colony works, what the queen and the workers do and how honey is harvested. You can often taste fresh honey and buy products. For children it is a special way to watch bees up close and safely.\n\nProtective clothing or a hat with a net is usually provided when you get close to the hives. Offers and times vary by beekeeper and season; ask the tourist office or your hotel about a beekeeper in or near the Wildschönau. Allow roughly an hour and a half. Wear clothes that cover arms and legs and mention beforehand if anyone is allergic to insect stings.",
+   "de": "Bei einem Imker in der Umgebung lernst du, wie ein Bienenvolk funktioniert, welche Aufgaben Königin und Arbeiterinnen haben und wie Honig geerntet wird. Oft kannst du frischen Honig probieren und Produkte kaufen. Für Kinder ist es eine besondere Möglichkeit, Bienen aus der Nähe und sicher zu beobachten.\n\nSchutzkleidung oder ein Hut mit Netz ist meist vorhanden, wenn du nah an die Stöcke gehst. Angebot und Zeiten unterscheiden sich je nach Imker und Saison; frag beim Tourismusbüro oder in deinem Hotel nach einem Imker in oder bei der Wildschönau. Rechne mit ca. anderthalb Stunden. Trage Kleidung, die Arme und Beine bedeckt, und sag vorab Bescheid, wenn jemand gegen Insektenstiche allergisch ist."
+  },
+  "tips": {
+   "nl": [
+    "Draag bedekkende kleding.",
+    "Meld allergieën voor insectensteken vooraf.",
+    "Probeer de honing op een broodje of Semmel.",
+    "Vraag naar bijenproducten die je kunt meenemen."
+   ],
+   "en": [
+    "Wear clothing that covers arms and legs.",
+    "Report insect sting allergies beforehand.",
+    "Try the honey on a roll or Semmel.",
+    "Ask about bee products you can take home."
+   ],
+   "de": [
+    "Trage Kleidung, die Arme und Beine bedeckt.",
+    "Melde Allergien gegen Insektenstiche vorab.",
+    "Probiere den Honig auf einer Semmel.",
+    "Frag nach Bienenprodukten zum Mitnehmen."
+   ]
+  },
+  "practical": {
+   "nl": "De locatie hangt af van de imker en ligt in of bij de Wildschönau, ca. 10 tot 20 minuten rijden van Niederau. Reserveer vooraf.",
+   "en": "The location depends on the beekeeper and lies in or near the Wildschönau, roughly 10 to 20 minutes by car from Niederau. Reserve in advance.",
+   "de": "Der Ort hängt vom Imker ab und liegt in oder bei der Wildschönau, ca. 10 bis 20 Fahrminuten von Niederau entfernt. Bitte vorab reservieren."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 10–20 min rijden",
+    "en": "Approx. 10–20 min by car",
+    "de": "Ca. 10–20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is een bijenbezoek veilig voor kinderen?",
+     "en": "Is a bee visit safe for children?",
+     "de": "Ist ein Bienenbesuch für Kinder sicher?"
+    },
+    "a": {
+     "nl": "Met beschermende kleding en begeleiding van de imker meestal wel; meld allergieën vooraf.",
+     "en": "With protective clothing and the beekeeper's guidance usually yes; report allergies beforehand.",
+     "de": "Mit Schutzkleidung und Begleitung des Imkers in der Regel ja; melde Allergien vorab."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s114",
+  "drop": true,
+  "drop_reason": "Geen Kasperltheater-aanbod in de Wildschönau bevestigd.",
+  "place": "niederau",
+  "slug_en": "kasperle-puppet-theatre-summer",
+  "slug_de": "kasperltheater-sommer-wildschoenau",
+  "title": {
+   "nl": "Kasperle-poppentheater",
+   "en": "Kasperle puppet theatre",
+   "de": "Kasperltheater"
+  },
+  "tagline": {
+   "nl": "Klassiek handpoppenspel voor de allerkleinsten",
+   "en": "Classic hand-puppet show for the youngest",
+   "de": "Klassisches Handpuppenspiel für die Kleinsten"
+  },
+  "intro": {
+   "nl": "Kasperle is de Duitstalige variant van het klassieke handpoppentheater: een grappige hoofdpersoon, een paar vrienden en een schurk, en altijd een goede afloop. De voorstellingen zijn kort en bedoeld voor jonge kinderen, die vaak helemaal opgaan in het verhaal.\n\nIn de zomer zijn er in de regio af en toe voorstellingen voor kinderen, soms in de open lucht, op een dorpsplein of bij een hotel. Het programma wisselt echter per week en per plaats. Vraag bij het toeristenbureau van de Wildschönau naar de actuele data; de voorstelling is in het Duits en past bij ongeveer 2 tot 8 jaar. Reken op ca. drie kwartier.",
+   "en": "Kasperle is the German-language version of classic hand-puppet theatre: a funny main character, a few friends and a villain, and always a happy ending. The shows are short and aimed at young children, who often get completely absorbed in the story.\n\nIn summer there are occasional children's shows in the region, sometimes outdoors, on a village square or at a hotel. The programme changes by week and place, though. Ask the Wildschönau tourist office for current dates; the show is in German and suits roughly ages 2 to 8. Allow about three quarters of an hour.",
+   "de": "Kasperl ist die deutschsprachige Variante des klassischen Handpuppentheaters: eine lustige Hauptfigur, ein paar Freunde und ein Bösewicht, und am Ende immer ein gutes Ende. Die Vorstellungen sind kurz und für kleine Kinder gedacht, die oft ganz in der Geschichte aufgehen.\n\nIm Sommer gibt es in der Region gelegentlich Kindervorstellungen, manchmal im Freien, auf einem Dorfplatz oder bei einem Hotel. Das Programm wechselt aber je nach Woche und Ort. Frag beim Tourismusbüro der Wildschönau nach den aktuellen Terminen; die Vorstellung ist auf Deutsch und passt etwa für Kinder von 2 bis 8 Jahren. Rechne mit ca. einer Dreiviertelstunde."
+  },
+  "tips": {
+   "nl": [
+    "Wees op tijd; zitplaatsen zijn vaak beperkt.",
+    "Voor peuters is een korte voorstelling het beste.",
+    "Controleer vooraf of de voorstelling doorgaat bij slecht weer.",
+    "De voorstelling is in het Duits; kinderen volgen het meestal toch."
+   ],
+   "en": [
+    "Arrive early; seating is often limited.",
+    "For toddlers a short show works best.",
+    "Check beforehand whether the show goes ahead in bad weather.",
+    "The show is in German; children usually follow it anyway."
+   ],
+   "de": [
+    "Sei früh da; Sitzplätze sind oft begrenzt.",
+    "Für Kleinkinder ist eine kurze Vorstellung am besten.",
+    "Prüfe vorab, ob die Vorstellung bei schlechtem Wetter stattfindet.",
+    "Die Vorstellung ist auf Deutsch; Kinder folgen ihr meist trotzdem."
+   ]
+  },
+  "practical": {
+   "nl": "De plek wisselt (dorpsplein, hotel of zaal) en ligt in of bij Niederau. Informeer vooraf bij het toeristenbureau naar data en tijden.",
+   "en": "The venue varies (village square, hotel or hall) and is in or near Niederau. Ask the tourist office in advance for dates and times.",
+   "de": "Der Ort wechselt (Dorfplatz, Hotel oder Saal) und liegt in oder bei Niederau. Erkundige dich vorab beim Tourismusbüro nach Terminen und Zeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Ca. 2 tot 8 jaar",
+    "en": "Approx. 2 to 8 years",
+    "de": "Ca. 2 bis 8 Jahre"
+   },
+   "duration": {
+    "nl": "Ca. 45 min",
+    "en": "Approx. 45 min",
+    "de": "Ca. 45 Min."
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 0–10 min rijden",
+    "en": "Approx. 0–10 min by car",
+    "de": "Ca. 0–10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Niederau / Wildschönau",
+   "en": "Niederau / Wildschönau",
+   "de": "Niederau / Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "In welke taal is het Kasperletheater?",
+     "en": "What language is the Kasperle theatre in?",
+     "de": "In welcher Sprache ist das Kasperltheater?"
+    },
+    "a": {
+     "nl": "In het Duits; jonge kinderen volgen de actie meestal ook zonder alles te verstaan.",
+     "en": "In German; young children usually follow the action without understanding every word.",
+     "de": "Auf Deutsch; kleine Kinder folgen der Handlung meist auch, ohne alles zu verstehen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s118",
+  "drop": true,
+  "drop_reason": "Geen alpenhoornworkshop in de Wildschönau bevestigd.",
+  "place": "niederau",
+  "slug_en": "learn-to-play-alphorn",
+  "slug_de": "alphorn-spielen-lernen",
+  "title": {
+   "nl": "Alpenhoorn leren spelen",
+   "en": "Learn to play the alphorn",
+   "de": "Alphorn spielen lernen"
+  },
+  "tagline": {
+   "nl": "Blaas de eerste tonen op het symbool van de Alpen",
+   "en": "Blow your first notes on the symbol of the Alps",
+   "de": "Die ersten Töne auf dem Symbol der Alpen blasen"
+  },
+  "intro": {
+   "nl": "De alpenhoorn is een lange houten hoorn die in de Alpen traditioneel wordt gebruikt voor signalen en muziek. Het instrument is gemakkelijk meer dan twee meter lang en klinkt diep en ver. Bij een korte cursus leer je hoe je staat, hoe je je lippen vormt en hoe je de eerste toon eruit krijgt.\n\nVoor de eerste toon heb je meer adem nodig dan je denkt, en kinderen zijn meestal trots als het lukt. Een echo over het dal maakt het extra mooi. Aanbod en data wisselen; vraag bij het toeristenbureau van de Wildschönau of er dit seizoen een workshop is en vanaf welke leeftijd je mee kunt (ca. 8 jaar is gebruikelijk). Reken op ca. een uur.",
+   "en": "The alphorn is a long wooden horn traditionally used in the Alps for signals and music. The instrument is easily more than two metres long and sounds deep and carries far. In a short course you learn how to stand, how to shape your lips and how to coax out the first note.\n\nThe first note takes more breath than you would think, and children are usually proud when it works. An echo across the valley makes it even nicer. Offers and dates change; ask the Wildschönau tourist office whether a workshop is on this season and from what age you can join (around 8 is usual). Allow about an hour.",
+   "de": "Das Alphorn ist ein langes Holzhorn, das im Alpenraum traditionell für Signale und Musik verwendet wird. Das Instrument ist leicht über zwei Meter lang, klingt tief und trägt weit. In einem kurzen Kurs lernst du, wie du stehst, wie du die Lippen formst und wie du den ersten Ton herausbekommst.\n\nFür den ersten Ton braucht man mehr Atem, als man denkt, und Kinder sind meist stolz, wenn es klappt. Ein Echo über das Tal macht es noch schöner. Angebot und Termine wechseln; frag beim Tourismusbüro der Wildschönau, ob in dieser Saison ein Workshop stattfindet und ab welchem Alter du mitmachen kannst (ca. 8 Jahre sind üblich). Rechne mit ca. einer Stunde."
+  },
+  "tips": {
+   "nl": [
+    "Adem diep in; de eerste toon kost veel lucht.",
+    "Vraag of je het instrument ook mag vasthouden voor een foto.",
+    "Een heldere ochtend geeft vaak de beste echo.",
+    "Reserveer vooraf; het aanbod is seizoensgebonden."
+   ],
+   "en": [
+    "Breathe deeply; the first note takes a lot of air.",
+    "Ask whether you may hold the instrument for a photo.",
+    "A clear morning often gives the best echo.",
+    "Reserve in advance; the offer is seasonal."
+   ],
+   "de": [
+    "Atme tief ein; der erste Ton braucht viel Luft.",
+    "Frag, ob du das Instrument für ein Foto halten darfst.",
+    "Ein klarer Morgen bringt oft das beste Echo.",
+    "Reserviere vorab; das Angebot ist saisonal."
+   ]
+  },
+  "practical": {
+   "nl": "De locatie hangt af van de aanbieder en ligt in of bij de Wildschönau, ca. 5 tot 15 minuten rijden van Niederau. Reserveer vooraf.",
+   "en": "The location depends on the provider and is in or near the Wildschönau, roughly 5 to 15 minutes by car from Niederau. Reserve in advance.",
+   "de": "Der Ort hängt vom Anbieter ab und liegt in oder bei der Wildschönau, ca. 5 bis 15 Fahrminuten von Niederau entfernt. Bitte vorab reservieren."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From approx. 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 5–15 min rijden",
+    "en": "Approx. 5–15 min by car",
+    "de": "Ca. 5–15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Vanaf welke leeftijd kun je alpenhoorn leren?",
+     "en": "From what age can you learn the alphorn?",
+     "de": "Ab welchem Alter kann man Alphorn lernen?"
+    },
+    "a": {
+     "nl": "Gewoonlijk vanaf ca. 8 jaar; controleer de voorwaarden bij het boeken.",
+     "en": "Usually from around 8; check the conditions when booking.",
+     "de": "Üblicherweise ab ca. 8 Jahren; prüfe die Bedingungen beim Buchen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s130",
+  "drop": true,
+  "drop_reason": "Geen Tiroler kinderspeldag in Niederau/Oberau bevestigd.",
+  "place": "niederau",
+  "slug_en": "tyrolean-childrens-games-day",
+  "slug_de": "tiroler-kinderspieltag",
+  "title": {
+   "nl": "Tiroler kinderspeldag",
+   "en": "Tyrolean children's games day",
+   "de": "Tiroler Kinderspieltag"
+  },
+  "tagline": {
+   "nl": "Spelletjes, muziek en Tiroolse tradities voor kinderen",
+   "en": "Games, music and Tyrolean traditions for children",
+   "de": "Spiele, Musik und Tiroler Traditionen für Kinder"
+  },
+  "intro": {
+   "nl": "In de zomer worden in Tiroolse dorpen soms kinderfeesten of spelletjesdagen gehouden met traditionele spelen. Daarbij kun je denken aan behendigheidsspelletjes, quizzen over de natuur, muziek en kraampjes, vaak met Tiroolse kleding en eten erbij. Dat geeft kinderen een speelse kennismaking met lokale gewoonten.\n\nOf en wanneer zo'n dag in Niederau of Oberau plaatsvindt, verschilt per jaar. Meestal valt het in juli of augustus, maar vaste data zijn niet bekend. Controleer vooraf bij het toeristenbureau van de Wildschönau of er tijdens je verblijf iets op het programma staat. Reken op een hele of halve dag en vraag of er kosten zijn.",
+   "en": "In summer, Tyrolean villages sometimes hold children's festivals or games days with traditional games. Think of skill games, nature quizzes, music and stalls, often with Tyrolean costume and food. It gives children a playful introduction to local customs.\n\nWhether and when such a day takes place in Niederau or Oberau varies by year. It usually falls in July or August, but fixed dates are not known. Check with the Wildschönau tourist office whether something is scheduled during your stay. Allow a whole or half day and ask whether there are any costs.",
+   "de": "Im Sommer finden in Tiroler Dörfern manchmal Kinderfeste oder Spieltage mit traditionellen Spielen statt. Dazu gehören Geschicklichkeitsspiele, Naturquizze, Musik und Stände, oft mit Tiroler Tracht und Essen. So lernen Kinder auf spielerische Weise lokale Bräuche kennen.\n\nOb und wann ein solcher Tag in Niederau oder Oberau stattfindet, ist von Jahr zu Jahr verschieden. Meist liegt er im Juli oder August, feste Termine sind aber nicht bekannt. Frag beim Tourismusbüro der Wildschönau nach, ob während deines Aufenthalts etwas geplant ist. Rechne mit einem halben oder ganzen Tag und frag nach, ob Kosten anfallen."
+  },
+  "tips": {
+   "nl": [
+    "Controleer de data vooraf; ze wisselen per jaar.",
+    "Draag kleding waarin kinderen kunnen rennen en spelen.",
+    "Neem een petje en zonnebrand mee voor buiten.",
+    "Vraag of kinderen in Tiroolse kleding welkom zijn."
+   ],
+   "en": [
+    "Check the dates beforehand; they change each year.",
+    "Wear clothes children can run and play in.",
+    "Bring a cap and sun cream for outdoors.",
+    "Ask whether children in Tyrolean costume are welcome."
+   ],
+   "de": [
+    "Prüfe die Termine vorab; sie ändern sich jedes Jahr.",
+    "Zieh Kleidung an, in der Kinder rennen und spielen können.",
+    "Nimm Mütze und Sonnencreme für draußen mit.",
+    "Frag, ob Kinder in Tracht willkommen sind."
+   ]
+  },
+  "practical": {
+   "nl": "Meestal op een dorpsplein in Niederau of Oberau, ca. 0 tot 5 minuten rijden van elkaar. Informeer vooraf naar plaats en data.",
+   "en": "Usually on a village square in Niederau or Oberau, roughly 0 to 5 minutes by car apart. Ask in advance for the place and dates.",
+   "de": "Meist auf einem Dorfplatz in Niederau oder Oberau, die ca. 0 bis 5 Fahrminuten auseinanderliegen. Erkundige dich vorab nach Ort und Terminen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve of hele dag",
+    "en": "Half or full day",
+    "de": "Halber oder ganzer Tag"
+   },
+   "price": {
+    "nl": "Wisselt; informeer vooraf",
+    "en": "Varies; check in advance",
+    "de": "Variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 0–5 min rijden",
+    "en": "Approx. 0–5 min by car",
+    "de": "Ca. 0–5 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (vooral juli–augustus)",
+    "en": "Summer (mainly July–August)",
+    "de": "Sommer (vor allem Juli–August)"
+   }
+  },
+  "location": {
+   "nl": "Niederau / Oberau",
+   "en": "Niederau / Oberau",
+   "de": "Niederau / Oberau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is de kinderspeldag?",
+     "en": "When is the children's games day?",
+     "de": "Wann ist der Kinderspieltag?"
+    },
+    "a": {
+     "nl": "De data wisselen per jaar; vraag ze bij het toeristenbureau van de Wildschönau.",
+     "en": "Dates change each year; ask the Wildschönau tourist office.",
+     "de": "Die Termine ändern sich jährlich; frag beim Tourismusbüro der Wildschönau nach."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s132",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "hopfgarten-village-walk",
+  "slug_de": "dorfrundgang-hopfgarten",
+  "title": {
+   "nl": "Dorpsronde Hopfgarten",
+   "en": "Village stroll in Hopfgarten",
+   "de": "Dorfrundgang in Hopfgarten"
+  },
+  "tagline": {
+   "nl": "Marktgemeente aan de voet van de Hohe Salve",
+   "en": "A market village at the foot of the Hohe Salve",
+   "de": "Marktgemeinde am Fuß der Hohen Salve"
+  },
+  "intro": {
+   "nl": "Hopfgarten im Brixental is een marktgemeente aan de voet van de Hohe Salve, met smalle straten in het oude centrum. Het is een prettig stuk Brixental voor een korte wandeling langs huizen, kerk en winkeltjes, zonder de drukte van een groot skidorp.\n\nVanaf het dal bij de Hopfgarten Berglift loopt bovendien een dorpswandeling langs mooie boerderijen en hutten naar het bergdorp Kelchsau. In Hopfgarten verkoopt de Bauernladl regionale producten van ongeveer 25 boeren uit de omgeving. Controleer de actuele openingstijden vooraf bij het toeristenbureau.",
+   "en": "Hopfgarten im Brixental is a market village at the foot of the Hohe Salve, with narrow lanes in the old centre. It is a pleasant corner of the Brixental for a short walk past houses, church and small shops, without the bustle of a large ski resort.\n\nA village trail also runs from the Hopfgarten Berglift past handsome farmhouses and huts to the mountain village of Kelchsau. In Hopfgarten the Bauernladl sells regional products from about 25 farmers in the area. Check the current opening hours with the tourist office beforehand.",
+   "de": "Hopfgarten im Brixental ist eine Marktgemeinde am Fuß der Hohen Salve mit engen Gassen im alten Ortskern. Es ist ein schöner Fleck im Brixental für einen kurzen Spaziergang vorbei an Häusern, Kirche und kleinen Geschäften, ohne den Trubel eines großen Skiortes.\n\nVon der Hopfgarten Berglift führt zudem ein Dorfweg an stattlichen Bauernhöfen und Hütten vorbei ins Bergdorf Kelchsau. In Hopfgarten verkauft der Bauernladl regionale Produkte von rund 25 Bauern aus der Umgebung. Die aktuellen Öffnungszeiten vorab beim Tourismusbüro erfragen."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij het toeristenbureau naar de actuele openingstijden van de Bauernladl.",
+    "Combineer de ronde met een wandeling of lift naar de Hohe Salve.",
+    "Neem contant geld mee voor kleine lokale winkels.",
+    "Plan de ronde buiten de middagpauze van winkels."
+   ],
+   "en": [
+    "Check with the tourist office for the Bauernladl's current opening hours.",
+    "Combine the stroll with a hike or lift up the Hohe Salve.",
+    "Bring some cash for small local shops.",
+    "Avoid the lunchtime closing of shops."
+   ],
+   "de": [
+    "Erkundige dich beim Infobüro nach den aktuellen Öffnungszeiten des Bauernladls.",
+    "Verbinde den Rundgang mit einer Wanderung oder Bergbahnfahrt zur Hohen Salve.",
+    "Nimm etwas Bargeld für kleine Läden mit.",
+    "Plane den Rundgang außerhalb der Mittagspause der Geschäfte."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten ligt ca. 25 minuten rijden van Niederau, via het dal en de B170 in het Brixental. Er is parkeergelegenheid in het centrum.",
+   "en": "Hopfgarten is roughly 25 minutes by car from Niederau, via the valley road and the B170 through the Brixental. Parking is available in the centre.",
+   "de": "Hopfgarten liegt ca. 25 Fahrminuten von Niederau entfernt, über die Talstraße und die B170 durch das Brixental. Im Zentrum gibt es Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min by car",
+    "de": "Ca. 25 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is de Bauernladl?",
+     "en": "What is the Bauernladl?",
+     "de": "Was ist der Bauernladl?"
+    },
+    "a": {
+     "nl": "Een winkel in Hopfgarten met regionale producten van ongeveer 25 boeren; vraag de actuele openingstijden na.",
+     "en": "A shop in Hopfgarten selling regional products from about 25 farmers; ask for current opening hours.",
+     "de": "Ein Laden in Hopfgarten mit regionalen Produkten von rund 25 Bauern; aktuelle Öffnungszeiten erfragen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s190",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "stams-abbey",
+  "slug_de": "stift-stams",
+  "title": {
+   "nl": "Stift Stams",
+   "en": "Stams Abbey",
+   "de": "Stift Stams"
+  },
+  "tagline": {
+   "nl": "Cisterciënzerabdij uit 1273 in het Inntal",
+   "en": "A Cistercian abbey from 1273 in the Inn Valley",
+   "de": "Zisterzienserstift von 1273 im Inntal"
+  },
+  "intro": {
+   "nl": "Stift Stams is een Cisterciënzerabdij die in 1273 werd gesticht door graaf Meinhard II van Görz-Tirol en zijn vrouw Elisabeth van Beieren. De abdijkerk heeft de status van basilica minor. Het gebouw bevat onder meer een vorstengraf, een rijk versierde preekstoel, gewelf- en muurschilderingen en het bekende Lebensbaum-altaar. Sinds 2017 zijn er ook vernieuwde museumzalen.\n\nIn de zomer zijn er rondleidingen op de meeste dagen; in de maanden buiten het seizoen is het aanbod veel beperkter. Controleer de actuele tijden vooraf. Het is een rustige, culturele stop in het Inntal, geschikt voor tieners en volwassenen die van kunst en geschiedenis houden.",
+   "en": "Stams Abbey is a Cistercian monastery founded in 1273 by Count Meinhard II of Görz-Tyrol and his wife Elisabeth of Bavaria. The abbey church holds the status of basilica minor. The building contains a princes' crypt, a richly decorated pulpit, vault and wall paintings and the well-known Tree of Life altar. Renewed museum rooms have also been open since 2017.\n\nIn summer guided tours run on most days; outside the season the offer is much more limited. Check current times beforehand. It is a quiet cultural stop in the Inn Valley, suited to teenagers and adults who enjoy art and history.",
+   "de": "Stift Stams ist ein Zisterzienserkloster, das 1273 von Graf Meinhard II. von Görz-Tirol und seiner Frau Elisabeth von Bayern gegründet wurde. Die Stiftskirche trägt den Titel Basilica minor. Im Gebäude finden sich unter anderem eine Fürstengruft, eine reich verzierte Kanzel, Gewölbe- und Wandmalereien und der bekannte Lebensbaum-Altar. Seit 2017 gibt es zudem neu gestaltete Museumsräume.\n\nIm Sommer gibt es an den meisten Tagen Führungen; außerhalb der Saison ist das Angebot deutlich eingeschränkter. Die aktuellen Zeiten vorab prüfen. Es ist ein ruhiger kultureller Stopp im Inntal, geeignet für Jugendliche und Erwachsene, die Kunst und Geschichte mögen."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf de tijden van rondleidingen; buiten juni–september zijn die beperkt.",
+    "Draag gepaste kleding; het is een werkend klooster.",
+    "Bekijk ook het museum met de vernieuwde zalen.",
+    "Combineer met een bezoek aan Innsbruck of Hall in Tirol."
+   ],
+   "en": [
+    "Check guided-tour times beforehand; they are limited outside June to September.",
+    "Dress appropriately; it is a working monastery.",
+    "Also see the museum with its renewed rooms.",
+    "Combine with a visit to Innsbruck or Hall in Tirol."
+   ],
+   "de": [
+    "Prüfe vorab die Führungszeiten; außerhalb von Juni bis September sind sie eingeschränkt.",
+    "Kleide dich angemessen; es ist ein aktives Kloster.",
+    "Sieh dir auch das Museum mit den neu gestalteten Räumen an.",
+    "Verbinde den Besuch mit Innsbruck oder Hall in Tirol."
+   ]
+  },
+  "practical": {
+   "nl": "Stams ligt in het Oberinntal, ca. 1 uur en 10 minuten rijden van Niederau, via de A12 richting Innsbruck en verder westwaarts (afrit Stams/Mötz).",
+   "en": "Stams is in the Upper Inn Valley, roughly 1 hour 10 minutes by car from Niederau, via the A12 towards Innsbruck and further west (exit Stams/Mötz).",
+   "de": "Stams liegt im Oberinntal, ca. 1 Stunde 10 Minuten Fahrt von Niederau entfernt, über die A12 Richtung Innsbruck und weiter westlich (Ausfahrt Stams/Mötz)."
+  },
+  "facts": {
+   "age": {
+    "nl": "Geschikt voor tieners en volwassenen",
+    "en": "Suited to teenagers and adults",
+    "de": "Geeignet für Jugendliche und Erwachsene"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 tot 2 uur",
+    "en": "Approx. 1.5 to 2 hours",
+    "de": "Ca. 1,5 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 10 min rijden",
+    "en": "Approx. 1 hour 10 min by car",
+    "de": "Ca. 1 Std. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar; rondleidingen vooral juni–september",
+    "en": "All year; guided tours mainly June–September",
+    "de": "Ganzjährig; Führungen vor allem Juni–September"
+   }
+  },
+  "location": {
+   "nl": "Stams, Oberinntal",
+   "en": "Stams, Upper Inn Valley",
+   "de": "Stams, Oberinntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is Stift Stams gesticht?",
+     "en": "When was Stams Abbey founded?",
+     "de": "Wann wurde Stift Stams gegründet?"
+    },
+    "a": {
+     "nl": "In 1273, door graaf Meinhard II van Görz-Tirol en zijn vrouw Elisabeth van Beieren.",
+     "en": "In 1273, by Count Meinhard II of Görz-Tyrol and his wife Elisabeth of Bavaria.",
+     "de": "1273, durch Graf Meinhard II. von Görz-Tirol und seine Frau Elisabeth von Bayern."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s205",
+  "drop": true,
+  "drop_reason": "Ferdinandeum sinds 1 juli 2024 wegens verbouwing gesloten; heropening niet bevestigd.",
+  "place": "innsbruck",
+  "slug_en": "ferdinandeum-museum-innsbruck",
+  "slug_de": "tiroler-landesmuseum-ferdinandeum",
+  "title": {
+   "nl": "Tiroler Landesmuseum Ferdinandeum",
+   "en": "Tyrolean State Museum Ferdinandeum",
+   "de": "Tiroler Landesmuseum Ferdinandeum"
+  },
+  "tagline": {
+   "nl": "Het grote museum van Tirol voor kunst, natuur en geschiedenis",
+   "en": "Tyrol's main museum for art, nature and history",
+   "de": "Das große Tiroler Museum für Kunst, Natur und Geschichte"
+  },
+  "intro": {
+   "nl": "Het Ferdinandeum in het centrum van Innsbruck is een van de grootste musea van Tirol. De collecties lopen van prehistorie en vroege geschiedenis tot kunst van de gotiek tot nu, met daarnaast natuurwetenschap, muziekinstrumenten en een grafische verzameling.\n\nVoor wie van musea houdt is het een goede regendag-optie. Kinderen vinden vaak de oudste vondsten en de natuurhistorische onderdelen het leukst. Let op: het museum werd een tijd lang verbouwd, dus controleer vooraf of en hoe het open is en welke delen te zien zijn. Reken bij een bezoek op ruim twee uur.",
+   "en": "The Ferdinandeum in central Innsbruck is one of Tyrol's largest museums. Its collections range from prehistory and early history to art from the Gothic period to today, plus natural science, musical instruments and a graphic collection.\n\nFor museum lovers it is a good rainy-day option. Children often like the oldest finds and the natural history sections best. Note that the museum was under renovation for a while, so check beforehand whether and how it is open and which parts can be seen. Allow a good two hours for a visit.",
+   "de": "Das Ferdinandeum im Zentrum von Innsbruck ist eines der größten Museen Tirols. Die Sammlungen reichen von Ur- und Frühgeschichte über Kunst von der Gotik bis heute bis zu Naturwissenschaften, Musikinstrumenten und einer Grafiksammlung.\n\nFür Museumsfreunde ist es eine gute Regentag-Option. Kinder mögen oft die ältesten Funde und die naturkundlichen Bereiche am liebsten. Bitte beachten: Das Museum war eine Zeit lang wegen Umbau geschlossen, prüfen Sie daher vorab, ob und wie es geöffnet ist und welche Teile zu sehen sind. Planen Sie gut zwei Stunden ein."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf of het museum open is en welke delen toegankelijk zijn.",
+    "Plan een rondje langs de oudste vondsten en de natuurcollectie voor kinderen.",
+    "Combineer met een wandeling door de Altstadt, die vlakbij ligt.",
+    "Bekijk bij mooi weer eerst de buitenactiviteiten en bewaar het museum voor een regenachtige dag."
+   ],
+   "en": [
+    "Check beforehand whether the museum is open and which parts are accessible.",
+    "Plan a round past the oldest finds and the nature collection for children.",
+    "Combine with a walk through the nearby old town.",
+    "In good weather do the outdoor things first and keep the museum for a rainy day."
+   ],
+   "de": [
+    "Prüfen Sie vorab, ob das Museum geöffnet ist und welche Bereiche zugänglich sind.",
+    "Planen Sie für Kinder einen Rundgang an den ältesten Funden und der Naturkunde vorbei.",
+    "Verbinden Sie den Besuch mit einem Spaziergang durch die nahe Altstadt.",
+    "Bei Sonne zuerst Aktivitäten im Freien, das Museum für einen Regentag aufheben."
+   ]
+  },
+  "practical": {
+   "nl": "Innsbruck ligt ca. 1 uur rijden van Niederau via de A12. Met de trein vanaf Wörgl is het ook goed te doen; het museum ligt in het centrum.",
+   "en": "Innsbruck is about 1 hour by car from Niederau via the A12. The train from Wörgl also works well; the museum is in the city centre.",
+   "de": "Innsbruck liegt etwa 1 Stunde Autofahrt von Niederau entfernt über die A12. Auch mit der Bahn ab Wörgl gut machbar; das Museum liegt im Zentrum."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 tot 10 jaar",
+    "en": "From approx. 8 to 10 years",
+    "de": "Ab ca. 8 bis 10 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "Approx. 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Entree of bijdrage; informeer vooraf naar actuele prijzen",
+    "en": "Admission or contribution; ask in advance about current prices",
+    "de": "Eintritt oder Beitrag; aktuelle Preise vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar; controleer of het museum open is",
+    "en": "All year; check whether the museum is open",
+    "de": "Ganzjährig; prüfen, ob das Museum geöffnet ist"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck",
+   "en": "Innsbruck",
+   "de": "Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het Ferdinandeum nu open?",
+     "en": "Is the Ferdinandeum open now?",
+     "de": "Ist das Ferdinandeum derzeit geöffnet?"
+    },
+    "a": {
+     "nl": "Het museum is eerder verbouwd; informeer vooraf naar de actuele openstelling.",
+     "en": "The museum has been renovated before; ask in advance about current opening.",
+     "de": "Das Museum wurde zuvor umgebaut; erkundigen Sie sich vorab nach der aktuellen Öffnung."
+    }
+   }
+  ],
+  "verified": false
+ }
+]
