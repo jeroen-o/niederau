@@ -279,3 +279,6 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 }
 .breadcrumb { margin: 0 0 14px; font-size: .92rem; }
 .breadcrumb a { display: inline-block; padding: 6px 0; }
+.crumbs { font-size: .9rem; margin: 0 0 18px; color: var(--ink-soft); }
+.crumbs a { display: inline-block; padding: 4px 0; }
+.lead { font-size: 1.12rem; color: var(--ink-strong); }

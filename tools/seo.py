@@ -147,6 +147,13 @@ urls += "".join(f'''  <url><loc>{u}</loc><lastmod>{TODAY}</lastmod>
     <image:image><image:loc>{BASE}/assets/img/niederau-markbachjochbahn-gondel.webp</image:loc></image:image>
     <image:image><image:loc>{BASE}/assets/img/niederau-skien-markbachjoch.webp</image:loc></image:image></url>
 ''' for u in (f"{BASE}/markbachjoch/", f"{BASE}/en/markbachjoch/", f"{BASE}/de/markbachjoch/"))
+
+_reg = ROOT / "tools" / "data" / "_registry.json"
+if _reg.exists():
+    for ent in json.loads(_reg.read_text(encoding="utf-8")):
+        u = ent["urls"]
+        alts = "".join(f'<xhtml:link rel="alternate" hreflang="{c}" href="{BASE}{u[c]}"/>' for c in ("nl", "en", "de")) + f'<xhtml:link rel="alternate" hreflang="x-default" href="{BASE}{u["en"]}"/>'
+        urls += "".join(f"  <url><loc>{BASE}{u[c]}</loc><lastmod>{TODAY}</lastmod>{alts}</url>\n" for c in ("nl", "en", "de"))
 (ROOT / "sitemap.xml").write_text(f'''<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 {urls}</urlset>

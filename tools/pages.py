@@ -102,9 +102,10 @@ def jload(pattern):
 
 # ---------- data laden ----------
 src = {o["id"]: o for o in json.load(open(DATA / "source_activities.json", encoding="utf-8"))}
+EXCL = set(json.load(open(DATA / "exclude.json", encoding="utf-8"))["ids"]) if (DATA / "exclude.json").exists() else set()
 acts = []
 for a in jload("acts/*.json"):
-    if a.get("drop"): continue
+    if a.get("drop") or a["id"] in EXCL: continue
     s = src.get(a["id"])
     a["theme"] = a.get("theme") or (s["theme"] if s else "avontuur")
     a["season"] = a.get("season") or (s["season"] if s else "summer")
