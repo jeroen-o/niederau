@@ -919,5 +919,87 @@
    "skimateriaal"
   ],
   false
+ ],
+ [
+  "niederau-zomer-openluchtbad-paddenstoelfontein",
+  [
+   "Openluchtzwembad met een gele paddenstoelvormige douche en waterstralen, met groene berghellingen op de achtergrond",
+   "Outdoor pool with a yellow mushroom-shaped shower and water jets, with green mountain slopes behind",
+   "Freibad mit gelber pilzförmiger Wasserdusche und Wasserstrahlen, dahinter grüne Berghänge"
+  ],
+  [
+   "openluchtzwembad",
+   "zwembad",
+   "zwemmen",
+   "openluchtbad",
+   "freibad"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-vissen-forellenvijver-kinderen",
+  [
+   "Kinderen en een volwassene hengelen aan een visvijver omringd door bos en een grindpad",
+   "Children and an adult fishing at a pond surrounded by forest and a gravel path",
+   "Kinder und ein Erwachsener angeln an einem Teich, umgeben von Wald und einem Kiesweg"
+  ],
+  [
+   "vissen",
+   "forel",
+   "forellen",
+   "visvijver",
+   "hengelen",
+   "kinderen"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-openluchtbad-glijbaan",
+  [
+   "Zwembad in de open lucht met een lange blauwe glijbaan, een opblaasbare krokodil en zonnende gasten op het grasveld",
+   "Outdoor pool with a long blue water slide, an inflatable crocodile and sunbathers on the lawn",
+   "Freibad mit langer blauer Wasserrutsche, aufblasbarem Krokodil und Sonnenbadenden auf der Wiese"
+  ],
+  [
+   "openluchtzwembad",
+   "zwembad",
+   "glijbaan",
+   "zwemmen",
+   "waterglijbaan",
+   "freibad"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-springkussen-speeltuin",
+  [
+   "Kinderen springen op een groot geel-blauw springkussen in een speeltuin op het gras, met bergen op de achtergrond",
+   "Children jumping on a large yellow and blue jumping pillow in a grassy playground, with mountains behind",
+   "Kinder springen auf einem großen gelb-blauen Hüpfkissen in einem Spielpark im Grünen, dahinter Berge"
+  ],
+  [
+   "springkussen",
+   "speeltuin",
+   "familiepark",
+   "kinderen",
+   "speelpark"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-rodelbaan-gras-glijbaan",
+  [
+   "Zomerrodelbaan: een kind glijdt in een slee door een lange glijgoot over een grashelling, met bergen op de achtergrond",
+   "Summer toboggan run: a child slides in a sled down a long chute across a grassy slope, with mountains behind",
+   "Sommerrodelbahn: ein Kind rutscht im Schlitten durch eine lange Rinne über einen Grashang, dahinter Berge"
+  ],
+  [
+   "zomerrodelbaan",
+   "rodelbaan",
+   "glijbaan",
+   "zomerrodel",
+   "familiepark"
+  ],
+  false
  ]
 ]
