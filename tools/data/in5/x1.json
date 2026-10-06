@@ -1,0 +1,1466 @@
+[
+ {
+  "id": "s154",
+  "drop": false,
+  "drop_reason": "",
+  "place": "st-johann-in-tirol",
+  "slug_en": "cycling-around-st-johann-in-tirol",
+  "slug_de": "radfahren-st-johann-in-tirol",
+  "title": {
+   "nl": "Fietsen rond St. Johann in Tirol",
+   "en": "Cycling around St. Johann in Tirol",
+   "de": "Radfahren rund um St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Een vlakke fietstocht door het open dal bij het Wilder Kaiser",
+   "en": "A flat ride through the open valley by the Wilder Kaiser",
+   "de": "Eine flache Radtour durch das offene Tal am Wilden Kaiser"
+  },
+  "intro": {
+   "nl": "Rond St. Johann in Tirol ligt een open, groen dal met fietsroutes die grotendeels vlak lopen, met uitzicht op de Wilder Kaiser. In het gebied rond St. Johann, Oberndorf, Kirchdorf en Erpfendorf lopen ruim 200 kilometer fiets- en mountainbikepaden, met bewegwijzering en horeca onderweg.\n\nEen bekende gezinsroute is de dalronde Wörgl, Söll, Scheffau, Ellmau, Going en St. Johann, ca. 38 kilometer, die je naar wens kunt inkorten of verlengen. Met een e-bike zijn ook de lichte klimmetjes geen probleem. Haal een kaart bij het toeristenbureau en kies een lengte die past bij de jongste fietser.",
+   "en": "Around St. Johann in Tirol lies an open, green valley with cycle routes that are mostly flat, with views of the Wilder Kaiser. Over 200 kilometres of cycle and mountain bike paths run through the area around St. Johann, Oberndorf, Kirchdorf and Erpfendorf, with signposting and places to eat along the way.\n\nA well-known family route is the valley loop Wörgl, Söll, Scheffau, Ellmau, Going and St. Johann, about 38 kilometres, which you can shorten or extend as you like. With an e-bike the light climbs are no problem either. Pick up a map from the tourist office and choose a length that suits the youngest rider.",
+   "de": "Rund um St. Johann in Tirol erstreckt sich ein offenes, grünes Tal mit überwiegend flachen Radrouten und Blick auf den Wilden Kaiser. Im Gebiet um St. Johann, Oberndorf, Kirchdorf und Erpfendorf verlaufen über 200 Kilometer Rad- und Mountainbikewege, beschildert und mit Einkehrmöglichkeiten unterwegs.\n\nEine bekannte Familienroute ist die Talrunde Wörgl, Söll, Scheffau, Ellmau, Going und St. Johann, rund 38 Kilometer, die sich nach Wunsch verkürzen oder verlängern lässt. Mit E-Bike sind auch leichte Anstiege kein Problem. Eine Karte gibt es im Tourismusbüro; die Länge sollte zur Kraft des jüngsten Radlers passen."
+  },
+  "tips": {
+   "nl": [
+    "Haal een kaart bij het toeristenbureau.",
+    "Kies een e-bike voor lichte klimmetjes.",
+    "Plan een lunchstop onderweg.",
+    "Vraag naar een fietsverhuur als u geen eigen fiets meeneemt."
+   ],
+   "en": [
+    "Get a map from the tourist office.",
+    "Choose an e-bike for the light climbs.",
+    "Plan a lunch stop along the way.",
+    "Ask about bike hire if you are not bringing your own."
+   ],
+   "de": [
+    "Eine Karte im Tourismusbüro holen.",
+    "Für leichte Anstiege ein E-Bike wählen.",
+    "Eine Mittagspause unterwegs einplanen.",
+    "Nach Radverleih fragen, wenn man kein eigenes Rad mitbringt."
+   ]
+  },
+  "practical": {
+   "nl": "St. Johann in Tirol ligt ca. 40 tot 45 minuten rijden van Niederau, via Wörgl en Kitzbühel.",
+   "en": "St. Johann in Tirol is about 40 to 45 minutes by car from Niederau, via Wörgl and Kitzbühel.",
+   "de": "St. Johann in Tirol liegt ca. 40 bis 45 Minuten Autofahrt von Niederau entfernt, über Wörgl und Kitzbühel."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar, zelf fietsend",
+    "en": "From about 6, riding independently",
+    "de": "Ab ca. 6 Jahren, selbst radelnd"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag, afhankelijk van de route",
+    "en": "Half to full day, depending on route",
+    "de": "Halber bis ganzer Tag, je nach Route"
+   },
+   "price": {
+    "nl": "Gratis (eigen fiets); verhuur extra",
+    "en": "Free (own bike); hire costs extra",
+    "de": "Kostenlos (eigenes Rad); Verleih extra"
+   },
+   "distance": {
+    "nl": "Ca. 40 tot 45 min rijden",
+    "en": "About 40 to 45 min by car",
+    "de": "Ca. 40 bis 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Lente tot herfst",
+    "en": "Spring to autumn",
+    "de": "Frühling bis Herbst"
+   }
+  },
+  "location": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de route vlak?",
+     "en": "Is the route flat?",
+     "de": "Ist die Strecke flach?"
+    },
+    "a": {
+     "nl": "Grotendeels wel, met enkele lichte klimmetjes.",
+     "en": "Mostly, with a few light climbs.",
+     "de": "Überwiegend, mit einigen leichten Anstiegen."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "fietsen",
+  "season": "summer",
+  "slug_nl": "fietsen-rondom-st-johann-in-tirol",
+  "_words": 150
+ },
+ {
+  "id": "s242",
+  "drop": false,
+  "drop_reason": "",
+  "place": "zell-am-ziller",
+  "slug_en": "zillertal-cycle-path-mayrhofen-zell",
+  "slug_de": "zillertal-radweg-mayrhofen-zell",
+  "title": {
+   "nl": "Zillertal-fietsroute Mayrhofen–Zell am Ziller",
+   "en": "Zillertal cycle path Mayrhofen to Zell am Ziller",
+   "de": "Zillertal-Radweg Mayrhofen–Zell am Ziller"
+  },
+  "tagline": {
+   "nl": "Een vlakke fietsroute langs de rivier door het Zillertal",
+   "en": "A flat ride along the river through the Zillertal",
+   "de": "Eine flache Radtour am Fluss durch das Zillertal"
+  },
+  "intro": {
+   "nl": "De Zillertal-radweg is ongeveer 30 km lang en loopt over de dalbodem van het Zillertal. Het traject takt bij de Zillerbrug af van de Innradweg en volgt via Uderns, Kaltenbach en Aschau de lijn van de Zillertalbahn naar Zell am Ziller; daarna gaat het langs de rivier naar Mayrhofen.\n\nDe route is vrijwel vlak en daardoor populair bij gezinnen. Je kunt gedeeltes fietsen, bijvoorbeeld Mayrhofen–Zell am Ziller, en terugkeren met trein of bus. Zell am Ziller is een goede plek voor een lunchstop. Controleer vooraf of de trein fietsen meeneemt.",
+   "en": "The Zillertal cycle path is about 30 km long and follows the valley floor. It branches off the Inn cycle path at the Ziller bridge and runs via Uderns, Kaltenbach and Aschau alongside the Zillertalbahn to Zell am Ziller, then along the river to Mayrhofen.\n\nThe route is almost flat and popular with families. You can ride sections, for example Mayrhofen to Zell am Ziller, and return by train or bus. Zell am Ziller is a good lunch stop. Check beforehand whether the train carries bikes.",
+   "de": "Der Zillertal-Radweg ist etwa 30 km lang und folgt dem Talboden. Er zweigt an der Zillerbrücke vom Innradweg ab und führt über Uderns, Kaltenbach und Aschau entlang der Zillertalbahn nach Zell am Ziller, dann am Fluss weiter nach Mayrhofen.\n\nDie Strecke ist nahezu flach und bei Familien beliebt. Man kann Abschnitte fahren, etwa Mayrhofen–Zell am Ziller, und mit Zug oder Bus zurückkehren. Zell am Ziller eignet sich gut für eine Mittagspause. Vorab prüfen, ob der Zug Räder mitnimmt."
+  },
+  "tips": {
+   "nl": [
+    "Fiets een deelstuk en keer terug met trein of bus.",
+    "Plan een lunchstop in Zell am Ziller.",
+    "Informeer vooraf naar fietsvervoer in de trein."
+   ],
+   "en": [
+    "Ride a section and return by train or bus.",
+    "Plan a lunch stop in Zell am Ziller.",
+    "Ask about bike transport on the train in advance."
+   ],
+   "de": [
+    "Einen Teilabschnitt radeln und mit Zug oder Bus zurückfahren.",
+    "Eine Mittagspause in Zell am Ziller einplanen.",
+    "Den Radtransport im Zug vorab erfragen."
+   ]
+  },
+  "practical": {
+   "nl": "Zell am Ziller ligt ca. 50 minuten rijden van Niederau, Mayrhofen ca. 1 uur. Vraag ter plaatse naar fietsverhuur.",
+   "en": "Zell am Ziller is about 50 minutes by car from Niederau, Mayrhofen about 1 hour. Ask locally about bike rental.",
+   "de": "Zell am Ziller ist ca. 50 Minuten Autofahrt von Niederau entfernt, Mayrhofen ca. 1 Stunde. Radverleih vor Ort erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden; vlak, geschikt voor gezinnen",
+    "en": "All ages; flat and family-friendly",
+    "de": "Alle Altersgruppen; flach und familienfreundlich"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag, afhankelijk van het traject",
+    "en": "Half to full day, depending on the section",
+    "de": "Halber bis ganzer Tag, je nach Abschnitt"
+   },
+   "price": {
+    "nl": "Gratis; fietsverhuur en trein apart",
+    "en": "Free; bike rental and train extra",
+    "de": "Kostenlos; Radverleih und Bahn extra"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden naar Zell am Ziller",
+    "en": "About 50 min by car to Zell am Ziller",
+    "de": "Ca. 50 Min. mit dem Auto nach Zell am Ziller"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot oktober)",
+    "en": "Summer (approx. May to October)",
+    "de": "Sommer (ca. Mai bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Zillertal, Zell am Ziller",
+   "en": "Zillertal, Zell am Ziller",
+   "de": "Zillertal, Zell am Ziller"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de route vlak?",
+     "en": "Is the route flat?",
+     "de": "Ist die Strecke flach?"
+    },
+    "a": {
+     "nl": "Vrijwel, het is een route over de dalbodem en populair bij gezinnen.",
+     "en": "Almost entirely; it runs along the valley floor and is popular with families.",
+     "de": "Weitgehend; sie führt über den Talboden und ist bei Familien beliebt."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "fietsen",
+  "season": "summer",
+  "slug_nl": "fietsen-zillertal-route-mayrhofenzell-am-ziller",
+  "_words": 151
+ },
+ {
+  "id": "s250",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ellmau",
+  "slug_en": "wilder-kaiser-panorama-hike",
+  "slug_de": "wilder-kaiser-panoramawanderung",
+  "title": {
+   "nl": "Panoramawandeling bij de Wilder Kaiser",
+   "en": "Panorama hike by the Wilder Kaiser",
+   "de": "Panoramawanderung am Wilden Kaiser"
+  },
+  "tagline": {
+   "nl": "Bergwandeling met uitzicht op de rotswanden van de Wilder Kaiser",
+   "en": "Mountain hike with views of the Wilder Kaiser rock faces",
+   "de": "Bergwanderung mit Blick auf die Felswände des Wilden Kaisers"
+  },
+  "intro": {
+   "nl": "De Wilder Kaiser is een kalksteengebergte met steile rotswanden aan de noordkant van Tirol. Vanuit Ellmau brengt de Hartkaiserbahn (een gondel voor 10 personen) je omhoog naar een plateau met rondwandelingen en paden richting Scheffau, met uitzicht op het Kaisermassief. Ook vanuit Söll leidt een bergbaan naar wandelroutes bij de Hohe Salve.\n\nOp het plateau vind je zowel gemakkelijke rondjes als langere bergtochten, dus de keuze hangt af van je conditie. Het uitzicht is het mooiste bij helder weer; kies je dag met zorg. Bij de bergstation is voor kinderen de speelwereld Ellmi's Zauberwelt.",
+   "en": "The Wilder Kaiser is a limestone range with steep rock faces on the northern edge of Tyrol. From Ellmau the Hartkaiserbahn (a 10-person gondola) takes you up to a plateau with circular walks and paths towards Scheffau, with views of the Kaiser massif. From Söll, too, a lift leads to walking routes at the Hohe Salve.\n\nOn the plateau you will find easy loops as well as longer mountain tours, so the choice depends on your fitness. The views are at their best in clear weather; choose your day carefully. At the top station, children can enjoy the play world Ellmi's Zauberwelt.",
+   "de": "Der Wilde Kaiser ist ein Kalkgebirge mit steilen Felswänden am Nordrand Tirols. Von Ellmau bringt dich die Hartkaiserbahn (eine 10er-Gondel) auf ein Plateau mit Rundwegen und Pfaden Richtung Scheffau, mit Blick auf das Kaisermassiv. Auch von Söll führt eine Bahn zu Wanderrouten an der Hohen Salve.\n\nAuf dem Plateau gibt es leichte Runden ebenso wie längere Bergtouren, die Wahl hängt also von deiner Kondition ab. Die Aussicht ist bei klarem Wetter am schönsten; wähle deinen Tag mit Bedacht. An der Bergstation gibt es für Kinder die Erlebniswelt Ellmi's Zauberwelt."
+  },
+  "tips": {
+   "nl": [
+    "Stevige wandelschoenen en regenkleding zijn nodig.",
+    "Start vroeg in de ochtend en kijk vooraf naar het weer.",
+    "Neem voldoende water en eten mee."
+   ],
+   "en": [
+    "Sturdy walking boots and rain gear are needed.",
+    "Start early in the morning and check the weather first.",
+    "Bring enough water and food."
+   ],
+   "de": [
+    "Feste Wanderschuhe und Regenkleidung sind nötig.",
+    "Starte früh am Morgen und prüfe vorher das Wetter.",
+    "Nimm ausreichend Wasser und Essen mit."
+   ]
+  },
+  "practical": {
+   "nl": "Ellmau ligt ca. 40 minuten rijden van Niederau, via Wörgl en Söll naar Ellmau.",
+   "en": "Ellmau is about 40 minutes by car from Niederau, via Wörgl and Söll to Ellmau.",
+   "de": "Ellmau liegt ca. 40 Autominuten von Niederau entfernt, über Wörgl und Söll nach Ellmau."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 10 jaar",
+    "en": "From about 10",
+    "de": "Ab ca. 10 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 4–5 uur",
+    "en": "About 4–5 hours",
+    "de": "Ca. 4–5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "About 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Ellmau / Söll, Wilder Kaiser",
+   "en": "Ellmau / Söll, Wilder Kaiser",
+   "de": "Ellmau / Söll, Wilder Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is een panoramawandeling bij de Wilder Kaiser geschikt voor kinderen?",
+     "en": "Is a panorama hike by the Wilder Kaiser suitable for children?",
+     "de": "Ist eine Panoramawanderung am Wilden Kaiser für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Voor oudere, geoefende kinderen; kies voor jongere kinderen een kortere route.",
+     "en": "For older, experienced children; choose a shorter route for younger children.",
+     "de": "Für ältere, geübte Kinder; wähle für jüngere Kinder eine kürzere Route."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "wandelen",
+  "season": "summer",
+  "slug_nl": "wilder-kaiser-panoramatour",
+  "_words": 153
+ },
+ {
+  "id": "s71",
+  "drop": false,
+  "drop_reason": "",
+  "place": "koessen",
+  "slug_en": "koessen-forest-pool",
+  "slug_de": "waldschwimmbad-koessen",
+  "title": {
+   "nl": "Waldschwimmbad Kössen",
+   "en": "Kössen Forest Pool",
+   "de": "Waldschwimmbad Kössen"
+  },
+  "tagline": {
+   "nl": "Verwarmd openluchtbad in het bos bij Kössen",
+   "en": "Heated outdoor pool in the woods near Kössen",
+   "de": "Beheiztes Freibad im Wald bei Kössen"
+  },
+  "intro": {
+   "nl": "In Kössen, in het Kaiserwinkl bij de Duitse grens, ligt het Erlebnis-Waldschwimmbad: een verwarmd openluchtbad met ca. 700 m² wateroppervlak, op ongeveer 24 graden, tussen bomen. Het is een goed alternatief als je liever in een bad dan in een meer zwemt.\n\nHet bad heeft twee glijbanen, een baby- en kinderbad, een whirlpool, een snackbar en een grote ligweide, plus een beachvolleybalveld en tafeltennis. Parkeren is gratis. Het seizoen loopt ongeveer van half mei tot half september; controleer de openingstijden en tarieven voor je vertrekt. Combineer het bezoek eventueel met een wandeling of fietstocht door het Kaiserwinkl.",
+   "en": "In Kössen, in the Kaiserwinkl near the German border, you will find the Erlebnis-Waldschwimmbad: a heated outdoor pool with about 700 sq m of water surface, at roughly 24 degrees, set among trees. It is a good alternative if you prefer a pool to a lake.\n\nThe pool has two slides, a baby and children's pool, a whirlpool, a snack bar and a large sunbathing lawn, plus a beach volleyball court and table tennis. Parking is free. The season runs roughly from mid-May to mid-September; check opening times and prices before you go. You can combine the visit with a walk or bike ride through the Kaiserwinkl.",
+   "de": "In Kössen im Kaiserwinkl nahe der deutschen Grenze liegt das Erlebnis-Waldschwimmbad: ein beheiztes Freibad mit rund 700 m² Wasserfläche bei etwa 24 Grad, zwischen Bäumen gelegen. Es ist eine gute Alternative, wenn man lieber im Bad als im See schwimmt.\n\nDas Bad hat zwei Rutschen, ein Baby- und Kinderbecken, einen Whirlpool, einen Imbiss und eine große Liegewiese, dazu ein Beachvolleyballfeld und Tischtennis. Parken ist kostenlos. Die Saison läuft ungefähr von Mitte Mai bis Mitte September; Öffnungszeiten und Preise vor der Fahrt prüfen. Der Besuch lässt sich mit einem Spaziergang oder einer Radtour durch den Kaiserwinkl verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf de openingstijden en het weer.",
+    "Doordeweeks is het meestal rustiger.",
+    "Combineer met een wandeling in het Kaiserwinkl."
+   ],
+   "en": [
+    "Check opening times and the weather beforehand.",
+    "It is usually quieter on weekdays.",
+    "Combine with a walk in the Kaiserwinkl."
+   ],
+   "de": [
+    "Öffnungszeiten und Wetter vorab prüfen.",
+    "Unter der Woche ist es meist ruhiger.",
+    "Mit einer Wanderung im Kaiserwinkl kombinieren."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 55 minuten rijden via Wörgl en Kufstein richting Kössen.",
+   "en": "From Niederau it is about 55 minutes by car via Wörgl and Kufstein towards Kössen.",
+   "de": "Von Niederau sind es etwa 55 Minuten mit dem Auto über Wörgl und Kufstein Richtung Kössen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden; baby- en kinderbad",
+    "en": "All ages; baby and children's pool",
+    "de": "Alle Altersgruppen; Baby- und Kinderbecken"
+   },
+   "duration": {
+    "nl": "Halve of hele dag",
+    "en": "Half or full day",
+    "de": "Halber oder ganzer Tag"
+   },
+   "price": {
+    "nl": "Entree wordt betaald; informeer vooraf",
+    "en": "Admission is charged; check beforehand",
+    "de": "Eintritt kostenpflichtig; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "About 55 min by car",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. half mei tot half september)",
+    "en": "Summer (roughly mid-May to mid-September)",
+    "de": "Sommer (ca. Mitte Mai bis Mitte September)"
+   }
+  },
+  "location": {
+   "nl": "Kössen, Kaiserwinkl",
+   "en": "Kössen, Kaiserwinkl",
+   "de": "Kössen, Kaiserwinkl"
+  },
+  "url": "https://www.kaiserwinkl.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het bad in Kössen een meer of een zwembad?",
+     "en": "Is Kössen's bathing spot a lake or a pool?",
+     "de": "Ist das Bad in Kössen ein See oder ein Schwimmbad?"
+    },
+    "a": {
+     "nl": "Het is een verwarmd openluchtbad in het bos (Erlebnis-Waldschwimmbad), geen natuurmeer.",
+     "en": "It is a heated outdoor pool in the woods (Erlebnis-Waldschwimmbad), not a natural lake.",
+     "de": "Es ist ein beheiztes Freibad im Wald (Erlebnis-Waldschwimmbad), kein Natursee."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "slug_nl": "strandabad-kossen",
+  "_words": 153
+ },
+ {
+  "id": "s295",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kufstein",
+  "slug_en": "haflinger-show-ebbs",
+  "slug_de": "haflinger-show-ebbs",
+  "title": {
+   "nl": "Haflinger-show op de Fohlenhof Ebbs",
+   "en": "Haflinger show at the Fohlenhof Ebbs",
+   "de": "Haflinger-Show am Fohlenhof Ebbs"
+  },
+  "tagline": {
+   "nl": "Een avondshow met Tiroler Haflinger-paarden bij Kufstein",
+   "en": "An evening show with Tyrolean Haflinger horses near Kufstein",
+   "de": "Eine Abendshow mit Tiroler Haflingern bei Kufstein"
+  },
+  "intro": {
+   "nl": "De Haflinger is een goudkleurig, robuust paardenras uit Tirol. Op de Haflinger Fohlenhof in Ebbs, bij Kufstein, wordt in de zomer een show georganiseerd waarin de veelzijdigheid van het ras te zien is, met onder meer dressuur, vrijheidsdressuur, voltige en menwedstrijden.\n\nDe show duurt ongeveer een uur en wordt in juli en augustus gegeven, vooral op vrijdagavond. Data en tijden kunnen per jaar wisselen, dus controleer ze vooraf. Op de Fohlenhof zijn ook andere activiteiten, zoals rondleidingen; kijk op de agenda van de regio. Een leuk uitje voor kinderen die van paarden houden.",
+   "en": "The Haflinger is a golden, sturdy horse breed from Tyrol. At the Haflinger Fohlenhof in Ebbs, near Kufstein, a summer show presents the versatility of the breed, with dressage, liberty work, vaulting and driving displays.\n\nThe show lasts about an hour and is held in July and August, mainly on Friday evenings. Dates and times can change from year to year, so check beforehand. The Fohlenhof also offers other activities such as guided tours; see the regional events calendar. A fun outing for children who love horses.",
+   "de": "Der Haflinger ist eine goldfarbene, robuste Pferderasse aus Tirol. Auf dem Haflinger Fohlenhof in Ebbs bei Kufstein wird im Sommer eine Show geboten, die die Vielseitigkeit der Rasse zeigt, mit Dressur, Freiheitsdressur, Voltigieren und Fahrsport.\n\nDie Show dauert etwa eine Stunde und findet im Juli und August statt, vor allem freitagabends. Termine und Zeiten können sich von Jahr zu Jahr ändern, prüfen Sie sie daher vorab. Auf dem Fohlenhof gibt es auch weitere Angebote wie Führungen; siehe den regionalen Veranstaltungskalender. Ein schöner Ausflug für pferdebegeisterte Kinder."
+  },
+  "tips": {
+   "nl": [
+    "Controleer de actuele showdata voordat je gaat; ze wisselen per jaar.",
+    "Neem een extra laagje mee: de avond kan koel zijn.",
+    "Informeer vooraf naar kaartverkoop en reserveer bij drukte."
+   ],
+   "en": [
+    "Check the current show dates before you go; they change from year to year.",
+    "Bring an extra layer: evenings can be cool.",
+    "Ask about ticket sales beforehand and book ahead when it is busy."
+   ],
+   "de": [
+    "Prüfen Sie vor dem Besuch die aktuellen Showtermine; sie ändern sich von Jahr zu Jahr.",
+    "Nehmen Sie eine zusätzliche Schicht mit: Die Abende können kühl sein.",
+    "Fragen Sie vorab nach dem Kartenverkauf und buchen Sie bei Andrang rechtzeitig."
+   ]
+  },
+  "practical": {
+   "nl": "Ebbs ligt ca. 35 minuten rijden van Niederau, vlak bij Kufstein in het Inntal.",
+   "en": "Ebbs is about 35 minutes by car from Niederau, close to Kufstein in the Inn Valley.",
+   "de": "Ebbs liegt ca. 35 Fahrminuten von Niederau entfernt, nahe Kufstein im Inntal."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Entree; informeer naar actuele tarieven",
+    "en": "Admission charged; check current prices",
+    "de": "Eintritt; aktuelle Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "Approx. 35 min drive",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (vooral juli en augustus)",
+    "en": "Summer (mainly July and August)",
+    "de": "Sommer (vor allem Juli und August)"
+   }
+  },
+  "location": {
+   "nl": "Ebbs bij Kufstein (Tirol)",
+   "en": "Ebbs near Kufstein (Tyrol)",
+   "de": "Ebbs bei Kufstein (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is de Haflinger-show?",
+     "en": "When is the Haflinger show?",
+     "de": "Wann ist die Haflinger-Show?"
+    },
+    "a": {
+     "nl": "Meestal op vrijdagavond in juli en augustus; de exacte data wisselen, dus informeer vooraf.",
+     "en": "Usually on Friday evenings in July and August; exact dates vary, so check beforehand.",
+     "de": "Meist freitagabends im Juli und August; die genauen Termine wechseln, bitte vorab erfragen."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "dieren",
+  "season": "summer",
+  "slug_nl": "haflinger-pferdeschau",
+  "_words": 155
+ },
+ {
+  "id": "s218",
+  "drop": false,
+  "drop_reason": "",
+  "place": "woergl",
+  "slug_en": "inn-cycle-path-woergl-kufstein",
+  "slug_de": "innradweg-woergl-kufstein",
+  "title": {
+   "nl": "Fietsen langs de Inn van Wörgl naar Kufstein",
+   "en": "Cycling along the Inn from Wörgl to Kufstein",
+   "de": "Radfahren am Inn von Wörgl nach Kufstein"
+  },
+  "tagline": {
+   "nl": "Een vlakke fietsroute naar de vesting van Kufstein",
+   "en": "A flat ride to Kufstein fortress",
+   "de": "Eine flache Radtour zur Festung Kufstein"
+  },
+  "intro": {
+   "nl": "Het Wörgl-Kufstein-deel van de Innradweg is ca. 17 km lang en loopt stroomafwaarts, grotendeels vlak. De route is licht en daardoor geschikt voor gezinnen en recreatieve fietsers. Onderweg zijn kleine rustplekken om te pauzeren.\n\nHet eindpunt is Kufstein, met zijn vesting en oude centrum. Reken op ruim een uur fietsen (ca. 1 uur en 15 minuten), plus tijd voor een bezoek. Terug kun je de trein nemen en de fiets meenemen; controleer vooraf de voorwaarden. Zo wordt het een halve dagtocht zonder dat je dezelfde weg hoeft terug te fietsen.",
+   "en": "The Wörgl to Kufstein section of the Inn cycle path is about 17 km long, runs downstream and is mostly flat. The route is rated easy and suits families and leisure cyclists. There are small rest areas along the way.\n\nThe finish is Kufstein with its fortress and old town. Allow a little over an hour of riding (about 1 hour 15 minutes) plus time for a visit. You can return by train with your bike; check the conditions beforehand. That makes a half-day outing without cycling the same way back.",
+   "de": "Der Abschnitt Wörgl–Kufstein des Innradwegs ist ca. 17 km lang, führt flussabwärts und ist überwiegend flach. Er gilt als leicht und eignet sich für Familien und Freizeitradler. Unterwegs gibt es kleine Rastplätze.\n\nZiel ist Kufstein mit Festung und Altstadt. Rechne mit gut eine Stunde Fahrzeit (ca. 1 Stunde 15 Minuten) plus Zeit für einen Besuch. Zurück kann man mit dem Zug fahren und das Rad mitnehmen; die Bedingungen vorab prüfen. So wird daraus ein Halbtagesausflug ohne denselben Weg zurück."
+  },
+  "tips": {
+   "nl": [
+    "Neem de trein terug en vraag naar fietsvervoer.",
+    "Plan tijd in voor de vesting van Kufstein.",
+    "Start vroeg op warme zomerdagen."
+   ],
+   "en": [
+    "Take the train back and check bike transport.",
+    "Allow time for Kufstein fortress.",
+    "Start early on hot summer days."
+   ],
+   "de": [
+    "Mit dem Zug zurückfahren und den Radtransport erfragen.",
+    "Zeit für die Festung Kufstein einplanen.",
+    "An heißen Sommertagen früh starten."
+   ]
+  },
+  "practical": {
+   "nl": "Wörgl ligt ca. 25 minuten rijden van Niederau; parkeer bij het station of in het centrum en start vandaar. Controleer vooraf de voorwaarden voor fietsvervoer in de trein.",
+   "en": "Wörgl is about 25 minutes by car from Niederau; park near the station or centre and start from there. Check the conditions for taking bikes on the train beforehand.",
+   "de": "Wörgl liegt ca. 25 Minuten Autofahrt von Niederau entfernt; beim Bahnhof oder im Zentrum parken und von dort starten. Die Bedingungen für den Radtransport im Zug vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden (gemakkelijke route)",
+    "en": "All ages (easy route)",
+    "de": "Alle Altersgruppen (leichte Route)"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur 15 fietsen, halve dag met bezoek",
+    "en": "About 1 h 15 cycling, half a day with a visit",
+    "de": "Ca. 1 Std. 15 Min. Fahrzeit, halber Tag mit Besuch"
+   },
+   "price": {
+    "nl": "Gratis; fietshuur en trein extra",
+    "en": "Free; bike rental and train extra",
+    "de": "Kostenlos; Radverleih und Zug extra"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden naar Wörgl",
+    "en": "About 25 min by car to Wörgl",
+    "de": "Ca. 25 Min. Fahrt nach Wörgl"
+   },
+   "season": {
+    "nl": "Zomer, ook in het voor- en najaar mogelijk",
+    "en": "Summer; also possible in spring and autumn",
+    "de": "Sommer, auch im Frühjahr und Herbst möglich"
+   }
+  },
+  "location": {
+   "nl": "Wörgl tot Kufstein",
+   "en": "Wörgl to Kufstein",
+   "de": "Wörgl bis Kufstein"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is de route?",
+     "en": "How long is the route?",
+     "de": "Wie lang ist die Strecke?"
+    },
+    "a": {
+     "nl": "Ca. 17 km, ongeveer 1 uur en 15 minuten, grotendeels vlak.",
+     "en": "About 17 km, roughly 1 hour 15 minutes, mostly flat.",
+     "de": "Ca. 17 km, rund 1 Stunde 15 Minuten, überwiegend flach."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "fietsen",
+  "season": "summer",
+  "slug_nl": "fietsen-langs-de-inn-worglkufstein",
+  "_words": 157
+ },
+ {
+  "id": "s121",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "kragenjoch-achentalalm-hike-oberau",
+  "slug_de": "kragenjoch-achentalalm-wanderung-oberau",
+  "title": {
+   "nl": "Kragenjoch-ronde met Achentalalm vanuit Oberau",
+   "en": "Kragenjoch round with Achentalalm from Oberau",
+   "de": "Kragenjoch-Runde mit Achentalalm ab Oberau"
+  },
+  "tagline": {
+   "nl": "Lichte gezinswandeling over een boswegen naar een alm",
+   "en": "An easy family walk along a forest road to an alm",
+   "de": "Leichte Familienwanderung auf Forstweg zur Alm"
+  },
+  "intro": {
+   "nl": "Vanuit Oberau Dorf loopt de Kragenjoch-ronde, een lichte wandeling die veel gezinnen kiezen. De route is ongeveer 6,8 km lang, kost rond 2,8 uur en voert met zo'n 500 hoogtemeters grotendeels over een comfortabele bosweg naar de Achentalalm, waar je kunt rusten.\n\nDe alm staat bekend om zijn eenvoudige gerechten: dagelijks van juni tot september is er kaiserschmarrn, en op woensdag Wildschönauer noedels. Vroeg in de zomer is het Kragenjoch bovendien bijzonder vanwege de bloeiende bergbloemen. Haal een wandelkaart bij het toeristenbureau en controleer vooraf het weer en de openingsdagen van de alm.",
+   "en": "From Oberau village the Kragenjoch round starts, an easy walk that many families choose. The route is roughly 6.8 km long, takes about 2.8 hours and, with around 500 metres of climbing, follows a comfortable forest road for most of the way to the Achentalalm, where you can rest.\n\nThe alm is known for simple dishes: kaiserschmarrn every day from June to September, and Wildschönau noodles on Wednesdays. In early summer the Kragenjoch is also special for its mountain flowers. Pick up a walking map at the tourist office and check the weather and the alm's opening days beforehand.",
+   "de": "Von Oberau Dorf aus startet die Kragenjoch-Runde, eine leichte Wanderung, die viele Familien wählen. Die Strecke ist rund 6,8 km lang, dauert etwa 2,8 Stunden und führt mit rund 500 Höhenmetern größtenteils auf einem bequemen Forstweg zur Achentalalm, wo man rasten kann.\n\nDie Alm ist für einfache Gerichte bekannt: von Juni bis September täglich Kaiserschmarrn, mittwochs Wildschönauer Nudeln. Im Frühsommer ist das Kragenjoch zudem wegen der blühenden Bergblumen besonders. Holen Sie sich im Tourismusbüro eine Wanderkarte und prüfen Sie vorab Wetter und Öffnungstage der Alm."
+  },
+  "tips": {
+   "nl": [
+    "Draag stevige wandelschoenen.",
+    "Neem zelf drinken mee voor onderweg.",
+    "Haal een wandelkaart bij het toeristenbureau.",
+    "Plan genoeg tijd voor de hutstop."
+   ],
+   "en": [
+    "Wear sturdy hiking shoes.",
+    "Bring your own drinks for the way.",
+    "Get a walking map at the tourist office.",
+    "Allow plenty of time for the hut stop."
+   ],
+   "de": [
+    "Tragen Sie feste Wanderschuhe.",
+    "Nehmen Sie Getränke für unterwegs mit.",
+    "Holen Sie sich eine Wanderkarte im Tourismusbüro.",
+    "Planen Sie genug Zeit für die Einkehr ein."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 minuten rijden van Niederau. De wandeling begint bij Oberau Dorf. Reken op ca. 3 uur, afhankelijk van tempo en pauzes.",
+   "en": "Oberau is about 5 minutes by car from Niederau. The walk starts at Oberau village. Allow about 3 hours, depending on pace and breaks.",
+   "de": "Oberau liegt ca. 5 Autominuten von Niederau entfernt. Die Wanderung beginnt in Oberau Dorf. Rechnen Sie je nach Tempo und Pausen mit ca. 3 Stunden."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From approx. 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 3 uur",
+    "en": "About 3 hours",
+    "de": "Ca. 3 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen is gratis; hutstop op eigen kosten",
+    "en": "Walking is free; hut stop at your own cost",
+    "de": "Wandern ist kostenlos; Einkehr auf eigene Kosten"
+   },
+   "distance": {
+    "nl": "Ca. 5 min rijden",
+    "en": "About 5 min by car",
+    "de": "Ca. 5 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Oberau Dorf, Wildschönau",
+   "en": "Oberau village, Wildschönau",
+   "de": "Oberau Dorf, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je onderweg eten?",
+     "en": "Can you eat along the way?",
+     "de": "Kann man unterwegs einkehren?"
+    },
+    "a": {
+     "nl": "Ja, bij de Achentalalm; controleer vooraf de openingsdagen en neem voor de rest zelf water mee.",
+     "en": "Yes, at the Achentalalm; check its opening days beforehand and bring your own water for the rest.",
+     "de": "Ja, auf der Achentalalm; prüfen Sie vorab die Öffnungstage und nehmen Sie sonst Wasser selbst mit."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "wandelen",
+  "season": "summer",
+  "slug_nl": "berghuttenroute-oberaualmhutte",
+  "_words": 162
+ },
+ {
+  "id": "s175",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "",
+  "slug_en": "pony-riding-wildschoenau-area",
+  "slug_de": "ponyreiten-region-wildschoenau",
+  "title": {
+   "nl": "Ponyrijden en paardrijden in de regio",
+   "en": "Pony and horse riding in the region",
+   "de": "Ponyreiten und Reiten in der Region"
+  },
+  "tagline": {
+   "nl": "Haflingers en pony's op de alpenweiden voor groot en klein",
+   "en": "Haflingers and ponies on the alpine pastures for young and old",
+   "de": "Haflinger und Ponys auf den Almwiesen für Groß und Klein"
+  },
+  "intro": {
+   "nl": "Haflingers zijn een bekend Tiroler paardenras: compact, sterk en meestal rustig van aard. Daardoor zijn ze geschikt voor beginners en kinderen. In de omgeving van St. Johann en de Wildschönau kun je paardrijden, van korte ritjes op een pony voor kleuters tot langere tochten te paard of met een koets voor volwassenen.\n\nVraag het toeristenbureau naar manegen en stoeterijen in de buurt en reserveer vooraf. Pony's zijn te klein voor volwassenen; kinderen rijden vaak onder begeleiding aan de hand. Combineer het uitstapje desgewenst met een bezoek aan een boerderij, zodat de kinderen ook meer over de dieren leren.",
+   "en": "Haflingers are a well-known Tyrolean horse breed: compact, strong and usually calm by nature, which makes them suitable for beginners and children. In the area around St. Johann and the Wildschönau you can go riding, from short pony rides for toddlers to longer rides on horseback or by carriage for adults.\n\nAsk the tourist office about riding stables and stud farms nearby and book in advance. Ponies are too small for adults; children are often led by hand under supervision. If you like, combine the outing with a visit to a farm, so the children also learn more about the animals.",
+   "de": "Haflinger sind eine bekannte Tiroler Pferderasse: kompakt, kräftig und meist ruhig im Wesen, daher für Anfänger und Kinder geeignet. In der Umgebung von St. Johann und der Wildschönau kann man reiten, von kurzen Ponyritten für Kleinkinder bis zu längeren Ausritten oder Kutschfahrten für Erwachsene.\n\nFragen Sie das Tourismusbüro nach Reitställen und Gestüten in der Nähe und reservieren Sie vorab. Ponys sind für Erwachsene zu klein; Kinder werden meist an der Hand geführt. Verbinden Sie den Ausflug bei Lust mit dem Besuch eines Bauernhofs, damit die Kinder noch mehr über die Tiere erfahren."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf via het toeristenbureau of de aanbieder.",
+    "Draag gesloten schoenen en een lange broek.",
+    "Combineer met een bezoek aan een boerderij."
+   ],
+   "en": [
+    "Book beforehand through the tourist office or the operator.",
+    "Wear closed shoes and long trousers.",
+    "Combine with a farm visit."
+   ],
+   "de": [
+    "Reserviere vorab über das Tourismusbüro oder den Anbieter.",
+    "Trage geschlossene Schuhe und lange Hosen.",
+    "Verbinde es mit einem Bauernhofbesuch."
+   ]
+  },
+  "practical": {
+   "nl": "Het aanbod ligt in de omgeving van St. Johann en de Wildschönau, ca. 15 tot 35 minuten rijden vanaf Niederau. Vraag het toeristenbureau naar de dichtstbijzijnde aanbieder.",
+   "en": "Riding options are found around St. Johann and the Wildschönau, about 15 to 35 minutes' drive from Niederau. Ask the tourist office for the nearest provider.",
+   "de": "Reitangebote gibt es rund um St. Johann und in der Wildschönau, ca. 15 bis 35 Minuten Fahrt von Niederau. Fragen Sie das Tourismusbüro nach dem nächstgelegenen Anbieter."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 3 uur",
+    "en": "About 1 to 3 hours",
+    "de": "Ca. 1 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preis variiert; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 15 tot 35 min rijden",
+    "en": "About 15 to 35 min by car",
+    "de": "Ca. 15 bis 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Omgeving St. Johann en Wildschönau",
+   "en": "St. Johann and Wildschönau area",
+   "de": "Raum St. Johann und Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is een Haflinger?",
+     "en": "What is a Haflinger?",
+     "de": "Was ist ein Haflinger?"
+    },
+    "a": {
+     "nl": "Een compact, sterk en rustig paardenras uit Tirol, geschikt voor beginners.",
+     "en": "A compact, strong and calm horse breed from Tyrol, suitable for beginners.",
+     "de": "Eine kompakte, kräftige und ruhige Pferderasse aus Tirol, geeignet für Anfänger."
+    }
+   }
+  ],
+  "theme": "avontuur",
+  "season": "summer",
+  "slug_nl": "ponyrijden-en-paardentrekking-tirol",
+  "_words": 163
+ },
+ {
+  "id": "s232",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "ambras-castle-innsbruck",
+  "slug_de": "schloss-ambras-innsbruck",
+  "title": {
+   "nl": "Schloss Ambras Innsbruck",
+   "en": "Ambras Castle, Innsbruck",
+   "de": "Schloss Ambras Innsbruck"
+  },
+  "tagline": {
+   "nl": "Renaissanceslot met kunst- en wonderkamer boven Innsbruck",
+   "en": "Renaissance castle with a cabinet of curiosities above Innsbruck",
+   "de": "Renaissanceschloss mit Kunst- und Wunderkammer über Innsbruck"
+  },
+  "intro": {
+   "nl": "Aartshertog Ferdinand II (1529-1595) liet het middeleeuwse Ambras uitbouwen tot een renaissancepaleis, als geschenk voor zijn vrouw Philippine Welser, een koopmansdochter uit Augsburg. Het slot wordt het oudste museum ter wereld genoemd en bewaart de verzamelingen van de aartshertog.\n\nDe Kunst- und Wunderkammer is de enige renaissancistische kunstkamer die nog op de oorspronkelijke plek bewaard is. De Spaanse Zaal geldt als een van de mooiste renaissancezalen, en ook het bad van Philippine is bewaard gebleven. Rond het slot ligt een park waar kinderen na het bezoek kunnen rennen. Reken op ca. twee uur.",
+   "en": "Archduke Ferdinand II (1529-1595) had medieval Ambras extended into a Renaissance palace as a gift for his wife Philippine Welser, a merchant's daughter from Augsburg. The castle is regarded as the oldest museum in the world and keeps the archduke's collections.\n\nThe Kunst- und Wunderkammer is the only Renaissance cabinet of art and curiosities preserved in its original location. The Spanish Hall counts among the finest Renaissance halls, and Philippine's bath has survived too. A park surrounds the castle, where children can run around after the visit. Allow about two hours.",
+   "de": "Erzherzog Ferdinand II. (1529-1595) ließ das mittelalterliche Ambras als Geschenk für seine Frau Philippine Welser, eine Augsburger Kaufmannstochter, zu einem Renaissanceschloss ausbauen. Das Schloss gilt als ältestes Museum der Welt und bewahrt die Sammlungen des Erzherzogs.\n\nDie Kunst- und Wunderkammer ist die einzige Renaissance-Kunstkammer, die noch an ihrem ursprünglichen Ort erhalten ist. Der Spanische Saal zählt zu den schönsten Renaissancesälen, und auch das Bad der Philippine ist erhalten. Rund um das Schloss liegt ein Park, in dem Kinder nach dem Besuch toben können. Plane etwa zwei Stunden ein."
+  },
+  "tips": {
+   "nl": [
+    "Bezoek de Wunderkammer; kinderen vinden de vreemde voorwerpen meestal leuk.",
+    "Neem de tijd voor de Spaanse Zaal.",
+    "Gebruik het park voor een pauze of picknick na het bezoek."
+   ],
+   "en": [
+    "Visit the Wunderkammer; children usually enjoy the unusual objects.",
+    "Take your time in the Spanish Hall.",
+    "Use the park for a break or picnic after the visit."
+   ],
+   "de": [
+    "Besuche die Wunderkammer; Kinder mögen die ungewöhnlichen Objekte meist.",
+    "Nimm dir Zeit für den Spanischen Saal.",
+    "Nutze den Park nach dem Besuch für eine Pause oder ein Picknick."
+   ]
+  },
+  "practical": {
+   "nl": "Schloss Ambras ligt aan de oostkant van Innsbruck, ca. 1 uur rijden vanaf Niederau via de A12. Informeer vooraf naar openingstijden, prijzen en openbaar vervoer.",
+   "en": "Ambras Castle is on the eastern side of Innsbruck, about 1 hour by car from Niederau via the A12. Check opening times, prices and public transport beforehand.",
+   "de": "Schloss Ambras liegt im Osten von Innsbruck, etwa 1 Stunde Autofahrt von Niederau entfernt über die A12. Öffnungszeiten, Preise und öffentliche Verbindungen vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From approx. 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "Approx. 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Entree; actuele prijzen op de officiële website",
+    "en": "Admission charged; see the official website for current prices",
+    "de": "Eintritt; aktuelle Preise auf der offiziellen Website"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (controleer openingstijden)",
+    "en": "All year (check opening hours)",
+    "de": "Ganzjährig (Öffnungszeiten prüfen)"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck-Amras",
+   "en": "Innsbruck-Amras",
+   "de": "Innsbruck-Amras"
+  },
+  "url": "https://www.schlossambras-innsbruck.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Voor wie liet Ferdinand II Schloss Ambras uitbouwen?",
+     "en": "For whom did Ferdinand II have Ambras Castle extended?",
+     "de": "Für wen ließ Ferdinand II. Schloss Ambras ausbauen?"
+    },
+    "a": {
+     "nl": "Voor zijn vrouw Philippine Welser, een koopmansdochter uit Augsburg.",
+     "en": "For his wife Philippine Welser, a merchant's daughter from Augsburg.",
+     "de": "Für seine Frau Philippine Welser, eine Augsburger Kaufmannstochter."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "cultuur",
+  "season": "summer",
+  "slug_nl": "schloss-ambras-innsbruck-habsburg-kasteel",
+  "_words": 164
+ },
+ {
+  "id": "s191",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "karwendel-scharnitz-hinterautal",
+  "slug_de": "karwendel-scharnitz-hinterautal",
+  "title": {
+   "nl": "Karwendel bij Scharnitz",
+   "en": "Karwendel near Scharnitz",
+   "de": "Karwendel bei Scharnitz"
+  },
+  "tagline": {
+   "nl": "Wandelen in het grootste natuurpark van Oostenrijk, langs de jonge Isar",
+   "en": "Walking in Austria's largest nature park, along the young Isar",
+   "de": "Wandern im größten Naturpark Österreichs entlang der jungen Isar"
+  },
+  "intro": {
+   "nl": "Scharnitz ligt vlak bij de Duitse grens en geldt als de poort naar het Karwendel. Het Naturpark Karwendel beslaat ca. 739 km² en is het grootste natuurpark van Oostenrijk. Vanuit het dorp loop je het Hinterautal in, een ca. 14 km lange, rustige vallei waar de Isar als jonge bergrivier stroomt.\n\nEen klassieker is de wandeling naar de Isarursprung, over een brede, vrij vlakke bosweg die wel lang is. Voor wie verder wil, ligt langs de Kastenalm de route naar het Hallerangerhaus. Neem de lange rit vanuit Niederau mee in je planning.",
+   "en": "Scharnitz lies close to the German border and is regarded as the gateway to the Karwendel. The Karwendel Nature Park covers about 739 km² and is the largest nature park in Austria. From the village you walk into the Hinterautal, a quiet valley about 14 km long where the young Isar flows.\n\nA classic outing is the walk to the Isarursprung (the Isar's source) along a broad, fairly level forest road, which is easy but long. If you want to go further, the route continues past the Kastenalm to the Hallerangerhaus. Bear in mind the long drive from Niederau.",
+   "de": "Scharnitz liegt nahe der deutschen Grenze und gilt als Tor zum Karwendel. Der Naturpark Karwendel umfasst ca. 739 km² und ist der größte Naturpark Österreichs. Vom Ort geht es ins Hinterautal, ein ruhiges, ca. 14 km langes Tal, in dem die junge Isar fließt.\n\nEin Klassiker ist die Wanderung zum Isarursprung auf einem breiten, recht flachen Forstweg, der einfach, aber lang ist. Wer weiter möchte, folgt der Route an der Kastenalm vorbei zum Hallerangerhaus. Bedenke die lange Fahrt ab Niederau."
+  },
+  "tips": {
+   "nl": [
+    "Neem water en eten mee; onderweg zijn weinig voorzieningen.",
+    "Kies de lengte van de wandeling naar de kinderen; je kunt overal omkeren.",
+    "Bekijk vooraf bij de Naturpark-informatie welke routes open zijn."
+   ],
+   "en": [
+    "Bring water and food; there are few facilities along the way.",
+    "Choose the length of the walk to suit the children; you can turn back anywhere.",
+    "Check with the nature park information beforehand which routes are open."
+   ],
+   "de": [
+    "Nimm Wasser und Verpflegung mit; unterwegs gibt es wenig Einkehrmöglichkeiten.",
+    "Wähle die Länge der Wanderung passend zu den Kindern; du kannst jederzeit umkehren.",
+    "Informiere dich vorab beim Naturpark, welche Routen offen sind."
+   ]
+  },
+  "practical": {
+   "nl": "Scharnitz ligt ca. 1 uur en 15 minuten rijden van Niederau, via de A12 richting Innsbruck en dan naar Seefeld en Scharnitz.",
+   "en": "Scharnitz is about 1 hour 15 minutes by car from Niederau, via the A12 towards Innsbruck and then on towards Seefeld and Scharnitz.",
+   "de": "Scharnitz liegt ca. 1 Std. 15 Min. Autofahrt von Niederau entfernt, über die A12 Richtung Innsbruck und weiter nach Seefeld und Scharnitz."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 15 rijden",
+    "en": "About 1 h 15 by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Scharnitz, Karwendel",
+   "en": "Scharnitz, Karwendel",
+   "de": "Scharnitz, Karwendel"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar begint de Isar?",
+     "en": "Where does the Isar begin?",
+     "de": "Wo entspringt die Isar?"
+    },
+    "a": {
+     "nl": "In het Karwendel, in het Hinterautal bij Scharnitz; de Isarursprung is een bekend wandeldoel.",
+     "en": "In the Karwendel, in the Hinterautal near Scharnitz; the Isarursprung is a well-known walking destination.",
+     "de": "Im Karwendel, im Hinterautal bei Scharnitz; der Isarursprung ist ein bekanntes Wanderziel."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "wandelen",
+  "season": "summer",
+  "slug_nl": "naturpark-karwendel-bezoekerscentrum-scharnitz",
+  "_words": 164
+ },
+ {
+  "id": "s219",
+  "drop": false,
+  "drop_reason": "",
+  "place": "brixlegg",
+  "slug_en": "leisure-area-brixlegg",
+  "slug_de": "freizeitanlage-brixlegg",
+  "title": {
+   "nl": "Freibad Brixlegg",
+   "en": "Brixlegg outdoor pool",
+   "de": "Freibad Brixlegg"
+  },
+  "tagline": {
+   "nl": "Buitenzwembad met speelplek in het Alpbachtal",
+   "en": "Outdoor pool with a playground in the Alpbachtal",
+   "de": "Freibad mit Spielplatz im Alpbachtal"
+  },
+  "intro": {
+   "nl": "Het buitenbad van Brixlegg ligt onder Schloss Lanegg, naast het museum over mijnbouw en smeltkunst. Het heeft twee bassins, waaronder een kinderbad, en een grote ligweide met schaduwbomen. In de omgeving van Brixlegg is ook een grote speelplek te vinden, en in het dorp liggen tennisbanen.\n\nHet is een rustige, lokale plek zonder massatoerisme. Brixlegg combineer je goed met een bezoek aan het glasblazersstadje Rattenberg of het bergdorp Alpbach. De toegangsprijzen verschillen per leeftijd en tijdstip en worden hier niet genoemd; kijk voor de actuele tarieven en openingstijden bij de gemeente of de toeristische dienst van het Alpbachtal.",
+   "en": "Brixlegg's outdoor pool lies below Schloss Lanegg, next to the museum on mining and smelting. It has two pools, including a children's pool, and a large sunbathing lawn with shade trees. A large playground can also be found around Brixlegg, and there are tennis courts in the village.\n\nIt is a quiet, local spot without mass tourism. Brixlegg combines well with a visit to the glassblowing town of Rattenberg or the mountain village of Alpbach. Entrance prices differ by age and time of day and are not given here; check the current rates and opening hours with the municipality or the Alpbachtal tourist office.",
+   "de": "Das Freibad von Brixlegg liegt unterhalb von Schloss Lanegg, neben dem Museum für Bergbau und Hüttenwesen. Es hat zwei Becken, darunter ein Kinderbecken, und eine große Liegewiese mit schattenspendenden Bäumen. In der Umgebung von Brixlegg gibt es zudem einen großen Spielplatz, und im Ort liegen Tennisplätze.\n\nEs ist ein ruhiger, lokaler Ort ohne Massentourismus. Brixlegg lässt sich gut mit einem Besuch in der Glasbläserstadt Rattenberg oder im Bergdorf Alpbach verbinden. Die Eintrittspreise unterscheiden sich nach Alter und Tageszeit und werden hier nicht genannt; aktuelle Preise und Öffnungszeiten bei der Gemeinde oder beim Tourismusverband Alpbachtal erfragen."
+  },
+  "tips": {
+   "nl": [
+    "Neem zwemkleding en zonnebrand mee.",
+    "Combineer met Rattenberg of Alpbach.",
+    "Controleer vooraf de openingstijden van het bad.",
+    "Neem een picknick mee voor op de ligweide."
+   ],
+   "en": [
+    "Bring swimwear and sun cream.",
+    "Combine with Rattenberg or Alpbach.",
+    "Check the pool's opening times beforehand.",
+    "Bring a picnic for the lawn."
+   ],
+   "de": [
+    "Badesachen und Sonnencreme mitnehmen.",
+    "Mit Rattenberg oder Alpbach kombinieren.",
+    "Öffnungszeiten des Bades vorab prüfen.",
+    "Ein Picknick für die Liegewiese mitnehmen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Brixlegg in ca. 25 minuten rijden via de A12. Informeer vooraf naar tarieven en openingstijden.",
+   "en": "From Niederau, Brixlegg is about 25 minutes by car via the A12. Check rates and opening times beforehand.",
+   "de": "Von Niederau sind es ca. 25 Minuten Fahrt nach Brixlegg über die A12. Preise und Öffnungszeiten vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min by car",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Brixlegg, Alpbachtal",
+   "en": "Brixlegg, Alpbachtal",
+   "de": "Brixlegg, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er in de buurt te doen?",
+     "en": "What else is there nearby?",
+     "de": "Was gibt es in der Nähe?"
+    },
+    "a": {
+     "nl": "Rattenberg met zijn glasblazers en het bergdorp Alpbach liggen vlakbij; het mijnbouwmuseum staat naast het bad.",
+     "en": "Rattenberg with its glassblowers and the mountain village of Alpbach are close by; the mining museum is next to the pool.",
+     "de": "Rattenberg mit seinen Glasbläsern und das Bergdorf Alpbach liegen in der Nähe; das Bergbaumuseum steht neben dem Bad."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "attracties",
+  "season": "summer",
+  "slug_nl": "freizeitpark-brixlegg-en-omgeving",
+  "_words": 165
+ },
+ {
+  "id": "s122",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "niederau",
+  "slug_en": "family-games-evening-wastlhof",
+  "slug_de": "spieleabend-familie-wastlhof",
+  "title": {
+   "nl": "Speelavond bij Hotel Wastlhof",
+   "en": "Games evening at Hotel Wastlhof",
+   "de": "Spieleabend im Hotel Wastlhof"
+  },
+  "tagline": {
+   "nl": "Gezelschapsspellen en puzzels voor het hele gezin",
+   "en": "Board games and puzzles for the whole family",
+   "de": "Gesellschaftsspiele und Puzzles für die ganze Familie"
+  },
+  "intro": {
+   "nl": "Hotel Wastlhof in Niederau, partner van deze site, is een gastvrij adres voor een gezinsavond met gezelschapsspellen, puzzels en Tiroler dorpsspellen. Zo'n avond is een rustige manier om de dag af te sluiten, vooral als het buiten regent of de kinderen moe zijn van het wandelen.\n\nFrequentie, tijdstip en voorwaarden kunnen per seizoen wisselen; de receptie vertelt of er een avond gepland staat en of je ook als niet-gast kunt aansluiten. Er is meestal genoeg te doen voor alle leeftijden, van eenvoudige kaartspellen voor jonge kinderen tot grotere puzzels en strategische spellen voor ouders en tieners. Een warm drankje maakt het gezellig.",
+   "en": "Hotel Wastlhof in Niederau, a partner of this site, is a welcoming place for a family evening of board games, puzzles and Tyrolean village games. Such an evening is a calm way to end the day, especially when it rains outside or the children are tired from hiking.\n\nFrequency, time and conditions can vary by season; the reception can tell you whether an evening is planned and whether non-guests can join in. There is usually plenty to do for all ages, from simple card games for young children to larger puzzles and strategy games for parents and teenagers. A hot drink makes it cosy.",
+   "de": "Das Hotel Wastlhof in Niederau, Partner dieser Website, ist ein gastlicher Ort für einen Familienabend mit Gesellschaftsspielen, Puzzles und Tiroler Dorfspielen. So ein Abend ist ein ruhiger Tagesabschluss, besonders wenn es draußen regnet oder die Kinder vom Wandern müde sind.\n\nHäufigkeit, Uhrzeit und Bedingungen können je nach Saison variieren; die Rezeption sagt Ihnen, ob ein Abend geplant ist und ob auch Nicht-Gäste teilnehmen können. Meist gibt es für alle Altersgruppen genug zu tun, von einfachen Kartenspielen für kleine Kinder bis zu größeren Puzzles und Strategiespielen für Eltern und Jugendliche. Ein warmes Getränk macht es gemütlich."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij de receptie wanneer de avond plaatsvindt.",
+    "Ideaal als regendagactiviteit.",
+    "Bestel een warm drankje erbij."
+   ],
+   "en": [
+    "Ask reception when the evening takes place.",
+    "Ideal as a rainy-day activity.",
+    "Order a warm drink to go with it."
+   ],
+   "de": [
+    "Frage an der Rezeption, wann der Abend stattfindet.",
+    "Ideal als Regentagsaktivität.",
+    "Bestelle ein warmes Getränk dazu."
+   ]
+  },
+  "practical": {
+   "nl": "De avond vindt plaats in Hotel Wastlhof in Niederau, dus in het dorp zelf. Informeer bij het hotel naar datum en deelname.",
+   "en": "The evening takes place at Hotel Wastlhof in Niederau, in the village itself. Ask the hotel about dates and participation.",
+   "de": "Der Abend findet im Hotel Wastlhof in Niederau statt, also im Ort selbst. Erkundige dich beim Hotel nach Terminen und Teilnahme."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Informeer bij het hotel",
+    "en": "Ask the hotel",
+    "de": "Bitte beim Hotel erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Informeer bij het hotel",
+    "en": "Ask the hotel",
+    "de": "Bitte beim Hotel erfragen"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de speelavond ook voor niet-gasten?",
+     "en": "Is the games evening open to non-guests?",
+     "de": "Ist der Spieleabend auch für Nicht-Gäste?"
+    },
+    "a": {
+     "nl": "Vraag het aan de receptie van Hotel Wastlhof of je ook als niet-gast kunt aansluiten.",
+     "en": "Ask the reception of Hotel Wastlhof whether non-guests can join in.",
+     "de": "Fragen Sie an der Rezeption des Hotels Wastlhof, ob auch Nicht-Gäste teilnehmen können."
+    }
+   }
+  ],
+  "theme": "avontuur",
+  "season": "summer",
+  "slug_nl": "speelavond-familie-wastlhof",
+  "_words": 165
+ },
+ {
+  "id": "s77",
+  "drop": false,
+  "drop_reason": "",
+  "place": "mayrhofen",
+  "slug_en": "ziller-rafting",
+  "slug_de": "rafting-zillertal",
+  "title": {
+   "nl": "Rafting op de Ziller",
+   "en": "Rafting on the Ziller",
+   "de": "Rafting auf der Ziller"
+  },
+  "tagline": {
+   "nl": "Met een gids in een rubberboot over de rivier",
+   "en": "By rubber raft with a guide down the river",
+   "de": "Mit Guide im Schlauchboot über den Fluss"
+  },
+  "intro": {
+   "nl": "Op de Ziller bij Mayrhofen organiseren raftingbedrijven in de zomer tochten, onder meer Actionclub Zillertal en de Freiluftakademie. Je vaart in een rubberboot met een gediplomeerde gids en werkt samen als team; de bekende route loopt van Kreuzach bij Mayrhofen tot Hippach. Het peil en de moeilijkheid hangen af van het seizoen en het weer.\n\nEr zijn rustigere gezinstochten, meestal vanaf ca. 6 jaar, en pittigere tochten met een hogere minimumleeftijd, ongeveer 10 tot 12 jaar. Je wordt vrijwel zeker nat. Boek van tevoren bij de aanbieder en lees de voorwaarden over leeftijd en gezondheid.",
+   "en": "On the Ziller near Mayrhofen, rafting companies run trips in summer, including Actionclub Zillertal and the Freiluftakademie. You travel in a rubber raft with a qualified guide and work together as a team; the well-known stretch runs from Kreuzach near Mayrhofen to Hippach. Water level and difficulty depend on the season and the weather.\n\nThere are gentler family trips, usually from about 6 years, and livelier ones with a higher minimum age, roughly 10 to 12 years. You will almost certainly get wet. Book ahead with the provider and read the age and health conditions.",
+   "de": "Auf der Ziller bei Mayrhofen bieten Rafting-Anbieter im Sommer Touren an, unter anderem Actionclub Zillertal und die Freiluftakademie. Man fährt im Schlauchboot mit ausgebildetem Guide und arbeitet als Team; die bekannte Strecke führt von Kreuzach bei Mayrhofen bis Hippach. Wasserstand und Schwierigkeit hängen von Jahreszeit und Wetter ab.\n\nEs gibt ruhigere Familientouren, meist ab etwa 6 Jahren, und actionreichere Touren mit höherem Mindestalter, etwa 10 bis 12 Jahre. Man wird fast sicher nass. Vorab beim Anbieter buchen und die Bedingungen zu Alter und Gesundheit lesen."
+  },
+  "tips": {
+   "nl": [
+    "Boek vooraf en vraag naar de minimumleeftijd van de gekozen tocht.",
+    "Neem een handdoek en droge kleren mee.",
+    "Het peil is vaak hoger in het voorjaar en begin zomer."
+   ],
+   "en": [
+    "Book ahead and ask about the minimum age of the chosen trip.",
+    "Bring a towel and dry clothes.",
+    "Water levels are often higher in spring and early summer."
+   ],
+   "de": [
+    "Vorab buchen und nach dem Mindestalter der gewählten Tour fragen.",
+    "Handtuch und trockene Kleidung mitnehmen.",
+    "Der Wasserstand ist im Frühjahr und Frühsommer oft höher."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 50 minuten rijden naar Mayrhofen in het Zillertal, waar de tochten starten.",
+   "en": "From Niederau it is about 50 minutes by car to Mayrhofen in the Zillertal, where the trips start.",
+   "de": "Von Niederau sind es etwa 50 Minuten mit dem Auto nach Mayrhofen im Zillertal, wo die Touren starten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinstochten meestal vanaf ca. 6 jaar",
+    "en": "Family trips usually from about 6 years",
+    "de": "Familientouren meist ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Enkele uren, afhankelijk van de tocht",
+    "en": "A few hours, depending on the trip",
+    "de": "Einige Stunden, je nach Tour"
+   },
+   "price": {
+    "nl": "Prijs verschilt per tocht; informeer vooraf",
+    "en": "Price varies by trip; check beforehand",
+    "de": "Preis je nach Tour verschieden; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "About 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Mayrhofen, Zillertal",
+   "en": "Mayrhofen, Zillertal",
+   "de": "Mayrhofen, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Vanaf welke leeftijd kun je raften op de Ziller?",
+     "en": "From what age can you raft on the Ziller?",
+     "de": "Ab welchem Alter kann man auf der Ziller raften?"
+    },
+    "a": {
+     "nl": "Gezinstochten bieden aanbieders meestal aan vanaf ca. 6 jaar; sportievere tochten hebben een hogere minimumleeftijd.",
+     "en": "Providers usually offer family trips from about 6 years; more sporty trips have a higher minimum age.",
+     "de": "Anbieter bieten Familientouren meist ab ca. 6 Jahren an; sportlichere Touren haben ein höheres Mindestalter."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "avontuur",
+  "season": "summer",
+  "slug_nl": "wildwater-rafting-zillertal",
+  "_words": 165
+ },
+ {
+  "id": "s84",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "area-47-oetztal",
+  "slug_de": "area-47-oetztal",
+  "title": {
+   "nl": "Area 47 in het Ötztal",
+   "en": "Area 47 in the Ötztal",
+   "de": "Area 47 im Ötztal"
+  },
+  "tagline": {
+   "nl": "Groot outdoorpark met waterpark, klimmen en avontuurlijke activiteiten",
+   "en": "Large outdoor adventure park with water park, climbing and adventure activities",
+   "de": "Großer Outdoorpark mit Wasserpark, Klettern und Abenteueraktivitäten"
+  },
+  "intro": {
+   "nl": "Area 47 is een groot outdoor- en avonturenpark bij het station Ötztal-Bahnhof, in de gemeente Haiming in het Ötztal. Het terrein is verdeeld in zones voor onder meer water, klimmen, mountainbiken en wakeboarden, zodat je er een hele dag zoet mee kunt zijn.\n\nTot de attracties horen een waterpark met glijbanen, een hoge touwroute, een van de hoogste kunstmatige klimwanden van Oostenrijk en een zipline. Daarnaast zijn er geleide activiteiten zoals raften en canyoning, meestal voor oudere kinderen en tieners. Per onderdeel gelden leeftijds- en lengtegrenzen, dus kies samen met de kinderen vooraf wat past.",
+   "en": "Area 47 is a large outdoor and adventure park at Ötztal-Bahnhof station, in the municipality of Haiming in the Ötztal valley. The grounds are divided into zones for water, climbing, mountain biking and wakeboarding, among others, so there is enough to fill a whole day.\n\nAttractions include a water park with slides, a high rope course, one of Austria's highest artificial climbing walls and a zip line. There are also guided activities such as rafting and canyoning, mostly for older children and teenagers. Age and height limits apply to each activity, so decide with the children beforehand what suits them.",
+   "de": "Area 47 ist ein großer Outdoor- und Abenteuerpark beim Bahnhof Ötztal-Bahnhof in der Gemeinde Haiming im Ötztal. Das Gelände ist in Zonen unter anderem für Wasser, Klettern, Mountainbiken und Wakeboarden aufgeteilt, sodass man hier leicht einen ganzen Tag verbringen kann.\n\nZu den Attraktionen zählen ein Wasserpark mit Rutschen, ein Hochseilgarten, eine der höchsten künstlichen Kletterwände Österreichs und eine Zipline. Dazu gibt es geführte Aktivitäten wie Rafting und Canyoning, meist für ältere Kinder und Jugendliche. Für jede Aktivität gelten Alters- und Größengrenzen, daher vorab gemeinsam mit den Kindern auswählen, was passt."
+  },
+  "tips": {
+   "nl": [
+    "Neem badkleding, handdoeken en wisselkleding mee.",
+    "Kijk vooraf naar leeftijds- en lengtegrenzen per activiteit.",
+    "Reserveer geleide activiteiten zoals raften of canyoning vooraf."
+   ],
+   "en": [
+    "Bring swimwear, towels and spare clothes.",
+    "Check age and height limits for each activity beforehand.",
+    "Book guided activities such as rafting or canyoning in advance."
+   ],
+   "de": [
+    "Bade­kleidung, Handtücher und Wechselkleidung mitnehmen.",
+    "Alters- und Größengrenzen der einzelnen Aktivitäten vorab prüfen.",
+    "Geführte Aktivitäten wie Rafting oder Canyoning vorab reservieren."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 1 uur en 15 minuten rijden via de A12 richting Innsbruck en verder naar het Ötztal. Het park ligt direct bij het station Ötztal-Bahnhof.",
+   "en": "From Niederau it is about 1 hour 15 minutes by car via the A12 towards Innsbruck and on to the Ötztal. The park is right by Ötztal-Bahnhof station.",
+   "de": "Von Niederau sind es ca. 1 Stunde 15 Minuten Fahrt über die A12 Richtung Innsbruck und weiter ins Ötztal. Der Park liegt direkt am Bahnhof Ötztal-Bahnhof."
+  },
+  "facts": {
+   "age": {
+    "nl": "Per activiteit verschillend; veel onderdelen voor kinderen vanaf het basisschoolleeftijd",
+    "en": "Varies by activity; many parts suit primary-school children and up",
+    "de": "Je nach Aktivität unterschiedlich; vieles ab Grundschulalter"
+   },
+   "duration": {
+    "nl": "Een halve tot hele dag",
+    "en": "Half a day to a full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt per onderdeel; informeer vooraf",
+    "en": "Price varies by activity; check beforehand",
+    "de": "Preis je nach Angebot; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 15 min rijden",
+    "en": "About 1 h 15 min by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Vooral zomer",
+    "en": "Mainly summer",
+    "de": "Vor allem Sommer"
+   }
+  },
+  "location": {
+   "nl": "Haiming, Ötztal",
+   "en": "Haiming, Ötztal",
+   "de": "Haiming, Ötztal"
+  },
+  "url": "https://www.area47.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is Area 47?",
+     "en": "What is Area 47?",
+     "de": "Was ist Area 47?"
+    },
+    "a": {
+     "nl": "Een groot outdoor- en avonturenpark in het Ötztal met water-, klim- en andere sportzones.",
+     "en": "A large outdoor and adventure park in the Ötztal with water, climbing and other sports zones.",
+     "de": "Ein großer Outdoor- und Abenteuerpark im Ötztal mit Wasser-, Kletter- und weiteren Sportzonen."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "attracties",
+  "season": "summer",
+  "slug_nl": "freizeitpark-haiming-otztal",
+  "_words": 166
+ },
+ {
+  "id": "s234",
+  "drop": false,
+  "drop_reason": "",
+  "place": "mayrhofen",
+  "slug_en": "ahorn-alm-walk-mayrhofen",
+  "slug_de": "ahorn-almwanderung-mayrhofen",
+  "title": {
+   "nl": "Almwandeling boven Mayrhofen (Ahorn)",
+   "en": "Alm walk above Mayrhofen, Ahorn",
+   "de": "Almwanderung oberhalb von Mayrhofen am Ahorn"
+  },
+  "tagline": {
+   "nl": "Bloemrijke almroute op ca. 2.000 meter boven het Zillertal",
+   "en": "Flower-rich alm route at about 2,000 metres above the Zillertal",
+   "de": "Blumenreiche Almroute auf ca. 2.000 Metern über dem Zillertal"
+  },
+  "intro": {
+   "nl": "Boven Mayrhofen ligt het Ahorn-gebied, dat je met de Ahornbahn bereikt. Bovenop begint een rondwandeling over alpenweiden met uitzicht over het Zillertal. In de zomer kleuren de weiden met bloemen, en in het begin van de zomer bloeien ook alpenrozen.\n\nDe route is eenvoudig en kost ongeveer een tot twee uur; langere tochten zijn mogelijk voor wie meer wil. Onderweg zijn berghutten voor een pauze, waar je kunt genieten van het uitzicht met iets te drinken. Het is een prettige zomerse uitstap voor het hele gezin, ook voor wie liever rustig wandelt dan een lange tocht maakt. Vertrek bij voorkeur 's ochtends, dan is het boven doorgaans het rustigst.",
+   "en": "Above Mayrhofen lies the Ahorn area, reached by the Ahornbahn cable car. At the top a circular walk starts across alpine pastures with views over the Zillertal. In summer the meadows are full of flowers, and in early summer the alpine roses bloom too.\n\nThe route is easy and takes roughly one to two hours; longer hikes are possible for those who want more. Along the way there are mountain huts for a break, where you can enjoy the view with a drink. It is a pleasant summer outing for the whole family, also for those who prefer a gentle stroll to a long hike. Setting off in the morning usually means a quieter experience at the top.",
+   "de": "Oberhalb von Mayrhofen liegt das Ahorn-Gebiet, das Sie mit der Ahornbahn erreichen. Oben beginnt eine Rundwanderung über Almwiesen mit Blick über das Zillertal. Im Sommer leuchten die Wiesen von Blumen, und im Frühsommer blühen auch die Almrosen.\n\nDie Route ist einfach und dauert etwa ein bis zwei Stunden; längere Touren sind für alle möglich, die mehr wollen. Unterwegs laden Berghütten zur Rast ein, wo man bei einem Getränk die Aussicht genießen kann. Es ist ein angenehmer Sommerausflug für die ganze Familie, auch für alle, die lieber gemütlich spazieren als lange wandern. Wer am Vormittag startet, erlebt es oben meist ruhiger."
+  },
+  "tips": {
+   "nl": [
+    "Alpenrozen bloeien vooral in juni en juli.",
+    "Controleer vooraf of de Ahornbahn rijdt.",
+    "Neem een jas mee; boven is het fris."
+   ],
+   "en": [
+    "Alpenrose blooms mainly in June and July.",
+    "Check beforehand that the Ahornbahn is running.",
+    "Bring a jacket; it is cool at the top."
+   ],
+   "de": [
+    "Alpenrosen blühen vor allem im Juni und Juli.",
+    "Prüfe vorab, ob die Ahornbahn fährt.",
+    "Nimm eine Jacke mit; oben ist es frisch."
+   ]
+  },
+  "practical": {
+   "nl": "Mayrhofen ligt ca. 55 minuten rijden van Niederau, via Wörgl en de B169 het Zillertal in.",
+   "en": "Mayrhofen is about 55 minutes by car from Niederau, via Wörgl and the B169 into the Zillertal.",
+   "de": "Mayrhofen liegt ca. 55 Autominuten von Niederau entfernt, über Wörgl und die B169 ins Zillertal."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2–3 uur",
+    "en": "About 2–3 hours",
+    "de": "Ca. 2–3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "About 55 min by car",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Mayrhofen, Zillertal",
+   "en": "Mayrhofen, Zillertal",
+   "de": "Mayrhofen, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe kom je boven bij het Ahorn-gebied?",
+     "en": "How do you get up to the Ahorn area?",
+     "de": "Wie kommt man ins Ahorn-Gebiet?"
+    },
+    "a": {
+     "nl": "Met de Ahornbahn vanuit Mayrhofen; informeer vooraf of de bergbaan rijdt.",
+     "en": "By the Ahornbahn from Mayrhofen; check beforehand that it is running.",
+     "de": "Mit der Ahornbahn ab Mayrhofen; erkundige dich vorab, ob sie fährt."
+    }
+   }
+  ],
+  "verified": true,
+  "theme": "wandelen",
+  "season": "summer",
+  "slug_nl": "rosenalm-wandeling-zillertal",
+  "_words": 166
+ }
+]
