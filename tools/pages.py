@@ -27,7 +27,10 @@ UI = {
  "n_place": ("Omgeving", "Around Niederau", "Umgebung"),
  "events_h": ("Terugkerende evenementen", "Recurring events", "Wiederkehrende Veranstaltungen"),
  "guides_h": ("Handige gidsen", "Useful guides", "Hilfreiche Ratgeber"),
+ "n_about": ("Over deze site", "About this site", "Über diese Seite"),
  "n_guides": ("Gidsen", "Guides", "Ratgeber"),
+ "read_more": ("Lees meer", "Read more", "Mehr lesen"),
+ "updated": ("Laatst bijgewerkt", "Last updated", "Zuletzt aktualisiert"),
  "n_events": ("Agenda", "Events", "Veranstaltungen"),
  "n_mb": ("Markbachjoch", "Markbachjoch", "Markbachjoch"),
  "toggle_label": ("Wissel tussen zomer- en winterversie", "Switch between summer and winter version", "Zwischen Sommer- und Winterversion wechseln"),
@@ -71,9 +74,9 @@ UI = {
  "min": ("min.", "min.", "Min."),
  "ca": ("ca.", "approx.", "ca."),
  "stay_h": ("Verblijf in Niederau", "Stay in Niederau", "Übernachten in Niederau"),
- "stay_p": ("Hotel Wastlhof, partner van Niederau.nl, is een familiehotel met binnen- en buitenzwembad, wellness en een eigen paardenstal, midden in het dorp. Voor meer overnachtingen en informatie kun je ook terecht bij het toeristenbureau van de Wildschönau.",
-            "Hotel Wastlhof, partner of Niederau.nl, is a family-run hotel with an indoor and an outdoor pool, wellness and its own riding stables, right in the village. For more places to stay and information you can also contact the Wildschönau tourist office.",
-            "Das Hotel Wastlhof, Partner von Niederau.nl, ist ein Familienhotel mit Hallen- und Freibad, Wellness und eigenem Reitstall, mitten im Dorf. Weitere Unterkünfte und Informationen gibt es auch beim Tourismusverband Wildschönau."),
+ "stay_p": ("Hotel Wastlhof, partner van Niederau.nl, is een familiehotel met binnen- en buitenzwembad, wellness en een eigen paardenstal, midden in het dorp. Voor meer overnachtingen en informatie kun je ook terecht bij het toeristenbureau van de Wildschönau. Persoonlijke aanbeveling, zonder vergoeding.",
+            "Hotel Wastlhof, partner of Niederau.nl, is a family-run hotel with an indoor and an outdoor pool, wellness and its own riding stables, right in the village. For more places to stay and information you can also contact the Wildschönau tourist office. Personal recommendation, no payment involved.",
+            "Das Hotel Wastlhof, Partner von Niederau.nl, ist ein Familienhotel mit Hallen- und Freibad, Wellness und eigenem Reitstall, mitten im Dorf. Weitere Unterkünfte und Informationen gibt es auch beim Tourismusverband Wildschönau. Persönliche Empfehlung, ohne Vergütung."),
  "stay_hotel": ("Naar Hotel Wastlhof", "To Hotel Wastlhof", "Zum Hotel Wastlhof"),
  "stay_vvv": ("Toeristenbureau Wildschönau", "Wildschönau tourist office", "Tourismusverband Wildschönau"),
  "stay_more": ("Meer over verblijven in Niederau", "More about staying in Niederau", "Mehr zu Unterkünften in Niederau"),
@@ -261,7 +264,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
     here = BASE + urls[lang]
     desc = trim_desc(desc)
     if len(title) > 70: title = title.replace(" | Niederau.nl", "")
-    hl = "\n".join(f'<link rel="alternate" hreflang="{c}" href="{BASE}{urls[c]}">' for c in LANGS) + f'\n<link rel="alternate" hreflang="x-default" href="{BASE}{urls["en"]}">'
+    hl = "\n".join(f'<link rel="alternate" hreflang="{c}" href="{BASE}{urls[c]}">' for c in LANGS) + f'\n<link rel="alternate" hreflang="x-default" href="{BASE}{urls["nl"]}">'
     cur = lambda c: ' aria-current="true"' if c == lang else ""
     lang_nav = "".join(f'<a href="{urls[c]}" hreflang="{c}" lang="{c}"{cur(c)}>{c.upper()}</a>' for c in LANGS)
     locale = {"nl": "nl_NL", "en": "en_GB", "de": "de_DE"}[lang]
@@ -321,12 +324,12 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
     <nav class="nav" id="nav" aria-label="{ui("nav_label", lang)}">
       {main_nav(lang)}
       {tog}
-      <div class="lang" aria-label="{ui("lang_label", lang)}">{lang_nav}</div>
+      <div class="lang" role="group" aria-label="{ui("lang_label", lang)}">{lang_nav}</div>
     </nav>
   </div>
 </header>
 <main id="main">
-<section class="page-hero" aria-hidden="true"></section>
+<div class="page-hero" aria-hidden="true"></div>
 {body}
 <section aria-labelledby="h-stay"><div class="wrap"><div class="card stay-card"><h2 id="h-stay">{ui("stay_h", lang)} <span class="chip">{ui("partner", lang)}</span></h2><p>{ui("stay_p", lang)}</p><p><a href="https://www.hotelwastlhof.at/" rel="noopener" target="_blank">{ui("stay_hotel", lang)}</a> · <a href="https://www.wildschoenau.com/" rel="noopener" target="_blank">{ui("stay_vvv", lang)}</a> · <a href="{STAY_URL[lang]}">{ui("stay_more", lang)}</a></p></div></div></section>
 </main>
@@ -335,7 +338,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
     <div>
       <h3>Niederau.nl</h3>
       <p>{ui("f_about", lang)}</p>
-      <div class="lang" aria-label="{ui("lang_label", lang)}">{lang_nav}</div>
+      <div class="lang" role="group" aria-label="{ui("lang_label", lang)}">{lang_nav}</div>
     </div>
     <div>
       <h3>Niederau</h3>
@@ -345,10 +348,12 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
         <li><a href="{u_hub("place", lang)}">{ui("n_place", lang)}</a></li>
         <li><a href="{u_events(lang)}">{ui("n_events", lang)}</a></li>
         <li><a href="{u_guides(lang)}">{ui("n_guides", lang)}</a></li>
+        <li><a href="{u_about(lang)}">{ui("n_about", lang)}</a></li>
         <li><a href="/{PREFIX[lang]}markbachjoch/">{ui("n_mb", lang)}</a></li>
       </ul>
     </div>
     <p class="credits">{ui("credits", lang)}</p>
+    <p class="updated">{ui("updated", lang)}: <time datetime="@@LASTMOD@@">@@LASTMOD_H@@</time></p>
     <p class="copyright">© <span data-year>{TODAY[:4]}</span> Niederau.nl · {ui("copy", lang)}</p>
   </div>
 </footer>
@@ -433,7 +438,7 @@ def build_act(a):
 {faq_s}{rel_h}{guides_block(lang, GUIDE_BY_THEME.get(a["theme"], []))}'''
         desc = (L(a.get("tagline", {}), lang) + " " + " ".join(paras(L(a.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [
-            {"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": title_n, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+            {"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": title_n, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
             dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"}),
             {"@type": ["TouristAttraction", "Place"], "name": title_n, "description": L(a.get("tagline", {}), lang), "url": BASE + urls[lang],
              **({"sameAs": a["url"]} if a.get("url") else {}),
@@ -482,7 +487,7 @@ def build_place(p):
 {act_h}{faq_s}{sib_h}{guides_block(lang, PLACE_GUIDES)}'''
         desc = (L(p.get("tagline", {}), lang) + " " + " ".join(paras(L(p.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [
-            {"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+            {"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
             dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"}),
             {"@type": ["TouristDestination", "Place"], "name": name, "description": L(p.get("tagline", {}), lang), "url": BASE + urls[lang],
              **({"sameAs": p["url"]} if p.get("url") else {}),
@@ -513,7 +518,7 @@ def build_region(r):
 {pl_h}{faq_s}'''
         desc = (L(d.get("tagline", {}), lang) + " " + " ".join(paras(L(d.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [
-            {"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+            {"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
             dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"}),
             {"@type": ["TouristDestination", "Place"], "name": name, "description": L(d.get("tagline", {}), lang), "url": BASE + urls[lang]},
         ] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
@@ -547,7 +552,7 @@ def build_theme(t):
 {lists}{faq_s}{guides_block(lang, GUIDE_BY_THEME.get(t, []))}'''
         desc = (L(d.get("tagline", {}), lang) + " " + " ".join(paras(L(d.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [
-            {"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+            {"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
             dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"}),
             {"@type": "ItemList", "name": name, "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": BASE + u_act(x, lang), "name": L(x["title"], lang)} for i, x in enumerate(ta)]},
         ] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
@@ -579,7 +584,7 @@ def build_hub(kind):
 <section class="alt"><div class="wrap">{content}</div></section>'''
         desc = (L(d.get("tagline", {}), lang) + " " + " ".join(paras(L(d.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [
-            {"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+            {"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
             dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})]
         write(urls[lang], shell(lang, "hub:" + kind, urls, f"{name} | Niederau.nl", desc, body, ld_graph, og_type="website"))
     registry.append(("hub:" + kind, urls, None))
@@ -637,7 +642,7 @@ def build_coll(c):
 <div><h2>{ui("tips", lang)}</h2><ul class="check">{tips}</ul><p class="note">{ui("check", lang)}</p></div></div></section>
 <section class="alt"><div class="wrap"><h2>{ui("all_act", lang)} ({len(items)})</h2>{cards}</div></section>'''
         desc = (d["tagline"][i] + ". " + paras(d["intro"][i])[0])[:300]
-        ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+        ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
               dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"}),
               {"@type": "ItemList", "name": name, "itemListElement": [{"@type": "ListItem", "position": n + 1, "url": BASE + u_act(x, lang), "name": L(x["title"], lang)} for n, x in enumerate(items)]}]
         write(urls[lang], shell(lang, "coll:" + c, urls, f"{name} | Niederau.nl", desc, body, ld, og_type="website"))
@@ -670,11 +675,13 @@ def build_events():
             plh = f'<p>{ui("near", lang)}: <a href="{u_place(pl, lang)}">{e(L(pl["name"], lang))}</a></p>' if pl else ""
             lk = f'<p><a href="{e(x["url"])}" rel="noopener" target="_blank">{ui("website", lang)}</a></p>' if x.get("url") else ""
             ds = "".join(f"<p>{e(t)}</p>" for t in paras(L(x["desc"], lang)))
-            cards.append(f'<article class="card"><h3>{e(L(x["name"], lang))}</h3><p><span class="chip">{e(L(x["when"], lang))}</span></p>{ds}{plh}{lk}</article>')
+            det = EV_BY_ID.get(x["id"])
+            more = f'<p><a href="{u_event(det, lang)}">{ui("read_more", lang)} →</a></p>' if det else ""
+            cards.append(f'<article class="card"><h3>{e(L(x["name"], lang))}</h3><p><span class="chip">{e(L(x["when"], lang))}</span></p>{ds}{plh}{more}{lk}</article>')
         body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(EV_TXT["tagline"][i])}</p>{intro}</div></section>
 <section class="alt"><div class="wrap"><h2>{ui("events_h", lang)}</h2><div class="grid grid-two">{"".join(cards)}</div><p class="note">{ui("check", lang)}</p></div></section>'''
         desc = (EV_TXT["tagline"][i] + ". " + paras(EV_TXT["intro"][i])[0])[:300]
-        ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+        ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
               dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"}),
               {"@type": "ItemList", "name": name, "itemListElement": [{"@type": "ListItem", "position": n + 1, "name": L(x["name"], lang)} for n, x in enumerate(evs)]}]
         write(urls[lang], shell(lang, "events", urls, f"{name} | Niederau.nl", desc, body, ld, og_type="website"))
@@ -706,7 +713,7 @@ def build_guides():
 <div>{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
 <section class="alt"><div class="wrap">{secs}</div></section>{faq_s}'''
             desc = (L(g.get("tagline", {}), lang) + " " + " ".join(paras(L(g.get("intro", {}), lang)))[:170]).strip()[:300]
-            ld = [{"@type": "Article", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "headline": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "image": [OG], "mainEntityOfPage": BASE + urls[lang], "author": {"@type": "Organization", "name": "Niederau.nl"}, "publisher": {"@id": f"{BASE}/#website"}},
+            ld = [{"@type": "Article", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "headline": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "image": [OG], "mainEntityOfPage": BASE + urls[lang], "author": {"@type": "Organization", "name": "Niederau.nl"}, "publisher": {"@id": f"{BASE}/#website"}},
                   dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
             write(urls[lang], shell(lang, "guide:" + g["id"], urls, f"{name} | Niederau.nl", desc, body, ld))
         registry.append(("guide:" + g["id"], urls, None))
@@ -718,7 +725,7 @@ def build_guides():
         body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(GH["tagline"][i])}</p><p>{e(GH["intro"][i])}</p></div></section>
 <section class="alt"><div class="wrap"><h2>{e(name)}</h2>{cards}</div></section>'''
         desc = (GH["tagline"][i] + ". " + GH["intro"][i])[:300]
-        ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY},
+        ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@"},
               dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})]
         write(urls[lang], shell(lang, "guides", urls, f"{name} | Niederau.nl", desc, body, ld, og_type="website"))
     registry.append(("guides", urls, None))
@@ -736,6 +743,78 @@ def guides_block(lang, ids):
     if not gs: return ""
     return f'<section class="alt"><div class="wrap"><h2>{ui("guides_h", lang)}</h2>' + card_list([(L(g["title"], lang), L(g.get("tagline", {}), lang), u_guide(g, lang), "") for g in gs[:3]], lang) + f'<p><a href="{u_guides(lang)}">{ui("n_guides", lang)} →</a></p></div></section>'
 
+# ---------- evenement-detailpagina's ----------
+EV_DETAIL = json.load(open(DATA / "events_detail.json", encoding="utf-8")) if (DATA / "events_detail.json").exists() else []
+EV_BY_ID = {d["id"]: d for d in EV_DETAIL}
+def u_event(d, lang): return f"/{PREFIX[lang]}{DIRS['events'][lang]}/{d['slug'][lang]}/"
+
+def build_event_details():
+    for d in EV_DETAIL:
+        urls = {l: u_event(d, l) for l in LANGS}
+        ev = next((x for x in EVENTS if x["id"] == d["id"]), None)
+        for lang in LANGS:
+            i = LANGS.index(lang); name = L(d["title"], lang)
+            cr, cr_ld = crumbs(lang, [(EV_TXT["title"][i], u_events(lang)), (name, urls[lang])])
+            intro = "".join(f"<p>{e(x)}</p>" for x in paras(L(d.get("intro", {}), lang)))
+            secs = "".join(f'<h2>{e(L(x["h"], lang))}</h2><p>{e(L(x["p"], lang))}</p>' for x in d.get("sections", []))
+            tips = L(d.get("tips", {}), lang, [])
+            tips_h = f'<h2>{ui("tips", lang)}</h2><ul class="check">' + "".join(f"<li>{e(t)}</li>" for t in tips) + "</ul>" if tips else ""
+            pl = place_by.get(d.get("place") or "")
+            plh = f'<p>{ui("near", lang)}: <a href="{u_place(pl, lang)}">{e(L(pl["name"], lang))}</a></p>' if pl else ""
+            when = f'<p><span class="chip">{e(L(d.get("date_label", {}), lang))}</span></p>' if d.get("date_label") else ""
+            faq_s, faq_ld = faq_html(d.get("faq"), lang)
+            body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
+<div>{cr}<p class="eyebrow">{e(EV_TXT["title"][i])}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(d.get("tagline", {}), lang))}</p>{when}{intro}{plh}</div>
+<div>{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
+<section class="alt"><div class="wrap">{secs}</div></section>{faq_s}{guides_block(lang, ["wanneer-gaan", "reizen-naar-niederau", "wildschoenau-card"])}'''
+            desc = (L(d.get("tagline", {}), lang) + " " + " ".join(paras(L(d.get("intro", {}), lang)))[:170]).strip()
+            ld = [{"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": trim_desc(desc), "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+                  dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
+            write(urls[lang], shell(lang, "event:" + d["id"], urls, f"{name} | Niederau.nl", desc, body, ld))
+        registry.append(("event:" + d["id"], urls, None))
+
+# ---------- over deze site (E-E-A-T) ----------
+ABOUT = {
+ "slug": ("over", "about", "ueber-uns"),
+ "title": ("Over Niederau.nl", "About Niederau.nl", "Über Niederau.nl"),
+ "tagline": ("Een persoonlijke, onafhankelijke gids over Niederau en de Wildschönau", "A personal, independent guide to Niederau and the Wildschönau", "Ein persönlicher, unabhängiger Reiseführer zu Niederau und der Wildschönau"),
+ "intro": ("Niederau.nl is een persoonlijke gids over Niederau in de Wildschönau (Tirol). Ik kom er al ongeveer vijftig jaar en heb het dal in al die tijd zien veranderen. Ik wilde alles wat ik zelf graag had willen weten op één plek verzamelen, in het Nederlands, Engels en Duits, zodat je zonder zoeken je verblijf en je uitstapjes kunt plannen.",
+           "Niederau.nl is a personal guide to Niederau in the Wildschönau (Tyrol). I have been coming here for about fifty years and have watched the valley change over that time. I wanted to gather everything I would have liked to know myself in one place, in Dutch, English and German, so that you can plan your stay and your outings without searching around.",
+           "Niederau.nl ist ein persönlicher Reiseführer zu Niederau in der Wildschönau (Tirol). Ich komme seit etwa fünfzig Jahren hierher und habe das Tal in dieser Zeit sich verändern sehen. Ich wollte alles, was ich selbst gern gewusst hätte, an einem Ort sammeln, auf Niederländisch, Englisch und Deutsch, damit Sie Ihren Aufenthalt und Ihre Ausflüge ohne langes Suchen planen können."),
+ "sections": [
+  (("Onafhankelijk, met één partner", "Independent, with one partner", "Unabhängig, mit einem Partner"),
+   ("Niederau.nl is een onafhankelijke site en niet verbonden aan een toeristenbureau of gemeente. Hotel Wastlhof in Niederau is partner van deze site en stelde foto’s beschikbaar. Dat is een persoonlijke aanbeveling: er is geen vergoeding betaald of ontvangen en er zijn geen affiliatelinks.",
+    "Niederau.nl is an independent site and is not affiliated with a tourist office or municipality. Hotel Wastlhof in Niederau is a partner of this site and provided photos. This is a personal recommendation: no payment was made or received, and there are no affiliate links.",
+    "Niederau.nl ist eine unabhängige Seite und nicht mit einem Tourismusverband oder einer Gemeinde verbunden. Das Hotel Wastlhof in Niederau ist Partner dieser Seite und hat Fotos zur Verfügung gestellt. Das ist eine persönliche Empfehlung: Es wurde keine Vergütung gezahlt oder erhalten, und es gibt keine Affiliate-Links.")),
+  (("Hoe de teksten tot stand komen", "How the texts are made", "Wie die Texte entstehen"),
+   ("De teksten zijn in eigen woorden geschreven, met hulp van AI-hulpmiddelen, en samengesteld uit toeristische bronnen zoals Wildschönau Tourismus, Ski Juwel en de toeristenorganisaties van de omliggende regio’s. Waar iets niet te bevestigen was, is het weggelaten of staat dat erbij. Tijden, prijzen en openingsdata veranderen; controleer ze daarom altijd bij de aanbieder. Op elke pagina staat wanneer deze voor het laatst is bijgewerkt.",
+    "The texts are written in my own words, with the help of AI tools, and compiled from tourist sources such as Wildschönau Tourismus, Ski Juwel and the tourist organisations of the surrounding regions. Where something could not be confirmed, it has been left out or is marked as such. Times, prices and opening dates change, so always check them with the provider. Every page shows when it was last updated.",
+    "Die Texte sind in eigenen Worten geschrieben, mit Unterstützung von KI-Werkzeugen, und aus touristischen Quellen wie Wildschönau Tourismus, Ski Juwel und den Tourismusorganisationen der umliegenden Regionen zusammengestellt. Was sich nicht bestätigen ließ, wurde weggelassen oder ist entsprechend gekennzeichnet. Zeiten, Preise und Öffnungsdaten ändern sich, bitte prüfen Sie sie deshalb immer beim Anbieter. Jede Seite zeigt, wann sie zuletzt aktualisiert wurde.")),
+  (("Foto’s", "Photos", "Fotos"),
+   ("Een deel van de foto’s heb ik zelf in Niederau gemaakt. De andere komen van Hotel Wastlhof, Wildschönau Tourismus, Ski Juwel Alpbachtal Wildschönau en de Wildschönauer Bergbahnen. Hartelijk dank aan Hotel Wastlhof voor het beschikbaar stellen van de foto’s. Foto’s staan alleen bij pagina’s waar ze echt bij horen.",
+    "I took some of the photos myself in Niederau. The others come from Hotel Wastlhof, Wildschönau Tourismus, Ski Juwel Alpbachtal Wildschönau and the Wildschönauer Bergbahnen. Many thanks to Hotel Wastlhof for providing the photos. Photos are only shown on pages they genuinely belong to.",
+    "Einen Teil der Fotos habe ich selbst in Niederau aufgenommen. Die anderen stammen vom Hotel Wastlhof, von Wildschönau Tourismus, vom Ski Juwel Alpbachtal Wildschönau und von den Wildschönauer Bergbahnen. Herzlichen Dank an das Hotel Wastlhof für die zur Verfügung gestellten Fotos. Fotos stehen nur dort, wo sie wirklich hingehören.")),
+  (("Wat je hier vindt", "What you will find here", "Was Sie hier finden"),
+   ("Het dorp en de seizoenen op de hoofdpagina, ruim tweehonderd activiteiten, gidsen voor alles van reistijd tot skiën met kinderen, en pagina’s over de dorpen en steden in de omgeving in Brixental, Inntal en Zillertal. Een agenda met terugkerende evenementen hoort er ook bij.",
+    "The village and the seasons on the main page, over two hundred activities, guides for everything from the best time to visit to skiing with kids, and pages on the villages and towns around in the Brixental, Inn valley and Zillertal. There is also a calendar of recurring events.",
+    "Das Dorf und die Jahreszeiten auf der Startseite, über zweihundert Aktivitäten, Ratgeber zu allem von der besten Reisezeit bis zum Skifahren mit Kindern sowie Seiten zu den Orten und Städten der Umgebung im Brixental, Inntal und Zillertal. Dazu gehört auch ein Kalender mit wiederkehrenden Veranstaltungen.")),
+ ],
+}
+def u_about(lang): return f"/{PREFIX[lang]}{ABOUT['slug'][LANGS.index(lang)]}/"
+def build_about():
+    urls = {l: u_about(l) for l in LANGS}
+    for lang in LANGS:
+        i = LANGS.index(lang); name = ABOUT["title"][i]
+        cr, cr_ld = crumbs(lang, [(name, urls[lang])])
+        secs = "".join(f"<h2>{e(h[i])}</h2><p>{e(p[i])}</p>" for h, p in ABOUT["sections"])
+        body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(ABOUT["tagline"][i])}</p><p>{e(ABOUT["intro"][i])}</p></div></section>
+<section class="alt"><div class="wrap">{secs}</div></section>'''
+        desc = trim_desc(ABOUT["tagline"][i] + ". " + ABOUT["intro"][i])
+        ld = [{"@type": "AboutPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+              dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})]
+        write(urls[lang], shell(lang, "about", urls, f"{name} | Niederau.nl", desc, body, ld))
+    registry.append(("about", urls, None))
+
 def main():
     # oude uitvoer opruimen (alleen gegenereerde mappen)
     for kind in list(DIRS):
@@ -745,7 +824,9 @@ def main():
     for p in places: build_place(p)
     for r in regions: build_region(r)
     for t in themes: build_theme(t)
+    build_about()
     build_events()
+    build_event_details()
     build_guides()
     for c in COLL: build_coll(c)
     if hubs.get("activities"): build_hub("act")

@@ -134,6 +134,8 @@ L = {
           "Bitte beachten: Zeiten, Preise und Saisondaten ändern sich. Prüfe sie immer bei den Wildschönauer Bergbahnen und bei den Hütten selbst. Quellen für Geschichte und Technik: Wildschönau Tourismus, skiresort.info und die Website von Ski Juwel."),
  "f_about": t("Onafhankelijke gids over Niederau in de Wildschönau, Tirol.", "Independent guide to Niederau in the Wildschönau, Tyrol.", "Unabhängiger Reiseführer zu Niederau in der Wildschönau, Tirol."),
  "f_back": t("Terug naar de hoofdpagina", "Back to the main page", "Zurück zur Hauptseite"),
+ "updated": t("Laatst bijgewerkt", "Last updated", "Zuletzt aktualisiert"),
+ "f_over": t("Over deze site", "About this site", "Über diese Seite"),
  "copy": t("Onafhankelijke site, niet verbonden aan officiële instanties.", "Independent site, not affiliated with official bodies.", "Unabhängige Seite, nicht mit offiziellen Stellen verbunden."),
  "credits": t("Foto’s: Wildschönau Tourismus, Ski Juwel Alpbachtal Wildschönau, Wildschönauer Bergbahnen, Hotel Wastlhof en eigen foto’s.",
               "Photos: Wildschönau Tourismus, Ski Juwel Alpbachtal Wildschönau, Wildschönauer Bergbahnen, Hotel Wastlhof and own photos.",
@@ -164,6 +166,8 @@ def main_nav(lang):
     return "\n      ".join(out)
 
 
+ABOUT_URL = {"nl": "/over/", "en": "/en/about/", "de": "/de/ueber-uns/"}
+
 def render(lang):
     g = lambda k: L[k][lang]
     e = html.escape
@@ -185,7 +189,7 @@ def render(lang):
         {"@type": "WebSite", "@id": f"{BASE}/#website", "url": f"{BASE}/", "name": "Niederau.nl", "inLanguage": ["nl", "en", "de"]},
         {"@type": "WebPage", "@id": here + "#webpage", "url": here, "name": TITLE[lang], "description": DESC[lang],
          "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "about": {"@id": here + "#markbachjoch"},
-         "dateModified": TODAY, "breadcrumb": {"@id": here + "#breadcrumb"},
+         "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": here + "#breadcrumb"},
          "primaryImageOfPage": {"@type": "ImageObject", "url": f"{BASE}/assets/img/niederau-markbachjochbahn-gondel.webp"}},
         {"@type": "BreadcrumbList", "@id": here + "#breadcrumb", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "Niederau", "item": f"{BASE}/" if lang == "nl" else f"{BASE}/{lang}/"},
@@ -198,7 +202,7 @@ def render(lang):
         {"@type": "FAQPage", "@id": here + "#faq", "inLanguage": lang, "mainEntity": faq_ld},
     ]
     ld = json.dumps({"@context": "https://schema.org", "@graph": graph}, ensure_ascii=False, indent=1)
-    hreflangs = "\n".join(f'<link rel="alternate" hreflang="{c}" href="{url(c)}">' for c in LANGS) + f'\n<link rel="alternate" hreflang="x-default" href="{url("en")}">'
+    hreflangs = "\n".join(f'<link rel="alternate" hreflang="{c}" href="{url(c)}">' for c in LANGS) + f'\n<link rel="alternate" hreflang="x-default" href="{url("nl")}">'
     locale = {"nl": "nl_NL", "en": "en_GB", "de": "de_DE"}[lang]
     toggle = f'<button class="season-toggle" type="button" aria-label="{e(g("toggle_label"))}" title="{e(g("toggle_label"))}"><span data-only="winter">{g("toggle_s")}</span><span data-only="summer">{g("toggle_w")}</span></button>'
     return f'''<!doctype html>
@@ -258,7 +262,7 @@ def render(lang):
     <nav class="nav" id="nav" aria-label="{g("nav_label")}">
       {main_nav(lang)}
       {toggle}
-      <div class="lang" aria-label="{g("lang_label")}">
+      <div class="lang" role="group" aria-label="{g("lang_label")}">
         {lang_nav}
       </div>
     </nav>
@@ -266,7 +270,7 @@ def render(lang):
 </header>
 
 <main id="main">
-<section class="page-hero" aria-hidden="true"></section>
+<div class="page-hero" aria-hidden="true"></div>
 
 <section aria-labelledby="h-top">
   <div class="wrap split">
@@ -371,7 +375,7 @@ def render(lang):
     <div>
       <h3>Niederau.nl</h3>
       <p>{g("f_about")}</p>
-      <div class="lang" aria-label="{g("lang_label")}">
+      <div class="lang" role="group" aria-label="{g("lang_label")}">
         {lang_nav}
       </div>
     </div>
@@ -382,9 +386,11 @@ def render(lang):
         <li><a href="#liften">{g("n_lifts")}</a></li>
         <li><a href="#eten">{g("n_food")}</a></li>
         <li><a href="#geschiedenis">{g("n_hist")}</a></li>
+        <li><a href="{ABOUT_URL[lang]}">{g("f_over")}</a></li>
       </ul>
     </div>
     <p class="credits">{g("credits")}</p>
+    <p class="updated">{g("updated")}: <time datetime="@@LASTMOD@@">@@LASTMOD_H@@</time></p>
     <p class="copyright">© <span data-year>{TODAY[:4]}</span> Niederau.nl · {g("copy")}</p>
   </div>
 </footer>

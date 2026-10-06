@@ -1,0 +1,33 @@
+# Meldt gewijzigde pagina's na elke push naar main bij IndexNow (Bing, Yandex e.a.).
+# Google gebruikt IndexNow niet; die leest de sitemap via Search Console.
+name: IndexNow
+on:
+  push:
+    branches: [main]
+    paths: ['**/*.html', 'sitemap.xml']
+permissions:
+  contents: read
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Gewijzigde URL's bepalen en melden
+        run: |
+          KEY=549f127bc4840ede0ce67a8842504b56
+          git diff --name-only --diff-filter=AM HEAD^ HEAD -- '*/index.html' 'index.html' \
+            | sed -e 's#index.html$##' -e 's#^#https://niederau.nl/#' | head -9000 > urls.txt
+          [ -s urls.txt ] || { echo "Geen gewijzigde pagina's"; exit 0; }
+          sleep 120   # wacht tot GitHub Pages de nieuwe versie heeft gepubliceerd
+          python3 - <<'PY'
+          import json, os, urllib.request
+          urls = [u.strip() for u in open('urls.txt') if u.strip()]
+          body = json.dumps({"host": "niederau.nl", "key": "549f127bc4840ede0ce67a8842504b56", "keyLocation": "https://niederau.nl/549f127bc4840ede0ce67a8842504b56.txt", "urlList": urls}).encode()
+          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type": "application/json; charset=utf-8"})
+          try:
+              print(urllib.request.urlopen(req, timeout=30).status, len(urls), "URL's gemeld")
+          except Exception as e:
+              print("IndexNow-melding mislukt (niet kritiek):", e)
+          PY
