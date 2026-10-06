@@ -1,0 +1,1430 @@
+[
+ {
+  "id": "s260",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "mittenwald-wetterstein-hike",
+  "slug_de": "mittenwald-wetterstein-wanderung",
+  "title": {
+   "nl": "Wandelen bij Mittenwald (Wetterstein)",
+   "en": "Hiking near Mittenwald, Wetterstein",
+   "de": "Wandern bei Mittenwald im Wetterstein"
+  },
+  "tagline": {
+   "nl": "Beierse bergdorp met rotswanden, vioolbouwtraditie en wandelpaden",
+   "en": "Bavarian mountain village with rock faces, violin-making tradition and walks",
+   "de": "Bayerisches Bergdorf mit Felswänden, Geigenbautradition und Wanderwegen"
+  },
+  "intro": {
+   "nl": "Mittenwald ligt in Beieren, op ongeveer 930 m hoogte tussen het Wettersteingebergte en het Karwendel. Het dorp staat bekend als belangrijk centrum van de vioolbouw en heeft een voetgangerszone met beschilderde gevels. In het Geigenbaumuseum zie je strijk- en tokkelinstrumenten uit de plaatselijke traditie.\n\nRond het dorp lopen veel wandelroutes, bijvoorbeeld naar de Kranzberg met uitzicht op het Wettersteingebergte of naar de Lautersee en Ferchensee. In de buurt ligt ook de Leutascher Geisterklamm. De Karwendelbahn brengt je tot ca. 2.300 m. Vanuit Niederau is het een lange rit, dus reken op een hele dag.",
+   "en": "Mittenwald lies in Bavaria at about 930 m, between the Wetterstein and Karwendel mountains. The village is known as an important centre of violin making and has a pedestrian zone lined with painted facades. In the Geigenbaumuseum you can see stringed instruments from the local tradition.\n\nMany walking routes start around the village, for example up the Kranzberg with views of the Wetterstein range, or to the Lautersee and Ferchensee lakes. The Leutasch Geisterklamm gorge is also nearby, and the Karwendelbahn cable car takes you up to around 2,300 m. It is a long drive from Niederau, so allow a full day.",
+   "de": "Mittenwald liegt in Bayern auf etwa 930 m Höhe zwischen Wetterstein- und Karwendelgebirge. Der Ort gilt als bedeutendes Zentrum des Geigenbaus und hat eine Fußgängerzone mit bemalten Fassaden. Im Geigenbaumuseum sieht man Streich- und Zupfinstrumente aus der örtlichen Tradition.\n\nRund um den Ort beginnen viele Wanderrouten, etwa auf den Kranzberg mit Blick aufs Wettersteingebirge oder zum Lautersee und Ferchensee. In der Nähe liegt auch die Leutascher Geisterklamm, und die Karwendelbahn bringt Besucher bis auf rund 2.300 m. Die Fahrt ab Niederau ist lang, planen Sie also einen ganzen Tag ein."
+  },
+  "tips": {
+   "nl": [
+    "Plan een hele dag voor deze uitstap.",
+    "Neem voor de zekerheid je identiteitsbewijs mee.",
+    "Combineer de wandeling met het dorpscentrum en het vioolbouwmuseum.",
+    "Kies voor een makkelijke wandeling de Lautersee of Ferchensee."
+   ],
+   "en": [
+    "Plan a full day for this trip.",
+    "Bring your ID to be safe.",
+    "Combine the hike with the village centre and the violin-making museum.",
+    "For an easy walk, choose the Lautersee or Ferchensee."
+   ],
+   "de": [
+    "Planen Sie für diesen Ausflug einen ganzen Tag ein.",
+    "Nehmen Sie sicherheitshalber Ihren Ausweis mit.",
+    "Verbinden Sie die Wanderung mit dem Ortszentrum und dem Geigenbaumuseum.",
+    "Für einen leichten Spaziergang bieten sich Lautersee oder Ferchensee an."
+   ]
+  },
+  "practical": {
+   "nl": "Mittenwald ligt ca. 1,5 uur rijden van Niederau, via de A12 en Seefeld. Kies de route ter plekke bij het toeristenbureau (Alpenwelt Karwendel).",
+   "en": "Mittenwald is about 1.5 hours by car from Niederau, via the A12 and Seefeld. Choose your route on the spot with the tourist office (Alpenwelt Karwendel).",
+   "de": "Mittenwald liegt ca. 1,5 Stunden Autofahrt von Niederau entfernt, über die A12 und Seefeld. Die Route wählen Sie vor Ort mit dem Tourismusbüro (Alpenwelt Karwendel)."
+  },
+  "facts": {
+   "age": {
+    "nl": "Afhankelijk van de route",
+    "en": "Depending on the route",
+    "de": "Je nach Route"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 uur rijden",
+    "en": "About 1.5 h by car",
+    "de": "Ca. 1,5 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Mittenwald, Beieren",
+   "en": "Mittenwald, Bavaria",
+   "de": "Mittenwald, Bayern"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom staat Mittenwald bekend?",
+     "en": "What is Mittenwald known for?",
+     "de": "Wofür ist Mittenwald bekannt?"
+    },
+    "a": {
+     "nl": "Voor zijn vioolbouwtraditie, beschilderde huizen en de ligging tussen Wetterstein en Karwendel.",
+     "en": "For its violin-making tradition, painted houses and its setting between the Wetterstein and Karwendel.",
+     "de": "Für seine Geigenbautradition, bemalte Häuser und die Lage zwischen Wetterstein und Karwendel."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s243",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "fieberbrunn-summer-hiking",
+  "slug_de": "fieberbrunn-wandern-sommer",
+  "title": {
+   "nl": "Wandelen in Fieberbrunn (Pillerseetal)",
+   "en": "Hiking in Fieberbrunn, Pillerseetal",
+   "de": "Wandern in Fieberbrunn im Pillerseetal"
+  },
+  "tagline": {
+   "nl": "Alm- en bergpaden in het Pillerseetal, rustiger dan Kitzbühel",
+   "en": "Alm and mountain paths in the Pillerseetal, quieter than Kitzbühel",
+   "de": "Alm- und Bergwege im Pillerseetal, ruhiger als Kitzbühel"
+  },
+  "intro": {
+   "nl": "Fieberbrunn ligt in het Pillerseetal, in de Kitzbüheler Alpen. Het dorp is vooral bekend als wintersportplaats, maar heeft in de zomer een goed netwerk van berg- en alppaden en is meestal rustiger dan Kitzbühel.\n\nDe Streubödenbahn brengt je in de zomer omhoog naar de Lärchfilzkogel op ca. 1.645 m, het startpunt voor wandelingen naar de Wildseelodersee en andere routes. Bij het middenstation ligt Timoks Wilde Welt, een speelwereld voor gezinnen met onder meer een alpine coaster, waterspel en een klimbos. Zo combineer je een wandeling met een dag vol activiteiten voor kinderen. Vraag bij het toeristenbureau om een kaart en de actuele bedrijfstijden van de bergbaan.",
+   "en": "Fieberbrunn lies in the Pillerseetal, in the Kitzbühel Alps. The village is best known as a winter sports resort, but in summer it has a good network of mountain and alm paths, and it is usually quieter than Kitzbühel.\n\nIn summer the Streubödenbahn takes you up to the Lärchfilzkogel at about 1,645 m, the starting point for walks to the Wildseelodersee lake and other routes. At the middle station you will find Timoks Wilde Welt, an adventure world for families with an alpine coaster, water play and a forest rope course, among other things. This lets you combine a hike with a day full of activities for children. Ask the tourist office for a map and the current lift times.",
+   "de": "Fieberbrunn liegt im PillerseeTal in den Kitzbüheler Alpen. Der Ort ist vor allem als Wintersportort bekannt, hat im Sommer aber ein gutes Netz an Berg- und Almwegen und ist meist ruhiger als Kitzbühel.\n\nIm Sommer bringt dich die Streubödenbahn hinauf zum Lärchfilzkogel auf rund 1.645 m, dem Ausgangspunkt für Wanderungen zum Wildseelodersee und zu weiteren Routen. An der Mittelstation liegt Timoks Wilde Welt, eine Erlebniswelt für Familien mit unter anderem Alpine Coaster, Wasserspiel und Waldseilgarten. So lässt sich eine Wanderung mit einem aktionsreichen Tag für Kinder verbinden. Eine Karte und die aktuellen Betriebszeiten der Bahn gibt es beim Tourismusbüro."
+  },
+  "tips": {
+   "nl": [
+    "Haal een wandelkaart bij het toeristenbureau voor actuele routes.",
+    "Combineer de wandeling met een stop bij het Pillersee.",
+    "Neem regenkleding mee; het weer in de bergen wisselt snel."
+   ],
+   "en": [
+    "Pick up a hiking map at the tourist office for current routes.",
+    "Combine the walk with a stop at the Pillersee.",
+    "Bring rain gear; mountain weather changes quickly."
+   ],
+   "de": [
+    "Hole dir beim Tourismusbüro eine Wanderkarte mit aktuellen Routen.",
+    "Verbinde die Wanderung mit einem Halt am Pillersee.",
+    "Nimm Regenkleidung mit; das Wetter in den Bergen wechselt schnell."
+   ]
+  },
+  "practical": {
+   "nl": "Fieberbrunn ligt ca. 1 uur rijden van Niederau, via Wörgl, Kitzbühel en de B164 of B161.",
+   "en": "Fieberbrunn is about 1 hour by car from Niederau, via Wörgl, Kitzbühel and the B164 or B161.",
+   "de": "Fieberbrunn liegt ca. 1 Stunde Autofahrt von Niederau entfernt, über Wörgl, Kitzbühel und die B164 oder B161."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2–3 uur",
+    "en": "About 2–3 hours",
+    "de": "Ca. 2–3 Stunden"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 h by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Fieberbrunn, Pillerseetal",
+   "en": "Fieberbrunn, Pillerseetal",
+   "de": "Fieberbrunn, Pillerseetal"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/pital/so/bergbahnen-fieberbrunn.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt Fieberbrunn?",
+     "en": "Where is Fieberbrunn?",
+     "de": "Wo liegt Fieberbrunn?"
+    },
+    "a": {
+     "nl": "In het Pillerseetal, in de Kitzbüheler Alpen.",
+     "en": "In the Pillerseetal, in the Kitzbühel Alps.",
+     "de": "Im PillerseeTal in den Kitzbüheler Alpen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen te doen?",
+     "en": "What is there for children?",
+     "de": "Was gibt es für Kinder?"
+    },
+    "a": {
+     "nl": "Bij het middenstation van de Streubödenbahn ligt Timoks Wilde Welt, een speelwereld met onder meer een alpine coaster en waterspel.",
+     "en": "At the middle station of the Streubödenbahn is Timoks Wilde Welt, an adventure world with an alpine coaster and water play, among other things.",
+     "de": "An der Mittelstation der Streubödenbahn liegt Timoks Wilde Welt, eine Erlebniswelt mit unter anderem Alpine Coaster und Wasserspiel."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s278",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "kitzbuehel",
+  "slug_en": "tennis-st-johann-tyrol",
+  "slug_de": "tennis-st-johann-tirol",
+  "title": {
+   "nl": "Tennis in St. Johann in Tirol",
+   "en": "Tennis in St. Johann in Tirol",
+   "de": "Tennis in St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Tennissen op buiten- en binnenbanen in en rond St. Johann",
+   "en": "Tennis on outdoor and indoor courts in and around St. Johann",
+   "de": "Tennis auf Frei- und Hallenplätzen in und um St. Johann"
+  },
+  "intro": {
+   "nl": "St. Johann in Tirol, ongeveer een halfuur van Niederau, heeft meerdere mogelijkheden om te tennissen, zowel op buitenbanen als op binnenbanen. In de zomer speel je buiten met de bergen van de Wilde Kaiser en het Kitzbüheler Horn als achtergrond, een aangename omgeving voor een potje met het hele gezin.\n\nIn de wintermaanden zijn er tennishallen in St. Johann en Erpfendorf. Ook elders in de regio, bijvoorbeeld bij het Golf & Countryclub Lärchenhof en de Panorama Badewelt, vind je tennisbanen. Raadpleeg de pagina van de toeristische dienst van St. Johann voor de actuele locaties, en vraag vooraf of reserveren nodig is en of je materiaal kunt huren.",
+   "en": "St. Johann in Tirol, about half an hour from Niederau, offers several places to play tennis, on both outdoor and indoor courts. In summer you play outdoors with the Wilder Kaiser and the Kitzbüheler Horn as a backdrop, a pleasant setting for a game with the whole family.\n\nIn the winter months there are tennis halls in St. Johann and Erpfendorf. Elsewhere in the region too, for instance at the Golf & Countryclub Lärchenhof and the Panorama Badewelt, you will find tennis courts. See the St. Johann tourist office page for current locations, and ask beforehand whether booking is needed and whether equipment can be hired.",
+   "de": "St. Johann in Tirol, etwa eine halbe Stunde von Niederau entfernt, bietet mehrere Möglichkeiten zum Tennisspielen, auf Freiplätzen wie auf Hallenplätzen. Im Sommer spielt man draußen vor der Kulisse von Wildem Kaiser und Kitzbüheler Horn, ein angenehmer Rahmen für ein Spiel mit der ganzen Familie.\n\nIn den Wintermonaten stehen Tennishallen in St. Johann und Erpfendorf zur Verfügung. Auch anderswo in der Region, etwa im Golf & Countryclub Lärchenhof und in der Panorama Badewelt, gibt es Tennisplätze. Aktuelle Standorte stehen auf der Seite des Tourismusverbands St. Johann; vorab erfragen, ob reserviert werden muss und ob Ausrüstung geliehen werden kann."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een baan vooraf.",
+    "Neem tennisschoenen mee.",
+    "Vraag naar binnenbanen als het weer slecht is."
+   ],
+   "en": [
+    "Reserve a court in advance.",
+    "Bring tennis shoes.",
+    "Ask about indoor courts if the weather is bad."
+   ],
+   "de": [
+    "Einen Platz vorab reservieren.",
+    "Tennisschuhe mitnehmen.",
+    "Bei schlechtem Wetter nach Hallenplätzen fragen."
+   ]
+  },
+  "practical": {
+   "nl": "St. Johann ligt ca. 30-35 minuten rijden van Niederau. Informeer vooraf naar locatie, beschikbaarheid en tarieven.",
+   "en": "St. Johann is about 30 to 35 minutes by car from Niederau. Ask in advance about location, availability and rates.",
+   "de": "St. Johann liegt ca. 30 bis 35 Autominuten von Niederau entfernt. Standort, Verfügbarkeit und Tarife vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Per uur te boeken",
+    "en": "Bookable by the hour",
+    "de": "Stundenweise buchbar"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 33 min rijden",
+    "en": "About 33 minutes by car",
+    "de": "Ca. 33 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (buiten in de zomer, binnen in de winter)",
+    "en": "All year (outdoors in summer, indoors in winter)",
+    "de": "Ganzjährig (draußen im Sommer, Halle im Winter)"
+   }
+  },
+  "location": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/en/stjo/gj/tennis.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je er in de winter tennissen?",
+     "en": "Can you play tennis there in winter?",
+     "de": "Kann man dort im Winter Tennis spielen?"
+    },
+    "a": {
+     "nl": "Ja, in de wintermaanden zijn er tennishallen in St. Johann en Erpfendorf; reserveer vooraf.",
+     "en": "Yes, in the winter months there are tennis halls in St. Johann and Erpfendorf; book beforehand.",
+     "de": "Ja, in den Wintermonaten gibt es Tennishallen in St. Johann und Erpfendorf; vorab reservieren."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s95",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "schwarzsee-kitzbuehel",
+  "slug_de": "schwarzsee-kitzbuehel",
+  "title": {
+   "nl": "Schwarzsee Kitzbühel",
+   "en": "Schwarzsee Kitzbühel",
+   "de": "Schwarzsee Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Warm veenmeer met openluchtbad bij Kitzbühel",
+   "en": "Warm moor lake with an open-air lido near Kitzbühel",
+   "de": "Warmer Moorsee mit Strandbad bei Kitzbühel"
+  },
+  "intro": {
+   "nl": "Het Schwarzsee ligt enkele kilometers van Kitzbühel en is een veenmeer. Het water is bruinig en niet glashelder, maar wordt in de zomer opvallend warm: het geldt als een van de warmste veenmeren van Tirol, met temperaturen tot ongeveer 27 graden. Gemiddeld ligt de watertemperatuur rond 22 graden.\n\nHet openluchtbad aan het meer heeft waterglijbanen, een duiktoren, een kinderbad, een speeltuin en velden voor beachvolleybal en voetbal. In het zomerseizoen is het bad dagelijks overdag geopend, met een middagtarief voor wie later komt. Daarnaast zijn er enkele stranden aan het meer. Een bezoek past goed bij een middag in Kitzbühel.",
+   "en": "The Schwarzsee lies a few kilometres from Kitzbühel and is a moor lake. The water is brownish and not crystal clear, but warms up remarkably in summer: it is regarded as one of the warmest moor lakes in Tyrol, with temperatures up to around 27 degrees. On average the water temperature is around 22 degrees.\n\nThe open-air lido at the lake has water slides, a diving tower, a children's pool, a playground and beach volleyball and football pitches. During the summer season it is open daily during the day, with a reduced afternoon rate for late arrivals. There are also a few beaches around the lake. A visit fits well with an afternoon in Kitzbühel.",
+   "de": "Der Schwarzsee liegt wenige Kilometer von Kitzbühel entfernt und ist ein Moorsee. Das Wasser ist bräunlich und nicht glasklar, erwärmt sich im Sommer aber auffallend: Er gilt als einer der wärmsten Moorseen Tirols mit Temperaturen bis etwa 27 Grad. Im Durchschnitt liegt die Wassertemperatur bei rund 22 Grad.\n\nDas Strandbad am See bietet Wasserrutschen, einen Sprungturm, ein Kinderbecken, einen Spielplatz sowie Felder für Beachvolleyball und Fußball. In der Sommersaison ist es täglich tagsüber geöffnet, mit einem ermäßigten Nachmittagstarif für Spätkommende. Außerdem gibt es einige Strände am See. Ein Besuch lässt sich gut mit einem Nachmittag in Kitzbühel verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Het water is veenachtig en niet glashelder; dat is normaal.",
+    "Combineer met een bezoek aan het centrum van Kitzbühel.",
+    "Controleer vooraf de openingstijden van het bad."
+   ],
+   "en": [
+    "The water is peaty and not crystal clear; that is normal.",
+    "Combine with a visit to Kitzbühel town centre.",
+    "Check the lido's opening hours beforehand."
+   ],
+   "de": [
+    "Das Wasser ist moorig und nicht glasklar; das ist normal.",
+    "Mit einem Besuch im Zentrum von Kitzbühel kombinieren.",
+    "Die Öffnungszeiten des Bades vorab prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 45 minuten rijden naar Kitzbühel; het meer ligt enkele kilometers buiten de stad.",
+   "en": "From Niederau it is about 45 minutes by car to Kitzbühel; the lake lies a few kilometres outside town.",
+   "de": "Von Niederau sind es etwa 45 Minuten mit dem Auto nach Kitzbühel; der See liegt wenige Kilometer außerhalb der Stadt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Entree; informeer naar actuele tarieven",
+    "en": "Admission charged; check current prices",
+    "de": "Eintritt; aktuelle Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "About 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel",
+   "en": "Kitzbühel",
+   "de": "Kitzbühel"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat voor meer is het Schwarzsee?",
+     "en": "What kind of lake is the Schwarzsee?",
+     "de": "Was für ein See ist der Schwarzsee?"
+    },
+    "a": {
+     "nl": "Een veenmeer met bruinig, minder helder water dat in de zomer tot ongeveer 27 graden kan worden.",
+     "en": "A moor lake with brownish, less clear water that can reach around 27 degrees in summer.",
+     "de": "Ein Moorsee mit bräunlichem, weniger klarem Wasser, das im Sommer bis etwa 27 Grad warm werden kann."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s136",
+  "drop": false,
+  "drop_reason": "",
+  "place": "westendorf",
+  "slug_en": "westendorf-village-walk",
+  "slug_de": "dorfrundgang-westendorf",
+  "title": {
+   "nl": "Dorpswandeling Westendorf",
+   "en": "Village walk in Westendorf",
+   "de": "Dorfspaziergang in Westendorf"
+  },
+  "tagline": {
+   "nl": "Een SkiWelt-dorp in het Brixental met kerk en winkels",
+   "en": "A Brixental SkiWelt village with church and shops",
+   "de": "Ein SkiWelt-Ort im Brixental mit Kirche und Geschäften"
+  },
+  "intro": {
+   "nl": "Westendorf is een dorp in het Brixental dat bij het skigebied SkiWelt hoort. Het ligt op een zonnig plateau en wordt gekenmerkt door boerderijen met goed onderhouden bergweiden. In de zomer is het er rustig en gemoedelijk.\n\nEen rondje door het dorp past goed in een uur en combineert goed met een bezoek aan de plaatselijke Sennerei, de zuivelfabriek met winkeltje. Vanuit Westendorf brengt de Alpenrosenbahn je omhoog naar de Talkaser op ca. 1.770 m, waar het natuurbelevingspark Alpinolino ligt: korte themapaden zoals de Himmelsteig, de Holzwurmweg en de Adlerhorst, met dierenraadsels en speelse onderdelen voor kinderen. Op de Choralpe vind je ook de Spoggolino, de langste kogelbaan van Tirol. De bergbaan rijdt in de zomer van ongeveer eind mei tot eind oktober.",
+   "en": "Westendorf is a village in the Brixental that belongs to the SkiWelt ski area. It sits on a sunny plateau and is characterised by farmhouses and well-kept mountain meadows. In summer it is quiet and friendly.\n\nA walk around the village fits neatly into an hour and combines well with a visit to the local Sennerei, the dairy with its shop. From Westendorf the Alpenrosenbahn takes you up to the Talkaser at about 1,770 m, home to the Alpinolino nature adventure park: short themed trails such as the Himmelsteig, the Holzwurmweg and the Adlerhorst, with animal riddles and playful stops for children. On the Choralpe you will also find the Spoggolino, Tyrol's longest ball run. The lift runs in summer from roughly late May to late October.",
+   "de": "Westendorf ist ein Ort im Brixental, der zum Skigebiet SkiWelt gehört. Er liegt auf einem sonnigen Plateau und ist geprägt von Bauernhöfen und gepflegten Almwiesen. Im Sommer ist es ruhig und gemütlich.\n\nEine Runde durch den Ort passt gut in eine Stunde und lässt sich mit einem Besuch in der örtlichen Sennerei samt Laden verbinden. Von Westendorf bringt dich die Alpenrosenbahn hinauf zum Talkaser auf rund 1.770 m, wo der Erlebnispark Alpinolino liegt: kurze Themenwege wie Himmelsteig, Holzwurmweg und Adlerhorst mit Tierrätseln und spielerischen Stationen für Kinder. Auf der Choralpe gibt es außerdem den Spoggolino, Tirols längste Kugelbahn. Die Bahn fährt im Sommer etwa von Ende Mai bis Ende Oktober."
+  },
+  "tips": {
+   "nl": [
+    "Combineer de wandeling met een bezoek aan de Sennerei.",
+    "Plan eventueel een uitstapje naar Alpinolino op de Choralpe met kinderen.",
+    "Parkeer in het centrum en loop alles te voet.",
+    "Kijk onderweg naar bakkers en winkels voor een lokale snack."
+   ],
+   "en": [
+    "Combine the walk with a visit to the Sennerei.",
+    "Consider a trip to Alpinolino on the Choralpe with children.",
+    "Park in the centre and walk everything on foot.",
+    "Look out for bakeries and shops along the way for a local snack."
+   ],
+   "de": [
+    "Verbinde den Spaziergang mit einem Besuch in der Sennerei.",
+    "Plane mit Kindern ggf. einen Ausflug zum Alpinolino auf der Choralpe.",
+    "Parke im Zentrum und gehe alles zu Fuß.",
+    "Halte unterwegs nach Bäckereien und Geschäften für einen regionalen Snack Ausschau."
+   ]
+  },
+  "practical": {
+   "nl": "Westendorf ligt ca. 30 minuten rijden van Niederau, via de B170 in het Brixental.",
+   "en": "Westendorf is roughly 30 minutes by car from Niederau, via the B170 through the Brixental.",
+   "de": "Westendorf liegt ca. 30 Fahrminuten von Niederau entfernt, über die B170 durch das Brixental."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Westendorf, Brixental",
+   "en": "Westendorf, Brixental",
+   "de": "Westendorf, Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen te doen bij Westendorf?",
+     "en": "What is there for children near Westendorf?",
+     "de": "Was gibt es für Kinder in der Nähe von Westendorf?"
+    },
+    "a": {
+     "nl": "Alpinolino bij het bergstation van de Alpenrosenbahn combineert natuurbeleving met themapaden en speelse onderdelen; op de Choralpe ligt ook de Spoggolino-kogelbaan.",
+     "en": "Alpinolino near the top of the Alpenrosenbahn combines nature discovery with themed trails and playful stops; the Spoggolino ball run is on the Choralpe too.",
+     "de": "Der Alpinolino an der Bergstation der Alpenrosenbahn verbindet Naturerlebnis mit Themenwegen und spielerischen Stationen; auf der Choralpe liegt außerdem die Kugelbahn Spoggolino."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s221",
+  "drop": false,
+  "drop_reason": "",
+  "place": "fuegen",
+  "slug_en": "hochfuegen-summer-hiking",
+  "slug_de": "hochfuegen-wandern-sommer",
+  "title": {
+   "nl": "Wandelen in Hochfügen",
+   "en": "Hiking in Hochfügen",
+   "de": "Wandern in Hochfügen"
+  },
+  "tagline": {
+   "nl": "Wandelen en spelen boven het Zillertal, met avonturenspeelplaats",
+   "en": "Hiking and play above the Zillertal, with an adventure playground",
+   "de": "Wandern und Spielen über dem Zillertal, mit Abenteuerspielplatz"
+  },
+  "intro": {
+   "nl": "Hochfügen ligt boven Fügen, aan de westkant van het Zillertal, en is vooral bekend als skigebied. In de zomer is het een uitgangspunt voor wandel- en mountainbiketochten, bijvoorbeeld de Vier-Almen-wandeling of de bergtocht naar de Marchkopf (ca. 2.500 m). Een deel van de route naar de top is smal en over rotsig terrein, dus dit is meer iets voor ervaren wandelaars. De Zillertal Shuttle brengt je hoger het gebied in.\n\nVoor gezinnen is er een avonturenspeelplaats met speelvijver, klimelementen, een tubing-baan en een boulderwand, plus thematische kinderroutes zoals het Hubertus Wildtierpfad. Informeer vooraf welke bergbanen in de zomer rijden en op welke dagen.",
+   "en": "Hochfügen lies above Fügen, on the western side of the Zillertal, and is best known as a ski area. In summer it is a starting point for hikes and mountain bike tours, for example the Four-Alm walk or the mountain tour to the Marchkopf (about 2,500 m). Part of the route to the summit is narrow and over rocky ground, so this is more for experienced hikers. The Zillertal Shuttle lift takes you higher into the area.\n\nFor families there is an adventure playground with a play pond, climbing elements, a tubing run and a bouldering wall, plus themed children's trails such as the Hubertus Wildtierpfad. Check beforehand which lifts run in summer and on which days.",
+   "de": "Hochfügen liegt oberhalb von Fügen, an der Westseite des Zillertals, und ist vor allem als Skigebiet bekannt. Im Sommer ist es Ausgangspunkt für Wanderungen und Mountainbike-Touren, etwa die Vier-Almen-Wanderung oder die Bergtour zum Marchkopf (rund 2.500 m). Ein Teil der Route zum Gipfel ist schmal und führt über felsiges Gelände, daher eignet sie sich eher für erfahrene Wanderer. Der Zillertal Shuttle bringt dich höher ins Gebiet.\n\nFür Familien gibt es einen Abenteuerspielplatz mit Spielteich, Kletterelementen, Tubingbahn und Boulderwand sowie thematische Kinderwege wie den Hubertus Wildtierpfad. Informiere dich vorab, welche Bahnen im Sommer fahren und an welchen Tagen."
+  },
+  "tips": {
+   "nl": [
+    "Kijk vooraf of de bergbaan rijdt en wanneer de laatste afdaling is.",
+    "Neem een jas mee; op 2.000 meter kan het koel zijn.",
+    "Kies een korte route met kleine kinderen."
+   ],
+   "en": [
+    "Check beforehand whether the lift runs and when the last descent is.",
+    "Bring a jacket; it can be cool at 2,000 metres.",
+    "Choose a short route with small children."
+   ],
+   "de": [
+    "Prüfe vorab, ob die Bahn fährt und wann die letzte Talfahrt ist.",
+    "Nimm eine Jacke mit; auf 2.000 Metern kann es kühl sein.",
+    "Wähle mit kleinen Kindern eine kurze Route."
+   ]
+  },
+  "practical": {
+   "nl": "Hochfügen ligt ca. 45 minuten rijden van Niederau, via Wörgl en het Zillertal naar Fügen en dan omhoog.",
+   "en": "Hochfügen is about 45 minutes by car from Niederau, via Wörgl and the Zillertal to Fügen and then uphill.",
+   "de": "Hochfügen liegt ca. 45 Autominuten von Niederau entfernt, über Wörgl und das Zillertal nach Fügen und dann bergauf."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "About 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hochfügen, Zillertal",
+   "en": "Hochfügen, Zillertal",
+   "de": "Hochfügen, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Op welke hoogte wandel je in Hochfügen?",
+     "en": "At what altitude do you hike in Hochfügen?",
+     "de": "Auf welcher Höhe wandert man in Hochfügen?"
+    },
+    "a": {
+     "nl": "De wandelroutes beginnen op ca. 1.500 tot 2.000 meter; de Marchkopf is ca. 2.500 m. Informeer vooraf over de bergbanen.",
+     "en": "The hiking routes start at around 1,500 to 2,000 metres; the Marchkopf is about 2,500 m. Check the lifts beforehand.",
+     "de": "Die Wanderrouten beginnen auf ca. 1.500 bis 2.000 Metern; der Marchkopf ist rund 2.500 m hoch. Informiere dich vorab zu den Bahnen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s132",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "hopfgarten-village-walk",
+  "slug_de": "dorfrundgang-hopfgarten",
+  "title": {
+   "nl": "Dorpsronde Hopfgarten",
+   "en": "Village stroll in Hopfgarten",
+   "de": "Dorfrundgang in Hopfgarten"
+  },
+  "tagline": {
+   "nl": "Marktgemeente aan de voet van de Hohe Salve",
+   "en": "A market village at the foot of the Hohe Salve",
+   "de": "Marktgemeinde am Fuß der Hohen Salve"
+  },
+  "intro": {
+   "nl": "Hopfgarten im Brixental is een marktgemeente aan de voet van de Hohe Salve, met smalle, deels geplaveide straten in het oude centrum. Het is een prettig stuk Brixental voor een korte wandeling langs huizen, kerk en winkeltjes, zonder de drukte van een groot skidorp.\n\nVanaf het dal loopt een dorpswandeling langs boerderijen en hutten naar het bergdorp Kelchsau, een rustig zijdal. De Bauernladl verkoopt regionale producten zoals spek, kaas, alpenboter, jam, honing en handwerk en is op vrijdag open. In de zomer rijden de bergbanen naar de top van de Hohe Salve (ca. 1.830 m), en er is het Salvenaland, een recreatiepark met zwemmeer en minigolf. Controleer de actuele tijden vooraf bij het toeristenbureau.",
+   "en": "Hopfgarten im Brixental is a market village at the foot of the Hohe Salve, with narrow, partly cobbled lanes in the old centre. It is a pleasant corner of the Brixental for a short walk past houses, church and small shops, without the bustle of a large ski resort.\n\nA village trail runs from the valley past farmhouses and huts to the mountain village of Kelchsau, a quiet side valley. The Bauernladl sells regional products such as bacon, cheese, alpine butter, jam, honey and handicrafts, and is open on Fridays. In summer the lifts run to the summit of the Hohe Salve (about 1,830 m), and there is the Salvenaland, a leisure park with a bathing lake and mini golf. Check current times with the tourist office beforehand.",
+   "de": "Hopfgarten im Brixental ist eine Marktgemeinde am Fuß der Hohen Salve mit engen, teils gepflasterten Gassen im alten Ortskern. Es ist ein schöner Fleck im Brixental für einen kurzen Spaziergang vorbei an Häusern, Kirche und kleinen Geschäften, ohne den Trubel eines großen Skiortes.\n\nVom Tal führt ein Dorfweg an Bauernhöfen und Hütten vorbei ins Bergdorf Kelchsau, ein ruhiges Seitental. Der Bauernladl verkauft regionale Produkte wie Speck, Käse, Almbutter, Marmelade, Honig und Kunsthandwerk und ist freitags geöffnet. Im Sommer fahren die Bahnen auf den Gipfel der Hohen Salve (rund 1.830 m), und es gibt das Salvenaland, einen Freizeitpark mit Badesee und Minigolf. Aktuelle Zeiten vorab beim Tourismusbüro erfragen."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij het toeristenbureau naar de actuele openingstijden van de Bauernladl.",
+    "Combineer de ronde met een wandeling of lift naar de Hohe Salve.",
+    "Neem contant geld mee voor kleine lokale winkels.",
+    "Plan de ronde buiten de middagpauze van winkels."
+   ],
+   "en": [
+    "Check with the tourist office for the Bauernladl's current opening hours.",
+    "Combine the stroll with a hike or lift up the Hohe Salve.",
+    "Bring some cash for small local shops.",
+    "Avoid the lunchtime closing of shops."
+   ],
+   "de": [
+    "Erkundige dich beim Infobüro nach den aktuellen Öffnungszeiten des Bauernladls.",
+    "Verbinde den Rundgang mit einer Wanderung oder Bergbahnfahrt zur Hohen Salve.",
+    "Nimm etwas Bargeld für kleine Läden mit.",
+    "Plane den Rundgang außerhalb der Mittagspause der Geschäfte."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten ligt ca. 25 minuten rijden van Niederau, via het dal en de B170 in het Brixental. Er is parkeergelegenheid in het centrum.",
+   "en": "Hopfgarten is roughly 25 minutes by car from Niederau, via the valley road and the B170 through the Brixental. Parking is available in the centre.",
+   "de": "Hopfgarten liegt ca. 25 Fahrminuten von Niederau entfernt, über die Talstraße und die B170 durch das Brixental. Im Zentrum gibt es Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min by car",
+    "de": "Ca. 25 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is de Bauernladl?",
+     "en": "What is the Bauernladl?",
+     "de": "Was ist der Bauernladl?"
+    },
+    "a": {
+     "nl": "Een winkel in Hopfgarten met regionale producten van boeren uit de omgeving; hij is op vrijdag open, vraag de actuele tijden na.",
+     "en": "A shop in Hopfgarten selling regional products from local farmers; it is open on Fridays, so ask for current times.",
+     "de": "Ein Laden in Hopfgarten mit regionalen Produkten von Bauern aus der Umgebung; er ist freitags geöffnet, aktuelle Zeiten bitte erfragen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s162",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "pillerseetal-mountain-biking",
+  "slug_de": "mountainbike-pillerseetal",
+  "title": {
+   "nl": "Mountainbiken in het Pillerseetal",
+   "en": "Mountain biking in the Pillerseetal",
+   "de": "Mountainbiken im PillerseeTal"
+  },
+  "tagline": {
+   "nl": "Een groot bikegebied met trails voor alle niveaus",
+   "en": "A large bike region with trails for all levels",
+   "de": "Eine große Bikeregion mit Trails für alle Niveaus"
+  },
+  "intro": {
+   "nl": "Het Pillerseetal rond Fieberbrunn en St. Ulrich am Pillersee noemt zich onderdeel van het grootste bikegebied van Oostenrijk: meer dan 80 km aan lijnen en trails, bereikbaar met negen bergbanen op zeven bergen. Sinds 2020 werkt de regio samen met Saalbach Hinterglemm en Saalfelden Leogang, zodat er voor meerdaagse trips keuze genoeg is.\n\nEen goed beginpunt voor gezinnen is de Bike Area Streuboden bij Fieberbrunn, met een flowtrail, drie lijnen en een pumptrack. De Schweinestberg-trails lopen in een makkelijke en een zwaardere variant ruim 4 km vanaf het middenstation naar het dal. Daarnaast zijn er honderden kilometers tourroutes voor wie rustiger wil fietsen. Vraag ter plaatse naar kaarten en de actuele toestand van de trails.",
+   "en": "The Pillerseetal around Fieberbrunn and St. Ulrich am Pillersee bills itself as part of Austria's largest bike region: more than 80 km of lines and trails, reached by nine cable cars on seven mountains. Since 2020 the region has teamed up with Saalbach Hinterglemm and Saalfelden Leogang, giving plenty of choice for multi-day trips.\n\nA good starting point for families is the Bike Area Streuboden near Fieberbrunn, with a flow trail, three lines and a pump track. The Schweinestberg trails run in an easy and a harder version for nearly 4 km from the middle station down to the valley. There are also hundreds of kilometres of touring routes for those who prefer a calmer ride. Ask locally for maps and current trail conditions.",
+   "de": "Das PillerseeTal rund um Fieberbrunn und St. Ulrich am Pillersee versteht sich als Teil der größten Bikeregion Österreichs: mehr als 80 km Lines und Trails, erreichbar mit neun Bergbahnen auf sieben Bergen. Seit 2020 arbeitet die Region mit Saalbach Hinterglemm und Saalfelden Leogang zusammen, sodass es für mehrtägige Touren genug Auswahl gibt.\n\nEin guter Einstieg für Familien ist die Bike Area Streuboden bei Fieberbrunn mit Flowtrail, drei Lines und Pumptrack. Die Schweinestberg-Trails führen in einer leichten und einer anspruchsvolleren Variante knapp 4 km von der Mittelstation ins Tal. Dazu kommen hunderte Kilometer Tourenrouten für alle, die es ruhiger mögen. Vor Ort nach Karten und dem aktuellen Zustand der Trails fragen."
+  },
+  "tips": {
+   "nl": [
+    "Kies voor kinderen de rustige dalroutes.",
+    "Draag een helm en bij steile trails ook bescherming.",
+    "Informeer naar de bergbaantijden voordat je vertrekt."
+   ],
+   "en": [
+    "Choose the quiet valley routes for children.",
+    "Wear a helmet, and protection on steep trails.",
+    "Check the lift times before you set off."
+   ],
+   "de": [
+    "Für Kinder die ruhigen Talrouten wählen.",
+    "Helm tragen, auf steilen Trails auch Protektoren.",
+    "Vor der Abfahrt die Betriebszeiten der Bergbahnen prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "Het Pillerseetal ligt ca. 1 uur rijden van Niederau, via Wörgl en Kitzbühel of St. Johann in Tirol. Het is een goede keuze voor een volle dag.",
+   "en": "The Pillerseetal is about 1 hour by car from Niederau, via Wörgl and Kitzbühel or St. Johann in Tirol. It suits a full day out.",
+   "de": "Das PillerseeTal liegt ca. 1 Stunde Autofahrt von Niederau entfernt, über Wörgl und Kitzbühel oder St. Johann in Tirol. Es eignet sich für einen ganzen Tag."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinnen op de makkelijke routes; trails voor geoefenden",
+    "en": "Families on the easy routes; trails for experienced riders",
+    "de": "Familien auf leichten Routen; Trails für Geübte"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Bergbaan en verhuur wisselen; informeer vooraf",
+    "en": "Lift and rental prices vary; check beforehand",
+    "de": "Bahn und Verleih unterschiedlich; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 hour by car",
+    "de": "Ca. 1 Std. mit dem Auto"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot oktober)",
+    "en": "Summer (approx. May to October)",
+    "de": "Sommer (ca. Mai bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Pillerseetal, Fieberbrunn",
+   "en": "Pillerseetal, Fieberbrunn",
+   "de": "PillerseeTal, Fieberbrunn"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe groot is het bikegebied?",
+     "en": "How big is the bike region?",
+     "de": "Wie groß ist die Bikeregion?"
+    },
+    "a": {
+     "nl": "De regio meldt meer dan 80 km aan lijnen en trails met negen bergbanen op zeven bergen.",
+     "en": "The region reports more than 80 km of lines and trails with nine cable cars on seven mountains.",
+     "de": "Die Region nennt mehr als 80 km Lines und Trails mit neun Bergbahnen auf sieben Bergen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s231",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "brandenberg-valley-alm-walks",
+  "slug_de": "brandenberger-tal-almwanderungen",
+  "title": {
+   "nl": "Almwandelingen in het Brandenberger Tal",
+   "en": "Alm walks in the Brandenberg valley",
+   "de": "Almwanderungen im Brandenberger Tal"
+  },
+  "tagline": {
+   "nl": "Stille paden naar alpenweiden in een rustig zijdal",
+   "en": "Quiet paths to alpine pastures in a peaceful side valley",
+   "de": "Stille Wege zu Almwiesen in einem ruhigen Seitental"
+  },
+  "intro": {
+   "nl": "Het Brandenberger Tal is een zijdal van het Inntal bij Kramsach en Rattenberg en een stuk rustiger dan de grote toeristische dalen. Brandenberg is met ca. 87 procent bos de bosrijkste gemeente van Tirol. Door het dal stroomt de Brandenberger Ache, een turquoise bergrivier tussen steile rotswanden.\n\nBekend is de wandeling door de Tiefenbachklamm tussen Kramsach en Brandenberg: ca. 5,7 km, middelzwaar en ruim drie uur, over een pad langs rotswanden met bruggen en een uitkijkplatform. Boven in het dal kun je terug met de bus. Vanuit het dorp lopen ook paden door bos en over alpenweiden naar almen, zoals de Lahnalm en de Jocheralm. De beste tijd is ongeveer mei tot oktober. Houd afstand tot wild en weidedieren.",
+   "en": "The Brandenberg valley is a side valley of the Inn valley near Kramsach and Rattenberg and much quieter than the large tourist valleys. With about 87 per cent forest cover, Brandenberg is the most heavily wooded municipality in Tyrol. The Brandenberger Ache, a turquoise mountain river, flows through the valley between steep rock faces.\n\nThe best-known walk is through the Tiefenbachklamm gorge between Kramsach and Brandenberg: about 5.7 km, moderately demanding and just over three hours, on a path along rock walls with bridges and a viewing platform. From the upper end of the valley you can return by bus. From the village, paths also lead through forest and over alpine pastures to alms such as the Lahnalm and the Jocheralm. The best time is roughly May to October. Keep your distance from wildlife and grazing animals.",
+   "de": "Das Brandenberger Tal ist ein Seitental des Inntals bei Kramsach und Rattenberg und deutlich ruhiger als die großen Tourismustäler. Mit rund 87 Prozent Waldanteil ist Brandenberg die waldreichste Gemeinde Tirols. Durch das Tal fließt die Brandenberger Ache, ein türkisfarbener Bergfluss zwischen steilen Felswänden.\n\nBekannt ist die Wanderung durch die Tiefenbachklamm zwischen Kramsach und Brandenberg: rund 5,7 km, mittelschwer und gut drei Stunden, auf einem Weg entlang der Felswände mit Brücken und Aussichtsplattform. Vom oberen Ende des Tals geht es mit dem Bus zurück. Vom Dorf führen außerdem Wege durch Wald und über Almwiesen zu Almen wie der Lahnalm und der Jocheralm. Die beste Zeit ist etwa Mai bis Oktober. Halte Abstand zu Wild und Weidetieren."
+  },
+  "tips": {
+   "nl": [
+    "Neem een wandelkaart mee of vraag bij het gemeentekantoor naar routes.",
+    "Zorg dat je eten en drinken bij je hebt; niet elke hut is altijd open.",
+    "Plan bij de Tiefenbachklamm de terugweg vooraf, bijvoorbeeld met de bus.",
+    "Houd afstand tot wild en weidedieren."
+   ],
+   "en": [
+    "Take a hiking map or ask at the village office for routes.",
+    "Bring food and drink; not every hut is always open.",
+    "For the Tiefenbachklamm, plan your return in advance, for example by bus.",
+    "Keep your distance from wildlife and grazing animals."
+   ],
+   "de": [
+    "Nimm eine Wanderkarte mit oder frag im Gemeindeamt nach Routen.",
+    "Hab Essen und Trinken dabei; nicht jede Hütte ist immer geöffnet.",
+    "Plane bei der Tiefenbachklamm den Rückweg vorab, etwa mit dem Bus.",
+    "Halte Abstand zu Wild und Weidetieren."
+   ]
+  },
+  "practical": {
+   "nl": "Brandenberg ligt ca. 40 minuten rijden van Niederau, via Kramsach of Rattenberg het Brandenberger Tal in.",
+   "en": "Brandenberg is about 40 minutes by car from Niederau, via Kramsach or Rattenberg into the Brandenberg valley.",
+   "de": "Brandenberg liegt ca. 40 Autominuten von Niederau entfernt, über Kramsach oder Rattenberg ins Brandenberger Tal."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2–4 uur",
+    "en": "About 2–4 hours",
+    "de": "Ca. 2–4 Stunden"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "About 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Brandenberg, Brandenberger Tal",
+   "en": "Brandenberg, Brandenberg valley",
+   "de": "Brandenberg, Brandenberger Tal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt het Brandenberger Tal?",
+     "en": "Where is the Brandenberg valley?",
+     "de": "Wo liegt das Brandenberger Tal?"
+    },
+    "a": {
+     "nl": "Het is een zijdal van het Inntal bij Rattenberg.",
+     "en": "It is a side valley of the Inn valley near Rattenberg.",
+     "de": "Es ist ein Seitental des Inntals bei Rattenberg."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s27",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "oberau",
+  "slug_en": "tennis-oberau-wildschoenau",
+  "slug_de": "tennis-oberau-wildschoenau",
+  "title": {
+   "nl": "Tennissen in Oberau",
+   "en": "Tennis in Oberau",
+   "de": "Tennis in Oberau"
+  },
+  "tagline": {
+   "nl": "Drie gravelbanen in het Wildschönauer dal",
+   "en": "Three clay courts in the Wildschönau valley",
+   "de": "Drei Sandplätze im Wildschönauer Tal"
+  },
+  "intro": {
+   "nl": "De tennisbanen van de Wildschönau liggen in Oberau, het dorp naast Niederau. Er zijn drie gravelbanen en een café met drankjes. De banen liggen vlak bij het openluchtzwembad tussen Niederau en Oberau, zodat je sport en zwemmen makkelijk combineert op één dag.\n\nHet gebruik van de banen is inbegrepen bij de Wildschönau Card en de Premium Card; trainerlessen kosten extra. De banen zijn alleen in de zomer open (in 2026 ongeveer van eind april tot half september), dagelijks van ca. 9 tot 19 uur en afhankelijk van het weer. Een dag van tevoren reserveren is verstandig, en ter plekke betaal je alleen contant. Vraag bij Wildschönau Tourismus naar de actuele openingstijden.",
+   "en": "The Wildschönau tennis courts are in Oberau, the village next to Niederau. There are three clay courts and a café serving refreshments. They are close to the open-air swimming pool between Niederau and Oberau, so it is easy to combine tennis and a swim in one day.\n\nUse of the courts is included with the Wildschönau Card and the Premium Card; coaching lessons cost extra. The courts are open in summer only (in 2026 roughly from late April to mid-September), daily from about 9 am to 7 pm and depending on the weather. Booking a day ahead is advisable, and on-site payment is cash only. Ask Wildschönau Tourism for the current opening hours.",
+   "de": "Die Tennisplätze der Wildschönau liegen in Oberau, dem Nachbarort von Niederau. Es gibt drei Sandplätze und ein Café mit Erfrischungen. Sie befinden sich nahe dem Freischwimmbad zwischen Niederau und Oberau, sodass sich Tennis und Baden an einem Tag gut verbinden lassen.\n\nDie Nutzung der Plätze ist mit der Wildschönau Card und der Premium Card inklusive; Trainerstunden kosten extra. Die Anlage ist nur im Sommer geöffnet (2026 etwa von Ende April bis Mitte September), täglich von etwa 9 bis 19 Uhr und wetterabhängig. Eine Reservierung am Vortag ist ratsam, vor Ort wird nur bar bezahlt. Aktuelle Öffnungszeiten beim Tourismusverband Wildschönau erfragen."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een dag van tevoren.",
+    "Neem eigen racket en tennisschoenen mee; informeer naar verhuur.",
+    "Betalen ter plekke kan alleen contant.",
+    "Combineer met een bezoek aan het openluchtzwembad."
+   ],
+   "en": [
+    "Reserve a day in advance.",
+    "Bring your own racket and tennis shoes; ask about rental.",
+    "Payment on site is cash only.",
+    "Combine with a visit to the open-air pool."
+   ],
+   "de": [
+    "Einen Tag vorher reservieren.",
+    "Eigenen Schläger und Tennisschuhe mitbringen; nach Verleih fragen.",
+    "Vor Ort ist nur Barzahlung möglich.",
+    "Mit einem Besuch im Freischwimmbad kombinieren."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 minuten rijden van Niederau. Openingstijden zijn weersafhankelijk, dus controleer eerst bij Wildschönau Tourismus.",
+   "en": "Oberau is about 5 minutes by car from Niederau. Opening hours depend on the weather, so check with Wildschönau Tourism first.",
+   "de": "Oberau ist ca. 5 Autominuten von Niederau entfernt. Die Öffnung ist wetterabhängig, bitte vorher beim Tourismusverband Wildschönau nachfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Per uur te boeken",
+    "en": "Bookable by the hour",
+    "de": "Stundenweise buchbar"
+   },
+   "price": {
+    "nl": "Inbegrepen bij de Wildschönau Card; anders informeer vooraf",
+    "en": "Included with the Wildschönau Card; otherwise ask in advance",
+    "de": "Mit Wildschönau Card inklusive; sonst vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 min rijden",
+    "en": "About 5 minutes by car",
+    "de": "Ca. 5 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (weersafhankelijk)",
+    "en": "Summer (weather permitting)",
+    "de": "Sommer (wetterabhängig)"
+   }
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn er tennisbanen in Niederau zelf?",
+     "en": "Are there tennis courts in Niederau itself?",
+     "de": "Gibt es Tennisplätze in Niederau selbst?"
+    },
+    "a": {
+     "nl": "De banen liggen in Oberau, het naastgelegen dorp, met drie gravelbanen.",
+     "en": "The courts are in neighbouring Oberau, with three clay courts.",
+     "de": "Die Anlage liegt im Nachbarort Oberau und hat drei Sandplätze."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s157",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "sailing-windsurfing-achensee",
+  "slug_de": "segeln-windsurfen-achensee",
+  "title": {
+   "nl": "Zeilen en windsurfen op het Achensee",
+   "en": "Sailing and windsurfing at Lake Achensee",
+   "de": "Segeln und Windsurfen am Achensee"
+  },
+  "tagline": {
+   "nl": "Thermische wind maakt het meer geliefd bij zeilers en surfers",
+   "en": "Thermal winds make the lake popular with sailors and surfers",
+   "de": "Thermische Winde machen den See bei Seglern und Surfern beliebt"
+  },
+  "intro": {
+   "nl": "Het Achensee, met een lengte van bijna 21 km het grootste meer van Tirol, staat bekend om zijn betrouwbare thermische wind. In de loop van de late ochtend ontstaat meestal een bries, waardoor het meer geliefd is bij zeilers, windsurfers en kitesurfers. Pertisau en Maurach liggen direct aan het water en zijn een logische uitvalsbasis.\n\nAan het meer geven zeil- en surfscholen cursussen en verhuren ze materiaal, voor beginners en gevorderden. Vraag bij de school naar de minimumleeftijd voor kinderen en naar het seizoen; sommige aanbieders werken alleen van juni tot september. Het meer is groot genoeg voor langere tochten, maar op het water blijf je altijd afhankelijk van wind en weer.",
+   "en": "Lake Achensee, at nearly 21 km long, is known for its dependable thermal wind. A breeze usually builds up in the late morning, which makes the lake a favourite with sailors, windsurfers and kitesurfers. Pertisau and Maurach sit right on the water and are natural bases.\n\nSailing and surf schools at the lake run courses and hire out equipment, for beginners and more experienced people alike. Ask the school about the minimum age for children and about its season; some providers only operate from June to September. The lake is big enough for longer trips, but on the water you always depend on wind and weather.",
+   "de": "Der Achensee, mit knapp 21 km Länge, ist für seinen verlässlichen Thermikwind bekannt. Im Lauf des späten Vormittags baut sich meist eine Brise auf, die den See bei Seglern, Windsurfern und Kitesurfern beliebt macht. Pertisau und Maurach liegen direkt am Wasser und sind naheliegende Ausgangspunkte.\n\nSegel- und Surfschulen am See bieten Kurse und Materialverleih für Anfänger wie Fortgeschrittene an. Das Mindestalter für Kinder und die Saison bitte bei der Schule erfragen; manche Anbieter sind nur von Juni bis September aktiv. Der See ist groß genug für längere Törns, doch auf dem Wasser bleibt man stets von Wind und Wetter abhängig."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer cursussen of verhuur vooraf.",
+    "De wind trekt meestal aan in de late ochtend; plan daar je tijd op.",
+    "Draag een zwemvest als de school of het materiaal dat vereist.",
+    "Neem droge kleren mee."
+   ],
+   "en": [
+    "Book courses or rentals in advance.",
+    "The wind usually picks up in the late morning; plan your time around it.",
+    "Wear a life jacket if the school or equipment requires it.",
+    "Pack dry clothes."
+   ],
+   "de": [
+    "Kurse oder Verleih im Voraus buchen.",
+    "Der Wind setzt meist am späten Vormittag ein; die Zeit danach planen.",
+    "Schwimmweste tragen, wenn Schule oder Material es verlangen.",
+    "Trockene Kleidung mitnehmen."
+   ]
+  },
+  "practical": {
+   "nl": "Het Achensee ligt ca. 50 minuten rijden van Niederau, via de A12 naar afrit Jenbach. Vraag de zeil- of surfschool naar actuele tarieven, leeftijdsgrenzen en reserveringen.",
+   "en": "Lake Achensee is about 50 minutes by car from Niederau, via the A12 to the Jenbach exit. Ask the sailing or surf school about current rates, age limits and booking.",
+   "de": "Der Achensee ist ca. 50 Fahrminuten von Niederau entfernt, über die A12 bis Ausfahrt Jenbach. Bei der Segel- oder Surfschule nach aktuellen Preisen, Altersgrenzen und Reservierung fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kinderen volgens leeftijdsgrens van de school",
+    "en": "Children according to the school's age limit",
+    "de": "Kinder nach Altersgrenze der Schule"
+   },
+   "duration": {
+    "nl": "Cursus of halve dag",
+    "en": "Course or half day",
+    "de": "Kurs oder halber Tag"
+   },
+   "price": {
+    "nl": "Verschilt per school; informeer vooraf",
+    "en": "Varies by school; please enquire",
+    "de": "Je nach Schule verschieden; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "About 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Achensee, Tirol",
+   "en": "Achensee, Tyrol",
+   "de": "Achensee, Tirol"
+  },
+  "url": "https://www.achensee.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is er het meest wind op het Achensee?",
+     "en": "When is it windiest on Lake Achensee?",
+     "de": "Wann ist am Achensee der meiste Wind?"
+    },
+    "a": {
+     "nl": "Meestal ontstaat in de late ochtend een thermische wind; de precieze sterkte hangt van het weer af.",
+     "en": "A thermal wind usually builds in the late morning; the exact strength depends on the weather.",
+     "de": "Meist baut sich am späten Vormittag ein Thermikwind auf; die genaue Stärke hängt vom Wetter ab."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s74",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "fieberbrunn-bike-area-streuboden",
+  "slug_de": "bike-area-streuboden-fieberbrunn",
+  "title": {
+   "nl": "Bike Area Streuboden in Fieberbrunn",
+   "en": "Bike Area Streuboden in Fieberbrunn",
+   "de": "Bike Area Streuboden in Fieberbrunn"
+  },
+  "tagline": {
+   "nl": "Flowtrail, lijnen en pumptrack bij Fieberbrunn",
+   "en": "Flow trail, lines and pump track at Fieberbrunn",
+   "de": "Flowtrail, Lines und Pumptrack bei Fieberbrunn"
+  },
+  "intro": {
+   "nl": "De Bike Area Streuboden bij Fieberbrunn in het Pillerseetal ontstond in 2021 en omvat een flowtrail, drie lijnen en een pumptrack bij het middenstation van de Streubödenbahn. Daarnaast lopen de Schweinestberg-trails ruim 4 km van het middenstation naar het dal, in een makkelijke variant met golvende stukken en brede bochten en in een zwaardere variant voor ervaren rijders.\n\nHet is een goede plek voor kinderen en tieners die al zelfverzekerd fietsen en voor beginners in bikeparks. Met de bergbaan ga je met je fiets omhoog en rijd je zelf weer naar beneden. Het gebied hoort bij het Pillerseetal, dat samen met Saalbach Hinterglemm en Saalfelden Leogang het grootste bikegebied van Oostenrijk vormt. Draag helm en bescherming, en controleer vooraf de openingstijden.",
+   "en": "The Bike Area Streuboden near Fieberbrunn in the Pillerseetal opened in 2021 and has a flow trail, three lines and a pump track at the middle station of the Streubödenbahn. The Schweinestberg trails also run for nearly 4 km from the middle station down to the valley, in an easy version with undulating sections and wide berms and a harder one for experienced riders.\n\nIt is a good spot for children and teenagers who already ride confidently, and for bike-park beginners. The lift takes you and your bike up and you ride back down. The area belongs to the Pillerseetal, which together with Saalbach Hinterglemm and Saalfelden Leogang forms Austria's largest bike region. Wear a helmet and protection, and check opening times beforehand.",
+   "de": "Die Bike Area Streuboden bei Fieberbrunn im PillerseeTal entstand 2021 und umfasst einen Flowtrail, drei Lines und einen Pumptrack an der Mittelstation der Streubödenbahn. Dazu führen die Schweinestberg-Trails knapp 4 km von der Mittelstation ins Tal, in einer leichten Variante mit welligen Passagen und breiten Kurven und einer anspruchsvolleren für Geübte.\n\nSie ist ein guter Ort für Kinder und Jugendliche, die schon sicher radeln, und für Bikepark-Einsteiger. Die Bahn bringt dich samt Rad nach oben, runter fährst du selbst. Das Gebiet gehört zum PillerseeTal, das zusammen mit Saalbach Hinterglemm und Saalfelden Leogang Österreichs größte Bikeregion bildet. Helm und Protektoren tragen und Öffnungszeiten vorab prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Begin op de flowtrail voordat je andere lijnen probeert.",
+    "Draag helm en bescherming.",
+    "Check de bergbaantijden en trailstatus vooraf."
+   ],
+   "en": [
+    "Start on the flow trail before trying other lines.",
+    "Wear a helmet and protection.",
+    "Check lift times and trail status beforehand."
+   ],
+   "de": [
+    "Zuerst auf dem Flowtrail üben, bevor man andere Lines probiert.",
+    "Helm und Protektoren tragen.",
+    "Bahnzeiten und Trailstatus vorab prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "Fieberbrunn ligt ca. 1 uur rijden van Niederau, via Wörgl en Kitzbühel of St. Johann in Tirol. Reken op een volle dag.",
+   "en": "Fieberbrunn is about 1 hour by car from Niederau, via Wörgl and Kitzbühel or St. Johann in Tirol. Plan a full day.",
+   "de": "Fieberbrunn liegt ca. 1 Stunde Autofahrt von Niederau entfernt, über Wörgl und Kitzbühel oder St. Johann in Tirol. Ein ganzer Tag ist sinnvoll."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kinderen en tieners die zelfverzekerd fietsen, en beginners",
+    "en": "Confident children and teenagers, and beginners",
+    "de": "Sicher radelnde Kinder und Jugendliche sowie Einsteiger"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Bergbaan en verhuur wisselen; informeer vooraf",
+    "en": "Lift and rental prices vary; check beforehand",
+    "de": "Bahn und Verleih unterschiedlich; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 hour by car",
+    "de": "Ca. 1 Std. mit dem Auto"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot oktober)",
+    "en": "Summer (approx. May to October)",
+    "de": "Sommer (ca. Mai bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Fieberbrunn, Pillerseetal",
+   "en": "Fieberbrunn, Pillerseetal",
+   "de": "Fieberbrunn, PillerseeTal"
+  },
+  "url": "https://www.fieberbrunn.com/en/bikearea",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er te doen in de Bike Area?",
+     "en": "What is in the bike area?",
+     "de": "Was gibt es in der Bike Area?"
+    },
+    "a": {
+     "nl": "Een flowtrail, drie lijnen en een pumptrack, plus de Schweinestberg-trails in een makkelijke en een zwaardere variant.",
+     "en": "A flow trail, three lines and a pump track, plus the Schweinestberg trails in an easy and a harder version.",
+     "de": "Einen Flowtrail, drei Lines und einen Pumptrack sowie die Schweinestberg-Trails in einer leichten und einer anspruchsvolleren Variante."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s207",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "alpine-garden-patscherkofel-innsbruck",
+  "slug_de": "alpengarten-patscherkofel-innsbruck",
+  "title": {
+   "nl": "Alpengarten Patscherkofel",
+   "en": "Patscherkofel Alpine Garden",
+   "de": "Alpengarten Patscherkofel"
+  },
+  "tagline": {
+   "nl": "Botanische berg­tuin van de universiteit boven Innsbruck-Igls",
+   "en": "University botanical alpine garden above Innsbruck-Igls",
+   "de": "Botanischer Alpengarten der Universität oberhalb von Innsbruck-Igls"
+  },
+  "intro": {
+   "nl": "De Alpengarten bij het bergstation van de Patscherkofelbahn hoort sinds 1930 bij de Universiteit van Innsbruck en geldt als de hoogstgelegen botanische tuin van Oostenrijk. De tuin ligt tussen ca. 1.890 en 1.950 m, beslaat ongeveer twee hectare en laat je alpenplanten uit verschillende bergstreken zien.\n\nEen gemarkeerde rondwandeling voert langs dwergstruikheide, bergbos en hoge kruidenweiden. Je kunt de wandeling kort houden of combineren met een route over de Patscherkofel. Een rustige uitstap voor gezinnen met interesse in natuur. De tuin is in de zomermaanden (ongeveer juni tot eind september) overdag toegankelijk. Informeer vooraf naar de openingstijden van de tuin en de gondel.",
+   "en": "The Alpengarten near the top station of the Patscherkofelbahn has belonged to the University of Innsbruck since 1930 and is regarded as Austria's highest-altitude botanical garden. It lies between about 1,890 and 1,950 m, covers around two hectares and shows alpine plants from various mountain regions.\n\nA marked circular walk leads past dwarf-shrub heath, mountain forest and high herb meadows. You can keep the visit short or combine it with a walk on the Patscherkofel. A calm outing for families interested in nature. The garden is open during the day in the summer months (roughly June to the end of September). Check the opening times of the garden and the gondola beforehand.",
+   "de": "Der Alpengarten an der Bergstation der Patscherkofelbahn gehört seit 1930 zur Universität Innsbruck und gilt als höchstgelegener botanischer Garten Österreichs. Er liegt zwischen etwa 1.890 und 1.950 m, umfasst rund zwei Hektar und zeigt Alpenpflanzen aus verschiedenen Gebirgsregionen.\n\nEin markierter Rundweg führt an Zwergstrauchheide, Bergwald und hochgelegenen Krautwiesen vorbei. Man kann den Besuch kurz halten oder mit einer Wanderung am Patscherkofel verbinden. Ein ruhiger Ausflug für naturinteressierte Familien. Der Garten ist in den Sommermonaten (etwa Juni bis Ende September) tagsüber zugänglich. Öffnungszeiten von Garten und Bahn vorab prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Laat kinderen planten zoeken; maak er een spel van.",
+    "Neem een jas mee: boven is het koeler dan in het dal.",
+    "Controleer vooraf de bedrijfstijden van de gondel."
+   ],
+   "en": [
+    "Let children look for plants and make it a game.",
+    "Take a jacket; it is cooler up top than in the valley.",
+    "Check the gondola's operating times beforehand."
+   ],
+   "de": [
+    "Lass Kinder Pflanzen suchen und mach ein Spiel daraus.",
+    "Nimm eine Jacke mit; oben ist es kühler als im Tal.",
+    "Prüfe vorab die Betriebszeiten der Bahn."
+   ]
+  },
+  "practical": {
+   "nl": "Igls ligt bij Innsbruck, ca. 1 uur rijden vanaf Niederau. Vanaf Igls gaat de Patscherkofelbahn omhoog; de tuin ligt bij het bergstation op ruim 1.900 m.",
+   "en": "Igls is near Innsbruck, about 1 hour by car from Niederau. The Patscherkofelbahn runs up from Igls; the garden is at the top station at over 1,900 m.",
+   "de": "Igls liegt bei Innsbruck, ca. 1 Stunde Fahrt von Niederau. Von Igls fährt die Patscherkofelbahn hinauf; der Garten liegt an der Bergstation auf über 1.900 m."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur tuin; gondel extra",
+    "en": "About 1.5 hours for the garden; gondola extra",
+    "de": "Ca. 1,5 Std. Garten; Gondel extra"
+   },
+   "price": {
+    "nl": "Informeer vooraf; gondel kost extra",
+    "en": "Check beforehand; gondola costs extra",
+    "de": "Vorab erkunden; Gondel kostet extra"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Igls, Innsbruck",
+   "en": "Igls, Innsbruck",
+   "de": "Igls, Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt de Alpengarten Patscherkofel?",
+     "en": "Where is the Patscherkofel Alpine Garden?",
+     "de": "Wo liegt der Alpengarten Patscherkofel?"
+    },
+    "a": {
+     "nl": "Bij het bergstation van de Patscherkofelbahn boven Igls, op ruim 1.900 meter.",
+     "en": "By the top station of the Patscherkofelbahn above Igls, at over 1,900 metres.",
+     "de": "An der Bergstation der Patscherkofelbahn oberhalb von Igls, auf über 1.900 Metern."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s155",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "st-johann-in-tirol-town-centre",
+  "slug_de": "stadtzentrum-st-johann-in-tirol",
+  "title": {
+   "nl": "Centrum van St. Johann in Tirol",
+   "en": "St. Johann in Tirol town centre",
+   "de": "Zentrum von St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Barokke marktplaats met Lüftlmalerei en vrijdagmarkt",
+   "en": "A baroque market town with painted facades and a Friday market",
+   "de": "Barocke Marktgemeinde mit Lüftlmalerei und Freitagsmarkt"
+  },
+  "intro": {
+   "nl": "St. Johann in Tirol is een barokke marktgemeente aan de voet van het Kitzbüheler Horn en de Wilder Kaiser. In het centrum staan huizen met Lüftlmalerei, beschilderde gevels, zoals het Schellhornhaus en het Schwarzinger-Haus. Ook de Antoniuskapelle, met een fresco van Josef Schöpf in de koepel, is een bezoek waard. Daarnaast vind je winkels, cafés en restaurants, en er is een museum over de geschiedenis van het dorp.\n\nVan ongeveer half maart tot november is er elke vrijdag een weekmarkt op het hoofdplein met streekproducten en handwerk. Een bezoek duurt ongeveer anderhalf uur; je combineert het goed met Kitzbühel of het Kitzbüheler Horn. Er is ook een gemarkeerde dorpsronde.",
+   "en": "St. Johann in Tirol is a baroque market town at the foot of the Kitzbüheler Horn and the Wilder Kaiser. The centre has houses with Lüftlmalerei, painted facades, such as the Schellhornhaus and the Schwarzinger-Haus. The Antoniuskapelle, with a fresco by Josef Schöpf in its dome, is also worth a look. You will also find shops, cafés and restaurants, and a museum on the town's history.\n\nFrom roughly mid-March to November a weekly market is held on the main square every Friday, with regional products and handicrafts. A visit takes about an hour and a half; it combines well with Kitzbühel or the Kitzbüheler Horn. There is also a signed village circuit.",
+   "de": "St. Johann in Tirol ist eine barocke Marktgemeinde am Fuß des Kitzbüheler Horns und des Wilden Kaisers. Im Zentrum stehen Häuser mit Lüftlmalerei, bemalten Fassaden, etwa das Schellhornhaus und das Schwarzinger-Haus. Auch die Antoniuskapelle mit einem Fresko von Josef Schöpf in der Kuppel ist einen Blick wert. Dazu kommen Geschäfte, Cafés und Restaurants sowie ein Museum zur Ortsgeschichte.\n\nVon etwa Mitte März bis November findet freitags auf dem Hauptplatz ein Wochenmarkt mit regionalen Produkten und Kunsthandwerk statt. Ein Besuch dauert etwa anderthalb Stunden; du kannst ihn gut mit Kitzbühel oder dem Kitzbüheler Horn verbinden. Es gibt auch eine ausgeschilderte Dorfrunde."
+  },
+  "tips": {
+   "nl": [
+    "Plan je bezoek op vrijdag als je de weekmarkt wilt zien.",
+    "Kijk goed naar de beschilderde gevels (Lüftlmalerei).",
+    "Parkeer in een van de parkeergarages bij het centrum.",
+    "Combineer het met Kitzbühel of het Kitzbüheler Horn."
+   ],
+   "en": [
+    "Plan your visit for a Friday if you want to see the weekly market.",
+    "Look closely at the painted facades (Lüftlmalerei).",
+    "Park in one of the car parks near the centre.",
+    "Combine with Kitzbühel or the Kitzbüheler Horn."
+   ],
+   "de": [
+    "Plane deinen Besuch auf einen Freitag, wenn du den Wochenmarkt sehen möchtest.",
+    "Schau dir die bemalten Fassaden (Lüftlmalerei) genau an.",
+    "Parke in einem der Parkplätze oder Garagen nahe dem Zentrum.",
+    "Verbinde den Besuch mit Kitzbühel oder dem Kitzbüheler Horn."
+   ]
+  },
+  "practical": {
+   "nl": "St. Johann in Tirol ligt ca. 40 minuten rijden van Niederau, via Wörgl en de Brixental-route (B170) of de A12/B178.",
+   "en": "St. Johann in Tirol is roughly 40 minutes by car from Niederau, via Wörgl and the Brixental road (B170) or the A12/B178.",
+   "de": "St. Johann in Tirol liegt ca. 40 Fahrminuten von Niederau entfernt, über Wörgl und die Brixentaler Straße (B170) oder A12/B178."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is de weekmarkt in St. Johann?",
+     "en": "When is the weekly market in St. Johann?",
+     "de": "Wann ist der Wochenmarkt in St. Johann?"
+    },
+    "a": {
+     "nl": "Elke vrijdag overdag op het hoofdplein; de exacte tijden kunnen wisselen, controleer ze vooraf.",
+     "en": "Every Friday during the day on the main square; exact times can vary, so check beforehand.",
+     "de": "Jeden Freitag tagsüber auf dem Hauptplatz; die genauen Zeiten können wechseln, bitte vorab prüfen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s198",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "tyrolean-folk-art-museum-innsbruck",
+  "slug_de": "tiroler-volkskunstmuseum-innsbruck",
+  "title": {
+   "nl": "Tiroler Volkskunstmuseum Innsbruck",
+   "en": "Tyrolean Folk Art Museum, Innsbruck",
+   "de": "Tiroler Volkskunstmuseum Innsbruck"
+  },
+  "tagline": {
+   "nl": "Maskers, klederdracht en boerenkunst in een oud klooster naast de Hofkirche",
+   "en": "Masks, costumes and folk crafts in a former monastery beside the Hofkirche",
+   "de": "Masken, Trachten und Volkskunst in einem ehemaligen Kloster neben der Hofkirche"
+  },
+  "intro": {
+   "nl": "Het Tiroler Volkskunstmuseum zit in een voormalig franciscanenklooster, direct naast de Hofkirche en dicht bij de Altstadt van Innsbruck. De vleugels van het klooster staan rond een renaissancistische binnenplaats met arcaden. De collectie draait om ambacht, feesten, gebruiken, geloof en bijgeloof in Tirol.\n\nJe ziet er onder meer klederdracht, maskers, kerststallen, historische boerenkamers (Stuben), textiel, glas, aardewerk en gereedschap uit verschillende delen van Tirol, plus modellen van vroegere boerderijen. Voor kinderen is vooral het zoeken naar details leuk, zoals de maskers; het museum organiseert af en toe rondleidingen voor jong en oud. Reken op ruim een uur; het museum combineert goed met een rondgang door de binnenstad.",
+   "en": "The Tyrolean Folk Art Museum is housed in a former Franciscan monastery, right next to the Hofkirche and close to Innsbruck's old town. The monastery wings surround an arcaded Renaissance courtyard. The collection revolves around crafts, festivals, customs, faith and superstition in Tyrol.\n\nAmong other things you see costumes, masks, nativity scenes, historic farmhouse rooms (Stuben), textiles, glass, pottery and tools from different parts of Tyrol, plus models of former farms. Children mostly enjoy hunting for details, such as the masks; the museum occasionally runs guided tours for young and old. Allow a good hour; the museum combines well with a stroll through the city centre.",
+   "de": "Das Tiroler Volkskunstmuseum befindet sich in einem ehemaligen Franziskanerkloster, direkt neben der Hofkirche und nahe der Altstadt von Innsbruck. Die Klosterflügel gruppieren sich um einen Renaissance-Arkadenhof. Die Sammlung dreht sich um Handwerk, Feste, Brauchtum, Glauben und Aberglauben in Tirol.\n\nZu sehen sind unter anderem Trachten, Masken, Krippen, historische Bauernstuben, Textilien, Glas, Keramik und Werkzeug aus verschiedenen Teilen Tirols sowie Modelle früherer Höfe. Kinder haben vor allem Spaß daran, Details zu entdecken, etwa bei den Masken; gelegentlich gibt es Führungen für Jung und Alt. Plane gut eine Stunde ein; das Museum lässt sich gut mit einem Bummel durch die Innenstadt verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Zoek de maskers en de klederdracht op; de details verschillen per zaal.",
+    "Laat kinderen een paar maskers uitkiezen om later te tekenen.",
+    "Combineer het museum met de Hofkirche en de Altstadt, die vlakbij liggen."
+   ],
+   "en": [
+    "Look out for the masks and costumes; the details differ from room to room.",
+    "Let children pick a few masks to draw later.",
+    "Combine the museum with the Hofkirche and the old town, both close by."
+   ],
+   "de": [
+    "Achte auf die Masken und Trachten; die Details unterscheiden sich von Raum zu Raum.",
+    "Lass Kinder einige Masken zum späteren Zeichnen aussuchen.",
+    "Verbinde das Museum mit Hofkirche und Altstadt, die ganz in der Nähe liegen."
+   ]
+  },
+  "practical": {
+   "nl": "Innsbruck ligt ca. 1 uur rijden van Niederau via de A12. Parkeer in een parkeergarage in het centrum, of ga met de trein vanaf Wörgl; het museum ligt op loopafstand van de Altstadt.",
+   "en": "Innsbruck is about 1 hour by car from Niederau via the A12. Park in a city-centre car park, or take the train from Wörgl; the museum is within walking distance of the old town.",
+   "de": "Innsbruck liegt etwa 1 Stunde Autofahrt von Niederau entfernt über die A12. Parken Sie in einer Garage im Zentrum oder fahren Sie mit der Bahn ab Wörgl; das Museum liegt fußläufig zur Altstadt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From approx. 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Entree; actuele prijzen op de officiële website",
+    "en": "Admission charged; see the official website for current prices",
+    "de": "Eintritt; aktuelle Preise auf der offiziellen Website"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (controleer openingstijden)",
+    "en": "All year (check opening hours)",
+    "de": "Ganzjährig (Öffnungszeiten prüfen)"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck (Altstadt)",
+   "en": "Innsbruck (old town)",
+   "de": "Innsbruck (Altstadt)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt het Tiroler Volkskunstmuseum?",
+     "en": "Where is the Tyrolean Folk Art Museum?",
+     "de": "Wo liegt das Tiroler Volkskunstmuseum?"
+    },
+    "a": {
+     "nl": "In het voormalige franciscanenklooster naast de Hofkirche, dicht bij de Altstadt van Innsbruck.",
+     "en": "In the former Franciscan monastery beside the Hofkirche, close to Innsbruck's old town.",
+     "de": "Im ehemaligen Franziskanerkloster neben der Hofkirche, nahe der Altstadt von Innsbruck."
+    }
+   }
+  ],
+  "verified": true
+ }
+]

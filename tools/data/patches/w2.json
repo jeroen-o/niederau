@@ -1,0 +1,1415 @@
+[
+ {
+  "id": "s245",
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "soell-hohe-salve-summer",
+  "slug_de": "soell-hohe-salve-sommer",
+  "title": {
+   "nl": "Söll en de Hohe Salve",
+   "en": "Söll and the Hohe Salve",
+   "de": "Söll und die Hohe Salve"
+  },
+  "tagline": {
+   "nl": "Bergbaan, wandelpaden en mountainbiken in het SkiWelt-dorp Söll",
+   "en": "Lift, walking paths and mountain biking in the SkiWelt village of Söll",
+   "de": "Bergbahn, Wanderwege und Mountainbiken im SkiWelt-Dorf Söll"
+  },
+  "intro": {
+   "nl": "Söll ligt aan de voet van de Hohe Salve (1.829 m), een van de bekendste uitzichtbergen van Tirol, en hoort bij de SkiWelt Wilder Kaiser-Brixental. In de zomer brengt de Gondelbahn Hochsöll je omhoog naar Hexenwasser op ca. 1.355 m, een belevingsberg met waterstations, een bijenhuis en heksenverhalen. Een tweede gondelsectie gaat verder naar de top.\n\nOp de top staat het Salvenkirchlein, de hoogstgelegen bedevaartskerk van Oostenrijk, met een bergrestaurant ernaast. Vanaf de top zie je ongeveer zeventig drieduizenders. Een lift bij het bergstation maakt de top zonder trappen bereikbaar. Voor kinderen zijn er onder meer een hemellabyrint en planetenbalbanen. Wandelaars vinden er panoramawegen en fietsers een ronde van ca. 37 km rond de berg. Het is een gemakkelijke uitstap, op ca. 35 minuten van Niederau.",
+   "en": "Söll lies at the foot of the Hohe Salve (1,829 m), one of Tyrol's best-known viewpoint mountains, and belongs to the SkiWelt Wilder Kaiser-Brixental. In summer the Hochsöll gondola takes you up to Hexenwasser at about 1,355 m, a themed mountain area with water stations, a bee house and witch stories. A second gondola section continues to the summit.\n\nOn top stands the Salvenkirchlein, the highest pilgrimage church in Austria, with a mountain restaurant next to it. From the summit you can see around seventy peaks above 3,000 m. A lift at the top station makes the summit accessible without steps. For children there are, among other things, a sky labyrinth and planet ball runs. Walkers find panorama paths here, and cyclists a circular route of about 37 km around the mountain. It is an easy outing, about 35 minutes from Niederau.",
+   "de": "Söll liegt am Fuß der Hohen Salve (1.829 m), einem der bekanntesten Aussichtsberge Tirols, und gehört zur SkiWelt Wilder Kaiser-Brixental. Im Sommer bringt dich die Gondelbahn Hochsöll hinauf nach Hexenwasser auf ca. 1.355 m, einer Erlebniswelt mit Wasserstationen, Bienenhaus und Hexengeschichten. Eine zweite Gondelsektion führt weiter zum Gipfel.\n\nOben steht das Salvenkirchlein, die höchstgelegene Wallfahrtskirche Österreichs, daneben eine Gipfelalm. Vom Gipfel sieht man rund siebzig Dreitausender. Ein Aufzug an der Bergstation macht den Gipfel stufenlos erreichbar. Für Kinder gibt es unter anderem ein Himmelslabyrinth und Planeten-Kugelbahnen. Wanderer finden Panoramawege, Radfahrer eine Runde von ca. 37 km um den Berg. Ein unkomplizierter Ausflug, ca. 35 Minuten von Niederau."
+  },
+  "tips": {
+   "nl": [
+    "Controleer of de bergbaan rijdt voordat je erheen gaat.",
+    "Neem een jas mee; boven kan het fris zijn.",
+    "Plan na de wandeling een stop bij een terras in het dorp."
+   ],
+   "en": [
+    "Check that the lift is running before you go.",
+    "Bring a jacket; it can be cool at the top.",
+    "Plan a stop at a terrace in the village after the walk."
+   ],
+   "de": [
+    "Prüfe, ob die Bahn fährt, bevor du hinfährst.",
+    "Nimm eine Jacke mit; oben kann es frisch sein.",
+    "Plane nach der Wanderung eine Einkehr auf einer Terrasse im Ort ein."
+   ]
+  },
+  "practical": {
+   "nl": "Söll ligt ca. 35 minuten rijden van Niederau, via Wörgl en de B178 richting Söll.",
+   "en": "Söll is about 35 minutes by car from Niederau, via Wörgl and the B178 towards Söll.",
+   "de": "Söll liegt ca. 35 Autominuten von Niederau entfernt, über Wörgl und die B178 Richtung Söll."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Söll, Wilder Kaiser",
+   "en": "Söll, Wilder Kaiser",
+   "de": "Söll, Wilder Kaiser"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/hohe-salve/sommer/wandern/hohe-salve-sommer-bergbahn.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat doe je in Söll in de zomer?",
+     "en": "What can you do in Söll in summer?",
+     "de": "Was kann man im Sommer in Söll machen?"
+    },
+    "a": {
+     "nl": "Wandelen en mountainbiken, met de bergbaan naar de Hohe Salve en terrassen in het dorp.",
+     "en": "Walking and mountain biking, with the lift up the Hohe Salve and terraces in the village.",
+     "de": "Wandern und Mountainbiken, mit der Bahn auf die Hohe Salve und Terrassen im Ort."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "w39",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "family-spa-hotel-wastlhof",
+  "slug_de": "familien-spa-hotel-wastlhof",
+  "title": {
+   "nl": "Spa en wellness bij Hotel Wastlhof",
+   "en": "Spa and wellness at Hotel Wastlhof",
+   "de": "Spa und Wellness im Hotel Wastlhof"
+  },
+  "tagline": {
+   "nl": "Opwarmen en ontspannen na een dag in de kou",
+   "en": "Warm up and relax after a day in the cold",
+   "de": "Aufwärmen und entspannen nach einem Tag in der Kälte"
+  },
+  "intro": {
+   "nl": "Hotel Wastlhof in Niederau is partner van deze site en ligt direct bij de Markbachjochbahn en de skipiste. Het hotel heeft een wellnessgedeelte met een binnenzwembad, meerdere sauna's, een stoombad, een infraroodcabine, een ijsgrot en een whirlpool. Tegen betaling zijn er massages en schoonheidsbehandelingen. Na een dag skiën of wandelen is dat een prettige afsluiting, zonder dat je nog hoeft te rijden.\n\nVoor wie het wellnessgedeelte open is, welke regels er voor kinderen gelden en op welke tijden, kan verschillen; deze pagina noemt daarom geen vaste prijzen of tijden. Vraag bij de receptie naar de actuele mogelijkheden, de regels voor kinderen en eventuele afspraken voor het gezin. Wie meerdere dagen verblijft, kan zo een rustdag inplannen tussen de actieve dagen door.",
+   "en": "Hotel Wastlhof in Niederau is a partner of this site and stands right beside the Markbachjochbahn and the ski slope. The hotel has a wellness area with an indoor pool, several saunas, a steam bath, an infrared cabin, an ice cave and a whirlpool. Massages and beauty treatments are available for an extra charge. After a day of skiing or walking it is a pleasant way to finish, with no more driving needed.\n\nWho may use the wellness area, what rules apply to children and at what times can vary, so this page names no fixed prices or times. Ask reception about the current options, the rules for children and any family arrangements. For guests staying several days it also makes an easy rest day between more active ones.",
+   "de": "Das Hotel Wastlhof in Niederau ist Partner dieser Seite und liegt direkt an der Markbachjochbahn und der Skipiste. Das Haus hat einen Wellnessbereich mit Hallenbad, mehreren Saunen, Dampfbad, Infrarotkabine, Eisgrotte und Whirlpool. Massagen und Kosmetikbehandlungen gibt es gegen Aufpreis. Nach einem Tag auf Ski oder zu Fuß ist das ein schöner Abschluss, ganz ohne weitere Fahrt.\n\nWer den Bereich nutzen darf, welche Regeln für Kinder gelten und zu welchen Zeiten, kann variieren; diese Seite nennt daher keine festen Preise oder Zeiten. Fragen Sie an der Rezeption nach den aktuellen Möglichkeiten, den Regeln für Kinder und Angeboten für Familien. Bei einem Aufenthalt von mehreren Tagen eignet sich das auch gut als Ruhetag zwischen aktiven Tagen."
+  },
+  "tips": {
+   "nl": [
+    "Vraag naar de regels voor kinderen in het wellnessgedeelte.",
+    "Drink genoeg water voor en na het saunagebruik.",
+    "Neem badkleding en slippers mee.",
+    "Ga in een rustig uur voor meer ruimte."
+   ],
+   "en": [
+    "Ask about the rules for children in the wellness area.",
+    "Drink enough water before and after the sauna.",
+    "Bring swimwear and flip-flops.",
+    "Go in a quiet hour for more space."
+   ],
+   "de": [
+    "Frag nach den Regeln für Kinder im Wellnessbereich.",
+    "Trink vor und nach der Sauna genug Wasser.",
+    "Nimm Badekleidung und Badeschuhe mit.",
+    "Geh in einer ruhigen Stunde für mehr Platz."
+   ]
+  },
+  "practical": {
+   "nl": "De spa ligt in het hotel in Niederau; geen vervoer nodig. Neem voor toegang en voorwaarden contact op met het hotel.",
+   "en": "The spa is inside the hotel in Niederau, so no transport is needed. Contact the hotel for access and conditions.",
+   "de": "Die Spa liegt im Hotel in Niederau, ein Transfer ist nicht nötig. Zugang und Bedingungen erfragst du im Hotel."
+  },
+  "facts": {
+   "age": {
+    "nl": "Informeer bij het hotel",
+    "en": "Ask the hotel",
+    "de": "Im Hotel erfragen"
+   },
+   "duration": {
+    "nl": "Naar keuze",
+    "en": "As you wish",
+    "de": "Nach Belieben"
+   },
+   "price": {
+    "nl": "Informeer bij het hotel",
+    "en": "Ask the hotel",
+    "de": "Im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "Op locatie in Niederau",
+    "en": "On site in Niederau",
+    "de": "Vor Ort in Niederau"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "Year-round",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de spa ook voor niet-gasten?",
+     "en": "Is the spa open to non-guests?",
+     "de": "Ist die Spa auch für Nicht-Hausgäste offen?"
+    },
+    "a": {
+     "nl": "Dat verschilt; vraag het bij het hotel.",
+     "en": "This varies; ask the hotel.",
+     "de": "Das ist unterschiedlich; frag im Hotel nach."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s55",
+  "drop": false,
+  "drop_reason": "",
+  "place": "thiersee",
+  "slug_en": "thiersee-lake-beach",
+  "slug_de": "strandbad-thiersee",
+  "title": {
+   "nl": "Strandbad Thiersee",
+   "en": "Thiersee Lake Beach",
+   "de": "Strandbad Thiersee"
+  },
+  "tagline": {
+   "nl": "Rustig bergmeer met zwemstrand in het Kufsteinerland",
+   "en": "A quiet mountain lake with a bathing beach in the Kufsteinerland",
+   "de": "Ruhiger Bergsee mit Strandbad im Kufsteinerland"
+  },
+  "intro": {
+   "nl": "De Thiersee is een bergmeer van ongeveer 25 hectare en tot ca. 12 meter diep, vlak bij de Beierse grens, in het rustige Thierseedal. Het strandbad ligt aan de noordoever, met een ligweide om te zonnen en een restaurant vlakbij.\n\nAan het water vind je een duiktoren, een Aqua Jump, een waterglijbaan en een beachvolleybalveld; voor de kleinere kinderen is er een grote speeltuin. Roeiboten, dolfijnboten en waterfietsen zijn tegen een vergoeding te huur, zodat je ook een rondje over het meer kunt maken. Het strandbad is in de zomermaanden overdag geopend. Het is een ontspannen dagje uit voor gezinnen die liever op een overzichtelijk meer zwemmen dan in een groot bad. Neem handdoeken en zonnebrand mee; je brengt hier gemakkelijk een halve of hele dag door.",
+   "en": "The Thiersee is a mountain lake of roughly 25 hectares and up to about 12 metres deep, close to the Bavarian border, in the quiet Thierseetal valley. The lido lies on the north shore, with a sunbathing lawn and a restaurant close by.\n\nAt the water you find a diving tower, an Aqua Jump, a water slide and a beach volleyball court; for smaller children there is a large playground. Rowing boats, dolphin boats and pedalos can be hired for a fee, so you can also make a trip around the lake. The lido is open during the day in the summer months. It suits families who prefer swimming in a manageable lake to a large pool. Bring towels and sun cream; it is easy to spend half a day or a full day here.",
+   "de": "Der Thiersee ist ein Bergsee von rund 25 Hektar und bis zu etwa 12 Metern Tiefe, nahe der bayerischen Grenze, im ruhigen Thierseetal. Das Strandbad liegt am Nordufer, mit Liegewiese und einem Restaurant in der Nähe.\n\nAm Wasser gibt es einen Sprungturm, einen Aqua Jump, eine Wasserrutsche und ein Beachvolleyballfeld; für kleinere Kinder steht ein großer Spielplatz bereit. Ruder-, Delfin- und Tretboote lassen sich gegen Gebühr mieten, sodass auch eine Runde über den See möglich ist. Das Strandbad ist in den Sommermonaten tagsüber geöffnet. Es passt gut für Familien, die lieber in einem überschaubaren See als in einem großen Bad schwimmen. Handtücher und Sonnencreme mitnehmen; man verbringt hier leicht einen halben oder ganzen Tag."
+  },
+  "tips": {
+   "nl": [
+    "Kom doordeweeks of na de middag voor meer rust.",
+    "Er is een restaurant in de buurt; je kunt ook een picknick meenemen.",
+    "Huur een roeiboot of waterfiets voor een rondje over het meer."
+   ],
+   "en": [
+    "Come on a weekday or later in the afternoon for more peace and quiet.",
+    "There is a restaurant nearby; you can also bring a picnic.",
+    "Hire a rowing boat or pedalo for a trip around the lake."
+   ],
+   "de": [
+    "Unter der Woche oder am Nachmittag ist es ruhiger.",
+    "Ein Restaurant ist in der Nähe; ein Picknick ist ebenfalls möglich.",
+    "Ein Ruder- oder Tretboot für eine Runde über den See mieten."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 35 minuten rijden via Wörgl en Kufstein, daarna richting Thiersee. Controleer de actuele openingstijden, entree en parkeermogelijkheden.",
+   "en": "From Niederau it is about 35 minutes by car via Wörgl and Kufstein, then towards Thiersee. Check current opening times, admission and parking.",
+   "de": "Von Niederau sind es etwa 35 Minuten mit dem Auto über Wörgl und Kufstein Richtung Thiersee. Aktuelle Öffnungszeiten, Eintritt und Parkmöglichkeiten prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve of hele dag",
+    "en": "Half or full day",
+    "de": "Halber oder ganzer Tag"
+   },
+   "price": {
+    "nl": "Kleine entree; bootverhuur tegen betaling; informeer vooraf",
+    "en": "Small admission fee; boat hire charged; please enquire",
+    "de": "Geringer Eintritt; Bootsverleih kostenpflichtig; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Thiersee",
+   "en": "Thiersee",
+   "de": "Thiersee"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je in de Thiersee zwemmen?",
+     "en": "Can you swim in the Thiersee?",
+     "de": "Kann man im Thiersee baden?"
+    },
+    "a": {
+     "nl": "Ja, bij het strandbad is zwemmen mogelijk; er zijn onder meer een duiktoren en een Aqua Jump.",
+     "en": "Yes, swimming is possible at the lido; there are a diving tower and an Aqua Jump, among other things.",
+     "de": "Ja, am Strandbad kann man baden; es gibt unter anderem einen Sprungturm und einen Aqua Jump."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s240",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "seefeld-day-trip",
+  "slug_de": "seefeld-tagesausflug",
+  "title": {
+   "nl": "Dagje Seefeld",
+   "en": "Day trip to Seefeld",
+   "de": "Tagesausflug nach Seefeld"
+  },
+  "tagline": {
+   "nl": "Olympisch dorp op een plateau: wandelen, winkelen en de Rosshütte",
+   "en": "Olympic village on a plateau: walking, shopping and the Rosshütte",
+   "de": "Olympiaort auf dem Plateau: Wandern, Bummeln und die Rosshütte"
+  },
+  "intro": {
+   "nl": "Seefeld ligt op een zonnig plateau op ca. 1.200 meter, tussen het Wettersteingebergte en het Karwendel. Het dorp was in 1964 en 1976 gastheer van de Nordische onderdelen van de Olympische Winterspelen van Innsbruck en is nog steeds sterk op buitensport gericht.\n\nIn de zomer kun je er wandelen, fietsen en door het dorpscentrum met winkels en terrassen lopen. De Rosshütte-bergbanen bestaan uit een standkabelbaan en twee vervolgliften tot ca. 2.000 m; boven kun je panoramawandelingen maken. Bij de Rosshütte is een tentoonstelling over wintersport en de Olympische Spelen van 1964 en 1976. Kinderen hebben er een grote avonturenspeelplaats met mijnthema. Het dorp zelf is vrij te bezoeken. Een prettige halve dag of meer, op ca. 1 uur en 10 minuten van Niederau.",
+   "en": "Seefeld sits on a sunny plateau at around 1,200 metres, between the Wetterstein and Karwendel ranges. In 1964 and 1976 the village hosted the Nordic events of the Innsbruck Winter Olympics and it remains strongly focused on outdoor sport.\n\nIn summer you can walk and cycle there and stroll through the village centre with its shops and terraces. The Rosshütte lifts consist of a funicular and two connecting lifts up to about 2,000 m; at the top you can follow panorama walks. At the Rosshütte there is an exhibition on winter sport and the 1964 and 1976 Olympic Games. Children have a large mining-themed adventure playground there. The village itself is free to visit. A pleasant half day or more, about 1 hour 10 minutes from Niederau.",
+   "de": "Seefeld liegt auf einem sonnigen Plateau auf rund 1.200 Metern, zwischen Wetterstein und Karwendel. 1964 und 1976 war der Ort Schauplatz der nordischen Bewerbe der Olympischen Winterspiele von Innsbruck und ist bis heute stark auf Outdoor-Sport ausgerichtet.\n\nIm Sommer kannst du hier wandern, Rad fahren und durch das Ortszentrum mit Geschäften und Terrassen bummeln. Die Rosshütte-Bahnen bestehen aus einer Standseilbahn und zwei weiterführenden Liften bis auf rund 2.000 m; oben lassen sich Panoramawege gehen. Bei der Rosshütte gibt es eine Ausstellung zu Wintersport und den Olympischen Spielen 1964 und 1976. Für Kinder gibt es dort einen großen Abenteuerspielplatz im Bergwerk-Stil. Der Ort selbst ist frei zugänglich. Ein schöner Halbtag oder mehr, ca. 1 Stunde 10 Minuten von Niederau."
+  },
+  "tips": {
+   "nl": [
+    "Combineer het dorp met een wandeling rond de nabije meren of paden.",
+    "Controleer of de Rosshütte-bergbaan rijdt voordat je erheen gaat.",
+    "Plan een pauze op een terras in het dorpscentrum."
+   ],
+   "en": [
+    "Combine the village with a walk around the nearby lakes or paths.",
+    "Check that the Rosshütte lift is running before you go.",
+    "Plan a break on a terrace in the village centre."
+   ],
+   "de": [
+    "Verbinde den Ort mit einer Wanderung rund um die nahen Seen oder Wege.",
+    "Prüfe, ob die Rosshütte-Bahn fährt, bevor du hinfährst.",
+    "Plane eine Pause auf einer Terrasse im Ortszentrum ein."
+   ]
+  },
+  "practical": {
+   "nl": "Seefeld ligt ca. 1 uur en 10 minuten rijden van Niederau, via de A12 richting Telfs en dan de B177.",
+   "en": "Seefeld is about 1 hour 10 minutes by car from Niederau, via the A12 towards Telfs and then the B177.",
+   "de": "Seefeld liegt ca. 1 Std. 10 Min. Autofahrt von Niederau entfernt, über die A12 Richtung Telfs und dann die B177."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Dorp vrij te bezoeken; bergbaan tegen betaling",
+    "en": "Village free to visit; lift charged",
+    "de": "Ort frei zugänglich; Bergbahn kostenpflichtig"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 10 rijden",
+    "en": "About 1 h 10 by car",
+    "de": "Ca. 1 Std. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Seefeld in Tirol",
+   "en": "Seefeld in Tirol",
+   "de": "Seefeld in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer was Seefeld Olympisch?",
+     "en": "When was Seefeld Olympic?",
+     "de": "Wann war Seefeld olympisch?"
+    },
+    "a": {
+     "nl": "Seefeld was in 1964 en 1976 gastheer voor de Nordische onderdelen van de Olympische Spelen van Innsbruck.",
+     "en": "Seefeld hosted the Nordic events of the Innsbruck Olympics in 1964 and 1976.",
+     "de": "Seefeld war 1964 und 1976 Austragungsort der nordischen Bewerbe der Olympischen Spiele von Innsbruck."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s254",
+  "drop": false,
+  "drop_reason": "",
+  "place": "thiersee",
+  "slug_en": "kraeuterwelt-thierseetal",
+  "slug_de": "kraeuterwelt-thierseetal",
+  "title": {
+   "nl": "Kräuterwelt Thierseetal",
+   "en": "Kräuterwelt Thierseetal herb garden",
+   "de": "Kräuterwelt Thierseetal"
+  },
+  "tagline": {
+   "nl": "Kruidentuin bij Hinterthiersee met rondleidingen over geneeskrachtige planten",
+   "en": "Herb garden at Hinterthiersee with guided tours on medicinal plants",
+   "de": "Kräutergarten in Hinterthiersee mit Führungen zu Heilpflanzen"
+  },
+  "intro": {
+   "nl": "De Kräuterwelt Thierseetal is een kruidentuin aan de rand van het bos in Hinterthiersee. De tuin is van fytotherapeute Christiane Kirchmair en bevat meer dan 120 soorten kruiden. Het is een rustige plek waar je ziet, ruikt en leert hoe planten worden gebruikt.\n\nJe kunt de tuin op eigen houtje bekijken of een rondleiding volgen; die worden op vaste middagen gehouden en leggen uit hoe planten werken en gebruikt worden. De tuin is doorgaans overdag geopend, ma t/m za. In de winter zijn er soms aparte bijeenkomsten, bijvoorbeeld over het oude gebruik van wierook met streekplanten. Een bezoek duurt ongeveer een tot twee uur en past bij een rustige dag in het Thierseedal, bijvoorbeeld met een wandeling of een bezoek aan de Thiersee. Het is ca. 45 minuten rijden vanaf Niederau.",
+   "en": "The Kräuterwelt Thierseetal is a herb garden at the edge of the forest in Hinterthiersee. The garden belongs to phytotherapist Christiane Kirchmair and contains more than 120 kinds of herbs. It is a quiet spot where you can see, smell and learn how plants are used.\n\nYou can explore the garden on your own or join a guided tour; these run on fixed afternoons and explain how plants work and are used. The garden is usually open in the daytime, Monday to Saturday. In winter there are sometimes separate gatherings, for example about the old custom of smoking with local plants. A visit takes roughly one to two hours and suits a quiet day in the Thierseetal, for example combined with a walk or a visit to the Thiersee. It is about 45 minutes by car from Niederau.",
+   "de": "Die Kräuterwelt Thierseetal ist ein Kräutergarten am Waldrand in Hinterthiersee. Der Garten gehört der Phytotherapeutin Christiane Kirchmair und enthält mehr als 120 Kräuterarten. Es ist ein ruhiger Ort, an dem man sieht, riecht und lernt, wie Pflanzen verwendet werden.\n\nDu kannst den Garten auf eigene Faust erkunden oder an einer Führung teilnehmen; diese finden an festen Nachmittagen statt und erklären Wirkung und Verwendung der Pflanzen. Der Garten ist meist tagsüber geöffnet, Montag bis Samstag. Im Winter gibt es manchmal gesonderte Abende, zum Beispiel zum alten Brauch des Räucherns mit heimischen Pflanzen. Ein Besuch dauert etwa ein bis zwei Stunden und passt zu einem ruhigen Tag im Thierseetal, zum Beispiel mit einer Wanderung oder einem Besuch am Thiersee. Von Niederau sind es ca. 45 Minuten Fahrt."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf over openingstijden en rondleidingen.",
+    "Rondleidingen zijn er op vaste middagen; informeer naar de data.",
+    "Combineer het bezoek met een wandeling of een stop bij de Thiersee."
+   ],
+   "en": [
+    "Ask beforehand about opening times and guided tours.",
+    "Guided tours run on fixed afternoons; ask for the dates.",
+    "Combine the visit with a walk or a stop at the Thiersee."
+   ],
+   "de": [
+    "Erkundige dich vorab nach Öffnungszeiten und Führungen.",
+    "Führungen finden an festen Nachmittagen statt; Termine erfragen.",
+    "Verbinde den Besuch mit einer Wanderung oder einem Halt am Thiersee."
+   ]
+  },
+  "practical": {
+   "nl": "Thiersee ligt ca. 45 minuten rijden van Niederau, via Wörgl en Kufstein naar Thiersee en dan Hinterthiersee.",
+   "en": "Thiersee is about 45 minutes by car from Niederau, via Wörgl and Kufstein to Thiersee and then Hinterthiersee.",
+   "de": "Thiersee liegt ca. 45 Autominuten von Niederau entfernt, über Wörgl und Kufstein nach Thiersee und weiter nach Hinterthiersee."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1–2 uur",
+    "en": "About 1–2 hours",
+    "de": "Ca. 1–2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "About 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hinterthiersee, Thiersee",
+   "en": "Hinterthiersee, Thiersee",
+   "de": "Hinterthiersee, Thiersee"
+  },
+  "url": "https://www.skiwelt.at/en/thiersee/info/herbal-world.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt de Kräuterwelt Thierseetal?",
+     "en": "Where is the Kräuterwelt Thierseetal?",
+     "de": "Wo liegt die Kräuterwelt Thierseetal?"
+    },
+    "a": {
+     "nl": "In Hinterthiersee, aan de rand van het bos in het Thierseetal.",
+     "en": "In Hinterthiersee, at the edge of the forest in the Thierseetal.",
+     "de": "In Hinterthiersee am Waldrand im Thierseetal."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s171",
+  "drop": false,
+  "drop_reason": "",
+  "place": "walchsee",
+  "slug_en": "sup-walchsee",
+  "slug_de": "sup-walchsee",
+  "title": {
+   "nl": "SUP-boarden op het Walchsee",
+   "en": "Stand-up paddling on Lake Walchsee",
+   "de": "SUP auf dem Walchsee"
+  },
+  "tagline": {
+   "nl": "Peddelen op een van de warmste badmeren van Tirol",
+   "en": "Paddle on one of Tyrol's warmest bathing lakes",
+   "de": "Paddeln auf einem der wärmsten Tiroler Badeseen"
+  },
+  "intro": {
+   "nl": "Het Walchsee in het Kaiserwinkl is met ongeveer 95 hectare een van de grotere meren van Tirol en geldt als een van de warmste badmeren; in de zomer kan het water tot ca. 24 graden worden. Het meer is op het diepste punt ruim 21 meter diep. Dat maakt het aantrekkelijk voor een eerste kennismaking met stand-up paddleboarden: een val in het water is niet erg.\n\nBij het meer is het watersportcentrum Karl2o, waar onder meer SUP-boards, elektrische boten en waterfietsen gehuurd kunnen worden. Aan de oostoever is bovendien een strandbar met verhuur van SUP-boards en boten. Onder het peddelen zie je de bergen rond het meer. Het meer ligt ca. 45 minuten rijden van Niederau, dus het past goed in een dagje met zwemmen op het strand.",
+   "en": "Lake Walchsee in the Kaiserwinkl covers about 95 hectares, making it one of Tyrol's larger lakes, and is regarded as one of the warmest bathing lakes; in summer the water can reach about 24 degrees. At its deepest point the lake is just over 21 metres deep. That makes it a pleasant place for a first go at stand-up paddling: falling in is no problem.\n\nBy the lake is the Karl2o water sports centre, where SUP boards, electric boats and pedal boats, among other things, can be hired. On the east shore there is also a beach bar that hires out SUP boards and boats. While paddling you see the mountains around the lake. It lies about 45 minutes by car from Niederau, so it fits well into a day that also includes a swim at the beach.",
+   "de": "Der Walchsee im Kaiserwinkl ist mit rund 95 Hektar einer der größeren Seen Tirols und gilt als einer der wärmsten Badeseen; im Sommer kann das Wasser etwa 24 Grad erreichen. An der tiefsten Stelle ist der See gut 21 Meter tief. Das macht ihn zu einem angenehmen Ort für die ersten SUP-Versuche: Ein Sturz ins Wasser ist kein Problem.\n\nAm See liegt das Wassersportzentrum Karl2o, wo unter anderem SUP-Boards, Elektro- und Tretboote ausgeliehen werden können. Am Ostufer vermietet außerdem eine Strandbar SUP-Boards und Boote. Beim Paddeln sehen Sie die Berge rund um den See. Er liegt ca. 45 Fahrminuten von Niederau entfernt und passt gut in einen Tag mit Badespaß am Strand."
+  },
+  "tips": {
+   "nl": [
+    "Begin op je knieën en sta pas op als je balans hebt.",
+    "Draag zwemkleding of kleding die nat mag worden.",
+    "Reserveer bij drukte vooraf bij de verhuurder.",
+    "Combineer het met een zwemmiddag op het strand."
+   ],
+   "en": [
+    "Start on your knees and stand up once you have your balance.",
+    "Wear swimwear or clothes that can get wet.",
+    "Book ahead with the hirer when it is busy.",
+    "Combine it with an afternoon swim at the beach."
+   ],
+   "de": [
+    "Beginnen Sie kniend und stehen Sie erst auf, wenn Sie Balance haben.",
+    "Tragen Sie Badekleidung oder Kleidung, die nass werden darf.",
+    "Reservieren Sie bei Andrang vorab beim Verleih.",
+    "Verbinden Sie es mit einem Badenachmittag am Strand."
+   ]
+  },
+  "practical": {
+   "nl": "Het Walchsee ligt ca. 45 minuten rijden van Niederau, via Wörgl, Kufstein en Walchsee. Controleer bij de verhuurder de actuele tarieven, leeftijdsgrenzen en openingstijden.",
+   "en": "Lake Walchsee is about 45 minutes by car from Niederau, via Wörgl, Kufstein and Walchsee. Check current rates, age limits and opening times with the hirer.",
+   "de": "Der Walchsee ist ca. 45 Fahrminuten von Niederau entfernt, über Wörgl, Kufstein und Walchsee. Aktuelle Preise, Altersgrenzen und Öffnungszeiten beim Verleih erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinnen; leeftijdsgrens per verhuurder",
+    "en": "Families; age limit per hirer",
+    "de": "Familien; Altersgrenze je Verleih"
+   },
+   "duration": {
+    "nl": "Ca. 1–2 uur huur, of een halve dag",
+    "en": "About 1–2 hours' hire, or a half day",
+    "de": "Ca. 1–2 Std. Miete oder halber Tag"
+   },
+   "price": {
+    "nl": "Verschilt per verhuurder; informeer vooraf",
+    "en": "Varies by hirer; please enquire",
+    "de": "Je nach Verleih verschieden; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "About 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Walchsee, Kaiserwinkl",
+   "en": "Walchsee, Kaiserwinkl",
+   "de": "Walchsee, Kaiserwinkl"
+  },
+  "url": "https://www.karl2o.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar kun je op het Walchsee een SUP-board huren?",
+     "en": "Where can you hire a SUP board on Lake Walchsee?",
+     "de": "Wo kann man am Walchsee ein SUP-Board mieten?"
+    },
+    "a": {
+     "nl": "Bij het watersportcentrum Karl2o en bij de strandbar aan de oostoever; controleer de actuele openingstijden.",
+     "en": "At the Karl2o water sports centre and at the beach bar on the east shore; check current opening times.",
+     "de": "Im Wassersportzentrum Karl2o und an der Strandbar am Ostufer; aktuelle Öffnungszeiten prüfen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s85",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "hopfgarten-lake-salvenaland",
+  "slug_de": "badesee-hopfgarten",
+  "title": {
+   "nl": "Badesee Hopfgarten (Salvenaland)",
+   "en": "Hopfgarten Bathing Lake (Salvenaland)",
+   "de": "Badesee Hopfgarten (Salvenaland)"
+  },
+  "tagline": {
+   "nl": "Zwemmeer en vrijetijdspark aan de voet van de Hohe Salve",
+   "en": "Bathing lake and leisure park at the foot of the Hohe Salve",
+   "de": "Badesee und Freizeitpark am Fuß der Hohen Salve"
+  },
+  "intro": {
+   "nl": "Hopfgarten im Brixental ligt aan de voet van de Hohe Salve. In het dorp ligt het Salvenaland, een vrijetijdspark met een zwemmeer, een kinderbad met waterspeelstraat, een opblaasbare ijsberg voor oudere kinderen, een zomerrodelbaan, een minigolfbaan met 18 holes en skelters. Verder zijn er velden voor volleybal, basketbal en voetbal en springkussens.\n\nHet is een overzichtelijk adres voor gezinnen die dicht bij Niederau willen zwemmen, op ca. 20 minuten rijden. Het park is vrij toegankelijk tijdens de openingstijden; voor sommige onderdelen, zoals minigolf, de skelters en de rodelbaan, betaal je apart. Aan het meer ligt een restaurant met zonneterras. De precieze openingsperiode kan wisselen, dus controleer die vooraf. Neem handdoeken en zonnebrand mee.",
+   "en": "Hopfgarten im Brixental lies at the foot of the Hohe Salve. In the village is the Salvenaland, a leisure park with a bathing lake, a children's pool with a water play street, an inflatable iceberg for older children, a summer toboggan run, an 18-hole mini golf course and mini carts. There are also volleyball, basketball and football pitches and bouncy cushions.\n\nIt is a manageable option for families who want to swim close to Niederau, about 20 minutes by car. The park can be entered freely during opening hours; some attractions, such as mini golf, the mini carts and the toboggan run, are paid separately. There is a restaurant with a sunny terrace at the lake. The exact opening period may change, so check it beforehand. Bring towels and sun cream.",
+   "de": "Hopfgarten im Brixental liegt am Fuß der Hohen Salve. Im Ort befindet sich das Salvenaland, ein Freizeitpark mit Badesee, Kinderbecken mit Wasserspielstraße, aufblasbarem Eisberg für ältere Kinder, Sommerrodelbahn, 18-Loch-Minigolf und Minikarts. Dazu kommen Felder für Volleyball, Basketball und Fußball sowie Hüpfkissen.\n\nEs ist eine überschaubare Adresse für Familien, die nahe bei Niederau baden möchten, etwa 20 Autominuten entfernt. Der Park ist während der Öffnungszeiten frei zugänglich; einzelne Angebote wie Minigolf, Minikarts und Rodelbahn kosten extra. Am See gibt es ein Restaurant mit Sonnenterrasse. Die genaue Öffnungsperiode kann sich ändern, daher vorab prüfen. Handtücher und Sonnencreme mitnehmen. Für einen Badetag mit Kindern ist das ein unkomplizierter Ort."
+  },
+  "tips": {
+   "nl": [
+    "Controleer de openingsperiode vooraf.",
+    "Kom op een zonnige dag en neem zonnebrand mee.",
+    "Combineer met de zomerrodelbaan of minigolf."
+   ],
+   "en": [
+    "Check the opening period beforehand.",
+    "Come on a sunny day and bring sun cream.",
+    "Combine with the summer toboggan run or mini golf."
+   ],
+   "de": [
+    "Öffnungszeitraum vorab prüfen.",
+    "An einem sonnigen Tag kommen und Sonnencreme mitnehmen.",
+    "Mit Sommerrodelbahn oder Minigolf kombinieren."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 20 minuten rijden naar Hopfgarten im Brixental.",
+   "en": "From Niederau it is about 20 minutes by car to Hopfgarten im Brixental.",
+   "de": "Von Niederau sind es etwa 20 Minuten mit dem Auto nach Hopfgarten im Brixental."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden; kinderbad aanwezig",
+    "en": "All ages; children's pool on site",
+    "de": "Alle Altersgruppen; Kinderbecken vorhanden"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Park vrij toegankelijk; sommige onderdelen tegen betaling; informeer vooraf",
+    "en": "Park freely accessible; some attractions charged; check beforehand",
+    "de": "Park frei zugänglich; einzelne Angebote kostenpflichtig; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 20 min rijden",
+    "en": "About 20 min by car",
+    "de": "Ca. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er naast zwemmen te doen in het Salvenaland?",
+     "en": "What else is there to do at the Salvenaland besides swimming?",
+     "de": "Was gibt es im Salvenaland außer Baden?"
+    },
+    "a": {
+     "nl": "Er zijn onder meer een zomerrodelbaan, minigolf met 18 holes, skelters en een kinderbad met waterspeelstraat.",
+     "en": "There are a summer toboggan run, 18-hole mini golf, mini carts and a children's pool with a water play street, among other things.",
+     "de": "Es gibt unter anderem eine Sommerrodelbahn, 18-Loch-Minigolf, Minikarts und ein Kinderbecken mit Wasserspielstraße."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s241",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "ruhpolding-leisure-park",
+  "slug_de": "freizeitpark-ruhpolding",
+  "title": {
+   "nl": "Freizeitpark Ruhpolding",
+   "en": "Freizeitpark Ruhpolding",
+   "de": "Freizeitpark Ruhpolding"
+  },
+  "tagline": {
+   "nl": "Familiepark met veel attracties in de Chiemgau",
+   "en": "Family theme park with many attractions in the Chiemgau",
+   "de": "Familienpark mit vielen Attraktionen im Chiemgau"
+  },
+  "intro": {
+   "nl": "Het Freizeitpark Ruhpolding ligt in het Beierse Chiemgau, tussen München en Salzburg, en geldt als het oudste pretpark van Beieren. Het is een sprookjes- en avonturenpark met meer dan zestig attracties. Blikvanger is de bergachtbaan Gipfelstürmer. Verder zijn er onder meer de Drachenritt Siegfried, een laag touwenparcours, een glijbanenparadijs, het sprookjesland en de bootglijbanen Wasserwirbel en Wasserhüpfer. In het Kristallbergwerk graven kinderen als dwergen naar edelstenen.\n\nDaardoor komen jongere en oudere kinderen aan hun trekken. In 2026 is het park van eind maart tot begin november dagelijks overdag geopend; daarna volgen winteropeningstijden. Door de reistijd is het een volledige dagtrip; controleer vooraf de actuele openingstijden en prijzen.",
+   "en": "The Freizeitpark Ruhpolding lies in Bavaria's Chiemgau, between Munich and Salzburg, and is regarded as the oldest amusement park in Bavaria. It is a fairy-tale and adventure park with more than sixty attractions. The eye-catcher is the Gipfelstürmer mountain coaster. There is also the Drachenritt Siegfried dragon ride, a low ropes course, a slide paradise, a fairy-tale land and the boat slides Wasserwirbel and Wasserhüpfer. In the Kristallbergwerk children dig for gems like dwarfs.\n\nSo both younger and older children have plenty to do. In 2026 the park is open daily during the daytime from late March to early November, followed by winter opening hours. Given the travel time it makes a full day out; check current opening hours and prices beforehand.",
+   "de": "Der Freizeitpark Ruhpolding liegt im bayerischen Chiemgau, zwischen München und Salzburg, und gilt als ältester Freizeitpark Bayerns. Es ist ein Märchen- und Abenteuerpark mit mehr als sechzig Attraktionen. Blickfang ist die Bergachterbahn Gipfelstürmer. Dazu kommen unter anderem der Drachenritt Siegfried, ein Niedrigseilgarten, ein Rutschenparadies, das Märchenland und die Bootsrutschen Wasserwirbel und Wasserhüpfer. Im Kristallbergwerk graben Kinder wie Zwerge nach Edelsteinen.\n\nSo kommen jüngere und ältere Kinder auf ihre Kosten. 2026 ist der Park von Ende März bis Anfang November täglich tagsüber geöffnet, danach gelten Winteröffnungszeiten. Wegen der Anfahrt ist es ein ganzer Tagesausflug; aktuelle Öffnungszeiten und Preise vorab prüfen. Der Park liegt in Deutschland."
+  },
+  "tips": {
+   "nl": [
+    "Kom vroeg en laat de dag rustig beginnen.",
+    "Neem een regenjas mee, een deel van het park is buiten.",
+    "Kijk vooraf naar de lengte-eisen per attractie.",
+    "Informeer naar gezinstarieven en kindertarieven."
+   ],
+   "en": [
+    "Arrive early and start the day at a relaxed pace.",
+    "Bring a rain jacket, as much of the park is outdoors.",
+    "Check the height requirements per attraction beforehand.",
+    "Ask about family and child rates."
+   ],
+   "de": [
+    "Früh kommen und den Tag ruhig angehen.",
+    "Regenjacke mitnehmen, ein Großteil des Parks liegt im Freien.",
+    "Größenvorgaben pro Attraktion vorab prüfen.",
+    "Nach Familien- und Kindertarifen fragen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Ruhpolding in ca. 1 uur 20 minuten rijden, via Kufstein en de Beierse grens. Het park ligt in Duitsland; neem een identiteitsbewijs mee. Informeer vooraf naar prijzen.",
+   "en": "From Niederau, Ruhpolding is about 1 hour 20 minutes by car, via Kufstein and the Bavarian border. It is in Germany; bring ID. Check prices beforehand.",
+   "de": "Von Niederau sind es ca. 1 Stunde 20 Minuten Fahrt nach Ruhpolding, über Kufstein und die bayerische Grenze. Der Park liegt in Deutschland; Ausweis mitnehmen. Preise vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinnen met kinderen",
+    "en": "Families with children",
+    "de": "Familien mit Kindern"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 20 min rijden",
+    "en": "Approx. 1 hr 20 min by car",
+    "de": "Ca. 1 Std. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Ca. eind maart/april tot begin november",
+    "en": "Roughly late March/April to early November",
+    "de": "Ca. Ende März/April bis Anfang November"
+   }
+  },
+  "location": {
+   "nl": "Ruhpolding, Beieren (Duitsland)",
+   "en": "Ruhpolding, Bavaria (Germany)",
+   "de": "Ruhpolding, Bayern (Deutschland)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke attracties heeft het Freizeitpark Ruhpolding?",
+     "en": "Which attractions does Freizeitpark Ruhpolding have?",
+     "de": "Welche Attraktionen hat der Freizeitpark Ruhpolding?"
+    },
+    "a": {
+     "nl": "Onder meer de bergachtbaan Gipfelstürmer, de Drachenritt Siegfried en het Kristallbergwerk.",
+     "en": "Among others the Gipfelstürmer mountain coaster, the Drachenritt Siegfried dragon ride and the Kristallbergwerk.",
+     "de": "Unter anderem die Bergachterbahn Gipfelstürmer, der Drachenritt Siegfried und das Kristallbergwerk."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s81",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "kitzbuehel-old-town-walk",
+  "slug_de": "kitzbuehel-altstadt-spaziergang",
+  "title": {
+   "nl": "Kitzbühel: wandeling door de oude stad",
+   "en": "Kitzbühel old town walk",
+   "de": "Kitzbühel: Altstadtspaziergang"
+  },
+  "tagline": {
+   "nl": "Traditionele gevels, kerkjes en winkelstraatjes in de Gamsstadt",
+   "en": "Traditional façades, churches and shopping lanes in the Gams town",
+   "de": "Traditionelle Fassaden, Kirchen und Einkaufsgassen in der Gamsstadt"
+  },
+  "intro": {
+   "nl": "Kitzbühel is vooral bekend van de wintersport en de Hahnenkamm-races, maar de oude binnenstad is ook zonder ski's een bezoek waard. De kern ligt tussen twee evenwijdige straten, Vorderstadt en Hinterstadt, die vroeger door middeleeuwse poorten werden afgesloten en nu voetgangerszones zijn. Je ziet er driehoog stenen huizen met erkers, gotische gevels en zware overstekende daken, plus koffiehuizen en winkels.\n\nIn de buurt staan de Pfarrkirche St. Andreas, gebouwd tussen 1435 en 1506, en de Liebfrauenkirche, waarvan het onderste deel uit de 13e eeuw stamt. Het Museum Kitzbühel vertelt over de geschiedenis van het gebied en de skigeschiedenis. Een wandeling duurt met stops ongeveer twee tot drie uur. Het is een rustig programma voor een dag met minder goed weer, en lopen is gratis.",
+   "en": "Kitzbühel is best known for winter sports and the Hahnenkamm races, but its old town is worth a visit even without skis. The core lies between two parallel streets, Vorderstadt and Hinterstadt, which were once closed off by medieval gates and are now pedestrian zones. You see three-storey stone houses with oriel windows, Gothic gables and heavy overhanging eaves, plus cafés and shops.\n\nNearby stand the parish church of St. Andreas, built between 1435 and 1506, and the Liebfrauenkirche, whose lower part dates from the 13th century. Museum Kitzbühel tells the story of the area and of skiing. A stroll takes about two to three hours with stops. It is a calm programme for a day with poorer weather, and walking the streets costs nothing.",
+   "de": "Kitzbühel ist vor allem für Wintersport und das Hahnenkammrennen bekannt, doch auch die Altstadt ist ohne Ski einen Besuch wert. Der Kern liegt zwischen zwei parallelen Straßen, Vorderstadt und Hinterstadt, die einst von mittelalterlichen Toren verschlossen waren und heute Fußgängerzonen sind. Man sieht dreigeschossige Steinhäuser mit Erkern, gotischen Giebeln und kräftigen Dachüberständen, dazu Cafés und Läden.\n\nIn der Nähe stehen die Pfarrkirche St. Andreas, erbaut zwischen 1435 und 1506, und die Liebfrauenkirche, deren unterer Teil aus dem 13. Jahrhundert stammt. Das Museum Kitzbühel erzählt von der Geschichte der Gegend und des Skisports. Ein Bummel dauert mit Pausen etwa zwei bis drei Stunden. Es ist ein ruhiges Programm für einen Tag mit schlechterem Wetter, und das Flanieren selbst kostet nichts."
+  },
+  "tips": {
+   "nl": [
+    "Parkeer in een garage aan de rand en loop het laatste stuk.",
+    "Combineer de stad met het Museum Kitzbühel of een koffiepauze.",
+    "Kijk vooraf naar actuele evenementen in de stad.",
+    "Plan in de zomer ook een bergbaan of het Schwarzsee in."
+   ],
+   "en": [
+    "Park in a car park on the edge and walk the last stretch.",
+    "Combine the town with Museum Kitzbühel or a coffee break.",
+    "Look up current events in the town before visiting.",
+    "In summer, consider adding a mountain lift or the Schwarzsee."
+   ],
+   "de": [
+    "In einem Parkhaus am Rand parken und das letzte Stück gehen.",
+    "Die Stadt mit dem Museum Kitzbühel oder einer Kaffeepause verbinden.",
+    "Vor dem Besuch aktuelle Veranstaltungen in der Stadt prüfen.",
+    "Im Sommer zusätzlich eine Bergbahn oder den Schwarzsee einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Kitzbühel ligt ca. 40 tot 45 minuten rijden van Niederau. Parkeer in een garage; de oude stad zelf is voetgangersgebied.",
+   "en": "Kitzbühel is about 40 to 45 minutes' drive from Niederau. Park in a car park; the old town itself is pedestrianised.",
+   "de": "Kitzbühel liegt etwa 40 bis 45 Fahrminuten von Niederau entfernt. Geparkt wird in Parkhäusern; die Altstadt selbst ist Fußgängerzone."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen is gratis; parkeren en consumpties zijn extra",
+    "en": "Walking is free; parking and refreshments extra",
+    "de": "Spazieren kostenlos; Parken und Verzehr extra"
+   },
+   "distance": {
+    "nl": "Ca. 40 tot 45 min rijden",
+    "en": "About 40 to 45 min by car",
+    "de": "Ca. 40 bis 45 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel, Tirol",
+   "en": "Kitzbühel, Tyrol",
+   "de": "Kitzbühel, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de binnenstad van Kitzbühel autovrij?",
+     "en": "Is Kitzbühel's old town car-free?",
+     "de": "Ist die Kitzbüheler Altstadt autofrei?"
+    },
+    "a": {
+     "nl": "Ja, de twee hoofdstraten Vorderstadt en Hinterstadt zijn voetgangerszones, dus parkeer je in een garage in de buurt.",
+     "en": "Yes, the two main streets, Vorderstadt and Hinterstadt, are pedestrian zones, so park in a nearby car park.",
+     "de": "Ja, die beiden Hauptstraßen Vorderstadt und Hinterstadt sind Fußgängerzonen, daher in einem nahen Parkhaus parken."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "w26",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "skiwelt-wilder-kaiser-day-trip",
+  "slug_de": "skiwelt-wilder-kaiser-tagesausflug",
+  "title": {
+   "nl": "Dagtrip naar de SkiWelt Wilder Kaiser-Brixental",
+   "en": "Day trip to SkiWelt Wilder Kaiser-Brixental",
+   "de": "Tagesausflug in die SkiWelt Wilder Kaiser-Brixental"
+  },
+  "tagline": {
+   "nl": "Een van de grootste skigebieden van Oostenrijk, vlakbij",
+   "en": "One of Austria's largest ski areas, close by",
+   "de": "Eines der größten Skigebiete Österreichs, ganz in der Nähe"
+  },
+  "intro": {
+   "nl": "De SkiWelt Wilder Kaiser-Brixental is een van de grootste skigebieden van Oostenrijk, met ca. 275 tot 288 piste-km (opgaven lopen uiteen). Acht tot negen dorpen zijn met bergbanen met elkaar verbonden, waaronder Hopfgarten, Brixen im Thale, Westendorf, Söll, Ellmau, Going, Itter en Scheffau. Het gebied is zo groot dat je het in een dag nauwelijks helemaal kunt zien.\n\nVoor een afwisselende dag buiten het Ski Juwel is dit een logische keuze. De meeste pistes zijn geschikt voor beginners en gevorderden, er zijn drie funparken en bij Söll ligt een groot nachtskigebied. Bergrestaurants vind je overal. Een SkiWelt-dagpas wordt apart verkocht; vraag bij de kassa naar de actuele prijzen. Begin in Hopfgarten of Söll, ca. 25 minuten rijden vanaf Niederau.",
+   "en": "SkiWelt Wilder Kaiser-Brixental is one of Austria's largest ski areas, with roughly 275 to 288 km of pistes (figures vary). Eight to nine villages are linked by lifts, including Hopfgarten, Brixen im Thale, Westendorf, Söll, Ellmau, Going, Itter and Scheffau. The area is so large that you can hardly see all of it in one day.\n\nFor a varied day away from the Ski Juwel it is a natural choice. Most pistes suit beginners and intermediates, there are three fun parks, and Söll has a large night skiing area. Mountain restaurants are everywhere. A SkiWelt day pass is sold separately; ask at the ticket office for current prices. Start from Hopfgarten or Söll, about 25 minutes by car from Niederau.",
+   "de": "Die SkiWelt Wilder Kaiser-Brixental ist eines der größten Skigebiete Österreichs mit rund 275 bis 288 Pistenkilometern (die Angaben schwanken). Acht bis neun Orte sind durch Bergbahnen verbunden, darunter Hopfgarten, Brixen im Thale, Westendorf, Söll, Ellmau, Going, Itter und Scheffau. Das Gebiet ist so groß, dass man es an einem Tag kaum ganz erkunden kann.\n\nFür einen abwechslungsreichen Tag außerhalb des Ski Juwel ist sie eine naheliegende Wahl. Die meisten Pisten eignen sich für Anfänger und Fortgeschrittene, es gibt drei Funparks, und in Söll liegt ein großes Nachtskigebiet. Bergrestaurants gibt es überall. Eine SkiWelt-Tageskarte wird separat verkauft; an der Kasse nach aktuellen Preisen fragen. Start in Hopfgarten oder Söll, ca. 25 Autominuten von Niederau."
+  },
+  "tips": {
+   "nl": [
+    "Start in Hopfgarten of Söll, afhankelijk van waar je naartoe wilt.",
+    "Download de SkiWelt-app voor liftstatus.",
+    "Eet vroeg, bergrestaurants zijn rond de middag druk."
+   ],
+   "en": [
+    "Start in Hopfgarten or Söll, depending on where you want to ski.",
+    "Download the SkiWelt app for lift status.",
+    "Eat early, as mountain restaurants are busy around midday."
+   ],
+   "de": [
+    "In Hopfgarten oder Söll starten, je nach Ziel.",
+    "Die SkiWelt-App für den Liftstatus herunterladen.",
+    "Früh essen, die Bergrestaurants sind mittags voll."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten ligt ca. 25 minuten rijden van Niederau. Parkeren kan bij de dalstations; vraag of een shuttle beschikbaar is.",
+   "en": "Hopfgarten is about 25 minutes by car from Niederau. Parking is available near the valley stations; ask whether a shuttle runs.",
+   "de": "Hopfgarten ist ca. 25 Minuten Autofahrt von Niederau entfernt. An den Talstationen kann man parken; nach einem Shuttle fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle niveaus; veel makkelijke pistes",
+    "en": "All levels; many easy slopes",
+    "de": "Alle Niveaus; viele leichte Pisten"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Dagpas apart; informeer naar actuele prijzen",
+    "en": "Day pass sold separately; ask for current prices",
+    "de": "Tageskarte separat; aktuelle Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden naar Hopfgarten",
+    "en": "About 25 min by car to Hopfgarten",
+    "de": "Ca. 25 Min. mit dem Auto nach Hopfgarten"
+   },
+   "season": {
+    "nl": "Winter (ca. december tot begin april)",
+    "en": "Winter (approx. December to early April)",
+    "de": "Winter (ca. Dezember bis Anfang April)"
+   }
+  },
+  "location": {
+   "nl": "SkiWelt Wilder Kaiser-Brixental",
+   "en": "SkiWelt Wilder Kaiser-Brixental",
+   "de": "SkiWelt Wilder Kaiser-Brixental"
+  },
+  "url": "https://www.skiwelt.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel kilometer piste heeft de SkiWelt?",
+     "en": "How many km of pistes does SkiWelt have?",
+     "de": "Wie viele Pistenkilometer hat die SkiWelt?"
+    },
+    "a": {
+     "nl": "De opgaven lopen uiteen, van ca. 275 tot 288 piste-km.",
+     "en": "Figures vary, from roughly 275 to 288 km of pistes.",
+     "de": "Die Angaben schwanken zwischen ca. 275 und 288 Pistenkilometern."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s173",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "alm-hike-st-johann-tirol",
+  "slug_de": "almwanderung-st-johann-in-tirol",
+  "title": {
+   "nl": "Almwandeling bij St. Johann in Tirol",
+   "en": "Alm hike near St. Johann in Tirol",
+   "de": "Almwanderung bei St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Wandelnetwerk met almhutten tussen de Kitzbüheler Alpen en de Wilder Kaiser",
+   "en": "Walking network with alpine huts between the Kitzbühel Alps and the Wilder Kaiser",
+   "de": "Wegenetz mit Almhütten zwischen Kitzbüheler Alpen und Wildem Kaiser"
+  },
+  "intro": {
+   "nl": "St. Johann in Tirol ligt tussen de Kitzbüheler Alpen en de Wilder Kaiser. In en rond het dorp, met Oberndorf, Kirchdorf en Erpfendorf, ligt een wandelnetwerk van meer dan 250 km, met veel almhutten en bergrestaurants waar je kunt pauzeren en Tiroler gerechten kunt eten.\n\nVoor gezinnen zijn er rustige routes, zoals de wandeling naar de Prostalm over brede bos- en boerenwegen (ca. 7 km). Een andere optie is het Kaiserbachtal met de Griesner Alm op ca. 1.024 m, recht tegenover de Wilder Kaiser. Daar loopt een tolweg naartoe, en in de zomer rijdt een gratis wandelbus naar de parkeerplaats in het dal. Wie meer wil, kiest een langere dagtocht. Vraag bij het toeristenbureau naar kaarten en actuele routes. Vanaf Niederau is het ca. 50 minuten rijden.",
+   "en": "St. Johann in Tirol lies between the Kitzbühel Alps and the Wilder Kaiser. In and around the village, including Oberndorf, Kirchdorf and Erpfendorf, there is a network of more than 250 km of walking trails, with many alpine huts and mountain restaurants where you can rest and enjoy Tyrolean dishes.\n\nFamilies can choose gentle routes, such as the walk to the Prostalm on wide forest and farm tracks (about 7 km). Another option is the Kaiserbachtal with the Griesner Alm at about 1,024 m, right opposite the Wilder Kaiser. A toll road leads there, and in summer a free hiking bus runs to the car park in the valley. If you want more, pick a longer day tour. Ask the tourist office for maps and current routes. It is about 50 minutes by car from Niederau.",
+   "de": "St. Johann in Tirol liegt zwischen den Kitzbüheler Alpen und dem Wilden Kaiser. In und um den Ort, mit Oberndorf, Kirchdorf und Erpfendorf, gibt es ein Wegenetz von mehr als 250 km, mit vielen Almhütten und Bergrestaurants zum Rasten und für Tiroler Spezialitäten.\n\nFür Familien eignen sich ruhige Routen, etwa die Wanderung zur Prostalm auf breiten Forst- und Hofwegen (ca. 7 km). Eine weitere Möglichkeit ist das Kaiserbachtal mit der Griesner Alm auf ca. 1.024 m, direkt gegenüber dem Wilden Kaiser. Dorthin führt eine Mautstraße, und im Sommer fährt ein kostenloser Wanderbus zum Parkplatz im Tal. Wer mehr möchte, wählt eine längere Tagestour. Karten und aktuelle Routen gibt es beim Tourismusbüro. Von Niederau sind es ca. 50 Autominuten."
+  },
+  "tips": {
+   "nl": [
+    "Haal een wandelkaart bij het toeristenbureau.",
+    "Vertrek bij voorkeur 's ochtends; in de zomer kan het in de middag onweren.",
+    "Draag goede schoenen en neem water mee.",
+    "Kies voor jonge kinderen een korte route met een hut als doel."
+   ],
+   "en": [
+    "Pick up a walking map from the tourist office.",
+    "Set off in the morning if possible; thunderstorms can occur in summer afternoons.",
+    "Wear good shoes and bring water.",
+    "For young children choose a short route with a hut as the goal."
+   ],
+   "de": [
+    "Hol dir eine Wanderkarte im Tourismusbüro.",
+    "Starte möglichst vormittags; im Sommer kann es nachmittags gewittern.",
+    "Trag gute Schuhe und nimm Wasser mit.",
+    "Wähle für kleine Kinder eine kurze Route mit einer Hütte als Ziel."
+   ]
+  },
+  "practical": {
+   "nl": "St. Johann in Tirol ligt ca. 50 minuten rijden van Niederau, via Wörgl en Kitzbühel of via Kufstein. De routes starten meestal in of nabij het dorp; er zijn parkeergelegenheden.",
+   "en": "St. Johann in Tirol is about 50 minutes by car from Niederau, via Wörgl and Kitzbühel or via Kufstein. Routes mostly start in or near the village; parking is available.",
+   "de": "St. Johann in Tirol liegt ca. 50 Autominuten von Niederau entfernt, über Wörgl und Kitzbühel oder über Kufstein. Die Routen beginnen meist im oder nahe dem Ort; es gibt Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar (afhankelijk van de route)",
+    "en": "From approx. 6 years (depending on the route)",
+    "de": "Ab ca. 6 Jahren (je nach Route)"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "About 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen is gratis",
+    "en": "Walking is free",
+    "de": "Wandern ist kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "About 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/st-johann/sommer/wandern/berghuetten-tirol-oberndorf-kirchdorf-erpfendorf-alm-huette.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welk uitzicht heb je tijdens de wandeling bij St. Johann?",
+     "en": "What views do you get on the hike near St. Johann?",
+     "de": "Welche Aussicht hat man bei der Wanderung bei St. Johann?"
+    },
+    "a": {
+     "nl": "Je ziet de Wilder Kaiser en de Kitzbüheler Alpen, afhankelijk van de route.",
+     "en": "You see the Wilder Kaiser and the Kitzbühel Alps, depending on the route.",
+     "de": "Je nach Route siehst du den Wilden Kaiser und die Kitzbüheler Alpen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s281",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "fieberbrunn-larchfilzkogel-hiking",
+  "slug_de": "fieberbrunn-wandern-laerchfilzkogel",
+  "title": {
+   "nl": "Fieberbrunn: wandelen vanaf de Lärchfilzkogel",
+   "en": "Fieberbrunn: hiking from the Lärchfilzkogel",
+   "de": "Fieberbrunn: Wandern am Lärchfilzkogel"
+  },
+  "tagline": {
+   "nl": "Met de gondel omhoog en wandelen over bloemrijke alpenweiden",
+   "en": "Take the gondola up and hike over flower-rich alpine meadows",
+   "de": "Mit der Gondel hinauf und über blumenreiche Almwiesen wandern"
+  },
+  "intro": {
+   "nl": "Fieberbrunn ligt in het PillerseeTal, aan de voet van de Kitzbüheler Alpen. In de zomer brengt de gondel je naar de Lärchfilzkogel (1.645 m), het beginpunt van meerdere wandelroutes. Vanaf het bergstation leidt een korte tocht door bloemrijke alpenweiden naar de Wildsee, waar het Wildseeloderhaus direct aan de oever ligt, met uitzicht op de Kitzbüheler Alpen. Voor de langere rondtocht kun je met ca. 3 tot 4 uur rekenen.\n\nBij het middenstation ligt Timoks Wilde Welt, een speelwereld voor kinderen met een alpine coaster, een waterspeelplaats en een klimpark in het bos. Er is ook een gezinswandeling met tien posten, geleid door mascotte Timok. Zo is er een passende dagtocht voor gezinnen met kinderen van verschillende leeftijden, op ca. 50 minuten rijden van Niederau.",
+   "en": "Fieberbrunn lies in the PillerseeTal, at the foot of the Kitzbühel Alps. In summer the gondola takes you up to the Lärchfilzkogel (1,645 m), the start of several hiking routes. From the top station a short walk through flower-rich alpine meadows leads to the Wildsee, where the Wildseeloderhaus sits right on the shore with views of the Kitzbühel Alps. For the longer round trip allow about 3 to 4 hours.\n\nAt the middle station you will find Timoks Wilde Welt, a children's adventure world with an alpine coaster, a water playground and a forest rope course. There is also a family walk with ten stations, guided by the mascot Timok. That makes for a day out that suits families with children of different ages, about 50 minutes by car from Niederau.",
+   "de": "Fieberbrunn liegt im PillerseeTal am Fuß der Kitzbüheler Alpen. Im Sommer bringt Sie die Gondel auf den Lärchfilzkogel (1.645 m), den Ausgangspunkt mehrerer Wanderrouten. Von der Bergstation führt ein kurzer Weg über blumenreiche Almwiesen zum Wildsee, an dessen Ufer das Wildseeloderhaus mit Blick auf die Kitzbüheler Alpen liegt. Für die längere Runde sollten Sie etwa 3 bis 4 Stunden einplanen.\n\nAn der Mittelstation liegt Timoks Wilde Welt, eine Erlebniswelt für Kinder mit Alpine Coaster, Wasserspielplatz und Waldseilgarten. Dazu gibt es einen Familienweg mit zehn Stationen, den Maskottchen Timok begleitet. So gibt es einen passenden Tagesausflug für Familien mit Kindern unterschiedlichen Alters, ca. 50 Autominuten von Niederau."
+  },
+  "tips": {
+   "nl": [
+    "Informeer bij de bergbaan naar de actuele zomerdienstregeling en tarieven.",
+    "Neem een jas en stevige schoenen mee; boven kan het snel frisser worden.",
+    "Combineer de wandeling naar de Wildsee met een pauze in het Wildseeloderhaus."
+   ],
+   "en": [
+    "Check the current summer timetable and fares with the cable car operator.",
+    "Bring a jacket and sturdy shoes; it can turn cooler quickly up top.",
+    "Combine the walk to the Wildsee with a break at the Wildseeloderhaus."
+   ],
+   "de": [
+    "Erkundigen Sie sich bei der Bergbahn nach Sommerfahrplan und aktuellen Preisen.",
+    "Nehmen Sie Jacke und feste Schuhe mit; oben kann es schnell kühler werden.",
+    "Verbinden Sie die Wanderung zum Wildsee mit einer Einkehr im Wildseeloderhaus."
+   ]
+  },
+  "practical": {
+   "nl": "Fieberbrunn ligt ca. 50 minuten rijden van Niederau, via Kitzbühel of St. Johann. Controleer de actuele data en tijden van de zomerdienst van de bergbaan.",
+   "en": "Fieberbrunn is about 50 minutes by car from Niederau, via Kitzbühel or St. Johann. Check the current dates and times of the cable car's summer service.",
+   "de": "Fieberbrunn ist ca. 50 Fahrminuten von Niederau entfernt, über Kitzbühel oder St. Johann. Prüfen Sie die aktuellen Termine und Zeiten des Sommerbetriebs der Bergbahn."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur, afhankelijk van de route",
+    "en": "Approx. 2 to 4 hours depending on the route",
+    "de": "Ca. 2 bis 4 Stunden je nach Route"
+   },
+   "price": {
+    "nl": "Gondel betaald; informeer naar tarieven",
+    "en": "Gondola is charged; ask about fares",
+    "de": "Gondel kostenpflichtig; Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "Approx. 50 min drive",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Fieberbrunn, PillerseeTal (Tirol)",
+   "en": "Fieberbrunn, PillerseeTal (Tyrol)",
+   "de": "Fieberbrunn, PillerseeTal (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er in Fieberbrunn iets voor kinderen?",
+     "en": "Is there something for children in Fieberbrunn?",
+     "de": "Gibt es in Fieberbrunn etwas für Kinder?"
+    },
+    "a": {
+     "nl": "Ja, bij het middenstation ligt Timoks Wilde Welt met onder meer een alpine coaster, een waterspeelplaats en een klimpark in het bos.",
+     "en": "Yes, the middle station has Timoks Wilde Welt with an alpine coaster, a water playground and a forest rope course.",
+     "de": "Ja, an der Mittelstation liegt Timoks Wilde Welt mit Alpine Coaster, Wasserspielplatz und Waldseilgarten."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "w24",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "winter-hike-markbachjoch-niederau",
+  "slug_de": "winterwanderung-markbachjoch-niederau",
+  "title": {
+   "nl": "Winterwandeling Markbachjoch naar Niederau",
+   "en": "Winter hike from the Markbachjoch to Niederau",
+   "de": "Winterwanderung Markbachjoch nach Niederau"
+  },
+  "tagline": {
+   "nl": "Met de bergbaan omhoog en door de winterse natuur terug naar het dal",
+   "en": "Ride up and walk back down to the valley through winter scenery",
+   "de": "Mit der Bahn hinauf und durch die Winterlandschaft zurück ins Tal"
+  },
+  "intro": {
+   "nl": "Deze winterwandeling begint bij het bergstation van de Markbachjochbahn en loopt vrijwel geheel bergafwaarts terug naar Niederau. De bergbaan brengt je in ongeveer 10 minuten omhoog. De route is ongeveer 10,5 km lang, kost zo'n 4 uur en wordt als gemiddeld moeilijk beschreven, met circa 676 m daling en een hoogste punt van ca. 1.460 m.\n\nJe loopt over zachte hellingen en door bosgedeelten, langs authentieke boerderijen in Penningdörfl en Rotenau en over weiden terug naar het dal. In Penningdörfl staat een kapel. Onderweg zijn er horecagelegenheden, zoals Leam Wirt vóór Penningdörfl, en in Niederau zijn er meerdere eetgelegenheden. Het is een afwisselende tocht met veel panorama, maar ze vraagt wel enige conditie en geschikt schoeisel.",
+   "en": "This winter hike starts at the mountain station of the Markbachjochbahn and runs almost entirely downhill back to Niederau. The lift takes about 10 minutes to reach the top. The route is about 10.5 km long, takes around 4 hours and is described as moderately difficult, with roughly 676 m of descent and a highest point of about 1,460 m.\n\nYou walk over gentle slopes and through sections of forest, past traditional farmhouses in Penningdörfl and Rotenau, and across meadows back to the valley. There is a chapel in Penningdörfl. There are places to eat along the way, such as Leam Wirt before Penningdörfl, and several in Niederau. It is a varied walk with plenty of panorama, but it does require some fitness and suitable footwear.",
+   "de": "Diese Winterwanderung beginnt an der Bergstation der Markbachjochbahn und führt fast durchgehend bergab zurück nach Niederau. Die Bahn braucht für die Auffahrt etwa 10 Minuten. Die Strecke ist etwa 10,5 km lang, dauert rund 4 Stunden und wird als mittelschwer beschrieben, mit rund 676 m Abstieg und einem höchsten Punkt von ca. 1.460 m.\n\nSie gehen über sanfte Hänge und durch Waldabschnitte, an urigen Bauernhöfen in Penningdörfl und Rotenau vorbei und über Wiesen zurück ins Tal. In Penningdörfl steht eine Kapelle. Unterwegs gibt es Einkehrmöglichkeiten wie den Leam Wirt vor Penningdörfl, und in Niederau mehrere weitere. Es ist eine abwechslungsreiche Tour mit viel Panorama, die aber etwas Kondition und geeignetes Schuhwerk verlangt."
+  },
+  "tips": {
+   "nl": [
+    "Draag stevige winterschoenen en kleed je warm; kijk vooraf naar de sneeuwcondities.",
+    "Neem iets te drinken en een snack mee, ook al zijn er onderweg herbergen.",
+    "Controleer vooraf of de bergbaan en de route open zijn."
+   ],
+   "en": [
+    "Wear sturdy winter shoes and dress warmly; check snow conditions beforehand.",
+    "Bring a drink and a snack, even though there are inns along the way.",
+    "Check beforehand that the lift and the route are open."
+   ],
+   "de": [
+    "Tragen Sie feste Winterschuhe und kleiden Sie sich warm; prüfen Sie vorab die Schneelage.",
+    "Nehmen Sie etwas zu trinken und einen Snack mit, auch wenn es unterwegs Gasthöfe gibt.",
+    "Prüfen Sie vorab, ob Bahn und Weg geöffnet sind."
+   ]
+  },
+  "practical": {
+   "nl": "De dalstation van de Markbachjochbahn ligt in het centrum van Niederau; je neemt de bergbaan omhoog en loopt terug naar je vertrekpunt.",
+   "en": "The valley station of the Markbachjochbahn is in the centre of Niederau; you take the lift up and walk back to where you started.",
+   "de": "Die Talstation der Markbachjochbahn liegt im Zentrum von Niederau; Sie fahren mit der Bahn hinauf und gehen zurück zum Ausgangspunkt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kinderen vanaf ca. 8 jaar met conditie",
+    "en": "Children from approx. 8 with some stamina",
+    "de": "Kinder ab ca. 8 Jahren mit Kondition"
+   },
+   "duration": {
+    "nl": "Ca. 4 uur",
+    "en": "Approx. 4 hours",
+    "de": "Ca. 4 Stunden"
+   },
+   "price": {
+    "nl": "Bergbaan betaald; informeer naar tarieven",
+    "en": "Lift is charged; ask about fares",
+    "de": "Bergbahn kostenpflichtig; Preise erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau zelf",
+    "en": "In Niederau itself",
+    "de": "In Niederau selbst"
+   },
+   "season": {
+    "nl": "Winter (vooral december tot en met maart)",
+    "en": "Winter (mainly December to March)",
+    "de": "Winter (vor allem Dezember bis März)"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau (Tirol)",
+   "en": "Niederau, Wildschönau (Tyrol)",
+   "de": "Niederau, Wildschönau (Tirol)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is de winterwandeling van het Markbachjoch naar Niederau?",
+     "en": "How long is the winter hike from the Markbachjoch to Niederau?",
+     "de": "Wie lang ist die Winterwanderung vom Markbachjoch nach Niederau?"
+    },
+    "a": {
+     "nl": "Ongeveer 10,5 km en zo'n 4 uur, vooral bergafwaarts; de route is gemiddeld moeilijk.",
+     "en": "About 10.5 km and around 4 hours, mostly downhill; the route is moderately difficult.",
+     "de": "Etwa 10,5 km und rund 4 Stunden, überwiegend bergab; die Strecke ist mittelschwer."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s144",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ellmau",
+  "slug_en": "kaiserbad-ellmau-outdoor-pool",
+  "slug_de": "kaiserbad-ellmau-freibad",
+  "title": {
+   "nl": "Kaiserbad Ellmau",
+   "en": "Kaiserbad Ellmau",
+   "de": "Kaiserbad Ellmau"
+  },
+  "tagline": {
+   "nl": "Zwembad met buitenbad en natuurlijke zwemvijver aan de Wilder Kaiser",
+   "en": "Pool complex with outdoor pool and natural pond below the Wilder Kaiser",
+   "de": "Bad mit Freibad und Bioschwimmteich am Wilden Kaiser"
+  },
+  "intro": {
+   "nl": "Het Kaiserbad ligt in Ellmau aan de voet van de Wilder Kaiser. Het complex heeft een overdekt avonturenbad met een whirlpool, een stroomkanaal en drie grote glijbanen, een verwarmd buitenbad waar je direct vanuit het binnenbad naartoe zwemt, en een natuurlijke zwemvijver met een duiktoren. In de zomer komt daar een grote waterglijbaan bij.\n\nVoor kinderen zijn er een kinderbad, een speelplaats, een beachvolleybalveld en de kinderwereld Ellmi's Friends. Er is ook een wellnessafdeling met onder meer een zirbensauna, een zoutstoombad en infraroodcabines, plus een klimhal. Doordat er een binnengedeelte is, werkt het Kaiserbad ook bij slecht weer. Voor gezinnen is het een goede halve of hele dag, op ca. 35 minuten rijden van Niederau.",
+   "en": "The Kaiserbad is in Ellmau at the foot of the Wilder Kaiser. The complex has an indoor adventure pool with a whirlpool, a current channel and three large water slides, a heated outdoor pool you can swim to straight from the indoor pool, and a natural swimming pond with a diving tower. In summer a large water slide is added.\n\nFor children there are a paddling pool, a playground, a beach volleyball court and the kids' world Ellmi's Friends. There is also a wellness area with, among other things, a stone pine sauna, a salt steam bath and infrared cabins, plus a climbing hall. Because part of it is indoors, the Kaiserbad works in bad weather too. For families it makes a good half or full day, about 35 minutes by car from Niederau.",
+   "de": "Das Kaiserbad liegt in Ellmau am Fuß des Wilden Kaisers. Die Anlage hat ein Erlebnis-Hallenbad mit Whirlpool, Strömungskanal und drei großen Wasserrutschen, ein beheiztes Freibad, in das man direkt aus dem Hallenbad schwimmt, und einen Bioschwimmteich mit Sprungturm. Im Sommer kommt eine große Wasserrutsche hinzu.\n\nFür Kinder gibt es ein Kinderbecken, einen Spielplatz, ein Beachvolleyballfeld und die Kinderwelt Ellmi's Friends. Außerdem gibt es einen Wellnessbereich mit unter anderem Zirbensauna, Salzdampfbad und Infrarotkabinen sowie eine Kletterhalle. Durch den Hallenbereich funktioniert das Kaiserbad auch bei Schlechtwetter. Für Familien ist es ein guter Halb- oder Ganztagesausflug, ca. 35 Fahrminuten von Niederau, gut kombinierbar mit einem Ausflug in die Umgebung."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf de openingstijden; die verschillen per seizoen.",
+    "Neem handdoeken en zonnebrand mee voor het buitengedeelte.",
+    "Zomermiddagen zijn vaak het drukst; ga eerder op de dag.",
+    "Kijk vooraf wat bij de toegang is inbegrepen, bijvoorbeeld de sauna."
+   ],
+   "en": [
+    "Check opening hours beforehand; they vary by season.",
+    "Bring towels and sun cream for the outdoor area.",
+    "Summer afternoons are often busiest; go earlier in the day.",
+    "Check beforehand what is included in admission, for instance the sauna."
+   ],
+   "de": [
+    "Öffnungszeiten vorab prüfen; sie wechseln je nach Saison.",
+    "Handtücher und Sonnencreme für den Außenbereich mitnehmen.",
+    "Sommernachmittage sind oft am vollsten; besser früher kommen.",
+    "Vorab klären, was im Eintritt enthalten ist, etwa die Sauna."
+   ]
+  },
+  "practical": {
+   "nl": "Ellmau ligt ca. 35 minuten rijden van Niederau, via Wörgl en Söll. Controleer de actuele openingstijden, toegangsprijzen en parkeermogelijkheden bij het bad zelf.",
+   "en": "Ellmau is about 35 minutes by car from Niederau, via Wörgl and Söll. Check current opening hours, prices and parking with the pool itself.",
+   "de": "Ellmau ist ca. 35 Fahrminuten von Niederau entfernt, über Wörgl und Söll. Aktuelle Öffnungszeiten, Eintrittspreise und Parkmöglichkeiten direkt beim Bad erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden; kinderwereld aanwezig",
+    "en": "All ages; kids' world on site",
+    "de": "Alle Altersgruppen; Kinderwelt vorhanden"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Entree wordt betaald; informeer vooraf",
+    "en": "Admission is charged; please enquire",
+    "de": "Eintritt kostenpflichtig; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Buitenbad in de zomer; binnenbad het hele jaar",
+    "en": "Outdoor pool in summer; indoor pool year-round",
+    "de": "Freibad im Sommer; Hallenbad ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Ellmau",
+   "en": "Ellmau",
+   "de": "Ellmau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er ook een binnenbad?",
+     "en": "Is there an indoor pool too?",
+     "de": "Gibt es auch ein Hallenbad?"
+    },
+    "a": {
+     "nl": "Ja, het Kaiserbad heeft een overdekt avonturenbad met glijbanen en een wellnessafdeling, handig bij slecht weer.",
+     "en": "Yes, the Kaiserbad has an indoor adventure pool with slides and a wellness area, handy in bad weather.",
+     "de": "Ja, das Kaiserbad hat ein Erlebnis-Hallenbad mit Rutschen und einen Wellnessbereich, praktisch bei schlechtem Wetter."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s140",
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "skiwelt-mountain-biking-soell",
+  "slug_de": "skiwelt-mountainbike-soell",
+  "title": {
+   "nl": "Mountainbiken in de SkiWelt bij Söll",
+   "en": "Mountain biking in the SkiWelt near Söll",
+   "de": "Mountainbiken in der SkiWelt bei Söll"
+  },
+  "tagline": {
+   "nl": "Bergbaanritten en trails in het zomerse SkiWelt-gebied",
+   "en": "Cable car rides and trails in the SkiWelt summer area",
+   "de": "Bergbahnfahrten und Trails im Sommer-SkiWelt-Gebiet"
+  },
+  "intro": {
+   "nl": "In de zomer draaien in het gebied rond Söll bergbanen die ook fietsers meenemen. Zo kun je omhoog met de lift en via paden en bosweggetjes weer afdalen, zonder eerst een zware klim te maken. De Salvenbahn brengt je in ongeveer 20 minuten zo'n 1.200 hoogtemeters omhoog. Het aanbod loopt van rustige routes tot technischer terrein.\n\nSöll ligt aan de voet van de Wilde Kaiser en is een logische uitvalsbasis voor een dagje fietsen. Een bekende middelzware ronde rond de Hohe Salve is ca. 37 km lang met ongeveer 1.100 hoogtemeters. De SkiWelt bundelt informatie over routes en bergbanen, en in het dorp zijn verhuurders te vinden. Het seizoen loopt grofweg van mei tot oktober. Voor kinderen en beginners kies je de makkelijkere routes; neem altijd een helm mee.",
+   "en": "In summer, cable cars around Söll also carry bikes. You can ride up by lift and come back down on trails and forest tracks without a hard climb first. The Salvenbahn lifts you roughly 1,200 m in about 20 minutes. Options range from easy routes to more technical terrain.\n\nSöll lies at the foot of the Wilder Kaiser and is a natural base for a day on the bike. A well-known intermediate circuit around the Hohe Salve is about 37 km long with roughly 1,100 m of climbing. SkiWelt publishes route and lift information, and rental shops can be found in the village. The season runs roughly from May to October. Beginners and children should stick to the easier routes; always bring a helmet.",
+   "de": "Im Sommer fahren im Gebiet um Söll Bergbahnen, die auch Radfahrer mitnehmen. So geht es bequem mit dem Lift nach oben und über Wege und Forstpisten wieder bergab, ohne vorher eine harte Auffahrt. Die Salvenbahn überwindet in etwa 20 Minuten rund 1.200 Höhenmeter. Das Angebot reicht von leichten Strecken bis zu technischerem Gelände.\n\nSöll liegt am Fuß des Wilden Kaisers und ist ein guter Ausgangspunkt für einen Radtag. Eine bekannte mittelschwere Runde um die Hohe Salve ist rund 37 km lang mit etwa 1.100 Höhenmetern. Die SkiWelt informiert über Strecken und Bergbahnen, im Ort gibt es Verleihstationen. Die Saison reicht grob von Mai bis Oktober. Kinder und Anfänger wählen die leichteren Strecken; ein Helm gehört immer dazu."
+  },
+  "tips": {
+   "nl": [
+    "Draag altijd een helm, bij technische trails ook bescherming.",
+    "Check vooraf of de gondel fietsen meeneemt en wanneer hij rijdt.",
+    "Huur een e-mountainbike als je niet te veel wilt klimmen."
+   ],
+   "en": [
+    "Always wear a helmet, and protection on technical trails.",
+    "Check beforehand whether the lift takes bikes and when it runs.",
+    "Rent an e-mountain bike if you want to avoid long climbs."
+   ],
+   "de": [
+    "Immer Helm tragen, auf technischen Trails auch Protektoren.",
+    "Vorab prüfen, ob die Bahn Räder mitnimmt und wann sie fährt.",
+    "Ein E-Mountainbike mieten, wenn man lange Anstiege vermeiden möchte."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau is Söll ca. 30 minuten rijden, via Wörgl. Informeer bij het toeristenbureau naar actuele routes en openingstijden van de bergbanen.",
+   "en": "Söll is about 30 minutes from Niederau by car, via Wörgl. Ask the tourist office for current routes and lift times.",
+   "de": "Von Niederau ist Söll ca. 30 Minuten mit dem Auto entfernt, über Wörgl. Aktuelle Strecken und Betriebszeiten erfragt man beim Tourismusbüro."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar, afhankelijk van de route",
+    "en": "From about 8 years, depending on the route",
+    "de": "Ab ca. 8 Jahren, je nach Strecke"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Bergbaan en verhuur wisselen; informeer vooraf",
+    "en": "Lift and rental prices vary; check beforehand",
+    "de": "Bahn und Verleih unterschiedlich; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "About 30 min by car",
+    "de": "Ca. 30 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot oktober)",
+    "en": "Summer (approx. May to October)",
+    "de": "Sommer (ca. Mai bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Söll, Wilder Kaiser",
+   "en": "Söll, Wilder Kaiser",
+   "de": "Söll, Wilder Kaiser"
+  },
+  "url": "https://www.skiwelt.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je fietsen meenemen in de gondel?",
+     "en": "Can you take bikes on the lift?",
+     "de": "Kann man Räder in der Bahn mitnehmen?"
+    },
+    "a": {
+     "nl": "In de SkiWelt rijden in de zomer bergbanen die fietsers meenemen; check de actuele tijden vooraf.",
+     "en": "SkiWelt runs summer lifts that carry bikes; check current times beforehand.",
+     "de": "In der SkiWelt fahren im Sommer Bahnen, die Räder mitnehmen; aktuelle Zeiten vorab prüfen."
+    }
+   }
+  ],
+  "verified": true
+ }
+]
