@@ -1,0 +1,530 @@
+[
+ {
+  "slug": "finkenberg",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Finkenberg",
+   "en": "Finkenberg",
+   "de": "Finkenberg"
+  },
+  "tagline": {
+   "nl": "Dorp aan de ingang van het Tuxertal, vlak bij Mayrhofen",
+   "en": "Village at the entrance to the Tux valley, close to Mayrhofen",
+   "de": "Dorf am Eingang des Tuxertals, nahe Mayrhofen"
+  },
+  "intro": {
+   "nl": "Finkenberg ligt ongeveer drie kilometer ten zuidwesten van Mayrhofen, precies waar het Tuxertal van het hoofddal van het Zillertal aftakt. Het dorp ligt tussen de uitlopers van de Penken en de Grinbergspitzen en is naar oppervlakte de tweede gemeente van het Zillertal. Het grondgebied loopt van ongeveer 850 tot ruim 3.200 meter hoogte.\n\nHet dorp is rustiger dan Mayrhofen, maar de drukte van het Zillertal ligt op steenworp afstand. Finkenberg is lid van het Naturpark Zillertaler Alpen en daardoor een goed vertrekpunt voor wandelingen in een beschermd berglandschap. Cultuurhistorisch zijn de parochiekerk St. Leonhard uit 1721 en de oude Hochstegbrücke de moeite waard.\n\nVoor een uitstap vanuit Niederau is het een lange dag, maar goed te combineren met Mayrhofen of een bezoek aan de rest van het Tuxertal. Het past bij gezinnen die een bergdag willen in een authentieker dorp, en bij wie in de winter de skigebieden rond Mayrhofen of de Hintertuxer Gletscher wil bekijken. Het toeristenbureau voor Finkenberg is dat van Tux-Finkenberg. Neem voor de rit door het dal genoeg tijd, want het verkeer in het Zillertal kan in het hoogseizoen en in het weekend druk zijn; vertrek bij voorkeur vroeg.",
+   "en": "Finkenberg lies about three kilometres south-west of Mayrhofen, right where the Tux valley branches off from the main Zillertal. The village sits between the foothills of the Penken and the Grinbergspitzen and is the second-largest municipality in the Zillertal by area. Its territory stretches from roughly 850 to well over 3,200 metres.\n\nIt is quieter than Mayrhofen, while the bustle of the Zillertal is only a short hop away. Finkenberg is a member of the Zillertal Alps Nature Park, which makes it a good starting point for walks in protected mountain scenery. Of historical interest are the parish church of St. Leonhard, built in 1721, and the old Hochstegbrücke bridge.\n\nFrom Niederau it makes for a long day trip, but it combines well with Mayrhofen or a visit to the rest of the Tux valley. It suits families who want a mountain day in a more traditional village, and in winter those who want to look at the ski areas around Mayrhofen or the Hintertux Glacier. The tourist office for Finkenberg is the Tux-Finkenberg association. Allow plenty of time for the drive through the valley, as traffic in the Zillertal can be busy in high season and at weekends; an early start is best.",
+   "de": "Finkenberg liegt etwa drei Kilometer südwestlich von Mayrhofen, genau dort, wo das Tuxertal vom Zillertaler Haupttal abzweigt. Der Ort befindet sich zwischen den Ausläufern des Penken und den Grinbergspitzen und ist flächenmäßig die zweitgrößte Gemeinde des Zillertals. Das Gemeindegebiet reicht von rund 850 bis weit über 3.200 Meter.\n\nEs ist ruhiger als Mayrhofen, der Trubel des Zillertals liegt aber nur einen Katzensprung entfernt. Finkenberg gehört zum Naturpark Zillertaler Alpen und ist damit ein guter Ausgangspunkt für Wanderungen in geschützter Berglandschaft. Historisch interessant sind die 1721 erbaute Pfarrkirche St. Leonhard und die alte Hochstegbrücke.\n\nVon Niederau aus ist es ein langer Ausflugstag, lässt sich aber gut mit Mayrhofen oder dem restlichen Tuxertal verbinden. Es passt zu Familien, die einen Bergtag in einem ursprünglicheren Dorf möchten, und im Winter zu allen, die sich die Skigebiete um Mayrhofen oder den Hintertuxer Gletscher ansehen wollen. Zuständig ist der Tourismusverband Tux-Finkenberg. Planen Sie für die Fahrt durch das Tal genügend Zeit ein, denn der Verkehr im Zillertal kann in der Hochsaison und an Wochenenden dicht sein; am besten starten Sie früh."
+  },
+  "highlights": {
+   "nl": [
+    "Wandelen in het Naturpark Zillertaler Alpen, in de zomer het hoofdaanbod.",
+    "De parochiekerk St. Leonhard uit 1721 in het dorp.",
+    "De Hochstegbrücke uit de 19e eeuw en de Teufelsbrücke bij de Tuxerklamm.",
+    "Natur Eis Palast, een ijsgrot die het hele jaar met rondleiding te bezoeken is.",
+    "Winter: dichtbij de skigebieden van Mayrhofen en de Hintertuxer Gletscher."
+   ],
+   "en": [
+    "Walking in the Zillertal Alps Nature Park, the main summer draw.",
+    "The parish church of St. Leonhard from 1721 in the village.",
+    "The 19th-century Hochstegbrücke and the Teufelsbrücke at the Tuxerklamm gorge.",
+    "Natur Eis Palast, an ice cave that can be visited year-round on guided tours.",
+    "Winter: close to the ski areas of Mayrhofen and the Hintertux Glacier."
+   ],
+   "de": [
+    "Wandern im Naturpark Zillertaler Alpen, im Sommer das Hauptangebot.",
+    "Die Pfarrkirche St. Leonhard von 1721 im Dorf.",
+    "Die Hochstegbrücke aus dem 19. Jahrhundert und die Teufelsbrücke an der Tuxerklamm.",
+    "Der Natur Eis Palast, eine Eishöhle, die ganzjährig mit Führung besucht werden kann.",
+    "Winter: nahe an den Skigebieten von Mayrhofen und dem Hintertuxer Gletscher."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 65 minuten rijden vanaf Niederau: via Wörgl en de A12 naar Jenbach, daarna door het Zillertal naar Mayrhofen en Finkenberg.",
+   "en": "About 65 minutes by car from Niederau: via Wörgl and the A12 to Jenbach, then along the Zillertal to Mayrhofen and Finkenberg.",
+   "de": "Rund 65 Minuten Fahrt ab Niederau: über Wörgl und die A12 nach Jenbach, dann das Zillertal entlang bis Mayrhofen und Finkenberg."
+  },
+  "best_for": {
+   "nl": "Past bij wandelaars en gezinnen die rust zoeken dicht bij Mayrhofen.",
+   "en": "Suits walkers and families wanting quiet close to Mayrhofen.",
+   "de": "Passt zu Wanderern und Familien, die Ruhe nahe Mayrhofen suchen."
+  },
+  "season": {
+   "nl": "Hele jaar; vooral zomer (wandelen) en winter (skiën).",
+   "en": "Year-round; mainly summer (walking) and winter (skiing).",
+   "de": "Ganzjährig; vor allem Sommer (Wandern) und Winter (Skifahren)."
+  },
+  "drive_min": 65,
+  "elevation_m": null,
+  "url": "https://www.tux.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke toeristische organisatie hoort bij Finkenberg?",
+     "en": "Which tourist organisation covers Finkenberg?",
+     "de": "Welcher Tourismusverband ist für Finkenberg zuständig?"
+    },
+    "a": {
+     "nl": "Finkenberg valt onder het Tourismusverband Tux-Finkenberg, gevestigd in Lanersbach in het Tuxertal.",
+     "en": "Finkenberg falls under the Tux-Finkenberg tourism association, based in Lanersbach in the Tux valley.",
+     "de": "Finkenberg gehört zum Tourismusverband Tux-Finkenberg mit Sitz in Lanersbach im Tuxertal."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is er in Finkenberg te zien?",
+     "en": "What is there to see in Finkenberg?",
+     "de": "Was gibt es in Finkenberg zu sehen?"
+    },
+    "a": {
+     "nl": "Onder meer de kerk St. Leonhard uit 1721, de Hochstegbrücke, de Teufelsbrücke bij de Tuxerklamm en de ijsgrot Natur Eis Palast.",
+     "en": "Among others the church of St. Leonhard from 1721, the Hochstegbrücke, the Teufelsbrücke at the Tuxerklamm and the Natur Eis Palast ice cave.",
+     "de": "Unter anderem die Kirche St. Leonhard von 1721, die Hochstegbrücke, die Teufelsbrücke an der Tuxerklamm und die Eishöhle Natur Eis Palast."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "tux",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Tux",
+   "en": "Tux",
+   "de": "Tux"
+  },
+  "tagline": {
+   "nl": "Gemeente in het Tuxertal met Lanersbach en de Hintertuxer Gletscher",
+   "en": "Municipality in the Tux valley with Lanersbach and the Hintertux Glacier",
+   "de": "Gemeinde im Tuxertal mit Lanersbach und Hintertuxer Gletscher"
+  },
+  "intro": {
+   "nl": "De gemeente Tux ligt in het Tuxertal, een zijdal van het Zillertal dat bij Mayrhofen afsplitst. Ze bestaat uit vijf dorpen: Vorderlanersbach, Lanersbach, Juns, Madseit en Hintertux. Lanersbach en Vorderlanersbach liggen op een zonnig plateau op ongeveer 1.300 meter. Van Mayrhofen tot Hintertux loopt de weg ongeveer 850 hoogtemeters omhoog.\n\nHet dal is vooral bekend om de Hintertuxer Gletscher, een gletsjerskigebied waar je ook buiten de winter kunt skiën. In Hintertux ligt bovendien een thermaal bad dat gevoed wordt door minerale bronnen. In de zomer is het dal een uitgangspunt voor wandelingen, met onder meer een belevingspad langs de Tuxbach, canyoning en klimcursussen voor kinderen en volwassenen.\n\nVanuit Niederau is het een flinke rit, dus plan er een hele dag voor. Het past bij gezinnen die sneeuwzeker willen skiën of in de zomer iets hoger de bergen in willen. Het toeristenbureau is Tux-Finkenberg; informeer vooraf naar actuele openingstijden en prijzen van liften en baden. Neem voor de rit door het dal genoeg tijd, want het verkeer in het Zillertal kan in het hoogseizoen en in het weekend druk zijn; vertrek bij voorkeur vroeg.",
+   "en": "The municipality of Tux lies in the Tux valley, a side valley of the Zillertal that branches off at Mayrhofen. It consists of five villages: Vorderlanersbach, Lanersbach, Juns, Madseit and Hintertux. Lanersbach and Vorderlanersbach sit on a sunny plateau at about 1,300 metres. From Mayrhofen to Hintertux the road climbs roughly 850 metres.\n\nThe valley is best known for the Hintertux Glacier, described as Austria's only year-round snow-sure ski area. Hintertux also has a thermal spa fed by mineral springs. In summer the valley is a base for walks, with a nature trail along the Tuxbach, canyoning and climbing courses for children and adults, among other things.\n\nFrom Niederau it is a considerable drive, so plan a full day. It suits families who want reliable snow or who want to go a little higher into the mountains in summer. The tourist office is Tux-Finkenberg; check current opening times and lift and spa prices beforehand. Allow plenty of time for the drive through the valley, as traffic in the Zillertal can be busy in high season and at weekends; an early start is best.",
+   "de": "Die Gemeinde Tux liegt im Tuxertal, einem Seitental des Zillertals, das bei Mayrhofen abzweigt. Sie besteht aus fünf Orten: Vorderlanersbach, Lanersbach, Juns, Madseit und Hintertux. Lanersbach und Vorderlanersbach liegen auf einem sonnigen Plateau auf rund 1.300 Metern. Von Mayrhofen nach Hintertux steigt die Straße um etwa 850 Höhenmeter.\n\nBekannt ist das Tal vor allem für den Hintertuxer Gletscher, das einzige als ganzjährig schneesicher bezeichnete Skigebiet Österreichs. In Hintertux gibt es außerdem ein Thermalbad, das von Mineralquellen gespeist wird. Im Sommer ist das Tal Ausgangspunkt für Wanderungen, mit unter anderem einem Erlebnisweg entlang des Tuxbachs, Canyoning und Kletterkursen für Kinder und Erwachsene.\n\nVon Niederau aus ist es eine ordentliche Fahrt, planen Sie also einen ganzen Tag ein. Es passt zu Familien, die sicheren Schnee suchen oder im Sommer etwas höher in die Berge möchten. Zuständig ist der Tourismusverband Tux-Finkenberg; aktuelle Öffnungszeiten und Preise für Bahnen und Bäder vorab prüfen. Planen Sie für die Fahrt durch das Tal genügend Zeit ein, denn der Verkehr im Zillertal kann in der Hochsaison und an Wochenenden dicht sein; am besten starten Sie früh."
+  },
+  "highlights": {
+   "nl": [
+    "Hintertuxer Gletscher: skiën en wandelen op hoogte, bijna het hele jaar.",
+    "Thermaal bad in Hintertux met mineraalwater.",
+    "Belevingspad langs de Tuxbach, geschikt voor gezinnen in de zomer.",
+    "Canyoning en klimcursussen voor kinderen en volwassenen.",
+    "Zonnig plateau rond Lanersbach met wandelroutes en uitzicht."
+   ],
+   "en": [
+    "Hintertux Glacier: skiing and high-altitude walking, nearly year-round.",
+    "Thermal spa in Hintertux with mineral water.",
+    "Nature trail along the Tuxbach, suitable for families in summer.",
+    "Canyoning and climbing courses for children and adults.",
+    "Sunny plateau around Lanersbach with walking routes and views."
+   ],
+   "de": [
+    "Hintertuxer Gletscher: Skifahren und Wandern in der Höhe, fast ganzjährig.",
+    "Thermalbad in Hintertux mit Mineralwasser.",
+    "Erlebnisweg entlang des Tuxbachs, im Sommer familientauglich.",
+    "Canyoning und Kletterkurse für Kinder und Erwachsene.",
+    "Sonniges Plateau rund um Lanersbach mit Wanderwegen und Aussicht."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 70 minuten rijden vanaf Niederau (Lanersbach; Hintertux ca. 10 minuten verder): via Wörgl en de A12 naar Jenbach, door het Zillertal naar Mayrhofen en het Tuxertal in.",
+   "en": "About 70 minutes by car from Niederau (Lanersbach; Hintertux about 10 minutes further): via Wörgl and the A12 to Jenbach, along the Zillertal to Mayrhofen and into the Tux valley.",
+   "de": "Rund 70 Minuten Fahrt ab Niederau (Lanersbach; Hintertux etwa 10 Minuten weiter): über Wörgl und die A12 nach Jenbach, durch das Zillertal nach Mayrhofen und ins Tuxertal."
+  },
+  "best_for": {
+   "nl": "Past bij skiërs, wandelaars en gezinnen die sneeuwzekerheid of wellness zoeken.",
+   "en": "Suits skiers, walkers and families seeking snow certainty or wellness.",
+   "de": "Passt zu Skifahrern, Wanderern und Familien, die Schneesicherheit oder Wellness suchen."
+  },
+  "season": {
+   "nl": "Hele jaar; winter (skiën) en zomer (wandelen, gletsjer).",
+   "en": "Year-round; winter (skiing) and summer (walking, glacier).",
+   "de": "Ganzjährig; Winter (Skifahren) und Sommer (Wandern, Gletscher)."
+  },
+  "drive_min": 70,
+  "elevation_m": 1300,
+  "url": "https://www.tux.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Uit welke dorpen bestaat Tux?",
+     "en": "Which villages make up Tux?",
+     "de": "Aus welchen Orten besteht Tux?"
+    },
+    "a": {
+     "nl": "Vorderlanersbach, Lanersbach, Juns, Madseit en Hintertux.",
+     "en": "Vorderlanersbach, Lanersbach, Juns, Madseit and Hintertux.",
+     "de": "Vorderlanersbach, Lanersbach, Juns, Madseit und Hintertux."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waarom rijden mensen naar Hintertux?",
+     "en": "Why do people drive to Hintertux?",
+     "de": "Warum fährt man nach Hintertux?"
+    },
+    "a": {
+     "nl": "Voor de Hintertuxer Gletscher, een bijna jaarrond bruikbaar skigebied, en het thermale bad met mineraalwater.",
+     "en": "For the Hintertux Glacier, a ski area usable nearly all year, and the thermal spa with mineral water.",
+     "de": "Wegen des Hintertuxer Gletschers, eines fast ganzjährig nutzbaren Skigebiets, und des Thermalbads mit Mineralwasser."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "aschau-im-zillertal",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Aschau im Zillertal",
+   "en": "Aschau im Zillertal",
+   "de": "Aschau im Zillertal"
+  },
+  "tagline": {
+   "nl": "Rustig dorp in het Zillertal met kasteel, camping en Höhenstraße",
+   "en": "Quiet Zillertal village with a castle, camping and the Höhenstraße",
+   "de": "Ruhiges Dorf im Zillertal mit Burg, Camping und Höhenstraße"
+  },
+  "intro": {
+   "nl": "Aschau im Zillertal ligt in het middendeel van het Zillertal, op ongeveer 560 meter hoogte. Het dorp behoort tot de Erste Ferienregion im Zillertal, die bekendstaat om haar gezinsvriendelijke aanbod. De Zillertalbahn, een smalspoortrein uit 1902 tussen Jenbach en Mayrhofen, stopt in het dorp.\n\nBekendste bouwwerken zijn de laatklassicistische parochiekerk Maria vom Siege en Burg Aschau op een heuvel, met uitzicht over het dal. In het centrum begint een toegang tot de Zillertaler Höhenstraße, een 48 kilometer lange panoramaweg die ook startpunt is voor wandel- en fietstochten. Aschau staat bovendien bekend om zijn campings, die tot de betere van Europa worden gerekend.\n\nEen traditioneel evenement in de streek is het Zillertaler Gauderfest. Vanuit Niederau is Aschau een prima halve of hele dag: combineer een ritje met de Zillertalbahn met een wandeling of een bezoek aan de nabije dorpen. In de winter liggen de skigebieden Hochzillertal-Hochfügen en Zillertal Arena dichtbij. Neem voor de rit door het dal genoeg tijd, want het verkeer in het Zillertal kan in het hoogseizoen en in het weekend druk zijn; vertrek bij voorkeur vroeg.",
+   "en": "Aschau im Zillertal lies in the middle section of the Zillertal at about 560 metres. The village belongs to the Erste Ferienregion im Zillertal, known for its family-friendly offering. The Zillertalbahn, a narrow-gauge railway from 1902 between Jenbach and Mayrhofen, stops in the village.\n\nIts best-known buildings are the late-classical parish church Maria vom Siege and Aschau Castle on a hill, with views over the valley. In the centre there is an access point to the Zillertaler Höhenstraße, a 48-kilometre panoramic road that is also a starting point for walks and cycle rides. Aschau is also known for its campsites, counted among the better ones in Europe.\n\nA traditional event in the area is the Zillertaler Gauderfest. From Niederau, Aschau makes a good half or full day: combine a ride on the Zillertalbahn with a walk or a visit to nearby villages. In winter the ski areas Hochzillertal-Hochfügen and Zillertal Arena are close. Allow plenty of time for the drive through the valley, as traffic in the Zillertal can be busy in high season and at weekends; an early start is best.",
+   "de": "Aschau im Zillertal liegt im mittleren Zillertal auf rund 560 Metern. Der Ort gehört zur Ersten Ferienregion im Zillertal, die für ihr familienfreundliches Angebot bekannt ist. Die Zillertalbahn, eine Schmalspurbahn von 1902 zwischen Jenbach und Mayrhofen, hält im Dorf.\n\nDie bekanntesten Bauwerke sind die spätklassizistische Pfarrkirche Maria vom Siege und die Burg Aschau auf einem Hügel mit Blick über das Tal. Im Zentrum gibt es einen Zugang zur Zillertaler Höhenstraße, einer 48 Kilometer langen Panoramastraße, die auch Ausgangspunkt für Wanderungen und Radtouren ist. Aschau ist außerdem für seine Campingplätze bekannt, die zu den besseren Europas gezählt werden.\n\nEine traditionelle Veranstaltung der Region ist das Zillertaler Gauderfest. Von Niederau aus eignet sich Aschau für einen halben oder ganzen Tag: Eine Fahrt mit der Zillertalbahn lässt sich mit einer Wanderung oder einem Besuch in den Nachbarorten verbinden. Im Winter liegen die Skigebiete Hochzillertal-Hochfügen und Zillertal Arena nahe. Planen Sie für die Fahrt durch das Tal genügend Zeit ein, denn der Verkehr im Zillertal kann in der Hochsaison und an Wochenenden dicht sein; am besten starten Sie früh."
+  },
+  "highlights": {
+   "nl": [
+    "Burg Aschau op de heuvel met uitzicht over het dal.",
+    "Parochiekerk Maria vom Siege, laatklassicistisch.",
+    "Ritje met de historische Zillertalbahn (Jenbach - Mayrhofen).",
+    "Zillertaler Höhenstraße: panoramaweg van 48 km voor wandelen en fietsen.",
+    "Winter: Hochzillertal-Hochfügen en Zillertal Arena in de buurt."
+   ],
+   "en": [
+    "Aschau Castle on its hill with views over the valley.",
+    "Parish church Maria vom Siege, late classical.",
+    "A ride on the historic Zillertalbahn (Jenbach - Mayrhofen).",
+    "Zillertaler Höhenstraße: 48 km panoramic road for walking and cycling.",
+    "Winter: Hochzillertal-Hochfügen and Zillertal Arena nearby."
+   ],
+   "de": [
+    "Burg Aschau auf dem Hügel mit Blick über das Tal.",
+    "Pfarrkirche Maria vom Siege, spätklassizistisch.",
+    "Fahrt mit der historischen Zillertalbahn (Jenbach - Mayrhofen).",
+    "Zillertaler Höhenstraße: 48 km Panoramastraße zum Wandern und Radfahren.",
+    "Winter: Hochzillertal-Hochfügen und Zillertal Arena in der Nähe."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 50 minuten rijden vanaf Niederau: via Wörgl en de A12 naar Jenbach, daarna het Zillertal in richting Mayrhofen.",
+   "en": "About 50 minutes by car from Niederau: via Wörgl and the A12 to Jenbach, then into the Zillertal towards Mayrhofen.",
+   "de": "Rund 50 Minuten Fahrt ab Niederau: über Wörgl und die A12 nach Jenbach, dann ins Zillertal Richtung Mayrhofen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen, campinggasten en liefhebbers van rustige dorpen.",
+   "en": "Suits families, campers and fans of quiet villages.",
+   "de": "Passt zu Familien, Campinggästen und Liebhabern ruhiger Dörfer."
+  },
+  "season": {
+   "nl": "Hele jaar; zomer (wandelen, fietsen) en winter (skiën in de buurt).",
+   "en": "Year-round; summer (walking, cycling) and winter (skiing nearby).",
+   "de": "Ganzjährig; Sommer (Wandern, Radfahren) und Winter (Skifahren in der Nähe)."
+  },
+  "drive_min": 50,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Rijdt de Zillertalbahn naar Aschau?",
+     "en": "Does the Zillertalbahn stop in Aschau?",
+     "de": "Hält die Zillertalbahn in Aschau?"
+    },
+    "a": {
+     "nl": "Ja, de smalspoortrein tussen Jenbach en Mayrhofen stopt in Aschau.",
+     "en": "Yes, the narrow-gauge railway between Jenbach and Mayrhofen stops in Aschau.",
+     "de": "Ja, die Schmalspurbahn zwischen Jenbach und Mayrhofen hält in Aschau."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is de Zillertaler Höhenstraße?",
+     "en": "What is the Zillertaler Höhenstraße?",
+     "de": "Was ist die Zillertaler Höhenstraße?"
+    },
+    "a": {
+     "nl": "Een panoramaweg van ca. 48 km boven het dal, met toegang vanuit onder meer Aschau; geliefd bij wandelaars en fietsers.",
+     "en": "A panoramic road of about 48 km above the valley, accessible from Aschau among other places; popular with walkers and cyclists.",
+     "de": "Eine rund 48 km lange Panoramastraße oberhalb des Tals, u. a. von Aschau aus zugänglich; beliebt bei Wanderern und Radfahrern."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "ried-im-zillertal",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Ried im Zillertal",
+   "en": "Ried im Zillertal",
+   "de": "Ried im Zillertal"
+  },
+  "tagline": {
+   "nl": "Dorp met Kreuzweg, barokke kerk en wildpark langs de Höhenstraße",
+   "en": "Village with a Way of the Cross, baroque church and game park on the Höhenstraße",
+   "de": "Dorf mit Kreuzweg, Barockkirche und Wildgehege an der Höhenstraße"
+  },
+  "intro": {
+   "nl": "Ried im Zillertal ligt op ongeveer 573 meter in het middendeel van het dal. Het is een rustig dorp dat een goede basis vormt voor wandel- en fietstochten, nordic walking en klimmen. Ook Ried ligt aan de Zillertalbahn, die soms nog met stoomlocomotieven rijdt.\n\nTwee bezienswaardigheden vallen op. De spätbarokke parochiekerk van Johannes de Doper (1773-1779) heeft mooie plafondschilderingen en rijk versierde altaren. De Kreuzweg loopt van de Riedbachbrücke naar de Riedbergkapelle; de veertien stations zijn gesneden door de regionale kunstenaar Herrmann Wildauer en daarna in brons gegoten.\n\nVoor gezinnen is er het Wildgehege Schönblick langs de Zillertaler Höhenstraße op ongeveer 850 meter, met speeltuin. In de omgeving liggen verder de Erlebnistherme in Fügen, het Aufenfeld-recreatiegebied, het natuurbadmeer in Schlitters en het avonturenpark in Kaltenbach. Vanuit Niederau is Ried daarmee een handige uitvalsbasis voor een afwisselende dag in het Zillertal. Neem voor de rit door het dal genoeg tijd, want het verkeer in het Zillertal kan in het hoogseizoen en in het weekend druk zijn; vertrek bij voorkeur vroeg.",
+   "en": "Ried im Zillertal lies at about 573 metres in the middle section of the valley. It is a quiet village and a good base for walking and cycling, Nordic walking and climbing. Ried is also on the Zillertalbahn, which still sometimes runs with steam locomotives.\n\nTwo sights stand out. The late-baroque parish church of John the Baptist (1773-1779) has fine ceiling paintings and richly decorated altars. The Way of the Cross runs from the Riedbachbrücke to the Riedbergkapelle; its fourteen stations were carved by the regional artist Herrmann Wildauer and then cast in bronze.\n\nFor families there is the Schönblick game park along the Zillertaler Höhenstraße at about 850 metres, with a playground. Nearby are also the Erlebnistherme in Fügen, the Aufenfeld leisure area, the natural bathing lake in Schlitters and the adventure park in Kaltenbach. From Niederau, Ried is therefore a handy base for a varied day in the Zillertal. Allow plenty of time for the drive through the valley, as traffic in the Zillertal can be busy in high season and at weekends; an early start is best.",
+   "de": "Ried im Zillertal liegt auf rund 573 Metern im mittleren Talabschnitt. Es ist ein ruhiger Ort und eine gute Basis für Wander- und Radtouren, Nordic Walking und Klettern. Auch Ried liegt an der Zillertalbahn, die manchmal noch mit Dampflokomotiven fährt.\n\nZwei Sehenswürdigkeiten fallen auf. Die spätbarocke Pfarrkirche zum Heiligen Johannes dem Täufer (1773-1779) hat sehenswerte Deckengemälde und reich geschmückte Altäre. Der Kreuzweg führt von der Riedbachbrücke zur Riedbergkapelle; seine vierzehn Stationen schnitzte der regionale Künstler Herrmann Wildauer, danach wurden sie in Bronze gegossen.\n\nFür Familien gibt es das Wildgehege Schönblick an der Zillertaler Höhenstraße auf etwa 850 Metern, mit Spielplatz. In der Umgebung liegen außerdem die Erlebnistherme Fügen, die Freizeitanlage Aufenfeld, der Naturbadesee in Schlitters und der Abenteuer-Erlebnispark in Kaltenbach. Von Niederau aus ist Ried damit ein praktischer Ausgangspunkt für einen abwechslungsreichen Tag im Zillertal. Planen Sie für die Fahrt durch das Tal genügend Zeit ein, denn der Verkehr im Zillertal kann in der Hochsaison und an Wochenenden dicht sein; am besten starten Sie früh."
+  },
+  "highlights": {
+   "nl": [
+    "Kreuzweg met veertien bronzen stations van Riedbachbrücke naar Riedbergkapelle.",
+    "Spätbarokke parochiekerk met plafondschilderingen (1773-1779).",
+    "Wildgehege Schönblick met speeltuin, op ca. 850 m.",
+    "Zillertalbahn, soms met stoomtrein.",
+    "In de buurt: Erlebnistherme Fügen, Natuurbadmeer Schlitters, avonturenpark Kaltenbach."
+   ],
+   "en": [
+    "Way of the Cross with fourteen bronze stations from Riedbachbrücke to Riedbergkapelle.",
+    "Late-baroque parish church with ceiling paintings (1773-1779).",
+    "Schönblick game park with playground, at about 850 m.",
+    "Zillertalbahn, sometimes steam-hauled.",
+    "Nearby: Erlebnistherme Fügen, Schlitters bathing lake, Kaltenbach adventure park."
+   ],
+   "de": [
+    "Kreuzweg mit vierzehn Bronzestationen von der Riedbachbrücke zur Riedbergkapelle.",
+    "Spätbarocke Pfarrkirche mit Deckengemälden (1773-1779).",
+    "Wildgehege Schönblick mit Spielplatz, auf ca. 850 m.",
+    "Zillertalbahn, manchmal mit Dampf.",
+    "In der Nähe: Erlebnistherme Fügen, Naturbadesee Schlitters, Erlebnispark Kaltenbach."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 40 minuten rijden vanaf Niederau: via Wörgl en de A12 naar Jenbach, daarna het Zillertal in.",
+   "en": "About 40 minutes by car from Niederau: via Wörgl and the A12 to Jenbach, then into the Zillertal.",
+   "de": "Rund 40 Minuten Fahrt ab Niederau: über Wörgl und die A12 nach Jenbach, dann ins Zillertal."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen en rustzoekers die cultuur en natuur willen combineren.",
+   "en": "Suits families and quiet-seekers combining culture and nature.",
+   "de": "Passt zu Familien und Ruhesuchenden, die Kultur und Natur verbinden wollen."
+  },
+  "season": {
+   "nl": "Vooral zomer; in de winter skigebieden in de buurt.",
+   "en": "Mainly summer; ski areas nearby in winter.",
+   "de": "Vor allem Sommer; im Winter Skigebiete in der Nähe."
+  },
+  "drive_min": 40,
+  "elevation_m": 573,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen in Ried?",
+     "en": "What is there for children in Ried?",
+     "de": "Was gibt es für Kinder in Ried?"
+    },
+    "a": {
+     "nl": "Het Wildgehege Schönblick met speeltuin langs de Höhenstraße, en in de buurt onder meer het avonturenpark in Kaltenbach.",
+     "en": "The Schönblick game park with playground along the Höhenstraße, and nearby the adventure park in Kaltenbach among others.",
+     "de": "Das Wildgehege Schönblick mit Spielplatz an der Höhenstraße und in der Nähe unter anderem der Erlebnispark in Kaltenbach."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is de Kreuzweg?",
+     "en": "What is the Kreuzweg?",
+     "de": "Was ist der Kreuzweg?"
+    },
+    "a": {
+     "nl": "Een themaweg met veertien bronzen stations, gesneden door Herrmann Wildauer, van de Riedbachbrücke tot de Riedbergkapelle.",
+     "en": "A themed path with fourteen bronze stations carved by Herrmann Wildauer, from the Riedbachbrücke to the Riedbergkapelle.",
+     "de": "Ein Themenweg mit vierzehn Bronzestationen, geschnitzt von Herrmann Wildauer, von der Riedbachbrücke zur Riedbergkapelle."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "uderns",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Uderns",
+   "en": "Uderns",
+   "de": "Uderns"
+  },
+  "tagline": {
+   "nl": "Dorp in het onderste Zillertal met golfbaan en Finsingbach-waterval",
+   "en": "Village in the lower Zillertal with a golf course and Finsingbach waterfall",
+   "de": "Dorf im unteren Zillertal mit Golfplatz und Finsingbachwasserfall"
+  },
+  "intro": {
+   "nl": "Uderns ligt in het onderste deel van het Zillertal, tussen Fügen en Ried, op een alluviale waaier van de Finsingbach. De dalbodem ligt op ongeveer 500 meter; naar het westen stijgt het terrein door bos tot ruim 1.600 meter. De gemeente telt zo'n 1.800 inwoners en omvat ook Finsing, Kleinboden en de nederzetting Kupfnerberg.\n\nBezienswaardig is de parochiekerk St. Briccius, waarvan de oorsprong in de 14e eeuw ligt. Wandelaars gaan naar de meertraps Finsingbach-waterval. Golfers vinden in Uderns een 18-holesbaan van ongeveer 65 hectare met golfschool. Ook de Zillertalbahn verbindt het dorp met de rest van het dal.\n\nUderns is geen grote toeristenplaats, maar een rustig dorp voor actieve gasten: wandelaars, mountainbikers en golfers. Vanuit Niederau ligt het het dichtst bij van de Zillertalplaatsen, waardoor het ook geschikt is als korte tussenstop of als start van een dag in het dal, bijvoorbeeld in combinatie met Fügen of Ried. Neem voor de rit door het dal genoeg tijd, want het verkeer in het Zillertal kan in het hoogseizoen en in het weekend druk zijn; vertrek bij voorkeur vroeg.",
+   "en": "Uderns lies in the lower part of the Zillertal between Fügen and Ried, on an alluvial fan of the Finsingbach stream. The valley floor is at about 500 metres; to the west the terrain rises through forest to over 1,600 metres. The municipality has around 1,800 residents and also includes Finsing, Kleinboden and the Kupfnerberg settlement.\n\nWorth seeing is the parish church of St. Briccius, which dates back to the 14th century. Walkers head for the multi-tiered Finsingbach waterfall. Golfers will find an 18-hole course of about 65 hectares with a golf school. The Zillertalbahn also links the village to the rest of the valley.\n\nUderns is not a big tourist resort but a quiet village for active guests: walkers, mountain bikers and golfers. From Niederau it is the nearest of the Zillertal villages, so it also works as a short stop or as the start of a day in the valley, for example combined with Fügen or Ried. Allow plenty of time for the drive through the valley, as traffic in the Zillertal can be busy in high season and at weekends; an early start is best.",
+   "de": "Uderns liegt im unteren Zillertal zwischen Fügen und Ried auf dem Schwemmkegel des Finsingbachs. Der Talboden liegt auf etwa 500 Metern; nach Westen steigt das Gelände durch Wald bis über 1.600 Meter an. Die Gemeinde hat rund 1.800 Einwohner und umfasst auch Finsing, Kleinboden und die Siedlung Kupfnerberg.\n\nSehenswert ist die Pfarrkirche St. Briccius, deren Ursprung im 14. Jahrhundert liegt. Wanderer zieht es zum mehrstufigen Finsingbachwasserfall. Golfer finden in Uderns eine 18-Loch-Anlage von etwa 65 Hektar mit Golfschule. Auch die Zillertalbahn verbindet den Ort mit dem restlichen Tal.\n\nUderns ist kein großer Tourismusort, sondern ein ruhiges Dorf für aktive Gäste: Wanderer, Mountainbiker und Golfer. Von Niederau aus ist es das nächstgelegene der Zillertaler Dörfer und eignet sich daher auch als kurzer Zwischenstopp oder als Start in einen Tag im Tal, etwa in Kombination mit Fügen oder Ried. Planen Sie für die Fahrt durch das Tal genügend Zeit ein, denn der Verkehr im Zillertal kann in der Hochsaison und an Wochenenden dicht sein; am besten starten Sie früh."
+  },
+  "highlights": {
+   "nl": [
+    "18-holes golfbaan van ca. 65 hectare met golfschool.",
+    "Finsingbach-waterval, een wandeldoel met meerdere trappen.",
+    "Parochiekerk St. Briccius uit de 14e eeuw.",
+    "Wandel- en mountainbikeroutes op de berghelling richting Kupfnerberg.",
+    "Zillertalbahn naar de andere dorpen in het dal."
+   ],
+   "en": [
+    "18-hole golf course of about 65 hectares with golf school.",
+    "Finsingbach waterfall, a multi-tiered walking destination.",
+    "Parish church of St. Briccius from the 14th century.",
+    "Walking and mountain-bike routes on the slope towards Kupfnerberg.",
+    "Zillertalbahn to the other villages in the valley."
+   ],
+   "de": [
+    "18-Loch-Golfplatz mit rund 65 Hektar und Golfschule.",
+    "Finsingbachwasserfall, ein mehrstufiges Wanderziel.",
+    "Pfarrkirche St. Briccius aus dem 14. Jahrhundert.",
+    "Wander- und Mountainbikerouten am Hang Richtung Kupfnerberg.",
+    "Zillertalbahn zu den anderen Orten im Tal."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten rijden vanaf Niederau: via Wörgl en de A12 naar Jenbach, daarna het Zillertal in richting Fügen.",
+   "en": "About 35 minutes by car from Niederau: via Wörgl and the A12 to Jenbach, then into the Zillertal towards Fügen.",
+   "de": "Rund 35 Minuten Fahrt ab Niederau: über Wörgl und die A12 nach Jenbach, dann ins Zillertal Richtung Fügen."
+  },
+  "best_for": {
+   "nl": "Past bij golfers, wandelaars en wie een rustige tussenstop in het dal zoekt.",
+   "en": "Suits golfers, walkers and anyone wanting a quiet stop in the valley.",
+   "de": "Passt zu Golfern, Wanderern und allen, die einen ruhigen Zwischenstopp im Tal suchen."
+  },
+  "season": {
+   "nl": "Vooral zomer (golf, wandelen); in de winter skigebieden in de buurt.",
+   "en": "Mainly summer (golf, walking); ski areas nearby in winter.",
+   "de": "Vor allem Sommer (Golf, Wandern); im Winter Skigebiete in der Nähe."
+  },
+  "drive_min": 35,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er in Uderns een golfbaan?",
+     "en": "Is there a golf course in Uderns?",
+     "de": "Gibt es in Uderns einen Golfplatz?"
+    },
+    "a": {
+     "nl": "Ja, een 18-holesbaan van ongeveer 65 hectare met golfschool.",
+     "en": "Yes, an 18-hole course of about 65 hectares with a golf school.",
+     "de": "Ja, eine 18-Loch-Anlage mit rund 65 Hektar und Golfschule."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar ligt Uderns precies?",
+     "en": "Where exactly is Uderns?",
+     "de": "Wo genau liegt Uderns?"
+    },
+    "a": {
+     "nl": "In het onderste Zillertal tussen Fügen en Ried, ongeveer 500 meter boven zeeniveau.",
+     "en": "In the lower Zillertal between Fügen and Ried, about 500 metres above sea level.",
+     "de": "Im unteren Zillertal zwischen Fügen und Ried, etwa 500 Meter über dem Meer."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "stumm",
+  "region": "zillertal",
+  "drop": false,
+  "name": {
+   "nl": "Stumm",
+   "en": "Stumm",
+   "de": "Stumm"
+  },
+  "tagline": {
+   "nl": "Klein dorp tegenover Kaltenbach met kasteel en zwemwereld",
+   "en": "Small village opposite Kaltenbach with a manor and swimming area",
+   "de": "Kleiner Ort gegenüber Kaltenbach mit Schloss und Badewelt"
+  },
+  "intro": {
+   "nl": "Stumm is een klein vakantiedorp in het hart van het Zillertal, tegenover Kaltenbach, op ongeveer 556 meter hoogte. Het dorp is rustig en overzichtelijk, met veel wandel- en fietsroutes op alle niveaus in de omgeving.\n\nIn het centrum staat Schloss Stumm uit 1551, een ansitz in Tiroolse stijl met een weelderig aangeplant park; het is van buiten te bekijken. De laatgotische parochiekerk van St. Rupert heeft plafondfresco's van Christof Anton Mayr en reliëfs van Nißl uit 1765. In de zomer is de Badewelt Stumm een geliefde plek voor gezinnen, met meerdere glijbanen, een kinderbad en een beachvolleybalveld.\n\nElke twee jaar, midden in de zomer, vindt het internationale cultuurfestival stummer schrei plaats, met theater, concerten, lezingen, exposities en film. Vanuit Niederau is Stumm een prima doel voor een ontspannen zomerdag met kinderen: zwemmen, een korte wandeling en een bezoek aan het dorp. In de winter liggen Zillertal Arena en andere skigebieden op korte afstand. Neem voor de rit door het dal genoeg tijd, want het verkeer in het Zillertal kan in het hoogseizoen en in het weekend druk zijn; vertrek bij voorkeur vroeg.",
+   "en": "Stumm is a small holiday village in the heart of the Zillertal, opposite Kaltenbach, at about 556 metres. The village is quiet and easy to get around, with many walking and cycling routes of every level in the surroundings.\n\nIn the centre stands Stumm Manor from 1551, a Tyrolean-style noble residence with a lushly planted park; it can be viewed from outside. The late-Gothic parish church of St. Rupert has ceiling frescoes by Christof Anton Mayr and reliefs by Nißl from 1765. In summer the Badewelt Stumm is a favourite for families, with several water slides, a children's pool and a beach volleyball court.\n\nEvery two years in high summer the international culture festival stummer schrei takes place, with theatre, concerts, readings, exhibitions and film. From Niederau, Stumm is a good target for a relaxed summer day with children: swimming, a short walk and a visit to the village. In winter the Zillertal Arena and other ski areas are a short drive away. Allow plenty of time for the drive through the valley, as traffic in the Zillertal can be busy in high season and at weekends; an early start is best.",
+   "de": "Stumm ist ein kleiner Urlaubsort im Herzen des Zillertals, gegenüber von Kaltenbach, auf rund 556 Metern. Der Ort ist ruhig und überschaubar, mit vielen Wander- und Radrouten aller Schwierigkeitsgrade in der Umgebung.\n\nIm Zentrum steht das Schloss Stumm von 1551, ein Ansitz im Tiroler Stil mit üppig bepflanztem Park; es kann von außen besichtigt werden. Die spätgotische Pfarrkirche St. Rupert hat Deckenfresken von Christof Anton Mayr und Reliefs von Nißl aus dem Jahr 1765. Im Sommer ist die Badewelt Stumm ein beliebter Treffpunkt für Familien, mit mehreren Wasserrutschen, Kinderbecken und Beachvolleyballplatz.\n\nAlle zwei Jahre im Hochsommer findet das internationale Kulturfestival stummer schrei statt, mit Theater, Konzerten, Lesungen, Ausstellungen und Film. Von Niederau aus ist Stumm ein gutes Ziel für einen entspannten Sommertag mit Kindern: Schwimmen, ein kurzer Spaziergang und ein Besuch im Ort. Im Winter sind die Zillertal Arena und weitere Skigebiete schnell erreichbar. Planen Sie für die Fahrt durch das Tal genügend Zeit ein, denn der Verkehr im Zillertal kann in der Hochsaison und an Wochenenden dicht sein; am besten starten Sie früh."
+  },
+  "highlights": {
+   "nl": [
+    "Badewelt Stumm met glijbanen, kinderbad en beachvolleybal (zomer).",
+    "Schloss Stumm uit 1551 met park, van buiten te bekijken.",
+    "Parochiekerk St. Rupert met plafondfresco's en reliëfs uit 1765.",
+    "Cultuurfestival stummer schrei, tweejaarlijks in de zomer.",
+    "Wandel- en fietsroutes, o.a. richting Kaltenbach en Dristal."
+   ],
+   "en": [
+    "Badewelt Stumm with water slides, children's pool and beach volleyball (summer).",
+    "Stumm Manor from 1551 with park, viewable from outside.",
+    "Parish church of St. Rupert with ceiling frescoes and reliefs from 1765.",
+    "Culture festival stummer schrei, held every two years in summer.",
+    "Walking and cycling routes, e.g. towards Kaltenbach and Dristal."
+   ],
+   "de": [
+    "Badewelt Stumm mit Rutschen, Kinderbecken und Beachvolleyball (Sommer).",
+    "Schloss Stumm von 1551 mit Park, von außen zu besichtigen.",
+    "Pfarrkirche St. Rupert mit Deckenfresken und Reliefs von 1765.",
+    "Kulturfestival stummer schrei, alle zwei Jahre im Sommer.",
+    "Wander- und Radrouten, z. B. Richtung Kaltenbach und Dristal."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 45 minuten rijden vanaf Niederau: via Wörgl en de A12 naar Jenbach, daarna het Zillertal in naar Kaltenbach en Stumm.",
+   "en": "About 45 minutes by car from Niederau: via Wörgl and the A12 to Jenbach, then along the Zillertal to Kaltenbach and Stumm.",
+   "de": "Rund 45 Minuten Fahrt ab Niederau: über Wörgl und die A12 nach Jenbach, dann durch das Zillertal nach Kaltenbach und Stumm."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met kinderen die een ontspannen zwem- en wandeldag willen.",
+   "en": "Suits families with children wanting a relaxed swimming and walking day.",
+   "de": "Passt zu Familien mit Kindern, die einen entspannten Bade- und Wandertag wollen."
+  },
+  "season": {
+   "nl": "Vooral zomer (bad, wandelen); in de winter skigebieden in de buurt.",
+   "en": "Mainly summer (swimming, walking); ski areas nearby in winter.",
+   "de": "Vor allem Sommer (Baden, Wandern); im Winter Skigebiete in der Nähe."
+  },
+  "drive_min": 45,
+  "elevation_m": 556,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er in Stumm een zwembad?",
+     "en": "Is there a swimming area in Stumm?",
+     "de": "Gibt es in Stumm ein Bad?"
+    },
+    "a": {
+     "nl": "Ja, de Badewelt Stumm met glijbanen, kinderbad en beachvolleybalveld is in de zomer geopend; controleer vooraf de openingstijden.",
+     "en": "Yes, the Badewelt Stumm with water slides, children's pool and beach volleyball court opens in summer; check opening times beforehand.",
+     "de": "Ja, die Badewelt Stumm mit Rutschen, Kinderbecken und Beachvolleyballplatz ist im Sommer geöffnet; Öffnungszeiten vorab prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is stummer schrei?",
+     "en": "What is stummer schrei?",
+     "de": "Was ist der stummer schrei?"
+    },
+    "a": {
+     "nl": "Een internationaal cultuurfestival dat elke twee jaar in de zomer in Stumm plaatsvindt, met theater, concerten, lezingen, exposities en film.",
+     "en": "An international culture festival held in Stumm every two years in summer, with theatre, concerts, readings, exhibitions and film.",
+     "de": "Ein internationales Kulturfestival, das alle zwei Jahre im Sommer in Stumm stattfindet, mit Theater, Konzerten, Lesungen, Ausstellungen und Film."
+    }
+   }
+  ],
+  "verified": true
+ }
+]

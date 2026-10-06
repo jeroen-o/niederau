@@ -1,0 +1,536 @@
+[
+ {
+  "slug": "oberndorf-in-tirol",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Oberndorf in Tirol",
+   "en": "Oberndorf in Tirol",
+   "de": "Oberndorf in Tirol"
+  },
+  "tagline": {
+   "nl": "Rustig dorp onder de Kitzbüheler Horn, met openluchtbad en wandelpaden",
+   "en": "Quiet village below the Kitzbüheler Horn with an outdoor pool and walking trails",
+   "de": "Ruhiges Dorf unter dem Kitzbüheler Horn mit Freibad und Wanderwegen"
+  },
+  "intro": {
+   "nl": "Oberndorf in Tirol ligt op ongeveer 687 m hoogte in het Leukental, tussen de Kitzbüheler Horn en het Kaisergebirge. Het is een rustig dorp met zo'n 2.000 inwoners, vlak bij Kitzbühel en St. Johann in Tirol. Het gemeentegebied loopt op tot aan de flanken van de Kitzbüheler Horn, een van de bekendste bergen van de Kitzbüheler Alpen.\n\nHet dorp heeft een paar eigenzinnige bezienswaardigheden. Bij de Müllnerhof staat een uitzonderlijk grote houten fontein, uitgesneden uit één dikke boom. Daarnaast herinnert het mijnbouwverleden op de Rerobichl eraan dat hier eeuwenlang zilver en koper werd gewonnen. Ook de parochiekerk en enkele kapellen zijn monumenten die het bekijken waard zijn.\n\nIn de zomer is het Bichlachbad, een openluchtbad met grote ligweide en een lange glijbaan, een vaste favoriet bij kinderen. Wandelaars vinden paden richting de Kitzbüheler Horn, met uitzicht op de Wilde Kaiser, de Hohe Tauern en het Karwendel. Oberndorf past bij gezinnen die een rustige dag willen combineren met zwemmen, een wandeling en een bezoek aan het nabije Kitzbühel.",
+   "en": "Oberndorf in Tirol lies at roughly 687 m in the Leukental valley, between the Kitzbüheler Horn and the Kaiser mountains. It is a quiet village of about 2,000 residents, close to Kitzbühel and St. Johann in Tirol. The municipal area rises up to the slopes of the Kitzbüheler Horn, one of the best-known mountains in the Kitzbühel Alps.\n\nThe village has a few distinctive sights. At the Müllnerhof stands an exceptionally large wooden fountain, carved from a single big tree. The local mining past on the Rerobichl is a reminder that silver and copper were extracted here for centuries. The parish church and several chapels are listed monuments that are worth a look.\n\nIn summer the Bichlachbad, an outdoor pool with a large sunbathing lawn and a long water slide, is a firm favourite with children. Walkers will find trails towards the Kitzbüheler Horn, with views of the Wilder Kaiser, the Hohe Tauern and the Karwendel. Oberndorf suits families who want to combine a relaxed day with swimming, a walk and a visit to nearby Kitzbühel.",
+   "de": "Oberndorf in Tirol liegt auf rund 687 m Höhe im Leukental, zwischen dem Kitzbüheler Horn und dem Kaisergebirge. Es ist ein ruhiger Ort mit etwa 2.000 Einwohnern, nahe Kitzbühel und St. Johann in Tirol. Das Gemeindegebiet reicht bis an die Hänge des Kitzbüheler Horns, einem der bekanntesten Berge der Kitzbüheler Alpen.\n\nDer Ort hat einige besondere Sehenswürdigkeiten. Beim Müllnerhof steht ein außergewöhnlich großer Holzbrunnen, der aus einem einzigen mächtigen Baum geschnitzt wurde. Die Bergbaugeschichte am Rerobichl erinnert daran, dass hier über Jahrhunderte Silber und Kupfer abgebaut wurden. Auch die Pfarrkirche und mehrere Kapellen stehen unter Denkmalschutz und sind einen Blick wert.\n\nIm Sommer ist das Bichlachbad, ein Freibad mit großer Liegewiese und langer Wasserrutsche, bei Kindern besonders beliebt. Wanderer finden Wege in Richtung Kitzbüheler Horn, mit Blick auf den Wilden Kaiser, die Hohen Tauern und das Karwendel. Oberndorf passt zu Familien, die einen entspannten Tag mit Baden, einer Wanderung und einem Besuch im nahen Kitzbühel verbinden möchten."
+  },
+  "highlights": {
+   "nl": [
+    "Bichlachbad: openluchtbad met grote ligweide en een lange glijbaan, vooral in de zomer een fijne gezinsstop.",
+    "Houten fontein bij de Müllnerhof: een bijzonder grote, uit één boom gesneden fontein.",
+    "Mijnbouwverleden op de Rerobichl, waar vroeger zilver en koper werd gewonnen, met een kleine museale herinnering.",
+    "Parochiekerk (Philippus en Jakobus), Rerobichl-kapel en het oorlogsmonument van Leopold Seeber als monumenten in het dorp.",
+    "Wandelen richting de Kitzbüheler Horn met uitzicht op Wilde Kaiser, Hohe Tauern en Karwendel.",
+    "Kitzbühel ligt dichtbij voor winkelen, een wandeling door de oude stad of een dagje skiën in de winter."
+   ],
+   "en": [
+    "Bichlachbad: an outdoor pool with a large lawn and a long water slide, a pleasant family stop in summer.",
+    "Wooden fountain at the Müllnerhof: an unusually large fountain carved from a single tree.",
+    "The mining history on the Rerobichl, where silver and copper were once extracted, with a small museum-style reminder.",
+    "Parish church (Philip and James), the Rerobichl chapel and Leopold Seeber's war memorial are listed monuments in the village.",
+    "Walking towards the Kitzbüheler Horn with views of the Wilder Kaiser, Hohe Tauern and Karwendel.",
+    "Kitzbühel is close by for shopping, a stroll through the old town or a day of skiing in winter."
+   ],
+   "de": [
+    "Bichlachbad: Freibad mit großer Liegewiese und langer Rutsche, im Sommer ein schöner Familienstopp.",
+    "Holzbrunnen beim Müllnerhof: ein ungewöhnlich großer, aus einem Baum geschnitzter Brunnen.",
+    "Bergbaugeschichte am Rerobichl, wo einst Silber und Kupfer abgebaut wurden, mit einer kleinen musealen Erinnerung.",
+    "Pfarrkirche (Philippus und Jakobus), Rerobichl-Kapelle und das Kriegerdenkmal von Leopold Seeber als Denkmäler im Ort.",
+    "Wandern in Richtung Kitzbüheler Horn mit Blick auf Wilden Kaiser, Hohe Tauern und Karwendel.",
+    "Kitzbühel liegt nah für einen Einkaufsbummel, einen Spaziergang durch die Altstadt oder im Winter einen Skitag."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 45 minuten met de auto, via Wörgl en Kitzbühel (of via Hopfgarten en Kirchberg, afhankelijk van verkeer en weg). Controleer de route vooraf.",
+   "en": "From Niederau about 45 minutes by car, via Wörgl and Kitzbühel (or via Hopfgarten and Kirchberg, depending on traffic and road conditions). Check the route beforehand.",
+   "de": "Ab Niederau ca. 45 Minuten mit dem Auto, über Wörgl und Kitzbühel (oder über Hopfgarten und Kirchberg, je nach Verkehr und Straßenlage). Route vorab prüfen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die rust, een zwembad en wandelen met Kitzbühel in de buurt zoeken.",
+   "en": "Suits families looking for peace, a pool and walking with Kitzbühel nearby.",
+   "de": "Passt zu Familien, die Ruhe, ein Freibad und Wandern mit Kitzbühel in der Nähe suchen."
+  },
+  "season": {
+   "nl": "Vooral zomer (bad en wandelen); in de winter vooral als uitvalsbasis richting Kitzbühel.",
+   "en": "Mainly summer (pool and walking); in winter mostly as a base towards Kitzbühel.",
+   "de": "Vor allem Sommer (Bad und Wandern); im Winter eher als Ausgangspunkt Richtung Kitzbühel."
+  },
+  "drive_min": 45,
+  "elevation_m": 687,
+  "url": "https://www.kitzbueheler-alpen.com/de/stjo/oberndorf-in-tirol.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt Oberndorf in Tirol?",
+     "en": "Where is Oberndorf in Tirol?",
+     "de": "Wo liegt Oberndorf in Tirol?"
+    },
+    "a": {
+     "nl": "In het Leukental op ongeveer 687 m, tussen de Kitzbüheler Horn en het Kaisergebirge, vlak bij Kitzbühel en St. Johann in Tirol.",
+     "en": "In the Leukental valley at about 687 m, between the Kitzbüheler Horn and the Kaiser mountains, close to Kitzbühel and St. Johann in Tirol.",
+     "de": "Im Leukental auf rund 687 m, zwischen Kitzbüheler Horn und Kaisergebirge, nahe Kitzbühel und St. Johann in Tirol."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er iets te doen voor kinderen in Oberndorf?",
+     "en": "Is there anything for children in Oberndorf?",
+     "de": "Gibt es in Oberndorf etwas für Kinder?"
+    },
+    "a": {
+     "nl": "Ja, in de zomer is er het Bichlachbad met een grote ligweide en een lange glijbaan. Informeer vooraf naar openingstijden.",
+     "en": "Yes, in summer there is the Bichlachbad with a large lawn and a long water slide. Check opening times beforehand.",
+     "de": "Ja, im Sommer gibt es das Bichlachbad mit großer Liegewiese und langer Wasserrutsche. Öffnungszeiten vorab erfragen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "kirchdorf-in-tirol",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Kirchdorf in Tirol",
+   "en": "Kirchdorf in Tirol",
+   "de": "Kirchdorf in Tirol"
+  },
+  "tagline": {
+   "nl": "Dorp aan de voet van het Kaisergebirge met kloof, meer en wellness",
+   "en": "Village at the foot of the Kaiser mountains with gorge, lake and spa",
+   "de": "Dorf am Fuß des Kaisergebirges mit Klamm, See und Wellness"
+  },
+  "intro": {
+   "nl": "Kirchdorf in Tirol ligt op ongeveer 640 m aan de voet van het Kaisergebirge, tussen het Kaiserwinkl, het Pillerseetal en St. Johann in Tirol. Er wonen zo'n 2.300 mensen. Het dorp is een goede uitvalsbasis voor wie de natuur van de Wilde Kaiser wil ontdekken zonder de drukte van de grote toeristenplaatsen.\n\nTot de bekendste uitstapjes horen het Kaiserbachtal, de Teufelsgasse en de Flusserlebnisweg langs de Großache. Zeer geliefd bij gezinnen is ook de Hintersteiner See, een badmeer met helder water en strandbad in het natuurgebied Wilder Kaiser. In het dorp zelf biedt het wellnesscentrum Kaiserquell onder meer een buitenbad en sauna's.\n\nIn de zomer zijn er veel wandel-, mountainbike- en klimroutes, plus hoogteparcoursen en zwemplekken voor kinderen. Kirchdorf past bij gezinnen die natuur, water en een rustige sfeer willen combineren, en die er ook een dagtocht naar St. Johann of Kufstein aan vast willen knopen. Reken op een rit van ruim een halfuur extra als je Niederau als verblijfplaats hebt, dus plan er bij voorkeur een hele dag voor.",
+   "en": "Kirchdorf in Tirol lies at about 640 m at the foot of the Kaiser mountains, between the Kaiserwinkl, the Pillerseetal and St. Johann in Tirol. Around 2,300 people live here. The village is a good base for anyone who wants to explore the nature of the Wilder Kaiser without the crowds of the big resorts.\n\nAmong the best-known outings are the Kaiserbachtal, the Teufelsgasse and the river adventure trail along the Großache. The Hintersteiner See is also very popular with families, a bathing lake with clear water and a beach area in the Wilder Kaiser nature reserve. In the village itself, the Kaiserquell wellness centre offers an outdoor pool and saunas, among other things.\n\nIn summer there are plenty of walking, mountain-bike and climbing routes, plus high ropes courses and swimming spots for children. Kirchdorf suits families who want to combine nature, water and a calm atmosphere, and who may add a day trip to St. Johann or Kufstein.",
+   "de": "Kirchdorf in Tirol liegt auf etwa 640 m am Fuß des Kaisergebirges, zwischen Kaiserwinkl, Pillerseetal und St. Johann in Tirol. Hier leben rund 2.300 Menschen. Der Ort ist ein guter Ausgangspunkt, um die Natur des Wilden Kaisers ohne den Trubel der großen Urlaubsorte zu erkunden.\n\nZu den bekanntesten Ausflugszielen zählen das Kaiserbachtal, die Teufelsgasse und der Flusserlebnisweg entlang der Großache. Bei Familien sehr beliebt ist auch der Hintersteiner See, ein Badesee mit klarem Wasser und Strandbad im Naturschutzgebiet Wilder Kaiser. Im Ort selbst bietet das Wellnesscenter Kaiserquell unter anderem ein Freibad und eine Saunalandschaft.\n\nIm Sommer gibt es viele Wander-, Mountainbike- und Kletterrouten sowie Hochseilgärten und Bademöglichkeiten für Kinder. Kirchdorf passt zu Familien, die Natur, Wasser und eine ruhige Atmosphäre verbinden und vielleicht einen Tagesausflug nach St. Johann oder Kufstein anhängen möchten. Wer in Niederau wohnt, sollte für die Anfahrt gut eine Stunde einplanen und den Ausflug deshalb am besten als ganzen Tag planen, am liebsten bei schönem Wetter."
+  },
+  "highlights": {
+   "nl": [
+    "Hintersteiner See: badmeer met helder water en strandbad in het natuurgebied Wilder Kaiser.",
+    "Kaiserbachtal: wandelen en genieten in een dal onder de Kaiserwanden.",
+    "Teufelsgasse: bijzonder natuurpad, geschikt als korte wandeling.",
+    "Flusserlebnisweg langs de Großache, een rustige route langs het water.",
+    "Wellnesscentrum Kaiserquell met buitenbad, tennisbanen en sauna's in het dorp.",
+    "Zomers klimmen, mountainbiken en hoogteparcoursen in de omgeving."
+   ],
+   "en": [
+    "Hintersteiner See: a bathing lake with clear water and a beach area in the Wilder Kaiser nature reserve.",
+    "Kaiserbachtal: walking and relaxing in a valley beneath the Kaiser cliffs.",
+    "Teufelsgasse: a striking natural trail, suitable as a short walk.",
+    "River adventure trail along the Großache, a calm route beside the water.",
+    "Kaiserquell wellness centre with outdoor pool, tennis courts and saunas in the village.",
+    "Climbing, mountain biking and high ropes courses in the surrounding area in summer."
+   ],
+   "de": [
+    "Hintersteiner See: Badesee mit klarem Wasser und Strandbad im Naturschutzgebiet Wilder Kaiser.",
+    "Kaiserbachtal: Wandern und Genießen in einem Tal unter den Kaiserwänden.",
+    "Teufelsgasse: ein eindrucksvoller Naturweg, auch als kurzer Spaziergang geeignet.",
+    "Flusserlebnisweg entlang der Großache, eine ruhige Route am Wasser.",
+    "Wellnesscenter Kaiserquell mit Freibad, Tennisplätzen und Saunalandschaft im Ort.",
+    "Im Sommer Klettern, Mountainbiken und Hochseilgärten in der Umgebung."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 55 minuten met de auto, via Wörgl en Kitzbühel richting St. Johann in Tirol. Controleer de route vooraf.",
+   "en": "From Niederau about 55 minutes by car, via Wörgl and Kitzbühel towards St. Johann in Tirol. Check the route beforehand.",
+   "de": "Ab Niederau ca. 55 Minuten mit dem Auto, über Wörgl und Kitzbühel Richtung St. Johann in Tirol. Route vorab prüfen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die water, natuur en wandelen onder de Wilde Kaiser zoeken.",
+   "en": "Suits families looking for water, nature and walking beneath the Wilder Kaiser.",
+   "de": "Passt zu Familien, die Wasser, Natur und Wandern unter dem Wilden Kaiser suchen."
+  },
+  "season": {
+   "nl": "Vooral zomer (meer, wandelen); in de winter rustiger.",
+   "en": "Mainly summer (lake, walking); quieter in winter.",
+   "de": "Vor allem Sommer (See, Wandern); im Winter ruhiger."
+  },
+  "drive_min": 55,
+  "elevation_m": 640,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt Kirchdorf in Tirol?",
+     "en": "Where is Kirchdorf in Tirol?",
+     "de": "Wo liegt Kirchdorf in Tirol?"
+    },
+    "a": {
+     "nl": "Op ongeveer 640 m aan de voet van het Kaisergebirge, tussen Kaiserwinkl, Pillerseetal en St. Johann in Tirol.",
+     "en": "At about 640 m at the foot of the Kaiser mountains, between the Kaiserwinkl, the Pillerseetal and St. Johann in Tirol.",
+     "de": "Auf etwa 640 m am Fuß des Kaisergebirges, zwischen Kaiserwinkl, Pillerseetal und St. Johann in Tirol."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je bij Kirchdorf zwemmen?",
+     "en": "Can you swim near Kirchdorf?",
+     "de": "Kann man bei Kirchdorf baden?"
+    },
+    "a": {
+     "nl": "Ja, bij de Hintersteiner See in het natuurgebied Wilder Kaiser is een badmeer met strandbad; in het dorp is het wellnesscentrum Kaiserquell met buitenbad. Informeer vooraf naar openingstijden.",
+     "en": "Yes, the Hintersteiner See in the Wilder Kaiser nature reserve is a bathing lake with a beach area, and the Kaiserquell wellness centre in the village has an outdoor pool. Check opening times beforehand.",
+     "de": "Ja, am Hintersteiner See im Naturschutzgebiet Wilder Kaiser gibt es einen Badesee mit Strandbad, im Ort das Wellnesscenter Kaiserquell mit Freibad. Öffnungszeiten vorab erfragen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "kirchbichl",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Kirchbichl",
+   "en": "Kirchbichl",
+   "de": "Kirchbichl"
+  },
+  "tagline": {
+   "nl": "Inndorp met warm moerbad en prehistorische heuvel Grattenbergl",
+   "en": "Inn valley village with a warm mud-bottom lake and the prehistoric Grattenbergl hill",
+   "de": "Inntaldorf mit warmem Moorbad und der vorgeschichtlichen Anhöhe Grattenbergl"
+  },
+  "intro": {
+   "nl": "Kirchbichl ligt op ongeveer 520 m in het Unterinntal, direct aan de Inn tussen Wörgl en Kufstein. Het is geen klassiek toeristendorp, maar juist daardoor rustig, met zicht op de bergen rondom en een korte afstand tot Niederau. Voor wie het dal in wil, is het een makkelijke, korte rit.\n\nDe bekendste plek is het Badesee Kirchbichl, een kleine natuurbadplas van ruim een hectare met slibbodem. Het water staat bekend als het warmste openluchtbad van Tirol en is een van de oudste baden van de streek. Er zijn een restaurant, kiosk, beachvolleybalveld, tennisbaan en een speelplaats. Verder is de Grattenbergl een bijzondere heuvel: een prehistorische nederzetting, in de bronstijd de grootste van Noord-Tirol, en plaats van de Tiroler vrijheidsstrijd. Sinds 1956 is hij natuurmonument.\n\nIn de zomer kun je langs de Inn fietsen of wandelen. Kirchbichl past bij gezinnen die een korte, ontspannen zwemtrip met een stukje geschiedenis willen combineren.",
+   "en": "Kirchbichl lies at about 520 m in the lower Inn valley, directly on the River Inn between Wörgl and Kufstein. It is not a classic tourist village, which is exactly why it is calm, with mountain views all around and a short distance from Niederau. For anyone heading into the valley, it is an easy, short drive.\n\nThe best-known spot is the Badesee Kirchbichl, a small natural bathing lake of just over a hectare with a muddy bottom. Its water is said to be the warmest open-air bathing spot in Tirol, and it is one of the oldest baths in the area. There are a restaurant, a kiosk, a beach volleyball court, a tennis court and a playground. The Grattenbergl is also a remarkable hill: a prehistoric settlement, the largest in North Tirol in the Bronze Age, and a site of the Tyrolean fight for freedom. It has been a natural monument since 1956.\n\nIn summer you can cycle or walk along the Inn. Kirchbichl suits families who want a short, relaxed swimming trip combined with a touch of history.",
+   "de": "Kirchbichl liegt auf etwa 520 m im Unterinntal, direkt am Inn zwischen Wörgl und Kufstein. Es ist kein klassischer Urlaubsort, gerade deshalb aber ruhig, mit Bergblick ringsum und kurzer Entfernung nach Niederau. Wer ins Tal fährt, hat hier eine bequeme, kurze Anfahrt.\n\nDer bekannteste Ort ist der Badesee Kirchbichl, ein kleiner Naturbadesee von gut einem Hektar mit Moorboden. Sein Wasser gilt als das wärmste Freibad Tirols, und er ist eines der ältesten Bäder der Gegend. Es gibt ein Restaurant, einen Kiosk, einen Beachvolleyballplatz, einen Tennisplatz und einen Spielplatz. Auch der Grattenbergl ist bemerkenswert: eine vorgeschichtliche Höhensiedlung, in der Bronzezeit die größte Nordtirols, und Schauplatz des Tiroler Freiheitskampfes. Seit 1956 ist er Naturdenkmal.\n\nIm Sommer lässt sich am Inn entlang radeln oder spazieren. Kirchbichl passt zu Familien, die einen kurzen, entspannten Badeausflug mit etwas Geschichte verbinden möchten. Da der Ort nur eine kurze Fahrt entfernt liegt, lässt sich der Besuch gut auch spontan an einem sonnigen Nachmittag einschieben, ohne den Tag lange vorzuplanen."
+  },
+  "highlights": {
+   "nl": [
+    "Badesee Kirchbichl: natuurbad met slibbodem, bekend om zijn warme water, met restaurant, kiosk en speelplaats.",
+    "Beachvolleybalveld en tennisbaan bij het bad.",
+    "Grattenbergl: prehistorische heuvelnederzetting en natuurmonument sinds 1956.",
+    "Fietsen of wandelen langs de Inn op het Inntalradweg.",
+    "Wandelingen in de heuvels rondom het dorp, met uitzicht op het dal."
+   ],
+   "en": [
+    "Badesee Kirchbichl: natural bathing lake with a muddy bottom, known for its warm water, with restaurant, kiosk and playground.",
+    "Beach volleyball court and tennis court at the lake.",
+    "Grattenbergl: prehistoric hilltop settlement and natural monument since 1956.",
+    "Cycling or walking along the Inn on the Inn valley cycle path.",
+    "Walks in the hills around the village with views over the valley."
+   ],
+   "de": [
+    "Badesee Kirchbichl: Naturbadesee mit Moorboden, bekannt für warmes Wasser, mit Restaurant, Kiosk und Spielplatz.",
+    "Beachvolleyballplatz und Tennisanlage am Bad.",
+    "Grattenbergl: vorgeschichtliche Höhensiedlung und Naturdenkmal seit 1956.",
+    "Radfahren oder Spazieren entlang des Inns auf dem Inntal-Radweg.",
+    "Wanderungen in den Hügeln rund um den Ort mit Blick ins Tal."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 25 minuten met de auto, via Wörgl (A12/B171 richting Kufstein). Controleer de route vooraf.",
+   "en": "From Niederau about 25 minutes by car, via Wörgl (A12/B171 towards Kufstein). Check the route beforehand.",
+   "de": "Ab Niederau ca. 25 Minuten mit dem Auto, über Wörgl (A12/B171 Richtung Kufstein). Route vorab prüfen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die een korte zwemtrip met een beetje geschiedenis zoeken.",
+   "en": "Suits families looking for a short swimming trip with a little history.",
+   "de": "Passt zu Familien, die einen kurzen Badeausflug mit etwas Geschichte suchen."
+  },
+  "season": {
+   "nl": "Vooral zomer (badmeer, fietsen).",
+   "en": "Mainly summer (bathing lake, cycling).",
+   "de": "Vor allem Sommer (Badesee, Radfahren)."
+  },
+  "drive_min": 25,
+  "elevation_m": 520,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Kirchbichl een goede plek om te zwemmen?",
+     "en": "Is Kirchbichl a good place to swim?",
+     "de": "Ist Kirchbichl ein guter Ort zum Baden?"
+    },
+    "a": {
+     "nl": "Ja, het Badesee Kirchbichl is een klein natuurbad met slibbodem dat bekendstaat om zijn warme water; er zijn een kiosk, restaurant en speelplaats. Informeer vooraf naar openingstijden en entree.",
+     "en": "Yes, the Badesee Kirchbichl is a small natural lake with a muddy bottom known for its warm water, with a kiosk, restaurant and playground. Check opening times and admission beforehand.",
+     "de": "Ja, der Badesee Kirchbichl ist ein kleiner Naturbadesee mit Moorboden, bekannt für sein warmes Wasser, mit Kiosk, Restaurant und Spielplatz. Öffnungszeiten und Eintritt vorab erfragen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is de Grattenbergl?",
+     "en": "What is the Grattenbergl?",
+     "de": "Was ist der Grattenbergl?"
+    },
+    "a": {
+     "nl": "Een heuvel bij Kirchbichl met een prehistorische nederzetting, plaats van de Tiroler vrijheidsstrijd en sinds 1956 natuurmonument.",
+     "en": "A hill near Kirchbichl with a prehistoric settlement, a site of the Tyrolean fight for freedom and a natural monument since 1956.",
+     "de": "Eine Anhöhe bei Kirchbichl mit vorgeschichtlicher Siedlung, Schauplatz des Tiroler Freiheitskampfes und seit 1956 Naturdenkmal."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "breitenbach-am-inn",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Breitenbach am Inn",
+   "en": "Breitenbach am Inn",
+   "de": "Breitenbach am Inn"
+  },
+  "tagline": {
+   "nl": "Zonnige Inndal-gemeente met Berglsteinersee en Blessenberg",
+   "en": "Sunny Inn valley municipality with the Berglsteinersee and the Blessenberg",
+   "de": "Sonnige Inntal-Gemeinde mit Berglsteinersee und Blessenberg"
+  },
+  "intro": {
+   "nl": "Breitenbach am Inn ligt op ongeveer 510 m op de zonnige noordzijde van het Inntal, tussen Kufstein en Schwaz, omgeven door glooiende heuvels. De gemeente telt bijna 3.500 inwoners en is met zo'n 38 km² vrij uitgestrekt. Het is een rustig dorp zonder grote toeristendrukte, met een korte rit vanaf Niederau.\n\nAan de westkant van de gemeente ligt de idyllische Berglsteinersee. Wandelaars kunnen de Blessenberg beklimmen (1.743 m) met een mooi uitzicht over het Inntal. Verder zijn er de parochiekerk van de heilige Petrus en verschillende kapellen onder monumentenzorg, zoals de Mariahilfkapel, de Kämpferkapel, de Antoniuskapel en de Firstwaldkapel.\n\nIn de winter zijn er langlaufloipes in de buurt van Schönau-Angerberg en een familievriendelijk skigebied in de regio Alpbachtal Wildschönau. In december is er een Perchtenlauf, een oude folkloristische traditie met kostuums en maskers. Breitenbach past bij gezinnen die een rustig uitstapje met meer, wandeling en lokale traditie willen. Door de korte rit is het ook goed als halve dag in te plannen, bijvoorbeeld op een dag waarop het in de hoge bergen minder aantrekkelijk weer is.",
+   "en": "Breitenbach am Inn lies at about 510 m on the sunny north side of the Inn valley, between Kufstein and Schwaz, surrounded by rolling hills. The municipality has nearly 3,500 residents and, at around 38 km², is fairly extensive. It is a quiet village without big tourist crowds, a short drive from Niederau.\n\nOn the western edge of the municipality lies the idyllic Berglsteinersee. Walkers can climb the Blessenberg (1,743 m) for a fine view over the Inn valley. There are also the parish church of St Peter and several listed chapels, such as the Mariahilf chapel, the Kämpfer chapel, the Antonius chapel and the Firstwald chapel.\n\nIn winter there are cross-country trails near Schönau-Angerberg and a family-friendly ski area in the Alpbachtal Wildschönau region. In December a Perchtenlauf takes place, an old folk tradition with costumes and masks. Breitenbach suits families who want a quiet outing with a lake, a walk and local tradition.",
+   "de": "Breitenbach am Inn liegt auf etwa 510 m auf der sonnigen Nordseite des Inntals, zwischen Kufstein und Schwaz, umgeben von sanften Hügeln. Die Gemeinde hat knapp 3.500 Einwohner und ist mit rund 38 km² recht weitläufig. Es ist ein ruhiger Ort ohne großen Touristenandrang, nur eine kurze Fahrt von Niederau entfernt.\n\nAm westlichen Ende der Gemeinde liegt der idyllische Berglsteinersee. Wanderer können den Blessenberg (1.743 m) mit schönem Blick über das Inntal besteigen. Dazu kommen die Pfarrkirche des hl. Petrus und mehrere denkmalgeschützte Kapellen, etwa die Mariahilfkapelle, die Kämpferkapelle, die Antoniuskapelle und die Firstwaldkapelle.\n\nIm Winter gibt es Loipen in der Nähe von Schönau-Angerberg und ein familienfreundliches Skigebiet in der Region Alpbachtal Wildschönau. Im Dezember findet ein Perchtenlauf statt, ein alter Brauch mit Kostümen und Masken. Breitenbach passt zu Familien, die einen ruhigen Ausflug mit See, Wanderung und lokaler Tradition suchen. Wegen der kurzen Fahrt eignet sich der Ort auch gut für einen halben Tag, zum Beispiel wenn das Wetter in den hohen Bergen weniger einladend ist."
+  },
+  "highlights": {
+   "nl": [
+    "Berglsteinersee: idyllisch meertje aan de westrand van de gemeente.",
+    "Blessenberg (1.743 m): wandeltocht met uitzicht op het Inntal.",
+    "Parochiekerk van de heilige Petrus en kapellen zoals Mariahilf-, Kämpfer-, Antonius- en Firstwaldkapel.",
+    "Perchtenlauf in december: traditionele optocht met kostuums en maskers.",
+    "Langlaufloipes in de buurt van Schönau-Angerberg in de winter."
+   ],
+   "en": [
+    "Berglsteinersee: an idyllic small lake on the western edge of the municipality.",
+    "Blessenberg (1,743 m): a hike with views over the Inn valley.",
+    "Parish church of St Peter and chapels such as Mariahilf, Kämpfer, Antonius and Firstwald.",
+    "Perchtenlauf in December: a traditional procession with costumes and masks.",
+    "Cross-country trails near Schönau-Angerberg in winter."
+   ],
+   "de": [
+    "Berglsteinersee: idyllischer kleiner See am westlichen Gemeinderand.",
+    "Blessenberg (1.743 m): Wanderung mit Blick auf das Inntal.",
+    "Pfarrkirche des hl. Petrus und Kapellen wie Mariahilf-, Kämpfer-, Antonius- und Firstwaldkapelle.",
+    "Perchtenlauf im Dezember: traditioneller Umzug mit Kostümen und Masken.",
+    "Loipen in der Nähe von Schönau-Angerberg im Winter."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 30 minuten met de auto, via Wörgl en het Inntal richting Kufstein. Controleer de route vooraf.",
+   "en": "From Niederau about 30 minutes by car, via Wörgl and the Inn valley towards Kufstein. Check the route beforehand.",
+   "de": "Ab Niederau ca. 30 Minuten mit dem Auto, über Wörgl und das Inntal Richtung Kufstein. Route vorab prüfen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die een rustig uitstapje met meer, wandelen en traditie zoeken.",
+   "en": "Suits families looking for a quiet outing with a lake, walking and tradition.",
+   "de": "Passt zu Familien, die einen ruhigen Ausflug mit See, Wandern und Brauchtum suchen."
+  },
+  "season": {
+   "nl": "Hele jaar; wandelen in de zomer, Perchtenlauf in december.",
+   "en": "Year-round; walking in summer, Perchtenlauf in December.",
+   "de": "Ganzjährig; Wandern im Sommer, Perchtenlauf im Dezember."
+  },
+  "drive_min": 30,
+  "elevation_m": 510,
+  "url": "https://www.alpbachtal.at/en/region/10-villages/breitenbach",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat valt er te doen in Breitenbach am Inn?",
+     "en": "What is there to do in Breitenbach am Inn?",
+     "de": "Was kann man in Breitenbach am Inn unternehmen?"
+    },
+    "a": {
+     "nl": "Wandelen op de Blessenberg, een bezoek aan de Berglsteinersee en de kapellen in het dorp; in de winter zijn er loipes in de buurt.",
+     "en": "Hiking on the Blessenberg, visiting the Berglsteinersee and the chapels in the village; in winter there are cross-country trails nearby.",
+     "de": "Wandern auf den Blessenberg, ein Besuch am Berglsteinersee und bei den Kapellen im Ort; im Winter gibt es Loipen in der Nähe."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer is de Perchtenlauf?",
+     "en": "When is the Perchtenlauf?",
+     "de": "Wann findet der Perchtenlauf statt?"
+    },
+    "a": {
+     "nl": "In december. De exacte datum verschilt per jaar; informeer vooraf bij de gemeente of het toeristenbureau.",
+     "en": "In December. The exact date varies each year; check with the municipality or tourist office beforehand.",
+     "de": "Im Dezember. Das genaue Datum ist jedes Jahr anders; vorab bei der Gemeinde oder dem Tourismusbüro erfragen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "angath",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Angath",
+   "en": "Angath",
+   "de": "Angath"
+  },
+  "tagline": {
+   "nl": "Klein dorp bij Kufstein met scheepvaartverleden en de Hundalm-ijsgrot",
+   "en": "Small village near Kufstein with a river-shipping past and the Hundalm ice cave",
+   "de": "Kleines Dorf bei Kufstein mit Schifffahrtsgeschichte und der Hundalm-Eishöhle"
+  },
+  "intro": {
+   "nl": "Angath ligt op ongeveer 500 m in het Unterinntal, in de buurt van Kufstein. Met nog geen 3,5 km² en circa 850 inwoners is het een van de kleinste gemeenten in de omgeving. Wie hier komt, vindt geen toeristenstad maar een rustig dorp met een eigen geschiedenis.\n\nIn de 15e en 16e eeuw was Angath een centrum van de Tiroler rivierscheepvaart en scheepsbouw. Samen met Hall in Tirol en Langkampfen was het een van de drie belangrijkste havens van Tirol. De parochiekerk van de Heilige Geest aan de zuidrand van het dorp wordt al in 1220 genoemd en kreeg in 1746-47 haar barokke vorm. Op de Hundalm, op ongeveer 1.520 m, ligt een dolomiet- en druipsteengrot, waar je in de zomer een bijzondere uitstap kunt maken.\n\nTradities blijven er levend, met vooral in de zomer volksavonden en pleinconcerten. Angath past bij gezinnen die een rustige dag willen met een stukje geschiedenis, een grot en een wandeling of fietstocht door het Inndal.",
+   "en": "Angath lies at about 500 m in the lower Inn valley, near Kufstein. With under 3.5 km² and about 850 residents, it is one of the smallest municipalities in the area. It is not a tourist town but a quiet village with a history of its own.\n\nIn the 15th and 16th centuries Angath was a centre of Tyrolean river shipping and shipbuilding. Together with Hall in Tirol and Langkampfen it was one of the three main ports in Tirol. The parish church of the Holy Spirit on the southern edge of the village is mentioned as early as 1220 and took its Baroque form in 1746-47. On the Hundalm, at around 1,520 m, there is a dolomite and stalactite cave, which makes a special summer excursion.\n\nTraditions are still alive here, with folk evenings and square concerts, mainly in summer. Angath suits families who want a calm day with a bit of history, a cave and a walk or bike ride through the Inn valley.",
+   "de": "Angath liegt auf etwa 500 m im Unterinntal, in der Nähe von Kufstein. Mit nur rund 3,5 km² und etwa 850 Einwohnern ist es eine der kleinsten Gemeinden der Umgebung. Es ist kein Touristenort, sondern ein ruhiges Dorf mit eigener Geschichte.\n\nIm 15. und 16. Jahrhundert war Angath ein Zentrum der Tiroler Flussschifffahrt und des Schiffbaus. Zusammen mit Hall in Tirol und Langkampfen zählte es zu den drei wichtigsten Häfen Tirols. Die Pfarrkirche zum Heiligen Geist am Südrand des Dorfes wird schon 1220 erwähnt und erhielt 1746-47 ihre barocke Gestalt. Auf der Hundalm, auf rund 1.520 m, liegt eine Dolomit- und Tropfsteinhöhle, die im Sommer einen besonderen Ausflug bietet.\n\nBrauchtum wird hier weiterhin gepflegt, mit Heimatabenden und Platzkonzerten, vor allem im Sommer. Angath passt zu Familien, die einen ruhigen Tag mit etwas Geschichte, einer Höhle und einer Wanderung oder Radtour durchs Inntal verbinden möchten. Weil der Ort klein und überschaubar ist, lässt er sich leicht mit einem Besuch in Kufstein oder Wörgl zu einem abwechslungsreichen Tagesausflug verbinden."
+  },
+  "highlights": {
+   "nl": [
+    "Hundalm Eis- und Tropfsteinhöhle op ca. 1.520 m: de enige voor het publiek toegankelijke ijsgrot van West-Oostenrijk (alleen zomer, informeer vooraf).",
+    "Parochiekerk van de Heilige Geest, genoemd in 1220, met barokke bouw uit 1746-47.",
+    "Verleden als scheepvaarthaven: een van de drie belangrijkste havens van Tirol in de late middeleeuwen.",
+    "Volksavonden en pleinconcerten, vooral in de zomer.",
+    "E-bike- en wandelroutes door het Inndal."
+   ],
+   "en": [
+    "Hundalm ice and stalactite cave at around 1,520 m: the only publicly accessible ice cave in western Austria (summer only, check beforehand).",
+    "Parish church of the Holy Spirit, mentioned in 1220, with Baroque building work from 1746-47.",
+    "Past as a river port: one of the three main ports in Tirol in the late Middle Ages.",
+    "Folk evenings and square concerts, mainly in summer.",
+    "E-bike and walking routes through the Inn valley."
+   ],
+   "de": [
+    "Hundalm Eis- und Tropfsteinhöhle auf rund 1.520 m: die einzige öffentlich zugängliche Eishöhle Westösterreichs (nur Sommer, vorab informieren).",
+    "Pfarrkirche zum Heiligen Geist, 1220 erwähnt, mit barockem Bau von 1746-47.",
+    "Vergangenheit als Schifffahrtshafen: einer der drei wichtigsten Häfen Tirols im Spätmittelalter.",
+    "Heimatabende und Platzkonzerte, vor allem im Sommer.",
+    "E-Bike- und Wanderrouten durchs Inntal."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 30 minuten met de auto, via Wörgl en de Inntal-weg richting Kufstein. Controleer de route vooraf.",
+   "en": "From Niederau about 30 minutes by car, via Wörgl and the Inn valley road towards Kufstein. Check the route beforehand.",
+   "de": "Ab Niederau ca. 30 Minuten mit dem Auto, über Wörgl und die Inntalstraße Richtung Kufstein. Route vorab prüfen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die rust, geschiedenis en een bijzondere grot zoeken.",
+   "en": "Suits families looking for peace, history and an unusual cave.",
+   "de": "Passt zu Familien, die Ruhe, Geschichte und eine besondere Höhle suchen."
+  },
+  "season": {
+   "nl": "Vooral zomer (grot, folklore); de rest van het jaar rustig.",
+   "en": "Mainly summer (cave, folklore); quiet the rest of the year.",
+   "de": "Vor allem Sommer (Höhle, Brauchtum); sonst ruhig."
+  },
+  "drive_min": 30,
+  "elevation_m": 500,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is bijzonder aan Angath?",
+     "en": "What is special about Angath?",
+     "de": "Was ist an Angath besonders?"
+    },
+    "a": {
+     "nl": "Het was in de 15e en 16e eeuw een belangrijke rivierhaven voor de Tiroler scheepvaart; verder ligt de Hundalm-grot in de bergen erboven.",
+     "en": "In the 15th and 16th centuries it was an important river port for Tyrolean shipping; the Hundalm cave also lies in the mountains above.",
+     "de": "Im 15. und 16. Jahrhundert war es ein wichtiger Flusshafen der Tiroler Schifffahrt; außerdem liegt die Hundalm-Höhle in den Bergen darüber."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je de Hundalm-grot het hele jaar bezoeken?",
+     "en": "Can you visit the Hundalm cave all year?",
+     "de": "Kann man die Hundalm-Höhle ganzjährig besuchen?"
+    },
+    "a": {
+     "nl": "Waarschijnlijk niet; de grot ligt op ca. 1.520 m en is vooral in de zomer toegankelijk. Controleer vooraf de actuele openingstijden.",
+     "en": "Probably not; the cave lies at around 1,520 m and is mainly open in summer. Check current opening times beforehand.",
+     "de": "Wahrscheinlich nicht; die Höhle liegt auf rund 1.520 m und ist vor allem im Sommer zugänglich. Aktuelle Öffnungszeiten vorab prüfen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "slug": "langkampfen",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Langkampfen",
+   "en": "Langkampfen",
+   "de": "Langkampfen"
+  },
+  "tagline": {
+   "nl": "Inndal-gemeente bij Kufstein met twee meertjes en de Pendling",
+   "en": "Inn valley municipality near Kufstein with two lakes and the Pendling",
+   "de": "Inntal-Gemeinde bei Kufstein mit zwei Seen und dem Pendling"
+  },
+  "intro": {
+   "nl": "Langkampfen ligt op ongeveer 504 m in het Unterinntal, in het district Kufstein, en telt circa 3.560 inwoners. Tot de gemeente horen de dorpen Morsbach, Niederbreitenbach, Oberlangkampfen en Unterlangkampfen. Het is een rustige plek langs de Inn, vlak bij Kufstein.\n\nVoor gezinnen zijn vooral de twee meren interessant: het Strillinger Stausee van 1,7 hectare, geschikt voor wandelen en fietsen, en het Stimmersee van 2,9 hectare, dat van mei tot september populair is bij gezinnen en vrienden. Het Heimkehrerkreuz is een uitzichtpunt boven het dorp. In de omgeving staan de Pendling (1.563 m) en de Hundalm-ijsgrot als wandel- en uitstapdoel, en Kufstein met zijn bijna 800 jaar oude vesting is dichtbij.\n\nIn de middeleeuwen was Langkampfen een van de drie grote scheepvaarthavens van Tirol, naast Hall en Angath. Het dorp past bij gezinnen die rust zoeken, een middag aan het water willen doorbrengen en daarna naar Kufstein of de bergen willen doorrijden.",
+   "en": "Langkampfen lies at about 504 m in the lower Inn valley, in the Kufstein district, and has around 3,560 residents. The municipality includes the villages of Morsbach, Niederbreitenbach, Oberlangkampfen and Unterlangkampfen. It is a quiet spot along the Inn, close to Kufstein.\n\nFor families, the two lakes are of most interest: the 1.7-hectare Strillinger Stausee, suited to walks and cycling, and the 2.9-hectare Stimmersee, popular with families and friends from May to September. The Heimkehrerkreuz is a viewpoint above the village. Nearby are the Pendling (1,563 m) and the Hundalm ice cave as walking and excursion goals, and Kufstein, with its fortress of more than 800 years, is close.\n\nIn the Middle Ages Langkampfen was one of the three main river-shipping ports in Tirol, alongside Hall and Angath. The village suits families who want peace, an afternoon by the water and perhaps an onward trip to Kufstein or the mountains.",
+   "de": "Langkampfen liegt auf etwa 504 m im Unterinntal, im Bezirk Kufstein, und hat rund 3.560 Einwohner. Zur Gemeinde gehören die Dörfer Morsbach, Niederbreitenbach, Oberlangkampfen und Unterlangkampfen. Es ist ein ruhiger Ort am Inn, nahe Kufstein.\n\nFür Familien sind vor allem die beiden Seen interessant: der 1,7 Hektar große Strillinger Stausee, geeignet für Spaziergänge und Radtouren, und der 2,9 Hektar große Stimmersee, der von Mai bis September bei Familien und Freunden beliebt ist. Das Heimkehrerkreuz ist ein Aussichtspunkt über dem Ort. In der Umgebung liegen der Pendling (1.563 m) und die Hundalm-Eishöhle als Wander- und Ausflugsziele, und Kufstein mit seiner über 800 Jahre alten Festung ist nah.\n\nIm Mittelalter war Langkampfen einer der drei wichtigsten Schifffahrtshäfen Tirols, neben Hall und Angath. Der Ort passt zu Familien, die Ruhe suchen, einen Nachmittag am Wasser verbringen und danach nach Kufstein oder in die Berge weiterfahren möchten. Da die Entfernung zur Festungsstadt gering ist, lässt sich der Ausflug leicht mit einem Stadtbummel oder einem Besuch der Festung verbinden."
+  },
+  "highlights": {
+   "nl": [
+    "Stimmersee (ca. 2,9 ha): populair badmeer van mei tot september.",
+    "Strillinger Stausee (ca. 1,7 ha): rustig stuwmeer voor wandelen en fietsen.",
+    "Heimkehrerkreuz: uitzichtpunt met overzicht over Langkampfen en omgeving.",
+    "Pendling (1.563 m) in de buurt als wandelberg.",
+    "Hundalm-ijsgrot en vesting Kufstein als uitstapjes in de omgeving."
+   ],
+   "en": [
+    "Stimmersee (c. 2.9 ha): a popular bathing lake from May to September.",
+    "Strillinger Stausee (c. 1.7 ha): a quiet reservoir for walking and cycling.",
+    "Heimkehrerkreuz: a viewpoint overlooking Langkampfen and the surrounding area.",
+    "Pendling (1,563 m) nearby as a walking mountain.",
+    "Hundalm ice cave and Kufstein fortress as excursions in the area."
+   ],
+   "de": [
+    "Stimmersee (ca. 2,9 ha): beliebter Badesee von Mai bis September.",
+    "Strillinger Stausee (ca. 1,7 ha): ruhiger Stausee für Spaziergänge und Radtouren.",
+    "Heimkehrerkreuz: Aussichtspunkt mit Blick über Langkampfen und Umgebung.",
+    "Pendling (1.563 m) in der Nähe als Wanderberg.",
+    "Hundalm-Eishöhle und Festung Kufstein als Ausflugsziele in der Umgebung."
+   ]
+  },
+  "getting_there": {
+   "nl": "Vanaf Niederau ca. 35 minuten met de auto, via Wörgl en het Inntal richting Kufstein. Controleer de route vooraf.",
+   "en": "From Niederau about 35 minutes by car, via Wörgl and the Inn valley towards Kufstein. Check the route beforehand.",
+   "de": "Ab Niederau ca. 35 Minuten mit dem Auto, über Wörgl und das Inntal Richtung Kufstein. Route vorab prüfen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die een middag aan het water zoeken, met Kufstein vlakbij.",
+   "en": "Suits families looking for an afternoon by the water, with Kufstein close by.",
+   "de": "Passt zu Familien, die einen Nachmittag am Wasser suchen, mit Kufstein in der Nähe."
+  },
+  "season": {
+   "nl": "Vooral zomer (meren, wandelen).",
+   "en": "Mainly summer (lakes, walking).",
+   "de": "Vor allem Sommer (Seen, Wandern)."
+  },
+  "drive_min": 35,
+  "elevation_m": 504,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar kun je in Langkampfen zwemmen?",
+     "en": "Where can you swim in Langkampfen?",
+     "de": "Wo kann man in Langkampfen baden?"
+    },
+    "a": {
+     "nl": "Het Stimmersee is van mei tot september populair bij gezinnen. Informeer vooraf naar toegang en voorzieningen.",
+     "en": "The Stimmersee is popular with families from May to September. Check access and facilities beforehand.",
+     "de": "Der Stimmersee ist von Mai bis September bei Familien beliebt. Zugang und Ausstattung vorab erfragen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is Langkampfen van Kufstein?",
+     "en": "How far is Langkampfen from Kufstein?",
+     "de": "Wie weit ist Langkampfen von Kufstein entfernt?"
+    },
+    "a": {
+     "nl": "Langkampfen ligt vlak bij Kufstein, in hetzelfde district, op enkele minuten rijden.",
+     "en": "Langkampfen lies right next to Kufstein, in the same district, a few minutes by car.",
+     "de": "Langkampfen liegt direkt bei Kufstein, im selben Bezirk, wenige Autominuten entfernt."
+    }
+   }
+  ],
+  "verified": false
+ }
+]
