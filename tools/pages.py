@@ -128,10 +128,22 @@ def photo_html(f, lang):
     return ""
 
 # ---------- sfeerbeelden voor pagina's zonder eigen foto ----------
-GEN_POOL = {
- "summer": ["niederau-zomer-uitzicht-bergbank-heuvels", "niederau-zomer-heuvel-dorp-bewolkt", "niederau-zomer-bloemenweide-dorp-dal", "niederau-zomer-wandelpad-weide-bergdorp", "niederau-zomer-bergwater-stroompje", "niederau-zomer-dal-huizen-weiden", "niederau-zomer-zonsondergang-wolken-berg"],
- "winter": ["niederau-winter-sneeuwbos-dalzicht", "niederau-winter-besneeuwde-berghelling", "niederau-winter-hooischuurtjes-dal-sneeuw", "niederau-winter-piste-wolken-sparren-uitzicht", "niederau-piste-geprepareerd-besneeuwde-sparren", "niederau-winter-rijp-takken-wolken", "niederau-winter-berg-skistokken-pistemarkering"],
-}
+GEN_BLOCK = ("wastlhof", "familiealbum", "kind-slee", "skischool", "hart-", "sleeen", "skier-reeks", "bier", "ski-balkon", "uithangbord", "golf", "tuber", "tubing", "rivier", "kikkerkoning", "houtstapel", "smeedijzer", "opgezette", "konijn", "paard", "kerk-", "boomplatform", "meer-", "stoeltjeslift-meer", "kabelbaanmast", "stuwmeer", "mountaincarts", "koeien", "wandelweg-mist", "berghelling-regenjas", "ijsgrot", "kufstein", "inntal", "kinderclub", "jausenstation", "klimpark", "sneeuwval-avond", "talfest", "krautinger", "koets", "kinderen",
+             "tiroler-kaiserschmarrn", "sterrenhemel", "boerderijdieren", "brettljause", "fuchsia", "rodelen-avond", "alpbachtal-wildschoenau-familie", "skipauze", "springkussen", "openluchtbad-glijbaan", "snowboarder", "mountainbikers", "wandelen-gezin", "sneeuwschoenwandelen", "paragliden-startplaats", "rodelbaan-gras", "wandelaars-alm", "premium-card")
+GEN_WINTER = ("winter", "piste", "sneeuw", "ski", "sleeplift", "rodelbaan-bergzicht", "lanerk", "langlauf", "markbachjochbahn-gondel")
+_POOLS = {}
+_RR = {"winter": 0, "summer": 0}
+_PICKED = {}
+def gen_pool(season):
+    if not _POOLS:
+        pools = {"winter": [], "summer": []}
+        for f, al, kw, h in PHOTOS:
+            if any(b in f for b in GEN_BLOCK): continue
+            w, hh = img_dims(f)
+            if w < 700: continue
+            pools["winter" if any(k in f for k in GEN_WINTER) else "summer"].append(f)
+        _POOLS.update(pools)
+    return _POOLS[season]
 _DIMS = {}
 def img_dims(f):
     if f not in _DIMS:
@@ -140,8 +152,13 @@ def img_dims(f):
         _DIMS[f] = (int(out[0]), int(out[1])) if len(out) == 2 else (1000, 667)
     return _DIMS[f]
 def gen_pick(key, season):
-    pool = GEN_POOL[season]
-    return pool[sum(map(ord, key)) % len(pool)]
+    """Rondloop over alle geschikte foto's, zodat zoveel mogelijk eigen foto's gebruikt worden; per pagina vast (alle talen gelijk)."""
+    k = (key, season)
+    if k not in _PICKED:
+        pool = gen_pool(season)
+        _PICKED[k] = pool[_RR[season] % len(pool)]
+        _RR[season] += 1
+    return _PICKED[k]
 def gen_one(f, lang, attr=""):
     alts = next(al for ff, al, _k, _h in PHOTOS if ff == f)
     w, h = img_dims(f)
