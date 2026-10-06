@@ -1306,5 +1306,81 @@
    "tuin"
   ],
   false
+ ],
+ [
+  "niederau-smeedijzer-sierstuk-dak",
+  [
+   "Smeedijzeren sierstuk op het dak van een witte huisgevel met houten ramen",
+   "Wrought-iron ornament on the roof of a white house façade with wooden windows",
+   "Schmiedeeisernes Zierelement auf dem Dach einer weißen Hausfassade mit Holzfenstern"
+  ],
+  [
+   "smeedijzer",
+   "sierstuk",
+   "boerderij"
+  ],
+  false
+ ],
+ [
+  "niederau-winter-bier-terras-berghut",
+  [
+   "Glas bier op een winterterras met een besneeuwde helling, een berghut en een sneeuwscooter op de achtergrond",
+   "Glass of beer on a winter terrace with a snowy slope, a mountain hut and a snowmobile in the background",
+   "Glas Bier auf einer Winterterrasse mit verschneitem Hang, einer Berghütte und einem Schneemobil im Hintergrund"
+  ],
+  [
+   "apres-ski",
+   "terras",
+   "berghut",
+   "skihut",
+   "skihutten"
+  ],
+  false
+ ],
+ [
+  "niederau-winter-besneeuwde-berghelling",
+  [
+   "Besneeuwde berghelling met bos onder een heldere blauwe lucht",
+   "Snowy mountain slope with forest under a clear blue sky",
+   "Verschneiter Berghang mit Wald unter klarem blauem Himmel"
+  ],
+  [
+   "winterlandschap",
+   "sneeuw",
+   "skitour",
+   "uitzicht"
+  ],
+  false
+ ],
+ [
+  "niederau-winter-wild-konijn-sneeuw",
+  [
+   "Bruin wild konijn in de sneeuw",
+   "Brown wild rabbit in the snow",
+   "Braunes Wildkaninchen im Schnee"
+  ],
+  [
+   "konijn",
+   "dieren",
+   "dierenspoor",
+   "wild"
+  ],
+  false
+ ],
+ [
+  "niederau-winter-berg-skistokken-pistemarkering",
+  [
+   "Besneeuwde berg met bos en skiërssporen in de poedersneeuw, met skistokken en pistemarkering 15 op de voorgrond",
+   "Snowy mountain with forest and ski tracks in powder snow, with ski poles and piste marker 15 in the foreground",
+   "Verschneiter Berg mit Wald und Skispuren im Pulverschnee, im Vordergrund Skistöcke und Pistenmarkierung 15"
+  ],
+  [
+   "skiën",
+   "skitour",
+   "poedersneeuw",
+   "uitzicht",
+   "winterlandschap"
+  ],
+  false
  ]
 ]
