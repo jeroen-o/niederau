@@ -24,4 +24,25 @@
     <image:image><image:loc>https://niederau.nl/assets/img/niederau-winter-bauernhuis-hero-2048.webp</image:loc></image:image>
     <image:image><image:loc>https://niederau.nl/assets/img/markbachjoch-bergmeer-zomer-hero-2048.webp</image:loc></image:image>
     <image:image><image:loc>https://niederau.nl/assets/img/niederau-wildschoenau-tirol-1200x630.jpg</image:loc></image:image></url>
+  <url><loc>https://niederau.nl/markbachjoch/</loc><lastmod>2026-10-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://niederau.nl/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://niederau.nl/en/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://niederau.nl/de/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://niederau.nl/en/markbachjoch/"/>
+    <image:image><image:loc>https://niederau.nl/assets/img/niederau-markbachjochbahn-gondel.webp</image:loc></image:image>
+    <image:image><image:loc>https://niederau.nl/assets/img/niederau-skien-markbachjoch.webp</image:loc></image:image></url>
+  <url><loc>https://niederau.nl/en/markbachjoch/</loc><lastmod>2026-10-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://niederau.nl/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://niederau.nl/en/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://niederau.nl/de/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://niederau.nl/en/markbachjoch/"/>
+    <image:image><image:loc>https://niederau.nl/assets/img/niederau-markbachjochbahn-gondel.webp</image:loc></image:image>
+    <image:image><image:loc>https://niederau.nl/assets/img/niederau-skien-markbachjoch.webp</image:loc></image:image></url>
+  <url><loc>https://niederau.nl/de/markbachjoch/</loc><lastmod>2026-10-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://niederau.nl/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://niederau.nl/en/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://niederau.nl/de/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://niederau.nl/en/markbachjoch/"/>
+    <image:image><image:loc>https://niederau.nl/assets/img/niederau-markbachjochbahn-gondel.webp</image:loc></image:image>
+    <image:image><image:loc>https://niederau.nl/assets/img/niederau-skien-markbachjoch.webp</image:loc></image:image></url>
 </urlset>

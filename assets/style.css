@@ -174,7 +174,7 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 .site-footer a { color: #fff; }
 .site-footer .wrap { display: grid; gap: 28px; grid-template-columns: 2fr 1fr 1fr; }
 @media (max-width: 760px) { .site-footer .wrap { grid-template-columns: 1fr; } }
-.site-footer h4 { color: #fff; margin: 0 0 10px; font-size: 1rem; }
+.site-footer h3, .site-footer h4 { color: #fff; margin: 0 0 10px; font-size: 1rem; }
 .site-footer ul { list-style: none; padding: 0; margin: 0; }
 .site-footer li { margin-bottom: 6px; }
 .site-footer .lang { display: inline-flex; margin-left: 0; }
@@ -268,3 +268,14 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 .lb-prev { left: 12px; top: 50%; transform: translateY(-50%); }
 .lb-next { right: 12px; top: 50%; transform: translateY(-50%); }
 @media (max-width: 760px) { .photo-grid { grid-template-columns: repeat(2, minmax(0,1fr)); gap: 8px; } .lightbox figure { max-width: calc(100vw - 24px); } .lb-prev, .lb-next { top: auto; bottom: 16px; transform: none; } }
+
+/* Subpagina (Markbachjoch) */
+.page-hero { height: clamp(180px, 34vh, 360px); background: #dfe9f0 center / cover no-repeat; }
+[data-season="winter"] .page-hero { background-image: url("img/niederau-winter-bauernhuis-hero-2048.webp"); background-position: 70% center; }
+[data-season="summer"] .page-hero { background-image: url("img/markbachjoch-bergmeer-zomer-hero-2048.webp"); background-position: center 40%; }
+@media (max-width: 800px) {
+  [data-season="winter"] .page-hero { background-image: url("img/niederau-winter-bauernhuis-hero-1024.webp"); }
+  [data-season="summer"] .page-hero { background-image: url("img/markbachjoch-bergmeer-zomer-hero-1024.webp"); }
+}
+.breadcrumb { margin: 0 0 14px; font-size: .92rem; }
+.breadcrumb a { display: inline-block; padding: 6px 0; }

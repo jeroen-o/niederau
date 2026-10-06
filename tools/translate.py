@@ -684,6 +684,13 @@ GAL_PAIRS = [('Fotogalerij', 'Photo gallery', 'Fotogalerie'), ('Niederau en de W
 T['en'] += [(a, b) for a, b, c in GAL_PAIRS]
 T['de'] += [(a, c) for a, b, c in GAL_PAIRS]
 
+MB_PAIRS = [
+ ('<a href="markbachjoch/">Alles over het Markbachjoch →</a>', '<a href="markbachjoch/">Everything about the Markbachjoch →</a>', '<a href="markbachjoch/">Alles über das Markbachjoch →</a>'),
+ ('<a href="markbachjoch/">Alles over het Markbachjoch: liften, hutten en geschiedenis →</a>', '<a href="markbachjoch/">Everything about the Markbachjoch: lifts, huts and history →</a>', '<a href="markbachjoch/">Alles über das Markbachjoch: Lifte, Hütten und Geschichte →</a>'),
+]
+T['en'] += [(a, b) for a, b, c in MB_PAIRS]
+T['de'] += [(a, c) for a, b, c in MB_PAIRS]
+
 ok = True
 for lang in ("en", "de"):
     html = src
