@@ -1,0 +1,530 @@
+[
+ {
+  "slug": "pertisau",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Pertisau",
+   "en": "Pertisau",
+   "de": "Pertisau"
+  },
+  "tagline": {
+   "nl": "Dorp aan de westoever van de Achensee, aan de voet van het Karwendel",
+   "en": "Village on the western shore of Lake Achensee, at the foot of the Karwendel",
+   "de": "Dorf am Westufer des Achensees, am Fuß des Karwendel"
+  },
+  "intro": {
+   "nl": "Pertisau ligt op ca. 952 m hoogte direct aan de Achensee, het grootste meer van Tirol. Achter de huizen rijzen de bergen van het Karwendel op, het grootste natuurpark van Oostenrijk. Het dorp is klein, met ongeveer 750 inwoners, maar trekt veel gasten en is daardoor goed ingericht op vakantiegangers.\n\nVoor een dagje uit vanuit Niederau is Pertisau vooral interessant vanwege het water en het uitzicht. Een tocht met de boot van de Achenseeschifffahrt, die al sinds 1887 vaart en meerdere haltes langs de oever heeft, combineert goed met een wandeling langs het meer. In de omgeving vind je ook het Steinölmuseum over de oude winning van Tiroler steenolie.\n\nHet is een rustige bestemming met veel ruimte om buiten te zijn. In de zomer kun je wandelen, fietsen en watersporten, in de winter staan langlaufen en winterwandelen centraal. Reken op een flinke autorit, dus plan er een hele dag voor. Gezinnen met kinderen vinden er een overzichtelijke omgeving met strand, boottocht en korte wandelingen die ook met jonge kinderen goed te doen zijn.",
+   "en": "Pertisau lies at about 952 m directly on Lake Achensee, the largest lake in Tyrol. Behind the houses rise the mountains of the Karwendel, Austria's largest nature park. The village is small, with around 750 residents, but it welcomes many visitors and is well set up for holidaymakers.\n\nFor a day trip from Niederau, Pertisau is mainly worth visiting for the water and the views. A boat trip with the Achenseeschifffahrt, which has sailed since 1887 and calls at several stops along the shore, goes nicely with a walk beside the lake. Nearby you will also find the shale oil museum, which explains the old extraction of Tyrolean shale oil.\n\nIt is a quiet destination with plenty of space to be outdoors. In summer you can hike, cycle and enjoy water sports; in winter cross-country skiing and winter walks take centre stage. Expect a fairly long drive, so plan a full day. Families with children will find an easy-to-navigate setting with a beach, a boat trip and short walks that are manageable even with young children.",
+   "de": "Pertisau liegt auf rund 952 m Höhe direkt am Achensee, dem größten See Tirols. Hinter den Häusern erheben sich die Berge des Karwendels, des größten Naturparks Österreichs. Das Dorf ist mit etwa 750 Einwohnern klein, zieht aber viele Gäste an und ist gut auf Urlauber eingestellt.\n\nFür einen Ausflug von Niederau aus lohnt sich Pertisau vor allem wegen des Wassers und der Aussicht. Eine Fahrt mit der Achenseeschifffahrt, die seit 1887 verkehrt und mehrere Haltestellen am Ufer anfährt, lässt sich gut mit einem Spaziergang am See verbinden. In der Nähe befindet sich außerdem das Steinöl-Museum, das die frühere Gewinnung von Tiroler Steinöl erklärt.\n\nEs ist ein ruhiges Ziel mit viel Platz für draußen. Im Sommer kann man wandern, Rad fahren und Wassersport betreiben, im Winter stehen Langlaufen und Winterwandern im Mittelpunkt. Man sollte mit einer längeren Autofahrt rechnen und deshalb einen ganzen Tag einplanen. Familien mit Kindern finden hier eine überschaubare Umgebung mit Strand, Bootsfahrt und kurzen Spaziergängen, die auch mit kleinen Kindern gut machbar sind."
+  },
+  "highlights": {
+   "nl": [
+    "Boottocht met de Achenseeschifffahrt, die sinds 1887 vaart en meerdere haltes langs het meer heeft.",
+    "Wandelen en fietsen met het Karwendel als decor, in het grootste natuurpark van Oostenrijk.",
+    "Steinölmuseum over de winning van Tiroler steenolie (informeer vooraf naar openingstijden).",
+    "Watersporten op de Achensee in de zomer, zoals zwemmen, suppen en zeilen.",
+    "Langlaufen en winterwandelen rond het meer in de winter."
+   ],
+   "en": [
+    "Boat trip with the Achenseeschifffahrt, which has sailed since 1887 and has several stops along the lake.",
+    "Hiking and cycling with the Karwendel as a backdrop, in Austria's largest nature park.",
+    "Shale oil museum on the extraction of Tyrolean shale oil (check opening times beforehand).",
+    "Water sports on Lake Achensee in summer, such as swimming, paddleboarding and sailing.",
+    "Cross-country skiing and winter walks around the lake in winter."
+   ],
+   "de": [
+    "Bootsfahrt mit der Achenseeschifffahrt, die seit 1887 verkehrt und mehrere Haltestellen am See hat.",
+    "Wandern und Radfahren vor der Kulisse des Karwendels, im größten Naturpark Österreichs.",
+    "Steinöl-Museum zur Gewinnung von Tiroler Steinöl (Öffnungszeiten vorab prüfen).",
+    "Wassersport auf dem Achensee im Sommer, etwa Schwimmen, Stand-up-Paddling und Segeln.",
+    "Langlaufen und Winterwandern rund um den See im Winter."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 70 minuten rijden vanaf Niederau: via Wörgl over de A12 naar afrit Wiesing/Achensee en dan de B181 langs Maurach naar Pertisau. Er rijdt ook een bus vanaf station Jenbach.",
+   "en": "About 70 minutes by car from Niederau: via Wörgl on the A12 to the Wiesing/Achensee exit, then the B181 past Maurach to Pertisau. A bus also runs from Jenbach station.",
+   "de": "Etwa 70 Minuten Autofahrt ab Niederau: über Wörgl auf der A12 bis zur Ausfahrt Wiesing/Achensee, dann auf der B181 an Maurach vorbei nach Pertisau. Ab Bahnhof Jenbach fährt außerdem ein Bus."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die water, natuur en rust zoeken.",
+   "en": "Suits families looking for water, nature and quiet.",
+   "de": "Passt zu Familien, die Wasser, Natur und Ruhe suchen."
+  },
+  "season": {
+   "nl": "Het hele jaar, met de boot vooral in de zomer en langlaufen in de winter.",
+   "en": "Year-round; boats mainly in summer, cross-country skiing in winter.",
+   "de": "Ganzjährig; Schiffe vor allem im Sommer, Langlauf im Winter."
+  },
+  "drive_min": 70,
+  "elevation_m": 952,
+  "url": "https://www.achensee.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog ligt Pertisau?",
+     "en": "How high is Pertisau?",
+     "de": "Wie hoch liegt Pertisau?"
+    },
+    "a": {
+     "nl": "Pertisau ligt op ca. 952 m hoogte, direct aan de Achensee.",
+     "en": "Pertisau lies at about 952 m, directly on Lake Achensee.",
+     "de": "Pertisau liegt auf rund 952 m Höhe, direkt am Achensee."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je vanuit Pertisau met de boot over de Achensee?",
+     "en": "Can you take a boat across Lake Achensee from Pertisau?",
+     "de": "Kann man von Pertisau aus mit dem Schiff über den Achensee fahren?"
+    },
+    "a": {
+     "nl": "Ja, de Achenseeschifffahrt vaart sinds 1887 en heeft haltes bij onder meer Pertisau, Seespitz, Buchau, Achenseehof, Scholastika en Gaisalm. Controleer de dienstregeling vooraf.",
+     "en": "Yes, the Achenseeschifffahrt has sailed since 1887, with stops including Pertisau, Seespitz, Buchau, Achenseehof, Scholastika and Gaisalm. Check the timetable beforehand.",
+     "de": "Ja, die Achenseeschifffahrt verkehrt seit 1887 und hat unter anderem Haltestellen in Pertisau, Seespitz, Buchau, Achenseehof, Scholastika und Gaisalm. Den Fahrplan bitte vorab prüfen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "achenkirch",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Achenkirch",
+   "en": "Achenkirch",
+   "de": "Achenkirch"
+  },
+  "tagline": {
+   "nl": "Dorp aan het noordelijke einde van de Achensee, met meer, bergen en langlauf",
+   "en": "Village at the northern end of Lake Achensee, with lake, mountains and cross-country skiing",
+   "de": "Dorf am Nordende des Achensees mit See, Bergen und Langlauf"
+  },
+  "intro": {
+   "nl": "Achenkirch ligt op ca. 930 m hoogte aan het noordelijke uiteinde van de Achensee. Het is een van de dorpen rond het meer en ligt al dicht bij de Duitse grens. Het dorp heeft een barokke parochiekerk, de Annakapel op een heuvel en het Sixenhof, een museum over de lokale geschiedenis dat voor het eerst in 1361 werd genoemd.\n\nVoor een dagje uit vanuit Niederau is Achenkirch een verre maar afwisselende bestemming. In de zomer draait alles om het water en de bergen: zwemmen, suppen, zeilen, windsurfen, wandelen en fietsen. Tussen Achenkirch en Maurach ligt een hoogteparcours voor wie van klimmen houdt. In de zomer zijn er bovendien concerten van de plaatselijke muziekkapel.\n\nIn de winter is de omgeving vooral aantrekkelijk voor langlaufers, met veel kilometers aan loipes in de regio rond de Achensee. Het nabijgelegen skigebied Christlum is gericht op gezinnen. Reken op een lange autorit en bekijk het weer, want de dag is het prettigst met een vaste planning, zeker met kinderen. Het dorp past het best bij gezinnen die van natuur en rust houden.",
+   "en": "Achenkirch lies at about 930 m at the northern end of Lake Achensee. It is one of the villages around the lake and already close to the German border. The village has a baroque parish church, the Anna chapel on a hill and the Sixenhof, a local history museum first mentioned in 1361.\n\nFor a day trip from Niederau, Achenkirch is a distant but varied destination. In summer everything revolves around the water and the mountains: swimming, paddleboarding, sailing, windsurfing, hiking and cycling. Between Achenkirch and Maurach there is a high ropes course for those who like to climb. In summer there are also concerts by the local brass band.\n\nIn winter the area is particularly attractive for cross-country skiers, with many kilometres of trails in the region around Lake Achensee. The nearby Christlum ski area is geared towards families. Expect a long drive and check the weather, as the day is more pleasant with a firm plan, especially with children. The village suits families who like nature and quiet best.",
+   "de": "Achenkirch liegt auf etwa 930 m Höhe am Nordende des Achensees. Es ist eines der Dörfer rund um den See und liegt schon nahe der deutschen Grenze. Der Ort hat eine barocke Pfarrkirche, die Annakapelle auf einem Hügel und den Sixenhof, ein Heimatmuseum, das erstmals 1361 erwähnt wurde.\n\nFür einen Ausflug von Niederau aus ist Achenkirch ein weit entferntes, aber abwechslungsreiches Ziel. Im Sommer dreht sich alles um Wasser und Berge: Schwimmen, Stand-up-Paddling, Segeln, Windsurfen, Wandern und Radfahren. Zwischen Achenkirch und Maurach gibt es einen Hochseilgarten für alle, die gern klettern. Im Sommer finden außerdem Konzerte der örtlichen Musikkapelle statt.\n\nIm Winter ist die Umgebung besonders für Langläufer reizvoll, mit vielen Loipenkilometern in der Region rund um den Achensee. Das nahe Skigebiet Christlum ist auf Familien ausgerichtet. Man sollte mit einer langen Autofahrt rechnen und das Wetter prüfen, denn der Tag verläuft mit fester Planung angenehmer, besonders mit Kindern. Der Ort passt am besten zu Familien, die Natur und Ruhe mögen."
+  },
+  "highlights": {
+   "nl": [
+    "Zwemmen, suppen, zeilen en windsurfen op de Achensee in de zomer.",
+    "Waldhochseilgarten Achensee tussen Achenkirch en Maurach (informeer vooraf naar openingstijden).",
+    "Het Sixenhof, een museum over de lokale geschiedenis in een hoeve die al in 1361 wordt genoemd.",
+    "Barokke parochiekerk en Annakapel als korte culturele stop.",
+    "Langlaufen in de winter en gezinsvriendelijk skiën in het nabijgelegen Christlum."
+   ],
+   "en": [
+    "Swimming, paddleboarding, sailing and windsurfing on Lake Achensee in summer.",
+    "Waldhochseilgarten Achensee between Achenkirch and Maurach (check opening times beforehand).",
+    "The Sixenhof, a local history museum in a farmhouse first mentioned in 1361.",
+    "Baroque parish church and Anna chapel as a short cultural stop.",
+    "Cross-country skiing in winter and family-friendly skiing at nearby Christlum."
+   ],
+   "de": [
+    "Schwimmen, Stand-up-Paddling, Segeln und Windsurfen auf dem Achensee im Sommer.",
+    "Waldhochseilgarten Achensee zwischen Achenkirch und Maurach (Öffnungszeiten vorab prüfen).",
+    "Der Sixenhof, ein Heimatmuseum in einem Hof, der schon 1361 erwähnt wird.",
+    "Barocke Pfarrkirche und Annakapelle als kurzer Kulturstopp.",
+    "Langlaufen im Winter und familienfreundliches Skifahren im nahen Christlum."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 80 minuten rijden vanaf Niederau: via Wörgl over de A12 naar afrit Wiesing/Achensee, dan de B181 langs Maurach naar Achenkirch.",
+   "en": "About 80 minutes by car from Niederau: via Wörgl on the A12 to the Wiesing/Achensee exit, then the B181 past Maurach to Achenkirch.",
+   "de": "Etwa 80 Minuten Autofahrt ab Niederau: über Wörgl auf der A12 bis zur Ausfahrt Wiesing/Achensee, dann auf der B181 an Maurach vorbei nach Achenkirch."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die van water, natuur en langlaufen houden.",
+   "en": "Suits families who enjoy water, nature and cross-country skiing.",
+   "de": "Passt zu Familien, die Wasser, Natur und Langlaufen mögen."
+  },
+  "season": {
+   "nl": "Het hele jaar: watersport in de zomer, langlaufen in de winter.",
+   "en": "Year-round: water sports in summer, cross-country skiing in winter.",
+   "de": "Ganzjährig: Wassersport im Sommer, Langlaufen im Winter."
+  },
+  "drive_min": 80,
+  "elevation_m": 930,
+  "url": "https://www.achensee.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt Achenkirch?",
+     "en": "Where is Achenkirch?",
+     "de": "Wo liegt Achenkirch?"
+    },
+    "a": {
+     "nl": "Achenkirch ligt op ca. 930 m aan het noordelijke einde van de Achensee in Tirol, vlak bij de Duitse grens.",
+     "en": "Achenkirch lies at about 930 m at the northern end of Lake Achensee in Tyrol, close to the German border.",
+     "de": "Achenkirch liegt auf etwa 930 m am Nordende des Achensees in Tirol, nahe der deutschen Grenze."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je in Achenkirch in de winter langlaufen?",
+     "en": "Can you go cross-country skiing in Achenkirch in winter?",
+     "de": "Kann man in Achenkirch im Winter langlaufen?"
+    },
+    "a": {
+     "nl": "Ja, de regio rond de Achensee heeft veel kilometers aan loipes. Informeer vooraf naar de actuele sneeuwsituatie.",
+     "en": "Yes, the region around Lake Achensee has many kilometres of trails. Check current snow conditions beforehand.",
+     "de": "Ja, die Region rund um den Achensee hat viele Loipenkilometer. Die aktuelle Schneelage bitte vorab prüfen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "maurach",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Maurach",
+   "en": "Maurach",
+   "de": "Maurach"
+  },
+  "tagline": {
+   "nl": "Dorp aan de zuidkant van de Achensee met stoomtrein en Rofan-kabelbaan",
+   "en": "Village at the southern end of Lake Achensee with steam railway and Rofan cable car",
+   "de": "Dorf am Südende des Achensees mit Dampfzahnradbahn und Rofanseilbahn"
+  },
+  "intro": {
+   "nl": "Maurach ligt aan de zuidkant van de Achensee, rond 950 tot 970 m hoogte (bronnen verschillen). Het dorp ligt dicht bij het Inntal en is daardoor het makkelijkst bereikbare dorp aan het meer. Bekend zijn de Achensee Dampf-Zahnradbahn, die vanuit Jenbach naar het meer rijdt, en de Rofan Seilbahn.\n\nDe kabelbaan brengt je in enkele minuten naar ca. 1.840 m, het startpunt van veel wandelingen in het Rofangebergte. Bij de bergstation vind je ook het AIRROFAN, een vliegende attractie voor wie van snelheid houdt. In de zomer maakt de kabelbaan tochten met kinderen eenvoudig, omdat je niet eerst hoeft te klimmen. Beneden vind je het Erlebnispark Maurach met hoogteparcours en een reuzenschommel, en de strandjes met ondiep water bij Buchau.\n\nIn de winter is de Rofan een klein skigebied met ca. 11 km aan pistes, een rodelbaan van 1,5 km en een bewegwijzerde winterwandeling. De Notburgakerk uit 1718 is een van de mooiere barokke kerken van Tirol. Vanuit Niederau is Maurach een goed te plannen dagje, vooral voor gezinnen die berg en meer willen combineren.",
+   "en": "Maurach lies at the southern end of Lake Achensee, at around 950 to 970 m (sources differ). The village is close to the Inn valley, which makes it the easiest village on the lake to reach. It is known for the Achensee steam cog railway, which runs from Jenbach to the lake, and for the Rofan cable car.\n\nThe cable car takes you up to about 1,840 m in a few minutes, the starting point for many hikes in the Rofan mountains. At the top station you will also find the AIRROFAN, a flying attraction for those who like speed. In summer the cable car makes outings with children easy, since you do not have to climb first. Down below there is the Erlebnispark Maurach with a high ropes course and a giant swing, and the shallow beaches at Buchau.\n\nIn winter the Rofan is a small ski area with about 11 km of slopes, a 1.5 km toboggan run and a marked winter walking trail. The Notburga church from 1718 is one of the finer baroque churches in Tyrol. From Niederau, Maurach is an easy day to plan, especially for families who want to combine mountain and lake.",
+   "de": "Maurach liegt am Südende des Achensees, auf etwa 950 bis 970 m Höhe (die Quellen weichen ab). Das Dorf liegt nahe dem Inntal und ist damit der am leichtesten erreichbare Ort am See. Bekannt sind die Achensee Dampf-Zahnradbahn, die von Jenbach zum See fährt, und die Rofanseilbahn.\n\nDie Seilbahn bringt einen in wenigen Minuten auf rund 1.840 m, den Ausgangspunkt vieler Wanderungen im Rofangebirge. An der Bergstation befindet sich auch der AIRROFAN, eine Flugattraktion für Schnelligkeitsfans. Im Sommer machen Ausflüge mit Kindern mit der Seilbahn Spaß, weil man nicht erst steigen muss. Unten gibt es den Erlebnispark Maurach mit Hochseilgarten und Riesenschaukel sowie die flachen Badestrände bei Buchau.\n\nIm Winter ist das Rofan ein kleines Skigebiet mit rund 11 km Pisten, einer 1,5 km langen Rodelbahn und einem markierten Winterwanderweg. Die Notburgakirche von 1718 zählt zu den schöneren Barockkirchen Tirols. Von Niederau aus ist Maurach ein gut planbarer Tagesausflug, vor allem für Familien, die Berg und See verbinden wollen."
+  },
+  "highlights": {
+   "nl": [
+    "Rofan Seilbahn naar ca. 1.840 m, startpunt van wandelingen in het Rofangebergte.",
+    "AIRROFAN bij de bergstation voor wie van snelheid houdt (informeer vooraf naar voorwaarden).",
+    "Achensee Dampf-Zahnradbahn vanuit Jenbach, in de zomerperiode met historische stoomlocomotieven.",
+    "Erlebnispark Maurach met hoogteparcours en reuzenschommel.",
+    "In de winter skiën, rodelen en winterwandelen op de Rofan."
+   ],
+   "en": [
+    "Rofan cable car up to about 1,840 m, the starting point for hikes in the Rofan mountains.",
+    "AIRROFAN at the top station for those who like speed (check conditions beforehand).",
+    "Achensee steam cog railway from Jenbach, running with historic steam locomotives in the summer season.",
+    "Erlebnispark Maurach with high ropes course and giant swing.",
+    "In winter, skiing, tobogganing and winter walking on the Rofan."
+   ],
+   "de": [
+    "Rofanseilbahn auf rund 1.840 m, Ausgangspunkt für Wanderungen im Rofangebirge.",
+    "AIRROFAN an der Bergstation für Schnelligkeitsfans (Bedingungen vorab prüfen).",
+    "Achensee Dampf-Zahnradbahn ab Jenbach, in der Sommersaison mit historischen Dampflokomotiven.",
+    "Erlebnispark Maurach mit Hochseilgarten und Riesenschaukel.",
+    "Im Winter Skifahren, Rodeln und Winterwandern am Rofan."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau: via Wörgl over de A12 naar afrit Wiesing/Achensee, dan ca. 7 km over de B181 naar Maurach. Bus 8332 rijdt vanaf station Jenbach.",
+   "en": "About 60 minutes by car from Niederau: via Wörgl on the A12 to the Wiesing/Achensee exit, then about 7 km on the B181 to Maurach. Bus 8332 runs from Jenbach station.",
+   "de": "Etwa 60 Minuten Autofahrt ab Niederau: über Wörgl auf der A12 bis zur Ausfahrt Wiesing/Achensee, dann rund 7 km auf der B181 nach Maurach. Ab Bahnhof Jenbach fährt der Bus 8332."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die berg, meer en een beetje avontuur willen combineren.",
+   "en": "Suits families who want to combine mountain, lake and a bit of adventure.",
+   "de": "Passt zu Familien, die Berg, See und ein wenig Abenteuer verbinden wollen."
+  },
+  "season": {
+   "nl": "Het hele jaar: wandelen en meer in de zomer, skiën en rodelen in de winter.",
+   "en": "Year-round: hiking and lake in summer, skiing and tobogganing in winter.",
+   "de": "Ganzjährig: Wandern und See im Sommer, Skifahren und Rodeln im Winter."
+  },
+  "drive_min": 60,
+  "elevation_m": null,
+  "url": "https://www.achensee.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang duurt de rit met de Rofan Seilbahn?",
+     "en": "How long is the Rofan cable car ride?",
+     "de": "Wie lange dauert die Fahrt mit der Rofanseilbahn?"
+    },
+    "a": {
+     "nl": "Je bent in ca. 5 minuten bij de bergstation op ca. 1.840 m. In de winter rijdt de kabelbaan dagelijks, controleer de actuele tijden vooraf.",
+     "en": "You reach the top station at about 1,840 m in roughly 5 minutes. In winter the cable car runs daily; check current times beforehand.",
+     "de": "Man erreicht die Bergstation auf rund 1.840 m in etwa 5 Minuten. Im Winter fährt die Seilbahn täglich; aktuelle Zeiten bitte vorab prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe kom je zonder auto in Maurach?",
+     "en": "How do you get to Maurach without a car?",
+     "de": "Wie kommt man ohne Auto nach Maurach?"
+    },
+    "a": {
+     "nl": "Met de trein naar Jenbach en dan bus 8332 naar Maurach, ongeveer een half uur. Vanuit Niederau is een reis met meerdere overstappen wel langer dan met de auto.",
+     "en": "By train to Jenbach, then bus 8332 to Maurach, about half an hour. From Niederau, a journey with several changes takes noticeably longer than by car.",
+     "de": "Mit dem Zug nach Jenbach und dann mit dem Bus 8332 nach Maurach, etwa eine halbe Stunde. Ab Niederau dauert die Fahrt mit mehreren Umstiegen deutlich länger als mit dem Auto."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "ebbs",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Ebbs",
+   "en": "Ebbs",
+   "de": "Ebbs"
+  },
+  "tagline": {
+   "nl": "Dorp in het Unterinntal bij Kufstein, bekend om de Haflinger-fokkerij",
+   "en": "Village in the lower Inn valley near Kufstein, known for Haflinger breeding",
+   "de": "Dorf im Unterinntal bei Kufstein, bekannt für die Haflingerzucht"
+  },
+  "intro": {
+   "nl": "Ebbs ligt in het Unterinntal bij Kufstein, aan de oostzijde van de Inn en aan de voet van de Zahmer Kaiser. Met ca. 475 m is het volgens bronnen het laagstgelegen dorp van Tirol. Het dorp heeft rond 5.500 inwoners en hoort bij het toeristenbureau Kufsteinerland.\n\nBekendste attractie is de Fohlenhof Ebbs, het centrum van de Haflingerfokkerij. Hier staan veel bekende fokhengsten en merries van dit oorspronkelijk Tiroolse paardenras. De stallen en weides zijn te bezoeken, en op vrijdagavond is er volgens een bron een show die laat zien wat Haflingers allemaal kunnen. Controleer dit vooraf.\n\nVoor gezinnen is Ebbs vooral een handige uitvalsbasis voor een dag in de omgeving. Kufstein met de vesting ligt vlakbij, net als de Hechtsee, en de Zahmer Kaiser biedt wandelingen voor elk niveau. Ebbs zelf is een rustig plattelandsdorp: niet spectaculair, maar goed te combineren met een bezoek aan de paarden en een wandeling. Vanuit Niederau is het een korte tot middellange rit over de snelweg. Het past vooral bij gezinnen met paardenliefhebbers.",
+   "en": "Ebbs lies in the lower Inn valley near Kufstein, on the eastern side of the Inn and at the foot of the Zahmer Kaiser. At about 475 m it is, according to sources, the lowest-lying village in Tyrol. The village has around 5,500 residents and belongs to the Kufsteinerland tourist board.\n\nIts best-known attraction is the Fohlenhof Ebbs, the centre of Haflinger horse breeding. Many famous breeding stallions and mares of this originally Tyrolean breed are kept here. The stables and paddocks can be visited, and according to one source there is a show on Friday evenings demonstrating the versatility of Haflingers. Check this beforehand.\n\nFor families, Ebbs is mainly a handy base for a day in the area. Kufstein with its fortress is close by, as is the Hechtsee, and the Zahmer Kaiser offers walks for every level. Ebbs itself is a quiet rural village: not spectacular, but easy to combine with a visit to the horses and a walk. From Niederau it is a short to medium drive on the motorway. It suits families with horse lovers best.",
+   "de": "Ebbs liegt im Unterinntal bei Kufstein, östlich des Inns und am Fuß des Zahmen Kaisers. Mit rund 475 m ist es laut Quellen das tiefstgelegene Dorf Tirols. Der Ort hat etwa 5.500 Einwohner und gehört zum Tourismusverband Kufsteinerland.\n\nDie bekannteste Attraktion ist der Fohlenhof Ebbs, das Zentrum der Haflingerzucht. Hier stehen viele berühmte Zuchthengste und Stuten dieser ursprünglich Tiroler Pferderasse. Ställe und Koppeln können besichtigt werden, und laut einer Quelle gibt es freitagabends eine Show, die die Vielseitigkeit der Haflinger zeigt. Bitte vorab prüfen.\n\nFür Familien ist Ebbs vor allem ein praktischer Ausgangspunkt für einen Tag in der Umgebung. Kufstein mit der Festung liegt in der Nähe, ebenso der Hechtsee, und der Zahme Kaiser bietet Wanderungen für jedes Niveau. Ebbs selbst ist ein ruhiges Dorf auf dem Land: nicht spektakulär, aber gut mit einem Besuch bei den Pferden und einem Spaziergang zu verbinden. Von Niederau aus ist es eine kurze bis mittlere Fahrt über die Autobahn. Am besten passt es zu Familien mit Pferdefreunden."
+  },
+  "highlights": {
+   "nl": [
+    "Fohlenhof Ebbs, het verbandsgestuut van de Tiroler Haflinger-fokkerij, met stallen en weides.",
+    "Show met Haflingers op vrijdagavond volgens een bron (vooraf controleren).",
+    "Wandelen aan de voet van de Zahmer Kaiser.",
+    "Kufstein met de vesting op korte afstand.",
+    "De Hechtsee en andere meren in het Kufsteinerland als zwemstop in de zomer."
+   ],
+   "en": [
+    "Fohlenhof Ebbs, the breeding stud of the Tyrolean Haflinger association, with stables and paddocks.",
+    "Haflinger show on Friday evenings according to one source (check beforehand).",
+    "Walks at the foot of the Zahmer Kaiser.",
+    "Kufstein with its fortress a short distance away.",
+    "The Hechtsee and other lakes in the Kufsteinerland as a swimming stop in summer."
+   ],
+   "de": [
+    "Fohlenhof Ebbs, das Verbandsgestüt des Tiroler Haflingerzuchtverbands, mit Ställen und Koppeln.",
+    "Haflinger-Show freitagabends laut einer Quelle (vorab prüfen).",
+    "Spaziergänge am Fuß des Zahmen Kaisers.",
+    "Kufstein mit der Festung in kurzer Entfernung.",
+    "Der Hechtsee und weitere Seen im Kufsteinerland als Badestopp im Sommer."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 40 minuten rijden vanaf Niederau: via Wörgl over de A12 richting Kufstein, afrit Kufstein-Nord of Ebbs.",
+   "en": "About 40 minutes by car from Niederau: via Wörgl on the A12 towards Kufstein, exit Kufstein-Nord or Ebbs.",
+   "de": "Etwa 40 Minuten Autofahrt ab Niederau: über Wörgl auf der A12 Richtung Kufstein, Ausfahrt Kufstein-Nord bzw. Ebbs."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met paardenliefhebbers.",
+   "en": "Suits families with horse lovers.",
+   "de": "Passt zu Familien mit Pferdefreunden."
+  },
+  "season": {
+   "nl": "Het hele jaar, met de meeste buitenactiviteiten in de zomer.",
+   "en": "Year-round, with most outdoor activities in summer.",
+   "de": "Ganzjährig, die meisten Aktivitäten im Freien im Sommer."
+  },
+  "drive_min": 40,
+  "elevation_m": 475,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar staat Ebbs bekend om?",
+     "en": "What is Ebbs known for?",
+     "de": "Wofür ist Ebbs bekannt?"
+    },
+    "a": {
+     "nl": "Vooral om de Fohlenhof, het centrum van de Haflingerfokkerij in Tirol.",
+     "en": "Mainly for the Fohlenhof, the centre of Haflinger breeding in Tyrol.",
+     "de": "Vor allem für den Fohlenhof, das Zentrum der Haflingerzucht in Tirol."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe hoog ligt Ebbs?",
+     "en": "How high is Ebbs?",
+     "de": "Wie hoch liegt Ebbs?"
+    },
+    "a": {
+     "nl": "Ebbs ligt op ca. 475 m en wordt vaak het laagstgelegen dorp van Tirol genoemd.",
+     "en": "Ebbs lies at about 475 m and is often called the lowest-lying village in Tyrol.",
+     "de": "Ebbs liegt auf rund 475 m und gilt häufig als tiefstgelegenes Dorf Tirols."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "niederndorf",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Niederndorf",
+   "en": "Niederndorf",
+   "de": "Niederndorf"
+  },
+  "tagline": {
+   "nl": "Rustig dorp aan de Inn bij Kufstein, met Kaisergebergte en veel wandelroutes",
+   "en": "Quiet village on the Inn near Kufstein, with the Kaisergebirge and many walking routes",
+   "de": "Ruhiges Dorf am Inn bei Kufstein, mit Kaisergebirge und vielen Wanderrouten"
+  },
+  "intro": {
+   "nl": "Niederndorf ligt op ca. 500 m aan de oostoever van de Inn in het Unterinntal, ongeveer 10 km van Kufstein. Het is een klein vakantiedorp met rond 600 gastenbedden, aan de rand van het Kufsteinerland en met uitzicht op de Zahmer Kaiser.\n\nHet dorp is vooral aantrekkelijk voor wandelaars. Er zijn verschillende rondwandelingen zoals de Dorf-Runde, de Hechenberg-Runde en de Jennbach-Runde. Op de Hechenberg staat de bedevaartskapel Maria Heimsuchung uit 1778 met een klok uit 1557. De zuivelfabriek Hatzenstädt maakt al ruim 70 jaar biologische bergkaas en heeft een ecologisch-cultuurpad van 5 km. In het dorp zelf is een klein museum over lokaal ambacht.\n\nVoor de kinderen is er in de winter een rodelbaan van 1,2 km vanaf de Hechenberg naar het dorp. Daarnaast liggen er twee langlaufloipes, en grotere skigebieden zijn dichtbij. De Kaisertal-wandeling geldt als een van de mooiste in het Kaisergebergte. Vanuit Niederau is Niederndorf een dagtocht van een halfuur tot drie kwartier. Het past het best bij gezinnen die rustig willen wandelen en niet op drukte zitten te wachten.",
+   "en": "Niederndorf lies at about 500 m on the eastern bank of the Inn in the lower Inn valley, roughly 10 km from Kufstein. It is a small holiday village with around 600 guest beds, on the edge of the Kufsteinerland and with views of the Zahmer Kaiser.\n\nThe village is mainly attractive to walkers. There are several circular routes such as the Dorf-Runde, the Hechenberg-Runde and the Jennbach-Runde. On the Hechenberg stands the pilgrimage chapel Maria Heimsuchung from 1778, with a bell from 1557. The Hatzenstädt dairy has been making organic mountain cheese for over 70 years and has a 5 km eco-cultural trail. In the village itself there is a small museum on local crafts.\n\nFor children there is a 1.2 km toboggan run from the Hechenberg down to the village in winter. There are also two cross-country trails, and larger ski areas are nearby. The Kaisertal hike is considered one of the most beautiful in the Kaisergebirge. From Niederau, Niederndorf is a day trip of about half an hour to three quarters of an hour each way. It suits families who want a relaxed walk and are not looking for crowds.",
+   "de": "Niederndorf liegt auf rund 500 m am Ostufer des Inns im Unterinntal, etwa 10 km von Kufstein entfernt. Es ist ein kleiner Urlaubsort mit rund 600 Gästebetten, am Rand des Kufsteinerlands und mit Blick auf den Zahmen Kaiser.\n\nDer Ort ist vor allem für Wanderer attraktiv. Es gibt mehrere Rundwege wie die Dorf-Runde, die Hechenberg-Runde und die Jennbach-Runde. Auf dem Hechenberg steht die Wallfahrtskapelle Maria Heimsuchung von 1778 mit einer Glocke von 1557. Die Sennerei Hatzenstädt stellt seit über 70 Jahren Bio-Bergkäse her und hat einen 5 km langen Öko-Kulturpfad. Im Ort selbst gibt es ein kleines Museum über regionales Handwerk.\n\nFür Kinder gibt es im Winter eine 1,2 km lange Rodelbahn vom Hechenberg ins Dorf. Außerdem gibt es zwei Langlaufloipen, und größere Skigebiete sind nah. Die Kaisertal-Wanderung gilt als eine der schönsten im Kaisergebirge. Von Niederau aus ist Niederndorf ein Tagesausflug von einer halben bis dreiviertel Stunde pro Strecke. Am besten passt es zu Familien, die entspannt wandern wollen und keinen Trubel suchen."
+  },
+  "highlights": {
+   "nl": [
+    "Rondwandelingen als Dorf-Runde, Hechenberg-Runde en Jennbach-Runde.",
+    "Bedevaartskapel Maria Heimsuchung op de Hechenberg uit 1778.",
+    "Zuivelfabriek Hatzenstädt met bergkaas en een ecologisch-cultuurpad van 5 km.",
+    "Wandeling door het Kaisertal in het Kaisergebergte.",
+    "Rodelbaan van 1,2 km van de Hechenberg naar het dorp in de winter."
+   ],
+   "en": [
+    "Circular walks such as the Dorf-Runde, Hechenberg-Runde and Jennbach-Runde.",
+    "Pilgrimage chapel Maria Heimsuchung on the Hechenberg, built in 1778.",
+    "Hatzenstädt dairy with mountain cheese and a 5 km eco-cultural trail.",
+    "Hike through the Kaisertal in the Kaisergebirge.",
+    "1.2 km toboggan run from the Hechenberg to the village in winter."
+   ],
+   "de": [
+    "Rundwanderungen wie Dorf-Runde, Hechenberg-Runde und Jennbach-Runde.",
+    "Wallfahrtskapelle Maria Heimsuchung auf dem Hechenberg von 1778.",
+    "Sennerei Hatzenstädt mit Bergkäse und einem 5 km langen Öko-Kulturpfad.",
+    "Wanderung durch das Kaisertal im Kaisergebirge.",
+    "1,2 km lange Rodelbahn vom Hechenberg ins Dorf im Winter."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 45 minuten rijden vanaf Niederau: via Wörgl over de A12 richting Kufstein. Er rijden ook regionale bussen (lijnen 4030 en 4036).",
+   "en": "About 45 minutes by car from Niederau: via Wörgl on the A12 towards Kufstein. Regional buses (lines 4030 and 4036) also serve the village.",
+   "de": "Etwa 45 Minuten Autofahrt ab Niederau: über Wörgl auf der A12 Richtung Kufstein. Regionalbusse (Linien 4030 und 4036) halten ebenfalls im Ort."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die rustig willen wandelen.",
+   "en": "Suits families who want a relaxed walk.",
+   "de": "Passt zu Familien, die entspannt wandern wollen."
+  },
+  "season": {
+   "nl": "Het hele jaar, met wandelen in de zomer en rodelen en winterwandelen in de winter.",
+   "en": "Year-round, with walking in summer and tobogganing and winter walks in winter.",
+   "de": "Ganzjährig, mit Wandern im Sommer und Rodeln und Winterwandern im Winter."
+  },
+  "drive_min": 45,
+  "elevation_m": 500,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een rodelbaan in Niederndorf?",
+     "en": "Is there a toboggan run in Niederndorf?",
+     "de": "Gibt es in Niederndorf eine Rodelbahn?"
+    },
+    "a": {
+     "nl": "Ja, in de winter is er een rodelbaan van ca. 1,2 km van de Hechenberg naar het dorp. Informeer vooraf naar de actuele omstandigheden.",
+     "en": "Yes, in winter there is a toboggan run of about 1.2 km from the Hechenberg to the village. Check current conditions beforehand.",
+     "de": "Ja, im Winter gibt es eine rund 1,2 km lange Rodelbahn vom Hechenberg ins Dorf. Aktuelle Bedingungen bitte vorab prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Niederndorf geschikt voor wandelen met kinderen?",
+     "en": "Is Niederndorf suitable for walking with children?",
+     "de": "Ist Niederndorf zum Wandern mit Kindern geeignet?"
+    },
+    "a": {
+     "nl": "Ja, er zijn meerdere rondwandelingen vanuit het dorp, zoals de Dorf-Runde, die goed te doen zijn.",
+     "en": "Yes, there are several circular walks from the village, such as the Dorf-Runde, that are manageable.",
+     "de": "Ja, es gibt mehrere Rundwege ab dem Dorf, etwa die Dorf-Runde, die gut machbar sind."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "rotholz",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Rotholz",
+   "en": "Rotholz",
+   "de": "Rotholz"
+  },
+  "tagline": {
+   "nl": "Plaatsje in het Inntal met Schloss Rotholz en de Bijbelroute naar Rottenburg",
+   "en": "Hamlet in the Inn valley with Schloss Rotholz and the Bible Trail to Rottenburg",
+   "de": "Ortsteil im Inntal mit Schloss Rotholz und dem Bibelweg zur Rottenburg"
+  },
+  "intro": {
+   "nl": "Rotholz is een klein plaatsje in het Inntal, bij Jenbach en de ingang van het Zillertal. Volgens bronnen valt Rotholz onder de gemeente Strass im Zillertal, die op ca. 523 m ligt, terwijl het ook dicht bij Buch ligt. Het ligt dus niet in de Wildschönau, maar is vanuit Niederau goed te bereiken over de snelweg.\n\nHet dorp wordt gedomineerd door Schloss Rotholz uit de 16e eeuw, dat sinds 1879 als landbouwschool dient. Het kasteel is dus geen museum, maar een werkende school. Daarnaast staat er een laatgotische parochiekerk. Rotholz staat bekend als handelsplaats voor Tiroler fokvee.\n\nVoor gezinnen is de Bijbelroute het mooiste. Dit pad van ca. 3 km begint in Rotholz, voert langs houten beelden en de Notburga-spar, de hoogste spar van Tirol, en eindigt bij de ruïne van de Rottenburg. Hier kun je op een rustige manier een halve dag wandelen. Verder liggen er paden naar het Karwendel. Rotholz is geen toeristisch dorp met veel voorzieningen, dus het past het best bij gezinnen die een korte, rustige wandeling willen combineren met een bezoek aan een kasteel en een ruïne.",
+   "en": "Rotholz is a small hamlet in the Inn valley near Jenbach and the entrance to the Zillertal. According to sources, Rotholz belongs to the municipality of Strass im Zillertal, which lies at about 523 m, while it is also close to Buch. It is therefore not in the Wildschönau, but easy to reach from Niederau via the motorway.\n\nThe village is dominated by Schloss Rotholz from the 16th century, which has served as an agricultural school since 1879. The castle is therefore not a museum but a working school. There is also a late Gothic parish church. Rotholz is known as a trading place for Tyrolean breeding cattle.\n\nFor families, the Bible Trail is the highlight. This path of about 3 km starts in Rotholz, passes wooden sculptures and the Notburga spruce, the tallest spruce in Tyrol, and ends at the ruins of the Rottenburg. It makes for a relaxed half-day walk. Further paths lead into the Karwendel. Rotholz is not a tourist village with many facilities, so it suits families who want to combine a short, quiet walk with a visit to a castle and a ruin.",
+   "de": "Rotholz ist ein kleiner Ort im Inntal, bei Jenbach und am Eingang des Zillertals. Laut Quellen gehört Rotholz zur Gemeinde Strass im Zillertal, die auf etwa 523 m liegt, und liegt zudem nahe bei Buch. Es liegt also nicht in der Wildschönau, ist aber von Niederau über die Autobahn gut erreichbar.\n\nDer Ort wird von Schloss Rotholz aus dem 16. Jahrhundert geprägt, das seit 1879 als landwirtschaftliche Lehranstalt dient. Das Schloss ist also kein Museum, sondern eine aktive Schule. Außerdem gibt es eine spätgotische Pfarrkirche. Rotholz ist als Handelsplatz für Tiroler Zuchtvieh bekannt.\n\nFür Familien ist der Bibelweg das Schönste. Dieser rund 3 km lange Weg beginnt in Rotholz, führt an Holzskulpturen und der Notburga-Fichte, der höchsten Fichte Tirols, vorbei und endet an der Ruine Rottenburg. Er eignet sich für eine entspannte Halbtagswanderung. Weitere Wege führen ins Karwendel. Rotholz ist kein Touristenort mit vielen Einrichtungen, daher passt es zu Familien, die eine kurze, ruhige Wanderung mit dem Besuch eines Schlosses und einer Ruine verbinden wollen."
+  },
+  "highlights": {
+   "nl": [
+    "Bijbelroute van ca. 3 km met houten beelden en de Notburga-spar, die als hoogste spar van Tirol geldt.",
+    "Ruïne Rottenburg met de Verzoeningstrap, die aan de heilige Notburga herinnert.",
+    "Schloss Rotholz uit de 16e eeuw, tegenwoordig een landbouwschool (alleen van buiten te bekijken tenzij anders aangegeven).",
+    "Laatgotische parochiekerk in het dorp.",
+    "Verdere wandel- en fietsroutes richting het Karwendel."
+   ],
+   "en": [
+    "Bible Trail of about 3 km with wooden sculptures and the Notburga spruce, regarded as the tallest spruce in Tyrol.",
+    "Rottenburg ruins with the Reconciliation Staircase, commemorating Saint Notburga.",
+    "Schloss Rotholz from the 16th century, now an agricultural school (view from outside unless stated otherwise).",
+    "Late Gothic parish church in the village.",
+    "Further hiking and cycling routes towards the Karwendel."
+   ],
+   "de": [
+    "Bibelweg von rund 3 km mit Holzskulpturen und der Notburga-Fichte, die als höchste Fichte Tirols gilt.",
+    "Ruine Rottenburg mit der Versöhnungstreppe, die an die heilige Notburga erinnert.",
+    "Schloss Rotholz aus dem 16. Jahrhundert, heute eine Landwirtschaftsschule (nur von außen zu besichtigen, sofern nicht anders angegeben).",
+    "Spätgotische Pfarrkirche im Ort.",
+    "Weitere Wander- und Radrouten Richtung Karwendel."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten rijden vanaf Niederau: via Wörgl over de A12 richting Innsbruck, afrit Wiesing/Achensee of Jenbach.",
+   "en": "About 35 minutes by car from Niederau: via Wörgl on the A12 towards Innsbruck, exit Wiesing/Achensee or Jenbach.",
+   "de": "Etwa 35 Minuten Autofahrt ab Niederau: über Wörgl auf der A12 Richtung Innsbruck, Ausfahrt Wiesing/Achensee bzw. Jenbach."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die een korte, rustige wandeling met geschiedenis zoeken.",
+   "en": "Suits families looking for a short, quiet walk with some history.",
+   "de": "Passt zu Familien, die eine kurze, ruhige Wanderung mit Geschichte suchen."
+  },
+  "season": {
+   "nl": "Vooral van lente tot herfst, wanneer de wandeling het fijnst is.",
+   "en": "Mainly spring to autumn, when the walk is most pleasant.",
+   "de": "Vor allem von Frühling bis Herbst, wenn die Wanderung am angenehmsten ist."
+  },
+  "drive_min": 35,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar loopt de Bijbelroute in Rotholz naartoe?",
+     "en": "Where does the Bible Trail in Rotholz lead?",
+     "de": "Wohin führt der Bibelweg in Rotholz?"
+    },
+    "a": {
+     "nl": "Het pad van ca. 3 km begint in Rotholz en eindigt bij de ruïne Rottenburg, onderweg passeer je houten beelden en de Notburga-spar.",
+     "en": "The path of about 3 km starts in Rotholz and ends at the Rottenburg ruins, passing wooden sculptures and the Notburga spruce on the way.",
+     "de": "Der rund 3 km lange Weg beginnt in Rotholz und endet an der Ruine Rottenburg; unterwegs kommt man an Holzskulpturen und der Notburga-Fichte vorbei."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je Schloss Rotholz bezoeken?",
+     "en": "Can you visit Schloss Rotholz?",
+     "de": "Kann man Schloss Rotholz besichtigen?"
+    },
+    "a": {
+     "nl": "Het kasteel wordt sinds 1879 als landbouwschool gebruikt. Informeer vooraf of een bezoek van binnen mogelijk is.",
+     "en": "The castle has been used as an agricultural school since 1879. Check beforehand whether an interior visit is possible.",
+     "de": "Das Schloss wird seit 1879 als Landwirtschaftsschule genutzt. Bitte vorab erfragen, ob eine Besichtigung von innen möglich ist."
+    }
+   }
+  ],
+  "verified": false
+ }
+]
