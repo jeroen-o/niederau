@@ -62,6 +62,14 @@ UI = {
  "n_act_count": ("activiteiten", "activities", "Aktivitäten"),
  "min": ("min.", "min.", "Min."),
  "ca": ("ca.", "approx.", "ca."),
+ "stay_h": ("Verblijf in Niederau", "Stay in Niederau", "Übernachten in Niederau"),
+ "stay_p": ("Hotel Wastlhof, partner van Niederau.nl, is een familiehotel met binnen- en buitenzwembad, wellness en een eigen paardenstal, midden in het dorp. Voor meer overnachtingen en informatie kun je ook terecht bij het toeristenbureau van de Wildschönau.",
+            "Hotel Wastlhof, partner of Niederau.nl, is a family-run hotel with an indoor and an outdoor pool, wellness and its own riding stables, right in the village. For more places to stay and information you can also contact the Wildschönau tourist office.",
+            "Das Hotel Wastlhof, Partner von Niederau.nl, ist ein Familienhotel mit Hallen- und Freibad, Wellness und eigenem Reitstall, mitten im Dorf. Weitere Unterkünfte und Informationen gibt es auch beim Tourismusverband Wildschönau."),
+ "stay_hotel": ("Naar Hotel Wastlhof", "To Hotel Wastlhof", "Zum Hotel Wastlhof"),
+ "stay_vvv": ("Toeristenbureau Wildschönau", "Wildschönau tourist office", "Tourismusverband Wildschönau"),
+ "stay_more": ("Meer over verblijven in Niederau", "More about staying in Niederau", "Mehr zu Unterkünften in Niederau"),
+ "partner": ("Partner", "Partner", "Partner"),
  "act_in_theme": ("Activiteiten", "Activities", "Aktivitäten"),
 }
 def ui(k, lang): return UI[k][LANGS.index(lang)]
@@ -194,6 +202,7 @@ def u_theme(theme, lang): return f"/{PREFIX[lang]}{DIRS['act'][lang]}/{tslug(the
 def u_act(a, lang): return f"{u_theme(a['theme'], lang)}{a['slug_' + lang]}/"
 def u_place(p, lang): return f"/{PREFIX[lang]}{DIRS['place'][lang]}/{p['slug']}/"
 def u_region(r, lang): return f"/{PREFIX[lang]}{DIRS['region'][lang]}/{r}/"
+STAY_URL = {"nl": "/#verblijf", "en": "/en/#stay", "de": "/de/#unterkunft"}
 def home(lang): return "/" if lang == "nl" else f"/{lang}/"
 
 registry = []  # (key, {lang: url}, lastmod)
@@ -271,6 +280,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
 <main id="main">
 <section class="page-hero" aria-hidden="true"></section>
 {body}
+<section aria-labelledby="h-stay"><div class="wrap"><div class="card stay-card"><h2 id="h-stay">{ui("stay_h", lang)} <span class="chip">{ui("partner", lang)}</span></h2><p>{ui("stay_p", lang)}</p><p><a href="https://www.hotelwastlhof.at/" rel="noopener" target="_blank">{ui("stay_hotel", lang)}</a> · <a href="https://www.wildschoenau.com/" rel="noopener" target="_blank">{ui("stay_vvv", lang)}</a> · <a href="{STAY_URL[lang]}">{ui("stay_more", lang)}</a></p></div></div></section>
 </main>
 <footer class="site-footer">
   <div class="wrap">
@@ -380,7 +390,7 @@ def build_act(a):
              "containedInPlace": {"@type": "Place", "name": (L(p["name"], lang) if p else "Wildschönau") + ", Tirol, Austria"}},
         ] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
         write(urls[lang], shell(lang, a["id"], urls, f"{title_n} | Niederau.nl", desc, body, ld_graph, img=img))
-    registry.append((a["id"], urls))
+    registry.append((a["id"], urls, img))
 
 def build_place(p):
     urls = {l: u_place(p, l) for l in LANGS}
@@ -425,7 +435,7 @@ def build_place(p):
              "containedInPlace": {"@type": "AdministrativeArea", "name": "Tirol, Austria"}},
         ] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
         write(urls[lang], shell(lang, p["slug"], urls, f"{name}: {L(p.get('tagline', {}), lang)} | Niederau.nl"[:90] if False else f"{name} – {ui('n_place', lang)} Niederau | Niederau.nl", desc, body, ld_graph))
-    registry.append(("place:" + p["slug"], urls))
+    registry.append(("place:" + p["slug"], urls, None))
 
 def build_region(r):
     d = regions[r]
@@ -454,7 +464,7 @@ def build_region(r):
             {"@type": ["TouristDestination", "Place"], "name": name, "description": L(d.get("tagline", {}), lang), "url": BASE + urls[lang]},
         ] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
         write(urls[lang], shell(lang, "region:" + r, urls, f"{name} – {ui('n_place', lang)} Niederau | Niederau.nl", desc, body, ld_graph))
-    registry.append(("region:" + r, urls))
+    registry.append(("region:" + r, urls, None))
 
 def build_theme(t):
     d = themes[t]
@@ -488,7 +498,7 @@ def build_theme(t):
             {"@type": "ItemList", "name": name, "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": BASE + u_act(x, lang), "name": L(x["title"], lang)} for i, x in enumerate(ta)]},
         ] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
         write(urls[lang], shell(lang, "theme:" + t, urls, f"{name} | Niederau.nl", desc, body, ld_graph, img=img))
-    registry.append(("theme:" + t, urls))
+    registry.append(("theme:" + t, urls, None))
 
 def build_hub(kind):
     d = hubs.get("activities" if kind == "act" else "places", {})
@@ -516,7 +526,7 @@ def build_hub(kind):
             {"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
             dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})]
         write(urls[lang], shell(lang, "hub:" + kind, urls, f"{name} | Niederau.nl", desc, body, ld_graph, og_type="website"))
-    registry.append(("hub:" + kind, urls))
+    registry.append(("hub:" + kind, urls, None))
 
 def main():
     # oude uitvoer opruimen (alleen gegenereerde mappen)
@@ -529,7 +539,7 @@ def main():
     for t in themes: build_theme(t)
     if hubs.get("activities"): build_hub("act")
     if hubs.get("places"): build_hub("place")
-    reg = [{"key": k, "urls": u} for k, u in registry]
+    reg = [{"key": k, "urls": u, "img": i} for k, u, i in registry]
     json.dump(reg, open(DATA / "_registry.json", "w"), ensure_ascii=False)
     print(f"Pagina's gegenereerd: {len(acts)} activiteiten, {len(places)} plaatsen, {len(regions)} regio's, {len(themes)} thema's → {len(registry) * 3} bestanden")
 
