@@ -11,7 +11,8 @@ LANGS = ("nl", "en", "de")
 OG = f"{BASE}/assets/img/niederau-wildschoenau-tirol-1200x630.jpg"
 e = html.escape
 
-DIRS = {"act": {"nl": "activiteiten", "en": "activities", "de": "aktivitaeten"},
+DIRS = {"events": {"nl": "agenda", "en": "events", "de": "veranstaltungen"},
+        "act": {"nl": "activiteiten", "en": "activities", "de": "aktivitaeten"},
         "place": {"nl": "omgeving", "en": "nearby", "de": "umgebung"},
         "region": {"nl": "regio", "en": "region", "de": "region"}}
 PREFIX = {"nl": "", "en": "en/", "de": "de/"}
@@ -23,6 +24,7 @@ UI = {
  "n_home": ("Het dorp", "The village", "Das Dorf"),
  "n_act": ("Activiteiten", "Activities", "Aktivitäten"),
  "n_place": ("Omgeving", "Around Niederau", "Umgebung"),
+ "n_events": ("Agenda", "Events", "Veranstaltungen"),
  "n_mb": ("Markbachjoch", "Markbachjoch", "Markbachjoch"),
  "toggle_label": ("Wissel tussen zomer- en winterversie", "Switch between summer and winter version", "Zwischen Sommer- und Winterversion wechseln"),
  "toggle_s": ("☀ Zomer", "☀ Summer", "☀ Sommer"), "toggle_w": ("❄ Winter", "❄ Winter", "❄ Winter"),
@@ -310,6 +312,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
         <li><a href="{home(lang)}">{ui("f_back", lang)}</a></li>
         <li><a href="{u_hub("act", lang)}">{ui("n_act", lang)}</a></li>
         <li><a href="{u_hub("place", lang)}">{ui("n_place", lang)}</a></li>
+        <li><a href="{u_events(lang)}">{ui("n_events", lang)}</a></li>
         <li><a href="/{PREFIX[lang]}markbachjoch/">{ui("n_mb", lang)}</a></li>
       </ul>
     </div>
@@ -607,15 +610,53 @@ def build_coll(c):
         write(urls[lang], shell(lang, "coll:" + c, urls, f"{name} | Niederau.nl", desc, body, ld, og_type="website"))
     registry.append(("coll:" + c, urls, None))
 
+
+# ---------- evenementenkalender ----------
+EVENTS = json.load(open(DATA / "events.json", encoding="utf-8")) if (DATA / "events.json").exists() else []
+EV_TXT = {
+ "title": ("Evenementen en agenda in Niederau en omgeving", "Events and calendar in Niederau and around", "Veranstaltungen und Kalender in Niederau und Umgebung"),
+ "tagline": ("Feesten, concerten en seizoensstarts door het jaar", "Festivals, concerts and season openings through the year", "Feste, Konzerte und Saisonstarts im Jahresverlauf"),
+ "intro": ("Door het jaar heen valt er in de Wildschönau en omgeving van alles te beleven: van de Krautingerwoche en de adventstijd tot het Talfest en de Almabtrieb. Hieronder staan terugkerende evenementen, op volgorde vanaf de komende maanden. Datums kunnen per jaar verschillen; waar een datum is bevestigd, staat die erbij.\n\nControleer de actuele data altijd bij het toeristenbureau of de organisator voordat je plannen maakt.",
+           "Through the year there is plenty to experience in the Wildschönau and around: from the Krautinger Week and Advent to the valley festival and the Almabtrieb. Below you will find recurring events, in order starting from the coming months. Dates can differ from year to year; where a date has been confirmed, it is given.\n\nAlways check current dates with the tourist office or the organiser before making plans.",
+           "Im Lauf des Jahres gibt es in der Wildschönau und Umgebung viel zu erleben: von der Krautingerwoche und der Adventszeit bis zum Talfest und zum Almabtrieb. Unten stehen wiederkehrende Veranstaltungen, beginnend mit den kommenden Monaten. Termine können sich von Jahr zu Jahr unterscheiden; wo ein Datum bestätigt ist, wird es genannt.\n\nBitte aktuelle Termine immer beim Tourismusverband oder Veranstalter prüfen, bevor Sie planen."),
+ "when": ("Wanneer", "When", "Wann"),
+}
+def u_events(lang): return f"/{PREFIX[lang]}{DIRS['events'][lang]}/"
+def build_events():
+    if not EVENTS: return
+    urls = {l: u_events(l) for l in LANGS}
+    cur = int(TODAY[5:7])
+    evs = sorted(EVENTS, key=lambda x: ((x["month"] - cur) % 12, x["id"]))
+    for lang in LANGS:
+        i = LANGS.index(lang); name = EV_TXT["title"][i]
+        cr, cr_ld = crumbs(lang, [(name, urls[lang])])
+        intro = "".join(f"<p>{e(x)}</p>" for x in paras(EV_TXT["intro"][i]))
+        cards = []
+        for x in evs:
+            pl = place_by.get(x.get("place") or "")
+            plh = f'<p>{ui("near", lang)}: <a href="{u_place(pl, lang)}">{e(L(pl["name"], lang))}</a></p>' if pl else ""
+            lk = f'<p><a href="{e(x["url"])}" rel="noopener" target="_blank">{ui("website", lang)}</a></p>' if x.get("url") else ""
+            ds = "".join(f"<p>{e(t)}</p>" for t in paras(L(x["desc"], lang)))
+            cards.append(f'<article class="card"><h3>{e(L(x["name"], lang))}</h3><p><span class="chip">{e(L(x["when"], lang))}</span></p>{ds}{plh}{lk}</article>')
+        body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(EV_TXT["tagline"][i])}</p>{intro}</div></section>
+<section class="alt"><div class="wrap"><div class="grid grid-two">{"".join(cards)}</div><p class="note">{ui("check", lang)}</p></div></section>'''
+        desc = (EV_TXT["tagline"][i] + ". " + paras(EV_TXT["intro"][i])[0])[:300]
+        ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+              dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"}),
+              {"@type": "ItemList", "name": name, "itemListElement": [{"@type": "ListItem", "position": n + 1, "name": L(x["name"], lang)} for n, x in enumerate(evs)]}]
+        write(urls[lang], shell(lang, "events", urls, f"{name} | Niederau.nl", desc, body, ld, og_type="website"))
+    registry.append(("events", urls, None))
+
 def main():
     # oude uitvoer opruimen (alleen gegenereerde mappen)
-    for kind in DIRS:
+    for kind in list(DIRS):
         for lang in LANGS:
             shutil.rmtree(ROOT / PREFIX[lang] / DIRS[kind][lang], ignore_errors=True)
     for a in acts: build_act(a)
     for p in places: build_place(p)
     for r in regions: build_region(r)
     for t in themes: build_theme(t)
+    build_events()
     for c in COLL: build_coll(c)
     if hubs.get("activities"): build_hub("act")
     if hubs.get("places"): build_hub("place")

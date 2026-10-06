@@ -221,6 +221,9 @@ if _reg.exists():
 - Activity guide by theme (hiking, swimming, skiing, winter fun, cycling, adventure, animals, culture, attractions, day trips, wellness, workshops, golf): {BASE}/en/activities/ (NL {BASE}/activiteiten/, DE {BASE}/de/aktivitaeten/). Each activity has its own page with facts, tips and FAQ. Information is indicative; times and prices change, check with the provider.
 - Places and regions around Niederau (Wildschönau, Alpbachtal, Brixental and Kitzbühel Alps, Kufsteinerland and Wilder Kaiser, Inn valley incl. Innsbruck, Zillertal incl. Mayrhofen and Hintertux): {BASE}/en/nearby/ (NL {BASE}/omgeving/, DE {BASE}/de/umgebung/).
 
+- Overviews: winter ({BASE}/activiteiten/winter/), summer ({BASE}/activiteiten/zomer/), what to do when it rains ({BASE}/activiteiten/regendag/) and with kids ({BASE}/activiteiten/met-kinderen/); English and German versions under /en/activities/ and /de/aktivitaeten/.
+- Events calendar (recurring events such as Krautinger Week, Wildschönau valley festival, Almabtrieb, Advent, ski opening): {BASE}/en/events/ (NL {BASE}/agenda/, DE {BASE}/de/veranstaltungen/). Dates vary by year; check with the organiser.
+
 ## Tourist office
 - Wildschönau Tourismus (tourist office for Niederau and the whole valley): Hauserweg, Oberau 337, 6311 Wildschönau, +43 5339 8255, info@wildschoenau.com, https://www.wildschoenau.com/ – accommodation in all four villages, events, lift and trail information.
 

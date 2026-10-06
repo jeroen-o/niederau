@@ -701,6 +701,10 @@ HUB_PAIRS = [
 T['en'] += [(a, b) for a, b, c in HUB_PAIRS]
 T['de'] += [(a, c) for a, b, c in HUB_PAIRS]
 
+EV_PAIRS = [('<li><a href="agenda/">Agenda</a></li>', '<li><a href="events/">Events</a></li>', '<li><a href="veranstaltungen/">Veranstaltungen</a></li>')]
+T['en'] += [(a, b) for a, b, c in EV_PAIRS]
+T['de'] += [(a, c) for a, b, c in EV_PAIRS]
+
 ok = True
 for lang in ("en", "de"):
     html = src
