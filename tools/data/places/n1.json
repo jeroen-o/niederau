@@ -1,0 +1,539 @@
+[
+ {
+  "slug": "kelchsau",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Kelchsau",
+   "en": "Kelchsau",
+   "de": "Kelchsau"
+  },
+  "tagline": {
+   "nl": "Rustig bergdal bij Hopfgarten, met oude houten boerderijen en alpenkapel",
+   "en": "A quiet side valley near Hopfgarten with old log farmhouses and an alpine chapel",
+   "de": "Ruhiges Seitental bei Hopfgarten mit alten Holzhäusern und Almkapelle"
+  },
+  "intro": {
+   "nl": "Kelchsau is een dorp in een zijdal ten zuiden van Hopfgarten im Brixental en hoort bij die gemeente. Het ligt op ongeveer 820 m in de Kitzbüheler Alpen en telt zo'n 750 inwoners. Wie rust zoekt, is hier op de juiste plek.\n\nHet dal loopt ruim 10 km zuidwaarts en splitst dan in de Lange Grund en de Korte Grund, die tot aan de hoofdkam van de Kitzbüheler Alpen reiken. Rond het dorp staan traditionele houten boerderijen, een deel uit de gotische tijd, en de Fuchswirt is een gasthof uit de 18e eeuw. Het skigebiedje van het dorp is sinds 2021 gesloten.\n\nKelchsau past bij gezinnen die van wandelen, alpenweiden en lokale zuivel houden en geen drukte nodig hebben. In de winter rijd je voor het skiën naar de nabije SkiWelt Wilder Kaiser-Brixental. Vanuit Niederau is het een rustige rit door het Brixental, een prima halve dag of dagje uit. Neem goede wandelschoenen en iets te eten mee, want onderweg zijn niet overal voorzieningen. Informeer bij alpenhutten vooraf naar de openingstijden.",
+   "en": "Kelchsau is a village in a side valley south of Hopfgarten im Brixental and belongs to that municipality. It lies at about 820 m in the Kitzbühel Alps and has roughly 750 residents. It is a good choice if you want peace and quiet.\n\nThe valley runs more than 10 km southwards before splitting into the Langer Grund and the Kurzer Grund, which reach as far as the main ridge of the Kitzbühel Alps. Around the village you will find traditional log farmhouses, some from the Gothic period, and the Fuchswirt inn dates from the 18th century. The village's small ski area has been closed since 2021.\n\nKelchsau suits families who enjoy walking, alpine pastures and local dairy products and do not need crowds. In winter you drive to the nearby SkiWelt Wilder Kaiser-Brixental for skiing. From Niederau it is a relaxed drive through the Brixental, ideal for a half-day or day trip. Bring sturdy walking shoes and some food, as facilities along the way are limited. Check the opening times of alpine huts beforehand.",
+   "de": "Kelchsau ist ein Dorf in einem Seitental südlich von Hopfgarten im Brixental und gehört zu dieser Gemeinde. Es liegt auf etwa 820 m in den Kitzbüheler Alpen und hat rund 750 Einwohner. Wer Ruhe sucht, ist hier richtig.\n\nDas Tal zieht sich gut 10 km nach Süden und teilt sich dann in den Langen Grund und den Kurzen Grund, die bis zum Hauptkamm der Kitzbüheler Alpen reichen. Im Ort stehen traditionelle Holzhäuser, teils aus der Gotik, und der Fuchswirt ist ein Gasthof aus dem 18. Jahrhundert. Das kleine Skigebiet des Ortes ist seit 2021 geschlossen.\n\nKelchsau passt zu Familien, die gern wandern, Almwiesen und regionale Milchprodukte schätzen und keinen Trubel brauchen. Zum Skifahren im Winter fährt man in die nahe SkiWelt Wilder Kaiser-Brixental. Von Niederau aus ist es eine entspannte Fahrt durchs Brixental, ideal für einen Halb- oder Tagesausflug. Gutes Schuhwerk und etwas Proviant sind empfehlenswert, da unterwegs nicht überall Einkehrmöglichkeiten liegen. Öffnungszeiten von Almhütten vorab erfragen."
+  },
+  "highlights": {
+   "nl": [
+    "Wandelen in de Lange Grund en Korte Grund, de twee zijdalen die naar de hoofdkam leiden.",
+    "De Salvenkapel op ca. 1.829 m, een van de hoogstgelegen kerkjes van Oostenrijk, als doel van een bergtocht.",
+    "De Niederkaser-alm met kaasmakerij aan het einde van de Korte Grund (informeer vooraf naar de openingstijden).",
+    "Oude houten boerderijen en gasthof Fuchswirt in het dorp.",
+    "In de winter sneeuwwandelen en op ca. 20 minuten rijden de pistes van de SkiWelt."
+   ],
+   "en": [
+    "Walking in the Langer Grund and Kurzer Grund, the two side valleys leading to the main ridge.",
+    "The Salven chapel at about 1,829 m, one of the highest churches in Austria, as a mountain-hike goal.",
+    "The Niederkaser alp with its cheese dairy at the end of the Kurzer Grund (check opening times beforehand).",
+    "Old log farmhouses and the Fuchswirt inn in the village.",
+    "In winter, snowshoeing and, about 20 minutes away by car, the SkiWelt pistes."
+   ],
+   "de": [
+    "Wandern im Langen Grund und Kurzen Grund, den beiden Seitentälern zum Hauptkamm.",
+    "Das Salvenkirchlein auf rund 1.829 m, eine der höchstgelegenen Kirchen Österreichs, als Ziel einer Bergtour.",
+    "Die Niederkaser Alm mit Almkäserei am Ende des Kurzen Grundes (Öffnungszeiten vorab erfragen).",
+    "Alte Holzhäuser und der Gasthof Fuchswirt im Ort.",
+    "Im Winter Schneeschuhwandern, und etwa 20 Autominuten entfernt die Pisten der SkiWelt."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 45 minuten rijden vanaf Niederau: via Oberau naar Wörgl en vandaan het Brixental in naar Hopfgarten, daar rechtsaf het Kelchsautal in.",
+   "en": "About 45 minutes by car from Niederau: via Oberau to Wörgl, then through the Brixental to Hopfgarten and into the Kelchsau valley.",
+   "de": "Ca. 45 Minuten mit dem Auto ab Niederau: über Oberau nach Wörgl, dann durchs Brixental nach Hopfgarten und ins Kelchsauer Tal."
+  },
+  "best_for": {
+   "nl": "Past bij rustzoekers en wandelaars met kinderen.",
+   "en": "Suits peace-seekers and hikers with children.",
+   "de": "Passt zu Ruhesuchenden und Wanderern mit Kindern."
+  },
+  "season": {
+   "nl": "Vooral zomer en herfst; in de winter rustig dal.",
+   "en": "Mainly summer and autumn; a quiet valley in winter.",
+   "de": "Vor allem Sommer und Herbst; im Winter ein stilles Tal."
+  },
+  "drive_min": 45,
+  "elevation_m": 820,
+  "url": "",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er nog een skigebied in Kelchsau?",
+     "en": "Is there still a ski area in Kelchsau?",
+     "de": "Gibt es in Kelchsau noch ein Skigebiet?"
+    },
+    "a": {
+     "nl": "Nee, het kleine skigebied is in 2021 om economische redenen gesloten. De SkiWelt Wilder Kaiser-Brixental ligt vlakbij.",
+     "en": "No, the small ski area closed in 2021 for economic reasons. The SkiWelt Wilder Kaiser-Brixental is close by.",
+     "de": "Nein, das kleine Skigebiet wurde 2021 aus wirtschaftlichen Gründen eingestellt. Die SkiWelt Wilder Kaiser-Brixental liegt in der Nähe."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is er te zien in Kelchsau?",
+     "en": "What is there to see in Kelchsau?",
+     "de": "Was gibt es in Kelchsau zu sehen?"
+    },
+    "a": {
+     "nl": "Oude houten boerderijen, het Salvenkapelletje op ca. 1.829 m en de Niederkaser-alm met kaasmakerij.",
+     "en": "Old log farmhouses, the Salven chapel at about 1,829 m and the Niederkaser alp with its cheese dairy.",
+     "de": "Alte Holzhäuser, das Salvenkirchlein auf rund 1.829 m und die Niederkaser Alm mit Almkäserei."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "going",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Going am Wilden Kaiser",
+   "en": "Going am Wilden Kaiser",
+   "de": "Going am Wilden Kaiser"
+  },
+  "tagline": {
+   "nl": "Rustig Kaiserdorp met barokke kerk, badmeer en Astberg",
+   "en": "A quiet Kaiser village with a Baroque church, bathing lake and the Astberg",
+   "de": "Ruhiges Kaiserdorf mit Barockkirche, Badesee und Astberg"
+  },
+  "intro": {
+   "nl": "Going am Wilden Kaiser ligt op ongeveer 773 m aan de voet van het Kaisergebergte, in het Sölllandl in het district Kitzbühel. De gemeente telt zo'n 2.000 inwoners en heeft een rustiger karakter dan de buren Söll en Ellmau.\n\nHet dorp is bekend om zijn barokke parochiekerk, met binnen onder meer een Madonna uit 1480. In de zomer zijn er het Goinger Badesee, het veenlandschap Moor & more, de Pony Alm op de Astberg en het Astbergsee, waarin het Kaisergebergte weerspiegelt. Het toeristenseizoen loopt ruwweg van mei tot november.\n\nIn de winter hoort Going bij de SkiWelt Wilder Kaiser-Brixental en geldt als het oostelijke, sneeuwrijke deel. Er zijn ook langlaufloipes, rodelbanen, winterwandelpaden en een schaatsbaan. Een mooi doel voor gezinnen die vanuit Niederau een rustige dag in het Kaisergebied willen. Het dorp is overzichtelijk en goed met kinderen te doen; combineer het met een wandeling naar het Astbergsee of een bezoek aan Ellmau. Controleer vooraf de actuele openingstijden.",
+   "en": "Going am Wilden Kaiser lies at about 773 m at the foot of the Kaiser mountains, in the Sölllandl in the Kitzbühel district. The municipality has around 2,000 residents and is calmer than its neighbours Söll and Ellmau.\n\nThe village is known for its Baroque parish church, which holds a Madonna from 1480, among other treasures. In summer there is the Goinger bathing lake, the Moor & more bog area, the Pony Alm on the Astberg and the Astbergsee, where the Kaiser range is mirrored in the water. The tourist season runs roughly from May to November.\n\nIn winter Going belongs to the SkiWelt Wilder Kaiser-Brixental and is regarded as its eastern, snow-rich part. There are also cross-country trails, toboggan runs, winter walking paths and an ice rink. A good target for families from Niederau who want a calm day in the Kaiser area. The village is compact and easy with children; combine it with a walk to the Astbergsee or a visit to Ellmau. Check current opening times beforehand.",
+   "de": "Going am Wilden Kaiser liegt auf etwa 773 m am Fuß des Kaisergebirges, im Sölllandl im Bezirk Kitzbühel. Die Gemeinde hat rund 2.000 Einwohner und ist ruhiger als die Nachbarn Söll und Ellmau.\n\nDer Ort ist bekannt für seine barocke Pfarrkirche, in der unter anderem eine Madonna von 1480 steht. Im Sommer gibt es den Goinger Badesee, das Moorgebiet Moor & more, die Pony Alm am Astberg und den Astbergsee, in dem sich der Kaiser spiegelt. Die Saison dauert grob von Mai bis November.\n\nIm Winter gehört Going zur SkiWelt Wilder Kaiser-Brixental und gilt als deren östlicher, schneereicher Teil. Es gibt außerdem Loipen, Rodelbahnen, Winterwanderwege und eine Eisbahn. Ein schönes Ziel für Familien aus Niederau, die einen ruhigen Tag im Kaisergebiet verbringen möchten. Der Ort ist überschaubar und mit Kindern gut machbar; kombinieren Sie ihn mit einer Wanderung zum Astbergsee oder einem Besuch in Ellmau. Aktuelle Öffnungszeiten vorab prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "De barokke parochiekerk met onder meer een Madonna uit 1480.",
+    "Het Goinger Badesee, een zwemplek voor gezinnen in de zomer.",
+    "Moor & more: veenlandschap met uitleg over planten en dieren.",
+    "Pony Alm en Astbergsee op de Astberg, met spiegelbeeld van het Kaisergebergte.",
+    "In de winter de rodelbaan van de Astberg naar Going of Ellmau en de pistes van de SkiWelt."
+   ],
+   "en": [
+    "The Baroque parish church, which holds a Madonna from 1480 among other things.",
+    "The Goinger bathing lake, a family swimming spot in summer.",
+    "Moor & more: a bog landscape with information on plants and animals.",
+    "Pony Alm and Astbergsee on the Astberg, with the Kaiser range reflected in the lake.",
+    "In winter, the toboggan run from the Astberg down to Going or Ellmau and the SkiWelt pistes."
+   ],
+   "de": [
+    "Die barocke Pfarrkirche mit unter anderem einer Madonna von 1480.",
+    "Der Goinger Badesee, im Sommer ein Badeplatz für Familien.",
+    "Moor & more: Moorlandschaft mit Informationen zu Pflanzen und Tieren.",
+    "Pony Alm und Astbergsee am Astberg, mit Spiegelbild des Kaisergebirges.",
+    "Im Winter die Rodelbahn vom Astberg nach Going oder Ellmau und die Pisten der SkiWelt."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 40 minuten rijden vanaf Niederau: via Oberau naar Wörgl en verder via Söll en Scheffau richting Ellmau en Going.",
+   "en": "About 40 minutes by car from Niederau: via Oberau to Wörgl, then via Söll and Scheffau towards Ellmau and Going.",
+   "de": "Ca. 40 Minuten mit dem Auto ab Niederau: über Oberau nach Wörgl, weiter über Söll und Scheffau Richtung Ellmau und Going."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die rust, zwemmen en een Kaiser-uitzicht zoeken.",
+   "en": "Suits families looking for calm, swimming and Kaiser views.",
+   "de": "Passt zu Familien, die Ruhe, Badespaß und Kaiserblick suchen."
+  },
+  "season": {
+   "nl": "Mei tot november en in de winter (SkiWelt).",
+   "en": "May to November and in winter (SkiWelt).",
+   "de": "Mai bis November und im Winter (SkiWelt)."
+  },
+  "drive_min": 40,
+  "elevation_m": 773,
+  "url": "https://www.skiwelt.at/en/going-am-wilden-kaiser.html",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je in Going zwemmen?",
+     "en": "Can you swim in Going?",
+     "de": "Kann man in Going baden?"
+    },
+    "a": {
+     "nl": "Ja, in de zomer is er het Goinger Badesee; controleer vooraf de openingstijden en voorwaarden.",
+     "en": "Yes, in summer there is the Goinger bathing lake; check opening times and conditions beforehand.",
+     "de": "Ja, im Sommer gibt es den Goinger Badesee; Öffnungszeiten und Bedingungen vorab prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Going een skidorp?",
+     "en": "Is Going a ski village?",
+     "de": "Ist Going ein Skiort?"
+    },
+    "a": {
+     "nl": "Going ligt in de SkiWelt Wilder Kaiser-Brixental en heeft een eigen toegang tot het skigebied Going-Ellmau.",
+     "en": "Going lies in the SkiWelt Wilder Kaiser-Brixental and has its own access to the Going-Ellmau ski area.",
+     "de": "Going liegt in der SkiWelt Wilder Kaiser-Brixental und hat einen eigenen Zugang zum Skigebiet Going-Ellmau."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "scheffau",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Scheffau am Wilden Kaiser",
+   "en": "Scheffau am Wilden Kaiser",
+   "de": "Scheffau am Wilden Kaiser"
+  },
+  "tagline": {
+   "nl": "Rustig dorp aan de voet van de Wilde Kaiser, met Hintersteiner See",
+   "en": "A quiet village below the Wilder Kaiser, near the Hintersteiner See",
+   "de": "Ruhiger Ort am Fuß des Wilden Kaisers, nahe dem Hintersteiner See"
+  },
+  "intro": {
+   "nl": "Scheffau am Wilden Kaiser ligt op ongeveer 620 m aan de voet van het Kaisergebergte. Samen met Ellmau, Going en Söll vormt het de zogeheten Kaiserorte. Het dorp was lang agrarisch en leeft nu vooral van toerisme.\n\nIn vergelijking met de drukkere buren Söll en Ellmau is Scheffau rustig en woonachtig van karakter. Op ongeveer vier kilometer ligt de Hintersteiner See, bekend om zijn turkooizen water en een strand aan de noordoever. Vanaf het dorp lopen wandelpaden de Kaiser in, onder meer richting Gasthaus Bärnstatt en de 2.111 m hoge top.\n\nIn de winter is Scheffau een centraal dorp in de SkiWelt Wilder Kaiser-Brixental, met directe toegang tot de gekoppelde pistes. In de zomer is de Kaiserwelt Scheffau bij de bergstation (ca. 1.650 m) een speelplek voor kinderen. Goed te combineren met een bezoek aan Going of Ellmau. Voor de Hintersteiner See en de gondel is parkeren in het hoogseizoen soms beperkt, dus kom op tijd. Controleer vooraf de actuele bedrijfstijden van de lift.",
+   "en": "Scheffau am Wilden Kaiser lies at about 620 m at the foot of the Kaiser mountains. Together with Ellmau, Going and Söll it forms the so-called Kaiser villages. The village was long agricultural and now lives mainly from tourism.\n\nCompared with its busier neighbours Söll and Ellmau, Scheffau is calm and residential in character. About four kilometres away lies the Hintersteiner See, known for its turquoise water and a beach on the north shore. Hiking paths lead from the village into the Kaiser range, for example towards Gasthaus Bärnstatt and the 2,111 m summit.\n\nIn winter Scheffau is a central village in the SkiWelt Wilder Kaiser-Brixental, with direct access to the linked pistes. In summer the Kaiserwelt Scheffau at the gondola station (about 1,650 m) is a playground for children. It combines well with a visit to Going or Ellmau. Parking at the Hintersteiner See and the gondola can be limited in peak season, so arrive early. Check the current lift operating times beforehand.",
+   "de": "Scheffau am Wilden Kaiser liegt auf etwa 620 m am Fuß des Kaisergebirges. Zusammen mit Ellmau, Going und Söll bildet es die sogenannten Kaiserorte. Der Ort war lange landwirtschaftlich geprägt und lebt heute vor allem vom Tourismus.\n\nIm Vergleich zu den belebteren Nachbarn Söll und Ellmau ist Scheffau ruhig und eher dörflich. Rund vier Kilometer entfernt liegt der Hintersteiner See, bekannt für sein türkisfarbenes Wasser und einen Strand am Nordufer. Vom Ort führen Wanderwege ins Kaisergebirge, etwa Richtung Gasthaus Bärnstatt und zum 2.111 m hohen Gipfel.\n\nIm Winter ist Scheffau ein zentraler Ort der SkiWelt Wilder Kaiser-Brixental, mit direktem Zugang zu den verbundenen Pisten. Im Sommer ist die Kaiserwelt Scheffau an der Gondelstation (rund 1.650 m) ein Spielplatz für Kinder. Gut kombinierbar mit einem Besuch in Going oder Ellmau. Am Hintersteiner See und an der Gondel kann der Parkraum in der Hochsaison knapp sein, daher früh kommen. Aktuelle Betriebszeiten der Bahn vorab prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "De Hintersteiner See met turkooizen water en strand, ca. 4 km van het dorp.",
+    "Kaiserwelt Scheffau bij de bergstation (ca. 1.650 m): speelplek met boomhutten en klimtoestellen.",
+    "Wandelen richting Gasthaus Bärnstatt en de top van 2.111 m.",
+    "Wandeltocht van Scheffau naar de Kaiseralm.",
+    "In de winter skiën in de SkiWelt, met directe gondeltoegang vanuit het dorp."
+   ],
+   "en": [
+    "The Hintersteiner See with turquoise water and a beach, about 4 km from the village.",
+    "Kaiserwelt Scheffau at the gondola station (about 1,650 m): a playground with tree houses and climbing equipment.",
+    "Hiking towards Gasthaus Bärnstatt and the 2,111 m summit.",
+    "A walking circuit from Scheffau up to the Kaiseralm.",
+    "In winter, skiing in the SkiWelt with direct gondola access from the village."
+   ],
+   "de": [
+    "Der Hintersteiner See mit türkisfarbenem Wasser und Strand, rund 4 km vom Ort.",
+    "Kaiserwelt Scheffau an der Gondelstation (rund 1.650 m): Spielplatz mit Baumhäusern und Klettergeräten.",
+    "Wandern Richtung Gasthaus Bärnstatt und zum 2.111 m hohen Gipfel.",
+    "Wanderrunde von Scheffau hinauf zur Kaiseralm.",
+    "Im Winter Skifahren in der SkiWelt mit direktem Gondelzugang vom Ort."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten rijden vanaf Niederau: via Oberau naar Wörgl, dan via Söll naar Scheffau.",
+   "en": "About 35 minutes by car from Niederau: via Oberau to Wörgl, then via Söll to Scheffau.",
+   "de": "Ca. 35 Minuten mit dem Auto ab Niederau: über Oberau nach Wörgl, dann über Söll nach Scheffau."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met kinderen die wandelen, zwemmen en spelen willen combineren.",
+   "en": "Suits families who want to combine hiking, swimming and play.",
+   "de": "Passt zu Familien, die Wandern, Baden und Spielen verbinden möchten."
+  },
+  "season": {
+   "nl": "Zomer en winter.",
+   "en": "Summer and winter.",
+   "de": "Sommer und Winter."
+  },
+  "drive_min": 35,
+  "elevation_m": 620,
+  "url": "https://skiwelt.at/en/scheffau.html",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Scheffau geschikt voor kinderen?",
+     "en": "Is Scheffau suitable for children?",
+     "de": "Ist Scheffau für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, in de zomer is er de Kaiserwelt Scheffau bij de bergstation met boomhutten en klimtoestellen.",
+     "en": "Yes, in summer there is the Kaiserwelt Scheffau at the gondola station with tree houses and climbing equipment.",
+     "de": "Ja, im Sommer gibt es die Kaiserwelt Scheffau an der Gondelstation mit Baumhäusern und Klettergeräten."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is de Hintersteiner See?",
+     "en": "How far is the Hintersteiner See?",
+     "de": "Wie weit ist der Hintersteiner See?"
+    },
+    "a": {
+     "nl": "Ongeveer vier kilometer van het dorp; de meer heeft een strand aan de noordoever.",
+     "en": "About four kilometres from the village; the lake has a beach on its north shore.",
+     "de": "Rund vier Kilometer vom Ort entfernt; der See hat einen Strand am Nordufer."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "st-johann-in-tirol",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Levendig marktstadje met barokke huizen, klimbos en veel uitstapjes",
+   "en": "A lively market town with Baroque houses, a climbing forest and many outings",
+   "de": "Lebendiger Marktort mit Barockhäusern, Kletterwald und vielen Ausflugszielen"
+  },
+  "intro": {
+   "nl": "St. Johann in Tirol ligt in de Kitzbüheler Alpen, ten noorden van Kitzbühel. Het gebied beslaat een hoogteverschil van ongeveer 670 tot 2.231 m. Het is een echt stadje met winkels, restaurants en horeca, en daardoor goed voor een dagje uit bij minder mooi weer.\n\nIn het centrum staan barokke huizen zoals het Schellhornhaus en het Schwarzinger-Haus, de barokke parochiekerk uit de 18e eeuw en Schloss Hohenhaus, in de 16e eeuw gebouwd als jachtslot. Voor gezinnen zijn er het klimbos Hornpark en de Moor & More Erlebniswelt, waar je over de flora en fauna van een veenlandschap leert. Bekend is ook het Knödelfest.\n\nIn de zomer zijn er ruim 200 km wandelpaden; in de winter heeft St. Johann een eigen skigebied. Vanuit Niederau een bereikbare dagtocht door het Brixental en over de Kitzbüheler Alpen. Het stadje biedt veel horeca, dus het is ook handig als je met een groep met verschillende wensen op pad bent. Controleer vooraf de openingstijden van attracties.",
+   "en": "St. Johann in Tirol lies in the Kitzbühel Alps, north of Kitzbühel. The area spans roughly 670 to 2,231 m in altitude. It is a proper small town with shops, restaurants and cafés, which makes it a good day out in less settled weather.\n\nIn the centre are Baroque houses such as the Schellhornhaus and the Schwarzinger-Haus, the Baroque parish church from the 18th century and Schloss Hohenhaus, built in the 16th century as a hunting lodge. Families can visit the Hornpark climbing forest and the Moor & More Erlebniswelt, where you learn about the plants and animals of a bog. The Knödelfest (dumpling festival) is also well known.\n\nIn summer there are about 200 km of walking trails; in winter St. Johann has its own ski area. From Niederau it is a manageable day trip through the Brixental and across the Kitzbühel Alps. The town offers plenty of places to eat, which is handy if your group has different wishes. Check the opening times of attractions beforehand.",
+   "de": "St. Johann in Tirol liegt in den Kitzbüheler Alpen, nördlich von Kitzbühel. Das Gebiet reicht von etwa 670 bis 2.231 m Höhe. Es ist ein richtiger kleiner Markt mit Geschäften, Restaurants und Cafés und deshalb auch bei unbeständigem Wetter ein guter Ausflug.\n\nIm Zentrum stehen Barockhäuser wie das Schellhornhaus und das Schwarzinger-Haus, die barocke Pfarrkirche aus dem 18. Jahrhundert und das Schloss Hohenhaus, im 16. Jahrhundert als Jagdschloss erbaut. Für Familien gibt es den Kletterwald Hornpark und die Moor & More Erlebniswelt, in der man viel über Pflanzen und Tiere eines Moores erfährt. Bekannt ist auch das Knödelfest.\n\nIm Sommer gibt es rund 200 km Wanderwege; im Winter hat St. Johann ein eigenes Skigebiet. Von Niederau aus ein gut machbarer Tagesausflug durchs Brixental und über die Kitzbüheler Alpen. Der Ort bietet viel Gastronomie, was praktisch ist, wenn die Gruppe unterschiedliche Wünsche hat. Öffnungszeiten der Attraktionen vorab prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "Het barokke dorpscentrum met o.a. Schellhornhaus en Schwarzinger-Haus.",
+    "De barokke parochiekerk uit de 18e eeuw.",
+    "Schloss Hohenhaus, in de 16e eeuw gebouwd als jachtslot.",
+    "Klimbos Hornpark voor gezinnen met kinderen.",
+    "Moor & More Erlebniswelt over het veenlandschap.",
+    "Het jaarlijkse Knödelfest met de lange knoedeltafel."
+   ],
+   "en": [
+    "The Baroque town centre with the Schellhornhaus and the Schwarzinger-Haus, among others.",
+    "The Baroque parish church from the 18th century.",
+    "Schloss Hohenhaus, built in the 16th century as a hunting lodge.",
+    "The Hornpark climbing forest for families with children.",
+    "The Moor & More Erlebniswelt about bog landscapes.",
+    "The Knödelfest with its long dumpling table."
+   ],
+   "de": [
+    "Das barocke Ortszentrum mit u. a. Schellhornhaus und Schwarzinger-Haus.",
+    "Die barocke Pfarrkirche aus dem 18. Jahrhundert.",
+    "Das Schloss Hohenhaus, im 16. Jahrhundert als Jagdschloss erbaut.",
+    "Der Kletterwald Hornpark für Familien mit Kindern.",
+    "Die Moor & More Erlebniswelt zum Thema Moorlandschaft.",
+    "Das Knödelfest mit dem langen Knödeltisch."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 55 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan door het Brixental richting Kitzbühel en St. Johann.",
+   "en": "About 55 minutes by car from Niederau: via Oberau to Wörgl, then through the Brixental towards Kitzbühel and St. Johann.",
+   "de": "Ca. 55 Minuten mit dem Auto ab Niederau: über Oberau nach Wörgl, dann durchs Brixental Richtung Kitzbühel und St. Johann."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die een stadje met cultuur, klimmen en winkelen zoeken.",
+   "en": "Suits families looking for a town with culture, climbing and shopping.",
+   "de": "Passt zu Familien, die einen Ort mit Kultur, Klettern und Bummeln suchen."
+  },
+  "season": {
+   "nl": "Hele jaar, zomer en winter.",
+   "en": "All year round, summer and winter.",
+   "de": "Ganzjährig, Sommer und Winter."
+  },
+  "drive_min": 55,
+  "elevation_m": null,
+  "url": "",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat kun je bij slecht weer doen in St. Johann?",
+     "en": "What can you do in St. Johann in poor weather?",
+     "de": "Was kann man in St. Johann bei schlechtem Wetter tun?"
+    },
+    "a": {
+     "nl": "Je kunt door het barokke centrum slenteren, terrassen en winkels bezoeken en de kerk en Schloss Hohenhaus van buiten bekijken; informeer vooraf naar opening van attracties.",
+     "en": "You can stroll through the Baroque centre, visit cafés and shops and see the church and Schloss Hohenhaus; check opening times of attractions beforehand.",
+     "de": "Man kann durch das barocke Zentrum schlendern, Cafés und Geschäfte besuchen und Kirche sowie Schloss Hohenhaus ansehen; Öffnungszeiten der Attraktionen vorab prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er een klimbos in St. Johann?",
+     "en": "Is there a climbing forest in St. Johann?",
+     "de": "Gibt es in St. Johann einen Kletterwald?"
+    },
+    "a": {
+     "nl": "Ja, het Kletterwald Hornpark. Informeer vooraf naar tijden en minimumleeftijd.",
+     "en": "Yes, the Hornpark climbing forest. Check times and minimum age beforehand.",
+     "de": "Ja, den Kletterwald Hornpark. Zeiten und Mindestalter vorab erfragen."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "jochberg",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Jochberg",
+   "en": "Jochberg",
+   "de": "Jochberg"
+  },
+  "tagline": {
+   "nl": "Bergdorp tussen Kitzbühel en Pass Thurn met oude kopermijn",
+   "en": "A mountain village between Kitzbühel and Pass Thurn with an old copper mine",
+   "de": "Bergdorf zwischen Kitzbühel und Pass Thurn mit altem Kupferbergwerk"
+  },
+  "intro": {
+   "nl": "Jochberg ligt op ongeveer 924 m in het hart van de Kitzbüheler Alpen, halverwege Kitzbühel en de Pass Thurn (1.274 m). Het is een dorp dat door landbouw en toerisme wordt gevormd en rustiger is dan het bekende buurstadje.\n\nIn de zomer is er een bosbad aan de rand van het dorp en lopen er meer dan 60 km gemarkeerde wandelpaden. Een kabelbaan brengt je naar het schaubergwerk Kupferplatte, waar 3.000 jaar geleden koper werd gewonnen; je ontdekt het bovengronds op het Knappenweg. De St.-Michaelskerk is de oudste kerk van Jochberg en heeft schilderijen van Simon Faistenberger. Een uur lopen brengt je naar de Sintersbachwaterval.\n\nIn de winter hoort Jochberg bij KitzSki en is via de Resterhöhe verbonden met het skigebied Kitzbühel-Kirchberg. Vanuit Niederau een mooie dagtocht door het Brixental, met als hoogtepunten de mijn en de berg. Reserveer voor de rondleiding in de mijn bij voorkeur vooraf en neem een warme trui mee, want het is in de gangen koel. Controleer de actuele tijden van de kabelbaan.",
+   "en": "Jochberg lies at about 924 m in the heart of the Kitzbühel Alps, halfway between Kitzbühel and Pass Thurn (1,274 m). It is a village shaped by farming and tourism and is quieter than its famous neighbour.\n\nIn summer there is a forest pool on the edge of the village and more than 60 km of marked hiking trails. A cable car takes you to the Kupferplatte show mine, where copper was mined 3,000 years ago; above ground you can follow the Miners' Path. St. Michael's Church is Jochberg's oldest church and has paintings by Simon Faistenberger. An hour's walk leads to the Sintersbach waterfall.\n\nIn winter Jochberg belongs to KitzSki and is linked via the Resterhöhe with the Kitzbühel-Kirchberg ski area. From Niederau it makes a pleasant day trip through the Brixental, with the mine and the mountain as highlights. For the mine tour it is wise to book ahead and bring a warm jumper, as the tunnels are cool. Check the current cable car times.",
+   "de": "Jochberg liegt auf etwa 924 m im Herzen der Kitzbüheler Alpen, auf halbem Weg zwischen Kitzbühel und dem Pass Thurn (1.274 m). Es ist ein von Landwirtschaft und Tourismus geprägtes Dorf und ruhiger als der berühmte Nachbar.\n\nIm Sommer gibt es am Ortsrand ein Waldbad und mehr als 60 km markierte Wanderwege. Eine Seilbahn bringt Besucher zum Schaubergwerk Kupferplatte, wo vor 3.000 Jahren Kupfer abgebaut wurde; über Tage informiert der Knappenweg. Die Kirche St. Michael ist die älteste Kirche Jochbergs und besitzt Gemälde von Simon Faistenberger. Eine Wanderstunde führt zum Sintersbacher Wasserfall.\n\nIm Winter gehört Jochberg zu KitzSki und ist über die Resterhöhe mit dem Skigebiet Kitzbühel-Kirchberg verbunden. Von Niederau aus ein schöner Tagesausflug durchs Brixental, mit Bergwerk und Berg als Höhepunkten. Für die Führung im Bergwerk empfiehlt sich eine Voranmeldung, und eine warme Jacke ist ratsam, da es in den Stollen kühl ist. Aktuelle Fahrzeiten der Seilbahn prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "Schaubergwerk Kupferplatte: kabelbaan en rondleidingen door de oude koperwinning.",
+    "Het Knappenweg boven de mijn met uitleg over de mijnbouwgeschiedenis.",
+    "De Sintersbachwaterval, ca. een uur lopen.",
+    "Het bosbad aan de rand van het dorp in de zomer.",
+    "Berggasthof Resterhöhe op ca. 1.730 m; in de winter per lift, in de zomer te voet, per fiets of shuttle.",
+    "De pelgrimskerk St. Michael met schilderijen van Simon Faistenberger."
+   ],
+   "en": [
+    "Kupferplatte show mine: cable car and guided tours of the old copper mining.",
+    "The Miners' Path above the mine with information on mining history.",
+    "The Sintersbach waterfall, about an hour's walk.",
+    "The forest pool on the edge of the village in summer.",
+    "Berggasthof Resterhöhe at about 1,730 m; reached by lift in winter, on foot, by bike or shuttle in summer.",
+    "The pilgrimage church of St. Michael with paintings by Simon Faistenberger."
+   ],
+   "de": [
+    "Schaubergwerk Kupferplatte: Seilbahn und Führungen durch den alten Kupferbergbau.",
+    "Der Knappenweg über Tage mit Informationen zur Bergbaugeschichte.",
+    "Der Sintersbacher Wasserfall, rund eine Stunde Gehzeit.",
+    "Das Waldbad am Ortsrand im Sommer.",
+    "Das Berggasthaus Resterhöhe auf rund 1.730 m; im Winter per Lift, im Sommer zu Fuß, mit dem Rad oder per Shuttle.",
+    "Die Wallfahrtskirche St. Michael mit Gemälden von Simon Faistenberger."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau: via Oberau naar Wörgl, door het Brixental via Kitzbühel naar Jochberg.",
+   "en": "About 60 minutes by car from Niederau: via Oberau to Wörgl, through the Brixental via Kitzbühel to Jochberg.",
+   "de": "Ca. 60 Minuten mit dem Auto ab Niederau: über Oberau nach Wörgl, durchs Brixental über Kitzbühel nach Jochberg."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die van wandelen, geschiedenis en skiën houden.",
+   "en": "Suits families who like hiking, history and skiing.",
+   "de": "Passt zu Familien, die Wandern, Geschichte und Skifahren mögen."
+  },
+  "season": {
+   "nl": "Zomer en winter.",
+   "en": "Summer and winter.",
+   "de": "Sommer und Winter."
+  },
+  "drive_min": 60,
+  "elevation_m": 924,
+  "url": "https://www.kitzbuehel.com/en/jochberg/",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is de Kupferplatte?",
+     "en": "What is the Kupferplatte?",
+     "de": "Was ist die Kupferplatte?"
+    },
+    "a": {
+     "nl": "Een schaubergwerk dat je via een kabelbaan bereikt; hier werd ca. 3.000 jaar geleden koper gewonnen en je kunt rondleidingen volgen.",
+     "en": "A show mine reached by cable car; copper was mined here about 3,000 years ago and guided tours are possible.",
+     "de": "Ein Schaubergwerk, das man per Seilbahn erreicht; hier wurde vor rund 3.000 Jahren Kupfer abgebaut, Führungen sind möglich."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe kom je bij de Resterhöhe?",
+     "en": "How do you get to the Resterhöhe?",
+     "de": "Wie kommt man zur Resterhöhe?"
+    },
+    "a": {
+     "nl": "In de winter per lift; in de zomer te voet, per fiets of met een shuttle. Controleer vooraf de actuele dienstregeling.",
+     "en": "By lift in winter; on foot, by bike or shuttle in summer. Check current schedules beforehand.",
+     "de": "Im Winter per Lift; im Sommer zu Fuß, mit dem Rad oder per Shuttle. Aktuelle Fahrzeiten vorab prüfen."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "aurach",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Aurach bei Kitzbühel",
+   "en": "Aurach bei Kitzbühel",
+   "de": "Aurach bei Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Rustige gemeente met Wildpark en wandelen in de Kitzbüheler Südberge",
+   "en": "A quiet municipality with a wildlife park and hiking in the Kitzbühel south hills",
+   "de": "Ruhige Gemeinde mit Wildpark und Wandern in den Kitzbüheler Südbergen"
+  },
+  "intro": {
+   "nl": "Aurach bei Kitzbühel ligt op ongeveer 846 m, zo'n 5 km ten zuiden van Kitzbühel. De gemeente bestaat uit Unteraurach, Oberaurach en enkele kleinere gehuchten. Het dorp wordt gekenmerkt door eeuwenoude boerderijen en is een bestemming voor mensen die rust en natuur zoeken.\n\nHet bekendste doel voor gezinnen is het Wildpark Aurach boven het dorp, met ongeveer 200 dieren uit de Alpen, zoals edelhert, steenbok, wild zwijn en lynx, maar ook lama's en jaks. In de Streichlstadl zijn cavia's en schapen te aanraken voor de kleinsten. De parochiekerk St. Rupert is een bezoek waard; rond de Kelchalm werd vroeger mijnbouw bedreven.\n\nIn de zomer ligt het wandelgebied van de Kitzbüheler Südberge voor de deur. In de winter is de centrale ligging bij de skigebieden tussen Jochberg en Kitzbühel handig. Vanuit Niederau goed te combineren met Kitzbühel. Het wildpark ligt op een heuvel boven het dorp, dus dragen kinderen het best stevige schoenen. Controleer vooraf de actuele openingstijden en toegangsprijzen.",
+   "en": "Aurach bei Kitzbühel lies at about 846 m, roughly 5 km south of Kitzbühel. The municipality consists of Unteraurach, Oberaurach and a few smaller hamlets. The village is characterised by centuries-old farmsteads and is a destination for people who want calm and nature.\n\nThe best-known family target is the Wildpark Aurach above the village, with about 200 animals from the Alps, such as red deer, ibex, wild boar and lynx, but also llamas and yaks. In the Streichlstadl the youngest can pet guinea pigs and sheep. The parish church of St. Rupert is worth a look; mining once took place around the Kelchalm.\n\nIn summer the hiking area of the Kitzbühel south hills is on the doorstep. In winter the central location near the ski areas between Jochberg and Kitzbühel is handy. From Niederau it combines well with a visit to Kitzbühel. The wildlife park sits on a hillside above the village, so sturdy shoes are best for children. Check current opening times and entry prices beforehand.",
+   "de": "Aurach bei Kitzbühel liegt auf etwa 846 m, rund 5 km südlich von Kitzbühel. Die Gemeinde besteht aus Unteraurach, Oberaurach und einigen kleineren Weilern. Das Dorfbild ist von jahrhundertealten Bauernhöfen geprägt, und der Ort ist ein Ziel für alle, die Ruhe und Natur suchen.\n\nDas bekannteste Ziel für Familien ist der Wildpark Aurach oberhalb des Dorfes mit rund 200 Tieren der Alpen wie Rotwild, Steinbock, Wildschwein und Luchs, aber auch Lamas und Yaks. Im Streichlstadl können die Kleinsten Meerschweinchen und Schafe streicheln. Die Pfarrkirche St. Rupert ist sehenswert; rund um die Kelchalm wurde früher Bergbau betrieben.\n\nIm Sommer liegt das Wandergebiet der Kitzbüheler Südberge vor der Tür. Im Winter ist die zentrale Lage nahe den Skigebieten zwischen Jochberg und Kitzbühel praktisch. Von Niederau aus gut mit einem Besuch in Kitzbühel kombinierbar. Der Wildpark liegt am Hang oberhalb des Dorfes, daher sind für Kinder feste Schuhe ratsam. Aktuelle Öffnungszeiten und Eintrittspreise vorab prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "Wildpark Aurach met ca. 200 dieren, o.a. edelhert, steenbok, lynx, lama en jak.",
+    "De Streichlstadl met cavia's en schapen om te aaien.",
+    "Wandelen in de Kitzbüheler Südberge.",
+    "De parochiekerk St. Rupert.",
+    "Het gebied rond de Kelchalm, waar vroeger mijnbouw was.",
+    "In de winter dichtbij de skigebieden tussen Jochberg en Kitzbühel."
+   ],
+   "en": [
+    "Wildpark Aurach with about 200 animals, including red deer, ibex, lynx, llamas and yaks.",
+    "The Streichlstadl with guinea pigs and sheep to pet.",
+    "Hiking in the Kitzbühel south hills.",
+    "The parish church of St. Rupert.",
+    "The area around the Kelchalm, where mining once took place.",
+    "In winter, close to the ski areas between Jochberg and Kitzbühel."
+   ],
+   "de": [
+    "Wildpark Aurach mit rund 200 Tieren, u. a. Rotwild, Steinbock, Luchs, Lama und Yak.",
+    "Der Streichlstadl mit Meerschweinchen und Schafen zum Streicheln.",
+    "Wandern in den Kitzbüheler Südbergen.",
+    "Die Pfarrkirche St. Rupert.",
+    "Das Gebiet rund um die Kelchalm, wo früher Bergbau betrieben wurde.",
+    "Im Winter nahe den Skigebieten zwischen Jochberg und Kitzbühel."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 50 minuten rijden vanaf Niederau: via Oberau naar Wörgl, door het Brixental naar Kitzbühel en dan zuidwaarts naar Aurach.",
+   "en": "About 50 minutes by car from Niederau: via Oberau to Wörgl, through the Brixental to Kitzbühel and then south to Aurach.",
+   "de": "Ca. 50 Minuten mit dem Auto ab Niederau: über Oberau nach Wörgl, durchs Brixental nach Kitzbühel und dann südwärts nach Aurach."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met jonge kinderen die dieren willen zien.",
+   "en": "Suits families with young children who want to see animals.",
+   "de": "Passt zu Familien mit kleinen Kindern, die Tiere erleben möchten."
+  },
+  "season": {
+   "nl": "Vooral zomer; in de winter als uitvalsbasis bij de skigebieden.",
+   "en": "Mainly summer; in winter as a base near the ski areas.",
+   "de": "Vor allem Sommer; im Winter als Standort nahe den Skigebieden."
+  },
+  "drive_min": 50,
+  "elevation_m": 846,
+  "url": "",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke dieren zie je in het Wildpark Aurach?",
+     "en": "Which animals can you see in Wildpark Aurach?",
+     "de": "Welche Tiere sieht man im Wildpark Aurach?"
+    },
+    "a": {
+     "nl": "Ca. 200 dieren, o.a. edelhert, steenbok, wild zwijn, lynx, lama en jak; er is ook een aaidierenstal.",
+     "en": "About 200 animals, including red deer, ibex, wild boar, lynx, llamas and yaks; there is also a petting barn.",
+     "de": "Rund 200 Tiere, u. a. Rotwild, Steinbock, Wildschwein, Luchs, Lama und Yak; außerdem einen Streichelstall."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is Aurach van Kitzbühel?",
+     "en": "How far is Aurach from Kitzbühel?",
+     "de": "Wie weit ist Aurach von Kitzbühel entfernt?"
+    },
+    "a": {
+     "nl": "Ongeveer 5 km ten zuiden van Kitzbühel.",
+     "en": "About 5 km south of Kitzbühel.",
+     "de": "Rund 5 km südlich von Kitzbühel."
+    }
+   }
+  ]
+ }
+]
