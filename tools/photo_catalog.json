@@ -1150,5 +1150,84 @@
    "hut"
   ],
   false
+ ],
+ [
+  "niederau-zomer-bloemenweide-dorp-dal",
+  [
+   "Hoog gras en wilde bloemen op een berghelling, met in het dal een dorp tussen groene weiden",
+   "Tall grass and wildflowers on a mountainside, with a village among green meadows in the valley below",
+   "Hohes Gras und Wildblumen an einem Berghang, unten im Tal ein Dorf zwischen grünen Wiesen"
+  ],
+  [
+   "wandelen",
+   "bloemen",
+   "alpenbloemen",
+   "uitzicht",
+   "dal"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-wandelroute-markering-22",
+  [
+   "Rood-wit-rode wandelmarkering met een driehoek en het nummer 22, geschilderd op een rots",
+   "Red-white-red hiking marker with a triangle and the number 22, painted on a rock",
+   "Rot-weiß-rote Wandermarkierung mit Dreieck und der Nummer 22, auf einen Felsen gemalt"
+  ],
+  [
+   "wandelroute",
+   "bewegwijzering",
+   "markering",
+   "wandelen",
+   "wandelpad"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-houtstapel",
+  [
+   "Een grote stapel gekliefd brandhout onder een afdak",
+   "A large stack of split firewood under a roof",
+   "Ein großer Stapel gespaltenes Brennholz unter einem Dach"
+  ],
+  [
+   "brandhout",
+   "houtstapel",
+   "boerderij",
+   "alm"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-kunst-kikkerkoning-gitaar",
+  [
+   "Roestig metalen kunstwerkje van een kikkerkoning met kroon en gitaar bij een berghut, met parasols op de achtergrond",
+   "Rusty metal artwork of a frog king with a crown and guitar at a mountain hut, with parasols in the background",
+   "Rostiges Metallkunstwerk eines Froschkönigs mit Krone und Gitarre bei einer Berghütte, im Hintergrund Sonnenschirme"
+  ],
+  [
+   "alm",
+   "berghut",
+   "kikker",
+   "brettljause",
+   "hut"
+  ],
+  false
+ ],
+ [
+  "niederau-zomer-bergwater-stroompje",
+  [
+   "Helder bergwater stroomt over stenen en gras",
+   "Clear mountain water flowing over stones and grass",
+   "Klares Bergwasser fließt über Steine und Gras"
+  ],
+  [
+   "bergbeek",
+   "beek",
+   "water",
+   "kneipp",
+   "waterval"
+  ],
+  false
  ]
 ]
