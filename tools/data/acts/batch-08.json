@@ -1,38 +1,675 @@
 [
  {
   "id": "w43",
-  "drop": true,
-  "drop_reason": "Concrete locaties (Dorfstadl/Wastlalm Bar), programma en tijden niet te bevestigen; niet verifieerbaar als aparte activiteit"
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "apres-ski-family-niederau",
+  "slug_de": "apres-ski-familie-niederau",
+  "title": {
+   "nl": "Après-ski voor gezinnen in Niederau",
+   "en": "Family après-ski in Niederau",
+   "de": "Familien-Après-Ski in Niederau"
+  },
+  "tagline": {
+   "nl": "Muziek, chocolademelk en een gezellig terras na het skiën",
+   "en": "Music, hot chocolate and a cosy terrace after skiing",
+   "de": "Musik, Kakao und eine gemütliche Terrasse nach dem Skifahren"
+  },
+  "intro": {
+   "nl": "Na een dag op de piste wil je niet meteen naar binnen. In Niederau loop je na het skiën in een paar minuten van de piste naar het dorp, waar bars en terrassen openen voor een gezellige afsluiting. Het sfeertje is ontspannen en gericht op gezinnen: er is vaak muziek, kinderen kunnen een warme chocolademelk bestellen en ouders nemen een drankje.\n\nWat er precies te doen is, verschilt per dag en per locatie. Sommige plekken hebben livemuziek, andere zijn gewoon een zonnig terras. Vraag bij je hotel of het toeristenbureau welke gelegenheid die week een programma heeft, en houd er rekening mee dat consumpties voor eigen rekening zijn.",
+   "en": "After a day on the slopes you do not want to go indoors straight away. In Niederau you can walk from the slope to the village within a few minutes, where bars and terraces open for a friendly end to the day. The mood is relaxed and family-oriented: there is often music, children can order a hot chocolate and parents have a drink.\n\nExactly what is on varies by day and venue. Some places have live music, others are simply a sunny terrace. Ask your hotel or the tourist office which venue has something on that week, and bear in mind that drinks are at your own cost.",
+   "de": "Nach einem Tag auf der Piste will man nicht gleich nach drinnen. In Niederau gehst du nach dem Skifahren in wenigen Minuten von der Piste ins Dorf, wo Bars und Terrassen zu einem gemütlichen Tagesausklang öffnen. Die Stimmung ist entspannt und familienfreundlich: Oft gibt es Musik, Kinder können eine heiße Schokolade bestellen und die Eltern ein Getränk.\n\nWas genau geboten wird, ist von Tag zu Tag und je nach Lokal verschieden. Manche Orte haben Livemusik, andere sind einfach eine sonnige Terrasse. Frag in deiner Unterkunft oder im Tourismusbüro, wo in dieser Woche etwas los ist, und beachte, dass Getränke auf eigene Kosten gehen."
+  },
+  "tips": {
+   "nl": [
+    "Vraag je hotel welke gelegenheid die week muziek of een programma heeft.",
+    "Kom vroeg als je een zonnig plekje op het terras wilt.",
+    "Neem een warme jas mee voor het terras als de zon weg is.",
+    "Houd de kinderen niet te lang op; na een skidag zijn ze snel moe."
+   ],
+   "en": [
+    "Ask your hotel which venue has music or a programme that week.",
+    "Come early if you want a sunny spot on the terrace.",
+    "Bring a warm jacket for the terrace once the sun has gone.",
+    "Do not keep the children up too long; they tire quickly after a ski day."
+   ],
+   "de": [
+    "Frag in deiner Unterkunft, wo in dieser Woche Musik oder ein Programm geboten wird.",
+    "Komm früh, wenn du einen sonnigen Platz auf der Terrasse möchtest.",
+    "Nimm eine warme Jacke für die Terrasse mit, wenn die Sonne weg ist.",
+    "Bleibt mit den Kindern nicht zu lange; nach einem Skitag sind sie schnell müde."
+   ]
+  },
+  "practical": {
+   "nl": "De après-ski plekken liggen in het dorp Niederau zelf, ca. 5 tot 10 minuten lopen van het einde van de piste. De liften sluiten in de namiddag; informeer naar de actuele tijden.",
+   "en": "The après-ski venues are in the village of Niederau itself, about 5 to 10 minutes on foot from the end of the slope. The lifts close in the afternoon; ask about current times.",
+   "de": "Die Après-Ski-Lokale liegen im Ort Niederau selbst, ca. 5 bis 10 Gehminuten vom Ende der Piste. Die Lifte schließen am Nachmittag; erkundige dich nach den aktuellen Zeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Consumpties voor eigen rekening",
+    "en": "Drinks at your own cost",
+    "de": "Getränke auf eigene Kosten"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is après-ski in Niederau geschikt voor kinderen?",
+     "en": "Is après-ski in Niederau suitable for children?",
+     "de": "Ist Après-Ski in Niederau für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "In de regel wel: de sfeer is gezinsvriendelijk en er is warme chocolademelk. Programma en tijden verschillen per locatie.",
+     "en": "Generally yes: the atmosphere is family-friendly and hot chocolate is available. Programme and times vary by venue.",
+     "de": "In der Regel ja: Die Stimmung ist familienfreundlich und es gibt heiße Schokolade. Programm und Zeiten variieren je nach Lokal."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "w47",
-  "drop": true,
-  "drop_reason": "Aanbod, prijs en skischool-website niet te bevestigen (skischule-total.at klopt niet)"
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "guided-family-ski-tour-wildschoenau",
+  "slug_de": "gefuehrte-familienskitour-wildschoenau",
+  "title": {
+   "nl": "Begeleide familieskitour",
+   "en": "Guided family ski tour",
+   "de": "Geführte Familien-Skitour"
+  },
+  "tagline": {
+   "nl": "Het skigebied leren kennen met een lokale gids",
+   "en": "Get to know the ski area with a local guide",
+   "de": "Das Skigebiet mit einem Einheimischen kennenlernen"
+  },
+  "intro": {
+   "nl": "Bij een begeleide skitour ontdek je het skigebied rond de Wildschönau met iemand die elke afdaling kent. De gids kiest routes die bij het niveau van de groep passen, wijst mooie uitzichtpunten aan en kent de plekken waar het minder druk is. Zo zie je meer van het gebied dan wanneer je zelf op goed geluk rondrijdt.\n\nDe tocht duurt doorgaans een groot deel van de dag, met een lunchstop in een berghut. De groepen zijn meestal klein. Voor deelname heb je minimaal een basisniveau nodig, zodat je rode en blauwe pistes zonder moeite aankunt. Informeer bij de skischool of je hotel naar data, niveau en kosten.",
+   "en": "On a guided ski tour you discover the ski area around the Wildschönau with someone who knows every run. The guide chooses routes that match the group's level, points out good viewpoints and knows where it is quieter. You see more of the area than if you were skiing around at random.\n\nThe tour usually takes much of the day, with a lunch stop in a mountain hut. Groups are generally small. You need at least a basic level so that you can handle blue and red runs comfortably. Ask the ski school or your hotel about dates, level and costs.",
+   "de": "Bei einer geführten Skitour entdeckst du das Skigebiet rund um die Wildschönau mit jemandem, der jede Abfahrt kennt. Der Guide wählt Routen passend zum Niveau der Gruppe, zeigt schöne Aussichtspunkte und weiß, wo es ruhiger ist. So siehst du mehr vom Gebiet, als wenn du auf gut Glück herumfährst.\n\nDie Tour dauert meist einen großen Teil des Tages, mit Mittagseinkehr in einer Berghütte. Die Gruppen sind in der Regel klein. Du brauchst mindestens ein Grundniveau, damit du blaue und rote Pisten sicher bewältigst. Frag bei der Skischule oder in deiner Unterkunft nach Terminen, Niveau und Kosten."
+  },
+  "tips": {
+   "nl": [
+    "Geef vooraf eerlijk je niveau door, ook dat van de kinderen.",
+    "Vraag of de lunch bij de prijs is inbegrepen.",
+    "Reserveer tijdig; groepen zijn klein.",
+    "Neem een camera mee voor de uitzichtpunten."
+   ],
+   "en": [
+    "Be honest about your level beforehand, including the children's.",
+    "Ask whether lunch is included in the price.",
+    "Book in good time; groups are small.",
+    "Bring a camera for the viewpoints."
+   ],
+   "de": [
+    "Gib vorab ehrlich dein Niveau an, auch das der Kinder.",
+    "Frag, ob das Mittagessen im Preis enthalten ist.",
+    "Buche rechtzeitig; die Gruppen sind klein.",
+    "Nimm eine Kamera für die Aussichtspunkte mit."
+   ]
+  },
+  "practical": {
+   "nl": "De tocht start meestal bij de skischool of bij een van de liften in Niederau en gaat door het skigebied Ski Juwel Alpbachtal Wildschönau. Boek via de skischool of je hotel.",
+   "en": "The tour usually starts at the ski school or at one of the lifts in Niederau and runs through the Ski Juwel Alpbachtal Wildschönau area. Book through the ski school or your hotel.",
+   "de": "Die Tour startet meist an der Skischule oder an einem der Lifte in Niederau und führt durch das Skigebiet Ski Juwel Alpbachtal Wildschönau. Buche über die Skischule oder deine Unterkunft."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar, met basisniveau skiën",
+    "en": "From approx. 6 years, with basic skiing ability",
+    "de": "Ab ca. 6 Jahren, mit Grundkenntnissen im Skifahren"
+   },
+   "duration": {
+    "nl": "Ca. een hele dag",
+    "en": "About a full day",
+    "de": "Ca. ein ganzer Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "In het skigebied bij Niederau",
+    "en": "In the ski area at Niederau",
+    "de": "Im Skigebiet bei Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Skigebied Wildschönau",
+   "en": "Wildschönau ski area",
+   "de": "Skigebiet Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welk niveau heb je nodig voor een begeleide skitour?",
+     "en": "What level do you need for a guided ski tour?",
+     "de": "Welches Niveau braucht man für eine geführte Skitour?"
+    },
+    "a": {
+     "nl": "Een basisniveau waarmee je blauwe en rode pistes aankunt; informeer bij de skischool.",
+     "en": "A basic level at which you can handle blue and red runs; ask the ski school.",
+     "de": "Ein Grundniveau, mit dem du blaue und rote Pisten bewältigst; frag bei der Skischule nach."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s1",
-  "drop": true,
-  "drop_reason": "Route en 'Wildschönbach' niet te bevestigen (rivier heet Wildschönauer Ache); te generiek"
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "family-walk-niederau-oberau",
+  "slug_de": "familienwanderung-niederau-oberau",
+  "title": {
+   "nl": "Familiewandeling Niederau – Oberau",
+   "en": "Family walk Niederau to Oberau",
+   "de": "Familienwanderung Niederau – Oberau"
+  },
+  "tagline": {
+   "nl": "Gemakkelijke wandeling door het dal, langs weiden en water",
+   "en": "An easy walk through the valley, past meadows and water",
+   "de": "Leichter Spaziergang durch das Tal, vorbei an Wiesen und Wasser"
+  },
+  "intro": {
+   "nl": "Tussen Niederau en Oberau loopt een rustige wandelroute door het dal. Het pad is grotendeels vlak en bewegwijzerd, en daardoor ook geschikt voor kleine kinderen en in veel gevallen voor een buggy. Je loopt langs weiden, Tiroler boerderijen en een beek, waar kinderen graag even in het water kijken.\n\nEr zijn korte en iets langere varianten, zodat je zelf kunt bepalen hoe ver je gaat. In de zomer staan de weiden vol bloemen, vooral in juni en juli. De tocht begint in het centrum van Niederau, dus je hoeft niet met de auto weg.",
+   "en": "A quiet walking route runs through the valley between Niederau and Oberau. The path is mostly flat and waymarked, so it suits small children and in many cases a pushchair. You walk past meadows, Tyrolean farmhouses and a stream, where children like to stop and look at the water.\n\nThere are shorter and slightly longer variants, so you can decide how far to go. In summer the meadows are full of flowers, especially in June and July. The walk starts in the centre of Niederau, so you do not need the car.",
+   "de": "Zwischen Niederau und Oberau führt ein ruhiger Wanderweg durch das Tal. Der Weg ist größtenteils flach und beschildert und eignet sich daher für kleine Kinder und in vielen Fällen für einen Kinderwagen. Du gehst an Wiesen, Tiroler Bauernhöfen und einem Bach entlang, wo Kinder gern am Wasser stehen bleiben.\n\nEs gibt kürzere und etwas längere Varianten, sodass du selbst entscheidest, wie weit du gehst. Im Sommer stehen die Wiesen voller Blumen, besonders im Juni und Juli. Die Wanderung beginnt im Zentrum von Niederau, du brauchst also kein Auto."
+  },
+  "tips": {
+   "nl": [
+    "Houd afstand van weidend vee en sluit hekken achter je.",
+    "Neem water en een kleine snack mee.",
+    "De mooiste bloei is meestal in juni en juli.",
+    "Kies een kortere variant als de kinderen moe worden."
+   ],
+   "en": [
+    "Keep your distance from grazing cattle and close gates behind you.",
+    "Bring water and a small snack.",
+    "The best flowers are usually in June and July.",
+    "Choose a shorter variant if the children get tired."
+   ],
+   "de": [
+    "Halte Abstand zu weidendem Vieh und schließe Gatter hinter dir.",
+    "Nimm Wasser und einen kleinen Snack mit.",
+    "Die schönste Blüte ist meist im Juni und Juli.",
+    "Wähle eine kürzere Variante, wenn die Kinder müde werden."
+   ]
+  },
+  "practical": {
+   "nl": "De wandeling begint in het centrum van Niederau en is te voet bereikbaar vanuit de meeste accommodaties. Oberau ligt ca. 3 km verderop; reken op ruim 1 tot 3 uur, afhankelijk van de variant.",
+   "en": "The walk starts in the centre of Niederau and can be reached on foot from most accommodation. Oberau is about 3 km away; allow 1 to 3 hours, depending on the variant.",
+   "de": "Die Wanderung beginnt im Zentrum von Niederau und ist von den meisten Unterkünften zu Fuß erreichbar. Oberau liegt ca. 3 km entfernt; rechne je nach Variante mit 1 bis 3 Stunden."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 3 uur",
+    "en": "About 1 to 3 hours",
+    "de": "Ca. 1 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Niederau – Oberau",
+   "en": "Niederau to Oberau",
+   "de": "Niederau – Oberau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de wandeling Niederau–Oberau geschikt met een buggy?",
+     "en": "Is the Niederau to Oberau walk suitable with a pushchair?",
+     "de": "Ist der Weg Niederau–Oberau mit Kinderwagen geeignet?"
+    },
+    "a": {
+     "nl": "Grotendeels wel, het pad is overwegend vlak; sommige stukken kunnen ruwer zijn.",
+     "en": "Mostly yes, the path is largely flat; some stretches may be rougher.",
+     "de": "Größtenteils ja, der Weg ist überwiegend flach; manche Abschnitte können rauer sein."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s110",
-  "drop": true,
-  "drop_reason": "Roofvogelshow in Wildschönau niet te vinden"
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "birds-of-prey-show-wildschoenau",
+  "slug_de": "greifvogelshow-wildschoenau",
+  "title": {
+   "nl": "Roofvogelshow en valkerij",
+   "en": "Birds of prey show",
+   "de": "Greifvogelshow und Falknerei"
+  },
+  "tagline": {
+   "nl": "Roofvogels van dichtbij zien tijdens een demonstratie",
+   "en": "See birds of prey up close at a demonstration",
+   "de": "Greifvögel bei einer Vorführung aus nächster Nähe erleben"
+  },
+  "intro": {
+   "nl": "Een roofvogelshow laat zien hoe valken, uilen en andere roofvogels vliegen en jagen. Een valkenier vertelt over de dieren, hun leefwijze en hun bescherming, terwijl de vogels dicht over het publiek vliegen. Soms mogen bezoekers met een handschoen een vogel op de hand laten landen.\n\nVoor kinderen is het een indrukwekkende ervaring, al is het wel belangrijk om rustig te blijven en de aanwijzingen van de valkenier te volgen. Of en wanneer er in de regio een show plaatsvindt, wisselt per seizoen. Vraag daarom bij het toeristenbureau van de Wildschönau naar actuele data en de locatie.",
+   "en": "A birds of prey show demonstrates how falcons, owls and other raptors fly and hunt. A falconer talks about the animals, their way of life and their protection, while the birds fly low over the audience. Sometimes visitors may wear a glove and let a bird land on their hand.\n\nFor children it is an impressive experience, although it is important to stay calm and follow the falconer's instructions. Whether and when a show takes place in the region varies by season. Ask the Wildschönau tourist office for current dates and the location.",
+   "de": "Eine Greifvogelshow zeigt, wie Falken, Eulen und andere Greifvögel fliegen und jagen. Ein Falkner erzählt über die Tiere, ihre Lebensweise und ihren Schutz, während die Vögel dicht über das Publikum fliegen. Manchmal dürfen Besucher mit einem Handschuh einen Vogel auf der Hand landen lassen.\n\nFür Kinder ist es ein eindrucksvolles Erlebnis, wobei es wichtig ist, ruhig zu bleiben und den Anweisungen des Falkners zu folgen. Ob und wann in der Region eine Vorführung stattfindet, wechselt je nach Saison. Frag beim Tourismusbüro Wildschönau nach aktuellen Terminen und dem Ort."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf of en wanneer er een show is.",
+    "Blijf rustig en volg de aanwijzingen van de valkenier.",
+    "Neem een camera mee, maar gebruik geen flits.",
+    "Kom op tijd; zitplaatsen kunnen beperkt zijn."
+   ],
+   "en": [
+    "Check beforehand whether and when a show takes place.",
+    "Stay calm and follow the falconer's instructions.",
+    "Bring a camera, but do not use flash.",
+    "Arrive in good time; seating may be limited."
+   ],
+   "de": [
+    "Erkundige dich vorab, ob und wann eine Vorführung stattfindet.",
+    "Bleib ruhig und folge den Anweisungen des Falkners.",
+    "Nimm eine Kamera mit, aber verwende keinen Blitz.",
+    "Komm rechtzeitig; Sitzplätze können begrenzt sein."
+   ]
+  },
+  "practical": {
+   "nl": "De exacte locatie en de data wisselen. Informeer bij het toeristenbureau van de Wildschönau (Niederau of Oberau); de plek ligt in de regel binnen ca. 30 minuten van Niederau.",
+   "en": "The exact location and dates vary. Ask the Wildschönau tourist office (Niederau or Oberau); the venue is generally within about 30 minutes of Niederau.",
+   "de": "Genauer Ort und Termine wechseln. Frag beim Tourismusbüro Wildschönau (Niederau oder Oberau); der Ort liegt in der Regel innerhalb von ca. 30 Minuten von Niederau."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Locatie wisselt; informeer vooraf",
+    "en": "Location varies; ask beforehand",
+    "de": "Ort variiert; bitte vorab erfragen"
+   },
+   "season": {
+    "nl": "Zomer (data wisselen)",
+    "en": "Summer (dates vary)",
+    "de": "Sommer (Termine variieren)"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau en omgeving",
+   "en": "Wildschönau and surroundings",
+   "de": "Wildschönau und Umgebung"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Mogen kinderen een roofvogel op de hand nemen?",
+     "en": "May children hold a bird of prey?",
+     "de": "Dürfen Kinder einen Greifvogel auf die Hand nehmen?"
+    },
+    "a": {
+     "nl": "Soms, met handschoen en onder begeleiding van de valkenier; dat hangt van de aanbieder af.",
+     "en": "Sometimes, with a glove and under the falconer's guidance; it depends on the operator.",
+     "de": "Manchmal, mit Handschuh und unter Anleitung des Falkners; das hängt vom Anbieter ab."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s117",
-  "drop": true,
-  "drop_reason": "Boerderijbezoek met dieren voeren in Thierbach niet te bevestigen"
+  "drop": false,
+  "drop_reason": "",
+  "place": "thierbach",
+  "slug_en": "farm-animals-thierbach",
+  "slug_de": "bauernhoftiere-thierbach",
+  "title": {
+   "nl": "Boerderijdieren in Thierbach",
+   "en": "Farm animals in Thierbach",
+   "de": "Bauernhoftiere in Thierbach"
+  },
+  "tagline": {
+   "nl": "Geiten, schapen en koeien in het achterste dal",
+   "en": "Goats, sheep and cows in the upper valley",
+   "de": "Ziegen, Schafe und Kühe im hinteren Tal"
+  },
+  "intro": {
+   "nl": "Thierbach ligt in het rustige deel van de Wildschönau en is een echt landbouwdorp. Op de boerderijen en weiden zie je geiten, schapen en koeien, en vaak is het mogelijk om de dieren van een veilige afstand te bekijken of, met toestemming van de boer, even te aaien en te voeden.\n\nVoor jonge kinderen is dit een van de leukste uitjes: het kost weinig, het is dichtbij en je maakt kennis met het leven op een Tiroler boerderij. Vraag altijd toestemming voordat je een erf of weide betreedt, volg de aanwijzingen van de boer en bied dieren alleen voer aan dat de boer goedkeurt. Een kleine bijdrage voor het voer wordt gewaardeerd.",
+   "en": "Thierbach lies in the quiet part of the Wildschönau and is a true farming village. On the farms and pastures you see goats, sheep and cows, and it is often possible to watch the animals from a safe distance or, with the farmer's permission, stroke and feed them.\n\nFor young children this is one of the nicest outings: it costs little, it is close and it introduces them to life on a Tyrolean farm. Always ask permission before entering a farmyard or pasture, follow the farmer's instructions and only offer animals food that the farmer approves. A small contribution towards the feed is appreciated.",
+   "de": "Thierbach liegt im ruhigen Teil der Wildschönau und ist ein echtes Bauerndorf. Auf den Höfen und Weiden siehst du Ziegen, Schafe und Kühe, und oft kann man die Tiere aus sicherer Entfernung beobachten oder mit Erlaubnis des Bauern streicheln und füttern.\n\nFür kleine Kinder ist das einer der schönsten Ausflüge: Er kostet wenig, ist nah und zeigt ihnen das Leben auf einem Tiroler Bauernhof. Frag immer um Erlaubnis, bevor du einen Hof oder eine Weide betrittst, folge den Anweisungen des Bauern und biete den Tieren nur Futter an, das der Bauer erlaubt. Ein kleiner Beitrag für das Futter wird geschätzt."
+  },
+  "tips": {
+   "nl": [
+    "Vraag altijd eerst toestemming voordat je een erf betreedt.",
+    "Geef de dieren alleen voer dat de boer toestaat.",
+    "Draag schoenen die vies mogen worden.",
+    "Was na afloop de handen goed."
+   ],
+   "en": [
+    "Always ask permission before entering a farmyard.",
+    "Only give the animals food that the farmer permits.",
+    "Wear shoes that can get dirty.",
+    "Wash hands well afterwards."
+   ],
+   "de": [
+    "Frag immer zuerst um Erlaubnis, bevor du einen Hof betrittst.",
+    "Gib den Tieren nur Futter, das der Bauer erlaubt.",
+    "Trag Schuhe, die schmutzig werden dürfen.",
+    "Wasch dir danach gründlich die Hände."
+   ]
+  },
+  "practical": {
+   "nl": "Thierbach ligt ca. 5 tot 10 minuten rijden van Niederau, aan het eind van het dal. Je kunt ook lopen via een bergpad. Informeer bij het toeristenbureau naar boerderijen die bezoekers verwelkomen.",
+   "en": "Thierbach is about 5 to 10 minutes by car from Niederau, at the end of the valley. You can also walk via a mountain path. Ask the tourist office about farms that welcome visitors.",
+   "de": "Thierbach liegt ca. 5 bis 10 Autominuten von Niederau entfernt, am Ende des Tals. Du kannst auch über einen Bergweg gehen. Frag im Tourismusbüro nach Höfen, die Besucher willkommen heißen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden, favoriet bij peuters",
+    "en": "All ages, a favourite with toddlers",
+    "de": "Für alle Altersgruppen, besonders bei Kleinkindern beliebt"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis; kleine bijdrage voor voer wordt gewaardeerd",
+    "en": "Free; a small contribution for feed is appreciated",
+    "de": "Kostenlos; ein kleiner Beitrag für Futter wird geschätzt"
+   },
+   "distance": {
+    "nl": "Ca. 5 tot 10 min rijden",
+    "en": "About 5 to 10 min by car",
+    "de": "Ca. 5 bis 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Thierbach, Wildschönau",
+   "en": "Thierbach, Wildschönau",
+   "de": "Thierbach, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Mogen kinderen de dieren in Thierbach aaien?",
+     "en": "May children stroke the animals in Thierbach?",
+     "de": "Dürfen Kinder die Tiere in Thierbach streicheln?"
+    },
+    "a": {
+     "nl": "Vaak wel, maar vraag altijd eerst toestemming aan de boer.",
+     "en": "Often yes, but always ask the farmer for permission first.",
+     "de": "Oft ja, aber frag immer zuerst den Bauern um Erlaubnis."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s121",
-  "drop": true,
-  "drop_reason": "Route Oberau-Bründlalm/Markbachjoch en hutten niet te bevestigen; Markbachjoch is gedekt door s18"
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "mountain-hut-hike-oberau",
+  "slug_de": "berghuettenwanderung-oberau",
+  "title": {
+   "nl": "Berghuttenroute vanuit Oberau",
+   "en": "Mountain hut hike from Oberau",
+   "de": "Berghüttenwanderung ab Oberau"
+  },
+  "tagline": {
+   "nl": "Halve dag wandelen langs alpenweiden naar een berghut",
+   "en": "A half-day walk across alpine pastures to a mountain hut",
+   "de": "Halbtageswanderung über Almwiesen zu einer Berghütte"
+  },
+  "intro": {
+   "nl": "Vanuit Oberau lopen bewegwijzerde paden omhoog naar de alpenweiden en berghutten van de Wildschönau. De route gaat door bos, langs beekjes en over open weiden, met onderweg uitzicht over het dal. Op de hut wacht een eenvoudige Tiroler maaltijd, zoals een broodplank of verse karnemelk.\n\nDe wandeling past bij gezinnen met kinderen vanaf ongeveer zes jaar die een halve dag willen lopen. Wie meer uitzicht wil, loopt door richting het Markbachjoch. Terug kun je dezelfde weg nemen of een alternatieve route langs het dal. Haal een wandelkaart bij het toeristenbureau voor de actuele bewegwijzering.",
+   "en": "From Oberau, waymarked paths climb to the alpine pastures and mountain huts of the Wildschönau. The route passes through forest, beside streams and across open pastures, with views over the valley along the way. At the hut a simple Tyrolean meal awaits, such as a platter of bread and cold cuts or fresh buttermilk.\n\nThe walk suits families with children from about six years who want half a day on foot. If you want more views, continue towards the Markbachjoch. You can return the same way or take an alternative route along the valley. Pick up a walking map at the tourist office for the current waymarking.",
+   "de": "Von Oberau führen beschilderte Wege hinauf zu den Almwiesen und Berghütten der Wildschönau. Die Route geht durch Wald, an Bächen entlang und über offene Weiden, mit Aussicht auf das Tal unterwegs. In der Hütte wartet eine einfache Tiroler Mahlzeit, etwa eine Jause oder frische Buttermilch.\n\nDie Wanderung passt zu Familien mit Kindern ab etwa sechs Jahren, die einen halben Tag unterwegs sein wollen. Wer mehr Aussicht möchte, geht weiter Richtung Markbachjoch. Zurück kannst du denselben Weg nehmen oder eine alternative Route entlang des Tals. Hol dir im Tourismusbüro eine Wanderkarte für die aktuelle Beschilderung."
+  },
+  "tips": {
+   "nl": [
+    "Draag stevige wandelschoenen.",
+    "Neem zelf drinken mee; op de route zijn niet overal voorzieningen.",
+    "Haal een wandelkaart bij het toeristenbureau.",
+    "Plan genoeg tijd voor de hutstop."
+   ],
+   "en": [
+    "Wear sturdy hiking shoes.",
+    "Bring your own drinks; there are not facilities everywhere on the route.",
+    "Get a walking map at the tourist office.",
+    "Allow plenty of time for the hut stop."
+   ],
+   "de": [
+    "Trag feste Wanderschuhe.",
+    "Nimm Getränke selbst mit; nicht überall an der Strecke gibt es Einkehr.",
+    "Hol dir eine Wanderkarte im Tourismusbüro.",
+    "Plane genug Zeit für die Hüttenrast ein."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 minuten rijden van Niederau. De wandeling begint bij het dorpscentrum. Reken op ca. 3 tot 4 uur, afhankelijk van route en pauzes.",
+   "en": "Oberau is about 5 minutes by car from Niederau. The walk starts at the village centre. Allow about 3 to 4 hours, depending on route and breaks.",
+   "de": "Oberau liegt ca. 5 Autominuten von Niederau entfernt. Die Wanderung beginnt im Dorfzentrum. Rechne je nach Route und Pausen mit ca. 3 bis 4 Stunden."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From approx. 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 3 tot 4 uur",
+    "en": "About 3 to 4 hours",
+    "de": "Ca. 3 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen is gratis; hutstop op eigen kosten",
+    "en": "Walking is free; hut stop at your own cost",
+    "de": "Wandern ist kostenlos; Hüttenrast auf eigene Kosten"
+   },
+   "distance": {
+    "nl": "Ca. 5 min rijden",
+    "en": "About 5 min by car",
+    "de": "Ca. 5 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je onderweg eten?",
+     "en": "Can you eat along the way?",
+     "de": "Kann man unterwegs einkehren?"
+    },
+    "a": {
+     "nl": "Ja, op de berghut is een eenvoudige Tiroler hap en drink; neem voor de rest zelf water mee.",
+     "en": "Yes, the mountain hut offers simple Tyrolean food and drink; bring your own water for the rest.",
+     "de": "Ja, auf der Berghütte gibt es einfache Tiroler Kost und Getränke; nimm sonst Wasser selbst mit."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s123",
-  "drop": true,
-  "drop_reason": "Geen bestaande activiteit; rivier 'Wildschönbach' klopt niet"
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "skipping-stones-stream-wildschoenau",
+  "slug_de": "steine-flitschen-bach-wildschoenau",
+  "title": {
+   "nl": "Stenen keilen in de beek",
+   "en": "Skipping stones in the stream",
+   "de": "Steine flitschen am Bach"
+  },
+  "tagline": {
+   "nl": "Een eenvoudig spel aan het water voor elk gezin",
+   "en": "A simple game by the water for any family",
+   "de": "Ein einfaches Spiel am Wasser für jede Familie"
+  },
+  "intro": {
+   "nl": "Soms is het simpelste het leukst. Langs de beken en rivieren in het dal van de Wildschönau liggen plekken waar je makkelijk bij het water komt. Daar kun je stenen over het water laten stuiteren: wie krijgt de meeste sprongen? Platte, gladde stenen werken het best.\n\nHet kost niets, vraagt geen voorbereiding en is geschikt voor alle leeftijden. Kinderen zijn er verrassend lang mee bezig, terwijl ouders even tot rust komen. Combineer het met een wandeling of een picknick langs het water. Let wel op: blijf op ondiepe, veilige plekken en houd kleine kinderen altijd in het oog.",
+   "en": "Sometimes the simplest thing is the most fun. Along the streams and rivers in the Wildschönau valley there are places where you can easily reach the water. There you can skim stones across the water: who gets the most skips? Flat, smooth stones work best.\n\nIt costs nothing, needs no preparation and suits all ages. Children stay busy surprisingly long while parents get a moment of rest. Combine it with a walk or a picnic by the water. Do take care: stay at shallow, safe spots and always keep an eye on small children.",
+   "de": "Manchmal ist das Einfachste am schönsten. An den Bächen und Flüssen im Wildschönauer Tal gibt es Stellen, an denen man leicht ans Wasser kommt. Dort kannst du Steine über das Wasser flitschen lassen: Wer schafft die meisten Hüpfer? Flache, glatte Steine eignen sich am besten.\n\nEs kostet nichts, braucht keine Vorbereitung und passt für jedes Alter. Kinder sind erstaunlich lange damit beschäftigt, während Eltern kurz zur Ruhe kommen. Verbinde es mit einem Spaziergang oder einem Picknick am Wasser. Achte aber darauf: Bleib an flachen, sicheren Stellen und behalte kleine Kinder stets im Blick."
+  },
+  "tips": {
+   "nl": [
+    "Zoek platte, gladde stenen.",
+    "Tel de sprongen en maak er een wedstrijd van.",
+    "Peuters vinden gewoon in het water gooien al geweldig.",
+    "Houd kinderen altijd in de buurt van het water in het oog."
+   ],
+   "en": [
+    "Look for flat, smooth stones.",
+    "Count the skips and make it a contest.",
+    "Toddlers simply love throwing stones into the water.",
+    "Always keep children in sight near water."
+   ],
+   "de": [
+    "Such flache, glatte Steine.",
+    "Zähle die Hüpfer und mach einen Wettbewerb daraus.",
+    "Kleinkinder lieben es, einfach Steine ins Wasser zu werfen.",
+    "Behalte Kinder am Wasser stets im Blick."
+   ]
+  },
+  "practical": {
+   "nl": "Je vindt geschikte plekken langs de beken in het dal, vaak vlak bij Niederau en te voet bereikbaar. Informeer bij je accommodatie naar een veilige plek in de buurt.",
+   "en": "Suitable spots can be found along the streams in the valley, often close to Niederau and reachable on foot. Ask your accommodation about a safe spot nearby.",
+   "de": "Geeignete Stellen findest du an den Bächen im Tal, oft nahe bei Niederau und zu Fuß erreichbar. Frag in deiner Unterkunft nach einer sicheren Stelle in der Nähe."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 30 min",
+    "en": "About 30 min",
+    "de": "Ca. 30 Min."
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "In of vlak bij Niederau",
+    "en": "In or near Niederau",
+    "de": "In oder nahe Niederau"
+   },
+   "season": {
+    "nl": "Zomer (bij laag water en droog weer)",
+    "en": "Summer (at low water and in dry weather)",
+    "de": "Sommer (bei Niedrigwasser und trockenem Wetter)"
+   }
+  },
+  "location": {
+   "nl": "Beken in de Wildschönau",
+   "en": "Streams in the Wildschönau",
+   "de": "Bäche in der Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar kun je stenen keilen in de Wildschönau?",
+     "en": "Where can you skip stones in the Wildschönau?",
+     "de": "Wo kann man in der Wildschönau Steine flitschen?"
+    },
+    "a": {
+     "nl": "Langs de beken in het dal, op ondiepe en veilige plekken; vraag je accommodatie om advies.",
+     "en": "Along the streams in the valley, at shallow and safe spots; ask your accommodation for advice.",
+     "de": "An den Bächen im Tal, an flachen und sicheren Stellen; frag deine Unterkunft um Rat."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s124",
@@ -113,7 +750,7 @@
    "en": "Auffach, Wildschönau",
    "de": "Auffach, Wildschönau"
   },
-  "url": "https://www.skijuwel.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -127,17 +764,200 @@
      "de": "Meist Ende Juni und Anfang Juli, es hängt aber von Höhenlage und Wetter ab. Frag vorab bei der Bergbahn nach."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s128",
-  "drop": true,
-  "drop_reason": "Vogelexcursie met ornitholoog niet te bevestigen"
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "birdsong-walk-wildschoenau",
+  "slug_de": "vogelstimmen-wanderung-wildschoenau",
+  "title": {
+   "nl": "Vogelzang herkennen in het bos",
+   "en": "Recognising birdsong in the forest",
+   "de": "Vogelstimmen im Wald erkennen"
+  },
+  "tagline": {
+   "nl": "Een rustige wandeling om vogels op geluid te leren kennen",
+   "en": "A quiet walk to learn birds by their song",
+   "de": "Ein ruhiger Spaziergang, um Vögel an ihrem Gesang zu erkennen"
+  },
+  "intro": {
+   "nl": "In de bergbossen rond de Wildschönau leven veel vogels, van merels en vinken tot spechten en bergvinken. Een vogelwandeling leert je om ze te herkennen, vooral op geluid, want in het bos hoor je ze vaak eerder dan dat je ze ziet. Een gids of kenner vertelt over de soorten en wijst waar je op moet letten.\n\nVoor kinderen is het een rustige, leerzame activiteit, zeker met een verrekijker en een eenvoudig platenboek. Wees stil, kijk goed om je heen en geniet van de natuur. Aanbod en data wisselen; informeer bij het toeristenbureau of een begeleide vogelwandeling mogelijk is, of ga zelf op pad met een gids voor beginners.",
+   "en": "The mountain forests around the Wildschönau are home to many birds, from blackbirds and finches to woodpeckers and bullfinches. A birdwatching walk teaches you to recognise them, mainly by sound, because in the forest you often hear them before you see them. A guide or expert tells you about the species and what to look out for.\n\nFor children it is a quiet, educational activity, especially with binoculars and a simple picture book. Be quiet, look carefully around you and enjoy nature. Offers and dates vary; ask the tourist office whether a guided birdwatching walk is available, or set off on your own with a beginner's guide.",
+   "de": "In den Bergwäldern rund um die Wildschönau leben viele Vögel, von Amseln und Finken bis zu Spechten und Gimpeln. Eine Vogelwanderung lehrt dich, sie zu erkennen, vor allem am Gesang, denn im Wald hört man sie oft früher, als man sie sieht. Ein Guide oder Kenner erzählt über die Arten und worauf man achten sollte.\n\nFür Kinder ist es eine ruhige, lehrreiche Aktivität, besonders mit Fernglas und einem einfachen Bilderbuch. Sei leise, schau dich aufmerksam um und genieße die Natur. Angebot und Termine wechseln; frag im Tourismusbüro, ob eine geführte Vogelwanderung möglich ist, oder zieh selbst los mit einem Einsteigerführer."
+  },
+  "tips": {
+   "nl": [
+    "Neem een verrekijker mee als je die hebt.",
+    "Wees stil; vogels zijn schuw.",
+    "Ga vroeg op pad, dan zijn de vogels het actiefst.",
+    "Neem een eenvoudig vogelboek of app voor beginners mee."
+   ],
+   "en": [
+    "Bring binoculars if you have them.",
+    "Stay quiet; birds are shy.",
+    "Set off early, when birds are most active.",
+    "Bring a simple bird book or app for beginners."
+   ],
+   "de": [
+    "Nimm ein Fernglas mit, wenn du eines hast.",
+    "Sei leise; Vögel sind scheu.",
+    "Geh früh los, dann sind die Vögel am aktivsten.",
+    "Nimm ein einfaches Vogelbuch oder eine App für Einsteiger mit."
+   ]
+  },
+  "practical": {
+   "nl": "De wandeling vindt plaats in de bossen in de Wildschönau, vaak vlak bij Niederau. Informeer bij het toeristenbureau naar actuele begeleide uitjes.",
+   "en": "The walk takes place in the forests of the Wildschönau, often close to Niederau. Ask the tourist office about current guided outings.",
+   "de": "Die Wanderung findet in den Wäldern der Wildschönau statt, oft nahe Niederau. Frag im Tourismusbüro nach aktuellen geführten Angeboten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 5 jaar",
+    "en": "From approx. 5 years",
+    "de": "Ab ca. 5 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "In de Wildschönau",
+    "en": "In the Wildschönau",
+    "de": "In der Wildschönau"
+   },
+   "season": {
+    "nl": "Zomer (vooral voorjaar tot vroege zomer)",
+    "en": "Summer (best spring to early summer)",
+    "de": "Sommer (besonders Frühling bis Frühsommer)"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau",
+   "en": "Wildschönau",
+   "de": "Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is een vogelwandeling geschikt voor kinderen?",
+     "en": "Is a birdwatching walk suitable for children?",
+     "de": "Ist eine Vogelwanderung für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, vanaf ongeveer vijf jaar, als ze het kunnen volhouden om stil te zijn.",
+     "en": "Yes, from about five years, if they can manage to stay quiet.",
+     "de": "Ja, ab etwa fünf Jahren, wenn sie es schaffen, still zu sein."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s129",
-  "drop": true,
-  "drop_reason": "Picknick/koeienalm bij Auffach te generiek en niet te bevestigen"
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "alm-picnic-auffach",
+  "slug_de": "alm-picknick-auffach",
+  "title": {
+   "nl": "Picknick op een alm bij Auffach",
+   "en": "Picnic on an alm near Auffach",
+   "de": "Picknick auf einer Alm bei Auffach"
+  },
+  "tagline": {
+   "nl": "Luieren op de weide met koeienbellen als achtergrondgeluid",
+   "en": "Relaxing in a meadow with cowbells as the soundtrack",
+   "de": "Entspannen auf der Wiese mit Kuhglocken als Klangkulisse"
+  },
+  "intro": {
+   "nl": "Boven Auffach liggen alpenweiden waar in de zomer vee graast en de koeienbellen klinken. Het is een prachtige plek voor een picknick: groen gras, een beek in de buurt en uitzicht over de bergen. Je kunt er in ongeveer een half uur lopend komen, of een deel met de fiets of e-bike doen.\n\nNeem een kleed en zelf wat eten mee, bijvoorbeeld brood, kaas en fruit. Soms is er in de buurt een alm waar je verse producten kunt kopen. Koeien zijn meestal nieuwsgierig maar je blijft op afstand; laat hekken zoals je ze aantreft en neem je afval mee. Een rustige halve dag voor het hele gezin.",
+   "en": "Above Auffach there are alpine pastures where cattle graze in summer and cowbells ring. It is a lovely spot for a picnic: green grass, a stream nearby and a view over the mountains. You can walk there in about half an hour, or cover part of it by bike or e-bike.\n\nBring a blanket and your own food, such as bread, cheese and fruit. Sometimes there is an alm nearby where you can buy fresh products. Cows are usually curious but you keep your distance; leave gates as you find them and take your rubbish home. A relaxed half day for the whole family.",
+   "de": "Oberhalb von Auffach liegen Almwiesen, auf denen im Sommer Vieh weidet und Kuhglocken klingen. Es ist ein wunderbarer Platz für ein Picknick: grünes Gras, ein Bach in der Nähe und Aussicht über die Berge. Du kannst in etwa einer halben Stunde zu Fuß hinaufgehen oder einen Teil mit dem Rad oder E-Bike zurücklegen.\n\nNimm eine Decke und eigenes Essen mit, etwa Brot, Käse und Obst. Manchmal gibt es in der Nähe eine Alm, wo du frische Produkte kaufen kannst. Kühe sind meist neugierig, du hältst aber Abstand; lass Gatter, wie du sie vorfindest, und nimm deinen Müll mit. Ein entspannter halber Tag für die ganze Familie."
+  },
+  "tips": {
+   "nl": [
+    "Neem een kleed, drinken en een afvalzak mee.",
+    "Houd afstand van koeien en voer ze niet.",
+    "Koop eventueel kaas of worst bij een alm in de buurt.",
+    "Check het weer; bij regen en onweer ga je beter niet."
+   ],
+   "en": [
+    "Bring a blanket, drinks and a rubbish bag.",
+    "Keep away from cows and do not feed them.",
+    "If possible, buy cheese or sausage at a nearby alm.",
+    "Check the weather; do not go in rain or thunderstorms."
+   ],
+   "de": [
+    "Nimm eine Decke, Getränke und einen Müllbeutel mit.",
+    "Halte Abstand zu Kühen und füttere sie nicht.",
+    "Kauf wenn möglich Käse oder Wurst auf einer Alm in der Nähe.",
+    "Prüfe das Wetter; bei Regen und Gewitter geh besser nicht."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 10 minuten rijden van Niederau. Vanaf het dorp loop je in ca. 30 minuten naar de weiden, of je fietst een deel. Vraag ter plaatse naar een geschikte plek.",
+   "en": "Auffach is about 10 minutes by car from Niederau. From the village you walk to the pastures in about 30 minutes, or cycle part of the way. Ask locally for a suitable spot.",
+   "de": "Auffach liegt ca. 10 Autominuten von Niederau entfernt. Vom Dorf gehst du in ca. 30 Minuten zu den Wiesen oder fährst einen Teil mit dem Rad. Frag vor Ort nach einem geeigneten Platz."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Gratis; eigen picknick",
+    "en": "Free; bring your own picnic",
+    "de": "Kostenlos; eigenes Picknick"
+   },
+   "distance": {
+    "nl": "Ca. 10 min rijden",
+    "en": "About 10 min by car",
+    "de": "Ca. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang loop je naar de weiden boven Auffach?",
+     "en": "How long is the walk to the pastures above Auffach?",
+     "de": "Wie lange geht man zu den Wiesen oberhalb von Auffach?"
+    },
+    "a": {
+     "nl": "Ongeveer een half uur vanaf het dorp; het exacte pad hangt van de gekozen plek af.",
+     "en": "About half an hour from the village; the exact path depends on the spot you choose.",
+     "de": "Etwa eine halbe Stunde vom Dorf; der genaue Weg hängt vom gewählten Platz ab."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s131",
@@ -218,7 +1038,7 @@
    "en": "Hopfgarten im Brixental",
    "de": "Hopfgarten im Brixental"
   },
-  "url": "https://www.kitzbueheler-alpen.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -232,7 +1052,8 @@
      "de": "Der Gipfel liegt auf 1.829 m. Dort steht das Salvenkirchlein, eine Wallfahrtskirche von 1777."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s135",
@@ -313,7 +1134,7 @@
    "en": "Westendorf, Brixental",
    "de": "Westendorf, Brixental"
   },
-  "url": "https://www.skiwelt.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -327,7 +1148,8 @@
      "de": "Ja, es gibt kurze Themenwege für Familien und längere Routen für alle, die weiter wandern möchten."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s138",
@@ -408,7 +1230,7 @@
    "en": "Söll, Wilder Kaiser",
    "de": "Söll, Wilder Kaiser"
   },
-  "url": "https://www.skiwelt.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -422,7 +1244,8 @@
      "de": "Ja, der Berg hat Bergbahnen auf beiden Seiten. Wähle die Seite, die am besten zu deinem Tagesplan passt."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s146",
@@ -503,7 +1326,7 @@
    "en": "Scheffau am Wilden Kaiser",
    "de": "Scheffau am Wilden Kaiser"
   },
-  "url": "https://www.skiwelt.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -517,17 +1340,200 @@
      "de": "Es gibt die KaiserWelt mit Edelsteinsuche, Klettern und Spielen an Bächen."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s15",
-  "drop": true,
-  "drop_reason": "Zonsopgangswandeling met gids via Hotel Wastlhof niet te bevestigen"
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "sunrise-hike-markbachjoch",
+  "slug_de": "sonnenaufgangswanderung-markbachjoch",
+  "title": {
+   "nl": "Zonsopgangswandeling",
+   "en": "Sunrise hike",
+   "de": "Sonnenaufgangswanderung"
+  },
+  "tagline": {
+   "nl": "Vroeg op voor de eerste zonnestralen op de bergen",
+   "en": "Up early for the first sun on the mountains",
+   "de": "Früh aufstehen für die ersten Sonnenstrahlen auf den Bergen"
+  },
+  "intro": {
+   "nl": "Een zonsopgang in de bergen is iets bijzonders: stilte, frisse lucht en een hemel die langzaam van kleur verandert. Vanuit Niederau kun je in het vroege ochtendlicht omhoog lopen naar het gebied rond het Markbachjoch. Een wandeling met gids is mogelijk wanneer die wordt aangeboden; vraag ernaar bij je hotel.\n\nDe tocht begint donker, dus een hoofdlamp en goede schoenen zijn nodig, en het pad kan in de vroege ochtend wat glad zijn. De tijd van zonsopkomst hangt af van het seizoen: in juni ligt die rond kwart over vijf, in augustus rond zes uur. Na terugkeer is het ontbijt extra lekker. Geschikt voor kinderen vanaf ongeveer acht jaar die graag vroeg opstaan.",
+   "en": "A sunrise in the mountains is something special: silence, fresh air and a sky slowly changing colour. From Niederau you can walk up in the early morning light to the area around the Markbachjoch. A guided walk is possible when one is offered; ask your hotel.\n\nThe walk begins in the dark, so a head torch and good shoes are needed, and the path can be a little slippery early in the morning. The time of sunrise depends on the season: in June it is around a quarter past five, in August around six. Breakfast after you return tastes even better. Suitable for children from about eight who do not mind getting up early.",
+   "de": "Ein Sonnenaufgang in den Bergen ist etwas Besonderes: Stille, frische Luft und ein Himmel, der langsam die Farbe wechselt. Von Niederau aus kannst du im frühen Morgenlicht in das Gebiet rund um das Markbachjoch aufsteigen. Eine geführte Wanderung ist möglich, wenn sie angeboten wird; frag in deiner Unterkunft danach.\n\nDie Wanderung beginnt im Dunkeln, daher sind Stirnlampe und gute Schuhe nötig, und der Weg kann am frühen Morgen etwas rutschig sein. Die Zeit des Sonnenaufgangs hängt von der Jahreszeit ab: im Juni gegen Viertel nach fünf, im August gegen sechs Uhr. Das Frühstück nach der Rückkehr schmeckt dann besonders gut. Geeignet für Kinder ab etwa acht Jahren, die gern früh aufstehen."
+  },
+  "tips": {
+   "nl": [
+    "Neem een hoofdlamp en warme kleding mee.",
+    "Vertrek ruim vóór zonsopgang; reken op ca. anderhalf uur lopen.",
+    "Neem thee en iets te eten mee voor boven.",
+    "Check het weer; bij bewolking is het de moeite niet."
+   ],
+   "en": [
+    "Bring a head torch and warm clothing.",
+    "Leave well before sunrise; allow about an hour and a half of walking.",
+    "Bring tea and a snack for the top.",
+    "Check the weather; it is not worth it under cloud."
+   ],
+   "de": [
+    "Nimm eine Stirnlampe und warme Kleidung mit.",
+    "Brich weit vor Sonnenaufgang auf; rechne mit ca. anderthalb Stunden Gehzeit.",
+    "Nimm Tee und etwas zu essen für oben mit.",
+    "Prüfe das Wetter; bei Bewölkung lohnt es sich nicht."
+   ]
+  },
+  "practical": {
+   "nl": "De wandeling begint in Niederau, vaak vanuit een hotel of het dorpscentrum, en gaat ca. 4 km omhoog naar het Markbachjoch-gebied. Reken op ca. 2 uur. Informeer vooraf of er een begeleide tocht is.",
+   "en": "The walk starts in Niederau, often from a hotel or the village centre, and climbs about 4 km to the Markbachjoch area. Allow about 2 hours. Ask beforehand whether a guided walk is available.",
+   "de": "Die Wanderung beginnt in Niederau, oft von einer Unterkunft oder dem Dorfzentrum, und führt ca. 4 km hinauf ins Gebiet Markbachjoch. Rechne mit ca. 2 Stunden. Frag vorab, ob eine geführte Tour angeboten wird."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From approx. 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf; wisselt bij begeleide tocht",
+    "en": "Ask in advance; varies for a guided walk",
+    "de": "Bitte vorab erfragen; variiert bei geführter Tour"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Niederau en Markbachjoch",
+   "en": "Niederau and Markbachjoch",
+   "de": "Niederau und Markbachjoch"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe vroeg moet je vertrekken voor de zonsopgang?",
+     "en": "How early do you need to leave for sunrise?",
+     "de": "Wie früh muss man für den Sonnenaufgang aufbrechen?"
+    },
+    "a": {
+     "nl": "Reken op ruim anderhalf uur vóór zonsopgang; de tijd hangt af van de maand.",
+     "en": "Allow well over an hour before sunrise; the time depends on the month.",
+     "de": "Rechne mit gut anderthalb Stunden vor Sonnenaufgang; die Zeit hängt vom Monat ab."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s150",
-  "drop": true,
-  "drop_reason": "Ringroute Söll-Hopfgarten niet te bevestigen; overlapt s131/s138"
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "skiwelt-panorama-hike-soell-hopfgarten",
+  "slug_de": "skiwelt-panoramawanderung-soell-hopfgarten",
+  "title": {
+   "nl": "Panoramawandeling Söll – Hopfgarten",
+   "en": "Panorama hike Söll to Hopfgarten",
+   "de": "Panoramawanderung Söll – Hopfgarten"
+  },
+  "tagline": {
+   "nl": "Een rondwandeling over de bergrug van de SkiWelt",
+   "en": "A ridge walk across the SkiWelt mountains",
+   "de": "Eine Gratwanderung über die SkiWelt-Berge"
+  },
+  "intro": {
+   "nl": "Deze wandeling loopt over de bergrug tussen Söll en Hopfgarten, in het zomerlandschap van de SkiWelt Wilder Kaiser – Brixental. Je gaat met de bergbahn omhoog en loopt bij de Hohe Salve over de rug, met uitzicht aan beide zijden van het gebergte: aan de ene kant de Wilder Kaiser, aan de andere de Kitzbüheler Alpen.\n\nOnderweg passeer je enkele berghutten waar je kunt pauzeren. Sommige stukken zijn steil, dus goede schoenen zijn nodig, en je moet vooraf de bedrijfstijden van de liften en een terugweg regelen. De tocht past bij gezinnen met kinderen vanaf ongeveer acht jaar die ervaring met wandelen hebben. Reken op ca. 3 tot 4 uur.",
+   "en": "This walk follows the ridge between Söll and Hopfgarten, in the summer landscape of the SkiWelt Wilder Kaiser – Brixental. You ride a cable car up and walk along the ridge near the Hohe Salve, with views on both sides of the range: the Wilder Kaiser on one side and the Kitzbühel Alps on the other.\n\nAlong the way you pass several mountain huts where you can take a break. Some stretches are steep, so good shoes are needed, and you should check lift operating times and your return journey beforehand. The walk suits families with children from about eight who have some hiking experience. Allow about 3 to 4 hours.",
+   "de": "Diese Wanderung folgt dem Bergrücken zwischen Söll und Hopfgarten, in der sommerlichen Landschaft der SkiWelt Wilder Kaiser – Brixental. Du fährst mit der Bergbahn hinauf und gehst bei der Hohen Salve über den Kamm, mit Blick auf beide Seiten des Gebirges: auf der einen Seite der Wilde Kaiser, auf der anderen die Kitzbüheler Alpen.\n\nUnterwegs kommst du an mehreren Berghütten vorbei, wo du pausieren kannst. Einige Abschnitte sind steil, daher sind gute Schuhe nötig, und du solltest vorab Betriebszeiten der Lifte und die Rückreise klären. Die Wanderung passt zu Familien mit Kindern ab etwa acht Jahren, die etwas Wandererfahrung haben. Rechne mit ca. 3 bis 4 Stunden."
+  },
+  "tips": {
+   "nl": [
+    "Vertrek vroeg voor het beste licht en voldoende tijd.",
+    "Draag stevige schoenen; sommige stukken zijn steil.",
+    "Regel de terugweg en check de laatste bahntijd.",
+    "Neem water mee en plan een hutstop in."
+   ],
+   "en": [
+    "Start early for the best light and plenty of time.",
+    "Wear sturdy shoes; some stretches are steep.",
+    "Arrange your return and check the last lift time.",
+    "Bring water and plan a hut stop."
+   ],
+   "de": [
+    "Starte früh für das beste Licht und genug Zeit.",
+    "Trag feste Schuhe; einige Abschnitte sind steil.",
+    "Kläre die Rückreise und prüfe die letzte Bahnfahrt.",
+    "Nimm Wasser mit und plane eine Hüttenrast ein."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten en Söll liggen ca. 25 tot 35 minuten rijden van Niederau. Omdat start en eindpunt in verschillende dorpen liggen, is het handig om vooraf te plannen hoe je terugkomt (bahn, bus of tweede auto).",
+   "en": "Hopfgarten and Söll are about 25 to 35 minutes by car from Niederau. Because start and end are in different villages, plan in advance how you will get back (lift, bus or second car).",
+   "de": "Hopfgarten und Söll liegen ca. 25 bis 35 Autominuten von Niederau entfernt. Da Start und Ziel in verschiedenen Orten liegen, plane vorab, wie du zurückkommst (Bahn, Bus oder zweites Auto)."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From approx. 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 3 tot 4 uur",
+    "en": "About 3 to 4 hours",
+    "de": "Ca. 3 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 tot 35 min rijden",
+    "en": "About 25 to 35 min by car",
+    "de": "Ca. 25 bis 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot oktober)",
+    "en": "Summer (approx. May to October)",
+    "de": "Sommer (ca. Mai bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Söll en Hopfgarten",
+   "en": "Söll and Hopfgarten",
+   "de": "Söll und Hopfgarten"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang duurt de wandeling tussen Söll en Hopfgarten?",
+     "en": "How long does the walk between Söll and Hopfgarten take?",
+     "de": "Wie lange dauert die Wanderung zwischen Söll und Hopfgarten?"
+    },
+    "a": {
+     "nl": "Reken op ca. 3 tot 4 uur, plus tijd voor pauzes en de terugreis.",
+     "en": "Allow about 3 to 4 hours, plus time for breaks and the return journey.",
+     "de": "Rechne mit ca. 3 bis 4 Stunden, plus Zeit für Pausen und die Rückreise."
+    }
+   }
+  ],
+  "verified": false
  },
  {
   "id": "s151",
@@ -622,7 +1628,8 @@
      "de": "Manchmal, aber nicht immer. Es hängt von den Schneeverhältnissen ab, daher bitte vorab erfragen."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s160",
@@ -717,7 +1724,8 @@
      "de": "Kurze Routen am See ja; die längeren Wege sind steil und passen eher zu älteren Kindern."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s164",
@@ -812,7 +1820,8 @@
      "de": "Im Pillerseetal nordöstlich von Kitzbühel, bei St. Ulrich am Pillersee."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s165",
@@ -893,7 +1902,7 @@
    "en": "Alpbach, Alpbachtal",
    "de": "Alpbach, Alpbachtal"
   },
-  "url": "https://www.alpbachtal.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -907,7 +1916,8 @@
      "de": "Für seine einheitliche Holzarchitektur mit viel Blumenschmuck und für das Europäische Forum Alpbach im August."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s166",
@@ -988,7 +1998,7 @@
    "en": "Alpbach, Alpbachtal",
    "de": "Alpbach, Alpbachtal"
   },
-  "url": "https://www.alpbachtal.at",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -1002,7 +2012,8 @@
      "de": "Ein Spiel- und Erlebnisbereich für Familien an der Bergstation der Wiedersbergerhornbahn."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s173",
@@ -1097,7 +2108,8 @@
      "de": "Je nach Route siehst du den Wilden Kaiser und die Kitzbüheler Alpen."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s179",
@@ -1178,7 +2190,7 @@
    "en": "Kitzbühel",
    "de": "Kitzbühel"
   },
-  "url": "https://www.kitzbuehel.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -1192,7 +2204,8 @@
      "de": "Die Bergstation liegt auf rund 1.650 m; der höchste Punkt, die Ehrenbachhöhe, auf 1.802 m."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s18",
@@ -1273,7 +2286,7 @@
    "en": "Niederau, Wildschönau",
    "de": "Niederau, Wildschönau"
   },
-  "url": "https://www.skijuwel.com",
+  "url": "",
   "faq": [
    {
     "q": {
@@ -1287,11 +2300,103 @@
      "de": "Mit der Markbachjochbahn ab Niederau oder zu Fuß. Die Bergstation liegt auf 1.465 m."
     }
    }
-  ]
+  ],
+  "verified": false
  },
  {
   "id": "s188",
-  "drop": true,
-  "drop_reason": "Forellenpark/zoetwaterakwarium in Kramsach niet te vinden (wel Museum Tiroler Bauernhöfe en Reintalersee)"
+  "drop": false,
+  "drop_reason": "",
+  "place": "kramsach",
+  "slug_en": "trout-park-kramsach",
+  "slug_de": "forellenpark-kramsach",
+  "title": {
+   "nl": "Forellenpark Kramsach",
+   "en": "Kramsach trout park",
+   "de": "Forellenpark Kramsach"
+  },
+  "tagline": {
+   "nl": "Vissen bekijken en wandelen langs de Reintalerseen",
+   "en": "See fish and walk by the Reintaler lakes",
+   "de": "Fische beobachten und an den Reintaler Seen wandern"
+  },
+  "intro": {
+   "nl": "Kramsach ligt in het Inntal, bekend om zijn meertjes, waaronder de Reintalersee. In de buurt is een visattractie te vinden waar je forellen en andere zoetwatervissen kunt bekijken. Voor kinderen is dat leuk, zeker als er voerdemonstraties zijn. Of het aanbod in dit seizoen nog hetzelfde is, kun je het best vooraf navragen.\n\nNaast het kijken naar vis kun je rond de meertjes wandelen, picknicken en in de zomer vaak zwemmen. In de omgeving ligt ook het Museum Tiroler Bauernhöfe, een openluchtmuseum met oude boerderijen. Samen vormt dit een leuke halve dag voor gezinnen. Aangezien de naam en openingstijden kunnen wisselen, is het verstandig om vooraf even te informeren.",
+   "en": "Kramsach lies in the Inn valley and is known for its small lakes, including the Reintalersee. Nearby there is a fish attraction where you can see trout and other freshwater fish. Children enjoy this, especially if there are feeding demonstrations. Whether the offer is still the same this season is best checked beforehand.\n\nBesides looking at fish you can walk around the lakes, have a picnic and often swim in summer. The area also has the Museum Tiroler Bauernhöfe, an open-air museum of old farmhouses. Together this makes a pleasant half day for families. Because the name and opening times may change, it is wise to ask in advance.",
+   "de": "Kramsach liegt im Inntal und ist für seine kleinen Seen bekannt, darunter der Reintalersee. In der Nähe gibt es eine Fischattraktion, in der du Forellen und andere Süßwasserfische sehen kannst. Kinder macht das Spaß, besonders wenn es Fütterungen gibt. Ob das Angebot in dieser Saison noch gleich ist, erfragst du am besten vorab.\n\nNeben dem Fischeschauen kannst du um die Seen wandern, picknicken und im Sommer oft baden. In der Nähe liegt auch das Museum Tiroler Bauernhöfe, ein Freilichtmuseum mit alten Bauernhäusern. Zusammen ergibt das einen schönen halben Tag für Familien. Da sich Name und Öffnungszeiten ändern können, ist es ratsam, vorher nachzufragen."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf naar openingstijden en prijzen.",
+    "Combineer het bezoek met een wandeling rond de Reintalersee.",
+    "Neem zwemkleding mee als het warm is.",
+    "Bezoek in de buurt eventueel het Museum Tiroler Bauernhöfe."
+   ],
+   "en": [
+    "Check opening times and prices beforehand.",
+    "Combine the visit with a walk around the Reintalersee.",
+    "Bring swimwear if it is warm.",
+    "If you like, visit the Museum Tiroler Bauernhöfe nearby."
+   ],
+   "de": [
+    "Erkundige dich vorab nach Öffnungszeiten und Preisen.",
+    "Verbinde den Besuch mit einem Spaziergang um den Reintalersee.",
+    "Nimm Badesachen mit, wenn es warm ist.",
+    "Besuche in der Nähe gegebenenfalls das Museum Tiroler Bauernhöfe."
+   ]
+  },
+  "practical": {
+   "nl": "Kramsach ligt ca. 25 tot 30 minuten rijden van Niederau, via Wörgl en de A12 of de Inntalstraße. In de omgeving van de meertjes is parkeergelegenheid.",
+   "en": "Kramsach is about 25 to 30 minutes by car from Niederau, via Wörgl and the A12 or the Inn valley road. There is parking near the lakes.",
+   "de": "Kramsach liegt ca. 25 bis 30 Autominuten von Niederau entfernt, über Wörgl und die A12 oder die Inntalstraße. In der Nähe der Seen gibt es Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 tot 30 min rijden",
+    "en": "About 25 to 30 min by car",
+    "de": "Ca. 25 bis 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (informeer naar het aanbod)",
+    "en": "Year-round (check what is on offer)",
+    "de": "Ganzjährig (Angebot erfragen)"
+   }
+  },
+  "location": {
+   "nl": "Kramsach, Inntal",
+   "en": "Kramsach, Inn valley",
+   "de": "Kramsach, Inntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er te doen bij de Reintalersee?",
+     "en": "What is there to do at the Reintalersee?",
+     "de": "Was kann man am Reintalersee unternehmen?"
+    },
+    "a": {
+     "nl": "Wandelen, picknicken en in de zomer vaak zwemmen; in de buurt ligt het Museum Tiroler Bauernhöfe.",
+     "en": "Walking, picnicking and often swimming in summer; the Museum Tiroler Bauernhöfe is nearby.",
+     "de": "Wandern, Picknicken und im Sommer oft Baden; in der Nähe liegt das Museum Tiroler Bauernhöfe."
+    }
+   }
+  ],
+  "verified": false
  }
 ]
