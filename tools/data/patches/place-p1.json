@@ -1,0 +1,621 @@
+[
+ {
+  "slug": "oberau",
+  "region": "wildschoenau",
+  "drop": false,
+  "name": {
+   "nl": "Oberau",
+   "en": "Oberau",
+   "de": "Oberau"
+  },
+  "tagline": {
+   "nl": "Centraal dorp in de Wildschönau, vlak bij Niederau",
+   "en": "Central village in the Wildschönau, right next to Niederau",
+   "de": "Zentraler Ort der Wildschönau, gleich bei Niederau"
+  },
+  "intro": {
+   "nl": "Oberau is een van de vier dorpen van de Wildschönau en ligt in het midden van het dal, op enkele minuten van Niederau. Hier zitten het toeristische en praktische hart van het dal: winkels, horeca en het dorpsleven van alledag. Wie in Niederau logeert, komt er vaak voor boodschappen of een terrasje.\n\nHet dorp heeft een paar eigen bezienswaardigheden. De barokke parochiekerk met haar hoge toren is al van verre te zien en geldt als herkenningspunt van het dal. Het Bergbauernmuseum z'Bach, een oude boerderij met kamers uit 1795 en meer dan 1.100 voorwerpen, laat zien hoe de bergboeren hier vroeger woonden en werkten. Ook het openluchtbad Bergbadl ligt in Oberau en is op een warme zomerdag een welkome plek voor kinderen.\n\nVoor gezinnen is er ook een wandeling tussen Niederau en Oberau: de Wirbelwindweg, een route van ca. 4 km met speelplekken in bos en langs beken. Openingstijden en seizoenen van museum en bad wisselen; informeer vooraf.",
+   "en": "Oberau is one of the four villages of the Wildschönau and lies in the middle of the valley, a few minutes from Niederau. It is the practical heart of the valley: shops, places to eat and everyday village life. If you stay in Niederau, you will often come here for groceries or a drink on a terrace.\n\nThe village has a few sights of its own. The Baroque parish church with its tall tower can be seen from afar and is a landmark of the valley. The Bergbauernmuseum z'Bach, an old farmhouse with rooms dating from 1795 and more than 1,100 objects, shows how mountain farmers once lived and worked. The Bergbadl outdoor pool is also in Oberau and is a welcome spot for children on a warm summer day.\n\nFamilies can also try the walk between Niederau and Oberau: the Wirbelwindweg, a route of about 4 km with play stations in the forest and along streams. Opening times and seasons of the museum and pool vary, so check beforehand.",
+   "de": "Oberau ist eines der vier Dörfer der Wildschönau und liegt mitten im Tal, wenige Minuten von Niederau entfernt. Hier schlägt das praktische Herz des Tals: Geschäfte, Gastronomie und das alltägliche Dorfleben. Wer in Niederau wohnt, kommt oft zum Einkaufen oder auf einen Kaffee auf der Terrasse her.\n\nDas Dorf hat einige eigene Sehenswürdigkeiten. Die barocke Pfarrkirche mit ihrem hohen Turm ist weithin sichtbar und ein Wahrzeichen des Tals. Das Bergbauernmuseum z'Bach, ein alter Bauernhof mit Räumen aus dem Jahr 1795 und über 1.100 Exponaten, zeigt, wie die Bergbauern früher lebten und arbeiteten. Auch das Freibad Bergbadl liegt in Oberau und ist an warmen Sommertagen ein willkommener Ort für Kinder.\n\nFamilien können außerdem den Weg zwischen Niederau und Oberau gehen: den Wirbelwindweg, eine Route von etwa 4 km mit Spielstationen im Wald und an Bächen. Öffnungszeiten und Saisonzeiten von Museum und Bad ändern sich, bitte vorab erfragen."
+  },
+  "highlights": {
+   "nl": [
+    "Bergbauernmuseum z'Bach: oude boerderij met meer dan 1.100 voorwerpen",
+    "Barokke parochiekerk met hoge toren, herkenningspunt van het dal",
+    "Openluchtbad Bergbadl voor warme zomerdagen (zomer)",
+    "Wirbelwindweg met speelplekken tussen Niederau en Oberau (zomer)",
+    "Winkels en horeca voor boodschappen en een tussenstop"
+   ],
+   "en": [
+    "Bergbauernmuseum z'Bach: old farmhouse with more than 1,100 objects",
+    "Baroque parish church with a tall tower, a landmark of the valley",
+    "Bergbadl outdoor pool for warm days (summer)",
+    "Wirbelwindweg with play stations between Niederau and Oberau (summer)",
+    "Shops and places to eat for groceries and a stopover"
+   ],
+   "de": [
+    "Bergbauernmuseum z'Bach: alter Bauernhof mit über 1.100 Exponaten",
+    "Barocke Pfarrkirche mit hohem Turm, Wahrzeichen des Tals",
+    "Freibad Bergbadl für warme Tage (Sommer)",
+    "Wirbelwindweg mit Spielstationen zwischen Niederau und Oberau (Sommer)",
+    "Geschäfte und Gastronomie für Einkäufe und eine Pause"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 5 minuten rijden vanaf Niederau, via de dalweg door de Wildschönau.",
+   "en": "About 5 minutes by car from Niederau, along the valley road through the Wildschönau.",
+   "de": "Ca. 5 Minuten mit dem Auto ab Niederau, über die Talstraße durch die Wildschönau."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die iets praktisch en dichtbij zoeken, met een museum en bad.",
+   "en": "Suits families looking for something practical and close by, with a museum and pool.",
+   "de": "Passt zu Familien, die etwas Praktisches in der Nähe suchen, mit Museum und Bad."
+  },
+  "season": {
+   "nl": "Het hele jaar; het bad vooral in de zomer.",
+   "en": "All year round; the pool mainly in summer.",
+   "de": "Das ganze Jahr; das Bad vor allem im Sommer."
+  },
+  "drive_min": 5,
+  "elevation_m": null,
+  "url": "https://www.wildschoenau.com/",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Oberau ver van Niederau?",
+     "en": "Is Oberau far from Niederau?",
+     "de": "Ist Oberau weit von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Nee, Oberau ligt ca. 5 minuten rijden van Niederau, in hetzelfde dal.",
+     "en": "No, Oberau is about 5 minutes by car from Niederau, in the same valley.",
+     "de": "Nein, Oberau liegt ca. 5 Minuten Autofahrt von Niederau entfernt, im selben Tal."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen te doen in Oberau?",
+     "en": "What is there for children in Oberau?",
+     "de": "Was gibt es in Oberau für Kinder?"
+    },
+    "a": {
+     "nl": "Onder meer het Bergbauernmuseum z'Bach, het openluchtbad Bergbadl en de Wirbelwindweg; informeer vooraf naar de openingstijden.",
+     "en": "Among other things the Bergbauernmuseum z'Bach, the Bergbadl outdoor pool and the Wirbelwindweg; check opening times beforehand.",
+     "de": "Unter anderem das Bergbauernmuseum z'Bach, das Freibad Bergbadl und der Wirbelwindweg; Öffnungszeiten bitte vorab erfragen."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "auffach",
+  "region": "wildschoenau",
+  "drop": false,
+  "name": {
+   "nl": "Auffach",
+   "en": "Auffach",
+   "de": "Auffach"
+  },
+  "tagline": {
+   "nl": "Dorp aan de voet van de Schatzberg, met bergbaan en wandelgebied",
+   "en": "Village at the foot of the Schatzberg, with a cable car and hiking area",
+   "de": "Dorf am Fuß des Schatzbergs, mit Bergbahn und Wandergebiet"
+  },
+  "intro": {
+   "nl": "Auffach ligt in het achterste deel van de Wildschönau, aan de voet van de Schatzberg. Het is het vertrekpunt van de Schatzbergbahn, die in de winter skiërs en in de zomer wandelaars naar boven brengt. Het dorp zelf is klein en rustig; het gebeurt vooral op en rond de berg.\n\nDe Schatzberg hoort bij Ski Juwel Alpbachtal Wildschönau, zodat een skipas het hele gebied dekt. De bergbaan loopt van ca. 860 tot ca. 1.780 m. In de zomer is het bovenstation uitgangspunt voor een groot wandelgebied met alpenweiden, berghutten en uitzichten, met zowel eenvoudige routes voor gezinnen als pittige tochten.\n\nVoor kinderen is het watergebied bij Berghaus Koglmoos, bij het middenstation, een leuke stop: er zijn een waterspeelplaats, een glijbaan, een trampoline en dieren. Het bergbaanseizoen in de zomer is beperkt en de dienstregeling verandert, dus informeer vooraf. Combineer de dag eventueel met Oberau of de Kundler Klamm.",
+   "en": "Auffach lies in the far reaches of the Wildschönau, at the foot of the Schatzberg. It is the base of the Schatzbergbahn, which carries skiers up in winter and walkers in summer. The village itself is small and quiet; the action is mostly on and around the mountain.\n\nThe Schatzberg belongs to Ski Juwel Alpbachtal Wildschönau, so one ski pass covers the whole area. The cable car runs from about 860 to about 1,780 m. In summer the top station is the starting point for a large hiking area with alpine pastures, mountain huts and views, with easy routes for families as well as tougher tours.\n\nFor children, the water play area at Berghaus Koglmoos, by the middle station, is a fun stop: there is a water playground, a slide, a trampoline and animals. The summer cable-car season is limited and timetables change, so check beforehand. You can combine the day with Oberau or the Kundler Klamm.",
+   "de": "Auffach liegt im hinteren Teil der Wildschönau, am Fuß des Schatzbergs. Hier startet die Schatzbergbahn, die im Winter Skifahrer und im Sommer Wanderer nach oben bringt. Das Dorf selbst ist klein und ruhig; das Geschehen spielt sich vor allem am und um den Berg ab.\n\nDer Schatzberg gehört zu Ski Juwel Alpbachtal Wildschönau, ein Skipass gilt also für das ganze Gebiet. Die Bergbahn führt von etwa 860 bis etwa 1.780 m. Im Sommer ist die Bergstation Ausgangspunkt eines großen Wandergebiets mit Almwiesen, Berghütten und Aussichten, mit einfachen Routen für Familien ebenso wie anspruchsvolleren Touren.\n\nFür Kinder ist die Wasserwelt beim Berghaus Koglmoos an der Mittelstation ein schöner Halt: Es gibt einen Wasserspielplatz, eine Rutsche, ein Trampolin und Tiere. Die Sommersaison der Bergbahn ist begrenzt und die Fahrzeiten ändern sich, bitte vorab erfragen. Der Tag lässt sich mit Oberau oder der Kundler Klamm verbinden."
+  },
+  "highlights": {
+   "nl": [
+    "Schatzbergbahn: bergbaan van ca. 860 tot ca. 1.780 m, voor skiërs en wandelaars",
+    "Skigebied Schatzberg, deel van Ski Juwel Alpbachtal Wildschönau (winter)",
+    "Wandelgebied met alpenweiden en berghutten, zoals Schatzbergalm (zomer)",
+    "Waterspeelplaats met glijbaan en dieren bij Berghaus Koglmoos (zomer)",
+    "Rustige, kleine dorpssfeer aan het einde van het dal"
+   ],
+   "en": [
+    "Schatzbergbahn: cable car from about 860 to about 1,780 m, for skiers and walkers",
+    "Schatzberg ski area, part of Ski Juwel Alpbachtal Wildschönau (winter)",
+    "Hiking area with alpine pastures and mountain huts such as the Schatzbergalm (summer)",
+    "Water playground with slide and animals at Berghaus Koglmoos (summer)",
+    "Quiet, small-village feel at the head of the valley"
+   ],
+   "de": [
+    "Schatzbergbahn: Bergbahn von etwa 860 bis etwa 1.780 m, für Skifahrer und Wanderer",
+    "Skigebiet Schatzberg, Teil von Ski Juwel Alpbachtal Wildschönau (Winter)",
+    "Wandergebiet mit Almwiesen und Berghütten wie der Schatzbergalm (Sommer)",
+    "Wasserspielplatz mit Rutsche und Tieren beim Berghaus Koglmoos (Sommer)",
+    "Ruhige, kleine Dorfatmosphäre am Talende"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 15 minuten rijden vanaf Niederau, via de dalweg door de Wildschönau.",
+   "en": "About 15 minutes by car from Niederau, along the valley road through the Wildschönau.",
+   "de": "Ca. 15 Minuten mit dem Auto ab Niederau, über die Talstraße durch die Wildschönau."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die willen wandelen of skiën aan de Schatzberg.",
+   "en": "Suits families who want to walk or ski on the Schatzberg.",
+   "de": "Passt zu Familien, die am Schatzberg wandern oder Ski fahren möchten."
+  },
+  "season": {
+   "nl": "Winter (skiën) en zomer (wandelen).",
+   "en": "Winter (skiing) and summer (walking).",
+   "de": "Winter (Skifahren) und Sommer (Wandern)."
+  },
+  "drive_min": 15,
+  "elevation_m": null,
+  "url": "https://www.wildschoenau.com/",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Schatzberg onderdeel van Ski Juwel?",
+     "en": "Is the Schatzberg part of Ski Juwel?",
+     "de": "Gehört der Schatzberg zu Ski Juwel?"
+    },
+    "a": {
+     "nl": "Ja, de Schatzberg hoort bij het skigebied Ski Juwel Alpbachtal Wildschönau.",
+     "en": "Yes, the Schatzberg belongs to the Ski Juwel Alpbachtal Wildschönau ski area.",
+     "de": "Ja, der Schatzberg gehört zum Skigebiet Ski Juwel Alpbachtal Wildschönau."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is er in de zomer te doen voor kinderen bij de Schatzbergbahn?",
+     "en": "What is there for children at the Schatzbergbahn in summer?",
+     "de": "Was gibt es für Kinder an der Schatzbergbahn im Sommer?"
+    },
+    "a": {
+     "nl": "Bij het middenstation ligt Berghaus Koglmoos met een waterspeelplaats, glijbaan, trampoline en dieren; informeer vooraf naar de dienstregeling.",
+     "en": "At the middle station is Berghaus Koglmoos with a water playground, slide, trampoline and animals; check the timetable beforehand.",
+     "de": "An der Mittelstation liegt das Berghaus Koglmoos mit Wasserspielplatz, Rutsche, Trampolin und Tieren; Fahrzeiten bitte vorab erfragen."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "thierbach",
+  "region": "wildschoenau",
+  "drop": false,
+  "name": {
+   "nl": "Thierbach",
+   "en": "Thierbach",
+   "de": "Thierbach"
+  },
+  "tagline": {
+   "nl": "Het kleinste en hoogste kerkdorp van de Wildschönau, op ca. 1.150 m",
+   "en": "The smallest and highest church village of the Wildschönau, at about 1,150 m",
+   "de": "Das kleinste und höchste Kirchdorf der Wildschönau, auf ca. 1.150 m"
+  },
+  "intro": {
+   "nl": "Thierbach is het kleinste van de vier kerkdorpen van de Wildschönau en ligt op ca. 1.150 m, hoger dan de andere dorpen. Het bestaat uit weinig meer dan de kerk met uivormige toren, de school, boerderijen en enkele herbergen. Wie rust en uitzicht zoekt, vindt dat hier.\n\nVoor gezinnen is de Wald- und Familienweg rond de Thierbacher Kogl een leuke korte wandeling. Onderweg staan houten dieren, een bijenhotel, een klein boswijsje en een grote bosspeelplaats. In de winter is dezelfde rondwandeling van ca. 5,5 km een winterwandeling van ca. 2 uur, die bij de kerk begint.\n\nOok cultureel is er iets te zien: in de herberg Sollererwirt is de Speckbacherstube bewaard gebleven, een stube uit de tijd van de Tiroolse vrijheidsstrijd rond 1809. Een eenvoudige maaltijd of een ritje met de paardenslee past goed bij een bezoek. Thierbach combineer je prima met Mühltal of Oberau; informeer vooraf naar sneeuwcondities en openingstijden.",
+   "en": "Thierbach is the smallest of the four church villages of the Wildschönau and lies at about 1,150 m, higher than the other villages. It consists of little more than the church with its onion-domed tower, the school, farms and a few inns. If you want peace and views, you will find them here.\n\nFor families, the Wald- und Familienweg around the Thierbacher Kogl is a nice short walk. Along the way are wooden animals, a bee hotel, a small forest school and a large forest playground. In winter the same loop of about 5.5 km becomes a winter walk of about 2 hours, starting at the church.\n\nThere is some culture too: the Sollererwirt inn has kept its Speckbacherstube, a parlour dating from the time of the Tyrolean freedom struggle around 1809. A simple meal or a horse-drawn sleigh ride fits a visit well. Thierbach combines nicely with Mühltal or Oberau; check snow conditions and opening times beforehand.",
+   "de": "Thierbach ist das kleinste der vier Kirchdörfer der Wildschönau und liegt auf etwa 1.150 m, höher als die anderen Dörfer. Es besteht aus wenig mehr als der Kirche mit Zwiebelturm, der Schule, Bauernhöfen und einigen Gasthäusern. Wer Ruhe und Aussicht sucht, findet sie hier.\n\nFür Familien ist der Wald- und Familienweg rund um den Thierbacher Kogl ein netter kurzer Spaziergang. Unterwegs gibt es Holztiere, ein Bienenhotel, eine kleine Waldschule und einen großen Waldspielplatz. Im Winter wird dieselbe Runde von etwa 5,5 km zur Winterwanderung von etwa 2 Stunden, die an der Kirche beginnt.\n\nAuch Kultur gibt es: Im Gasthof Sollererwirt ist die Speckbacherstube erhalten, eine Stube aus der Zeit der Tiroler Freiheitskämpfe um 1809. Eine einfache Mahlzeit oder eine Pferdeschlittenfahrt passt gut zu einem Besuch. Thierbach lässt sich gut mit Mühltal oder Oberau verbinden; Schneelage und Öffnungszeiten bitte vorab erfragen."
+  },
+  "highlights": {
+   "nl": [
+    "Wald- und Familienweg rond de Thierbacher Kogl met houten dieren en bosspeelplaats",
+    "Winterwandeling rond de Thierbacher Kogl, ca. 5,5 km (winter)",
+    "Speckbacherstube in de herberg Sollererwirt, uit de tijd van 1809",
+    "Dorpskerk met uivormige toren en uitzicht over het dal",
+    "Mogelijkheid voor een ritje met de paardenslee (winter)"
+   ],
+   "en": [
+    "Wald- und Familienweg around the Thierbacher Kogl with wooden animals and a forest playground",
+    "Winter walk around the Thierbacher Kogl, about 5.5 km (winter)",
+    "Speckbacherstube in the Sollererwirt inn, dating from around 1809",
+    "Village church with onion-domed tower and views over the valley",
+    "Option of a horse-drawn sleigh ride (winter)"
+   ],
+   "de": [
+    "Wald- und Familienweg um den Thierbacher Kogl mit Holztieren und Waldspielplatz",
+    "Winterwanderung um den Thierbacher Kogl, ca. 5,5 km (Winter)",
+    "Speckbacherstube im Gasthof Sollererwirt, aus der Zeit um 1809",
+    "Dorfkirche mit Zwiebelturm und Blick über das Tal",
+    "Möglichkeit einer Pferdeschlittenfahrt (Winter)"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 10 tot 15 minuten rijden vanaf Niederau, via de dalweg door de Wildschönau en dan omhoog naar het dorp.",
+   "en": "About 10 to 15 minutes by car from Niederau, along the valley road through the Wildschönau and then up to the village.",
+   "de": "Ca. 10 bis 15 Minuten mit dem Auto ab Niederau, über die Talstraße durch die Wildschönau und dann hinauf zum Dorf."
+  },
+  "best_for": {
+   "nl": "Past bij rustzoekers en gezinnen die graag wandelen.",
+   "en": "Suits those seeking quiet and families who like walking.",
+   "de": "Passt zu Ruhesuchenden und wanderfreudigen Familien."
+  },
+  "season": {
+   "nl": "Het hele jaar, vooral zomer en winter.",
+   "en": "All year round, especially summer and winter.",
+   "de": "Das ganze Jahr, besonders Sommer und Winter."
+  },
+  "drive_min": 12,
+  "elevation_m": 1150,
+  "url": "https://www.wildschoenau.com/",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog ligt Thierbach?",
+     "en": "How high is Thierbach?",
+     "de": "Wie hoch liegt Thierbach?"
+    },
+    "a": {
+     "nl": "Op ca. 1.150 m; het is het hoogstgelegen en kleinste kerkdorp van de Wildschönau.",
+     "en": "At about 1,150 m; it is the highest and smallest church village of the Wildschönau.",
+     "de": "Auf ca. 1.150 m; es ist das höchstgelegene und kleinste Kirchdorf der Wildschönau."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat kun je in Thierbach doen met kinderen?",
+     "en": "What can you do in Thierbach with children?",
+     "de": "Was kann man in Thierbach mit Kindern unternehmen?"
+    },
+    "a": {
+     "nl": "Je kunt de Wald- und Familienweg rond de Thierbacher Kogl lopen, met houten dieren en een bosspeelplaats; in de winter is het een winterwandeling.",
+     "en": "You can walk the Wald- und Familienweg around the Thierbacher Kogl, with wooden animals and a forest playground; in winter it is a winter walk.",
+     "de": "Man kann den Wald- und Familienweg um den Thierbacher Kogl gehen, mit Holztieren und Waldspielplatz; im Winter ist es eine Winterwanderung."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "muehltal",
+  "region": "wildschoenau",
+  "drop": false,
+  "name": {
+   "nl": "Mühltal",
+   "en": "Mühltal",
+   "de": "Mühltal"
+  },
+  "tagline": {
+   "nl": "Gehucht bij Oberau, startpunt voor de Kundler Klamm",
+   "en": "Hamlet near Oberau, starting point for the Kundler Klamm",
+   "de": "Weiler bei Oberau, Ausgangspunkt zur Kundler Klamm"
+  },
+  "intro": {
+   "nl": "Mühltal is een klein gehucht dat bij Oberau hoort, aan de dalweg door de Wildschönau. De naam komt van een oude molen die hier stond. Er staan een paar traditionele huizen en herbergen, en niet meer dan dat: het is geen toeristisch centrum.\n\nToch is Mühltal voor gezinnen een bekend vertrekpunt. Het geldt als de toegangspoort tot de Kundler Klamm, een kloof langs de Wildschönauer Ache tussen Mühltal en Kundl die als een van de mooiste van Oostenrijk wordt gezien. De route is ca. 7 km lang, loopt over houten bruggen en door kleine tunnels, en is ook met een kinderwagen te doen. De kloof is van 1 april tot half november open en gesloten in de winter.\n\nWie niet wil lopen, kan in de zomer met de Wildschönauer Bummelzug naar de ingang van de kloof, die vanaf Mühltal rijdt. Vanuit Mühltal loopt ook een wandelroute omhoog naar Thierbach. Neem een picknick mee of eet in Oberau; informeer vooraf naar de dienstregeling van de Bummelzug.",
+   "en": "Mühltal is a small hamlet belonging to Oberau, on the road through the Wildschönau. The name comes from an old mill that once stood here. There are a few traditional houses and inns, and not much more: it is not a tourist centre.\n\nStill, Mühltal is a well-known starting point for families. It is regarded as the gateway to the Kundler Klamm, a gorge along the Wildschönauer Ache between Mühltal and Kundl that is counted among the most beautiful in Austria. The route is about 7 km long, crosses wooden bridges and passes through small tunnels, and can also be done with a pushchair. The gorge is open from 1 April to mid-November and closed in winter.\n\nIf you would rather not walk, in summer the Wildschönauer Bummelzug, a slow narrow-gauge train, runs from Mühltal to the gorge entrance. A hiking route also leads up from Mühltal to Thierbach. Bring a picnic or eat in Oberau; check the Bummelzug timetable beforehand.",
+   "de": "Mühltal ist ein kleiner Weiler, der zu Oberau gehört, an der Straße durch die Wildschönau. Der Name stammt von einer alten Mühle, die hier einst stand. Es gibt einige traditionelle Häuser und Gasthäuser und nicht viel mehr: ein touristisches Zentrum ist es nicht.\n\nDennoch ist Mühltal für Familien ein bekannter Ausgangspunkt. Es gilt als Tor zur Kundler Klamm, einer Schlucht entlang der Wildschönauer Ache zwischen Mühltal und Kundl, die zu den schönsten Österreichs gezählt wird. Der Weg ist etwa 7 km lang, führt über Holzbrücken und durch kleine Tunnel und ist auch mit dem Kinderwagen machbar. Die Klamm ist von 1. April bis Mitte November geöffnet und im Winter gesperrt.\n\nWer nicht gehen möchte, nimmt im Sommer den Wildschönauer Bummelzug, der ab Mühltal zum Klammeingang fährt. Von Mühltal führt zudem ein Wanderweg hinauf nach Thierbach. Nimm ein Picknick mit oder iss in Oberau; Fahrzeiten des Bummelzugs bitte vorab erfragen."
+  },
+  "highlights": {
+   "nl": [
+    "Kundler Klamm: ca. 7 km langs de Wildschönauer Ache, ook met kinderwagen te doen (1 april tot half november)",
+    "Wildschönauer Bummelzug vanaf Mühltal naar de ingang van de kloof (zomer)",
+    "Wandelroute omhoog naar Thierbach",
+    "Landelijke sfeer met traditionele huizen en herbergen",
+    "Combineerbaar met Oberau of Niederau"
+   ],
+   "en": [
+    "Kundler Klamm: about 7 km along the Wildschönauer Ache, also manageable with a pushchair (1 April to mid-November)",
+    "Wildschönauer Bummelzug from Mühltal to the gorge entrance (summer)",
+    "Hiking route up to Thierbach",
+    "Rural atmosphere with traditional houses and inns",
+    "Easy to combine with Oberau or Niederau"
+   ],
+   "de": [
+    "Kundler Klamm: ca. 7 km entlang der Wildschönauer Ache, auch mit Kinderwagen machbar (1. April bis Mitte November)",
+    "Wildschönauer Bummelzug ab Mühltal zum Klammeingang (Sommer)",
+    "Wanderweg hinauf nach Thierbach",
+    "Ländliche Atmosphäre mit traditionellen Häusern und Gasthäusern",
+    "Gut kombinierbar mit Oberau oder Niederau"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 10 minuten rijden vanaf Niederau, via de dalweg door de Wildschönau.",
+   "en": "About 10 minutes by car from Niederau, along the valley road through the Wildschönau.",
+   "de": "Ca. 10 Minuten mit dem Auto ab Niederau, über die Talstraße durch die Wildschönau."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die een gemakkelijke wandeling door een kloof willen.",
+   "en": "Suits families wanting an easy walk through a gorge.",
+   "de": "Passt zu Familien, die eine leichte Wanderung durch eine Klamm suchen."
+  },
+  "season": {
+   "nl": "Vooral van april tot half november; de kloof is in de winter gesloten.",
+   "en": "Mainly April to mid-November; the gorge is closed in winter.",
+   "de": "Vor allem von April bis Mitte November; die Klamm ist im Winter gesperrt."
+  },
+  "drive_min": 10,
+  "elevation_m": null,
+  "url": "https://www.wildschoenau.com/",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is de Kundler Klamm open?",
+     "en": "When is the Kundler Klamm open?",
+     "de": "Wann ist die Kundler Klamm geöffnet?"
+    },
+    "a": {
+     "nl": "Van 1 april tot half november; in de winter is de kloof gesloten.",
+     "en": "From 1 April to mid-November; the gorge is closed in winter.",
+     "de": "Von 1. April bis Mitte November; im Winter ist die Klamm gesperrt."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe kom ik zonder lopen bij de Kundler Klamm?",
+     "en": "How do I reach the Kundler Klamm without walking?",
+     "de": "Wie komme ich ohne Laufen zur Kundler Klamm?"
+    },
+    "a": {
+     "nl": "In de zomer rijdt de Wildschönauer Bummelzug vanaf Mühltal naar de ingang; informeer vooraf naar de dienstregeling.",
+     "en": "In summer the Wildschönauer Bummelzug runs from Mühltal to the entrance; check the timetable beforehand.",
+     "de": "Im Sommer fährt der Wildschönauer Bummelzug ab Mühltal zum Eingang; Fahrzeiten bitte vorab erfragen."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "alpbach",
+  "region": "alpbachtal",
+  "drop": false,
+  "name": {
+   "nl": "Alpbach",
+   "en": "Alpbach",
+   "de": "Alpbach"
+  },
+  "tagline": {
+   "nl": "Bloemendorp van Tirol op ca. 1.000 m, bekend om zijn houtbouw",
+   "en": "Tyrol's flower village at about 1,000 m, known for its timber buildings",
+   "de": "Blumendorf Tirols auf ca. 1.000 m, bekannt für seine Holzbauweise"
+  },
+  "intro": {
+   "nl": "Alpbach ligt op ca. 1.000 m in een zijdal van het Alpbachtal en is meermaals uitgeroepen tot mooiste dorp van Oostenrijk. Sinds een verordening uit 1953 moeten nieuwe huizen vanaf de eerste verdieping met hout bekleed zijn, waardoor het dorp zijn eenvormige, houten karakter bewaart. Bloembakken aan de gevels geven het zomers extra kleur.\n\nBuiten het toerisme is Alpbach bekend door het Europäisches Forum Alpbach, dat sinds 1945 elk jaar in augustus wetenschappers, politici en mensen uit het bedrijfsleven en de cultuur samenbrengt. Voor gezinnen is het de Wiedersbergerhornbahn die telt: bij het bovenstation (ca. 1.850 m) ligt het speelterrein Lauserland, en je kunt er het hele jaar met de Lauser-Sauser naar beneden rodelen.\n\nIn Inneralpbach toont het Alpbacher Bergbauernmuseum het leven van bergboeren van vroeger. In de winter ligt Alpbach in het skigebied Ski Juwel Alpbachtal Wildschönau, met meer dan 100 km piste. Dorp en bergbaan zijn vanuit Niederau een mooie dagtocht; informeer vooraf naar seizoenen en tijden.",
+   "en": "Alpbach lies at about 1,000 m in a side valley of the Alpbachtal and has repeatedly been named Austria's prettiest village. Under a regulation from 1953, new buildings must be clad in wood from the first floor up, which keeps the village's uniform timber character. Flower boxes on the façades add colour in summer.\n\nBeyond tourism, Alpbach is known for the European Forum Alpbach, which since 1945 has brought together academics, politicians and people from business and culture every August. For families it is the Wiedersbergerhornbahn that counts: at the top station (about 1,850 m) is the Lauserland play area, and you can toboggan down all year round on the Lauser-Sauser.\n\nIn Inneralpbach the Alpbacher Bergbauernmuseum shows the life of mountain farmers of the past. In winter Alpbach lies in the Ski Juwel Alpbachtal Wildschönau ski area, with more than 100 km of slopes. Village and cable car make a fine day trip from Niederau; check seasons and times beforehand.",
+   "de": "Alpbach liegt auf etwa 1.000 m in einem Seitental des Alpbachtals und wurde mehrfach zum schönsten Dorf Österreichs gewählt. Seit einer Verordnung von 1953 müssen Neubauten ab dem ersten Stock mit Holz verkleidet werden, wodurch das Dorf seinen einheitlichen Holzcharakter bewahrt. Blumenkästen an den Fassaden geben ihm im Sommer zusätzliche Farbe.\n\nNeben dem Tourismus ist Alpbach durch das Europäische Forum Alpbach bekannt, das seit 1945 jedes Jahr im August Wissenschaftler, Politiker und Menschen aus Wirtschaft und Kultur zusammenbringt. Für Familien zählt vor allem die Wiedersbergerhornbahn: An der Bergstation (etwa 1.850 m) liegt der Spielbereich Lauserland, und mit dem Lauser-Sauser kann man ganzjährig hinabrodeln.\n\nIn Inneralpbach zeigt das Alpbacher Bergbauernmuseum das Leben der Bergbauern von früher. Im Winter liegt Alpbach im Skigebiet Ski Juwel Alpbachtal Wildschönau mit über 100 km Pisten. Dorf und Bergbahn sind ein schöner Tagesausflug ab Niederau; Saison und Zeiten bitte vorab erfragen."
+  },
+  "highlights": {
+   "nl": [
+    "Dorpscentrum met houten huizen en bloemen",
+    "Europäisches Forum Alpbach, elk jaar in augustus",
+    "Wiedersbergerhornbahn met speelterrein Lauserland bij het bovenstation (zomer)",
+    "Lauser-Sauser, rodelbaan die het hele jaar open kan zijn",
+    "Alpbacher Bergbauernmuseum in Inneralpbach",
+    "Skiën in Ski Juwel Alpbachtal Wildschönau (winter)"
+   ],
+   "en": [
+    "Village centre with timber houses and flowers",
+    "European Forum Alpbach, held every August",
+    "Wiedersbergerhornbahn with the Lauserland play area at the top station (summer)",
+    "Lauser-Sauser toboggan run, which can operate all year round",
+    "Alpbacher Bergbauernmuseum in Inneralpbach",
+    "Skiing in Ski Juwel Alpbachtal Wildschönau (winter)"
+   ],
+   "de": [
+    "Ortskern mit Holzhäusern und Blumen",
+    "Europäisches Forum Alpbach, jedes Jahr im August",
+    "Wiedersbergerhornbahn mit Spielbereich Lauserland an der Bergstation (Sommer)",
+    "Lauser-Sauser, Rodelbahn, die ganzjährig fahren kann",
+    "Alpbacher Bergbauernmuseum in Inneralpbach",
+    "Skifahren im Ski Juwel Alpbachtal Wildschönau (Winter)"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten rijden vanaf Niederau, via de dalweg naar Kundl, dan het Inntal in richting Brixlegg en omhoog naar Alpbach.",
+   "en": "About 35 minutes by car from Niederau, via the valley road to Kundl, then along the Inn Valley towards Brixlegg and up to Alpbach.",
+   "de": "Ca. 35 Minuten mit dem Auto ab Niederau, über die Talstraße nach Kundl, dann durch das Inntal Richtung Brixlegg und hinauf nach Alpbach."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die een mooi, authentiek bergdorp met een speelberg willen zien.",
+   "en": "Suits families wanting to see a pretty, authentic mountain village with a play mountain.",
+   "de": "Passt zu Familien, die ein schönes, authentisches Bergdorf mit Spielberg sehen möchten."
+  },
+  "season": {
+   "nl": "Het hele jaar.",
+   "en": "All year round.",
+   "de": "Das ganze Jahr."
+  },
+  "drive_min": 35,
+  "elevation_m": 1000,
+  "url": "https://www.alpbachtal.at/",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom staat Alpbach bekend?",
+     "en": "What is Alpbach known for?",
+     "de": "Wofür ist Alpbach bekannt?"
+    },
+    "a": {
+     "nl": "Voor zijn houten bouwstijl, bloemen en het Europäisches Forum Alpbach, dat sinds 1945 elk jaar in augustus plaatsvindt.",
+     "en": "For its timber building style, its flowers and the European Forum Alpbach, held every August since 1945.",
+     "de": "Für seinen Holzbaustil, seine Blumen und das Europäische Forum Alpbach, das seit 1945 jedes Jahr im August stattfindet."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je vanuit Niederau in Alpbach skiën?",
+     "en": "Can you ski in Alpbach from Niederau?",
+     "de": "Kann man von Niederau aus in Alpbach Ski fahren?"
+    },
+    "a": {
+     "nl": "Alpbach hoort bij Ski Juwel Alpbachtal Wildschönau, net als Niederau; één skipas dekt het gebied.",
+     "en": "Alpbach belongs to Ski Juwel Alpbachtal Wildschönau, as does Niederau; one ski pass covers the area.",
+     "de": "Alpbach gehört zu Ski Juwel Alpbachtal Wildschönau, ebenso Niederau; ein Skipass gilt für das Gebiet."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "reith-im-alpbachtal",
+  "region": "alpbachtal",
+  "drop": false,
+  "name": {
+   "nl": "Reith im Alpbachtal",
+   "en": "Reith im Alpbachtal",
+   "de": "Reith im Alpbachtal"
+  },
+  "tagline": {
+   "nl": "Dorp aan de ingang van het Alpbachtal, met badmeer en Juppi Zauberwald",
+   "en": "Village at the entrance of the Alpbachtal, with a lake and the Juppi Zauberwald",
+   "de": "Dorf am Eingang des Alpbachtals, mit Badesee und Juppi Zauberwald"
+  },
+  "intro": {
+   "nl": "Reith im Alpbachtal ligt op ca. 637 m op een brede terrasvormige hoogte aan de ingang van het Alpbachtal. De gemeente telt zo'n 2.800 inwoners en staat bij gezinnen bekend als overzichtelijk, goed uitgerust en toch dicht bij de natuur.\n\nIn het dorpscentrum ligt de Reither See, een klein badmeer van ca. 1,45 ha. Het bad heeft een grote ligweide, een kinderspeelplek en een pierebadje; het water wordt op warme dagen ca. 23 graden. Vanuit het dorp brengt de Reitherkogelbahn je naar ca. 1.200 m, waar een kinderwagenvriendelijke rondwandeling door het Juppi Zauberwald met speelplekken en uitzichtplatforms begint.\n\nOok cultureel is er wat te zien: de ruïne Kropfsberg en het park van Schloss Matzen, dat voor wandelaars te bezoeken is. In de winter hoort Reith bij Ski Juwel Alpbachtal Wildschönau. Combineer het met Brixlegg, Rattenberg of Alpbach; informeer vooraf naar de openingstijden van bad en bergbaan.",
+   "en": "Reith im Alpbachtal lies at about 637 m on a broad terrace at the entrance of the Alpbachtal. The municipality has some 2,800 inhabitants and is popular with families as compact, well equipped and still close to nature.\n\nIn the village centre is the Reither See, a small swimming lake of about 1.45 ha. The bathing area has a large sunbathing lawn, a children's play area and a paddling pool; on warm days the water reaches about 23 degrees. From the village, the Reitherkogelbahn takes you up to about 1,200 m, where a pushchair-friendly circular walk through the Juppi Zauberwald starts, with play stations and viewing platforms.\n\nThere is some culture as well: the Kropfsberg castle ruins and the grounds of Schloss Matzen, which walkers can visit. In winter Reith belongs to Ski Juwel Alpbachtal Wildschönau. Combine it with Brixlegg, Rattenberg or Alpbach; check opening times of the pool and cable car beforehand.",
+   "de": "Reith im Alpbachtal liegt auf etwa 637 m auf einer breiten Terrasse am Eingang des Alpbachtals. Die Gemeinde hat rund 2.800 Einwohner und ist bei Familien beliebt, weil sie überschaubar, gut ausgestattet und dennoch naturnah ist.\n\nIm Ortszentrum liegt der Reither See, ein kleiner Badesee von etwa 1,45 ha. Das Bad hat eine große Liegewiese, einen Kinderspielbereich und ein Planschbecken; an warmen Tagen erreicht das Wasser etwa 23 Grad. Vom Dorf bringt die Reitherkogelbahn dich auf etwa 1.200 m, wo ein kinderwagenfreundlicher Rundweg durch den Juppi Zauberwald mit Spielstationen und Aussichtsplattformen beginnt.\n\nAuch Kultur gibt es: die Burgruine Kropfsberg und den Park von Schloss Matzen, den Spaziergänger besuchen können. Im Winter gehört Reith zu Ski Juwel Alpbachtal Wildschönau. Verbinde es mit Brixlegg, Rattenberg oder Alpbach; Öffnungszeiten von Bad und Bergbahn bitte vorab erfragen."
+  },
+  "highlights": {
+   "nl": [
+    "Reither See: badmeer met ligweide, speelplek en pierebadje (zomer)",
+    "Reitherkogelbahn naar ca. 1.200 m",
+    "Juppi Zauberwald: rondwandeling met speelplekken, ook met kinderwagen",
+    "Ruïne Kropfsberg en park van Schloss Matzen",
+    "Skiën in Ski Juwel Alpbachtal Wildschönau (winter)"
+   ],
+   "en": [
+    "Reither See: swimming lake with sunbathing lawn, play area and paddling pool (summer)",
+    "Reitherkogelbahn up to about 1,200 m",
+    "Juppi Zauberwald: circular walk with play stations, also with a pushchair",
+    "Kropfsberg castle ruins and the grounds of Schloss Matzen",
+    "Skiing in Ski Juwel Alpbachtal Wildschönau (winter)"
+   ],
+   "de": [
+    "Reither See: Badesee mit Liegewiese, Spielbereich und Planschbecken (Sommer)",
+    "Reitherkogelbahn auf ca. 1.200 m",
+    "Juppi Zauberwald: Rundweg mit Spielstationen, auch mit Kinderwagen",
+    "Burgruine Kropfsberg und Park von Schloss Matzen",
+    "Skifahren im Ski Juwel Alpbachtal Wildschönau (Winter)"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 30 minuten rijden vanaf Niederau, via de dalweg naar Kundl en dan door het Inntal richting Brixlegg.",
+   "en": "About 30 minutes by car from Niederau, via the valley road to Kundl and then along the Inn Valley towards Brixlegg.",
+   "de": "Ca. 30 Minuten mit dem Auto ab Niederau, über die Talstraße nach Kundl und dann durch das Inntal Richtung Brixlegg."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die zwemmen en een gemakkelijke bergwandeling willen combineren.",
+   "en": "Suits families wanting to combine swimming with an easy mountain walk.",
+   "de": "Passt zu Familien, die Baden und eine leichte Bergwanderung verbinden möchten."
+  },
+  "season": {
+   "nl": "Vooral zomer; in de winter skigebied.",
+   "en": "Mainly summer; ski area in winter.",
+   "de": "Vor allem Sommer; im Winter Skigebiet."
+  },
+  "drive_min": 30,
+  "elevation_m": 637,
+  "url": "https://www.alpbachtal.at/",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij Reith zwemmen?",
+     "en": "Can you swim at Reith?",
+     "de": "Kann man bei Reith baden?"
+    },
+    "a": {
+     "nl": "Ja, in de zomer bij de Reither See in het dorp, met ligweide, speelplek en pierebadje; informeer vooraf naar de openingstijden.",
+     "en": "Yes, in summer at the Reither See in the village, with a sunbathing lawn, play area and paddling pool; check opening times beforehand.",
+     "de": "Ja, im Sommer am Reither See im Dorf, mit Liegewiese, Spielbereich und Planschbecken; Öffnungszeiten bitte vorab erfragen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is het Juppi Zauberwald?",
+     "en": "What is the Juppi Zauberwald?",
+     "de": "Was ist der Juppi Zauberwald?"
+    },
+    "a": {
+     "nl": "Een rondwandeling bij het bovenstation van de Reitherkogelbahn met speelplekken en uitzichtplatforms, ook met kinderwagen te doen.",
+     "en": "A circular walk near the top station of the Reitherkogelbahn with play stations and viewing platforms, also manageable with a pushchair.",
+     "de": "Ein Rundweg bei der Bergstation der Reitherkogelbahn mit Spielstationen und Aussichtsplattformen, auch mit Kinderwagen machbar."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "brixlegg",
+  "region": "alpbachtal",
+  "drop": false,
+  "name": {
+   "nl": "Brixlegg",
+   "en": "Brixlegg",
+   "de": "Brixlegg"
+  },
+  "tagline": {
+   "nl": "Marktgemeente in het Inntal met mijnbouwgeschiedenis en museum",
+   "en": "Market town in the Inn Valley with mining history and a museum",
+   "de": "Marktgemeinde im Inntal mit Bergbaugeschichte und Museum"
+  },
+  "intro": {
+   "nl": "Brixlegg is een marktgemeente in het Inntal, aan de rand van het Alpbachtal. Het is een van de oudste nederzettingen van Tirol en werd voor het eerst in 788 genoemd. Eeuwenlang draaide hier alles om de winning en verwerking van koper en zilver; de staatssmelterij was de grootste van Tirol. Dat verleden bepaalt het dorp nog altijd.\n\nHet Tiroler Bergbau- und Hüttenmuseum in de oude school uit 1876 toont op ca. 400 m2 hoe er vroeger werd gedolven en gesmolten. Schloss Matzen zelf is niet te bezoeken, maar het kasteelpark is open voor wandelaars. Langs de Inn loopt de Innradweg, en de Burgenweg verbindt Brixlegg met Rattenberg langs kastelen en uitzichten.\n\nBrixlegg heeft een station en is een winkelplaats, dus een praktische stop onderweg. Voor gezinnen uit Niederau past het goed bij Rattenberg, het glasstadje, of bij een dag in Alpbach. Informeer vooraf naar openingstijden van museum en park.",
+   "en": "Brixlegg is a market town in the Inn Valley, on the edge of the Alpbachtal. It is one of the oldest settlements in Tyrol and was first mentioned in 788. For centuries life here revolved around mining and processing copper and silver; the state-owned smelter was the largest in Tyrol. That past still shapes the town.\n\nThe Tiroler Bergbau- und Hüttenmuseum, housed in the old school of 1876, shows on about 400 m2 how ore was once mined and smelted. Schloss Matzen itself cannot be visited, but the castle park is open to walkers. The Innradweg runs along the Inn, and the Burgenweg links Brixlegg to Rattenberg past castles and viewpoints.\n\nBrixlegg has a railway station and is a shopping town, so a practical stop on the way. For families from Niederau it fits well with Rattenberg, the glass town, or a day in Alpbach. Check opening times of the museum and park beforehand.",
+   "de": "Brixlegg ist eine Marktgemeinde im Inntal, am Rand des Alpbachtals. Es ist eine der ältesten Siedlungen Tirols und wurde erstmals 788 erwähnt. Jahrhundertelang drehte sich hier alles um Gewinnung und Verarbeitung von Kupfer und Silber; die staatliche Schmelzhütte war die größte Tirols. Diese Vergangenheit prägt den Ort bis heute.\n\nDas Tiroler Bergbau- und Hüttenmuseum in der alten Schule von 1876 zeigt auf etwa 400 m2, wie früher Erz abgebaut und geschmolzen wurde. Schloss Matzen selbst ist nicht zu besichtigen, aber der Schlosspark steht Spaziergängern offen. Am Inn verläuft der Innradweg, und der Burgenweg verbindet Brixlegg mit Rattenberg vorbei an Burgen und Aussichtspunkten.\n\nBrixlegg hat einen Bahnhof und ist Einkaufsort, also ein praktischer Zwischenstopp. Für Familien aus Niederau passt es gut zu Rattenberg, der Glasstadt, oder zu einem Tag in Alpbach. Öffnungszeiten von Museum und Park bitte vorab erfragen."
+  },
+  "highlights": {
+   "nl": [
+    "Tiroler Bergbau- und Hüttenmuseum in de oude school uit 1876",
+    "Park van Schloss Matzen (het kasteel zelf is niet te bezoeken)",
+    "Burgenweg tussen Brixlegg en Rattenberg",
+    "Innradweg langs de Inn voor een fietstocht",
+    "Winkels, horeca en station voor een tussenstop"
+   ],
+   "en": [
+    "Tiroler Bergbau- und Hüttenmuseum in the old school of 1876",
+    "Grounds of Schloss Matzen (the castle itself cannot be visited)",
+    "Burgenweg between Brixlegg and Rattenberg",
+    "Innradweg along the Inn for a cycle ride",
+    "Shops, places to eat and a station for a stopover"
+   ],
+   "de": [
+    "Tiroler Bergbau- und Hüttenmuseum in der alten Schule von 1876",
+    "Park von Schloss Matzen (das Schloss selbst ist nicht zu besichtigen)",
+    "Burgenweg zwischen Brixlegg und Rattenberg",
+    "Innradweg am Inn für eine Radtour",
+    "Geschäfte, Gastronomie und Bahnhof für einen Zwischenstopp"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 30 minuten rijden vanaf Niederau, via de dalweg naar Kundl en dan door het Inntal richting Brixlegg.",
+   "en": "About 30 minutes by car from Niederau, via the valley road to Kundl and then along the Inn Valley towards Brixlegg.",
+   "de": "Ca. 30 Minuten mit dem Auto ab Niederau, über die Talstraße nach Kundl und dann durch das Inntal Richtung Brixlegg."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die cultuur, geschiedenis of een praktische tussenstop zoeken.",
+   "en": "Suits families wanting culture, history or a practical stopover.",
+   "de": "Passt zu Familien, die Kultur, Geschichte oder einen praktischen Zwischenstopp suchen."
+  },
+  "season": {
+   "nl": "Het hele jaar.",
+   "en": "All year round.",
+   "de": "Das ganze Jahr."
+  },
+  "drive_min": 30,
+  "elevation_m": null,
+  "url": "https://www.alpbachtal.at/",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er te zien in Brixlegg?",
+     "en": "What is there to see in Brixlegg?",
+     "de": "Was gibt es in Brixlegg zu sehen?"
+    },
+    "a": {
+     "nl": "Onder meer het Tiroler Bergbau- und Hüttenmuseum en het park van Schloss Matzen; veel bezoekers combineren het met Rattenberg.",
+     "en": "Among other things the Tiroler Bergbau- und Hüttenmuseum and the grounds of Schloss Matzen; many visitors combine it with Rattenberg.",
+     "de": "Unter anderem das Tiroler Bergbau- und Hüttenmuseum und der Park von Schloss Matzen; viele Besucher verbinden es mit Rattenberg."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Brixlegg ver van Niederau?",
+     "en": "Is Brixlegg far from Niederau?",
+     "de": "Ist Brixlegg weit von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Ca. 30 minuten met de auto, via Kundl en het Inntal.",
+     "en": "About 30 minutes by car, via Kundl and the Inn Valley.",
+     "de": "Ca. 30 Minuten mit dem Auto, über Kundl und das Inntal."
+    }
+   }
+  ]
+ }
+]
