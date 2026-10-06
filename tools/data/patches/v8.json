@@ -1,0 +1,1343 @@
+[
+ {
+  "id": "s145",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "scheffau-village-walk",
+  "slug_de": "dorfrundgang-scheffau",
+  "title": {
+   "nl": "Dorpsronde Scheffau",
+   "en": "Village stroll in Scheffau",
+   "de": "Dorfrunde in Scheffau"
+  },
+  "tagline": {
+   "nl": "Rustig dorp aan de Wilder Kaiser, met paden naar weiden en almen",
+   "en": "A quiet village at the Wilder Kaiser, with paths up to meadows and alpine pastures",
+   "de": "Ruhiger Ort am Wilden Kaiser mit Wegen hinauf zu Wiesen und Almen"
+  },
+  "intro": {
+   "nl": "Scheffau am Wilden Kaiser is met ruim 1.200 inwoners de kleinste van de vier Kaiser-gemeenten, een rustig dorp aan de voet van de Wilder Kaiser. Je loopt er langs boerderijen met bloementuinen en door stille straten; grote winkelstraten of drukte zoek je hier niet.\n\nNa een rondje door het dorp kun je een van de paden naar de weiden en almen boven het dorp nemen. Er zijn korte, gezinsvriendelijke ronden over de alpenweiden, met uitzicht op de rotswanden. Koeien op of langs het pad horen erbij: houd afstand en sluit hekken achter je.",
+   "en": "With around 1,200 residents, Scheffau am Wilden Kaiser is the smallest of the four Kaiser municipalities, a quiet village at the foot of the Wilder Kaiser. You walk past farms with flower gardens and along calm streets; do not expect shopping streets or crowds.\n\nAfter a loop through the village you can take one of the paths up to the meadows and alpine pastures above it. There are short, family-friendly rounds over the alpine meadows with views of the rock faces. Cows on or beside the path are part of the scene: keep your distance and close gates behind you.",
+   "de": "Mit rund 1.200 Einwohnern ist Scheffau am Wilden Kaiser die kleinste der vier Kaisergemeinden, ein ruhiger Ort am Fuß des Wilden Kaisers. Du gehst an Höfen mit Blumengärten vorbei und durch stille Straßen; Einkaufsstraßen oder Trubel gibt es hier nicht.\n\nNach einer Runde durch das Dorf kannst du einem der Wege hinauf zu den Wiesen und Almen oberhalb des Ortes folgen. Es gibt kurze, familienfreundliche Runden über die Almwiesen mit Blick auf die Felswände. Kühe auf oder neben dem Weg gehören dazu: Halte Abstand und schließe Gatter hinter dir."
+  },
+  "tips": {
+   "nl": [
+    "Houd afstand van koeien en weidedieren.",
+    "Neem water en een snack mee; er zijn weinig voorzieningen.",
+    "Draag stevige schoenen als je de weiden op gaat.",
+    "Combineer met een bezoek aan Ellmau of Söll."
+   ],
+   "en": [
+    "Keep your distance from cows and grazing animals.",
+    "Bring water and a snack; there are few facilities.",
+    "Wear sturdy shoes if you head up to the meadows.",
+    "Combine with a visit to Ellmau or Söll."
+   ],
+   "de": [
+    "Halte Abstand zu Kühen und Weidetieren.",
+    "Nimm Wasser und einen Snack mit; es gibt wenige Einkehrmöglichkeiten.",
+    "Trage feste Schuhe, wenn du zu den Wiesen hinaufgehst.",
+    "Verbinde den Besuch mit Ellmau oder Söll."
+   ]
+  },
+  "practical": {
+   "nl": "Scheffau ligt ca. 40 minuten rijden van Niederau, via Wörgl en de richting van de Wilder Kaiser.",
+   "en": "Scheffau is roughly 40 minutes by car from Niederau, via Wörgl towards the Wilder Kaiser.",
+   "de": "Scheffau liegt ca. 40 Fahrminuten von Niederau entfernt, über Wörgl in Richtung Wilder Kaiser."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Scheffau am Wilden Kaiser",
+   "en": "Scheffau am Wilden Kaiser",
+   "de": "Scheffau am Wilden Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Scheffau druk?",
+     "en": "Is Scheffau busy?",
+     "de": "Ist Scheffau überlaufen?"
+    },
+    "a": {
+     "nl": "Nee, het is de kleinste van de vier Kaiser-gemeenten en een rustig dorp; het is geschikt voor een korte, ontspannen wandeling.",
+     "en": "No, it is the smallest of the four Kaiser municipalities and a quiet village; it suits a short, relaxed walk.",
+     "de": "Nein, es ist die kleinste der vier Kaisergemeinden und ein ruhiger Ort; er eignet sich für einen kurzen, entspannten Spaziergang."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s149",
+  "drop": false,
+  "drop_reason": "",
+  "place": "brixen-im-thale",
+  "slug_en": "brixen-im-thale-village-walk",
+  "slug_de": "dorfrundgang-brixen-im-thale",
+  "title": {
+   "nl": "Dorpsronde Brixen im Thale",
+   "en": "Village stroll in Brixen im Thale",
+   "de": "Dorfrunde in Brixen im Thale"
+  },
+  "tagline": {
+   "nl": "Rustig dorp in het Brixental met grote parochiekerk en Brixner Stadl",
+   "en": "A quiet Brixental village with a large parish church and the Brixner Stadl",
+   "de": "Ruhiger Ort im Brixental mit großer Pfarrkirche und Brixner Stadl"
+  },
+  "intro": {
+   "nl": "Brixen im Thale ligt in het Brixental, ongeveer 11 km ten westen van Kitzbühel. In het centrum staat de grote parochiekerk Mariä Himmelfahrt, in 1812 gewijd en een van de grootste kerken van het Tiroolse laagland, met een rijk stucco-hoogaltaar en een sierlijk orgel.\n\nDe kerk en het compacte dorp zijn in ongeveer een uur te bekijken. Een andere bezienswaardigheid is de Brixner Stadl, een houten schuur uit de 19e eeuw die nu als cultureel centrum voor concerten en tentoonstellingen dient. Het is een prettige stop als je toch door het Brixental rijdt.",
+   "en": "Brixen im Thale lies in the Brixental, about 11 km west of Kitzbühel. In the centre stands the large parish church of Mariä Himmelfahrt, consecrated in 1812 and one of the largest churches in the Tyrolean lowlands, with a richly stuccoed high altar and an ornate organ.\n\nThe church and the compact village can be seen in about an hour. Another sight is the Brixner Stadl, a 19th-century wooden barn now used as a cultural venue for concerts and exhibitions. It is a pleasant stop when you are driving through the Brixental anyway.",
+   "de": "Brixen im Thale liegt im Brixental, etwa 11 km westlich von Kitzbühel. Im Zentrum steht die große Pfarrkirche Mariä Himmelfahrt, 1812 geweiht und eine der größten Kirchen im Tiroler Unterland, mit einem stuckreichen Hochaltar und einer prunkvollen Orgel.\n\nKirche und kompakter Ort sind in etwa einer Stunde zu sehen. Eine weitere Sehenswürdigkeit ist der Brixner Stadl, ein hölzerner Stadel aus dem 19. Jahrhundert, der heute als Kulturraum für Konzerte und Ausstellungen dient. Es ist ein angenehmer Stopp, wenn du ohnehin durch das Brixental fährst."
+  },
+  "tips": {
+   "nl": [
+    "Neem een kijkje in de kerk, maar let op de stilte.",
+    "Check het programma van de Brixner Stadl voor concerten en tentoonstellingen.",
+    "Parkeer in het centrum en loop het rondje rustig.",
+    "Combineer met een andere uitstap in het Brixental."
+   ],
+   "en": [
+    "Take a look inside the church, but keep quiet.",
+    "Check the Brixner Stadl programme for concerts and exhibitions.",
+    "Park in the centre and take the loop at an easy pace.",
+    "Combine with another outing in the Brixental."
+   ],
+   "de": [
+    "Wirf einen Blick in die Kirche, aber bleib leise.",
+    "Prüfe das Programm des Brixner Stadls für Konzerte und Ausstellungen.",
+    "Parke im Zentrum und geh die Runde in Ruhe.",
+    "Verbinde den Besuch mit einem anderen Ausflug im Brixental."
+   ]
+  },
+  "practical": {
+   "nl": "Brixen im Thale ligt ca. 30 minuten rijden van Niederau, via de B170 in het Brixental.",
+   "en": "Brixen im Thale is roughly 30 minutes by car from Niederau, via the B170 through the Brixental.",
+   "de": "Brixen im Thale liegt ca. 30 Fahrminuten von Niederau entfernt, über die B170 durch das Brixental."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Brixen im Thale, Brixental",
+   "en": "Brixen im Thale, Brixental",
+   "de": "Brixen im Thale, Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang duurt een bezoek aan Brixen im Thale?",
+     "en": "How long does a visit to Brixen im Thale take?",
+     "de": "Wie lange dauert ein Besuch in Brixen im Thale?"
+    },
+    "a": {
+     "nl": "Een wandeling door het centrum met de kerk kost ongeveer een uur; combineer met een andere uitstap voor een halve dag.",
+     "en": "A walk through the centre including the church takes about an hour; combine with another outing for half a day.",
+     "de": "Ein Spaziergang durch das Zentrum mit der Kirche dauert etwa eine Stunde; kombiniere ihn mit einem anderen Ausflug für einen halben Tag."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s155",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "st-johann-in-tirol-town-centre",
+  "slug_de": "stadtzentrum-st-johann-in-tirol",
+  "title": {
+   "nl": "Centrum van St. Johann in Tirol",
+   "en": "St. Johann in Tirol town centre",
+   "de": "Zentrum von St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Barokke marktplaats met Lüftlmalerei en vrijdagmarkt",
+   "en": "A baroque market town with painted facades and a Friday market",
+   "de": "Barocke Marktgemeinde mit Lüftlmalerei und Freitagsmarkt"
+  },
+  "intro": {
+   "nl": "St. Johann in Tirol is een barokke marktgemeente aan de voet van het Kitzbüheler Horn en de Wilder Kaiser. In het centrum staan huizen met Lüftlmalerei, beschilderde gevels, zoals het Schellhornhaus en het Schwarzinger-Haus. Ook de Antoniuskapelle, met een fresco van Josef Schöpf in de koepel, is een bezoek waard. Daarnaast vind je winkels, cafés en restaurants.\n\nElke vrijdag is er overdag een weekmarkt op het hoofdplein met streekproducten en handwerk. Een bezoek duurt ongeveer anderhalf uur; je combineert het goed met Kitzbühel of het Kitzbüheler Horn.",
+   "en": "St. Johann in Tirol is a baroque market town at the foot of the Kitzbüheler Horn and the Wilder Kaiser. The centre has houses with Lüftlmalerei, painted facades, such as the Schellhornhaus and the Schwarzinger-Haus. The Antoniuskapelle, with a fresco by Josef Schöpf in its dome, is also worth a look. You will also find shops, cafés and restaurants.\n\nEvery Friday a weekly market is held on the main square during the day, with regional products and handicrafts. A visit takes about an hour and a half; it combines well with Kitzbühel or the Kitzbüheler Horn.",
+   "de": "St. Johann in Tirol ist eine barocke Marktgemeinde am Fuß des Kitzbüheler Horns und des Wilden Kaisers. Im Zentrum stehen Häuser mit Lüftlmalerei, bemalten Fassaden, etwa das Schellhornhaus und das Schwarzinger-Haus. Auch die Antoniuskapelle mit einem Fresko von Josef Schöpf in der Kuppel ist einen Blick wert. Dazu kommen Geschäfte, Cafés und Restaurants.\n\nJeden Freitag findet tagsüber auf dem Hauptplatz ein Wochenmarkt mit regionalen Produkten und Kunsthandwerk statt. Ein Besuch dauert etwa anderthalb Stunden; du kannst ihn gut mit Kitzbühel oder dem Kitzbüheler Horn verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Plan je bezoek op vrijdag als je de weekmarkt wilt zien.",
+    "Kijk goed naar de beschilderde gevels (Lüftlmalerei).",
+    "Parkeer in een van de parkeergarages bij het centrum.",
+    "Combineer het met Kitzbühel of het Kitzbüheler Horn."
+   ],
+   "en": [
+    "Plan your visit for a Friday if you want to see the weekly market.",
+    "Look closely at the painted facades (Lüftlmalerei).",
+    "Park in one of the car parks near the centre.",
+    "Combine with Kitzbühel or the Kitzbüheler Horn."
+   ],
+   "de": [
+    "Plane deinen Besuch auf einen Freitag, wenn du den Wochenmarkt sehen möchtest.",
+    "Schau dir die bemalten Fassaden (Lüftlmalerei) genau an.",
+    "Parke in einem der Parkplätze oder Garagen nahe dem Zentrum.",
+    "Verbinde den Besuch mit Kitzbühel oder dem Kitzbüheler Horn."
+   ]
+  },
+  "practical": {
+   "nl": "St. Johann in Tirol ligt ca. 40 minuten rijden van Niederau, via Wörgl en de Brixental-route (B170) of de A12/B178.",
+   "en": "St. Johann in Tirol is roughly 40 minutes by car from Niederau, via Wörgl and the Brixental road (B170) or the A12/B178.",
+   "de": "St. Johann in Tirol liegt ca. 40 Fahrminuten von Niederau entfernt, über Wörgl und die Brixentaler Straße (B170) oder A12/B178."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is de weekmarkt in St. Johann?",
+     "en": "When is the weekly market in St. Johann?",
+     "de": "Wann ist der Wochenmarkt in St. Johann?"
+    },
+    "a": {
+     "nl": "Elke vrijdag overdag op het hoofdplein; de exacte tijden kunnen wisselen, controleer ze vooraf.",
+     "en": "Every Friday during the day on the main square; exact times can vary, so check beforehand.",
+     "de": "Jeden Freitag tagsüber auf dem Hauptplatz; die genauen Zeiten können wechseln, bitte vorab prüfen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s167",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hall-in-tirol",
+  "slug_en": "hasegg-castle-mint-tower-hall",
+  "slug_de": "burg-hasegg-muenzerturm-hall",
+  "title": {
+   "nl": "Burg Hasegg en Münze Hall",
+   "en": "Hasegg Castle and Hall Mint",
+   "de": "Burg Hasegg und Münze Hall"
+  },
+  "tagline": {
+   "nl": "Wiegje van de thaler en de dollar in Hall in Tirol",
+   "en": "The cradle of the thaler and the dollar in Hall in Tirol",
+   "de": "Wiege des Talers und des Dollars in Hall in Tirol"
+  },
+  "intro": {
+   "nl": "Burg Hasegg in Hall in Tirol werd voor het eerst in 1306 genoemd en beschermde van oudsher de zoutwinning, de scheepvaart en de oversteek over de Inn. In 1477 verhuisde de landsheerlijke munt van Meran naar Hall, en in 1486 werd hier de eerste zilveren thaler geslagen. Het woord dollar gaat op de thaler terug.\n\nIn de burcht zit het Museum Münze Hall, over meer dan vijfhonderd jaar muntgeschiedenis en de techniek van het munten slaan. Vanaf de 45 meter hoge Münzerturm heb je uitzicht over de oude stad en het Karwendel; in de toren staat ook 's werelds grootste zilveren thaler. Het museum is leuk voor kinderen die graag zelf dingen uitproberen.",
+   "en": "Hasegg Castle in Hall in Tirol was first mentioned in 1306 and traditionally protected the salt works, the river traffic and the crossing over the Inn. In 1477 the princely mint moved from Merano to Hall, and in 1486 the first silver thaler was struck here. The word dollar goes back to the thaler.\n\nThe castle houses the Museum Münze Hall, covering more than five hundred years of minting history and the technology of striking coins. From the 45-metre Münzerturm you have views over the old town and the Karwendel; the tower also holds the world's largest silver thaler. The museum suits children who like to try things out.",
+   "de": "Burg Hasegg in Hall in Tirol wurde erstmals 1306 erwähnt und schützte ursprünglich die Salzproduktion, die Schifffahrt und den Innübergang. 1477 wurde die landesfürstliche Münze von Meran nach Hall verlegt, und 1486 wurde hier der erste Silbertaler geprägt. Das Wort Dollar geht auf den Taler zurück.\n\nIn der Burg befindet sich das Museum Münze Hall, das mehr als fünfhundert Jahre Münzgeschichte und die Technik der Münzprägung zeigt. Vom 45 Meter hohen Münzerturm hast du Aussicht über die Altstadt und das Karwendel; im Turm steht außerdem der größte Silbertaler der Welt. Das Museum eignet sich für Kinder, die gern selbst etwas ausprobieren."
+  },
+  "tips": {
+   "nl": [
+    "Beklim de toren voor uitzicht op de oude stad.",
+    "Reken op ca. anderhalf uur voor burcht en museum.",
+    "Combineer met een wandeling door de Altstadt van Hall.",
+    "Controleer openingstijden en prijzen vooraf."
+   ],
+   "en": [
+    "Climb the tower for views of the old town.",
+    "Allow about an hour and a half for the castle and museum.",
+    "Combine with a walk through Hall's old town.",
+    "Check opening times and prices beforehand."
+   ],
+   "de": [
+    "Besteige den Turm für den Blick über die Altstadt.",
+    "Rechne mit ca. anderthalb Stunden für Burg und Museum.",
+    "Verbinde den Besuch mit einem Spaziergang durch die Haller Altstadt.",
+    "Prüfe Öffnungszeiten und Preise vorab."
+   ]
+  },
+  "practical": {
+   "nl": "Hall in Tirol ligt ca. 50 minuten rijden van Niederau, via de A12 richting Innsbruck. De burcht ligt aan de rand van de oude stad.",
+   "en": "Hall in Tirol is roughly 50 minutes by car from Niederau, via the A12 towards Innsbruck. The castle is on the edge of the old town.",
+   "de": "Hall in Tirol liegt ca. 50 Fahrminuten von Niederau entfernt, über die A12 Richtung Innsbruck. Die Burg liegt am Rand der Altstadt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar aan te raden",
+    "en": "Recommended from approx. 6 years",
+    "de": "Empfohlen ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "Approx. 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Hall in Tirol",
+   "en": "Hall in Tirol",
+   "de": "Hall in Tirol"
+  },
+  "url": "https://www.muenze-hall.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom heet Hall de wieg van de dollar?",
+     "en": "Why is Hall called the cradle of the dollar?",
+     "de": "Warum gilt Hall als Wiege des Dollars?"
+    },
+    "a": {
+     "nl": "In 1486 werd hier de eerste zilveren thaler geslagen; het woord dollar gaat op thaler terug.",
+     "en": "The first silver thaler was struck here in 1486; the word dollar derives from thaler.",
+     "de": "1486 wurde hier der erste Silbertaler geprägt; das Wort Dollar geht auf Taler zurück."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s168",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hall-in-tirol",
+  "slug_en": "hall-in-tirol-old-town-walk",
+  "slug_de": "altstadt-rundgang-hall-in-tirol",
+  "title": {
+   "nl": "Altstadtwandeling Hall in Tirol",
+   "en": "Old town walk in Hall in Tirol",
+   "de": "Altstadtrundgang in Hall in Tirol"
+  },
+  "tagline": {
+   "nl": "Goed bewaarde middeleeuwse binnenstad aan de Inn",
+   "en": "A well-preserved medieval old town on the Inn",
+   "de": "Gut erhaltene mittelalterliche Altstadt am Inn"
+  },
+  "intro": {
+   "nl": "Hall in Tirol was eeuwenlang een rijke stad dankzij zout en later de munt, en kreeg in 1303 stadsrechten. Daarvan is veel bewaard gebleven: de oude binnenstad gaat om het Oberer Stadtplatz, met het ongeveer 700 jaar oude raadhuis, de parochiekerk St. Nikolaus, smalle straten en kleine winkels. Het is rustiger dan het nabije Innsbruck.\n\nEen wandeling door de Altstadt duurt ongeveer anderhalf uur, langer als je ergens binnengaat. Je combineert haar met Burg Hasegg en het muntmuseum boven de stad. Onderweg zijn er terrassen en cafés, dus je kunt de ronde makkelijk uitbreiden tot een halve dag.",
+   "en": "For centuries Hall in Tirol was a wealthy town thanks to salt and later the mint, and it received town rights in 1303. Much of that survives: the old centre is arranged around the Oberer Stadtplatz, with the roughly 700-year-old town hall, the parish church of St Nicholas, narrow streets and small shops. It is quieter than nearby Innsbruck.\n\nA walk through the old town takes about an hour and a half, longer if you go inside anywhere. You can combine it with Hasegg Castle and the mint museum above the town. There are terraces and cafés on the way, so the walk easily stretches into half a day.",
+   "de": "Hall in Tirol war jahrhundertelang eine reiche Stadt dank Salz und später der Münze und erhielt 1303 das Stadtrecht. Davon ist vieles erhalten: Die Altstadt gruppiert sich um den Oberen Stadtplatz mit dem rund 700 Jahre alten Rathaus, der Pfarrkirche St. Nikolaus, engen Gassen und kleinen Geschäften. Es ist ruhiger als das nahe Innsbruck.\n\nEin Spaziergang durch die Altstadt dauert etwa anderthalb Stunden, länger, wenn du irgendwo einkehrst. Du kannst ihn mit Burg Hasegg und dem Münzmuseum oberhalb der Stadt verbinden. Unterwegs gibt es Terrassen und Cafés, sodass die Runde leicht zu einem halben Tag wird."
+  },
+  "tips": {
+   "nl": [
+    "Combineer de wandeling met Burg Hasegg.",
+    "Plan een koffiestop op een van de terrassen.",
+    "Draag comfortabele schoenen; de straatjes zijn deels bestraat met keien.",
+    "Parkeer aan de rand van het centrum."
+   ],
+   "en": [
+    "Combine the walk with Hasegg Castle.",
+    "Plan a coffee stop on one of the terraces.",
+    "Wear comfortable shoes; some lanes are cobbled.",
+    "Park on the edge of the centre."
+   ],
+   "de": [
+    "Verbinde den Spaziergang mit Burg Hasegg.",
+    "Plane eine Kaffeepause auf einer der Terrassen ein.",
+    "Trage bequeme Schuhe; einige Gassen sind gepflastert.",
+    "Parke am Rand des Zentrums."
+   ]
+  },
+  "practical": {
+   "nl": "Hall in Tirol ligt ca. 50 minuten rijden van Niederau, via de A12 richting Innsbruck. De oude stad is grotendeels autovrij of beperkt toegankelijk; parkeer aan de rand.",
+   "en": "Hall in Tirol is roughly 50 minutes by car from Niederau, via the A12 towards Innsbruck. The old town is largely car-free or restricted; park on the edge.",
+   "de": "Hall in Tirol liegt ca. 50 Fahrminuten von Niederau entfernt, über die A12 Richtung Innsbruck. Die Altstadt ist weitgehend autofrei oder beschränkt befahrbar; parke am Rand."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "Approx. 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Hall in Tirol",
+   "en": "Hall in Tirol",
+   "de": "Hall in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Hall in Tirol een goed alternatief voor Innsbruck?",
+     "en": "Is Hall in Tirol a good alternative to Innsbruck?",
+     "de": "Ist Hall in Tirol eine gute Alternative zu Innsbruck?"
+    },
+    "a": {
+     "nl": "Ja, het is rustiger en overzichtelijker, met een goed bewaarde oude binnenstad.",
+     "en": "Yes, it is quieter and more compact, with a well-preserved old centre.",
+     "de": "Ja, es ist ruhiger und überschaubarer, mit gut erhaltener Altstadt."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s170",
+  "drop": false,
+  "drop_reason": "",
+  "place": "schwaz",
+  "slug_en": "silver-mine-schwaz",
+  "slug_de": "silberbergwerk-schwaz",
+  "title": {
+   "nl": "Silberbergwerk Schwaz",
+   "en": "Silver mine Schwaz",
+   "de": "Silberbergwerk Schwaz"
+  },
+  "tagline": {
+   "nl": "Met het mijntreintje de berg in",
+   "en": "By mine train into the mountain",
+   "de": "Mit der Grubenbahn in den Berg"
+  },
+  "intro": {
+   "nl": "Schwaz was in de late middeleeuwen een van de grootste mijnbouwsteden van Europa. Rond de stad werd zilver gewonnen, en een groot deel van het toen verhandelde zilver kwam van hier. Het Silberbergwerk is tegenwoordig een bezoekersmijn.\n\nJe rijdt met een mijntreintje ongeveer 800 meter de berg in en loopt daarna met een gids door gangen waar mijnwerkers eeuwenlang in het donker werkten. Een rondleiding duurt ongeveer anderhalf uur. In de mijn is het het hele jaar rond 12 graden; neem dus warme kleding en stevige schoenen mee. Daarmee is het ook een prima uitstap voor een warme zomerdag of een regenachtige dag.",
+   "en": "In the late Middle Ages Schwaz was one of Europe's largest mining towns. Silver was extracted around the town, and a large share of the silver traded at the time came from here. Today the Silberbergwerk is a visitor mine.\n\nA mine train takes you about 800 metres into the mountain, after which you continue on foot with a guide through galleries where miners worked in the dark for centuries. A tour takes about an hour and a half. It is around 12 degrees in the mine all year, so bring warm clothing and sturdy shoes. That makes it a good outing for a hot summer day or a rainy one.",
+   "de": "Schwaz war im späten Mittelalter eine der größten Bergbaustädte Europas. Rund um die Stadt wurde Silber abgebaut, und ein großer Teil des damals gehandelten Silbers stammte von hier. Heute ist das Silberbergwerk ein Besucherbergwerk.\n\nMit der Grubenbahn fährst du etwa 800 Meter in den Berg und gehst dann mit einem Guide zu Fuß durch Stollen, in denen Knappen jahrhundertelang im Dunkeln arbeiteten. Eine Führung dauert etwa anderthalb Stunden. Im Berg hat es das ganze Jahr um die 12 Grad, nimm also warme Kleidung und feste Schuhe mit. Damit ist es ein guter Ausflug für einen heißen Sommertag oder einen Regentag."
+  },
+  "tips": {
+   "nl": [
+    "Neem warme kleding en stevige schoenen mee; het is er rond 12 °C.",
+    "Het mijntreintje is een hoogtepunt voor kinderen.",
+    "Reserveer of controleer de rondleidingtijden vooraf.",
+    "Plan anderhalf uur voor de rondleiding."
+   ],
+   "en": [
+    "Bring warm clothing and sturdy shoes; it is around 12 °C inside.",
+    "The mine train is a highlight for children.",
+    "Reserve or check tour times beforehand.",
+    "Allow an hour and a half for the tour."
+   ],
+   "de": [
+    "Nimm warme Kleidung und feste Schuhe mit; im Berg hat es um die 12 °C.",
+    "Die Grubenbahn ist ein Höhepunkt für Kinder.",
+    "Reserviere oder prüfe die Führungszeiten vorab.",
+    "Plane anderthalb Stunden für die Führung ein."
+   ]
+  },
+  "practical": {
+   "nl": "Schwaz ligt ca. 40 minuten rijden van Niederau, via de A12 richting Innsbruck (afrit Schwaz).",
+   "en": "Schwaz is roughly 40 minutes by car from Niederau, via the A12 towards Innsbruck (exit Schwaz).",
+   "de": "Schwaz liegt ca. 40 Fahrminuten von Niederau entfernt, über die A12 Richtung Innsbruck (Ausfahrt Schwaz)."
+  },
+  "facts": {
+   "age": {
+    "nl": "Geschikt voor kinderen vanaf kleuterleeftijd; informeer vooraf",
+    "en": "Suitable for children from pre-school age; check beforehand",
+    "de": "Für Kinder ab Kindergartenalter geeignet; bitte vorab erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Schwaz, Inntal",
+   "en": "Schwaz, Inn Valley",
+   "de": "Schwaz, Inntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe koud is het in de mijn?",
+     "en": "How cold is it in the mine?",
+     "de": "Wie kalt ist es im Bergwerk?"
+    },
+    "a": {
+     "nl": "Het hele jaar rond 12 graden; neem dus warme kleding mee, ook in de zomer.",
+     "en": "Around 12 degrees all year, so bring warm clothing even in summer.",
+     "de": "Das ganze Jahr um die 12 Grad; nimm also auch im Sommer warme Kleidung mit."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s200",
+  "drop": false,
+  "drop_reason": "",
+  "place": "jenbach",
+  "slug_en": "tratzberg-castle-tour",
+  "slug_de": "schloss-tratzberg-fuehrung",
+  "title": {
+   "nl": "Schloss Tratzberg",
+   "en": "Tratzberg Castle",
+   "de": "Schloss Tratzberg"
+  },
+  "tagline": {
+   "nl": "Kasteel boven het Inntal met een geschilderde Habsburgse stamboom",
+   "en": "Castle above the Inn Valley with a painted Habsburg family tree",
+   "de": "Schloss über dem Inntal mit gemaltem Habsburger-Stammbaum"
+  },
+  "intro": {
+   "nl": "Schloss Tratzberg ligt hoog boven het Inntal bij Stans, tussen Jenbach en Schwaz. Het kasteel wordt gerekend tot de mooiste gebouwen in de Alpen uit de overgang tussen gotiek en renaissance. De binnenplaats is rijk beschilderd en de kamers zijn ingericht met meubels uit verschillende eeuwen.\n\nHet bekendste onderdeel is de Habsburgerzaal met een geschilderde stamboom van 148 halve figuren van ongeveer levensgrootte, rond 1507/1508 geschilderd en 46 meter lang. Bij de rondleiding loop je door negen woon- en representatieve vertrekken; er is ook een aparte kinderrondleiding. Vanaf de Schlosswirt brengt een gratis treintje je omhoog (ca. 8 minuten).",
+   "en": "Tratzberg Castle sits high above the Inn Valley near Stans, between Jenbach and Schwaz. It counts among the finest buildings in the Alps from the transition between Gothic and Renaissance. The courtyard is richly painted and the rooms are furnished with pieces from several centuries.\n\nThe best-known part is the Habsburg Hall with a painted family tree of 148 half-figures of roughly life size, painted around 1507/1508 and 46 metres long. The guided tour leads through nine living and state rooms; there is also a separate children's tour. From the Schlosswirt a free small train takes you up (about 8 minutes).",
+   "de": "Schloss Tratzberg liegt hoch über dem Inntal bei Stans, zwischen Jenbach und Schwaz. Es zählt zu den schönsten Bauten im Alpenraum aus der Übergangszeit zwischen Gotik und Renaissance. Der Innenhof ist reich bemalt, die Räume sind mit Möbeln aus mehreren Jahrhunderten eingerichtet.\n\nDer bekannteste Teil ist der Habsburgersaal mit einem gemalten Stammbaum aus 148 Halbfiguren in etwa Lebensgröße, um 1507/1508 gemalt und 46 Meter lang. Die Führung geht durch neun Wohn- und Repräsentationsräume; außerdem gibt es eine eigene Kinderführung. Vom Schlosswirt bringt dich ein kostenloser Bummelzug hinauf (ca. 8 Minuten)."
+  },
+  "tips": {
+   "nl": [
+    "Vraag naar de kinderrondleiding als je met jonge kinderen komt.",
+    "Neem het Tratzberg-treintje omhoog vanaf de Schlosswirt in plaats van te lopen.",
+    "Bekijk de Habsburgse stamboom in de Habsburgerzaal rustig; de portretten beslaan de hele wand.",
+    "Het kasteel is niet het hele jaar open; controleer de data vooraf."
+   ],
+   "en": [
+    "Ask about the children's tour if you come with younger kids.",
+    "Take the Tratzberg train up from the Schlosswirt rather than walking.",
+    "Take your time over the Habsburg family tree in the Habsburg Hall; the portraits fill the whole wall.",
+    "The castle is not open all year, so check the dates before you go."
+   ],
+   "de": [
+    "Frag nach der Kinderführung, wenn du mit kleineren Kindern kommst.",
+    "Fahr mit dem Tratzberg-Zug vom Schlosswirt hinauf, statt zu laufen.",
+    "Nimm dir Zeit für den Habsburger-Stammbaum im Habsburgersaal; die Porträts füllen die ganze Wand.",
+    "Das Schloss ist nicht ganzjährig geöffnet, prüfe die Termine vor dem Besuch."
+   ]
+  },
+  "practical": {
+   "nl": "Schloss Tratzberg ligt bij Stans/Jenbach in het Inntal, ca. 40 tot 45 minuten rijden vanaf Niederau via de A12. Parkeren kan bij de Schlosswirt, waar ook het treintje vertrekt.",
+   "en": "Tratzberg Castle is at Stans/Jenbach in the Inn Valley, about 40 to 45 minutes by car from Niederau via the A12. Park at the Schlosswirt, where the small train departs.",
+   "de": "Schloss Tratzberg liegt bei Stans/Jenbach im Inntal, etwa 40 bis 45 Autominuten von Niederau entfernt über die A12. Parken können Sie beim Schlosswirt, wo auch der Zug abfährt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From approx. 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Entree met rondleiding; actuele prijzen op de officiële website",
+    "en": "Admission with guided tour; see the official website for current prices",
+    "de": "Eintritt mit Führung; aktuelle Preise auf der offiziellen Website"
+   },
+   "distance": {
+    "nl": "Ca. 40 tot 45 min rijden",
+    "en": "Approx. 40 to 45 min by car",
+    "de": "Ca. 40 bis 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Seizoensgebonden; controleer data",
+    "en": "Seasonal; check dates",
+    "de": "Saisonal; Termine prüfen"
+   }
+  },
+  "location": {
+   "nl": "Stans bij Jenbach, Inntal",
+   "en": "Stans near Jenbach, Inn Valley",
+   "de": "Stans bei Jenbach, Inntal"
+  },
+  "url": "https://www.schloss-tratzberg.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel figuren staan er in de Habsburgse stamboom?",
+     "en": "How many figures are in the Habsburg family tree?",
+     "de": "Wie viele Figuren zeigt der Habsburger-Stammbaum?"
+    },
+    "a": {
+     "nl": "De geschilderde stamboom in de Habsburgerzaal toont 148 halve figuren van ongeveer levensgrootte.",
+     "en": "The painted family tree in the Habsburg Hall shows 148 half-figures of roughly life size.",
+     "de": "Der gemalte Stammbaum im Habsburgersaal zeigt 148 Halbfiguren in etwa Lebensgröße."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s201",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "innsbruck-old-town-day-trip",
+  "slug_de": "innsbruck-altstadt-tagesausflug",
+  "title": {
+   "nl": "Innsbruck Altstadt en Hofburg",
+   "en": "Innsbruck old town and Hofburg",
+   "de": "Innsbruck Altstadt und Hofburg"
+  },
+  "tagline": {
+   "nl": "Dagje stad met het Goldenes Dachl, de Hofburg en de Nordkette",
+   "en": "A city day out with the Golden Roof, the Hofburg and the Nordkette",
+   "de": "Stadttag mit Goldenem Dachl, Hofburg und Nordkette"
+  },
+  "intro": {
+   "nl": "Innsbruck is de hoofdstad van Tirol en een prettige stad voor een dag: de Altstadt is compact en grotendeels autovrij. Het Goldenes Dachl, het balkon met 2.657 vergulde koperen schindels dat keizer Maximiliaan I liet bouwen, is het bekendste punt. Daarnaast liggen de Hofburg en de middeleeuwse straatjes met arcaden.\n\nWie wil, combineert de stad met de Nordkettenbahn, die in drie stukken van het centrum naar de Hafelekar omhoogrijdt. Een kaart zoals de Innsbruck Card kan lonen als u meerdere bezienswaardigheden en liften bezoekt; reken vooraf na of dat bij uw plan past. Met kinderen werkt een half programma meestal beter dan alles in een dag.",
+   "en": "Innsbruck is the capital of Tyrol and a pleasant city for a day out: the old town is compact and largely car-free. The Golden Roof, the balcony with 2,657 gilded copper shingles built for Emperor Maximilian I, is the best-known landmark. Close by are the Hofburg and the medieval arcaded streets.\n\nIf you like, combine the city with the Nordkette cable car, which climbs from the centre to the Hafelekar in three stages. A pass such as the Innsbruck Card can pay off if you visit several sights and lifts; work out beforehand whether it fits your plan. With children, a partial programme usually works better than trying to do everything in one day.",
+   "de": "Innsbruck ist die Hauptstadt Tirols und ein angenehmes Ziel für einen Tag: Die Altstadt ist kompakt und weitgehend autofrei. Das Goldene Dachl, der Prunkerker mit 2.657 vergoldeten Kupferschindeln für Kaiser Maximilian I., ist das bekannteste Wahrzeichen. Ganz in der Nähe liegen die Hofburg und die mittelalterlichen Lauben-Gassen.\n\nWer möchte, verbindet die Stadt mit der Nordkettenbahn, die in drei Abschnitten vom Zentrum zum Hafelekar hinaufführt. Eine Karte wie die Innsbruck Card kann sich lohnen, wenn Sie mehrere Sehenswürdigkeiten und Bergbahnen besuchen; rechnen Sie vorab nach, ob sie zu Ihrem Plan passt. Mit Kindern funktioniert ein Teilprogramm meist besser als alles an einem Tag."
+  },
+  "tips": {
+   "nl": [
+    "Ga met de trein vanaf Wörgl; parkeren in het centrum is duur en druk.",
+    "Reken vooraf na of de Innsbruck Card loont voor uw programma.",
+    "Pak de Nordkettenbahn bij voorkeur 's ochtends, dan is het rustiger.",
+    "Kies per dag twee of drie bezienswaardigheden in plaats van alles."
+   ],
+   "en": [
+    "Take the train from Wörgl; parking in the centre is expensive and busy.",
+    "Work out in advance whether the Innsbruck Card pays off for your plans.",
+    "Ride the Nordkette cable car in the morning when it is quieter.",
+    "Choose two or three sights per day instead of trying to see everything."
+   ],
+   "de": [
+    "Fahren Sie mit der Bahn ab Wörgl; Parken im Zentrum ist teuer und voll.",
+    "Rechnen Sie vorab nach, ob sich die Innsbruck Card für Ihr Programm lohnt.",
+    "Fahren Sie mit der Nordkettenbahn am besten vormittags, dann ist es ruhiger.",
+    "Wählen Sie pro Tag zwei oder drei Sehenswürdigkeiten statt alles zu sehen."
+   ]
+  },
+  "practical": {
+   "nl": "Innsbruck ligt ca. 1 uur rijden van Niederau via de A12. Met de trein kan het ook: neem vanuit Wörgl de regionale trein of een Railjet naar Innsbruck Hbf (ca. 30 tot 40 minuten); de Altstadt ligt op loopafstand van het station.",
+   "en": "Innsbruck is about 1 hour by car from Niederau via the A12. The train works too: take a regional train or Railjet from Wörgl to Innsbruck Hbf (approx. 30 to 40 minutes); the old town is a short walk from the station.",
+   "de": "Innsbruck liegt etwa 1 Stunde Autofahrt von Niederau entfernt über die A12. Auch die Bahn ist eine gute Option: Von Wörgl fahren Regionalzug oder Railjet nach Innsbruck Hbf (ca. 30 bis 40 Minuten); die Altstadt ist vom Bahnhof zu Fuß erreichbar."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Wisselt per bezienswaardigheid; Innsbruck Card optioneel",
+    "en": "Varies by sight; Innsbruck Card optional",
+    "de": "Je nach Sehenswürdigkeit; Innsbruck Card optional"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck",
+   "en": "Innsbruck",
+   "de": "Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe kom ik zonder auto in Innsbruck?",
+     "en": "How do I get to Innsbruck without a car?",
+     "de": "Wie komme ich ohne Auto nach Innsbruck?"
+    },
+    "a": {
+     "nl": "Met de trein vanaf Wörgl naar Innsbruck Hbf; de Altstadt ligt op loopafstand van het station.",
+     "en": "By train from Wörgl to Innsbruck Hbf; the old town is within walking distance of the station.",
+     "de": "Mit der Bahn von Wörgl nach Innsbruck Hbf; die Altstadt ist vom Bahnhof zu Fuß erreichbar."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s228",
+  "drop": false,
+  "drop_reason": "",
+  "place": "zell-am-ziller",
+  "slug_en": "zell-am-ziller-village",
+  "slug_de": "zell-am-ziller-dorfbesuch",
+  "title": {
+   "nl": "Zell am Ziller dorpsbezoek",
+   "en": "Visiting Zell am Ziller",
+   "de": "Zell am Ziller Dorfbesuch"
+  },
+  "tagline": {
+   "nl": "Levendig dorp in het Zillertal met de Gauderfest en de Zillertalbahn",
+   "en": "Lively Zillertal village with the Gauderfest and the Zillertalbahn",
+   "de": "Lebendiger Ort im Zillertal mit Gauderfest und Zillertalbahn"
+  },
+  "intro": {
+   "nl": "Zell am Ziller ligt in het Zillertal en is een traditioneel dorp met huizen in Tiroolse stijl en de barokke parochiekerk St. Veit uit de 18e eeuw, waarvan de toren en het doopvont nog uit een gotische voorganger stammen. Het dorp is vooral bekend van de Gauderfest, een groot lente- en klederdrachtfeest dat elk jaar in het eerste weekend van mei wordt gehouden, met een optocht op zondag met meer dan 2.000 dragers van klederdracht.\n\nIn de zomer is het een prettige stop voor een koffie, een wandeling door het dorp en een bezoek aan de kerk. Het ligt ook aan de route van de Zillertalbahn tussen Jenbach en Mayrhofen; controleer de dienstregeling als je met de stoomtrein wilt rijden. Zell is zelf geen groot programma, dus combineer het met een andere activiteit in het dal.",
+   "en": "Zell am Ziller lies in the Zillertal and is a traditional village with Tyrolean-style houses and the baroque parish church of St Veit from the 18th century, whose tower and baptismal font survive from a Gothic predecessor. It is best known for the Gauderfest, a large spring and costume festival held every year on the first weekend of May, with a Sunday parade of more than 2,000 people in traditional dress.\n\nIn summer it is a pleasant stop for coffee, a stroll through the village and a visit to the church. It also lies on the Zillertalbahn route between Jenbach and Mayrhofen; check the timetable if you want to ride the steam train. Zell itself is not a big programme, so combine it with another activity in the valley.",
+   "de": "Zell am Ziller liegt im Zillertal und ist ein traditioneller Ort mit Häusern im Tiroler Stil und der barocken Pfarrkirche St. Veit aus dem 18. Jahrhundert, deren Turm und Taufstein noch von einem gotischen Vorgängerbau stammen. Bekannt ist der Ort vor allem für das Gauderfest, ein großes Frühlings- und Trachtenfest am ersten Maiwochenende, mit einem Festumzug am Sonntag mit über 2.000 Trachtenträgern.\n\nIm Sommer ist der Ort ein angenehmer Stopp für einen Kaffee, einen Dorfspaziergang und einen Blick in die Kirche. Zell liegt außerdem an der Strecke der Zillertalbahn zwischen Jenbach und Mayrhofen; prüfe den Fahrplan, wenn du mit dem Dampfzug fahren möchtest. Zell selbst ist kein großes Programm, kombiniere es daher mit einer weiteren Aktivität im Tal."
+  },
+  "tips": {
+   "nl": [
+    "De Gauderfest is op het eerste weekend van mei; in de zomer is het dorp rustiger.",
+    "Bekijk de dienstregeling van de Zillertalbahn als u met de stoomtrein wilt rijden.",
+    "Kijk even in de barokke parochiekerk St. Veit.",
+    "Combineer het dorp met een gondel, wandeling of ander uitje in het Zillertal."
+   ],
+   "en": [
+    "The Gauderfest is on the first weekend of May; in summer the village is quieter.",
+    "Check the Zillertalbahn timetable if you want to ride the steam train.",
+    "Take a look inside the baroque parish church of St Veit.",
+    "Combine the village with a cable car, a walk or another outing in the Zillertal."
+   ],
+   "de": [
+    "Das Gauderfest findet am ersten Maiwochenende statt; im Sommer ist der Ort ruhiger.",
+    "Prüfen Sie den Fahrplan der Zillertalbahn, wenn Sie mit dem Dampfzug fahren möchten.",
+    "Werfen Sie einen Blick in die barocke Pfarrkirche St. Veit.",
+    "Verbinden Sie den Ort mit einer Bergbahn, einer Wanderung oder einem anderen Ausflug im Zillertal."
+   ]
+  },
+  "practical": {
+   "nl": "Zell am Ziller ligt ca. 55 tot 60 minuten rijden van Niederau: via Wörgl over de A12 naar Jenbach en daarna de Zillertalstraße. Er is parkeergelegenheid in het dorp.",
+   "en": "Zell am Ziller is about 55 to 60 minutes by car from Niederau: via Wörgl on the A12 to Jenbach and then up the Zillertal road. There is parking in the village.",
+   "de": "Zell am Ziller liegt etwa 55 bis 60 Autominuten von Niederau entfernt: über Wörgl auf der A12 nach Jenbach und dann die Zillertalstraße hinauf. Im Ort gibt es Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "Approx. 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Rondlopen is gratis",
+    "en": "Walking around is free",
+    "de": "Der Ortsbummel ist kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 55 tot 60 min rijden",
+    "en": "Approx. 55 to 60 min by car",
+    "de": "Ca. 55 bis 60 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar; Gauderfest begin mei",
+    "en": "All year; Gauderfest in early May",
+    "de": "Ganzjährig; Gauderfest Anfang Mai"
+   }
+  },
+  "location": {
+   "nl": "Zell am Ziller, Zillertal",
+   "en": "Zell am Ziller, Zillertal",
+   "de": "Zell am Ziller, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is de Gauderfest in Zell am Ziller?",
+     "en": "When is the Gauderfest in Zell am Ziller?",
+     "de": "Wann findet das Gauderfest in Zell am Ziller statt?"
+    },
+    "a": {
+     "nl": "Elk jaar in het eerste weekend van mei.",
+     "en": "Every year on the first weekend of May.",
+     "de": "Jedes Jahr am ersten Maiwochenende."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s229",
+  "drop": false,
+  "drop_reason": "",
+  "place": "schwaz",
+  "slug_en": "summer-concerts-schwaz",
+  "slug_de": "sommerkonzerte-schwaz",
+  "title": {
+   "nl": "Zomerconcerten in Schwaz",
+   "en": "Summer concerts in Schwaz",
+   "de": "Sommerkonzerte in Schwaz"
+  },
+  "tagline": {
+   "nl": "Serenades in het klooster en orgelconcerten in de stadsparochiekerk",
+   "en": "Serenades in the cloister and organ concerts in the town parish church",
+   "de": "Serenaden im Kloster und Orgelkonzerte in der Stadtpfarrkirche"
+  },
+  "intro": {
+   "nl": "In juli en augustus zijn er in Schwaz regelmatig zomerconcerten. De serenades vinden plaats in de arcadegang of, bij mooi weer, op de binnenplaats van het franciscanenklooster, een traditie die al sinds 1948 bestaat. Daarnaast zijn er wekelijkse orgelconcerten in de stedelijke parochiekerk, met het grootste symfonische orgel van Tirol.\n\nSchwaz was eeuwenlang een rijke mijnstad en dat is aan de stad nog te zien. Een concertavond past goed in een dagje stad, bijvoorbeeld met een wandeling door het compacte centrum vooraf. Data en tijden wisselen per jaar, dus raadpleeg het actuele programma.",
+   "en": "In July and August Schwaz regularly hosts summer concerts. The serenades are held in the arcade passage or, in good weather, in the courtyard of the Franciscan monastery, a tradition going back to 1948. There are also weekly organ concerts in the town parish church, which has the largest symphonic organ in Tyrol.\n\nSchwaz was a wealthy mining town for centuries, and it still shows. A concert evening fits well into a day in town, for example with a walk through the compact centre beforehand. Dates and times change from year to year, so check the current programme.",
+   "de": "Im Juli und August gibt es in Schwaz regelmäßig Sommerkonzerte. Die Serenaden finden im Arkadengang oder bei schönem Wetter im Innenhof des Franziskanerklosters statt, eine Tradition seit 1948. Dazu kommen wöchentliche Orgelkonzerte in der Stadtpfarrkirche mit der größten symphonischen Orgel Tirols.\n\nSchwaz war jahrhundertelang eine reiche Bergbaustadt, und das sieht man noch. Ein Konzertabend passt gut in einen Stadttag, etwa mit einem Spaziergang durch das kompakte Zentrum davor. Termine und Zeiten ändern sich von Jahr zu Jahr, prüfen Sie daher das aktuelle Programm."
+  },
+  "tips": {
+   "nl": [
+    "Controleer het actuele programma; data en locaties wisselen per jaar.",
+    "Kom iets eerder en loop door het centrum van Schwaz.",
+    "Neem een jas mee; in de kerk en de kloostergang kan het koel zijn.",
+    "Informeer vooraf of er kaarten nodig zijn."
+   ],
+   "en": [
+    "Check the current programme; dates and venues change each year.",
+    "Arrive a little early and stroll through the centre of Schwaz.",
+    "Bring a jacket; the church and cloister can be cool.",
+    "Ask in advance whether tickets are required."
+   ],
+   "de": [
+    "Prüfen Sie das aktuelle Programm; Termine und Orte wechseln jedes Jahr.",
+    "Kommen Sie etwas früher und spazieren Sie durch das Zentrum von Schwaz.",
+    "Nehmen Sie eine Jacke mit; in Kirche und Klostergang kann es kühl sein.",
+    "Fragen Sie vorab, ob Karten nötig sind."
+   ]
+  },
+  "practical": {
+   "nl": "Schwaz ligt in het Inntal, ca. 45 tot 50 minuten rijden vanaf Niederau via de A12. Het centrum is compact en goed te belopen; parkeren kan in het centrum.",
+   "en": "Schwaz is in the Inn Valley, about 45 to 50 minutes by car from Niederau via the A12. The centre is compact and easy to walk; parking is available in town.",
+   "de": "Schwaz liegt im Inntal, etwa 45 bis 50 Autominuten von Niederau entfernt über die A12. Das Zentrum ist kompakt und gut zu Fuß erkundbar; Parken ist im Ort möglich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vooral tieners en volwassenen",
+    "en": "Mainly teenagers and adults",
+    "de": "Vor allem Jugendliche und Erwachsene"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 tot 2 uur per concert",
+    "en": "Approx. 1.5 to 2 hours per concert",
+    "de": "Ca. 1,5 bis 2 Stunden pro Konzert"
+   },
+   "price": {
+    "nl": "Wisselt per concert; informeer vooraf",
+    "en": "Varies by concert; ask in advance",
+    "de": "Je nach Konzert unterschiedlich; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 45 tot 50 min rijden",
+    "en": "Approx. 45 to 50 min by car",
+    "de": "Ca. 45 bis 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (juli en augustus)",
+    "en": "Summer (July and August)",
+    "de": "Sommer (Juli und August)"
+   }
+  },
+  "location": {
+   "nl": "Schwaz, Inntal",
+   "en": "Schwaz, Inn Valley",
+   "de": "Schwaz, Inntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar vinden de concerten in Schwaz plaats?",
+     "en": "Where do the concerts in Schwaz take place?",
+     "de": "Wo finden die Konzerte in Schwaz statt?"
+    },
+    "a": {
+     "nl": "De serenades in het franciscanenklooster, de orgelconcerten in de stedelijke parochiekerk.",
+     "en": "The serenades in the Franciscan monastery, the organ concerts in the town parish church.",
+     "de": "Die Serenaden im Franziskanerkloster, die Orgelkonzerte in der Stadtpfarrkirche."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s237",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "tyrolean-folk-theatre-telfs",
+  "slug_de": "tiroler-volksschauspiele-telfs",
+  "title": {
+   "nl": "Tiroler Volksschauspiele Telfs",
+   "en": "Tyrolean Folk Theatre Festival, Telfs",
+   "de": "Tiroler Volksschauspiele Telfs"
+  },
+  "tagline": {
+   "nl": "Zomers volkstheaterfestival in Telfs, in het Duits",
+   "en": "Summer folk theatre festival in Telfs, performed in German",
+   "de": "Sommerliches Volkstheaterfestival in Telfs"
+  },
+  "intro": {
+   "nl": "De Tiroler Volksschauspiele zijn een theaterfestival dat elke zomer in Telfs plaatsvindt, in het Inntal ten westen van Innsbruck. Het festival werd in 1981 opgericht en richt zich op volkstheater, met een mix van beroepsacteurs en amateurs uit de streek en bijzondere speelplekken.\n\nSinds 2023 is de Birkenberg een speelplek, met een foyer bij de Mariahilfkapel. In totaal zijn er per jaar zo'n 60 voorstellingen. Voor Nederlandstalige gezinnen is de taal een drempel: er wordt in het Duits gespeeld, soms met dialect. Het past dus vooral bij tieners en volwassenen met enige kennis van Duits.",
+   "en": "The Tyrolean Folk Theatre Festival takes place every summer in Telfs, in the Inn Valley west of Innsbruck. It was founded in 1981 and focuses on folk theatre, mixing professional actors with local amateurs and using special venues.\n\nSince 2023 the Birkenberg has been a venue, with a foyer by the Mariahilf Chapel. There are around 60 performances in total each year. For English or Dutch-speaking families language is a hurdle: plays are in German, sometimes in dialect. It suits teenagers and adults with some knowledge of German best.",
+   "de": "Die Tiroler Volksschauspiele finden jeden Sommer in Telfs statt, im Inntal westlich von Innsbruck. Das Festival wurde 1981 gegründet und widmet sich dem Volkstheater, mit einer Mischung aus Berufsschauspielern und Laien aus der Region und besonderen Spielorten.\n\nSeit 2023 ist der Birkenberg ein Spielort, mit einem Foyer an der Mariahilfkapelle. Insgesamt gibt es pro Jahr rund 60 Vorstellungen. Für niederländisch- oder englischsprachige Familien ist die Sprache eine Hürde: Es wird auf Deutsch gespielt, teils im Dialekt. Am besten eignet es sich für Jugendliche und Erwachsene mit Deutschkenntnissen."
+  },
+  "tips": {
+   "nl": [
+    "Controleer het programma; titels en speelplekken wisselen per jaar.",
+    "Neem warme kleding mee; avonden in openlucht kunnen koel zijn.",
+    "Reserveer kaarten vooraf, vooral voor premières.",
+    "Plan de terugrit; Telfs ligt ruim een uur van Niederau."
+   ],
+   "en": [
+    "Check the programme; titles and venues change each year.",
+    "Bring warm clothes; outdoor evenings can get cool.",
+    "Book tickets in advance, especially for premieres.",
+    "Plan the drive back; Telfs is over an hour from Niederau."
+   ],
+   "de": [
+    "Prüfen Sie das Programm; Stücke und Spielorte wechseln jedes Jahr.",
+    "Nehmen Sie warme Kleidung mit; Abende im Freien können kühl werden.",
+    "Reservieren Sie Karten vorab, besonders für Premieren.",
+    "Planen Sie die Rückfahrt ein; Telfs liegt gut eine Stunde von Niederau entfernt."
+   ]
+  },
+  "practical": {
+   "nl": "Telfs ligt in het Inntal ten westen van Innsbruck, ca. 1 uur en 15 minuten rijden vanaf Niederau via de A12. Controleer per voorstelling de speelplek en parkeermogelijkheden.",
+   "en": "Telfs lies in the Inn Valley west of Innsbruck, about 1 hour 15 minutes by car from Niederau via the A12. Check the venue and parking for each performance.",
+   "de": "Telfs liegt im Inntal westlich von Innsbruck, etwa 1 Stunde 15 Minuten Autofahrt von Niederau entfernt über die A12. Prüfen Sie je Aufführung den Spielort und die Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vooral vanaf ca. 12 jaar",
+    "en": "Mainly from approx. 12 years",
+    "de": "Vor allem ab ca. 12 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur per voorstelling",
+    "en": "Approx. 2 to 3 hours per performance",
+    "de": "Ca. 2 bis 3 Stunden pro Aufführung"
+   },
+   "price": {
+    "nl": "Kaartprijzen wisselen per stuk; zie de officiële website",
+    "en": "Ticket prices vary by show; see the official website",
+    "de": "Kartenpreise je nach Stück; siehe offizielle Website"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 15 min rijden",
+    "en": "Approx. 1 hour 15 min by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Telfs, Inntal",
+   "en": "Telfs, Inn Valley",
+   "de": "Telfs, Inntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "In welke taal zijn de voorstellingen?",
+     "en": "In what language are the performances?",
+     "de": "In welcher Sprache sind die Aufführungen?"
+    },
+    "a": {
+     "nl": "In het Duits, soms met dialect; er zijn doorgaans geen vertalingen.",
+     "en": "In German, sometimes with dialect; translations are generally not provided.",
+     "de": "Auf Deutsch, teils im Dialekt; Übersetzungen werden in der Regel nicht angeboten."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s273",
+  "drop": true,
+  "drop_reason": "Heimatmuseum Hopfgarten niet bevestigd in zoekresultaten (alleen barokke kerk gevonden); niet publiceren.",
+  "place": "hopfgarten",
+  "slug_en": "hopfgarten-local-history-museum",
+  "slug_de": "heimatmuseum-hopfgarten",
+  "title": {
+   "nl": "Heimatmuseum Hopfgarten",
+   "en": "Local history museum, Hopfgarten",
+   "de": "Heimatmuseum Hopfgarten"
+  },
+  "tagline": {
+   "nl": "Streekgeschiedenis en volkskunst in het Brixental",
+   "en": "Regional history and folk art in the Brixental",
+   "de": "Regionalgeschichte und Volkskunst im Brixental"
+  },
+  "intro": {
+   "nl": "Hopfgarten im Brixental ligt naast de Wildschönau, aan de andere kant van de Hohe Salve, en is een dorp met een lange boeren- en toeristengeschiedenis. Een streekmuseum in het dorp vertelt het verhaal van het Brixental: boerenleven, volkskunst, klederdracht en hoe het toerisme zich ontwikkelde.\n\nHet is een kleine, rustige stop, geschikt voor een regenachtige middag of in combinatie met een wandeling door het dorp. Openingstijden en tentoonstellingen zijn beperkt en seizoensgebonden, dus informeer vooraf. Voor kinderen is het vooral leuk als er oude gereedschappen en kostuums te zien zijn.",
+   "en": "Hopfgarten im Brixental lies next to the Wildschönau, on the other side of the Hohe Salve, and is a village with a long farming and tourism history. A local museum in the village tells the story of the Brixental: farming life, folk art, costume and how tourism developed.\n\nIt is a small, quiet stop, suitable for a rainy afternoon or combined with a walk through the village. Opening times and exhibitions are limited and seasonal, so ask in advance. For children it is most fun when old tools and costumes are on display.",
+   "de": "Hopfgarten im Brixental liegt neben der Wildschönau, auf der anderen Seite der Hohen Salve, und ist ein Dorf mit langer Bauern- und Tourismusgeschichte. Ein Heimatmuseum im Ort erzählt die Geschichte des Brixentals: bäuerliches Leben, Volkskunst, Tracht und die Entwicklung des Tourismus.\n\nEs ist ein kleiner, ruhiger Stopp, geeignet für einen Regennachmittag oder in Kombination mit einem Dorfspaziergang. Öffnungszeiten und Ausstellungen sind begrenzt und saisonal, fragen Sie daher vorab nach. Für Kinder ist es vor allem spannend, wenn alte Werkzeuge und Trachten zu sehen sind."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf naar openingstijden; kleine musea hebben vaak beperkte tijden.",
+    "Combineer met een wandeling door het centrum van Hopfgarten.",
+    "Laat kinderen oude gereedschappen en kostuums opsporen.",
+    "Plan het bij regenachtig weer als alternatief voor een buitenactiviteit."
+   ],
+   "en": [
+    "Ask about opening times beforehand; small museums often have limited hours.",
+    "Combine with a walk through the centre of Hopfgarten.",
+    "Let children spot old tools and costumes.",
+    "Plan it as an alternative to an outdoor activity in wet weather."
+   ],
+   "de": [
+    "Fragen Sie vorab nach den Öffnungszeiten; kleine Museen haben oft begrenzte Zeiten.",
+    "Verbinden Sie den Besuch mit einem Spaziergang durch das Zentrum von Hopfgarten.",
+    "Lassen Sie Kinder alte Werkzeuge und Trachten entdecken.",
+    "Planen Sie es bei Regen als Alternative zu einer Aktivität im Freien ein."
+   ]
+  },
+  "practical": {
+   "nl": "Hopfgarten ligt ca. 20 minuten rijden van Niederau; kies de route met een routeplanner.",
+   "en": "Hopfgarten is about 20 minutes by car from Niederau; use a route planner to choose the road.",
+   "de": "Hopfgarten liegt etwa 20 Autominuten von Niederau entfernt; wählen Sie die Strecke mit einem Routenplaner."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Entree of bijdrage; informeer vooraf naar actuele prijzen",
+    "en": "Admission or contribution; ask in advance about current prices",
+    "de": "Eintritt oder Beitrag; aktuelle Preise vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 20 min rijden",
+    "en": "Approx. 20 min by car",
+    "de": "Ca. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Seizoensgebonden; informeer vooraf",
+    "en": "Seasonal; ask in advance",
+    "de": "Saisonal; vorab erfragen"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het museum het hele jaar open?",
+     "en": "Is the museum open all year?",
+     "de": "Ist das Museum ganzjährig geöffnet?"
+    },
+    "a": {
+     "nl": "Dat is niet zeker; kleine streekmusea hebben vaak beperkte tijden, informeer vooraf.",
+     "en": "That is not certain; small local museums often have limited hours, so ask in advance.",
+     "de": "Das ist nicht sicher; kleine Heimatmuseen haben oft begrenzte Zeiten, fragen Sie vorab nach."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s68",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "tirol-panorama-innsbruck",
+  "slug_de": "tirol-panorama-innsbruck",
+  "title": {
+   "nl": "Tirol Panorama Innsbruck",
+   "en": "Tirol Panorama, Innsbruck",
+   "de": "Tirol Panorama Innsbruck"
+  },
+  "tagline": {
+   "nl": "Rondschilderij van de slag om de Bergisel en het Kaiserjägermuseum",
+   "en": "Giant circular painting of the Battle of Bergisel and the Kaiserjäger museum",
+   "de": "Riesenrundgemälde der Bergiselschlacht und Kaiserjägermuseum"
+  },
+  "intro": {
+   "nl": "Op de Bergisel bij Innsbruck staat het Tirol Panorama, geopend in 2011. Het hart is het Riesenrundgemälde: een rondschilderij uit 1896 van 1.000 m² dat de derde slag om de Bergisel van 13 augustus 1809 toont. Het werd door de Münchense schilder Zeno Diemer gemaakt onder leiding van Franz von Defregger en is een van maar twintig klassieke rondschilderijen die nog bestaan.\n\nNaast het panorama zijn er de vaste tentoonstelling Schauplatz Tirol en het Kaiserjägermuseum, dat de militaire geschiedenis van de Tiroolse keizerjagers vertelt. Kinderen vinden het panorama vaak indrukwekkend door het formaat en de vele details. Reken op ongeveer anderhalf uur.",
+   "en": "On the Bergisel above Innsbruck stands the Tirol Panorama, opened in 2011. Its heart is the Riesenrundgemälde: a 1,000 m² circular painting from 1896 showing the third Battle of Bergisel on 13 August 1809. It was made by the Munich painter Zeno Diemer under the supervision of Franz von Defregger and is one of only twenty classic circular paintings still in existence.\n\nBesides the panorama there is the permanent exhibition Schauplatz Tirol and the Kaiserjäger museum, which tells the military history of the Tyrolean Kaiserjäger regiment. Children often find the panorama impressive for its size and the many details. Allow about an hour and a half.",
+   "de": "Auf dem Bergisel bei Innsbruck steht das Tirol Panorama, eröffnet 2011. Sein Herzstück ist das Riesenrundgemälde: ein Rundbild von 1896 mit 1.000 m², das die dritte Bergiselschlacht vom 13. August 1809 zeigt. Es wurde vom Münchner Maler Zeno Diemer unter Leitung von Franz von Defregger geschaffen und ist eines von nur zwanzig klassischen Riesenrundgemälden, die noch existieren.\n\nNeben dem Panorama gibt es die Dauerausstellung Schauplatz Tirol und das Kaiserjägermuseum, das die Militärgeschichte der Tiroler Kaiserjäger erzählt. Kinder finden das Panorama oft wegen seiner Größe und der vielen Details beeindruckend. Planen Sie etwa anderthalb Stunden ein."
+  },
+  "tips": {
+   "nl": [
+    "Laat kinderen zoeken naar kleine details in het rondschilderij.",
+    "Combineer met de skischans Bergisel, die vlakbij ligt.",
+    "Kies een regenachtige dag; het meeste is binnen."
+   ],
+   "en": [
+    "Let children search for small details in the circular painting.",
+    "Combine with the Bergisel ski jump, which is close by.",
+    "Choose a rainy day; most of it is indoors."
+   ],
+   "de": [
+    "Lass Kinder kleine Details im Rundgemälde suchen.",
+    "Verbinde den Besuch mit der nahen Bergisel-Schanze.",
+    "Wähle einen Regentag; das meiste findet drinnen statt."
+   ]
+  },
+  "practical": {
+   "nl": "Het museum ligt op de Bergisel, aan de zuidkant van Innsbruck, ca. 1 uur rijden vanaf Niederau via de A12. Volg de borden Bergisel en informeer vooraf naar openingstijden en parkeren.",
+   "en": "The museum is on the Bergisel at the southern edge of Innsbruck, about 1 hour by car from Niederau via the A12. Follow the signs for Bergisel and check opening times and parking beforehand.",
+   "de": "Das Museum liegt am Bergisel am Südrand von Innsbruck, etwa 1 Stunde Autofahrt von Niederau entfernt über die A12. Folge der Beschilderung Bergisel und erkundige dich vorab nach Öffnungszeiten und Parken."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From approx. 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Entree; actuele prijzen op de officiële website",
+    "en": "Admission charged; see the official website for current prices",
+    "de": "Eintritt; aktuelle Preise auf der offiziellen Website"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (controleer openingstijden)",
+    "en": "All year (check opening hours)",
+    "de": "Ganzjährig (Öffnungszeiten prüfen)"
+   }
+  },
+  "location": {
+   "nl": "Bergisel, Innsbruck",
+   "en": "Bergisel, Innsbruck",
+   "de": "Bergisel, Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het Riesenrundgemälde?",
+     "en": "What is the Riesenrundgemälde?",
+     "de": "Was ist das Riesenrundgemälde?"
+    },
+    "a": {
+     "nl": "Een rondschilderij uit 1896 van 1.000 m² over de derde slag om de Bergisel in 1809, gemaakt door Zeno Diemer.",
+     "en": "A 1,000 m² circular painting from 1896 of the third Battle of Bergisel in 1809, made by Zeno Diemer.",
+     "de": "Ein Rundbild von 1896 mit 1.000 m² über die dritte Bergiselschlacht 1809, geschaffen von Zeno Diemer."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s86",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kramsach",
+  "slug_en": "tyrolean-farmhouse-museum-kramsach",
+  "slug_de": "museum-tiroler-bauernhoefe-kramsach",
+  "title": {
+   "nl": "Museum Tiroler Bauernhöfe Kramsach",
+   "en": "Tyrolean Farmhouse Museum, Kramsach",
+   "de": "Museum Tiroler Bauernhöfe Kramsach"
+  },
+  "tagline": {
+   "nl": "Openluchtmuseum met originele boerderijen uit heel Tirol",
+   "en": "Open-air museum with original farmhouses from across Tyrol",
+   "de": "Freilichtmuseum mit Originalhöfen aus ganz Tirol"
+  },
+  "intro": {
+   "nl": "Het Museum Tiroler Bauernhöfe in Kramsach is het grootste openluchtmuseum van Tirol en werd in 1974 opgericht. Op het terrein staan 14 originele boerderijen en 23 bijgebouwen uit alle Tiroolse dalen, die zijn verplaatst en hier weer opgebouwd. Tussen de gebouwen staan onder meer een molen, een smidse en een dorsschuur.\n\nKinderen kunnen eenden, kippen en ganzen zien en ontdekken hoe mensen vroeger woonden en werkten. In de loop der jaren is het museum interactiever gemaakt met videostations en audiopunten. Het terrein ligt bij het Reintaler See, waar u na het bezoek kunt wandelen. Rekening houden met ca. twee tot drie uur.",
+   "en": "The Museum Tiroler Bauernhöfe in Kramsach is Tyrol's largest open-air museum and was founded in 1974. On site stand 14 original farmhouses and 23 outbuildings from all Tyrolean valleys, moved and rebuilt here. Between the buildings are a mill, a smithy and a threshing barn, among others.\n\nChildren can see ducks, chickens and geese and find out how people used to live and work. Over the years the museum has become more interactive with video stations and audio points. The grounds are near the Reintaler See, where you can walk after your visit. Allow about two to three hours.",
+   "de": "Das Museum Tiroler Bauernhöfe in Kramsach ist das größte Freilichtmuseum Tirols und wurde 1974 gegründet. Auf dem Gelände stehen 14 Originalhöfe und 23 Nebengebäude aus allen Tiroler Tälern, die hierher versetzt und wieder aufgebaut wurden. Zwischen den Gebäuden liegen unter anderem eine Mühle, eine Schmiede und eine Dreschtenne.\n\nKinder können Enten, Hühner und Gänse sehen und erfahren, wie die Menschen früher wohnten und arbeiteten. Im Lauf der Jahre wurde das Museum mit Videostationen und Audiopunkten interaktiver gestaltet. Das Gelände liegt am Reintaler See, wo man nach dem Besuch spazieren kann. Planen Sie etwa zwei bis drei Stunden ein."
+  },
+  "tips": {
+   "nl": [
+    "Plan ruim twee uur in; het terrein is groot en u loopt veel buiten.",
+    "Neem stevige schoenen mee voor de paden tussen de boerderijen.",
+    "Combineer het bezoek met een wandeling of picknick bij het Reintaler See.",
+    "Controleer vooraf de seizoensdata en actuele activiteiten."
+   ],
+   "en": [
+    "Allow at least two hours; the grounds are large and mostly outdoors.",
+    "Wear sturdy shoes for the paths between the farmhouses.",
+    "Combine the visit with a walk or picnic at the Reintaler See.",
+    "Check seasonal dates and current activities beforehand."
+   ],
+   "de": [
+    "Planen Sie mindestens zwei Stunden ein; das Gelände ist groß und überwiegend im Freien.",
+    "Tragen Sie feste Schuhe für die Wege zwischen den Höfen.",
+    "Verbinden Sie den Besuch mit einem Spaziergang oder Picknick am Reintaler See.",
+    "Prüfen Sie vorab Saisontermine und aktuelle Angebote."
+   ]
+  },
+  "practical": {
+   "nl": "Kramsach ligt in het Inntal, ca. 30 tot 35 minuten rijden vanaf Niederau via Wörgl en de A12 (afrit Kramsach). Er is een parkeerplaats bij het museum.",
+   "en": "Kramsach is in the Inn Valley, about 30 to 35 minutes by car from Niederau via Wörgl and the A12 (Kramsach exit). There is a car park at the museum.",
+   "de": "Kramsach liegt im Inntal, etwa 30 bis 35 Autominuten von Niederau entfernt über Wörgl und die A12 (Ausfahrt Kramsach). Am Museum gibt es einen Parkplatz."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "Approx. 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Entree; actuele prijzen op de officiële website",
+    "en": "Admission charged; check current prices",
+    "de": "Eintritt; aktuelle Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 30 tot 35 min rijden",
+    "en": "Approx. 30 to 35 min by car",
+    "de": "Ca. 30 bis 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Seizoensgebonden (voorjaar tot herfst); controleer data",
+    "en": "Seasonal (spring to autumn); check dates",
+    "de": "Saisonal (Frühjahr bis Herbst); Termine prüfen"
+   }
+  },
+  "location": {
+   "nl": "Kramsach, Alpbachtal",
+   "en": "Kramsach, Alpbachtal",
+   "de": "Kramsach, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel boerderijen staan er in het museum?",
+     "en": "How many farmhouses are in the museum?",
+     "de": "Wie viele Höfe stehen im Museum?"
+    },
+    "a": {
+     "nl": "Er staan 14 originele boerderijen en 23 bijgebouwen uit alle Tiroolse dalen.",
+     "en": "There are 14 original farmhouses and 23 outbuildings from all Tyrolean valleys.",
+     "de": "Es stehen 14 Originalhöfe und 23 Nebengebäude aus allen Tiroler Tälern."
+    }
+   }
+  ],
+  "verified": true
+ }
+]
