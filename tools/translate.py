@@ -710,6 +710,9 @@ EV_PAIRS = [('<li><a href="over/">Over deze site</a></li>', '<li><a href="about/
 T['en'] += [(a, b) for a, b, c in EV_PAIRS]
 T['de'] += [(a, c) for a, b, c in EV_PAIRS]
 
+PHOTO5_PAIRS = [('Skipiste met pistemarkering 16 en het bord ‘Start Rodelbahn’, met besneeuwde bergen op de achtergrond', 'Ski slope with marker 16 and the ‘Start Rodelbahn’ sign, with snowy mountains in the background', 'Skipiste mit Markierung 16 und dem Schild ‘Start Rodelbahn’, dahinter verschneite Berge'), ('Twee skiërs bij pistemarkering 15 met uitzicht over het dal en de bosrijke hellingen', 'Two skiers at marker 15 with a view over the valley and the wooded slopes', 'Zwei Skifahrerinnen bei Markierung 15 mit Blick über das Tal und die bewaldeten Hänge'), ('Skiër op een brede, rustige piste met een lifthut en sneeuwkanonnen', 'Skier on a wide, quiet slope with a lift hut and snow cannons', 'Skifahrerin auf einer breiten, ruhigen Piste mit Liftstation und Schneekanonen'), ('Uitzicht vanaf een sleeplift op de piste en de bosrijke berghelling in tegenlicht', 'View from a drag lift over the slope and the wooded mountainside in backlight', 'Blick von einem Schlepplift auf die Piste und den bewaldeten Berghang im Gegenlicht'), ('Brede, zonnige skipiste met sneeuwkanonnen en houten hutjes aan de bosrand', 'Wide, sunny ski slope with snow cannons and small wooden huts at the forest edge', 'Breite, sonnige Skipiste mit Schneekanonen und kleinen Holzhütten am Waldrand')]
+T['en'] += [(a, b) for a, b, c in PHOTO5_PAIRS]
+T['de'] += [(a, c) for a, b, c in PHOTO5_PAIRS]
 ok = True
 for lang in ("en", "de"):
     html = src
