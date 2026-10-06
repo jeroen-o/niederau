@@ -211,7 +211,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
       <a href="{home(lang)}">{ui("n_home", lang)}</a>
       <a href="{u_hub("act", lang)}">{ui("n_act", lang)}</a>
       <a href="{u_hub("place", lang)}">{ui("n_place", lang)}</a>
-      <a href="{PREFIX[lang]}markbachjoch/" >{ui("n_mb", lang)}</a>
+      <a href="/{PREFIX[lang]}markbachjoch/">{ui("n_mb", lang)}</a>
       {tog}
       <div class="lang" aria-label="{ui("lang_label", lang)}">{lang_nav}</div>
     </nav>

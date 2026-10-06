@@ -216,6 +216,10 @@ if _reg.exists():
 - Huts and restaurants: Rübezahl-Hütte (panorama inn with sun terrace near the top station), Markbachjochalm (playground, petting zoo), Schnapshütte (snack bar at the valley station), Norderbergalm (about 1,360 m, roughly 30 minutes' walk). Opening times vary by season.
 - Summer: hiking to the Rosskopf (via Halsgatterl) or Feldalphorn, forest-edge walk to Penningdörfl, paragliding take-off below the hut. Winter: wide sunny slopes for beginners and families, steeper north slopes (Hochberg run).
 
+## Activities and places (own pages, NL/EN/DE)
+- Activity guide by theme (hiking, swimming, skiing, winter fun, cycling, adventure, animals, culture, attractions, day trips, wellness, workshops, golf): {BASE}/en/activities/ (NL {BASE}/activiteiten/, DE {BASE}/de/aktivitaeten/). Each activity has its own page with facts, tips and FAQ. Information is indicative; times and prices change, check with the provider.
+- Places and regions around Niederau (Wildschönau, Alpbachtal, Brixental and Kitzbühel Alps, Kufsteinerland and Wilder Kaiser, Inn valley incl. Innsbruck, Zillertal incl. Mayrhofen and Hintertux): {BASE}/en/nearby/ (NL {BASE}/omgeving/, DE {BASE}/de/umgebung/).
+
 ## Tourist office
 - Wildschönau Tourismus (tourist office for Niederau and the whole valley): Hauserweg, Oberau 337, 6311 Wildschönau, +43 5339 8255, info@wildschoenau.com, https://www.wildschoenau.com/ – accommodation in all four villages, events, lift and trail information.
 

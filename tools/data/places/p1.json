@@ -1,0 +1,618 @@
+[
+ {
+  "slug": "oberau",
+  "region": "wildschoenau",
+  "drop": false,
+  "name": {
+   "nl": "Oberau",
+   "en": "Oberau",
+   "de": "Oberau"
+  },
+  "tagline": {
+   "nl": "Het hoofddorp van de Wildschönau, vlak naast Niederau",
+   "en": "The main village of the Wildschönau, right next to Niederau",
+   "de": "Der Hauptort der Wildschönau, gleich neben Niederau"
+  },
+  "intro": {
+   "nl": "Oberau is het grootste en meest centrale dorp van de Wildschönau en ligt op korte afstand van Niederau. Hier vind je het gemeentehuis, het toeristenbureau, winkels, supermarkten en meerdere horecagelegenheden. Voor gezinnen die in Niederau verblijven is Oberau daarom de plek voor boodschappen en een snelle bezoek aan een restaurant.\n\nOok voor activiteiten is het dorp interessant. Het Bergbauernmuseum z'Bach laat zien hoe boeren in de bergen vroeger woonden en werkten, en is een leuke plek om met kinderen het oude dalleven te leren kennen. Het dorp heeft ook een eigen zwembad en een zomerprogramma voor kinderen. Informeer wel vooraf naar de actuele openingstijden.\n\nDoordat de afstanden in het dal klein zijn, combineer je Oberau gemakkelijk met een wandeling of fietstocht over het dal. Het dorp is geen plek met één grote attractie, maar met een prettige, praktische dorpssfeer en veel mogelijkheden in de omgeving.",
+   "en": "Oberau is the largest and most central village in the Wildschönau and lies a short distance from Niederau. It is home to the municipal office, the tourist office, shops, supermarkets and several places to eat. For families staying in Niederau it is therefore the place for groceries and a quick restaurant visit.\n\nIt is also interesting for activities. The Bergbauernmuseum z'Bach shows how mountain farmers used to live and work, and is a pleasant way to introduce children to the old life of the valley. The village also has its own swimming facilities and a summer programme for children. Do check current opening times beforehand.\n\nBecause distances in the valley are small, Oberau combines easily with a walk or cycle ride along the valley. It is not a place with one big attraction, but one with a pleasant, practical village feel and plenty to do in the surroundings.",
+   "de": "Oberau ist der größte und zentralste Ort der Wildschönau und liegt nur eine kurze Strecke von Niederau entfernt. Hier befinden sich das Gemeindeamt, das Tourismusbüro, Geschäfte, Supermärkte und mehrere Gastronomiebetriebe. Für Familien, die in Niederau wohnen, ist Oberau daher der Ort für Einkäufe und einen schnellen Restaurantbesuch.\n\nAuch für Aktivitäten ist das Dorf interessant. Das Bergbauernmuseum z'Bach zeigt, wie Bergbauern früher lebten und arbeiteten, und ist eine schöne Gelegenheit, Kindern das frühere Leben im Tal näherzubringen. Das Dorf hat zudem ein eigenes Bad und ein Sommerprogramm für Kinder. Aktuelle Öffnungszeiten bitte vorab erfragen.\n\nDa die Entfernungen im Tal klein sind, lässt sich Oberau leicht mit einer Wanderung oder Radtour durchs Tal verbinden. Es ist kein Ort mit einer einzigen großen Attraktion, sondern ein Dorf mit angenehmer, praktischer Atmosphäre und vielen Möglichkeiten in der Umgebung."
+  },
+  "highlights": {
+   "nl": [
+    "Bergbauernmuseum z'Bach: inkijk in het leven van bergboeren vroeger",
+    "Zwembad in het dorp, handig op warme zomerdagen",
+    "Winkels en supermarkten voor boodschappen en souvenirs",
+    "Wandel- en fietsroutes door het dal, startend in of vlak bij het dorp",
+    "In de winter: langlaufroutes en rodelbaan in het dal, op korte afstand"
+   ],
+   "en": [
+    "Bergbauernmuseum z'Bach: a look at how mountain farmers once lived",
+    "Swimming facilities in the village, handy on warm summer days",
+    "Shops and supermarkets for groceries and souvenirs",
+    "Walking and cycling routes through the valley, starting in or near the village",
+    "In winter: cross-country trails and toboggan runs in the valley, nearby"
+   ],
+   "de": [
+    "Bergbauernmuseum z'Bach: Einblick in das frühere Leben der Bergbauern",
+    "Bad im Ort, praktisch an warmen Sommertagen",
+    "Geschäfte und Supermärkte für Einkäufe und Souvenirs",
+    "Wander- und Radrouten durchs Tal, ab oder nahe dem Dorf",
+    "Im Winter: Langlaufloipen und Rodelbahnen im Tal in der Nähe"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 5 minuten rijden vanaf Niederau, via de dalweg door de Wildschönau.",
+   "en": "About 5 minutes by car from Niederau, along the main valley road through the Wildschönau.",
+   "de": "Ca. 5 Minuten mit dem Auto ab Niederau, über die Talstraße durch die Wildschönau."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die iets praktisch en dichtbij zoeken.",
+   "en": "Suits families looking for something practical and close by.",
+   "de": "Passt zu Familien, die etwas Praktisches in der Nähe suchen."
+  },
+  "season": {
+   "nl": "Het hele jaar.",
+   "en": "All year round.",
+   "de": "Das ganze Jahr."
+  },
+  "drive_min": 5,
+  "elevation_m": null,
+  "url": "",
+  "verified": false,
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Oberau ver van Niederau?",
+     "en": "Is Oberau far from Niederau?",
+     "de": "Ist Oberau weit von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Nee, Oberau ligt ca. 5 minuten rijden van Niederau, in hetzelfde dal.",
+     "en": "No, Oberau is about 5 minutes by car from Niederau, in the same valley.",
+     "de": "Nein, Oberau liegt ca. 5 Minuten Autofahrt von Niederau entfernt, im selben Tal."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen te doen in Oberau?",
+     "en": "What is there for children in Oberau?",
+     "de": "Was gibt es in Oberau für Kinder?"
+    },
+    "a": {
+     "nl": "Onder meer het Bergbauernmuseum z'Bach en het zwembad; informeer vooraf naar de openingstijden.",
+     "en": "Among other things the Bergbauernmuseum z'Bach and the swimming facilities; check opening times beforehand.",
+     "de": "Unter anderem das Bergbauernmuseum z'Bach und das Bad; Öffnungszeiten bitte vorab erfragen."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "auffach",
+  "region": "wildschoenau",
+  "drop": false,
+  "name": {
+   "nl": "Auffach",
+   "en": "Auffach",
+   "de": "Auffach"
+  },
+  "tagline": {
+   "nl": "Het hoogstgelegen dorp van het dal, met de Schatzberg",
+   "en": "The valley's highest village, home to the Schatzberg",
+   "de": "Der höchstgelegene Ort des Tals, mit dem Schatzberg"
+  },
+  "intro": {
+   "nl": "Auffach ligt aan het einde van de Wildschönau en is het meest afgelegen dorp van het dal. Het is vooral bekend vanwege de Schatzberg, het skigebied en wandelberg dat vanuit het dorp bereikbaar is met de Schatzbergbahn. Daardoor is Auffach een vertrekpunt voor wie in de winter wil skiën en in de zomer hoger wil wandelen.\n\nDe Schatzberg is ook onderdeel van het grote skigebied Ski Juwel Alpbachtal Wildschönau, waar je met één skipas kunt skiën. De pistes bij Auffach zijn geschikt voor een breed publiek en zijn vanuit Niederau in ongeveer een kwartier bereikbaar, ook met de skibus.\n\nIn de zomer vind je rond Auffach rustige wandelpaden, alpenweiden en een bergtocht waar kinderen goed mee kunnen. Het dorp zelf is klein en rustig; kom je voor een dagje bergen, dan combineer je Auffach prima met een bezoek aan een berghut.",
+   "en": "Auffach lies at the head of the Wildschönau and is the most remote village in the valley. It is best known for the Schatzberg, the ski and hiking mountain reached from the village by the Schatzbergbahn. This makes Auffach a starting point for skiing in winter and for higher-altitude walking in summer.\n\nThe Schatzberg is also part of the large Ski Juwel Alpbachtal Wildschönau ski area, where one ski pass covers the whole area. The slopes at Auffach suit a broad range of skiers and can be reached from Niederau in roughly a quarter of an hour, also by ski bus.\n\nIn summer you will find quiet walking paths and alpine pastures around Auffach, with mountain walks that children can manage well. The village itself is small and peaceful; if you are coming for a day in the mountains, Auffach combines nicely with a visit to a mountain hut.",
+   "de": "Auffach liegt am Ende der Wildschönau und ist der abgelegenste Ort des Tals. Bekannt ist es vor allem durch den Schatzberg, den Ski- und Wanderberg, der vom Dorf aus mit der Schatzbergbahn erreichbar ist. Damit ist Auffach Ausgangspunkt zum Skifahren im Winter und für höher gelegene Wanderungen im Sommer.\n\nDer Schatzberg gehört auch zum großen Skigebiet Ski Juwel Alpbachtal Wildschönau, in dem ein Skipass für das gesamte Gebiet gilt. Die Pisten bei Auffach eignen sich für ein breites Publikum und sind von Niederau aus in etwa einer Viertelstunde erreichbar, auch mit dem Skibus.\n\nIm Sommer findest du rund um Auffach ruhige Wanderwege, Almwiesen und Bergtouren, die Kinder gut bewältigen können. Der Ort selbst ist klein und ruhig; wer einen Tag in den Bergen verbringen möchte, kann Auffach gut mit dem Besuch einer Berghütte verbinden."
+  },
+  "highlights": {
+   "nl": [
+    "Schatzbergbahn: bergbahn vanuit het dorp voor skiërs en wandelaars",
+    "Skigebied Schatzberg, deel van Ski Juwel Alpbachtal Wildschönau (winter)",
+    "Wandelingen over alpenweiden en naar berghutten (zomer)",
+    "Rustige, kleine dorpssfeer aan het einde van het dal",
+    "Mooi uitzicht over de Wildschönau vanaf de hoogte"
+   ],
+   "en": [
+    "Schatzbergbahn: cable car from the village for skiers and walkers",
+    "Schatzberg ski area, part of Ski Juwel Alpbachtal Wildschönau (winter)",
+    "Walks across alpine pastures and to mountain huts (summer)",
+    "Quiet, small-village feel at the head of the valley",
+    "Fine views over the Wildschönau from higher up"
+   ],
+   "de": [
+    "Schatzbergbahn: Bergbahn ab dem Dorf für Skifahrer und Wanderer",
+    "Skigebiet Schatzberg, Teil von Ski Juwel Alpbachtal Wildschönau (Winter)",
+    "Wanderungen über Almwiesen und zu Berghütten (Sommer)",
+    "Ruhige, kleine Dorfatmosphäre am Talende",
+    "Schöne Aussicht über die Wildschönau aus der Höhe"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 15 minuten rijden vanaf Niederau, via de dalweg door Oberau en verder het dal in.",
+   "en": "About 15 minutes by car from Niederau, along the valley road via Oberau and further up the valley.",
+   "de": "Ca. 15 Minuten mit dem Auto ab Niederau, über die Talstraße via Oberau weiter das Tal hinein."
+  },
+  "best_for": {
+   "nl": "Past bij wandelaars en skiërs die een rustigere kant van het dal zoeken.",
+   "en": "Suits walkers and skiers looking for a quieter side of the valley.",
+   "de": "Passt zu Wanderern und Skifahrern, die eine ruhigere Seite des Tals suchen."
+  },
+  "season": {
+   "nl": "Winter (skiën) en zomer (wandelen).",
+   "en": "Winter (skiing) and summer (walking).",
+   "de": "Winter (Skifahren) und Sommer (Wandern)."
+  },
+  "drive_min": 15,
+  "elevation_m": null,
+  "url": "",
+  "verified": false,
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe kom ik vanuit Niederau in Auffach?",
+     "en": "How do I get from Niederau to Auffach?",
+     "de": "Wie komme ich von Niederau nach Auffach?"
+    },
+    "a": {
+     "nl": "Met de auto ca. 15 minuten via Oberau; in de winter rijdt er ook een skibus.",
+     "en": "By car about 15 minutes via Oberau; in winter a ski bus also runs.",
+     "de": "Mit dem Auto ca. 15 Minuten über Oberau; im Winter fährt auch ein Skibus."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is de Schatzberg onderdeel van Ski Juwel?",
+     "en": "Is the Schatzberg part of Ski Juwel?",
+     "de": "Gehört der Schatzberg zu Ski Juwel?"
+    },
+    "a": {
+     "nl": "Ja, de Schatzberg hoort bij het skigebied Ski Juwel Alpbachtal Wildschönau.",
+     "en": "Yes, the Schatzberg belongs to the Ski Juwel Alpbachtal Wildschönau ski area.",
+     "de": "Ja, der Schatzberg gehört zum Skigebiet Ski Juwel Alpbachtal Wildschönau."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "thierbach",
+  "region": "wildschoenau",
+  "drop": false,
+  "name": {
+   "nl": "Thierbach",
+   "en": "Thierbach",
+   "de": "Thierbach"
+  },
+  "tagline": {
+   "nl": "Rustig dorpje op de zonnige helling van de Wildschönau",
+   "en": "Peaceful hamlet on the sunny slope of the Wildschönau",
+   "de": "Ruhiger Ortsteil am sonnigen Hang der Wildschönau"
+  },
+  "intro": {
+   "nl": "Thierbach is een kleine, rustige kern in het dal van de Wildschönau, op een zonnige helling boven de dalweg. Het is een dorp met verspreide boerderijen, een kerkje en veel groen. Wie een plek zoekt zonder drukte, vindt hier een aangename uitzichtrijke omgeving.\n\nVoor gezinnen uit Niederau is Thierbach vooral interessant als startpunt van korte wandelingen, wandelroutes langs boerderijen en weides en als rustige stop onderweg in het dal. Het dorp is geen bestemming met grote attracties, maar is wel een mooie plek om het agrarische karakter van de Wildschönau te zien.\n\nIn de winter ligt het dorp dicht bij het skigebied van het dal en kun je het combineren met een dag skiën of een wandeling door de sneeuw. Informeer ter plaatse naar actuele wandelroutes en mogelijkheden voor een bezoek.",
+   "en": "Thierbach is a small, peaceful settlement in the Wildschönau valley, on a sunny slope above the main valley road. It has scattered farms, a small church and plenty of greenery. If you want a spot without crowds, you will find a pleasant, scenic setting here.\n\nFor families from Niederau, Thierbach is mainly interesting as the starting point for short walks, routes past farms and meadows, and as a quiet stop on the way through the valley. It is not a destination with big attractions, but it is a good place to see the agricultural character of the Wildschönau.\n\nIn winter the village lies close to the valley's ski area and can be combined with a day's skiing or a walk through the snow. Ask locally about current walking routes and opportunities for a visit.",
+   "de": "Thierbach ist ein kleiner, ruhiger Ortsteil im Tal der Wildschönau, an einem sonnigen Hang oberhalb der Talstraße. Es gibt verstreute Bauernhöfe, eine kleine Kirche und viel Grün. Wer einen Ort ohne Trubel sucht, findet hier eine angenehme, aussichtsreiche Umgebung.\n\nFür Familien aus Niederau ist Thierbach vor allem als Ausgangspunkt für kurze Spaziergänge, Wege entlang von Höfen und Wiesen und als ruhiger Halt im Tal interessant. Es ist kein Ziel mit großen Attraktionen, aber ein guter Ort, um den landwirtschaftlichen Charakter der Wildschönau zu erleben.\n\nIm Winter liegt der Ort nahe am Skigebiet des Tals und lässt sich mit einem Skitag oder einer Schneewanderung verbinden. Aktuelle Wanderwege und Besuchsmöglichkeiten bitte vor Ort erfragen."
+  },
+  "highlights": {
+   "nl": [
+    "Korte wandelingen langs boerderijen en weides",
+    "Rustig uitzichtpunt boven het dal",
+    "Mogelijkheid om het agrarische dalleven van dichtbij te zien",
+    "Dicht bij het skigebied van het dal in de winter",
+    "Combineerbaar met een bezoek aan Oberau of Auffach"
+   ],
+   "en": [
+    "Short walks past farms and meadows",
+    "Quiet vantage point above the valley",
+    "A chance to see agricultural valley life up close",
+    "Close to the valley's ski area in winter",
+    "Easy to combine with a visit to Oberau or Auffach"
+   ],
+   "de": [
+    "Kurze Spaziergänge entlang von Höfen und Wiesen",
+    "Ruhiger Aussichtspunkt über dem Tal",
+    "Gelegenheit, das ländliche Talleben aus der Nähe zu sehen",
+    "Im Winter nahe am Skigebiet des Tals",
+    "Gut kombinierbar mit einem Besuch in Oberau oder Auffach"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 10 minuten rijden vanaf Niederau, via de dalweg door de Wildschönau.",
+   "en": "About 10 minutes by car from Niederau, along the valley road through the Wildschönau.",
+   "de": "Ca. 10 Minuten mit dem Auto ab Niederau, über die Talstraße durch die Wildschönau."
+  },
+  "best_for": {
+   "nl": "Past bij rustzoekers en gezinnen die graag wandelen.",
+   "en": "Suits those seeking quiet and families who like walking.",
+   "de": "Passt zu Ruhesuchenden und wanderfreudigen Familien."
+  },
+  "season": {
+   "nl": "Het hele jaar, vooral zomer en winter.",
+   "en": "All year round, especially summer and winter.",
+   "de": "Das ganze Jahr, besonders Sommer und Winter."
+  },
+  "drive_min": 10,
+  "elevation_m": null,
+  "url": "",
+  "verified": false,
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Thierbach ver van Niederau?",
+     "en": "Is Thierbach far from Niederau?",
+     "de": "Ist Thierbach weit von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Nee, ca. 10 minuten met de auto, in hetzelfde dal.",
+     "en": "No, about 10 minutes by car, in the same valley.",
+     "de": "Nein, ca. 10 Minuten mit dem Auto, im selben Tal."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat kun je in Thierbach doen?",
+     "en": "What can you do in Thierbach?",
+     "de": "Was kann man in Thierbach unternehmen?"
+    },
+    "a": {
+     "nl": "Vooral wandelen en genieten van rust en uitzicht; grote attracties zijn er niet.",
+     "en": "Mainly walking and enjoying the peace and views; there are no major attractions.",
+     "de": "Vor allem wandern und Ruhe und Aussicht genießen; große Attraktionen gibt es nicht."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "muehltal",
+  "region": "wildschoenau",
+  "drop": false,
+  "name": {
+   "nl": "Mühltal",
+   "en": "Mühltal",
+   "de": "Mühltal"
+  },
+  "tagline": {
+   "nl": "Gehucht aan de beek in het dal van de Wildschönau",
+   "en": "Hamlet by the stream in the Wildschönau valley",
+   "de": "Weiler am Bach im Tal der Wildschönau"
+  },
+  "intro": {
+   "nl": "Mühltal is een klein gehucht in de Wildschönau, gelegen langs de beek die door het dal stroomt. De naam verwijst naar de molens die hier vroeger werkten. Het is geen toeristisch centrum maar een rustige, landelijke plek.\n\nVoor gezinnen is Mühltal vooral interessant als onderdeel van een wandel- of fietstocht door het dal, bijvoorbeeld langs de beek en over rustige paden. Je ziet er boerderijen, weides en kleine houten gebouwen, typisch voor het dal.\n\nBezienswaardigheden en voorzieningen zijn beperkt; neem je picknick mee of combineer het gehucht met een bezoek aan Oberau of Niederau, waar winkels en horeca zijn. Voor actuele routes en bijzonderheden is het toeristenbureau van de Wildschönau het beste aanspreekpunt.",
+   "en": "Mühltal is a small hamlet in the Wildschönau, set along the stream that runs through the valley. The name refers to the mills that once worked here. It is not a tourist centre but a quiet, rural spot.\n\nFor families, Mühltal is mainly interesting as part of a walk or cycle ride through the valley, for example along the stream and on quiet paths. You will see farms, meadows and small wooden buildings typical of the valley.\n\nSights and facilities are limited; bring a picnic or combine the hamlet with a visit to Oberau or Niederau, where there are shops and places to eat. For current routes and details, the Wildschönau tourist office is the best point of contact.",
+   "de": "Mühltal ist ein kleiner Weiler in der Wildschönau, gelegen am Bach, der durch das Tal fließt. Der Name verweist auf die Mühlen, die hier einst arbeiteten. Es ist kein touristisches Zentrum, sondern ein ruhiger, ländlicher Ort.\n\nFür Familien ist Mühltal vor allem als Teil einer Wander- oder Radtour durchs Tal interessant, etwa entlang des Bachs und auf ruhigen Wegen. Man sieht Höfe, Wiesen und kleine Holzgebäude, typisch für das Tal.\n\nSehenswürdigkeiten und Einrichtungen sind begrenzt; nimm ein Picknick mit oder verbinde den Weiler mit einem Besuch in Oberau oder Niederau, wo es Geschäfte und Gastronomie gibt. Für aktuelle Routen und Details ist das Tourismusbüro der Wildschönau die beste Anlaufstelle."
+  },
+  "highlights": {
+   "nl": [
+    "Wandelen of fietsen langs de beek door het dal",
+    "Rustige paden langs boerderijen en weides",
+    "Typische houten gebouwen en landelijke sfeer",
+    "Goede plek voor een picknick onderweg",
+    "Combineerbaar met een bezoek aan Oberau of Niederau"
+   ],
+   "en": [
+    "Walking or cycling along the stream through the valley",
+    "Quiet paths past farms and meadows",
+    "Typical wooden buildings and rural atmosphere",
+    "A good spot for a picnic along the way",
+    "Easy to combine with a visit to Oberau or Niederau"
+   ],
+   "de": [
+    "Wandern oder Radfahren am Bach entlang durchs Tal",
+    "Ruhige Wege an Höfen und Wiesen vorbei",
+    "Typische Holzgebäude und ländliche Atmosphäre",
+    "Guter Ort für ein Picknick unterwegs",
+    "Gut kombinierbar mit einem Besuch in Oberau oder Niederau"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 10 minuten rijden vanaf Niederau, via de dalweg door de Wildschönau.",
+   "en": "About 10 minutes by car from Niederau, along the valley road through the Wildschönau.",
+   "de": "Ca. 10 Minuten mit dem Auto ab Niederau, über die Talstraße durch die Wildschönau."
+  },
+  "best_for": {
+   "nl": "Past bij rustzoekers, wandelaars en fietsers.",
+   "en": "Suits those seeking quiet, walkers and cyclists.",
+   "de": "Passt zu Ruhesuchenden, Wanderern und Radfahrern."
+  },
+  "season": {
+   "nl": "Vooral zomer en herfst.",
+   "en": "Mainly summer and autumn.",
+   "de": "Vor allem Sommer und Herbst."
+  },
+  "drive_min": 10,
+  "elevation_m": null,
+  "url": "",
+  "verified": false,
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Mühltal een dorp?",
+     "en": "Is Mühltal a village?",
+     "de": "Ist Mühltal ein Dorf?"
+    },
+    "a": {
+     "nl": "Nee, het is een klein gehucht in de Wildschönau met weinig voorzieningen.",
+     "en": "No, it is a small hamlet in the Wildschönau with few facilities.",
+     "de": "Nein, es ist ein kleiner Weiler in der Wildschönau mit wenigen Einrichtungen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar kan ik terecht voor informatie?",
+     "en": "Where can I get information?",
+     "de": "Wo bekomme ich Informationen?"
+    },
+    "a": {
+     "nl": "Bij het toeristenbureau van de Wildschönau, dat actuele routes en tips geeft.",
+     "en": "At the Wildschönau tourist office, which gives current routes and tips.",
+     "de": "Beim Tourismusbüro der Wildschönau, das aktuelle Routen und Tipps gibt."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "alpbach",
+  "region": "alpbachtal",
+  "drop": false,
+  "name": {
+   "nl": "Alpbach",
+   "en": "Alpbach",
+   "de": "Alpbach"
+  },
+  "tagline": {
+   "nl": "Het bloemendorp van Tirol in een zijdal van het Alpbachtal",
+   "en": "Tyrol's flower village in a side valley of the Alpbachtal",
+   "de": "Das Blumendorf Tirols in einem Seitental des Alpbachtals"
+  },
+  "intro": {
+   "nl": "Alpbach is een bergdorp in een zijdal van het Alpbachtal en staat bekend als een van de mooiste dorpen van Oostenrijk. De houten boerderijen met bloemenbakken, de kleine kerk en de hellende weiden maken het dorp fotogeniek. De bouwstijl is opvallend eenvormig, doordat het dorp al lang waakt over zijn karakter.\n\nBuiten het toerisme is Alpbach bekend door het Europäisches Forum Alpbach, een jaarlijks bijeenkomst van wetenschappers, politici en denkers, die in augustus plaatsvindt. In de zomer is het dorp een goede uitvalsbasis voor wandelingen op de omliggende bergen, in de winter is het deel van het skigebied Ski Juwel Alpbachtal Wildschönau.\n\nVoor gezinnen uit Niederau is Alpbach een mooi uitstapje van een halve of hele dag: een wandeling, een kop koffie op een terras en een bezoek aan het dorpscentrum. Het is ook in de winter een gezellige bestemming.",
+   "en": "Alpbach is a mountain village in a side valley of the Alpbachtal and is known as one of the prettiest villages in Austria. The wooden farmhouses with flower boxes, the small church and the sloping meadows make it photogenic. The building style is strikingly uniform, because the village has long safeguarded its character.\n\nBeyond tourism, Alpbach is known for the European Forum Alpbach, an annual gathering of academics, politicians and thinkers held in August. In summer the village is a good base for walks in the surrounding mountains, and in winter it is part of the Ski Juwel Alpbachtal Wildschönau ski area.\n\nFor families from Niederau, Alpbach makes a lovely half-day or full-day outing: a walk, a coffee on a terrace and a stroll through the village centre. It is also a cosy destination in winter.",
+   "de": "Alpbach ist ein Bergdorf in einem Seitental des Alpbachtals und gilt als eines der schönsten Dörfer Österreichs. Die Holzhäuser mit Blumenschmuck, die kleine Kirche und die sanft geneigten Wiesen machen es fotogen. Der Baustil ist auffallend einheitlich, weil das Dorf seit langem auf den Erhalt seines Charakters achtet.\n\nNeben dem Tourismus ist Alpbach durch das Europäische Forum Alpbach bekannt, ein jährliches Treffen von Wissenschaftlern, Politikern und Denkern im August. Im Sommer ist das Dorf eine gute Basis für Wanderungen in den umliegenden Bergen, im Winter gehört es zum Skigebiet Ski Juwel Alpbachtal Wildschönau.\n\nFür Familien aus Niederau ist Alpbach ein schöner Halbtages- oder Tagesausflug: Spaziergang, Kaffee auf einer Terrasse und ein Bummel durch den Ortskern. Auch im Winter ist es ein gemütliches Ziel."
+  },
+  "highlights": {
+   "nl": [
+    "Dorpscentrum met houten boerderijen en bloemen",
+    "Europäisches Forum Alpbach in augustus",
+    "Wandelingen op de omliggende bergen (zomer)",
+    "Skiën in Ski Juwel Alpbachtal Wildschönau (winter)",
+    "Gezellige terrassen en berghutten rond het dorp"
+   ],
+   "en": [
+    "Village centre with wooden farmhouses and flowers",
+    "European Forum Alpbach in August",
+    "Walks in the surrounding mountains (summer)",
+    "Skiing in Ski Juwel Alpbachtal Wildschönau (winter)",
+    "Cosy terraces and mountain huts around the village"
+   ],
+   "de": [
+    "Ortskern mit Holzhäusern und Blumen",
+    "Europäisches Forum Alpbach im August",
+    "Wanderungen in den umliegenden Bergen (Sommer)",
+    "Skifahren im Ski Juwel Alpbachtal Wildschönau (Winter)",
+    "Gemütliche Terrassen und Berghütten rund um das Dorf"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten rijden vanaf Niederau, via Oberau en de Inntal-weg richting Brixlegg en dan Alpbach in.",
+   "en": "About 35 minutes by car from Niederau, via Oberau and the Inn Valley road towards Brixlegg, then up into Alpbach.",
+   "de": "Ca. 35 Minuten mit dem Auto ab Niederau, über Oberau und die Inntalstraße Richtung Brixlegg, dann nach Alpbach hinein."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die een mooi, authentiek bergdorp willen zien.",
+   "en": "Suits families wanting to see a pretty, authentic mountain village.",
+   "de": "Passt zu Familien, die ein schönes, authentisches Bergdorf sehen möchten."
+  },
+  "season": {
+   "nl": "Het hele jaar.",
+   "en": "All year round.",
+   "de": "Das ganze Jahr."
+  },
+  "drive_min": 35,
+  "elevation_m": null,
+  "url": "",
+  "verified": false,
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom staat Alpbach bekend?",
+     "en": "What is Alpbach known for?",
+     "de": "Wofür ist Alpbach bekannt?"
+    },
+    "a": {
+     "nl": "Voor zijn eenvormige houten bouwstijl, bloemen en het jaarlijkse Europäisches Forum Alpbach in augustus.",
+     "en": "For its uniform wooden building style, its flowers and the annual European Forum Alpbach in August.",
+     "de": "Für seinen einheitlichen Holzbaustil, seine Blumen und das jährliche Europäische Forum Alpbach im August."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je vanuit Niederau in Alpbach skiën?",
+     "en": "Can you ski in Alpbach from Niederau?",
+     "de": "Kann man von Niederau aus in Alpbach Ski fahren?"
+    },
+    "a": {
+     "nl": "Alpbach hoort bij Ski Juwel Alpbachtal Wildschönau; Niederau ook, dus één skipas dekt het gebied.",
+     "en": "Alpbach belongs to Ski Juwel Alpbachtal Wildschönau, as does Niederau, so one ski pass covers the area.",
+     "de": "Alpbach gehört zu Ski Juwel Alpbachtal Wildschönau, ebenso Niederau; ein Skipass gilt für das Gebiet."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "reith-im-alpbachtal",
+  "region": "alpbachtal",
+  "drop": false,
+  "name": {
+   "nl": "Reith im Alpbachtal",
+   "en": "Reith im Alpbachtal",
+   "de": "Reith im Alpbachtal"
+  },
+  "tagline": {
+   "nl": "Zonnig dorp aan de ingang van het Alpbachtal, met zwemmeer",
+   "en": "Sunny village at the entrance of the Alpbachtal, with a swimming lake",
+   "de": "Sonniges Dorf am Eingang des Alpbachtals, mit Badesee"
+  },
+  "intro": {
+   "nl": "Reith im Alpbachtal ligt op een zonnig terras boven de Inn, aan de ingang van het Alpbachtal. Het is een rustig dorp met een mix van landbouw en toerisme, en met uitzicht op de bergen aan weerszijden van het dal.\n\nOpvallend is de Reither See, een kleine meer in de omgeving waar je in de zomer kunt zwemmen en met kinderen kunt ravotten. Informeer vooraf over toegang en voorzieningen. Het meer is een van de bekendere zwemplekken in het gebied.\n\nVoor gezinnen uit Niederau is Reith een prettige korte tocht, bijvoorbeeld combineerbaar met Brixlegg, Rattenberg of Alpbach. In de winter is het dorp rustig, maar het ligt in de buurt van het skigebied. Het is vooral een plek om te wandelen, te zwemmen en tot rust te komen.",
+   "en": "Reith im Alpbachtal lies on a sunny terrace above the Inn, at the entrance to the Alpbachtal. It is a quiet village mixing farming and tourism, with views of the mountains on both sides of the valley.\n\nOf note is the Reither See, a small lake nearby where you can swim in summer and let children play. Check access and facilities beforehand. It is one of the better-known swimming spots in the area.\n\nFor families from Niederau, Reith is a pleasant short trip, easy to combine with Brixlegg, Rattenberg or Alpbach. In winter the village is quiet, but it lies near the ski area. It is mainly a place to walk, swim and unwind.",
+   "de": "Reith im Alpbachtal liegt auf einer sonnigen Terrasse oberhalb des Inns, am Eingang des Alpbachtals. Es ist ein ruhiges Dorf mit einer Mischung aus Landwirtschaft und Tourismus und mit Blick auf die Berge zu beiden Seiten des Tals.\n\nBesonders ist der Reither See, ein kleiner See in der Nähe, in dem man im Sommer baden und mit Kindern spielen kann. Zugang und Einrichtungen bitte vorab erfragen. Er ist eine der bekannteren Bademöglichkeiten der Gegend.\n\nFür Familien aus Niederau ist Reith ein angenehmer Kurzausflug, gut kombinierbar mit Brixlegg, Rattenberg oder Alpbach. Im Winter ist das Dorf ruhig, liegt aber in der Nähe des Skigebiets. Es ist vor allem ein Ort zum Wandern, Baden und Entspannen."
+  },
+  "highlights": {
+   "nl": [
+    "Reither See: zwemmen en spelen in de zomer",
+    "Wandelingen met uitzicht over de Inn en het Alpbachtal",
+    "Rustig dorpscentrum met kerk",
+    "Combineerbaar met Brixlegg, Rattenberg of Alpbach",
+    "Dicht bij het skigebied in de winter"
+   ],
+   "en": [
+    "Reither See: swimming and play in summer",
+    "Walks with views over the Inn and the Alpbachtal",
+    "Quiet village centre with church",
+    "Easy to combine with Brixlegg, Rattenberg or Alpbach",
+    "Close to the ski area in winter"
+   ],
+   "de": [
+    "Reither See: Baden und Spielen im Sommer",
+    "Wanderungen mit Blick über den Inn und das Alpbachtal",
+    "Ruhiger Ortskern mit Kirche",
+    "Gut kombinierbar mit Brixlegg, Rattenberg oder Alpbach",
+    "Im Winter nahe am Skigebiet"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 30 minuten rijden vanaf Niederau, via Oberau en de Inntal-weg richting Brixlegg.",
+   "en": "About 30 minutes by car from Niederau, via Oberau and the Inn Valley road towards Brixlegg.",
+   "de": "Ca. 30 Minuten mit dem Auto ab Niederau, über Oberau und die Inntalstraße Richtung Brixlegg."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die zwemmen en rustig wandelen willen combineren.",
+   "en": "Suits families wanting to combine swimming with quiet walks.",
+   "de": "Passt zu Familien, die Baden und ruhiges Wandern verbinden möchten."
+  },
+  "season": {
+   "nl": "Vooral zomer.",
+   "en": "Mainly summer.",
+   "de": "Vor allem Sommer."
+  },
+  "drive_min": 30,
+  "elevation_m": null,
+  "url": "",
+  "verified": false,
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij Reith zwemmen?",
+     "en": "Can you swim at Reith?",
+     "de": "Kann man bei Reith baden?"
+    },
+    "a": {
+     "nl": "Ja, in de zomer bij de Reither See; informeer vooraf naar toegang en voorzieningen.",
+     "en": "Yes, in summer at the Reither See; check access and facilities beforehand.",
+     "de": "Ja, im Sommer am Reither See; Zugang und Einrichtungen bitte vorab erfragen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Reith ver van Alpbach?",
+     "en": "Is Reith far from Alpbach?",
+     "de": "Ist Reith weit von Alpbach entfernt?"
+    },
+    "a": {
+     "nl": "Nee, beide liggen in het Alpbachtal en zijn in korte tijd met de auto te combineren.",
+     "en": "No, both are in the Alpbachtal and can be combined by car in a short time.",
+     "de": "Nein, beide liegen im Alpbachtal und lassen sich mit dem Auto in kurzer Zeit verbinden."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "brixlegg",
+  "region": "alpbachtal",
+  "drop": false,
+  "name": {
+   "nl": "Brixlegg",
+   "en": "Brixlegg",
+   "de": "Brixlegg"
+  },
+  "tagline": {
+   "nl": "Kleine stad in het Inntal met mijnbouwgeschiedenis en een kasteel",
+   "en": "Small town in the Inn Valley with mining history and a castle",
+   "de": "Kleinstadt im Inntal mit Bergbaugeschichte und Schloss"
+  },
+  "intro": {
+   "nl": "Brixlegg is een kleine stad in het Inntal, aan de rand van het Alpbachtal. Het staat bekend om zijn lange geschiedenis van kopererts en metaalverwerking; de metaalindustrie is nog steeds belangrijk voor de plaats. Voor veel bezoekers is Brixlegg vooral een doorgangsplek op weg naar Alpbach of Rattenberg.\n\nBoven de stad ligt Schloss Matzen, een kasteel dat vooral aan de buitenkant te bewonderen is; informeer vooraf of een bezoek mogelijk is. De omgeving biedt wandelingen langs de Inn en op de hellingen boven de stad.\n\nVoor gezinnen uit Niederau is Brixlegg een praktische stop: er zijn winkels en horeca, en je komt er langs op weg naar het Alpbachtal. Een korte wandeling of fietstocht langs de Inn is een prettige aanvulling op een dagje uit.",
+   "en": "Brixlegg is a small town in the Inn Valley, on the edge of the Alpbachtal. It is known for its long history of copper ore and metalworking; the metal industry is still important to the town. For many visitors Brixlegg is mainly a place to pass through on the way to Alpbach or Rattenberg.\n\nAbove the town stands Schloss Matzen, a castle best admired from the outside; check beforehand whether a visit is possible. The surroundings offer walks along the Inn and on the slopes above the town.\n\nFor families from Niederau, Brixlegg is a practical stop: there are shops and places to eat, and you pass through on the way to the Alpbachtal. A short walk or cycle ride along the Inn makes a pleasant addition to a day out.",
+   "de": "Brixlegg ist eine Kleinstadt im Inntal, am Rand des Alpbachtals. Bekannt ist sie für ihre lange Geschichte des Kupferbergbaus und der Metallverarbeitung; die Metallindustrie ist bis heute wichtig für den Ort. Für viele Besucher ist Brixlegg vor allem ein Durchgangsort auf dem Weg nach Alpbach oder Rattenberg.\n\nÜber der Stadt liegt Schloss Matzen, das sich vor allem von außen bewundern lässt; ob ein Besuch möglich ist, bitte vorab erfragen. Die Umgebung bietet Spaziergänge am Inn und an den Hängen oberhalb der Stadt.\n\nFür Familien aus Niederau ist Brixlegg ein praktischer Stopp: Es gibt Geschäfte und Gastronomie, und man kommt auf dem Weg ins Alpbachtal ohnehin vorbei. Ein kurzer Spaziergang oder eine Radtour am Inn ergänzt den Tagesausflug angenehm."
+  },
+  "highlights": {
+   "nl": [
+    "Schloss Matzen boven de stad (informeer naar bezoekmogelijkheden)",
+    "Historie van kopermijnbouw en metaalverwerking",
+    "Wandel- of fietstocht langs de Inn",
+    "Winkels en horeca voor een tussenstop",
+    "Combineerbaar met Rattenberg, Kramsach of Alpbach"
+   ],
+   "en": [
+    "Schloss Matzen above the town (ask about visiting)",
+    "History of copper mining and metalworking",
+    "Walk or cycle ride along the Inn",
+    "Shops and places to eat for a stopover",
+    "Easy to combine with Rattenberg, Kramsach or Alpbach"
+   ],
+   "de": [
+    "Schloss Matzen über der Stadt (Besuchsmöglichkeiten erfragen)",
+    "Geschichte des Kupferbergbaus und der Metallverarbeitung",
+    "Spaziergang oder Radtour am Inn",
+    "Geschäfte und Gastronomie für eine Pause",
+    "Gut kombinierbar mit Rattenberg, Kramsach oder Alpbach"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 30 minuten rijden vanaf Niederau, via Oberau en de Inntal-weg richting Kramsach.",
+   "en": "About 30 minutes by car from Niederau, via Oberau and the Inn Valley road towards Kramsach.",
+   "de": "Ca. 30 Minuten mit dem Auto ab Niederau, über Oberau und die Inntalstraße Richtung Kramsach."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die een tussenstop of cultuur en geschiedenis zoeken.",
+   "en": "Suits families wanting a stopover or culture and history.",
+   "de": "Passt zu Familien, die einen Zwischenstopp oder Kultur und Geschichte suchen."
+  },
+  "season": {
+   "nl": "Het hele jaar.",
+   "en": "All year round.",
+   "de": "Das ganze Jahr."
+  },
+  "drive_min": 30,
+  "elevation_m": null,
+  "url": "",
+  "verified": false,
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er te zien in Brixlegg?",
+     "en": "What is there to see in Brixlegg?",
+     "de": "Was gibt es in Brixlegg zu sehen?"
+    },
+    "a": {
+     "nl": "Onder meer Schloss Matzen en sporen van de mijnbouwgeschiedenis; veel bezoekers combineren het met Rattenberg.",
+     "en": "Among other things Schloss Matzen and traces of its mining history; many visitors combine it with Rattenberg.",
+     "de": "Unter anderem Schloss Matzen und Spuren der Bergbaugeschichte; viele Besucher verbinden es mit Rattenberg."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Brixlegg ver van Niederau?",
+     "en": "Is Brixlegg far from Niederau?",
+     "de": "Ist Brixlegg weit von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Ca. 30 minuten met de auto, via het Inntal.",
+     "en": "About 30 minutes by car, via the Inn Valley.",
+     "de": "Ca. 30 Minuten mit dem Auto, über das Inntal."
+    }
+   }
+  ]
+ }
+]
