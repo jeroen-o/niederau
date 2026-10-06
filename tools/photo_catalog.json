@@ -1458,5 +1458,50 @@
    "sneeuw"
   ],
   false
+ ],
+ [
+  "niederau-winter-sneeuwpad-dal-stokken",
+  [
+   "Wandelaar met wandelstokken op een besneeuwd pad in een open dal met bosrijke hellingen",
+   "Walker with poles on a snowy path in an open valley with wooded slopes",
+   "Wanderin mit Stöcken auf einem verschneiten Weg in einem offenen Tal mit bewaldeten Hängen"
+  ],
+  [],
+  false
+ ],
+ [
+  "niederau-herfst-mountaincarts-bergweg",
+  [
+   "Groep mensen met helmen trekt mountaincarts over een grindpad naar de start van een baan, met bergtoppen en een stoeltjeslift op de achtergrond",
+   "Group of people with helmets pulling mountain carts along a gravel path towards the start of a track, with mountain peaks and a chairlift behind",
+   "Gruppe mit Helmen zieht Mountaincarts über einen Schotterweg zum Start einer Strecke, im Hintergrund Berggipfel und ein Sessellift"
+  ],
+  [],
+  false
+ ],
+ [
+  "niederau-herfst-bergzicht-gondel-paraglider",
+  [
+   "Herfstachtig bergplateau met een gondelbaan, een gele paraglider in de verte en een dal met dorpen onder wolken",
+   "Autumnal mountain plateau with a gondola lift, a yellow paraglider in the distance and a valley with villages beneath clouds",
+   "Herbstliches Bergplateau mit Gondelbahn, einem gelben Gleitschirm in der Ferne und einem Tal mit Dörfern unter Wolken"
+  ],
+  [],
+  false
+ ],
+ [
+  "niederau-piste-zon-besneeuwde-sparren",
+  [
+   "Geprepareerde piste in felle zon met een groepje besneeuwde sparren en een pistekaart rechts",
+   "Groomed slope in bright sun with a cluster of snow-covered spruce trees and a piste map on the right",
+   "Präparierte Piste in strahlender Sonne mit einer Gruppe verschneiter Fichten und einer Pistenkarte rechts"
+  ],
+  [
+   "skiën",
+   "piste",
+   "pistes",
+   "winterlandschap"
+  ],
+  false
  ]
 ]
