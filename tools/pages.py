@@ -57,6 +57,8 @@ UI = {
  "places_in": ("Plaatsen in deze regio", "Places in this region", "Orte in dieser Region"),
  "winter_h": ("Wintersport en winteractiviteiten", "Winter", "Winter"),
  "summer_h": ("Zomeractiviteiten", "Summer", "Sommer"),
+ "more_region": ("Meer plaatsen in", "More places in", "Weitere Orte in"),
+ "overviews": ("Handige overzichten", "Handy overviews", "Praktische Übersichten"),
  "themes": ("Thema’s", "Themes", "Themen"),
  "regions": ("Regio’s", "Regions", "Regionen"),
  "n_act_count": ("activiteiten", "activities", "Aktivitäten"),
@@ -154,13 +156,16 @@ EXCL = set(json.load(open(DATA / "exclude.json", encoding="utf-8"))["ids"]) if (
 PATCH = {}
 for pt in jload("patches/*.json"):
     PATCH[pt.get("id") or pt.get("slug")] = pt
+THEME_FIX = {"s224": "attracties", "s59": "attracties", "s223": "avontuur", "s77": "avontuur", "s97": "avontuur", "s100": "zwemmen", "s207": "attracties", "s189": "fietsen", "s295": "dieren", "s217": "dieren", "s182": "dieren"}
+HARD = set(json.load(open(DATA / "exclude.json", encoding="utf-8")).get("hard", []))
 acts = []
 for a in jload("acts/*.json"):
+    if a["id"] in HARD: continue
     patched = a["id"] in PATCH
     a = PATCH.get(a["id"], a)
     if a.get("drop") or (a["id"] in EXCL and not (patched and a.get("verified") is True)): continue
     s = src.get(a["id"])
-    a["theme"] = a.get("theme") or (s["theme"] if s else "avontuur")
+    a["theme"] = THEME_FIX.get(a["id"]) or a.get("theme") or (s["theme"] if s else "avontuur")
     a["season"] = a.get("season") or (s["season"] if s else "summer")
     a["slug_nl"] = a.get("slug_nl") or (s["slug_nl"] if s else a["id"])
     a["title"] = a.get("title") or {}
@@ -430,11 +435,15 @@ def build_place(p):
         if here_acts:
             act_h = f'<section class="alt"><div class="wrap"><h2>{ui("act_here", lang)}</h2>' + card_list([(L(x["title"], lang), L(x.get("tagline", {}), lang), u_act(x, lang), season_badge(x, lang)) for x in here_acts], lang) + "</div></section>"
         faq_s, faq_ld = faq_html(p.get("faq"), lang)
+        sib = [x for x in places if x.get("region") == p.get("region") and x["slug"] != p["slug"]][:8]
+        sib_h = ""
+        if sib:
+            sib_h = f'<section class="alt"><div class="wrap"><h2>{ui("more_region", lang)} {e(reg_name)}</h2>' + card_list([(L(x["name"], lang), L(x.get("tagline", {}), lang), u_place(x, lang), "") for x in sib], lang) + f'<p><a href="{u_region(p["region"], lang)}">{e(reg_name)} →</a></p></div></section>' if reg else ""
         body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{e(reg_name)}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(p.get("tagline", {}), lang))}</p>{intro}{link}</div>
 <div>{facts}{photo_html(PLACE_PHOTO.get(p["slug"], ""), lang) if PLACE_PHOTO.get(p["slug"]) else ""}</div></div></section>
 <section class="alt"><div class="wrap split" style="align-items:start"><div>{hl_h}</div><div>{gt_h}<p class="note">{ui("check", lang)}</p></div></div></section>
-{act_h}{faq_s}'''
+{act_h}{faq_s}{sib_h}'''
         desc = (L(p.get("tagline", {}), lang) + " " + " ".join(paras(L(p.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [
             {"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
@@ -522,7 +531,8 @@ def build_hub(kind):
             for t in themes:
                 n = len([a for a in acts if a["theme"] == t])
                 cards.append((L(themes[t]["title"], lang), L(themes[t].get("tagline", {}), lang), u_theme(t, lang), f"{n} {ui('n_act_count', lang)}"))
-            content = f'<h2>{ui("themes", lang)}</h2>' + card_list(cards, lang)
+            ov = card_list([(COLL[c]["title"][LANGS.index(lang)], COLL[c]["tagline"][LANGS.index(lang)], u_coll(c, lang), f"{len(coll_acts(c))} {ui('n_act_count', lang)}") for c in COLL], lang)
+            content = f'<h2>{ui("overviews", lang)}</h2>' + ov + f'<h2>{ui("themes", lang)}</h2>' + card_list(cards, lang)
         else:
             content = ""
             for r in REGION_ORDER:
@@ -538,6 +548,65 @@ def build_hub(kind):
         write(urls[lang], shell(lang, "hub:" + kind, urls, f"{name} | Niederau.nl", desc, body, ld_graph, og_type="website"))
     registry.append(("hub:" + kind, urls, None))
 
+
+# ---------- collecties (seizoen, regendag, met kinderen) ----------
+RAIN = "s68 s198 s232 s200 s170 w32 s292 s78 w39 s37 s69 w33 s257 s137 s190 s167 s172 s144 s122 s208".split()
+KIDS = "s141 s182 s192 s202 s214 s219 s222 s56 s65 s72 s96 s11 s12 s119 s5 s101 s25 s18 s2 s20 w1 w30 w4 w5 w9 w11 w6 s217 s295 s175 s216 s169 s213 s144 s37 s6".split()
+COLL = {
+ "winter": {"slug": ("winter", "winter", "winter"), "season": "winter",
+  "title": ("Winter in Niederau en omgeving", "Winter in Niederau and around", "Winter in Niederau und Umgebung"),
+  "tagline": ("Skiën, rodelen, winterwandelen en meer", "Skiing, tobogganing, winter walks and more", "Skifahren, Rodeln, Winterwandern und mehr"),
+  "intro": ("In de winter draait Niederau om sneeuw: skiën in het skigebied rond het Markbachjoch en bij Ski Juwel, rodelen, langlaufen en wandelen over geprepareerde winterpaden. Het skiseizoen loopt grofweg van december tot half april; de precieze data wisselen per jaar.\n\nOp deze pagina staan alle winteractiviteiten uit onze gids bij elkaar, in het dal én binnen een uur rijden. Voor wie even niet de berg op wil: wellness, musea en glasstad Rattenberg zijn ook in de winter een goede keuze.",
+            "In winter, Niederau is all about snow: skiing in the ski area around the Markbachjoch and at Ski Juwel, tobogganing, cross-country skiing and walking on groomed winter paths. The ski season runs roughly from December to mid-April; exact dates vary from year to year.\n\nThis page gathers all winter activities from our guide, in the valley and within an hour’s drive. If you would rather stay off the mountain for a day: wellness, museums and the glass town of Rattenberg are good winter choices too.",
+            "Im Winter dreht sich in Niederau alles um Schnee: Skifahren im Skigebiet rund ums Markbachjoch und im Ski Juwel, Rodeln, Langlaufen und Wandern auf geräumten Winterwegen. Die Skisaison dauert grob von Dezember bis Mitte April; die genauen Termine wechseln von Jahr zu Jahr.\n\nHier finden Sie alle Winteraktivitäten unseres Reiseführers, im Tal und im Umkreis von einer Stunde Fahrt. Wer einmal nicht auf den Berg möchte: Wellness, Museen und die Glasstadt Rattenberg sind auch im Winter eine gute Wahl."),
+  "tips": (["Boek skiles en materiaalhuur vooraf in het hoogseizoen.", "Controleer sneeuw- en pistesituatie en het lawinerapport voor je vertrekt.", "Neem warme kleding en zonnebrandcrème mee: de zon is op hoogte sterk."], ["Book ski lessons and equipment rental ahead in high season.", "Check snow and slope conditions and the avalanche report before you set off.", "Bring warm clothing and sunscreen: the sun is strong at altitude."], ["Skikurse und Skiverleih in der Hochsaison vorab buchen.", "Schnee- und Pistenlage sowie den Lawinenbericht vor der Abfahrt prüfen.", "Warme Kleidung und Sonnencreme mitnehmen: Die Sonne ist in der Höhe stark."])},
+ "zomer": {"slug": ("zomer", "summer", "sommer"), "season": "summer",
+  "title": ("Zomer in Niederau en omgeving", "Summer in Niederau and around", "Sommer in Niederau und Umgebung"),
+  "tagline": ("Wandelen, fietsen, zwemmen en uitstapjes", "Hiking, cycling, swimming and day trips", "Wandern, Radfahren, Baden und Ausflüge"),
+  "intro": ("In de zomer is de Wildschönau een groen wandelgebied met alpenweiden, hutten en honderden kilometers bewegwijzerde paden. Je fietst of mountainbiket door het dal, zwemt in het openluchtbad of in een van de meren in de buurt en neemt de bergbaan naar de hoogte.\n\nHier vind je alle zomeractiviteiten uit onze gids op één plek: van de eerste wandeling vanaf het Markbachjoch tot dagtochten naar Innsbruck, Kitzbühel en het Zillertal.",
+            "In summer the Wildschönau is a green hiking region with alpine pastures, huts and hundreds of kilometres of waymarked trails. You can cycle or mountain bike through the valley, swim in the open-air pool or one of the nearby lakes, and take the mountain lift up for the views.\n\nHere you will find all summer activities from our guide in one place: from the first walk at the Markbachjoch to day trips to Innsbruck, Kitzbühel and the Zillertal.",
+            "Im Sommer ist die Wildschönau ein grünes Wandergebiet mit Almwiesen, Hütten und Hunderten Kilometern beschilderter Wege. Man radelt oder mountainbikt durchs Tal, badet im Freibad oder in einem der Seen in der Nähe und fährt mit der Bergbahn in die Höhe.\n\nHier finden Sie alle Sommeraktivitäten unseres Reiseführers an einem Ort: von der ersten Wanderung am Markbachjoch bis zu Tagesausflügen nach Innsbruck, Kitzbühel und ins Zillertal."),
+  "tips": (["Begin wandelingen vroeg: in de zomer kunnen er ’s middags onweersbuien komen.", "Neem water, zonnebrand en een regenjas mee, ook bij mooi weer.", "Controleer de zomerdienstregeling van de bergbaan vooraf."], ["Start hikes early: afternoon thunderstorms can occur in summer.", "Take water, sunscreen and a rain jacket, even in good weather.", "Check the summer timetable of the mountain lift beforehand."], ["Wanderungen früh beginnen: Im Sommer sind nachmittags Gewitter möglich.", "Wasser, Sonnencreme und eine Regenjacke mitnehmen, auch bei schönem Wetter.", "Den Sommerfahrplan der Bergbahn vorher prüfen."])},
+ "regendag": {"slug": ("regendag", "rainy-day", "regenwetter"), "ids": RAIN,
+  "title": ("Wat te doen bij regen", "What to do when it rains", "Was tun bei Regen"),
+  "tagline": ("Musea, wellness, glas en meer onder dak", "Museums, wellness, glass and more under cover", "Museen, Wellness, Glas und mehr unter Dach"),
+  "intro": ("Een regenachtige dag hoeft niet verloren te zijn. In en rond Niederau vind je wellness en zwembaden, musea en kastelen, een zilvermijn en glasateliers in Rattenberg. Ook op deze bestemmingen is vaak buiten wat te doen, dus neem een regenjas mee.\n\nControleer altijd of de aanbieder open is: musea en attracties hebben vaak eigen sluitingsdagen en seizoenen.",
+            "A rainy day does not have to be wasted. In and around Niederau you will find wellness and pools, museums and castles, a silver mine and glass workshops in Rattenberg. Many of these places also have something to do outdoors, so bring a rain jacket.\n\nAlways check that the provider is open: museums and attractions often have their own closing days and seasons.",
+            "Ein Regentag muss kein verlorener Tag sein. In und um Niederau gibt es Wellness und Bäder, Museen und Schlösser, ein Silberbergwerk und Glaswerkstätten in Rattenberg. An vielen dieser Orte gibt es auch draußen etwas zu sehen, nehmen Sie also eine Regenjacke mit.\n\nBitte immer prüfen, ob der Anbieter geöffnet hat: Museen und Attraktionen haben oft eigene Ruhetage und Saisonzeiten."),
+  "tips": (["Bel vooraf voor openingstijden en kaartjes bij populaire attracties.", "Combineer binnen en buiten: veel bestemmingen hebben ook een tuin of terras.", "Zwembad en wellness zijn goede opties voor de hele familie."], ["Call ahead for opening times and tickets at popular attractions.", "Combine indoors and outdoors: many places also have a garden or terrace.", "Pool and wellness are good options for the whole family."], ["Bei beliebten Attraktionen vorab Öffnungszeiten und Tickets erfragen.", "Drinnen und draußen verbinden: Viele Ziele haben auch Garten oder Terrasse.", "Schwimmbad und Wellness sind gute Optionen für die ganze Familie."])},
+ "kinderen": {"slug": ("met-kinderen", "with-kids", "mit-kindern"), "ids": KIDS,
+  "title": ("Met kinderen in Niederau en omgeving", "With kids in Niederau and around", "Mit Kindern in Niederau und Umgebung"),
+  "tagline": ("Speelparken, dieren, zwemmen en sneeuwpret", "Play parks, animals, swimming and snow fun", "Spielparks, Tiere, Baden und Schneespaß"),
+  "intro": ("Niederau is een fijn dorp voor gezinnen: kleine skischolen, speelplekken, dieren en kindvriendelijke wandelingen liggen vlakbij. Binnen een uur rijden zijn er meren, speelparken en de Alpenzoo in Innsbruck.\n\nHier staan de activiteiten uit onze gids die bij kinderen passen, in zomer en winter. Leeftijden en lengtes verschillen per aanbieder; kijk bij elke pagina of vraag het ter plaatse.",
+            "Niederau is a lovely village for families: small ski schools, play areas, animals and child-friendly walks are close by. Within an hour’s drive there are lakes, play parks and the Alpenzoo in Innsbruck.\n\nHere are the activities from our guide that suit children, in summer and winter. Ages and height limits vary by provider; check each page or ask on the spot.",
+            "Niederau ist ein schönes Dorf für Familien: kleine Skischulen, Spielplätze, Tiere und kinderfreundliche Wanderungen sind ganz in der Nähe. Im Umkreis von einer Stunde gibt es Seen, Spielparks und den Alpenzoo in Innsbruck.\n\nHier stehen die Aktivitäten unseres Reiseführers, die zu Kindern passen, im Sommer und im Winter. Alters- und Größenbeschränkungen sind je nach Anbieter verschieden; bitte auf der jeweiligen Seite nachsehen oder vor Ort erfragen."),
+  "tips": (["Neem altijd reservekleding en een regenjas voor de kinderen mee.", "Plan na een lange wandeling een pauze bij een hut met speeltuin.", "Vraag vooraf naar minimumleeftijd en lengte, vooral bij avontuurlijke activiteiten."], ["Always bring spare clothes and a rain jacket for the children.", "After a long walk, plan a break at a hut with a playground.", "Ask beforehand about minimum age and height, especially for adventurous activities."], ["Immer Wechselkleidung und eine Regenjacke für die Kinder mitnehmen.", "Nach einer langen Wanderung eine Pause an einer Hütte mit Spielplatz einplanen.", "Vorab nach Mindestalter und Größe fragen, besonders bei abenteuerlichen Aktivitäten."])},
+}
+def coll_acts(c):
+    d = COLL[c]
+    if "season" in d: return [a for a in acts if a["season"] == d["season"]]
+    ids = set(d["ids"]); return [a for a in acts if a["id"] in ids]
+def u_coll(c, lang): return f"/{PREFIX[lang]}{DIRS['act'][lang]}/{COLL[c]['slug'][LANGS.index(lang)]}/"
+
+def build_coll(c):
+    d = COLL[c]; urls = {l: u_coll(c, l) for l in LANGS}; items = coll_acts(c)
+    for lang in LANGS:
+        i = LANGS.index(lang); name = d["title"][i]
+        cr, cr_ld = crumbs(lang, [(ui("n_act", lang), u_hub("act", lang)), (name, urls[lang])])
+        intro = "".join(f"<p>{e(x)}</p>" for x in paras(d["intro"][i]))
+        tips = "".join(f"<li>{e(x)}</li>" for x in d["tips"][i])
+        cards = card_list([(L(x["title"], lang), L(x.get("tagline", {}), lang), u_act(x, lang), season_badge(x, lang)) for x in sorted(items, key=lambda x: (x["theme"], x["id"]))], lang)
+        body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
+<div>{cr}<p class="eyebrow">{ui("n_act", lang)}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(d["tagline"][i])}</p>{intro}</div>
+<div><h2>{ui("tips", lang)}</h2><ul class="check">{tips}</ul><p class="note">{ui("check", lang)}</p></div></div></section>
+<section class="alt"><div class="wrap"><h2>{ui("all_act", lang)} ({len(items)})</h2>{cards}</div></section>'''
+        desc = (d["tagline"][i] + ". " + paras(d["intro"][i])[0])[:300]
+        ld = [{"@type": "CollectionPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": TODAY, "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+              dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"}),
+              {"@type": "ItemList", "name": name, "itemListElement": [{"@type": "ListItem", "position": n + 1, "url": BASE + u_act(x, lang), "name": L(x["title"], lang)} for n, x in enumerate(items)]}]
+        write(urls[lang], shell(lang, "coll:" + c, urls, f"{name} | Niederau.nl", desc, body, ld, og_type="website"))
+    registry.append(("coll:" + c, urls, None))
+
 def main():
     # oude uitvoer opruimen (alleen gegenereerde mappen)
     for kind in DIRS:
@@ -547,6 +616,7 @@ def main():
     for p in places: build_place(p)
     for r in regions: build_region(r)
     for t in themes: build_theme(t)
+    for c in COLL: build_coll(c)
     if hubs.get("activities"): build_hub("act")
     if hubs.get("places"): build_hub("place")
     reg = [{"key": k, "urls": u, "img": i} for k, u, i in registry]
