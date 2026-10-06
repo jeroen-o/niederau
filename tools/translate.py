@@ -5,6 +5,11 @@ import pathlib, re, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 src = (ROOT / "index.html").read_text(encoding="utf-8")
+# finalize.py bakt een datum in de bron; zet de tokens terug zodat de bron token-vrij blijft
+_norm = re.sub(r'(<p class="updated">[^<]*)<time datetime="[\d-]+">[^<]*</time>', r'\1<time datetime="@@LASTMOD@@">@@LASTMOD_H@@</time>', src)
+if _norm != src:
+    (ROOT / "index.html").write_text(_norm, encoding="utf-8")
+    src = _norm
 # SEO/GEO-blok wordt per taal opnieuw gemaakt door tools/seo.py
 src = re.sub(r"<!-- SEO:START.*?<!-- SEO:END -->\n?", "", src, flags=re.S)
 src = re.sub(r'<script type="application/ld\+json">.*?</script>\n?', "", src, flags=re.S)
@@ -377,7 +382,7 @@ NL_STAY = [
     "<li>Website en informatie ook in het Nederlands</li>",
     'href="https://www.hotelwastlhof.at/nl/"',
     ">Bekijk Hotel Wastlhof</a>",
-    "Partner: Niederau.nl werkt samen met Hotel Wastlhof. Kijk voor prijzen, faciliteiten en beschikbaarheid op de website van het hotel.",
+    "Partner: Niederau.nl werkt samen met Hotel Wastlhof, dat foto’s beschikbaar stelde. Dit is een persoonlijke aanbeveling; er is geen vergoeding betaald of ontvangen. Kijk voor prijzen, faciliteiten en beschikbaarheid op de website van het hotel.",
 ]
 EN_STAY = [
     "Recommended stay</p>",
@@ -396,7 +401,7 @@ EN_STAY = [
     "<li>Information available in several languages, including English</li>",
     'href="https://www.hotelwastlhof.at/"',
     ">Visit Hotel Wastlhof</a>",
-    "Partner: Niederau.nl works together with Hotel Wastlhof. For prices, facilities and availability, see the hotel’s website.",
+    "Partner: Niederau.nl works together with Hotel Wastlhof, which provided photos. This is a personal recommendation; no payment was made or received. For prices, facilities and availability, see the hotel’s website.",
 ]
 DE_STAY = [
     "Unterkunftstipp</p>",
@@ -415,7 +420,7 @@ DE_STAY = [
     "<li>Informationen auch auf Niederländisch und Englisch</li>",
     'href="https://www.hotelwastlhof.at/"',
     ">Hotel Wastlhof ansehen</a>",
-    "Partner: Niederau.nl arbeitet mit dem Hotel Wastlhof zusammen. Preise, Ausstattung und Verfügbarkeit finden Sie auf der Website des Hotels.",
+    "Partner: Niederau.nl arbeitet mit dem Hotel Wastlhof zusammen, das Fotos zur Verfügung gestellt hat. Dies ist eine persönliche Empfehlung; es wurde keine Vergütung gezahlt oder erhalten. Preise, Ausstattung und Verfügbarkeit finden Sie auf der Website des Hotels.",
 ]
 T["en"] += list(zip(NL_STAY, EN_STAY)) + [
     ('<a href="#stay">Verblijf</a>', '<a href="#stay">Where to stay</a>'),
@@ -701,7 +706,7 @@ HUB_PAIRS = [
 T['en'] += [(a, b) for a, b, c in HUB_PAIRS]
 T['de'] += [(a, c) for a, b, c in HUB_PAIRS]
 
-EV_PAIRS = [('<li><a href="gids/">Gidsen</a></li>', '<li><a href="guides/">Guides</a></li>', '<li><a href="ratgeber/">Ratgeber</a></li>'), ('<li><a href="agenda/">Agenda</a></li>', '<li><a href="events/">Events</a></li>', '<li><a href="veranstaltungen/">Veranstaltungen</a></li>')]
+EV_PAIRS = [('<li><a href="over/">Over deze site</a></li>', '<li><a href="about/">About this site</a></li>', '<li><a href="ueber-uns/">Über diese Seite</a></li>'), ('<p class="updated">Laatst bijgewerkt:', '<p class="updated">Last updated:', '<p class="updated">Zuletzt aktualisiert:'), ('<li><a href="gids/">Gidsen</a></li>', '<li><a href="guides/">Guides</a></li>', '<li><a href="ratgeber/">Ratgeber</a></li>'), ('<li><a href="agenda/">Agenda</a></li>', '<li><a href="events/">Events</a></li>', '<li><a href="veranstaltungen/">Veranstaltungen</a></li>')]
 T['en'] += [(a, b) for a, b, c in EV_PAIRS]
 T['de'] += [(a, c) for a, b, c in EV_PAIRS]
 

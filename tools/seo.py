@@ -64,7 +64,7 @@ def build(lang, cfg, page):
          "logo": {"@type": "ImageObject", "url": f"{BASE}/assets/icon-512.png", "width": 512, "height": 512}},
         {"@type": "WebPage", "@id": cfg["url"] + "#webpage", "url": cfg["url"], "name": title,
          "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"},
-         "about": {"@id": f"{BASE}/#niederau"}, "dateModified": TODAY,
+         "about": {"@id": f"{BASE}/#niederau"}, "dateModified": "@@LASTMOD@@",
          "primaryImageOfPage": {"@type": "ImageObject", "url": OG_IMAGE}},
         {"@type": ["TouristDestination", "Place"], "@id": f"{BASE}/#niederau", "name": "Niederau",
          "description": cfg["dest"],
@@ -134,7 +134,7 @@ urls = "".join(f'''  <url><loc>{c["url"]}</loc><lastmod>{TODAY}</lastmod>
     <xhtml:link rel="alternate" hreflang="nl" href="{BASE}/"/>
     <xhtml:link rel="alternate" hreflang="en" href="{BASE}/en/"/>
     <xhtml:link rel="alternate" hreflang="de" href="{BASE}/de/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="{BASE}/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{BASE}/"/>
     <image:image><image:loc>{BASE}/assets/img/niederau-winter-bauernhuis-hero-2048.webp</image:loc></image:image>
     <image:image><image:loc>{BASE}/assets/img/markbachjoch-bergmeer-zomer-hero-2048.webp</image:loc></image:image>
     <image:image><image:loc>{OG_IMAGE}</image:loc></image:image></url>
@@ -143,7 +143,7 @@ urls += "".join(f'''  <url><loc>{u}</loc><lastmod>{TODAY}</lastmod>
     <xhtml:link rel="alternate" hreflang="nl" href="{BASE}/markbachjoch/"/>
     <xhtml:link rel="alternate" hreflang="en" href="{BASE}/en/markbachjoch/"/>
     <xhtml:link rel="alternate" hreflang="de" href="{BASE}/de/markbachjoch/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="{BASE}/en/markbachjoch/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{BASE}/markbachjoch/"/>
     <image:image><image:loc>{BASE}/assets/img/niederau-markbachjochbahn-gondel.webp</image:loc></image:image>
     <image:image><image:loc>{BASE}/assets/img/niederau-skien-markbachjoch.webp</image:loc></image:image></url>
 ''' for u in (f"{BASE}/markbachjoch/", f"{BASE}/en/markbachjoch/", f"{BASE}/de/markbachjoch/"))
@@ -152,7 +152,7 @@ _reg = ROOT / "tools" / "data" / "_registry.json"
 if _reg.exists():
     for ent in json.loads(_reg.read_text(encoding="utf-8")):
         u = ent["urls"]
-        alts = "".join(f'<xhtml:link rel="alternate" hreflang="{c}" href="{BASE}{u[c]}"/>' for c in ("nl", "en", "de")) + f'<xhtml:link rel="alternate" hreflang="x-default" href="{BASE}{u["en"]}"/>'
+        alts = "".join(f'<xhtml:link rel="alternate" hreflang="{c}" href="{BASE}{u[c]}"/>' for c in ("nl", "en", "de")) + f'<xhtml:link rel="alternate" hreflang="x-default" href="{BASE}{u["nl"]}"/>'
         im = f'<image:image><image:loc>{BASE}/assets/img/{ent["img"]}.webp</image:loc></image:image>' if ent.get("img") else ""
         urls += "".join(f"  <url><loc>{BASE}{u[c]}</loc><lastmod>{TODAY}</lastmod>{alts}{im}</url>\n" for c in ("nl", "en", "de"))
 (ROOT / "sitemap.xml").write_text(f'''<?xml version="1.0" encoding="UTF-8"?>

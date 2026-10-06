@@ -287,3 +287,8 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 main h1, main h2, main h3, main p, main li, .facts span, .facts strong { overflow-wrap: break-word; }
 .split > * { min-width: 0; }
 main h1 { overflow-wrap: anywhere; hyphens: auto; }
+.album { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin: 18px 0 8px; }
+.album-fig { margin: 0; }
+.album-fig img { width: 100%; height: auto; border-radius: 10px; display: block; }
+.album-fig figcaption { font-size: .88rem; color: var(--ink-soft); margin-top: 6px; }
+@media (max-width: 760px) { .album { grid-template-columns: 1fr; } }

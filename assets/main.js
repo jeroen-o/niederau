@@ -55,8 +55,10 @@
   var items = Array.prototype.slice.call(document.querySelectorAll('.g-item'));
   var lb = document.querySelector('.lightbox');
   if (items.length && lb && lb.showModal) {
-    var lbImg = lb.querySelector('img');
     var lbCap = lb.querySelector('figcaption');
+    var lbImg = document.createElement('img');
+    lbImg.alt = '';
+    lbCap.parentNode.insertBefore(lbImg, lbCap);
     var cur = 0;
     var open = function (i) {
       cur = (i + items.length) % items.length;
