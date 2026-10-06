@@ -1,0 +1,1310 @@
+[
+ {
+  "id": "s164",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "pillersee-walks-alpine-pastures",
+  "slug_de": "pillersee-wanderungen-almwiesen",
+  "title": {
+   "nl": "Wandelen bij de Pillersee",
+   "en": "Walking around the Pillersee",
+   "de": "Wandern am Pillersee"
+  },
+  "tagline": {
+   "nl": "Rustige routes in het Pillerseetal onder de Loferer Steinberge",
+   "en": "Quiet routes in the Pillerseetal below the Loferer Steinberge",
+   "de": "Ruhige Wege im Pillerseetal unter den Loferer Steinbergen"
+  },
+  "intro": {
+   "nl": "Het Pillerseetal ligt in de Kitzbüheler Alpen, tegen de grens met Salzburgerland, rond St. Ulrich am Pillersee, St. Jakob in Haus en Fieberbrunn. De Pillersee is een bergmeer van ruim anderhalve kilometer lang, met de kalkwanden van de Loferer Steinberge op de achtergrond.\n\nEen bekende, eenvoudige tocht is de Pillerseerunde van ca. 9 km (ca. 2,5 uur) rond het meer. Daarnaast kun je langere routes naar alpenweiden en almen lopen; de regio heeft in totaal ca. 400 km aan wandelroutes. Een wandelkaart en tips krijg je bij het toeristenbureau in het dal.",
+   "en": "The Pillerseetal lies in the Kitzbühel Alps, close to the Salzburg border, around St. Ulrich am Pillersee, St. Jakob in Haus and Fieberbrunn. The Pillersee is a mountain lake a little over 1.5 km long, with the limestone walls of the Loferer Steinberge as a backdrop.\n\nA well-known easy outing is the Pillerseerunde, a loop of about 9 km (roughly 2.5 hours) around the lake. Longer routes lead up to alpine pastures and alms; the region has around 400 km of walking routes in total. You can pick up a map and tips at the tourist office in the valley.",
+   "de": "Das Pillerseetal liegt in den Kitzbüheler Alpen nahe der Salzburger Grenze, rund um St. Ulrich am Pillersee, St. Jakob in Haus und Fieberbrunn. Der Pillersee ist ein Bergsee von gut 1,5 km Länge, vor der Kulisse der Loferer Steinberge.\n\nEine bekannte, einfache Tour ist die Pillerseerunde mit ca. 9 km (rund 2,5 Stunden) um den See. Längere Routen führen hinauf zu Almwiesen und Almen; insgesamt hat die Region rund 400 km Wanderwege. Karte und Tipps gibt es beim Tourismusbüro im Tal."
+  },
+  "tips": {
+   "nl": [
+    "Haal een wandelkaart bij het toeristenbureau voor de actuele routes.",
+    "Plan een stop bij het meer.",
+    "Draag goede schoenen als je naar de alpenweiden omhoog loopt.",
+    "Check het weer; in de bergen kan het snel omslaan."
+   ],
+   "en": [
+    "Pick up a walking map at the tourist office for current routes.",
+    "Plan a stop at the lake.",
+    "Wear good shoes if you climb up to the alpine pastures.",
+    "Check the weather; it can change quickly in the mountains."
+   ],
+   "de": [
+    "Hol dir im Tourismusbüro eine Wanderkarte für aktuelle Routen.",
+    "Plane einen Halt am See ein.",
+    "Trag gute Schuhe, wenn du zu den Almwiesen aufsteigst.",
+    "Prüfe das Wetter; in den Bergen kann es schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Het Pillerseetal ligt ca. 1 uur rijden van Niederau, via Wörgl, Kitzbühel en St. Johann. De routes starten meestal in of nabij de dorpen; parkeren is in de regel mogelijk.",
+   "en": "The Pillerseetal is about 1 hour by car from Niederau, via Wörgl, Kitzbühel and St. Johann. Routes mostly start in or near the villages; parking is generally available.",
+   "de": "Das Pillerseetal liegt ca. 1 Stunde Autofahrt von Niederau entfernt, über Wörgl, Kitzbühel und St. Johann. Die Routen starten meist in oder nahe den Orten; Parkplätze sind in der Regel vorhanden."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden (afhankelijk van de route)",
+    "en": "All ages (depending on the route)",
+    "de": "Für alle Altersgruppen (je nach Route)"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "About 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen is gratis",
+    "en": "Walking is free",
+    "de": "Wandern ist kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 1 u rijden",
+    "en": "About 1 h by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Pillerseetal, Tirol",
+   "en": "Pillerseetal, Tyrol",
+   "de": "Pillerseetal, Tirol"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/pillerseetal/sommer/wandertipps-st-ulrich-am-pillersee.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt de Pillersee?",
+     "en": "Where is the Pillersee?",
+     "de": "Wo liegt der Pillersee?"
+    },
+    "a": {
+     "nl": "In het Pillerseetal ten noordoosten van Kitzbühel, bij St. Ulrich am Pillersee.",
+     "en": "In the Pillerseetal north-east of Kitzbühel, near St. Ulrich am Pillersee.",
+     "de": "Im Pillerseetal nordöstlich von Kitzbühel, bei St. Ulrich am Pillersee."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s173",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "alm-hike-st-johann-tirol",
+  "slug_de": "almwanderung-st-johann-in-tirol",
+  "title": {
+   "nl": "Almwandeling bij St. Johann in Tirol",
+   "en": "Alm hike near St. Johann in Tirol",
+   "de": "Almwanderung bei St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Wandelnetwerk met almhutten tussen de Kitzbüheler Alpen en de Wilder Kaiser",
+   "en": "Walking network with alpine huts between the Kitzbühel Alps and the Wilder Kaiser",
+   "de": "Wegenetz mit Almhütten zwischen Kitzbüheler Alpen und Wildem Kaiser"
+  },
+  "intro": {
+   "nl": "St. Johann in Tirol ligt tussen de Kitzbüheler Alpen en de Wilder Kaiser. In en rond het dorp, met Oberndorf, Kirchdorf en Erpfendorf, ligt een wandelnetwerk van meer dan 250 km, met veel almhutten en bergrestaurants waar je kunt pauzeren en Tiroler gerechten kunt eten.\n\nVoor gezinnen zijn er rustige routes, zoals de wandeling naar de Prostalm over brede bos- en boerenwegen (ca. 7 km) of de tocht naar de Griesner Alm door het Kaiserbachtal. Wie meer wil, kiest een langere dagtocht. Vraag bij het toeristenbureau naar kaarten en actuele routes.",
+   "en": "St. Johann in Tirol lies between the Kitzbühel Alps and the Wilder Kaiser. In and around the village, including Oberndorf, Kirchdorf and Erpfendorf, there is a network of more than 250 km of walking trails, with many alpine huts and mountain restaurants where you can rest and enjoy Tyrolean dishes.\n\nFamilies can choose gentle routes, such as the walk to the Prostalm on wide forest and farm tracks (about 7 km) or the hike to the Griesner Alm through the Kaiserbachtal. If you want more, pick a longer day tour. Ask the tourist office for maps and current routes.",
+   "de": "St. Johann in Tirol liegt zwischen den Kitzbüheler Alpen und dem Wilden Kaiser. In und um den Ort, mit Oberndorf, Kirchdorf und Erpfendorf, gibt es ein Wegenetz von mehr als 250 km, mit vielen Almhütten und Bergrestaurants zum Rasten und für Tiroler Spezialitäten.\n\nFür Familien eignen sich ruhige Routen, etwa die Wanderung zur Prostalm auf breiten Forst- und Hofwegen (ca. 7 km) oder die Tour zur Griesner Alm durch das Kaiserbachtal. Wer mehr möchte, wählt eine längere Tagestour. Karten und aktuelle Routen gibt es beim Tourismusbüro."
+  },
+  "tips": {
+   "nl": [
+    "Haal een wandelkaart bij het toeristenbureau.",
+    "Vertrek bij voorkeur 's ochtends; in de zomer kan het in de middag onweren.",
+    "Draag goede schoenen en neem water mee.",
+    "Kies voor jonge kinderen een korte route met een hut als doel."
+   ],
+   "en": [
+    "Pick up a walking map from the tourist office.",
+    "Set off in the morning if possible; thunderstorms can occur in summer afternoons.",
+    "Wear good shoes and bring water.",
+    "For young children choose a short route with a hut as the goal."
+   ],
+   "de": [
+    "Hol dir eine Wanderkarte im Tourismusbüro.",
+    "Starte möglichst vormittags; im Sommer kann es nachmittags gewittern.",
+    "Trag gute Schuhe und nimm Wasser mit.",
+    "Wähle für kleine Kinder eine kurze Route mit einer Hütte als Ziel."
+   ]
+  },
+  "practical": {
+   "nl": "St. Johann in Tirol ligt ca. 50 minuten rijden van Niederau, via Wörgl en Kitzbühel of via Kufstein. De routes starten meestal in of nabij het dorp; er zijn parkeergelegenheden.",
+   "en": "St. Johann in Tirol is about 50 minutes by car from Niederau, via Wörgl and Kitzbühel or via Kufstein. Routes mostly start in or near the village; parking is available.",
+   "de": "St. Johann in Tirol liegt ca. 50 Autominuten von Niederau entfernt, über Wörgl und Kitzbühel oder über Kufstein. Die Routen beginnen meist im oder nahe dem Ort; es gibt Parkmöglichkeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar (afhankelijk van de route)",
+    "en": "From approx. 6 years (depending on the route)",
+    "de": "Ab ca. 6 Jahren (je nach Route)"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 4 uur",
+    "en": "About 2 to 4 hours",
+    "de": "Ca. 2 bis 4 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen is gratis",
+    "en": "Walking is free",
+    "de": "Wandern ist kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "About 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/st-johann/sommer/wandern/berghuetten-tirol-oberndorf-kirchdorf-erpfendorf-alm-huette.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welk uitzicht heb je tijdens de wandeling bij St. Johann?",
+     "en": "What views do you get on the hike near St. Johann?",
+     "de": "Welche Aussicht hat man bei der Wanderung bei St. Johann?"
+    },
+    "a": {
+     "nl": "Je ziet de Wilder Kaiser en de Kitzbüheler Alpen, afhankelijk van de route.",
+     "en": "You see the Wilder Kaiser and the Kitzbühel Alps, depending on the route.",
+     "de": "Je nach Route siehst du den Wilden Kaiser und die Kitzbüheler Alpen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s189",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kaltenbach",
+  "slug_en": "bike-park-hochzillertal-kaltenbach",
+  "slug_de": "bikepark-hochzillertal-kaltenbach",
+  "title": {
+   "nl": "Bike Park Hochzillertal (Kaltenbach)",
+   "en": "Bike Park Hochzillertal, Kaltenbach",
+   "de": "Bikepark Hochzillertal in Kaltenbach"
+  },
+  "tagline": {
+   "nl": "Mountainbiken in het Zillertal met trail, trialpark en pumptrack",
+   "en": "Mountain biking in the Zillertal with a trail, trial park and pump track",
+   "de": "Mountainbiken im Zillertal mit Trail, Trialpark und Pumptrack"
+  },
+  "intro": {
+   "nl": "In Kaltenbach, in het Zillertal, ligt de Bike Park Hochzillertal bij het dalstation van de bergbaan. Het park heeft een singletrail van ca. 0,9 km (middelmatig niveau), een trialpark en een pumptrack van ruim 100 meter. Het is een compacte plek om techniek te oefenen of een paar uur te fietsen.\n\nDe pumptrack ligt naast het sportwinkelpand bij het dalstation; de trail begint bij het klimpark in het dorp en loopt door het bos naar het dalstation. Het park is naar verluidt gratis toegankelijk en loopt ongeveer van juni tot oktober. Controleer vooraf de actuele situatie.",
+   "en": "In Kaltenbach, in the Zillertal, the Bike Park Hochzillertal sits by the valley station of the lift. It has a singletrail of about 0.9 km (medium difficulty), a trial park and a pump track of more than 100 metres. It is a compact spot to practise technique or ride for a few hours.\n\nThe pump track is next to the sports shop at the valley station; the trail starts at the high-rope park in the village and runs through forest down to the valley station. The park is reported to be free to use and runs roughly from June to October. Check the current situation before you go.",
+   "de": "In Kaltenbach im Zillertal liegt der Bikepark Hochzillertal an der Talstation der Bergbahn. Er hat einen Singletrail von ca. 0,9 km (mittlere Schwierigkeit), einen Trialpark und einen Pumptrack von mehr als 100 Metern. Ein kompakter Ort, um Technik zu üben oder ein paar Stunden zu fahren.\n\nDer Pumptrack liegt neben dem Sportgeschäft an der Talstation; der Trail beginnt am Hochseilgarten im Ort und führt durch den Wald hinunter zur Talstation. Die Nutzung soll kostenlos sein, die Saison dauert ungefähr von Juni bis Oktober. Prüfe vor der Fahrt die aktuelle Lage."
+  },
+  "tips": {
+   "nl": [
+    "Helm en bescherming zijn verstandig.",
+    "Begin op de pumptrack om het gevoel voor de fiets te krijgen voordat je de trail op gaat.",
+    "Controleer vooraf of het park open is."
+   ],
+   "en": [
+    "A helmet and protective gear are sensible.",
+    "Start on the pump track to get a feel for the bike before heading onto the trail.",
+    "Check beforehand that the park is open."
+   ],
+   "de": [
+    "Helm und Schutzausrüstung sind sinnvoll.",
+    "Beginne auf dem Pumptrack, um ein Gefühl für das Rad zu bekommen, bevor du auf den Trail fährst.",
+    "Prüfe vorab, ob der Park geöffnet ist."
+   ]
+  },
+  "practical": {
+   "nl": "Kaltenbach ligt ca. 45 minuten rijden van Niederau, in het Zillertal via Wörgl en de B169. Parkeren is in de buurt van het dorp en de dalstation mogelijk.",
+   "en": "Kaltenbach is about 45 minutes by car from Niederau, in the Zillertal via Wörgl and the B169. Parking is available near the village and the valley station.",
+   "de": "Kaltenbach liegt ca. 45 Autominuten von Niederau entfernt im Zillertal, über Wörgl und die B169. Parken ist in der Nähe des Ortes und der Talstation möglich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Afhankelijk van niveau; helm aanbevolen",
+    "en": "Depending on skill; helmet recommended",
+    "de": "Je nach Können; Helm empfohlen"
+   },
+   "duration": {
+    "nl": "Een paar uur",
+    "en": "A few hours",
+    "de": "Einige Stunden"
+   },
+   "price": {
+    "nl": "Naar verluidt gratis; informeer vooraf",
+    "en": "Reported to be free; check in advance",
+    "de": "Soll kostenlos sein; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "About 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kaltenbach, Zillertal",
+   "en": "Kaltenbach, Zillertal",
+   "de": "Kaltenbach, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er in de Bike Park Hochzillertal?",
+     "en": "What is there at the Bike Park Hochzillertal?",
+     "de": "Was gibt es im Bikepark Hochzillertal?"
+    },
+    "a": {
+     "nl": "Een singletrail, een trialpark en een pumptrack, bij het dalstation in Kaltenbach.",
+     "en": "A singletrail, a trial park and a pump track, by the valley station in Kaltenbach.",
+     "de": "Einen Singletrail, einen Trialpark und einen Pumptrack bei der Talstation in Kaltenbach."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s191",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "karwendel-scharnitz-hinterautal",
+  "slug_de": "karwendel-scharnitz-hinterautal",
+  "title": {
+   "nl": "Karwendel bij Scharnitz",
+   "en": "Karwendel near Scharnitz",
+   "de": "Karwendel bei Scharnitz"
+  },
+  "tagline": {
+   "nl": "Wandelen in het grootste natuurpark van Oostenrijk, langs de jonge Isar",
+   "en": "Walking in Austria's largest nature park, along the young Isar",
+   "de": "Wandern im größten Naturpark Österreichs entlang der jungen Isar"
+  },
+  "intro": {
+   "nl": "Scharnitz ligt vlak bij de Duitse grens en geldt als de poort naar het Karwendel. Het Naturpark Karwendel beslaat ca. 739 km² en is het grootste natuurpark van Oostenrijk. Vanuit het dorp loop je het Hinterautal in, een ca. 14 km lange, rustige vallei waar de Isar als jonge bergrivier stroomt.\n\nEen klassieker is de wandeling naar de Isarursprung, over een brede, vrij vlakke bosweg die wel lang is. Voor wie verder wil, ligt langs de Kastenalm de route naar het Hallerangerhaus. Neem de lange rit vanuit Niederau mee in je planning.",
+   "en": "Scharnitz lies close to the German border and is regarded as the gateway to the Karwendel. The Karwendel Nature Park covers about 739 km² and is the largest nature park in Austria. From the village you walk into the Hinterautal, a quiet valley about 14 km long where the young Isar flows.\n\nA classic outing is the walk to the Isarursprung (the Isar's source) along a broad, fairly level forest road, which is easy but long. If you want to go further, the route continues past the Kastenalm to the Hallerangerhaus. Bear in mind the long drive from Niederau.",
+   "de": "Scharnitz liegt nahe der deutschen Grenze und gilt als Tor zum Karwendel. Der Naturpark Karwendel umfasst ca. 739 km² und ist der größte Naturpark Österreichs. Vom Ort geht es ins Hinterautal, ein ruhiges, ca. 14 km langes Tal, in dem die junge Isar fließt.\n\nEin Klassiker ist die Wanderung zum Isarursprung auf einem breiten, recht flachen Forstweg, der einfach, aber lang ist. Wer weiter möchte, folgt der Route an der Kastenalm vorbei zum Hallerangerhaus. Bedenke die lange Fahrt ab Niederau."
+  },
+  "tips": {
+   "nl": [
+    "Neem water en eten mee; onderweg zijn weinig voorzieningen.",
+    "Kies de lengte van de wandeling naar de kinderen; je kunt overal omkeren.",
+    "Bekijk vooraf bij de Naturpark-informatie welke routes open zijn."
+   ],
+   "en": [
+    "Bring water and food; there are few facilities along the way.",
+    "Choose the length of the walk to suit the children; you can turn back anywhere.",
+    "Check with the nature park information beforehand which routes are open."
+   ],
+   "de": [
+    "Nimm Wasser und Verpflegung mit; unterwegs gibt es wenig Einkehrmöglichkeiten.",
+    "Wähle die Länge der Wanderung passend zu den Kindern; du kannst jederzeit umkehren.",
+    "Informiere dich vorab beim Naturpark, welche Routen offen sind."
+   ]
+  },
+  "practical": {
+   "nl": "Scharnitz ligt ca. 1 uur en 15 minuten rijden van Niederau, via de A12 richting Innsbruck en dan naar Seefeld en Scharnitz.",
+   "en": "Scharnitz is about 1 hour 15 minutes by car from Niederau, via the A12 towards Innsbruck and then on towards Seefeld and Scharnitz.",
+   "de": "Scharnitz liegt ca. 1 Std. 15 Min. Autofahrt von Niederau entfernt, über die A12 Richtung Innsbruck und weiter nach Seefeld und Scharnitz."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 15 rijden",
+    "en": "About 1 h 15 by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Scharnitz, Karwendel",
+   "en": "Scharnitz, Karwendel",
+   "de": "Scharnitz, Karwendel"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar begint de Isar?",
+     "en": "Where does the Isar begin?",
+     "de": "Wo entspringt die Isar?"
+    },
+    "a": {
+     "nl": "In het Karwendel, in het Hinterautal bij Scharnitz; de Isarursprung is een bekend wandeldoel.",
+     "en": "In the Karwendel, in the Hinterautal near Scharnitz; the Isarursprung is a well-known walking destination.",
+     "de": "Im Karwendel, im Hinterautal bei Scharnitz; der Isarursprung ist ein bekanntes Wanderziel."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s195",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "tiroler-zugspitzbahn-ehrwald",
+  "slug_de": "tiroler-zugspitzbahn-ehrwald",
+  "title": {
+   "nl": "Tiroler Zugspitzbahn (Ehrwald)",
+   "en": "Tiroler Zugspitzbahn, Ehrwald",
+   "de": "Tiroler Zugspitzbahn in Ehrwald"
+  },
+  "tagline": {
+   "nl": "Met de kabelbaan naar de Zugspitze, de hoogste berg van Duitsland",
+   "en": "By cable car up the Zugspitze, Germany's highest mountain",
+   "de": "Mit der Seilbahn auf die Zugspitze, Deutschlands höchsten Berg"
+  },
+  "intro": {
+   "nl": "De Tiroler Zugspitzbahn vertrekt in Ehrwald en brengt je met twee panoramacabines voor ca. 100 personen in ongeveer tien minuten naar het Zugspitzplatt, ruim 1.700 meter hoger. De Zugspitze is met 2.962 meter de hoogste berg van Duitsland en ligt op de grens met Oostenrijk. De bergbaan is de oudste van Tirol en wordt in 2026 honderd jaar.\n\nBoven heb je bij helder weer een uitzicht van wel 140 kilometer, en het museum Faszination Zugspitze is ook bij slecht weer een optie. Het kan boven fris zijn, ook in de zomer. Reken op een lange rit vanuit Niederau; het zomerseizoen loopt grofweg van mei tot november.",
+   "en": "The Tiroler Zugspitzbahn starts in Ehrwald and takes you up in two panoramic cabins for about 100 people, climbing more than 1,700 metres to the Zugspitzplatt in roughly ten minutes. At 2,962 metres the Zugspitze is Germany's highest mountain and sits on the border with Austria. The cable car is the oldest in Tyrol and turns 100 in 2026.\n\nIn clear weather the view stretches up to 140 kilometres, and the Faszination Zugspitze museum is an option even when the weather is poor. It can be cold at the top, even in summer. Allow for a long drive from Niederau; the summer season runs roughly from May to November.",
+   "de": "Die Tiroler Zugspitzbahn startet in Ehrwald und bringt dich in zwei Panoramakabinen für je ca. 100 Personen in rund zehn Minuten über 1.700 Höhenmeter hinauf aufs Zugspitzplatt. Mit 2.962 Metern ist die Zugspitze Deutschlands höchster Berg und liegt an der Grenze zu Österreich. Die Bahn ist die älteste Tirols und wird 2026 hundert Jahre alt.\n\nBei klarer Sicht reicht der Blick bis zu 140 Kilometer weit, und das Museum Faszination Zugspitze lohnt auch bei schlechtem Wetter. Oben kann es auch im Sommer kalt sein. Plane die lange Fahrt ab Niederau ein; die Sommersaison dauert grob von Mai bis November."
+  },
+  "tips": {
+   "nl": [
+    "Kies een heldere dag en kijk vooraf naar de weersverwachting en webcams.",
+    "Neem warme kleding en zonnebrand mee; boven is het merkbaar kouder.",
+    "Reken op een lange dag; plan geen andere uitstapjes erbij."
+   ],
+   "en": [
+    "Choose a clear day and check the forecast and webcams first.",
+    "Bring warm clothes and sun cream; it is noticeably colder at the top.",
+    "Expect a long day and do not plan other outings around it."
+   ],
+   "de": [
+    "Wähle einen klaren Tag und prüfe vorab Wetterbericht und Webcams.",
+    "Nimm warme Kleidung und Sonnencreme mit; oben ist es spürbar kälter.",
+    "Rechne mit einem langen Tag und plane keine weiteren Ausflüge dazu."
+   ]
+  },
+  "practical": {
+   "nl": "Ehrwald ligt ca. 1,5 tot 2 uur rijden van Niederau, via de A12 richting Telfs en verder naar Ehrwald. Informeer vooraf over parkeren bij het dalstation.",
+   "en": "Ehrwald is about 1.5 to 2 hours by car from Niederau, via the A12 towards Telfs and on to Ehrwald. Check beforehand about parking at the valley station.",
+   "de": "Ehrwald liegt ca. 1,5 bis 2 Stunden Autofahrt von Niederau entfernt, über die A12 Richtung Telfs und weiter nach Ehrwald. Informiere dich vorab über Parken an der Talstation."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Meestal een halve tot hele dag",
+    "en": "Usually half to a full day",
+    "de": "Meist halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 1,5–2 uur rijden",
+    "en": "About 1.5–2 h by car",
+    "de": "Ca. 1,5–2 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Ehrwald, Zugspitze",
+   "en": "Ehrwald, Zugspitze",
+   "de": "Ehrwald, Zugspitze"
+  },
+  "url": "https://www.zugspitze.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog is de Zugspitze?",
+     "en": "How high is the Zugspitze?",
+     "de": "Wie hoch ist die Zugspitze?"
+    },
+    "a": {
+     "nl": "De top ligt op 2.962 meter en is het hoogste punt van Duitsland.",
+     "en": "The summit is at 2,962 metres and is Germany's highest point.",
+     "de": "Der Gipfel liegt auf 2.962 Metern und ist der höchste Punkt Deutschlands."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s211",
+  "drop": false,
+  "drop_reason": "",
+  "place": "koessen",
+  "slug_en": "hiking-kossen-kaiserwinkl",
+  "slug_de": "wandern-koessen-kaiserwinkl",
+  "title": {
+   "nl": "Wandelen bij Kössen (Kaiserwinkl)",
+   "en": "Hiking near Kössen, Kaiserwinkl",
+   "de": "Wandern bei Kössen im Kaiserwinkl"
+  },
+  "tagline": {
+   "nl": "Rustige wandelingen bij de Kaisergebergte, ver van de drukte",
+   "en": "Quiet walks by the Kaiser mountains, away from the crowds",
+   "de": "Ruhige Wanderungen am Kaisergebirge, abseits des Trubels"
+  },
+  "intro": {
+   "nl": "Kössen ligt in de Kaiserwinkl, in de noordoostelijke hoek van Tirol bij de Duitse grens, tussen de Zahmer Kaiser en de heuvels van de noordelijke Chiemgauer Alpen. De regio heeft ca. 200 km aan gemarkeerde wandelroutes en zo'n dertig hutten waar je regionale specialiteiten kunt proeven, zoals kaas van hooimelk.\n\nHet is rustiger dan de bekendste delen rond de Wilder Kaiser. Er zijn korte wandelingen voor kleine kinderen en langere tochten, bijvoorbeeld naar de Ottenalm, de Edernalm of de Taubensee. Een gratis wandelkaart met tips krijg je bij het toeristenbureau Kaiserwinkl in Kössen.",
+   "en": "Kössen lies in the Kaiserwinkl, the north-eastern corner of Tyrol by the German border, between the Zahmer Kaiser and the hills of the northern Chiemgau Alps. The region has about 200 km of marked hiking trails and some thirty huts where you can try regional specialities such as hay-milk cheese.\n\nIt is quieter than the best-known parts around the Wilder Kaiser. There are short walks for small children and longer tours, for example to the Ottenalm, the Edernalm or the Taubensee. A free hiking map with tips is available from the Kaiserwinkl tourist office in Kössen.",
+   "de": "Kössen liegt im Kaiserwinkl, im nordöstlichen Zipfel Tirols an der deutschen Grenze, zwischen dem Zahmen Kaiser und den Hügeln der nördlichen Chiemgauer Alpen. Die Region hat ca. 200 km markierte Wanderwege und rund dreißig Hütten, in denen du regionale Spezialitäten wie Heumilchkäse probieren kannst.\n\nEs ist ruhiger als die bekanntesten Gegenden rund um den Wilden Kaiser. Es gibt kurze Wanderungen für kleine Kinder und längere Touren, etwa zur Ottenalm, zur Edernalm oder zum Taubensee. Eine kostenlose Wanderkarte mit Tipps gibt es beim Tourismusverband Kaiserwinkl in Kössen."
+  },
+  "tips": {
+   "nl": [
+    "Begin met een kortere route en kijk of de kinderen er zin in hebben.",
+    "Neem water en een picknick mee, of plan een stop bij een Almhütte.",
+    "Vraag bij de toeristeninformatie naar de actuele routes."
+   ],
+   "en": [
+    "Start with a shorter route and see how the children get on.",
+    "Bring water and a picnic, or plan a stop at an Almhütte.",
+    "Ask the tourist office about current routes."
+   ],
+   "de": [
+    "Beginne mit einer kürzeren Route und schau, wie es den Kindern gefällt.",
+    "Nimm Wasser und ein Picknick mit oder plane eine Einkehr in einer Almhütte.",
+    "Frag beim Tourismusbüro nach aktuellen Routen."
+   ]
+  },
+  "practical": {
+   "nl": "Kössen ligt ca. 55 minuten rijden van Niederau, via Wörgl en Kufstein richting Kössen.",
+   "en": "Kössen is about 55 minutes by car from Niederau, via Wörgl and Kufstein towards Kössen.",
+   "de": "Kössen liegt ca. 55 Autominuten von Niederau entfernt, über Wörgl und Kufstein Richtung Kössen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2–4 uur",
+    "en": "About 2–4 hours",
+    "de": "Ca. 2–4 Stunden"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "About 55 min by car",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kössen, Kaiserwinkl",
+   "en": "Kössen, Kaiserwinkl",
+   "de": "Kössen, Kaiserwinkl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is wandelen bij Kössen geschikt voor kinderen?",
+     "en": "Is hiking near Kössen suitable for children?",
+     "de": "Ist Wandern bei Kössen für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, er zijn korte en eenvoudige routes naast langere; kies er een die bij de leeftijd past.",
+     "en": "Yes, there are short, easy routes as well as longer ones; pick one to suit the age.",
+     "de": "Ja, es gibt kurze, einfache Routen neben längeren; wähle eine passend zum Alter."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s215",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "gaistal-leutasch-walk",
+  "slug_de": "gaistal-leutasch-wanderung",
+  "title": {
+   "nl": "Gaistal bij Leutasch",
+   "en": "Gaistal near Leutasch",
+   "de": "Gaistal bei Leutasch"
+  },
+  "tagline": {
+   "nl": "Een rustig hoogdal met weiden en een heldere beek",
+   "en": "A quiet high valley with meadows and a clear stream",
+   "de": "Ein ruhiges Hochtal mit Almwiesen und klarem Bach"
+  },
+  "intro": {
+   "nl": "Het Gaistal ligt bij Leutasch op het Seefelder Plateau, aan de zuidkant van het Wettersteingebergte. Door het dal stroomt de Leutascher Ache. Het is een van de bekendste wandelgebieden van het plateau, met comfortabele paden naar meerdere almen, zoals de Gaistalalm, Hämmermoosalm en Tillfussalm.\n\nEen populaire gezinsroute is de rondwandeling langs drie almen vanaf parkeerplaats Salzbach: ca. 10 km, ca. 3 tot 3,5 uur en ca. 290 hoogtemeters. De afstanden zijn relatief kort en er is veel te zien, waardoor het dal goed bij kinderen past. Kaarten en tips krijg je bij het toeristenbureau van Leutasch.",
+   "en": "The Gaistal lies near Leutasch on the Seefeld plateau, on the south side of the Wetterstein range. The Leutascher Ache flows through the valley. It is one of the best-known hiking areas on the plateau, with comfortable paths to several alms such as the Gaistalalm, Hämmermoosalm and Tillfussalm.\n\nA popular family route is the three-alm loop from the Salzbach car park: about 10 km, 3 to 3.5 hours and about 290 metres of climbing. Distances are fairly short and there is plenty to see, which suits children well. Maps and tips are available from the Leutasch tourist office.",
+   "de": "Das Gaistal liegt bei Leutasch auf dem Seefelder Plateau, an der Südseite des Wettersteingebirges. Durch das Tal fließt die Leutascher Ache. Es ist eines der bekanntesten Wandergebiete des Plateaus, mit bequemen Wegen zu mehreren Almen wie Gaistalalm, Hämmermoosalm und Tillfussalm.\n\nEine beliebte Familienroute ist die 3-Almen-Runde ab dem Parkplatz Salzbach: ca. 10 km, 3 bis 3,5 Stunden und ca. 290 Höhenmeter. Die Strecken sind relativ kurz und es gibt viel zu sehen, was gut zu Kindern passt. Karten und Tipps gibt es beim Tourismusbüro Leutasch."
+  },
+  "tips": {
+   "nl": [
+    "Gebruik de brede paden ook voor een kinderwagen of fiets, controleer eerst het pad.",
+    "Neem een jas mee; in het dal kan het snel koeler zijn.",
+    "Plan een stop bij een Almhütte voor een pauze."
+   ],
+   "en": [
+    "The wide paths also suit prams and bikes, but check the path first.",
+    "Bring a jacket; it can get cooler in the valley.",
+    "Plan a stop at an Almhütte for a break."
+   ],
+   "de": [
+    "Die breiten Wege eignen sich auch für Kinderwagen und Rad, prüfe den Weg aber vorab.",
+    "Nimm eine Jacke mit; im Tal kann es schnell kühler werden.",
+    "Plane eine Einkehr in einer Almhütte als Pause ein."
+   ]
+  },
+  "practical": {
+   "nl": "Leutasch ligt ca. 1 uur en 20 minuten rijden van Niederau, via de A12 richting Telfs en dan naar Seefeld en Leutasch.",
+   "en": "Leutasch is about 1 hour 20 minutes by car from Niederau, via the A12 towards Telfs and then on to Seefeld and Leutasch.",
+   "de": "Leutasch liegt ca. 1 Std. 20 Min. Autofahrt von Niederau entfernt, über die A12 Richtung Telfs und weiter nach Seefeld und Leutasch."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 3 tot 3,5 uur (rondwandeling)",
+    "en": "About 3 to 3.5 hours (loop)",
+    "de": "Ca. 3 bis 3,5 Stunden (Runde)"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 20 rijden",
+    "en": "About 1 h 20 by car",
+    "de": "Ca. 1 Std. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Leutasch, Seefelder Plateau",
+   "en": "Leutasch, Seefeld plateau",
+   "de": "Leutasch, Seefelder Plateau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het Gaistal geschikt voor gezinnen?",
+     "en": "Is the Gaistal suitable for families?",
+     "de": "Ist das Gaistal für Familien geeignet?"
+    },
+    "a": {
+     "nl": "Ja, de paden zijn grotendeels breed en vlak, zodat je met kinderen makkelijk een stuk kunt lopen.",
+     "en": "Yes, the paths are mostly wide and flat, so you can easily walk a stretch with children.",
+     "de": "Ja, die Wege sind überwiegend breit und flach, sodass du mit Kindern gut ein Stück gehen kannst."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s221",
+  "drop": false,
+  "drop_reason": "",
+  "place": "fuegen",
+  "slug_en": "hochfuegen-summer-hiking",
+  "slug_de": "hochfuegen-wandern-sommer",
+  "title": {
+   "nl": "Wandelen in Hochfügen",
+   "en": "Hiking in Hochfügen",
+   "de": "Wandern in Hochfügen"
+  },
+  "tagline": {
+   "nl": "Wandelen en spelen boven het Zillertal, met avonturenspeelplaats",
+   "en": "Hiking and play above the Zillertal, with an adventure playground",
+   "de": "Wandern und Spielen über dem Zillertal, mit Abenteuerspielplatz"
+  },
+  "intro": {
+   "nl": "Hochfügen ligt boven Fügen, aan de westkant van het Zillertal, en is vooral bekend als skigebied. In de zomer is het een uitgangspunt voor wandel- en mountainbiketochten, bijvoorbeeld de Vier-Almen-wandeling of de beklimming van de Marchkopf (2.450 m). Het gebied ligt tegen het Hochzillertal aan.\n\nVoor gezinnen is er een nieuwe avonturenspeelplaats met speelvijver, klimelementen, een tubing-baan en een boulderwand, plus thematische kinderroutes zoals het Hubertus Wildtierpfad. Informeer vooraf welke bergbanen in de zomer rijden en op welke dagen.",
+   "en": "Hochfügen lies above Fügen, on the western side of the Zillertal, and is best known as a ski area. In summer it is a starting point for hikes and mountain bike tours, for example the Four-Alm walk or the climb of the Marchkopf (2,450 m). The area borders the Hochzillertal.\n\nFor families there is a new adventure playground with a play pond, climbing elements, a tubing run and a bouldering wall, plus themed children's trails such as the Hubertus Wildtierpfad. Check beforehand which lifts run in summer and on which days.",
+   "de": "Hochfügen liegt oberhalb von Fügen, an der Westseite des Zillertals, und ist vor allem als Skigebiet bekannt. Im Sommer ist es Ausgangspunkt für Wanderungen und Mountainbike-Touren, etwa die Vier-Almen-Wanderung oder die Besteigung des Marchkopfs (2.450 m). Das Gebiet grenzt an das Hochzillertal.\n\nFür Familien gibt es einen neuen Abenteuerspielplatz mit Spielteich, Kletterelementen, Tubingbahn und Boulderwand sowie thematische Kinderwege wie den Hubertus Wildtierpfad. Informiere dich vorab, welche Bahnen im Sommer fahren und an welchen Tagen."
+  },
+  "tips": {
+   "nl": [
+    "Kijk vooraf of de bergbaan rijdt en wanneer de laatste afdaling is.",
+    "Neem een jas mee; op 2.000 meter kan het koel zijn.",
+    "Kies een korte route met kleine kinderen."
+   ],
+   "en": [
+    "Check beforehand whether the lift runs and when the last descent is.",
+    "Bring a jacket; it can be cool at 2,000 metres.",
+    "Choose a short route with small children."
+   ],
+   "de": [
+    "Prüfe vorab, ob die Bahn fährt und wann die letzte Talfahrt ist.",
+    "Nimm eine Jacke mit; auf 2.000 Metern kann es kühl sein.",
+    "Wähle mit kleinen Kindern eine kurze Route."
+   ]
+  },
+  "practical": {
+   "nl": "Hochfügen ligt ca. 45 minuten rijden van Niederau, via Wörgl en het Zillertal naar Fügen en dan omhoog.",
+   "en": "Hochfügen is about 45 minutes by car from Niederau, via Wörgl and the Zillertal to Fügen and then uphill.",
+   "de": "Hochfügen liegt ca. 45 Autominuten von Niederau entfernt, über Wörgl und das Zillertal nach Fügen und dann bergauf."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "About 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hochfügen, Zillertal",
+   "en": "Hochfügen, Zillertal",
+   "de": "Hochfügen, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Op welke hoogte wandel je in Hochfügen?",
+     "en": "At what altitude do you hike in Hochfügen?",
+     "de": "Auf welcher Höhe wandert man in Hochfügen?"
+    },
+    "a": {
+     "nl": "De wandelroutes beginnen op ca. 1.500 tot 2.000 meter; de Marchkopf is 2.450 m. Informeer vooraf over de bergbanen.",
+     "en": "The hiking routes start at around 1,500 to 2,000 metres; the Marchkopf is 2,450 m. Check the lifts beforehand.",
+     "de": "Die Wanderrouten beginnen auf ca. 1.500 bis 2.000 Metern; der Marchkopf ist 2.450 m hoch. Informiere dich vorab zu den Bahnen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s231",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "brandenberg-valley-alm-walks",
+  "slug_de": "brandenberger-tal-almwanderungen",
+  "title": {
+   "nl": "Almwandelingen in het Brandenberger Tal",
+   "en": "Alm walks in the Brandenberg valley",
+   "de": "Almwanderungen im Brandenberger Tal"
+  },
+  "tagline": {
+   "nl": "Stille paden naar alpenweiden in een rustig zijdal",
+   "en": "Quiet paths to alpine pastures in a peaceful side valley",
+   "de": "Stille Wege zu Almwiesen in einem ruhigen Seitental"
+  },
+  "intro": {
+   "nl": "Het Brandenberger Tal is een zijdal van het Inntal bij Kramsach en Rattenberg en een stuk rustiger dan de grote toeristische dalen. Brandenberg is met ca. 87 procent bos de bosrijkste gemeente van Tirol. Door het dal stroomt de Brandenberger Ache, een turquoise bergrivier in een kloofachtig dal; bekend is de Tiefenbachklamm.\n\nVanuit het dorp lopen paden door bos en over alpenweiden naar almen, zoals de Lahnalm en de Jocheralm. De beste tijd is ongeveer mei tot oktober. Houd afstand tot wild en weidedieren.",
+   "en": "The Brandenberg valley is a side valley of the Inn valley near Kramsach and Rattenberg and much quieter than the large tourist valleys. With about 87 per cent forest cover, Brandenberg is the most heavily wooded municipality in Tyrol. The Brandenberger Ache, a turquoise mountain river, flows through a canyon-like valley; the Tiefenbachklamm gorge is well known.\n\nFrom the village, paths lead through forest and over alpine pastures to alms such as the Lahnalm and the Jocheralm. The best time is roughly May to October. Keep your distance from wildlife and grazing animals.",
+   "de": "Das Brandenberger Tal ist ein Seitental des Inntals bei Kramsach und Rattenberg und deutlich ruhiger als die großen Tourismustäler. Mit rund 87 Prozent Waldanteil ist Brandenberg die waldreichste Gemeinde Tirols. Durch das Tal fließt die Brandenberger Ache, ein türkisfarbener Bergfluss in einem schluchtartigen Tal; bekannt ist die Tiefenbachklamm.\n\nVom Dorf führen Wege durch Wald und über Almwiesen zu Almen wie der Lahnalm und der Jocheralm. Die beste Zeit ist etwa Mai bis Oktober. Halte Abstand zu Wild und Weidetieren."
+  },
+  "tips": {
+   "nl": [
+    "Neem een wandelkaart mee of vraag bij het gemeentekantoor naar routes.",
+    "Zorg dat je eten en drinken bij je hebt; niet elke hut is altijd open.",
+    "Houd afstand tot wild en weidedieren."
+   ],
+   "en": [
+    "Take a hiking map or ask at the village office for routes.",
+    "Bring food and drink; not every hut is always open.",
+    "Keep your distance from wildlife and grazing animals."
+   ],
+   "de": [
+    "Nimm eine Wanderkarte mit oder frag im Gemeindeamt nach Routen.",
+    "Hab Essen und Trinken dabei; nicht jede Hütte ist immer geöffnet.",
+    "Halte Abstand zu Wild und Weidetieren."
+   ]
+  },
+  "practical": {
+   "nl": "Brandenberg ligt ca. 40 minuten rijden van Niederau, via Kramsach of Rattenberg het Brandenberger Tal in.",
+   "en": "Brandenberg is about 40 minutes by car from Niederau, via Kramsach or Rattenberg into the Brandenberg valley.",
+   "de": "Brandenberg liegt ca. 40 Autominuten von Niederau entfernt, über Kramsach oder Rattenberg ins Brandenberger Tal."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2–3 uur",
+    "en": "About 2–3 hours",
+    "de": "Ca. 2–3 Stunden"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "About 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Brandenberg, Brandenberger Tal",
+   "en": "Brandenberg, Brandenberg valley",
+   "de": "Brandenberg, Brandenberger Tal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt het Brandenberger Tal?",
+     "en": "Where is the Brandenberg valley?",
+     "de": "Wo liegt das Brandenberger Tal?"
+    },
+    "a": {
+     "nl": "Het is een zijdal van het Inntal bij Rattenberg.",
+     "en": "It is a side valley of the Inn valley near Rattenberg.",
+     "de": "Es ist ein Seitental des Inntals bei Rattenberg."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s240",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "seefeld-day-trip",
+  "slug_de": "seefeld-tagesausflug",
+  "title": {
+   "nl": "Dagje Seefeld",
+   "en": "Day trip to Seefeld",
+   "de": "Tagesausflug nach Seefeld"
+  },
+  "tagline": {
+   "nl": "Olympisch dorp op een plateau: wandelen, winkelen en de Rosshütte",
+   "en": "Olympic village on a plateau: walking, shopping and the Rosshütte",
+   "de": "Olympiaort auf dem Plateau: Wandern, Bummeln und die Rosshütte"
+  },
+  "intro": {
+   "nl": "Seefeld ligt op een zonnig plateau op ca. 1.200 meter, tussen Innsbruck en de Duitse grens. Het dorp was in 1964 en 1976 gastheer van de Nordische onderdelen van de Olympische Winterspelen van Innsbruck en is nog steeds sterk op buitensport gericht.\n\nIn de zomer kun je er wandelen, fietsen en door het dorpscentrum met winkels en terrassen lopen. Met de Rosshütte-bergbaan (standkabelbaan en vervolgliften) kom je hoger, naar uitzicht en routes; bij de Rosshütte is ook een tentoonstelling over de Olympische Spelen. Een prettige halve dag.",
+   "en": "Seefeld sits on a sunny plateau at around 1,200 metres, between Innsbruck and the German border. In 1964 and 1976 the village hosted the Nordic events of the Innsbruck Winter Olympics and it remains strongly focused on outdoor sport.\n\nIn summer you can walk and cycle there and stroll through the village centre with its shops and terraces. The Rosshütte lifts (a funicular and connecting lifts) take you higher for views and routes; there is also an Olympic exhibition at the Rosshütte. A pleasant half day.",
+   "de": "Seefeld liegt auf einem sonnigen Plateau auf rund 1.200 Metern, zwischen Innsbruck und der deutschen Grenze. 1964 und 1976 war der Ort Schauplatz der nordischen Bewerbe der Olympischen Winterspiele von Innsbruck und ist bis heute stark auf Outdoor-Sport ausgerichtet.\n\nIm Sommer kannst du hier wandern, Rad fahren und durch das Ortszentrum mit Geschäften und Terrassen bummeln. Mit den Rosshütte-Bahnen (Standseilbahn und weiterführende Lifte) kommst du höher hinauf zu Aussicht und Routen; bei der Rosshütte gibt es außerdem eine Olympia-Ausstellung. Ein schöner Halbtag."
+  },
+  "tips": {
+   "nl": [
+    "Combineer het dorp met een wandeling rond de nabije meren of paden.",
+    "Controleer of de Rosshütte-bergbaan rijdt voordat je erheen gaat.",
+    "Plan een pauze op een terras in het dorpscentrum."
+   ],
+   "en": [
+    "Combine the village with a walk around the nearby lakes or paths.",
+    "Check that the Rosshütte lift is running before you go.",
+    "Plan a break on a terrace in the village centre."
+   ],
+   "de": [
+    "Verbinde den Ort mit einer Wanderung rund um die nahen Seen oder Wege.",
+    "Prüfe, ob die Rosshütte-Bahn fährt, bevor du hinfährst.",
+    "Plane eine Pause auf einer Terrasse im Ortszentrum ein."
+   ]
+  },
+  "practical": {
+   "nl": "Seefeld ligt ca. 1 uur en 10 minuten rijden van Niederau, via de A12 richting Telfs en dan de B177.",
+   "en": "Seefeld is about 1 hour 10 minutes by car from Niederau, via the A12 towards Telfs and then the B177.",
+   "de": "Seefeld liegt ca. 1 Std. 10 Min. Autofahrt von Niederau entfernt, über die A12 Richtung Telfs und dann die B177."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Dorp vrij te bezoeken; bergbaan tegen betaling",
+    "en": "Village free to visit; lift charged",
+    "de": "Ort frei zugänglich; Bergbahn kostenpflichtig"
+   },
+   "distance": {
+    "nl": "Ca. 1 u 10 rijden",
+    "en": "About 1 h 10 by car",
+    "de": "Ca. 1 Std. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Seefeld in Tirol",
+   "en": "Seefeld in Tirol",
+   "de": "Seefeld in Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer was Seefeld Olympisch?",
+     "en": "When was Seefeld Olympic?",
+     "de": "Wann war Seefeld olympisch?"
+    },
+    "a": {
+     "nl": "Seefeld was in 1964 en 1976 gastheer voor de Nordische onderdelen van de Olympische Spelen van Innsbruck.",
+     "en": "Seefeld hosted the Nordic events of the Innsbruck Olympics in 1964 and 1976.",
+     "de": "Seefeld war 1964 und 1976 Austragungsort der nordischen Bewerbe der Olympischen Spiele von Innsbruck."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s243",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "fieberbrunn-summer-hiking",
+  "slug_de": "fieberbrunn-wandern-sommer",
+  "title": {
+   "nl": "Wandelen in Fieberbrunn (Pillerseetal)",
+   "en": "Hiking in Fieberbrunn, Pillerseetal",
+   "de": "Wandern in Fieberbrunn im Pillerseetal"
+  },
+  "tagline": {
+   "nl": "Alm- en bergpaden in het Pillerseetal, rustiger dan Kitzbühel",
+   "en": "Alm and mountain paths in the Pillerseetal, quieter than Kitzbühel",
+   "de": "Alm- und Bergwege im Pillerseetal, ruhiger als Kitzbühel"
+  },
+  "intro": {
+   "nl": "Fieberbrunn is het grootste dorp van het Pillerseetal, in de Kitzbüheler Alpen. Het is vooral bekend als wintersportplaats, maar heeft in de zomer een goed wandelnetwerk; het Pillerseetal is een gecertificeerde wandeldorpregio met ca. 400 km aan routes.\n\nDe Bergbahnen Fieberbrunn rijden in de zomer (grofweg mei tot november) naar de Wildseeloder, met onder meer de Wildseelodersee en Timoks Wilde Welt, een speelwereld voor kinderen. Het is doorgaans rustiger dan Kitzbühel. Vraag bij het toeristenbureau om een wandelkaart.",
+   "en": "Fieberbrunn is the largest village in the Pillerseetal, in the Kitzbühel Alps. It is best known as a winter sports resort, but in summer it has a good network of walking routes; the Pillerseetal is a certified hiking-village region with around 400 km of routes.\n\nThe Bergbahnen Fieberbrunn run in summer (roughly May to November) up the Wildseeloder, with attractions such as the Wildseelodersee lake and Timoks Wilde Welt, an adventure world for children. It is generally quieter than Kitzbühel. Ask the tourist office for a hiking map.",
+   "de": "Fieberbrunn ist der größte Ort im Pillerseetal in den Kitzbüheler Alpen. Er ist vor allem als Wintersportort bekannt, hat im Sommer aber ein gutes Wegenetz; das Pillerseetal ist eine zertifizierte Wanderdorf-Region mit rund 400 km Routen.\n\nDie Bergbahnen Fieberbrunn fahren im Sommer (grob von Mai bis November) auf den Wildseeloder, mit Zielen wie dem Wildsee und Timoks Wilde Welt, einer Erlebniswelt für Kinder. Meist ist es ruhiger als in Kitzbühel. Eine Wanderkarte gibt es beim Tourismusbüro."
+  },
+  "tips": {
+   "nl": [
+    "Haal een wandelkaart bij het toeristenbureau voor actuele routes.",
+    "Combineer de wandeling met een stop bij het Pillersee.",
+    "Neem regenkleding mee; het weer in de bergen wisselt snel."
+   ],
+   "en": [
+    "Pick up a hiking map at the tourist office for current routes.",
+    "Combine the walk with a stop at the Pillersee.",
+    "Bring rain gear; mountain weather changes quickly."
+   ],
+   "de": [
+    "Hole dir beim Tourismusbüro eine Wanderkarte mit aktuellen Routen.",
+    "Verbinde die Wanderung mit einem Halt am Pillersee.",
+    "Nimm Regenkleidung mit; das Wetter in den Bergen wechselt schnell."
+   ]
+  },
+  "practical": {
+   "nl": "Fieberbrunn ligt ca. 1 uur rijden van Niederau, via Wörgl, Kitzbühel en de B164 of B161.",
+   "en": "Fieberbrunn is about 1 hour by car from Niederau, via Wörgl, Kitzbühel and the B164 or B161.",
+   "de": "Fieberbrunn liegt ca. 1 Stunde Autofahrt von Niederau entfernt, über Wörgl, Kitzbühel und die B164 oder B161."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2–3 uur",
+    "en": "About 2–3 hours",
+    "de": "Ca. 2–3 Stunden"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 h by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Fieberbrunn, Pillerseetal",
+   "en": "Fieberbrunn, Pillerseetal",
+   "de": "Fieberbrunn, Pillerseetal"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/pital/so/bergbahnen-fieberbrunn.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt Fieberbrunn?",
+     "en": "Where is Fieberbrunn?",
+     "de": "Wo liegt Fieberbrunn?"
+    },
+    "a": {
+     "nl": "In het Pillerseetal, in de Kitzbüheler Alpen.",
+     "en": "In the Pillerseetal, in the Kitzbühel Alps.",
+     "de": "Im Pillerseetal in den Kitzbüheler Alpen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s245",
+  "drop": false,
+  "drop_reason": "",
+  "place": "soell",
+  "slug_en": "soell-hohe-salve-summer",
+  "slug_de": "soell-hohe-salve-sommer",
+  "title": {
+   "nl": "Söll en de Hohe Salve",
+   "en": "Söll and the Hohe Salve",
+   "de": "Söll und die Hohe Salve"
+  },
+  "tagline": {
+   "nl": "Bergbaan, wandelpaden en mountainbiken in het SkiWelt-dorp Söll",
+   "en": "Lift, walking paths and mountain biking in the SkiWelt village of Söll",
+   "de": "Bergbahn, Wanderwege und Mountainbiken im SkiWelt-Dorf Söll"
+  },
+  "intro": {
+   "nl": "Söll ligt aan de voet van de Hohe Salve (1.829 m), een van de bekendste uitzichtbergen van Tirol, en hoort bij de SkiWelt Wilder Kaiser-Brixental. In de zomer brengt de Gondelbahn Hochsöll je omhoog naar de bergbelevenis Hexenwasser, en een tweede sectie leidt naar de top.\n\nOp de top staat het Salvenkirchlein, de hoogstgelegen bedevaartskerk van Oostenrijk. Rond de top lopen gezinsvriendelijke panoramawegen, zoals de Sonnenuhren-Rundweg en het Himmelslabyrinth voor kinderen. Het gebied heeft ook mountainbikeroutes. Een gemakkelijke uitstap, op ca. 35 minuten van Niederau.",
+   "en": "Söll lies at the foot of the Hohe Salve (1,829 m), one of Tyrol's best-known viewpoint mountains, and belongs to the SkiWelt Wilder Kaiser-Brixental. In summer the Hochsöll gondola takes you up to the Hexenwasser mountain adventure area, and a second section continues to the summit.\n\nOn top stands the Salvenkirchlein, the highest pilgrimage church in Austria. Family-friendly panorama paths run around the summit, such as the Sonnenuhren-Rundweg (sundial trail) and the Himmelslabyrinth for children. The area also has mountain bike routes. An easy outing, about 35 minutes from Niederau.",
+   "de": "Söll liegt am Fuß der Hohen Salve (1.829 m), einem der bekanntesten Aussichtsberge Tirols, und gehört zur SkiWelt Wilder Kaiser-Brixental. Im Sommer bringt dich die Gondelbahn Hochsöll in die Bergerlebniswelt Hexenwasser, eine zweite Sektion führt weiter zum Gipfel.\n\nAuf dem Gipfel steht das Salvenkirchlein, die höchstgelegene Wallfahrtskirche Österreichs. Rund um den Gipfel verlaufen familienfreundliche Panoramawege, etwa der Sonnenuhren-Rundweg und das Himmelslabyrinth für Kinder. Im Gebiet gibt es auch Mountainbike-Strecken. Ein unkomplizierter Ausflug, ca. 35 Minuten von Niederau."
+  },
+  "tips": {
+   "nl": [
+    "Controleer of de bergbaan rijdt voordat je erheen gaat.",
+    "Neem een jas mee; boven kan het fris zijn.",
+    "Plan na de wandeling een stop bij een terras in het dorp."
+   ],
+   "en": [
+    "Check that the lift is running before you go.",
+    "Bring a jacket; it can be cool at the top.",
+    "Plan a stop at a terrace in the village after the walk."
+   ],
+   "de": [
+    "Prüfe, ob die Bahn fährt, bevor du hinfährst.",
+    "Nimm eine Jacke mit; oben kann es frisch sein.",
+    "Plane nach der Wanderung eine Einkehr auf einer Terrasse im Ort ein."
+   ]
+  },
+  "practical": {
+   "nl": "Söll ligt ca. 35 minuten rijden van Niederau, via Wörgl en de B178 richting Söll.",
+   "en": "Söll is about 35 minutes by car from Niederau, via Wörgl and the B178 towards Söll.",
+   "de": "Söll liegt ca. 35 Autominuten von Niederau entfernt, über Wörgl und die B178 Richtung Söll."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Söll, Wilder Kaiser",
+   "en": "Söll, Wilder Kaiser",
+   "de": "Söll, Wilder Kaiser"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/hohe-salve/sommer/wandern/hohe-salve-sommer-bergbahn.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat doe je in Söll in de zomer?",
+     "en": "What can you do in Söll in summer?",
+     "de": "Was kann man im Sommer in Söll machen?"
+    },
+    "a": {
+     "nl": "Wandelen en mountainbiken, met de bergbaan naar de Hohe Salve en terrassen in het dorp.",
+     "en": "Walking and mountain biking, with the lift up the Hohe Salve and terraces in the village.",
+     "de": "Wandern und Mountainbiken, mit der Bahn auf die Hohe Salve und Terrassen im Ort."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s250",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ellmau",
+  "slug_en": "wilder-kaiser-panorama-hike",
+  "slug_de": "wilder-kaiser-panoramawanderung",
+  "title": {
+   "nl": "Panoramawandeling bij de Wilder Kaiser",
+   "en": "Panorama hike by the Wilder Kaiser",
+   "de": "Panoramawanderung am Wilden Kaiser"
+  },
+  "tagline": {
+   "nl": "Bergwandeling met uitzicht op de rotswanden van de Wilder Kaiser",
+   "en": "Mountain hike with views of the Wilder Kaiser rock faces",
+   "de": "Bergwanderung mit Blick auf die Felswände des Wilden Kaisers"
+  },
+  "intro": {
+   "nl": "De Wilder Kaiser is een kalksteengebergte met steile rotswanden aan de noordkant van Tirol. Vanuit Ellmau brengt de Hartkaiserbahn (een gondel voor 10 personen) je omhoog naar een plateau met rondwandelingen en paden richting Scheffau, met uitzicht op het Kaisermassief. Ook vanuit Söll leidt een bergbaan naar wandelroutes bij de Hohe Salve.\n\nOp het plateau vind je zowel gemakkelijke rondjes als langere bergtochten, dus de keuze hangt af van je conditie. Het uitzicht is het mooiste bij helder weer; kies je dag met zorg. Bij de bergstation is voor kinderen de speelwereld Ellmi's Zauberwelt.",
+   "en": "The Wilder Kaiser is a limestone range with steep rock faces on the northern edge of Tyrol. From Ellmau the Hartkaiserbahn (a 10-person gondola) takes you up to a plateau with circular walks and paths towards Scheffau, with views of the Kaiser massif. From Söll, too, a lift leads to walking routes at the Hohe Salve.\n\nOn the plateau you will find easy loops as well as longer mountain tours, so the choice depends on your fitness. The views are at their best in clear weather; choose your day carefully. At the top station, children can enjoy the play world Ellmi's Zauberwelt.",
+   "de": "Der Wilde Kaiser ist ein Kalkgebirge mit steilen Felswänden am Nordrand Tirols. Von Ellmau bringt dich die Hartkaiserbahn (eine 10er-Gondel) auf ein Plateau mit Rundwegen und Pfaden Richtung Scheffau, mit Blick auf das Kaisermassiv. Auch von Söll führt eine Bahn zu Wanderrouten an der Hohen Salve.\n\nAuf dem Plateau gibt es leichte Runden ebenso wie längere Bergtouren, die Wahl hängt also von deiner Kondition ab. Die Aussicht ist bei klarem Wetter am schönsten; wähle deinen Tag mit Bedacht. An der Bergstation gibt es für Kinder die Erlebniswelt Ellmi's Zauberwelt."
+  },
+  "tips": {
+   "nl": [
+    "Stevige wandelschoenen en regenkleding zijn nodig.",
+    "Start vroeg in de ochtend en kijk vooraf naar het weer.",
+    "Neem voldoende water en eten mee."
+   ],
+   "en": [
+    "Sturdy walking boots and rain gear are needed.",
+    "Start early in the morning and check the weather first.",
+    "Bring enough water and food."
+   ],
+   "de": [
+    "Feste Wanderschuhe und Regenkleidung sind nötig.",
+    "Starte früh am Morgen und prüfe vorher das Wetter.",
+    "Nimm ausreichend Wasser und Essen mit."
+   ]
+  },
+  "practical": {
+   "nl": "Ellmau ligt ca. 40 minuten rijden van Niederau, via Wörgl en Söll naar Ellmau.",
+   "en": "Ellmau is about 40 minutes by car from Niederau, via Wörgl and Söll to Ellmau.",
+   "de": "Ellmau liegt ca. 40 Autominuten von Niederau entfernt, über Wörgl und Söll nach Ellmau."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 10 jaar",
+    "en": "From about 10",
+    "de": "Ab ca. 10 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 4–5 uur",
+    "en": "About 4–5 hours",
+    "de": "Ca. 4–5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "About 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Ellmau / Söll, Wilder Kaiser",
+   "en": "Ellmau / Söll, Wilder Kaiser",
+   "de": "Ellmau / Söll, Wilder Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is een panoramawandeling bij de Wilder Kaiser geschikt voor kinderen?",
+     "en": "Is a panorama hike by the Wilder Kaiser suitable for children?",
+     "de": "Ist eine Panoramawanderung am Wilden Kaiser für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Voor oudere, geoefende kinderen; kies voor jongere kinderen een kortere route.",
+     "en": "For older, experienced children; choose a shorter route for younger children.",
+     "de": "Für ältere, geübte Kinder; wähle für jüngere Kinder eine kürzere Route."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s254",
+  "drop": false,
+  "drop_reason": "",
+  "place": "thiersee",
+  "slug_en": "kraeuterwelt-thierseetal",
+  "slug_de": "kraeuterwelt-thierseetal",
+  "title": {
+   "nl": "Kräuterwelt Thierseetal",
+   "en": "Kräuterwelt Thierseetal herb garden",
+   "de": "Kräuterwelt Thierseetal"
+  },
+  "tagline": {
+   "nl": "Kruidentuin bij Hinterthiersee met rondleidingen over geneeskrachtige planten",
+   "en": "Herb garden at Hinterthiersee with guided tours on medicinal plants",
+   "de": "Kräutergarten in Hinterthiersee mit Führungen zu Heilpflanzen"
+  },
+  "intro": {
+   "nl": "De Kräuterwelt Thierseetal is een kruidentuin aan de rand van het bos in Hinterthiersee. De tuin is van fytotherapeute Christiane Kirchmair en bevat meer dan 120 soorten kruiden.\n\nJe kunt de tuin op eigen houtje bekijken of een rondleiding volgen; die worden vanaf juni op vaste data in de middag gehouden en leggen uit hoe planten werken en gebruikt worden. De tuin is doorgaans overdag geopend, ma t/m za. Het past bij een rustige dag in het Thierseetal, bijvoorbeeld met een wandeling of een bezoek aan de Thiersee.",
+   "en": "The Kräuterwelt Thierseetal is a herb garden at the edge of the forest in Hinterthiersee. The garden belongs to phytotherapist Christiane Kirchmair and contains more than 120 kinds of herbs.\n\nYou can explore the garden on your own or join a guided tour; these run on fixed afternoon dates from June and explain how plants work and are used. The garden is usually open in the daytime, Monday to Saturday. It suits a quiet day in the Thierseetal, for example combined with a walk or a visit to the Thiersee.",
+   "de": "Die Kräuterwelt Thierseetal ist ein Kräutergarten am Waldrand in Hinterthiersee. Der Garten gehört der Phytotherapeutin Christiane Kirchmair und enthält mehr als 120 Kräuterarten.\n\nDu kannst den Garten auf eigene Faust erkunden oder an einer Führung teilnehmen; diese finden ab Juni an festen Nachmittagsterminen statt und erklären Wirkung und Verwendung der Pflanzen. Der Garten ist meist tagsüber geöffnet, Montag bis Samstag. Er passt zu einem ruhigen Tag im Thierseetal, zum Beispiel mit einer Wanderung oder einem Besuch am Thiersee."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf over openingstijden en rondleidingen.",
+    "Juni tot augustus is de mooiste bloeitijd.",
+    "Combineer het bezoek met een wandeling of een stop bij de Thiersee."
+   ],
+   "en": [
+    "Ask beforehand about opening times and guided tours.",
+    "June to August is the best flowering time.",
+    "Combine the visit with a walk or a stop at the Thiersee."
+   ],
+   "de": [
+    "Erkundige dich vorab nach Öffnungszeiten und Führungen.",
+    "Juni bis August ist die schönste Blütezeit.",
+    "Verbinde den Besuch mit einer Wanderung oder einem Halt am Thiersee."
+   ]
+  },
+  "practical": {
+   "nl": "Thiersee ligt ca. 45 minuten rijden van Niederau, via Wörgl en Kufstein naar Thiersee en dan Hinterthiersee.",
+   "en": "Thiersee is about 45 minutes by car from Niederau, via Wörgl and Kufstein to Thiersee and then Hinterthiersee.",
+   "de": "Thiersee liegt ca. 45 Autominuten von Niederau entfernt, über Wörgl und Kufstein nach Thiersee und weiter nach Hinterthiersee."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1–2 uur",
+    "en": "About 1–2 hours",
+    "de": "Ca. 1–2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "About 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hinterthiersee, Thiersee",
+   "en": "Hinterthiersee, Thiersee",
+   "de": "Hinterthiersee, Thiersee"
+  },
+  "url": "https://www.skiwelt.at/en/thiersee/info/herbal-world.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt de Kräuterwelt Thierseetal?",
+     "en": "Where is the Kräuterwelt Thierseetal?",
+     "de": "Wo liegt die Kräuterwelt Thierseetal?"
+    },
+    "a": {
+     "nl": "In Hinterthiersee, aan de rand van het bos in het Thierseetal.",
+     "en": "In Hinterthiersee, at the edge of the forest in the Thierseetal.",
+     "de": "In Hinterthiersee am Waldrand im Thierseetal."
+    }
+   }
+  ],
+  "verified": true
+ }
+]
