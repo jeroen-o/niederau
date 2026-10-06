@@ -172,13 +172,23 @@ for k, pt in PATCH.items():
         pt.setdefault("theme", "golf"); pt.setdefault("season", "summer"); pt.setdefault("slug_nl", pt["id"])
         acts.append(pt)
 places = [PATCH.get(p["slug"], p) for p in jload("places/*.json")]
-places = [p for p in places if not p.get("drop")]
+places = [p for p in places if not p.get("drop") and p.get("verified") is not False]
 tdata = jload("themes/*.json")
 themes = {t["theme"]: t for t in tdata if t.get("kind") == "theme"}
 regions = {t["region"]: t for t in tdata if t.get("kind") == "region"}
 hubs = {t["scope"]: t for t in tdata if t.get("kind") == "hub"}
 REGION_ORDER = ["wildschoenau", "alpbachtal", "brixental", "kufsteinerland", "inntal", "zillertal"]
 place_by = {p["slug"]: p for p in places}
+import re as _re
+def _norm(x): return _re.sub(r"[^a-z]", "", x.lower().replace("ö", "o").replace("ü", "u").replace("ä", "a"))
+_names = {p["slug"]: _norm(L(p["name"], "nl")) for p in places}
+for _a in acts:
+    if not _a.get("place"):
+        _t = _norm(" ".join([L(_a.get("title", {}), "nl"), L(_a.get("location", {}), "nl")]))
+        for _slug, _n in _names.items():
+            if _n and len(_n) > 4 and _n in _t:
+                _a["place"] = _slug
+                break
 
 def tslug(theme, lang):
     t = themes.get(theme, {})
