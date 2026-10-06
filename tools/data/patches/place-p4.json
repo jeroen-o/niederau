@@ -1,0 +1,530 @@
+[
+ {
+  "slug": "walchsee",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Walchsee",
+   "en": "Walchsee",
+   "de": "Walchsee"
+  },
+  "tagline": {
+   "nl": "Dorp aan het warmste badmeer van Tirol, in het Kaiserwinkl.",
+   "en": "Village on one of Tyrol's warmest swimming lakes, in the Kaiserwinkl.",
+   "de": "Dorf an einem der wärmsten Badeseen Tirols, im Kaiserwinkl."
+  },
+  "intro": {
+   "nl": "Walchsee ligt op ongeveer 670 m hoogte in het Kaiserwinkl, een hoek van het Kufsteinerland tussen de Zahmer en de Wilder Kaiser, vlak bij de Duitse grens. Het dorp ligt aan een meer van ongeveer 100 hectare dat in de zomer vaak 24 graden of warmer wordt en daarmee tot de warmste badmeren van Tirol hoort.\n\nRond het water vind je ligweiden, een speeltuin, een beachvolleybalveld, cafés met terras en een aquapark met onder meer een watertrampoline. Je kunt er ook roeien, surfen en vissen. Direct naast het meer ligt de Schwemm, met ruim 65 hectare het grootste aaneengesloten veengebied van Noord-Tirol, een rustige plek voor een wandeling.\n\nVoor gezinnen uit Niederau is Walchsee vooral een zomerse badedag. De sfeer is dorps en overzichtelijk. In de winter is het er rustig, met langlaufen, sneeuwwandelen, sleeën en wat skiën in de buurt; informeer vooraf naar de actuele omstandigheden. Het is verstandig om in het hoogseizoen vroeg te komen, want de mooiste plekken aan het water zijn dan snel bezet. Een picknick, handdoeken en zonnebrand maken de dag compleet.",
+   "en": "Walchsee lies at about 670 m in the Kaiserwinkl, a corner of the Kufsteinerland between the Zahmer and Wilder Kaiser mountains, close to the German border. The village sits on a lake of roughly 100 hectares that often reaches 24 degrees or more in summer, making it one of the warmest swimming lakes in Tyrol.\n\nAround the water there are sunbathing lawns, a playground, a beach volleyball court, cafes with terraces and an aqua park with, among other things, a water trampoline. You can also row, surf and fish. Right next to the lake lies the Schwemm, at more than 65 hectares the largest continuous moor in North Tyrol, a quiet spot for a walk.\n\nFor families staying in Niederau, Walchsee is above all a summer swimming day. The atmosphere is that of a small, easy-to-navigate village. Winter is quiet, with cross-country skiing, snow walking, sledging and some skiing nearby; check current conditions beforehand. In peak season it is wise to arrive early, as the best spots by the water fill up quickly. A picnic, towels and sun cream complete the day.",
+   "de": "Walchsee liegt auf rund 670 m im Kaiserwinkl, einem Winkel des Kufsteinerlands zwischen Zahmem und Wildem Kaiser, nahe der deutschen Grenze. Das Dorf liegt an einem See von etwa 100 Hektar, der im Sommer oft 24 Grad oder mehr erreicht und damit zu den wärmsten Badeseen Tirols zählt.\n\nAm Wasser gibt es Liegewiesen, einen Spielplatz, ein Beachvolleyballfeld, Cafés mit Terrasse und einen Aquapark mit unter anderem einem Wassertrampolin. Man kann außerdem rudern, surfen und fischen. Direkt neben dem See liegt die Schwemm, mit über 65 Hektar das größte zusammenhängende Moorgebiet Nordtirols, ein ruhiger Ort für einen Spaziergang.\n\nFür Familien aus Niederau ist Walchsee vor allem ein Badetag im Sommer. Die Atmosphäre ist dörflich und überschaubar. Im Winter ist es ruhig, mit Langlaufen, Schneewandern, Rodeln und etwas Skifahren in der Nähe; aktuelle Bedingungen bitte vorab prüfen. In der Hochsaison empfiehlt es sich, früh anzureisen, denn die schönsten Plätze am Wasser sind schnell belegt. Ein Picknick, Handtücher und Sonnencreme runden den Tag ab."
+  },
+  "highlights": {
+   "nl": [
+    "Zwemmen in het Walchsee, met ligweiden, speeltuin en aquapark.",
+    "Roeien, surfen of vissen op het meer.",
+    "Wandelen in de Schwemm, het grote veengebied naast het meer.",
+    "Zomer: wandelen en fietsen met uitzicht op de Kaisergebergte-toppen.",
+    "Winter: langlaufen, sneeuwwandelen en sleeën."
+   ],
+   "en": [
+    "Swimming in Lake Walchsee, with sunbathing lawns, playground and aqua park.",
+    "Rowing, surfing or fishing on the lake.",
+    "Walking in the Schwemm, the large moor beside the lake.",
+    "Summer: walking and cycling with views of the Kaiser mountains.",
+    "Winter: cross-country skiing, snow walking and sledging."
+   ],
+   "de": [
+    "Schwimmen im Walchsee, mit Liegewiesen, Spielplatz und Aquapark.",
+    "Rudern, Surfen oder Fischen auf dem See.",
+    "Spazieren in der Schwemm, dem großen Moorgebiet neben dem See.",
+    "Sommer: Wandern und Radfahren mit Blick auf das Kaisergebirge.",
+    "Winter: Langlaufen, Schneewandern und Rodeln."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 50 minuten met de auto vanaf Niederau, globaal via Wörgl en Kufstein; plan de route vooraf.",
+   "en": "About 50 minutes by car from Niederau, roughly via Wörgl and Kufstein; plan the route beforehand.",
+   "de": "Etwa 50 Minuten mit dem Auto ab Niederau, grob über Wörgl und Kufstein; Route vorab planen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die een zwemdag aan een warm meer willen.",
+   "en": "Suits families wanting a swimming day on a warm lake.",
+   "de": "Passt zu Familien, die einen Badetag an einem warmen See möchten."
+  },
+  "season": {
+   "nl": "Vooral zomer; rustig in de winter.",
+   "en": "Mainly summer; quiet in winter.",
+   "de": "Vor allem Sommer; im Winter ruhig."
+  },
+  "drive_min": 50,
+  "elevation_m": 668,
+  "url": "https://www.kaiserwinkl.com",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Walchsee geschikt om te zwemmen?",
+     "en": "Is Lake Walchsee suitable for swimming?",
+     "de": "Eignet sich der Walchsee zum Schwimmen?"
+    },
+    "a": {
+     "nl": "Ja, het meer staat bekend als badmeer met goede waterkwaliteit en wordt in de zomer vaak ongeveer 24 graden. Er zijn ligweiden en een speeltuin.",
+     "en": "Yes, it is a well-known swimming lake with good water quality and often reaches around 24 degrees in summer. There are sunbathing lawns and a playground.",
+     "de": "Ja, der See ist ein bekannter Badesee mit guter Wasserqualität und erreicht im Sommer oft etwa 24 Grad. Es gibt Liegewiesen und einen Spielplatz."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is Walchsee van Niederau?",
+     "en": "How far is Walchsee from Niederau?",
+     "de": "Wie weit ist Walchsee von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Ongeveer 50 minuten rijden, afhankelijk van het verkeer.",
+     "en": "About 50 minutes by car, depending on traffic.",
+     "de": "Etwa 50 Minuten Fahrzeit, je nach Verkehr."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "thiersee",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Thiersee",
+   "en": "Thiersee",
+   "de": "Thiersee"
+  },
+  "tagline": {
+   "nl": "Rustig dal bij Kufstein, bekend om zijn passiespelen.",
+   "en": "Quiet valley near Kufstein, known for its Passion Play.",
+   "de": "Ruhiges Tal bei Kufstein, bekannt für seine Passionsspiele."
+  },
+  "intro": {
+   "nl": "Thiersee is een gemeente in een groen, glooiend dal ten zuidoosten van Kufstein, vlak bij de grens met Beieren. Het is naar oppervlakte de op een na grootste gemeente van het district Kufstein en bestaat uit verspreide buurtschappen, zoals Landl, Hinterthiersee en Vorderthiersee, met boerderijen, weides en bossen.\n\nHet dorp is vooral bekend om de Thierseer Passion. In 1799 beloofden de bewoners het lijden en sterven van Jezus te spelen om hun dal te beschermen tegen oorlogsellende. Dat spel wordt sindsdien opgevoerd, tegenwoordig om de zes jaar in het Passionsspielhaus; de volgende editie staat gepland voor 2028.\n\nIn het dal ligt ook het kleine Thiersee-meer, een natuurlijk badmeer aan de voet van de Pendling. Voor gezinnen uit Niederau past Thiersee goed bij een rustige wandeling of fietstocht, eventueel gecombineerd met Kufstein. In de winter kun je er langlaufen en sneeuwwandelen. Het gebied is geen drukke toeristenplek, wat het juist geschikt maakt voor een ontspannen dag met kinderen. Neem voor een wandeling stevige schoenen mee en kijk vooraf naar het weer.",
+   "en": "Thiersee is a municipality in a green, rolling valley south-east of Kufstein, close to the Bavarian border. By area it is the second-largest municipality in the Kufstein district and consists of scattered hamlets such as Landl, Hinterthiersee and Vorderthiersee, with farms, meadows and woodland.\n\nThe village is best known for the Thiersee Passion Play. In 1799 the residents vowed to perform the suffering and death of Jesus to protect their valley from the hardships of war. The play has been staged ever since, nowadays every six years at the Passionsspielhaus; the next edition is planned for 2028.\n\nThe valley also holds the small Lake Thiersee, a natural swimming lake at the foot of the Pendling. For families staying in Niederau, Thiersee suits a calm walk or bike ride, possibly combined with Kufstein. In winter there is cross-country skiing and snow walking. The area is not a busy tourist hotspot, which makes it ideal for a relaxed day with children. Take sturdy shoes for a walk and check the weather beforehand.",
+   "de": "Thiersee ist eine Gemeinde in einem grünen, hügeligen Tal südöstlich von Kufstein, nahe der bayerischen Grenze. Der Fläche nach ist sie die zweitgrößte Gemeinde des Bezirks Kufstein und besteht aus verstreuten Ortsteilen wie Landl, Hinterthiersee und Vorderthiersee, mit Höfen, Wiesen und Wäldern.\n\nBekannt ist der Ort vor allem für die Thierseer Passion. 1799 gelobten die Bewohner, Leiden und Sterben Jesu aufzuführen, um ihr Tal vor den Nöten des Krieges zu schützen. Seither wird das Spiel aufgeführt, heute alle sechs Jahre im Passionsspielhaus; die nächste Spielzeit ist für 2028 geplant.\n\nIm Tal liegt außerdem der kleine Thiersee, ein natürlicher Badesee am Fuß des Pendling. Für Familien aus Niederau passt Thiersee gut zu einem ruhigen Spaziergang oder einer Radtour, gern kombiniert mit Kufstein. Im Winter gibt es Langlaufen und Schneewandern. Die Gegend ist kein überlaufener Touristenort, gerade deshalb eignet sie sich für einen entspannten Tag mit Kindern. Für eine Wanderung festes Schuhwerk mitnehmen und vorab das Wetter prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "Wandelen en fietsen in het groene dal rond Thiersee.",
+    "Een rondje om het Thiersee-meer, een natuurlijk badmeer aan de voet van de Pendling.",
+    "Het Passionsspielhaus, thuis van de Thierseer Passion (volgende editie gepland voor 2028).",
+    "Combineren met een bezoek aan Kufstein en de Festung Kufstein.",
+    "Winter: langlaufen en sneeuwwandelen."
+   ],
+   "en": [
+    "Walking and cycling in the green valley around Thiersee.",
+    "A stroll around Lake Thiersee, a natural swimming lake at the foot of the Pendling.",
+    "The Passionsspielhaus, home of the Thiersee Passion Play (next edition planned for 2028).",
+    "Combining the trip with Kufstein and its fortress.",
+    "Winter: cross-country skiing and snow walking."
+   ],
+   "de": [
+    "Wandern und Radfahren im grünen Tal rund um Thiersee.",
+    "Spaziergang um den Thiersee, einen natürlichen Badesee am Fuß des Pendling.",
+    "Das Passionsspielhaus, Heimat der Thierseer Passion (nächste Spielzeit für 2028 geplant).",
+    "Kombination mit Kufstein und der Festung Kufstein.",
+    "Winter: Langlaufen und Schneewandern."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 40 minuten met de auto vanaf Niederau, globaal via Wörgl en Kufstein.",
+   "en": "About 40 minutes by car from Niederau, roughly via Wörgl and Kufstein.",
+   "de": "Etwa 40 Minuten mit dem Auto ab Niederau, grob über Wörgl und Kufstein."
+  },
+  "best_for": {
+   "nl": "Past bij rustzoekers, wandelaars en cultuurliefhebbers.",
+   "en": "Suits those seeking calm, walkers and culture lovers.",
+   "de": "Passt zu Ruhesuchenden, Wanderern und Kulturinteressierten."
+  },
+  "season": {
+   "nl": "Hele jaar, rustig.",
+   "en": "Year-round, quiet.",
+   "de": "Ganzjährig, ruhig."
+  },
+  "drive_min": 40,
+  "elevation_m": null,
+  "url": "",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is de Thierseer Passion?",
+     "en": "What is the Thiersee Passion Play?",
+     "de": "Was ist die Thierseer Passion?"
+    },
+    "a": {
+     "nl": "Een passiespel over het lijden en sterven van Jezus, dat de bewoners sinds 1799 opvoeren. Het wordt om de zes jaar gespeeld; de volgende editie staat gepland voor 2028. Controleer de actuele data.",
+     "en": "A Passion Play about the suffering and death of Jesus, performed by the villagers since 1799. It is staged every six years; the next edition is planned for 2028. Check the current dates.",
+     "de": "Ein Passionsspiel über Leiden und Sterben Jesu, das die Einwohner seit 1799 aufführen. Es findet alle sechs Jahre statt; die nächste Spielzeit ist für 2028 geplant. Aktuelle Termine prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is Thiersee van Niederau?",
+     "en": "How far is Thiersee from Niederau?",
+     "de": "Wie weit ist Thiersee von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Ongeveer 40 minuten rijden, afhankelijk van het verkeer.",
+     "en": "About 40 minutes by car, depending on traffic.",
+     "de": "Etwa 40 Minuten Fahrzeit, je nach Verkehr."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "kufstein",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Kufstein",
+   "en": "Kufstein",
+   "de": "Kufstein"
+  },
+  "tagline": {
+   "nl": "Stad aan de Inn met een imposante vesting en een gezellig centrum.",
+   "en": "Town on the Inn with an imposing fortress and a pleasant centre.",
+   "de": "Stadt am Inn mit imposanter Festung und gemütlichem Zentrum."
+  },
+  "intro": {
+   "nl": "Kufstein ligt op ongeveer 500 m hoogte aan de Inn, dicht bij de Duitse grens, aan de voet van het Kaisergebirge. Met zo'n 18.000 inwoners is het de op een na grootste stad van Tirol en de belangrijkste plaats van het Kufsteinerland. Het stadsbeeld wordt bepaald door de Festung Kufstein, die op een rots van ongeveer 90 m hoog boven de Inn staat.\n\nDe vesting is meer dan 800 jaar oud en herbergt een museum en de Heldenorgel in de Bürgerturm, een orgel uit 1931 dat bekendstaat als het grootste openluchtorgel ter wereld. Het wordt elke dag om 12 uur bespeeld. Het terrein is volgens de vestingsite dagelijks open; de orgelperiode loopt van april tot oktober. Controleer actuele tijden en prijzen vooraf.\n\nVoor gezinnen uit Niederau is Kufstein een prima dagtocht: vesting, oude stad en de oever van de Inn zijn goed te doen met kinderen. Het Kaisergebirge biedt daarachter wandelmogelijkheden. Parkeren in het centrum kan druk zijn; plan daarom wat extra tijd in. Reken op een halve tot een hele dag, afhankelijk van hoeveel je wilt zien. Bij regen is het museum in de vesting een goed alternatief.",
+   "en": "Kufstein lies at about 500 m on the River Inn, close to the German border, at the foot of the Kaiser mountains. With roughly 18,000 inhabitants it is the second-largest town in Tyrol and the main town of the Kufsteinerland. Its skyline is dominated by Kufstein Fortress, standing on a rock about 90 m above the Inn.\n\nThe fortress is more than 800 years old and houses a museum and the Heroes' Organ in the Bürgerturm, an organ from 1931 known as the largest open-air organ in the world. It is played every day at 12 noon. According to the fortress website the grounds are open daily; the organ season runs from April to October. Check current times and prices beforehand.\n\nFor families staying in Niederau, Kufstein makes a good day trip: fortress, old town and the Inn embankment are easy to explore with children. The Kaiser mountains behind the town offer walking options. Parking in the centre can be busy, so allow some extra time. Allow half a day to a full day, depending on how much you want to see. When it rains, the fortress museum is a good alternative.",
+   "de": "Kufstein liegt auf rund 500 m am Inn, nahe der deutschen Grenze, am Fuß des Kaisergebirges. Mit etwa 18.000 Einwohnern ist es die zweitgrößte Stadt Tirols und der wichtigste Ort des Kufsteinerlands. Das Stadtbild prägt die Festung Kufstein, die auf einem rund 90 m hohen Felsen über dem Inn steht.\n\nDie Festung ist über 800 Jahre alt und beherbergt ein Museum sowie die Heldenorgel im Bürgerturm, eine Orgel von 1931, die als größte Freiluftorgel der Welt gilt. Sie erklingt täglich um 12 Uhr. Laut Festungswebsite ist das Gelände täglich geöffnet; die Orgelsaison läuft von April bis Oktober. Aktuelle Zeiten und Preise bitte vorab prüfen.\n\nFür Familien aus Niederau ist Kufstein ein guter Tagesausflug: Festung, Altstadt und Innufer lassen sich mit Kindern gut erkunden. Das Kaisergebirge dahinter bietet Wandermöglichkeiten. Parkplätze im Zentrum können knapp sein, daher etwas Zeit einplanen. Je nach Programm sollte man einen halben bis ganzen Tag einplanen. Bei Regen bietet das Festungsmuseum eine gute Alternative."
+  },
+  "highlights": {
+   "nl": [
+    "De Festung Kufstein bezoeken, met museum en uitzicht over stad en Inn.",
+    "De Heldenorgel beluisteren, dagelijks om 12 uur (orgelperiode april tot oktober).",
+    "Wandelen door de oude stad en langs de Inn.",
+    "Zomer: wandelen in het Kaisergebirge achter de stad.",
+    "Winter: sfeer van de adventsperiode in de oude stad (informeer naar data)."
+   ],
+   "en": [
+    "Visit Kufstein Fortress, with its museum and views over town and Inn.",
+    "Hear the Heroes' Organ, played daily at 12 noon (organ season April to October).",
+    "Stroll through the old town and along the Inn.",
+    "Summer: walking in the Kaiser mountains behind the town.",
+    "Winter: Advent atmosphere in the old town (check dates)."
+   ],
+   "de": [
+    "Die Festung Kufstein besuchen, mit Museum und Blick über Stadt und Inn.",
+    "Die Heldenorgel hören, täglich um 12 Uhr (Orgelsaison April bis Oktober).",
+    "Bummel durch die Altstadt und am Inn entlang.",
+    "Sommer: Wandern im Kaisergebirge hinter der Stadt.",
+    "Winter: Adventsstimmung in der Altstadt (Termine prüfen)."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten met de auto vanaf Niederau, globaal via Wörgl en de Inntal-snelweg (A12).",
+   "en": "About 35 minutes by car from Niederau, roughly via Wörgl and the Inn valley motorway (A12).",
+   "de": "Etwa 35 Minuten mit dem Auto ab Niederau, grob über Wörgl und die Inntal-Autobahn (A12)."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die cultuur en een stadsuitje willen.",
+   "en": "Suits families wanting culture and a town outing.",
+   "de": "Passt zu Familien, die Kultur und einen Stadtausflug möchten."
+  },
+  "season": {
+   "nl": "Hele jaar.",
+   "en": "Year-round.",
+   "de": "Ganzjährig."
+  },
+  "drive_min": 35,
+  "elevation_m": 499,
+  "url": "https://www.kufstein.com",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer speelt de Heldenorgel in Kufstein?",
+     "en": "When is the Heroes' Organ played in Kufstein?",
+     "de": "Wann erklingt die Heldenorgel in Kufstein?"
+    },
+    "a": {
+     "nl": "Volgens opgave dagelijks om 12 uur, in de orgelperiode van april tot oktober. Controleer actuele tijden en toegang vooraf.",
+     "en": "Reportedly daily at 12 noon, during the organ season from April to October. Check current times and access beforehand.",
+     "de": "Laut Angaben täglich um 12 Uhr, in der Orgelsaison von April bis Oktober. Aktuelle Zeiten und Zugang vorab prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is Kufstein van Niederau?",
+     "en": "How far is Kufstein from Niederau?",
+     "de": "Wie weit ist Kufstein von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Ongeveer 35 minuten rijden, afhankelijk van het verkeer.",
+     "en": "About 35 minutes by car, depending on traffic.",
+     "de": "Etwa 35 Minuten Fahrzeit, je nach Verkehr."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "woergl",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Wörgl",
+   "en": "Wörgl",
+   "de": "Wörgl"
+  },
+  "tagline": {
+   "nl": "Levendige stad in het Inntal, handig als halte en voor een regenachtige dag.",
+   "en": "Lively town in the Inn valley, handy as a stop and for a rainy day.",
+   "de": "Lebendige Stadt im Inntal, praktisch als Zwischenstopp und für Regentage."
+  },
+  "intro": {
+   "nl": "Wörgl ligt op ongeveer 510 m hoogte in het Tiroler Unterinntal, aan de Inn en omringd door de Kitzbüheler Alpen. Het is een knooppunt van wegen en spoorlijnen en de dichtstbijzijnde grotere stad vanaf Niederau. Geen klassiek vakantiedorp dus, maar een levendige stad met winkels, horeca en voorzieningen.\n\nWörgl is internationaal bekend door het Freigeld-experiment van 1932. Tijdens de economische crisis betaalde burgemeester Michael Unterguggenberger gemeentepersoneel deels met lokale werkbonnen, de zogeheten Wörgler Schilling. Daarmee kwam de lokale economie weer in beweging. Het Museum Wörgl documenteert dit en er is een Freigeld-wandelroute door de stad.\n\nVoor gezinnen is Wörgl vooral praktisch: boodschappen, een regenachtige dag of een tussenstop richting Kufstein, Innsbruck of het Zillertal. De Wörgler Wasserwelten zijn bekend als groot waterbad, maar de actuele status is onzeker; controleer die vooraf. Omdat Wörgl direct langs de route naar veel andere uitstapjes ligt, is het ook een handige plek om even te tanken, te eten of kinderen te laten uitrazen voordat je verder rijdt.",
+   "en": "Wörgl lies at about 510 m in the Tyrolean lower Inn valley, on the Inn and surrounded by the Kitzbühel Alps. It is a junction of roads and railway lines and the nearest larger town to Niederau. So not a classic holiday village, but a lively town with shops, restaurants and services.\n\nWörgl is internationally known for the free-money experiment of 1932. During the economic crisis, mayor Michael Unterguggenberger paid municipal staff partly in local work vouchers, the so-called Wörgl Schilling. This set the local economy moving again. The Museum Wörgl documents the story and there is a Freigeld walking trail through the town.\n\nFor families Wörgl is mainly practical: shopping, a rainy day or a stop on the way to Kufstein, Innsbruck or the Zillertal. The Wörgler Wasserwelten are known as a large water park, but its current status is uncertain; check beforehand. Because Wörgl lies right on the way to many other excursions, it is also a handy place to refuel, eat or let the children burn off some energy before driving on.",
+   "de": "Wörgl liegt auf rund 510 m im Tiroler Unterinntal, am Inn und umgeben von den Kitzbüheler Alpen. Es ist ein Knotenpunkt von Straßen und Bahnlinien und die nächstgelegene größere Stadt ab Niederau. Kein klassisches Urlaubsdorf also, sondern eine lebendige Stadt mit Geschäften, Gastronomie und Einrichtungen.\n\nInternational bekannt ist Wörgl durch das Freigeld-Experiment von 1932. In der Wirtschaftskrise bezahlte Bürgermeister Michael Unterguggenberger städtische Angestellte teilweise mit lokalen Arbeitswertscheinen, dem sogenannten Wörgler Schilling. Das brachte die örtliche Wirtschaft wieder in Gang. Das Museum Wörgl dokumentiert die Geschichte, außerdem gibt es einen Freigeld-Rundweg durch die Stadt.\n\nFür Familien ist Wörgl vor allem praktisch: Einkäufe, ein Regentag oder ein Zwischenstopp Richtung Kufstein, Innsbruck oder Zillertal. Die Wörgler Wasserwelten gelten als großes Erlebnisbad, der aktuelle Status ist aber unsicher; bitte vorab prüfen. Da Wörgl direkt auf dem Weg zu vielen anderen Ausflugszielen liegt, ist es auch ein praktischer Ort zum Tanken, Essen oder damit die Kinder sich vor der Weiterfahrt austoben können."
+  },
+  "highlights": {
+   "nl": [
+    "Het Museum Wörgl, met onder meer documentatie over het Wörgler Freigeld.",
+    "De Freigeld-wandelroute door de stad.",
+    "Winkelen en eten in het stadscentrum.",
+    "Zwemmen in de Wörgler Wasserwelten (controleer eerst of en wanneer het bad open is).",
+    "Handig als tussenstop op weg naar Kufstein, Innsbruck of het Zillertal."
+   ],
+   "en": [
+    "The Museum Wörgl, with documentation on the Wörgl free money, among other things.",
+    "The Freigeld walking trail through town.",
+    "Shopping and eating in the town centre.",
+    "Swimming at the Wörgler Wasserwelten (first check whether and when it is open).",
+    "Handy stop on the way to Kufstein, Innsbruck or the Zillertal."
+   ],
+   "de": [
+    "Das Museum Wörgl, unter anderem mit Dokumentation zum Wörgler Freigeld.",
+    "Der Freigeld-Rundweg durch die Stadt.",
+    "Einkaufen und Essen im Stadtzentrum.",
+    "Schwimmen in den Wörgler Wasserwelten (zuerst prüfen, ob und wann geöffnet).",
+    "Praktischer Zwischenstopp Richtung Kufstein, Innsbruck oder Zillertal."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 20 minuten met de auto vanaf Niederau, via Oberau en door het Inntal.",
+   "en": "About 20 minutes by car from Niederau, via Oberau and the Inn valley.",
+   "de": "Etwa 20 Minuten mit dem Auto ab Niederau, über Oberau und das Inntal."
+  },
+  "best_for": {
+   "nl": "Past bij een regenachtige dag, boodschappen en korte stops.",
+   "en": "Suits a rainy day, shopping and short stops.",
+   "de": "Passt zu Regentagen, Einkäufen und kurzen Stopps."
+  },
+  "season": {
+   "nl": "Hele jaar.",
+   "en": "Year-round.",
+   "de": "Ganzjährig."
+  },
+  "drive_min": 20,
+  "elevation_m": 511,
+  "url": "https://www.woergl.at",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat was het Wörgler Freigeld?",
+     "en": "What was the Wörgl free money?",
+     "de": "Was war das Wörgler Freigeld?"
+    },
+    "a": {
+     "nl": "Een experiment uit 1932 waarbij de gemeente tijdens de crisis lokale werkbonnen (Wörgler Schilling) uitgaf. De lokale economie kwam daardoor weer op gang en Wörgl werd internationaal bekend.",
+     "en": "A 1932 experiment in which the municipality issued local work vouchers (Wörgl Schilling) during the crisis. It revived the local economy and made Wörgl internationally known.",
+     "de": "Ein Experiment von 1932, bei dem die Gemeinde in der Krise lokale Arbeitswertscheine (Wörgler Schilling) ausgab. Die örtliche Wirtschaft kam wieder in Gang und Wörgl wurde international bekannt."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is Wörgl van Niederau?",
+     "en": "How far is Wörgl from Niederau?",
+     "de": "Wie weit ist Wörgl von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Ongeveer 20 minuten rijden, afhankelijk van het verkeer.",
+     "en": "About 20 minutes by car, depending on traffic.",
+     "de": "Etwa 20 Minuten Fahrzeit, je nach Verkehr."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "jenbach",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Jenbach",
+   "en": "Jenbach",
+   "de": "Jenbach"
+  },
+  "tagline": {
+   "nl": "Spoorwegplaats in het Inntal, poort naar Achensee en Zillertal.",
+   "en": "Railway town in the Inn valley, gateway to the Achensee and Zillertal.",
+   "de": "Bahnort im Inntal, Tor zum Achensee und Zillertal."
+  },
+  "intro": {
+   "nl": "Jenbach ligt op ongeveer 560 m hoogte in het Inntal, tussen Karwendel en Rofangebergte. Het is een belangrijk spoorknooppunt en staat bekend als het enige station in Europa met drie verschillende spoorbreedtes. Van hieruit vertrekken twee historische smalspoorlijnen.\n\nDe Achenseebahn is een stoomtandradbaan van ongeveer 7 km die sinds 1889 naar de oever van het Achensee op ongeveer 930 m klimt en volgens de bronnen van mei tot oktober rijdt. De Zillertalbahn rijdt sinds 1902 het Zillertal in, in de zomer ook met historische stoomtreinen. Boven het dorp staat bovendien Schloss Tratzberg, een goed bewaard renaissancekasteel met een beschilderde binnenplaats.\n\nVoor gezinnen uit Niederau is Jenbach een leuke combinatie van een treinuitstapje met het Achensee. Plan vooraf: dienstregelingen en seizoenen verschillen en veranderen, dus controleer de actuele gegevens. Een rit met een stoomtrein duurt een deel van de dag, dus combineer hem bij voorkeur met één andere bestemming. Kaartjes en tijden kun je het best vooraf bekijken, zeker in het hoogseizoen. Wie met de auto komt, vindt in de buurt van het station doorgaans parkeergelegenheid.",
+   "en": "Jenbach lies at about 560 m in the Inn valley, between the Karwendel and Rofan mountains. It is an important railway junction and is known as the only station in Europe with three different track gauges. Two historic narrow-gauge lines start here.\n\nThe Achenseebahn is a steam rack railway of about 7 km that has climbed to the shore of Lake Achensee, at around 930 m, since 1889 and, according to the sources, runs from May to October. The Zillertalbahn has run into the Zillertal since 1902, in summer also with historic steam trains. Above the village stands Schloss Tratzberg, a well-preserved Renaissance castle with a painted courtyard.\n\nFor families staying in Niederau, Jenbach makes a fun combination of a train outing with Lake Achensee. Plan ahead: timetables and seasons vary and change, so check current details. A steam-train ride takes up part of the day, so it is best combined with one other destination. Tickets and times are best checked in advance, especially in peak season. Those arriving by car can usually find parking near the station.",
+   "de": "Jenbach liegt auf rund 560 m im Inntal, zwischen Karwendel und Rofan. Es ist ein wichtiger Bahnknotenpunkt und gilt als einziger Bahnhof Europas mit drei verschiedenen Spurweiten. Von hier starten zwei historische Schmalspurbahnen.\n\nDie Achenseebahn ist eine Dampfzahnradbahn von etwa 7 km, die seit 1889 zum Ufer des Achensees auf rund 930 m hinaufführt und laut Quellen von Mai bis Oktober fährt. Die Zillertalbahn fährt seit 1902 ins Zillertal, im Sommer auch mit historischen Dampfzügen. Oberhalb des Ortes steht außerdem Schloss Tratzberg, ein gut erhaltenes Renaissanceschloss mit bemaltem Innenhof.\n\nFür Familien aus Niederau lässt sich in Jenbach ein Bahnausflug gut mit dem Achensee verbinden. Vorab planen: Fahrpläne und Saisonzeiten unterscheiden sich und ändern sich, bitte aktuelle Angaben prüfen. Eine Fahrt mit dem Dampfzug nimmt einen Teil des Tages in Anspruch, daher kombiniert man sie am besten mit einem weiteren Ziel. Tickets und Zeiten vorab prüfen, besonders in der Hochsaison. Wer mit dem Auto kommt, findet in Bahnhofsnähe in der Regel Parkmöglichkeiten."
+  },
+  "highlights": {
+   "nl": [
+    "Met de Achenseebahn (stoomtandradbaan) naar het Achensee, in het seizoen.",
+    "Een rit met de Zillertalbahn het Zillertal in, in de zomer ook met stoomtrein.",
+    "Schloss Tratzberg bij Stans bezoeken (controleer tijden).",
+    "Vanuit Jenbach verder naar het Achensee om te zwemmen of te wandelen.",
+    "Voor kinderen: treinen kijken en een stoomtreinbeleving."
+   ],
+   "en": [
+    "The Achenseebahn (steam rack railway) to Lake Achensee, in season.",
+    "A ride on the Zillertalbahn into the Zillertal, in summer also by steam train.",
+    "Visit Schloss Tratzberg near Stans (check times).",
+    "From Jenbach on to Lake Achensee for swimming or walking.",
+    "For children: watching trains and a steam-train experience."
+   ],
+   "de": [
+    "Mit der Achenseebahn (Dampfzahnradbahn) zum Achensee, in der Saison.",
+    "Eine Fahrt mit der Zillertalbahn ins Zillertal, im Sommer auch mit Dampfzug.",
+    "Schloss Tratzberg bei Stans besuchen (Zeiten prüfen).",
+    "Von Jenbach weiter zum Achensee zum Baden oder Wandern.",
+    "Für Kinder: Züge beobachten und ein Dampfzug-Erlebnis."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 30 minuten met de auto vanaf Niederau, globaal via Wörgl en de Inntal-snelweg (A12).",
+   "en": "About 30 minutes by car from Niederau, roughly via Wörgl and the Inn valley motorway (A12).",
+   "de": "Etwa 30 Minuten mit dem Auto ab Niederau, grob über Wörgl und die Inntal-Autobahn (A12)."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met treinliefhebbers.",
+   "en": "Suits families with train fans.",
+   "de": "Passt zu Familien mit Eisenbahnfans."
+  },
+  "season": {
+   "nl": "Vooral zomer en herfst; stoomtreinen zijn seizoensgebonden.",
+   "en": "Mainly summer and autumn; steam trains are seasonal.",
+   "de": "Vor allem Sommer und Herbst; Dampfzüge sind saisonal."
+  },
+  "drive_min": 30,
+  "elevation_m": 563,
+  "url": "",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Rijdt de Achenseebahn het hele jaar?",
+     "en": "Does the Achenseebahn run all year?",
+     "de": "Fährt die Achenseebahn das ganze Jahr?"
+    },
+    "a": {
+     "nl": "Nee, de stoomtandradbaan rijdt volgens de bronnen van mei tot oktober. Controleer de actuele dienstregeling.",
+     "en": "No, according to the sources the steam rack railway runs from May to October. Check the current timetable.",
+     "de": "Nein, die Dampfzahnradbahn fährt laut Quellen von Mai bis Oktober. Aktuellen Fahrplan prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is Jenbach van Niederau?",
+     "en": "How far is Jenbach from Niederau?",
+     "de": "Wie weit ist Jenbach von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Ongeveer 30 minuten rijden, afhankelijk van het verkeer.",
+     "en": "About 30 minutes by car, depending on traffic.",
+     "de": "Etwa 30 Minuten Fahrzeit, je nach Verkehr."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "schwaz",
+  "region": "inntal",
+  "drop": false,
+  "name": {
+   "nl": "Schwaz",
+   "en": "Schwaz",
+   "de": "Schwaz"
+  },
+  "tagline": {
+   "nl": "Oude mijnstad in het Inntal met zilvergeschiedenis en een bezoekersmijn.",
+   "en": "Old mining town in the Inn valley with silver heritage and a show mine.",
+   "de": "Alte Bergbaustadt im Inntal mit Silbergeschichte und Schaubergwerk."
+  },
+  "intro": {
+   "nl": "Schwaz ligt op ruim 530 m hoogte in het Inntal en is het centrum van de Silberregion Karwendel. In de 15e en 16e eeuw was het een van de grootste mijnbouwplaatsen van Europa, dankzij zilver en koper. Rond 1500 kwam naar verluidt het grootste deel van het zilver in Europa uit de mijnen hier.\n\nHet Silberbergwerk is de bekendste bezienswaardigheid: een mijntreintje rijdt ongeveer 800 m de berg in, waarna een rondleiding volgt die klassiek zo'n 90 minuten duurt. Hoog boven de stad staat Burg Freundsberg, een kasteel uit ongeveer 1150 met een museum over de stadsgeschiedenis. In het centrum valt de grote parochiekerk met twee klokkentorens op.\n\nVoor gezinnen uit Niederau is Schwaz een goede dagtocht met geschiedenis en beleving, ook bij minder mooi weer. Neem warme kleding mee voor de mijn en controleer openingstijden en leeftijdsadvies vooraf. De mijn blijft het hele jaar ongeveer even koel, wat ook op warme zomerdagen een prettige afwisseling is. Voor heel kleine kinderen is het verstandig vooraf te informeren of de rondleiding geschikt is.",
+   "en": "Schwaz lies at just over 530 m in the Inn valley and is the centre of the Silberregion Karwendel. In the 15th and 16th centuries it was one of the largest mining towns in Europe, thanks to silver and copper. Around 1500 most of Europe's silver reportedly came from the mines here.\n\nThe Silberbergwerk is the best-known sight: a mine train carries you about 800 m into the mountain, followed by a tour that classically lasts around 90 minutes. High above the town stands Freundsberg Castle, built around 1150, with a museum on the town's history. In the centre the large parish church with two bell towers stands out.\n\nFor families staying in Niederau, Schwaz makes a good day trip combining history and hands-on experience, also in less settled weather. Bring warm clothing for the mine and check opening times and age advice beforehand. The mine stays about equally cool all year, a welcome change even on hot summer days. For very small children it is wise to ask beforehand whether the tour is suitable.",
+   "de": "Schwaz liegt auf gut 530 m im Inntal und ist das Zentrum der Silberregion Karwendel. Im 15. und 16. Jahrhundert war es dank Silber und Kupfer eine der größten Bergbaustädte Europas. Um 1500 stammte Berichten zufolge der Großteil des europäischen Silbers aus den hiesigen Gruben.\n\nDas Silberbergwerk ist die bekannteste Sehenswürdigkeit: Eine Grubenbahn fährt etwa 800 m in den Berg, danach folgt eine Führung, die klassisch rund 90 Minuten dauert. Hoch über der Stadt steht die Burg Freundsberg, um 1150 erbaut, mit einem Museum zur Stadtgeschichte. Im Zentrum fällt die große Pfarrkirche mit zwei Glockentürmen auf.\n\nFür Familien aus Niederau ist Schwaz ein guter Tagesausflug mit Geschichte und Erlebnis, auch bei unbeständigem Wetter. Warme Kleidung für das Bergwerk mitnehmen und Öffnungszeiten sowie Altersempfehlung vorab prüfen. Das Bergwerk bleibt das ganze Jahr über ähnlich kühl, eine willkommene Abwechslung auch an heißen Sommertagen. Bei sehr kleinen Kindern vorab erfragen, ob die Führung geeignet ist."
+  },
+  "highlights": {
+   "nl": [
+    "Het Silberbergwerk bezoeken, met rit in het mijntreintje en een rondleiding.",
+    "Burg Freundsberg boven de stad, met museum over de stadsgeschiedenis.",
+    "De grote parochiekerk met twee klokkentorens in het centrum.",
+    "Slenteren door de historische binnenstad.",
+    "Combineren met Jenbach of een uitstapje naar het Zillertal."
+   ],
+   "en": [
+    "Visit the Silberbergwerk, with the mine train ride and a guided tour.",
+    "Freundsberg Castle above the town, with a museum on the town's history.",
+    "The large parish church with two bell towers in the centre.",
+    "Stroll through the historic town centre.",
+    "Combine with Jenbach or a trip into the Zillertal."
+   ],
+   "de": [
+    "Das Silberbergwerk besuchen, mit Grubenbahnfahrt und Führung.",
+    "Burg Freundsberg oberhalb der Stadt, mit Museum zur Stadtgeschichte.",
+    "Die große Pfarrkirche mit zwei Glockentürmen im Zentrum.",
+    "Bummel durch die historische Altstadt.",
+    "Kombination mit Jenbach oder einem Ausflug ins Zillertal."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 40 minuten met de auto vanaf Niederau, globaal via Wörgl en de Inntal-snelweg (A12).",
+   "en": "About 40 minutes by car from Niederau, roughly via Wörgl and the Inn valley motorway (A12).",
+   "de": "Etwa 40 Minuten mit dem Auto ab Niederau, grob über Wörgl und die Inntal-Autobahn (A12)."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die geschiedenis en beleving willen.",
+   "en": "Suits families wanting history and experience.",
+   "de": "Passt zu Familien, die Geschichte und Erlebnis suchen."
+  },
+  "season": {
+   "nl": "Hele jaar, ook bij slecht weer.",
+   "en": "Year-round, also in poor weather.",
+   "de": "Ganzjährig, auch bei Schlechtwetter."
+  },
+  "drive_min": 40,
+  "elevation_m": null,
+  "url": "https://www.silberregion-karwendel.com",
+  "verified": true,
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Schwaz geschikt voor kinderen?",
+     "en": "Is Schwaz suitable for children?",
+     "de": "Ist Schwaz für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, vooral het Silberbergwerk met het mijntreintje spreekt kinderen aan. Neem warme kleding mee en controleer het leeftijdsadvies.",
+     "en": "Yes, especially the Silberbergwerk with its mine train appeals to children. Bring warm clothes and check the age advice.",
+     "de": "Ja, vor allem das Silberbergwerk mit der Grubenbahn spricht Kinder an. Warme Kleidung mitnehmen und Altersempfehlung prüfen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe ver is Schwaz van Niederau?",
+     "en": "How far is Schwaz from Niederau?",
+     "de": "Wie weit ist Schwaz von Niederau entfernt?"
+    },
+    "a": {
+     "nl": "Ongeveer 40 minuten rijden, afhankelijk van het verkeer.",
+     "en": "About 40 minutes by car, depending on traffic.",
+     "de": "Etwa 40 Minuten Fahrzeit, je nach Verkehr."
+    }
+   }
+  ]
+ }
+]

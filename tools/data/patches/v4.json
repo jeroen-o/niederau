@@ -1,0 +1,1418 @@
+[
+ {
+  "id": "s117",
+  "drop": true,
+  "drop_reason": "Niet te bevestigen: geen bron voor een vrij toegankelijke geiten-/schapenweide in Thierbach waar bezoekers dieren mogen aaien; alleen losse vermeldingen van erlebnisbauernhoefe in de Wildschoenau.",
+  "place": "thierbach",
+  "slug_en": "farm-animals-thierbach",
+  "slug_de": "bauernhoftiere-thierbach",
+  "title": {
+   "nl": "Boerderijdieren in Thierbach",
+   "en": "Farm animals in Thierbach",
+   "de": "Bauernhoftiere in Thierbach"
+  },
+  "tagline": {
+   "nl": "Geiten, schapen en koeien in het achterste dal",
+   "en": "Goats, sheep and cows in the upper valley",
+   "de": "Ziegen, Schafe und Kühe im hinteren Tal"
+  },
+  "intro": {
+   "nl": "Thierbach ligt in het rustige deel van de Wildschönau en is een echt landbouwdorp. Op de boerderijen en weiden zie je geiten, schapen en koeien, en vaak is het mogelijk om de dieren van een veilige afstand te bekijken of, met toestemming van de boer, even te aaien en te voeden.\n\nVoor jonge kinderen is dit een van de leukste uitjes: het kost weinig, het is dichtbij en je maakt kennis met het leven op een Tiroler boerderij. Vraag altijd toestemming voordat je een erf of weide betreedt, volg de aanwijzingen van de boer en bied dieren alleen voer aan dat de boer goedkeurt. Een kleine bijdrage voor het voer wordt gewaardeerd.",
+   "en": "Thierbach lies in the quiet part of the Wildschönau and is a true farming village. On the farms and pastures you see goats, sheep and cows, and it is often possible to watch the animals from a safe distance or, with the farmer's permission, stroke and feed them.\n\nFor young children this is one of the nicest outings: it costs little, it is close and it introduces them to life on a Tyrolean farm. Always ask permission before entering a farmyard or pasture, follow the farmer's instructions and only offer animals food that the farmer approves. A small contribution towards the feed is appreciated.",
+   "de": "Thierbach liegt im ruhigen Teil der Wildschönau und ist ein echtes Bauerndorf. Auf den Höfen und Weiden siehst du Ziegen, Schafe und Kühe, und oft kann man die Tiere aus sicherer Entfernung beobachten oder mit Erlaubnis des Bauern streicheln und füttern.\n\nFür kleine Kinder ist das einer der schönsten Ausflüge: Er kostet wenig, ist nah und zeigt ihnen das Leben auf einem Tiroler Bauernhof. Frag immer um Erlaubnis, bevor du einen Hof oder eine Weide betrittst, folge den Anweisungen des Bauern und biete den Tieren nur Futter an, das der Bauer erlaubt. Ein kleiner Beitrag für das Futter wird geschätzt."
+  },
+  "tips": {
+   "nl": [
+    "Vraag altijd eerst toestemming voordat je een erf betreedt.",
+    "Geef de dieren alleen voer dat de boer toestaat.",
+    "Draag schoenen die vies mogen worden.",
+    "Was na afloop de handen goed."
+   ],
+   "en": [
+    "Always ask permission before entering a farmyard.",
+    "Only give the animals food that the farmer permits.",
+    "Wear shoes that can get dirty.",
+    "Wash hands well afterwards."
+   ],
+   "de": [
+    "Frag immer zuerst um Erlaubnis, bevor du einen Hof betrittst.",
+    "Gib den Tieren nur Futter, das der Bauer erlaubt.",
+    "Trag Schuhe, die schmutzig werden dürfen.",
+    "Wasch dir danach gründlich die Hände."
+   ]
+  },
+  "practical": {
+   "nl": "Thierbach ligt ca. 5 tot 10 minuten rijden van Niederau, aan het eind van het dal. Je kunt ook lopen via een bergpad. Informeer bij het toeristenbureau naar boerderijen die bezoekers verwelkomen.",
+   "en": "Thierbach is about 5 to 10 minutes by car from Niederau, at the end of the valley. You can also walk via a mountain path. Ask the tourist office about farms that welcome visitors.",
+   "de": "Thierbach liegt ca. 5 bis 10 Autominuten von Niederau entfernt, am Ende des Tals. Du kannst auch über einen Bergweg gehen. Frag im Tourismusbüro nach Höfen, die Besucher willkommen heißen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden, favoriet bij peuters",
+    "en": "All ages, a favourite with toddlers",
+    "de": "Für alle Altersgruppen, besonders bei Kleinkindern beliebt"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis; kleine bijdrage voor voer wordt gewaardeerd",
+    "en": "Free; a small contribution for feed is appreciated",
+    "de": "Kostenlos; ein kleiner Beitrag für Futter wird geschätzt"
+   },
+   "distance": {
+    "nl": "Ca. 5 tot 10 min rijden",
+    "en": "About 5 to 10 min by car",
+    "de": "Ca. 5 bis 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Thierbach, Wildschönau",
+   "en": "Thierbach, Wildschönau",
+   "de": "Thierbach, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Mogen kinderen de dieren in Thierbach aaien?",
+     "en": "May children stroke the animals in Thierbach?",
+     "de": "Dürfen Kinder die Tiere in Thierbach streicheln?"
+    },
+    "a": {
+     "nl": "Vaak wel, maar vraag altijd eerst toestemming aan de boer.",
+     "en": "Often yes, but always ask the farmer for permission first.",
+     "de": "Oft ja, aber frag immer zuerst den Bauern um Erlaubnis."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s182",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "alpenzoo-innsbruck",
+  "slug_de": "alpenzoo-innsbruck",
+  "title": {
+   "nl": "Alpenzoo Innsbruck",
+   "en": "Alpenzoo Innsbruck",
+   "de": "Alpenzoo Innsbruck"
+  },
+  "tagline": {
+   "nl": "Themadierentuin met uitsluitend dieren uit de Alpen, boven Innsbruck",
+   "en": "Theme zoo devoted solely to Alpine animals, above Innsbruck",
+   "de": "Themenzoo ausschließlich mit Tieren des Alpenraums, oberhalb von Innsbruck"
+  },
+  "intro": {
+   "nl": "De Alpenzoo ligt op 727 meter hoogte bij de Hungerburg, boven Innsbruck, en hoort bij de hoogstgelegen dierentuinen van Europa. Het is een themadierentuin: je ziet er alleen dieren uit de Alpen en het Europese bergland, zoals beren, wolven, lynxen, steenbokken, gemzen en baardgieren. In totaal gaat het om ruim 2.000 dieren van zo'n 150 soorten, op een terrein van ruim vier hectare.\n\nDe verblijven zijn natuurlijk ingericht, met ook aquaria en terraria. Het terrein ligt op een helling, dus reken op wat klimmen. Een bezoek past goed bij een dag in Innsbruck; de Hungerburgbahn brengt je vanuit de stad omhoog.",
+   "en": "The Alpenzoo sits at 727 metres near the Hungerburg above Innsbruck and is among the highest-situated zoos in Europe. It is a theme zoo: you only see animals of the Alps and Europe's mountain regions, such as bears, wolves, lynx, ibex, chamois and bearded vultures. In total there are more than 2,000 animals of about 150 species, on grounds of just over four hectares.\n\nThe enclosures are designed to look natural, and there are aquariums and terrariums too. The grounds are on a slope, so expect some climbing. A visit fits well into a day in Innsbruck; the Hungerburgbahn takes you up from the city.",
+   "de": "Der Alpenzoo liegt auf 727 Metern an der Hungerburg oberhalb von Innsbruck und zählt zu den höchstgelegenen Zoos Europas. Es ist ein Themenzoo: Man sieht ausschließlich Tiere der Alpen und der europäischen Gebirge, etwa Bären, Wölfe, Luchse, Steinböcke, Gämsen und Bartgeier. Insgesamt sind es mehr als 2.000 Tiere in rund 150 Arten auf gut vier Hektar.\n\nDie Gehege sind naturnah gestaltet, dazu kommen Aquarien und Terrarien. Das Gelände liegt am Hang, du musst also etwas steigen. Ein Besuch passt gut in einen Tag in Innsbruck; die Hungerburgbahn bringt dich von der Stadt hinauf."
+  },
+  "tips": {
+   "nl": [
+    "Draag goede schoenen; het terrein loopt bergop.",
+    "Neem de Hungerburgbahn omhoog en combineer het met een wandeling.",
+    "Reken op een halve dag en neem iets te drinken mee."
+   ],
+   "en": [
+    "Wear good shoes; the grounds climb.",
+    "Take the Hungerburgbahn up and combine it with a walk.",
+    "Allow half a day and bring something to drink."
+   ],
+   "de": [
+    "Gute Schuhe tragen; das Gelände steigt an.",
+    "Mit der Hungerburgbahn hinauffahren und mit einem Spaziergang verbinden.",
+    "Einen halben Tag einplanen und etwas zu trinken mitnehmen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Innsbruck in ca. 1 uur rijden via de A12. Parkeer in de stad en ga met de Hungerburgbahn of te voet omhoog. Openingstijden en prijzen wisselen; informeer vooraf.",
+   "en": "From Niederau, Innsbruck is about 1 hour by car via the A12. Park in the city, then take the Hungerburgbahn or walk up. Opening times and prices vary; check beforehand.",
+   "de": "Von Niederau erreichst du Innsbruck in ca. 1 Stunde über die A12. In der Stadt parken, dann mit der Hungerburgbahn oder zu Fuß hinauf. Öffnungszeiten und Preise wechseln; vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "Approx. 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Stunde Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "Year-round",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Hungerburg, Innsbruck",
+   "en": "Hungerburg, Innsbruck",
+   "de": "Hungerburg, Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke dieren zie je in de Alpenzoo?",
+     "en": "Which animals can you see at the Alpenzoo?",
+     "de": "Welche Tiere gibt es im Alpenzoo zu sehen?"
+    },
+    "a": {
+     "nl": "Alleen dieren uit de Alpen en Europese bergen, zoals beer, wolf, lynx, steenbok, gems en baardgier: ruim 2.000 dieren van zo'n 150 soorten.",
+     "en": "Only animals of the Alps and Europe's mountains, such as bear, wolf, lynx, ibex, chamois and bearded vulture: more than 2,000 animals of around 150 species.",
+     "de": "Nur Tiere der Alpen und europäischen Gebirge, etwa Bär, Wolf, Luchs, Steinbock, Gämse und Bartgeier: mehr als 2.000 Tiere in rund 150 Arten."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s198",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "tyrolean-folk-art-museum-innsbruck",
+  "slug_de": "tiroler-volkskunstmuseum-innsbruck",
+  "title": {
+   "nl": "Tiroler Volkskunstmuseum Innsbruck",
+   "en": "Tyrolean Folk Art Museum, Innsbruck",
+   "de": "Tiroler Volkskunstmuseum Innsbruck"
+  },
+  "tagline": {
+   "nl": "Maskers, klederdracht en boerenkunst in een oud klooster naast de Hofkirche",
+   "en": "Masks, costumes and folk crafts in a former monastery beside the Hofkirche",
+   "de": "Masken, Trachten und Volkskunst in einem ehemaligen Kloster neben der Hofkirche"
+  },
+  "intro": {
+   "nl": "Het Tiroler Volkskunstmuseum zit in een voormalig franciscanenklooster, direct naast de Hofkirche en dicht bij de Altstadt van Innsbruck. De vleugels van het klooster staan rond een renaissancistische binnenplaats met arcaden. De collectie draait om ambacht, feesten, gebruiken, geloof en bijgeloof in Tirol.\n\nJe ziet er onder meer klederdracht, maskers, boerenmeubels, textiel, glas, aardewerk en gereedschap uit verschillende delen van Tirol. Voor kinderen is vooral het zoeken naar details leuk, zoals de maskers. Reken op ruim een uur; het museum combineert goed met een rondgang door de binnenstad.",
+   "en": "The Tyrolean Folk Art Museum is housed in a former Franciscan monastery, right next to the Hofkirche and close to Innsbruck's old town. The monastery wings surround an arcaded Renaissance courtyard. The collection revolves around crafts, festivals, customs, faith and superstition in Tyrol.\n\nAmong other things you see costumes, masks, farmhouse furniture, textiles, glass, pottery and tools from different parts of Tyrol. Children mostly enjoy hunting for details, such as the masks. Allow a good hour; the museum combines well with a stroll through the city centre.",
+   "de": "Das Tiroler Volkskunstmuseum befindet sich in einem ehemaligen Franziskanerkloster, direkt neben der Hofkirche und nahe der Altstadt von Innsbruck. Die Klosterflügel gruppieren sich um einen Renaissance-Arkadenhof. Die Sammlung dreht sich um Handwerk, Feste, Brauchtum, Glauben und Aberglauben in Tirol.\n\nZu sehen sind unter anderem Trachten, Masken, Bauernmöbel, Textilien, Glas, Keramik und Werkzeug aus verschiedenen Teilen Tirols. Kinder haben vor allem Spaß daran, Details zu entdecken, etwa bei den Masken. Plane gut eine Stunde ein; das Museum lässt sich gut mit einem Bummel durch die Innenstadt verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Zoek de maskers en de klederdracht op; de details verschillen per zaal.",
+    "Laat kinderen een paar maskers uitkiezen om later te tekenen.",
+    "Combineer het museum met de Hofkirche en de Altstadt, die vlakbij liggen."
+   ],
+   "en": [
+    "Look out for the masks and costumes; the details differ from room to room.",
+    "Let children pick a few masks to draw later.",
+    "Combine the museum with the Hofkirche and the old town, both close by."
+   ],
+   "de": [
+    "Achte auf die Masken und Trachten; die Details unterscheiden sich von Raum zu Raum.",
+    "Lass Kinder einige Masken zum späteren Zeichnen aussuchen.",
+    "Verbinde das Museum mit Hofkirche und Altstadt, die ganz in der Nähe liegen."
+   ]
+  },
+  "practical": {
+   "nl": "Innsbruck ligt ca. 1 uur rijden van Niederau via de A12. Parkeer in een parkeergarage in het centrum, of ga met de trein vanaf Wörgl; het museum ligt op loopafstand van de Altstadt.",
+   "en": "Innsbruck is about 1 hour by car from Niederau via the A12. Park in a city-centre car park, or take the train from Wörgl; the museum is within walking distance of the old town.",
+   "de": "Innsbruck liegt etwa 1 Stunde Autofahrt von Niederau entfernt über die A12. Parken Sie in einer Garage im Zentrum oder fahren Sie mit der Bahn ab Wörgl; das Museum liegt fußläufig zur Altstadt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From approx. 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 1,5 uur",
+    "en": "Approx. 1 to 1.5 hours",
+    "de": "Ca. 1 bis 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Entree; actuele prijzen op de officiële website",
+    "en": "Admission charged; see the official website for current prices",
+    "de": "Eintritt; aktuelle Preise auf der offiziellen Website"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (controleer openingstijden)",
+    "en": "All year (check opening hours)",
+    "de": "Ganzjährig (Öffnungszeiten prüfen)"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck (Altstadt)",
+   "en": "Innsbruck (old town)",
+   "de": "Innsbruck (Altstadt)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt het Tiroler Volkskunstmuseum?",
+     "en": "Where is the Tyrolean Folk Art Museum?",
+     "de": "Wo liegt das Tiroler Volkskunstmuseum?"
+    },
+    "a": {
+     "nl": "In het voormalige franciscanenklooster naast de Hofkirche, dicht bij de Altstadt van Innsbruck.",
+     "en": "In the former Franciscan monastery beside the Hofkirche, close to Innsbruck's old town.",
+     "de": "Im ehemaligen Franziskanerkloster neben der Hofkirche, nahe der Altstadt von Innsbruck."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s201",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "innsbruck-old-town-day-trip",
+  "slug_de": "innsbruck-altstadt-tagesausflug",
+  "title": {
+   "nl": "Innsbruck Altstadt en Hofburg",
+   "en": "Innsbruck old town and Hofburg",
+   "de": "Innsbruck Altstadt und Hofburg"
+  },
+  "tagline": {
+   "nl": "Dagje stad met het Goldenes Dachl, de Hofburg en de Nordkette",
+   "en": "A city day out with the Golden Roof, the Hofburg and the Nordkette",
+   "de": "Stadttag mit Goldenem Dachl, Hofburg und Nordkette"
+  },
+  "intro": {
+   "nl": "Innsbruck is de hoofdstad van Tirol en een prettige stad voor een dag: de Altstadt is compact en grotendeels autovrij. Het Goldenes Dachl, het balkon met 2.657 vergulde koperen schindels dat keizer Maximiliaan I liet bouwen, is het bekendste punt. Daarnaast liggen de Hofburg en de middeleeuwse straatjes met arcaden.\n\nWie wil, combineert de stad met de Nordkettenbahn, die in drie stukken van het centrum naar de Hafelekar omhoogrijdt. Een kaart zoals de Innsbruck Card kan lonen als u meerdere bezienswaardigheden en liften bezoekt; reken vooraf na of dat bij uw plan past. Met kinderen werkt een half programma meestal beter dan alles in een dag.",
+   "en": "Innsbruck is the capital of Tyrol and a pleasant city for a day out: the old town is compact and largely car-free. The Golden Roof, the balcony with 2,657 gilded copper shingles built for Emperor Maximilian I, is the best-known landmark. Close by are the Hofburg and the medieval arcaded streets.\n\nIf you like, combine the city with the Nordkette cable car, which climbs from the centre to the Hafelekar in three stages. A pass such as the Innsbruck Card can pay off if you visit several sights and lifts; work out beforehand whether it fits your plan. With children, a partial programme usually works better than trying to do everything in one day.",
+   "de": "Innsbruck ist die Hauptstadt Tirols und ein angenehmes Ziel für einen Tag: Die Altstadt ist kompakt und weitgehend autofrei. Das Goldene Dachl, der Prunkerker mit 2.657 vergoldeten Kupferschindeln für Kaiser Maximilian I., ist das bekannteste Wahrzeichen. Ganz in der Nähe liegen die Hofburg und die mittelalterlichen Lauben-Gassen.\n\nWer möchte, verbindet die Stadt mit der Nordkettenbahn, die in drei Abschnitten vom Zentrum zum Hafelekar hinaufführt. Eine Karte wie die Innsbruck Card kann sich lohnen, wenn Sie mehrere Sehenswürdigkeiten und Bergbahnen besuchen; rechnen Sie vorab nach, ob sie zu Ihrem Plan passt. Mit Kindern funktioniert ein Teilprogramm meist besser als alles an einem Tag."
+  },
+  "tips": {
+   "nl": [
+    "Ga met de trein vanaf Wörgl; parkeren in het centrum is duur en druk.",
+    "Reken vooraf na of de Innsbruck Card loont voor uw programma.",
+    "Pak de Nordkettenbahn bij voorkeur 's ochtends, dan is het rustiger.",
+    "Kies per dag twee of drie bezienswaardigheden in plaats van alles."
+   ],
+   "en": [
+    "Take the train from Wörgl; parking in the centre is expensive and busy.",
+    "Work out in advance whether the Innsbruck Card pays off for your plans.",
+    "Ride the Nordkette cable car in the morning when it is quieter.",
+    "Choose two or three sights per day instead of trying to see everything."
+   ],
+   "de": [
+    "Fahren Sie mit der Bahn ab Wörgl; Parken im Zentrum ist teuer und voll.",
+    "Rechnen Sie vorab nach, ob sich die Innsbruck Card für Ihr Programm lohnt.",
+    "Fahren Sie mit der Nordkettenbahn am besten vormittags, dann ist es ruhiger.",
+    "Wählen Sie pro Tag zwei oder drei Sehenswürdigkeiten statt alles zu sehen."
+   ]
+  },
+  "practical": {
+   "nl": "Innsbruck ligt ca. 1 uur rijden van Niederau via de A12. Met de trein kan het ook: neem vanuit Wörgl de regionale trein of een Railjet naar Innsbruck Hbf (ca. 30 tot 40 minuten); de Altstadt ligt op loopafstand van het station.",
+   "en": "Innsbruck is about 1 hour by car from Niederau via the A12. The train works too: take a regional train or Railjet from Wörgl to Innsbruck Hbf (approx. 30 to 40 minutes); the old town is a short walk from the station.",
+   "de": "Innsbruck liegt etwa 1 Stunde Autofahrt von Niederau entfernt über die A12. Auch die Bahn ist eine gute Option: Von Wörgl fahren Regionalzug oder Railjet nach Innsbruck Hbf (ca. 30 bis 40 Minuten); die Altstadt ist vom Bahnhof zu Fuß erreichbar."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Wisselt per bezienswaardigheid; Innsbruck Card optioneel",
+    "en": "Varies by sight; Innsbruck Card optional",
+    "de": "Je nach Sehenswürdigkeit; Innsbruck Card optional"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck",
+   "en": "Innsbruck",
+   "de": "Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe kom ik zonder auto in Innsbruck?",
+     "en": "How do I get to Innsbruck without a car?",
+     "de": "Wie komme ich ohne Auto nach Innsbruck?"
+    },
+    "a": {
+     "nl": "Met de trein vanaf Wörgl naar Innsbruck Hbf; de Altstadt ligt op loopafstand van het station.",
+     "en": "By train from Wörgl to Innsbruck Hbf; the old town is within walking distance of the station.",
+     "de": "Mit der Bahn von Wörgl nach Innsbruck Hbf; die Altstadt ist vom Bahnhof zu Fuß erreichbar."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s208",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "innsbruck-festival-of-early-music",
+  "slug_de": "innsbrucker-festwochen-der-alten-musik",
+  "title": {
+   "nl": "Innsbrucker Festwochen der Alten Musik",
+   "en": "Innsbruck Festival of Early Music",
+   "de": "Innsbrucker Festwochen der Alten Musik"
+  },
+  "tagline": {
+   "nl": "Barokmuziek op oorspronkelijke instrumenten in historische zalen",
+   "en": "Baroque music on period instruments in historic venues",
+   "de": "Barockmusik auf Originalinstrumenten in historischen Sälen"
+  },
+  "intro": {
+   "nl": "De Innsbrucker Festwochen der Alten Musik bestaan sinds 1976 en horen tot de bekendste festivals voor barokmuziek in Europa. In 2026 was het de 50e editie, die liep van 24 juli tot 30 augustus. Ook in andere jaren vindt het festival in de zomer plaats; controleer de actuele data.\n\nDe concerten vinden plaats op ongeveer dertig historische locaties in en rond Innsbruck, zoals Schloss Ambras, de Hofburg, de Hofkirche en kerken. Muziek uit renaissance en barok wordt gespeeld op instrumenten uit die tijd. Het programma is vooral geschikt voor muziekliefhebbers en oudere kinderen; het programmaboekje helpt bij het zoeken naar geschikte concerten.",
+   "en": "The Innsbruck Festival of Early Music has run since 1976 and is among the best-known Baroque music festivals in Europe. In 2026 it was the 50th edition, running from 24 July to 30 August. It takes place in summer in other years too; check the current dates.\n\nConcerts are held at about thirty historic venues in and around Innsbruck, such as Ambras Castle, the Hofburg, the Hofkirche and churches. Renaissance and Baroque music is played on period instruments. The programme suits music lovers and older children best; the programme book helps you find suitable concerts.",
+   "de": "Die Innsbrucker Festwochen der Alten Musik gibt es seit 1976, sie zählen zu den bekanntesten Festivals für Barockmusik in Europa. 2026 war es die 50. Ausgabe, sie lief vom 24. Juli bis 30. August. Auch in anderen Jahren findet das Festival im Sommer statt; aktuelle Termine bitte prüfen.\n\nDie Konzerte finden an rund dreißig historischen Orten in und um Innsbruck statt, etwa im Schloss Ambras, in der Hofburg, der Hofkirche und in Kirchen. Musik aus Renaissance und Barock erklingt auf Instrumenten der Zeit. Das Programm eignet sich am besten für Musikliebhaber und ältere Kinder; das Programmbuch hilft bei der Suche nach passenden Konzerten."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer populaire concerten ruim van tevoren via de officiële website.",
+    "Bekijk het programmaboekje voor kindvriendelijke of kortere concerten.",
+    "Combineer een concert in Schloss Ambras met een bezoek aan het kasteel zelf.",
+    "Houd rekening met de terugrit; avondconcerten eindigen laat."
+   ],
+   "en": [
+    "Book popular concerts well in advance via the official website.",
+    "Look in the programme book for child-friendly or shorter concerts.",
+    "Combine a concert at Ambras Castle with a visit to the castle itself.",
+    "Plan for the drive back; evening concerts end late."
+   ],
+   "de": [
+    "Buchen Sie gefragte Konzerte rechtzeitig über die offizielle Website.",
+    "Suchen Sie im Programmbuch nach kindgerechten oder kürzeren Konzerten.",
+    "Verbinden Sie ein Konzert auf Schloss Ambras mit dem Besuch des Schlosses.",
+    "Planen Sie die Rückfahrt ein; Abendkonzerte enden spät."
+   ]
+  },
+  "practical": {
+   "nl": "De concerten vinden plaats op verschillende locaties in Innsbruck, ca. 1 uur rijden van Niederau. Kijk per concert naar de locatie; de Altstadt is met de trein vanaf Wörgl goed te bereiken.",
+   "en": "Concerts take place at various venues in Innsbruck, about 1 hour by car from Niederau. Check the venue for each concert; the old town is easy to reach by train from Wörgl.",
+   "de": "Die Konzerte finden an verschiedenen Orten in Innsbruck statt, etwa 1 Stunde Autofahrt von Niederau entfernt. Prüfen Sie den Spielort je Konzert; die Altstadt ist mit der Bahn ab Wörgl gut erreichbar."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vooral tieners en volwassenen",
+    "en": "Mainly teenagers and adults",
+    "de": "Vor allem Jugendliche und Erwachsene"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur per concert (wisselt)",
+    "en": "Approx. 2 hours per concert (varies)",
+    "de": "Ca. 2 Stunden pro Konzert (variiert)"
+   },
+   "price": {
+    "nl": "Per concert verschillend; boeken via de officiële website",
+    "en": "Varies by concert; book via the official website",
+    "de": "Je nach Konzert unterschiedlich; Buchung über die offizielle Website"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (eind juli tot eind augustus)",
+    "en": "Summer (late July to late August)",
+    "de": "Sommer (Ende Juli bis Ende August)"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck",
+   "en": "Innsbruck",
+   "de": "Innsbruck"
+  },
+  "url": "https://www.altemusik.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer vinden de Festwochen der Alten Musik plaats?",
+     "en": "When is the Festival of Early Music held?",
+     "de": "Wann finden die Festwochen der Alten Musik statt?"
+    },
+    "a": {
+     "nl": "In de zomer; de 50e editie in 2026 liep van 24 juli tot 30 augustus. Controleer de data voor andere jaren.",
+     "en": "In summer; the 50th edition in 2026 ran from 24 July to 30 August. Check the dates for other years.",
+     "de": "Im Sommer; die 50. Ausgabe 2026 lief vom 24. Juli bis 30. August. Für andere Jahre die Termine prüfen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s232",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "ambras-castle-innsbruck",
+  "slug_de": "schloss-ambras-innsbruck",
+  "title": {
+   "nl": "Schloss Ambras Innsbruck",
+   "en": "Ambras Castle, Innsbruck",
+   "de": "Schloss Ambras Innsbruck"
+  },
+  "tagline": {
+   "nl": "Renaissanceslot met kunst- en wonderkamer boven Innsbruck",
+   "en": "Renaissance castle with a cabinet of curiosities above Innsbruck",
+   "de": "Renaissanceschloss mit Kunst- und Wunderkammer über Innsbruck"
+  },
+  "intro": {
+   "nl": "Aartshertog Ferdinand II (1529-1595) liet het middeleeuwse Ambras uitbouwen tot een renaissancepaleis, als geschenk voor zijn vrouw Philippine Welser, een koopmansdochter uit Augsburg. Het slot wordt het oudste museum ter wereld genoemd en bewaart de verzamelingen van de aartshertog.\n\nDe Kunst- und Wunderkammer is de enige renaissancistische kunstkamer die nog op de oorspronkelijke plek bewaard is. De Spaanse Zaal geldt als een van de mooiste renaissancezalen, en ook het bad van Philippine is bewaard gebleven. Rond het slot ligt een park waar kinderen na het bezoek kunnen rennen. Reken op ca. twee uur.",
+   "en": "Archduke Ferdinand II (1529-1595) had medieval Ambras extended into a Renaissance palace as a gift for his wife Philippine Welser, a merchant's daughter from Augsburg. The castle is regarded as the oldest museum in the world and keeps the archduke's collections.\n\nThe Kunst- und Wunderkammer is the only Renaissance cabinet of art and curiosities preserved in its original location. The Spanish Hall counts among the finest Renaissance halls, and Philippine's bath has survived too. A park surrounds the castle, where children can run around after the visit. Allow about two hours.",
+   "de": "Erzherzog Ferdinand II. (1529-1595) ließ das mittelalterliche Ambras als Geschenk für seine Frau Philippine Welser, eine Augsburger Kaufmannstochter, zu einem Renaissanceschloss ausbauen. Das Schloss gilt als ältestes Museum der Welt und bewahrt die Sammlungen des Erzherzogs.\n\nDie Kunst- und Wunderkammer ist die einzige Renaissance-Kunstkammer, die noch an ihrem ursprünglichen Ort erhalten ist. Der Spanische Saal zählt zu den schönsten Renaissancesälen, und auch das Bad der Philippine ist erhalten. Rund um das Schloss liegt ein Park, in dem Kinder nach dem Besuch toben können. Plane etwa zwei Stunden ein."
+  },
+  "tips": {
+   "nl": [
+    "Bezoek de Wunderkammer; kinderen vinden de vreemde voorwerpen meestal leuk.",
+    "Neem de tijd voor de Spaanse Zaal.",
+    "Gebruik het park voor een pauze of picknick na het bezoek."
+   ],
+   "en": [
+    "Visit the Wunderkammer; children usually enjoy the unusual objects.",
+    "Take your time in the Spanish Hall.",
+    "Use the park for a break or picnic after the visit."
+   ],
+   "de": [
+    "Besuche die Wunderkammer; Kinder mögen die ungewöhnlichen Objekte meist.",
+    "Nimm dir Zeit für den Spanischen Saal.",
+    "Nutze den Park nach dem Besuch für eine Pause oder ein Picknick."
+   ]
+  },
+  "practical": {
+   "nl": "Schloss Ambras ligt aan de oostkant van Innsbruck, ca. 1 uur rijden vanaf Niederau via de A12. Informeer vooraf naar openingstijden, prijzen en openbaar vervoer.",
+   "en": "Ambras Castle is on the eastern side of Innsbruck, about 1 hour by car from Niederau via the A12. Check opening times, prices and public transport beforehand.",
+   "de": "Schloss Ambras liegt im Osten von Innsbruck, etwa 1 Stunde Autofahrt von Niederau entfernt über die A12. Öffnungszeiten, Preise und öffentliche Verbindungen vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From approx. 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "Approx. 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Entree; actuele prijzen op de officiële website",
+    "en": "Admission charged; see the official website for current prices",
+    "de": "Eintritt; aktuelle Preise auf der offiziellen Website"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (controleer openingstijden)",
+    "en": "All year (check opening hours)",
+    "de": "Ganzjährig (Öffnungszeiten prüfen)"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck-Amras",
+   "en": "Innsbruck-Amras",
+   "de": "Innsbruck-Amras"
+  },
+  "url": "https://www.schlossambras-innsbruck.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Voor wie liet Ferdinand II Schloss Ambras uitbouwen?",
+     "en": "For whom did Ferdinand II have Ambras Castle extended?",
+     "de": "Für wen ließ Ferdinand II. Schloss Ambras ausbauen?"
+    },
+    "a": {
+     "nl": "Voor zijn vrouw Philippine Welser, een koopmansdochter uit Augsburg.",
+     "en": "For his wife Philippine Welser, a merchant's daughter from Augsburg.",
+     "de": "Für seine Frau Philippine Welser, eine Augsburger Kaufmannstochter."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s68",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "tirol-panorama-innsbruck",
+  "slug_de": "tirol-panorama-innsbruck",
+  "title": {
+   "nl": "Tirol Panorama Innsbruck",
+   "en": "Tirol Panorama, Innsbruck",
+   "de": "Tirol Panorama Innsbruck"
+  },
+  "tagline": {
+   "nl": "Rondschilderij van de slag om de Bergisel en het Kaiserjägermuseum",
+   "en": "Giant circular painting of the Battle of Bergisel and the Kaiserjäger museum",
+   "de": "Riesenrundgemälde der Bergiselschlacht und Kaiserjägermuseum"
+  },
+  "intro": {
+   "nl": "Op de Bergisel bij Innsbruck staat het Tirol Panorama, geopend in 2011. Het hart is het Riesenrundgemälde: een rondschilderij uit 1896 van 1.000 m² dat de derde slag om de Bergisel van 13 augustus 1809 toont. Het werd door de Münchense schilder Zeno Diemer gemaakt onder leiding van Franz von Defregger en is een van maar twintig klassieke rondschilderijen die nog bestaan.\n\nNaast het panorama zijn er de vaste tentoonstelling Schauplatz Tirol en het Kaiserjägermuseum, dat de militaire geschiedenis van de Tiroolse keizerjagers vertelt. Kinderen vinden het panorama vaak indrukwekkend door het formaat en de vele details. Reken op ongeveer anderhalf uur.",
+   "en": "On the Bergisel above Innsbruck stands the Tirol Panorama, opened in 2011. Its heart is the Riesenrundgemälde: a 1,000 m² circular painting from 1896 showing the third Battle of Bergisel on 13 August 1809. It was made by the Munich painter Zeno Diemer under the supervision of Franz von Defregger and is one of only twenty classic circular paintings still in existence.\n\nBesides the panorama there is the permanent exhibition Schauplatz Tirol and the Kaiserjäger museum, which tells the military history of the Tyrolean Kaiserjäger regiment. Children often find the panorama impressive for its size and the many details. Allow about an hour and a half.",
+   "de": "Auf dem Bergisel bei Innsbruck steht das Tirol Panorama, eröffnet 2011. Sein Herzstück ist das Riesenrundgemälde: ein Rundbild von 1896 mit 1.000 m², das die dritte Bergiselschlacht vom 13. August 1809 zeigt. Es wurde vom Münchner Maler Zeno Diemer unter Leitung von Franz von Defregger geschaffen und ist eines von nur zwanzig klassischen Riesenrundgemälden, die noch existieren.\n\nNeben dem Panorama gibt es die Dauerausstellung Schauplatz Tirol und das Kaiserjägermuseum, das die Militärgeschichte der Tiroler Kaiserjäger erzählt. Kinder finden das Panorama oft wegen seiner Größe und der vielen Details beeindruckend. Planen Sie etwa anderthalb Stunden ein."
+  },
+  "tips": {
+   "nl": [
+    "Laat kinderen zoeken naar kleine details in het rondschilderij.",
+    "Combineer met de skischans Bergisel, die vlakbij ligt.",
+    "Kies een regenachtige dag; het meeste is binnen."
+   ],
+   "en": [
+    "Let children search for small details in the circular painting.",
+    "Combine with the Bergisel ski jump, which is close by.",
+    "Choose a rainy day; most of it is indoors."
+   ],
+   "de": [
+    "Lass Kinder kleine Details im Rundgemälde suchen.",
+    "Verbinde den Besuch mit der nahen Bergisel-Schanze.",
+    "Wähle einen Regentag; das meiste findet drinnen statt."
+   ]
+  },
+  "practical": {
+   "nl": "Het museum ligt op de Bergisel, aan de zuidkant van Innsbruck, ca. 1 uur rijden vanaf Niederau via de A12. Volg de borden Bergisel en informeer vooraf naar openingstijden en parkeren.",
+   "en": "The museum is on the Bergisel at the southern edge of Innsbruck, about 1 hour by car from Niederau via the A12. Follow the signs for Bergisel and check opening times and parking beforehand.",
+   "de": "Das Museum liegt am Bergisel am Südrand von Innsbruck, etwa 1 Stunde Autofahrt von Niederau entfernt über die A12. Folge der Beschilderung Bergisel und erkundige dich vorab nach Öffnungszeiten und Parken."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From approx. 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Entree; actuele prijzen op de officiële website",
+    "en": "Admission charged; see the official website for current prices",
+    "de": "Eintritt; aktuelle Preise auf der offiziellen Website"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "Approx. 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (controleer openingstijden)",
+    "en": "All year (check opening hours)",
+    "de": "Ganzjährig (Öffnungszeiten prüfen)"
+   }
+  },
+  "location": {
+   "nl": "Bergisel, Innsbruck",
+   "en": "Bergisel, Innsbruck",
+   "de": "Bergisel, Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het Riesenrundgemälde?",
+     "en": "What is the Riesenrundgemälde?",
+     "de": "Was ist das Riesenrundgemälde?"
+    },
+    "a": {
+     "nl": "Een rondschilderij uit 1896 van 1.000 m² over de derde slag om de Bergisel in 1809, gemaakt door Zeno Diemer.",
+     "en": "A 1,000 m² circular painting from 1896 of the third Battle of Bergisel in 1809, made by Zeno Diemer.",
+     "de": "Ein Rundbild von 1896 mit 1.000 m² über die dritte Bergiselschlacht 1809, geschaffen von Zeno Diemer."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s153",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "day-trip-innsbruck",
+  "slug_de": "tagesausflug-innsbruck",
+  "title": {
+   "nl": "Dagtrip Innsbruck",
+   "en": "Day trip to Innsbruck",
+   "de": "Tagesausflug nach Innsbruck"
+  },
+  "tagline": {
+   "nl": "Tiroler hoofdstad met oude binnenstad, Gouden Dakje en bergbaan",
+   "en": "The Tyrolean capital with its old town, Golden Roof and mountain railway",
+   "de": "Tirols Hauptstadt mit Altstadt, Goldenem Dachl und Bergbahn"
+  },
+  "intro": {
+   "nl": "Innsbruck ligt op ca. een uur van Niederau en combineert een middeleeuwse binnenstad met bergen die letterlijk boven de straten oprijzen. Rond de smalle straten van de Altstadt staat het Goldenes Dachl, een erker met een verguld dak uit de late middeleeuwen, vlakbij de keizerlijke Hofburg.\n\nMet de Nordkettenbahn vanaf het centrum kom je in korte tijd op grote hoogte, waar het uitzicht over de stad en de Inntal reikt. Kinderen vinden de Alpenzoo en de oude binnenstad vaak de leukste onderdelen. Parkeren in het centrum is beperkt en kan duur zijn; park-and-ride of de trein vanaf Wörgl is vaak praktischer.",
+   "en": "Innsbruck is about an hour from Niederau and pairs a medieval old town with mountains that rise right above the streets. In the narrow lanes of the Altstadt stands the Goldenes Dachl, a late-medieval oriel with a gilded roof, close to the imperial Hofburg.\n\nThe Nordkettenbahn from the centre takes you to high altitude quickly, with views across the city and the Inn valley. Children often enjoy the Alpine Zoo and the old town most. Parking in the centre is limited and can be expensive; park and ride, or the train from Wörgl, is often more practical.",
+   "de": "Innsbruck liegt rund eine Stunde von Niederau entfernt und verbindet eine mittelalterliche Altstadt mit Bergen, die direkt über den Straßen aufragen. In den engen Gassen der Altstadt steht das Goldene Dachl, ein spätmittelalterlicher Erker mit vergoldetem Dach, unweit der kaiserlichen Hofburg.\n\nMit der Nordkettenbahn ab dem Zentrum gelangt man rasch in große Höhe, mit Blick über die Stadt und das Inntal. Kinder mögen oft den Alpenzoo und die Altstadt am meisten. Parkplätze im Zentrum sind begrenzt und teils teuer; Park & Ride oder die Bahn ab Wörgl sind oft praktischer."
+  },
+  "tips": {
+   "nl": [
+    "Kom bij voorkeur met de trein of gebruik een P+R; parkeren in het centrum is lastig.",
+    "Vraag naar de Innsbruck Card als je meerdere bezienswaardigheden wilt bezoeken; reken zelf na of dat loont.",
+    "Combineer de oude binnenstad met een bezoek aan Hofburg of Alpenzoo.",
+    "Let bij de bergbaan op het weer; bij mist is het uitzicht beperkt."
+   ],
+   "en": [
+    "Take the train or use a park and ride; parking in the centre is tricky.",
+    "Ask about the Innsbruck Card if you want to see several sights; work out yourself whether it pays off.",
+    "Combine the old town with a visit to the Hofburg or the Alpine Zoo.",
+    "Check the weather before taking the mountain railway; in fog the view is limited."
+   ],
+   "de": [
+    "Am besten mit der Bahn anreisen oder Park & Ride nutzen; Parken im Zentrum ist schwierig.",
+    "Zur Innsbruck Card informieren, wenn mehrere Sehenswürdigkeiten geplant sind; selbst nachrechnen, ob sie sich lohnt.",
+    "Altstadt mit einem Besuch der Hofburg oder des Alpenzoos verbinden.",
+    "Vor der Bergbahn das Wetter prüfen; bei Nebel ist die Aussicht eingeschränkt."
+   ]
+  },
+  "practical": {
+   "nl": "Met de auto is Innsbruck ca. 50 tot 60 minuten rijden via de A12 (Oostenrijkse vignet nodig). De trein vanaf Wörgl Hbf doet er ruim een halfuur over; Wörgl ligt ca. 20 minuten van Niederau.",
+   "en": "By car Innsbruck is about 50 to 60 minutes along the A12 (Austrian motorway vignette required). The train from Wörgl Hbf takes a little over half an hour; Wörgl is about 20 minutes from Niederau.",
+   "de": "Mit dem Auto ist Innsbruck über die A12 in ca. 50 bis 60 Minuten erreichbar (österreichische Vignette nötig). Der Zug ab Wörgl Hbf braucht gut eine halbe Stunde; Wörgl liegt etwa 20 Minuten von Niederau entfernt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganztägig"
+   },
+   "price": {
+    "nl": "Wisselt per bezienswaardigheid; informeer vooraf",
+    "en": "Varies by sight; check beforehand",
+    "de": "Je nach Sehenswürdigkeit unterschiedlich; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 tot 60 min rijden",
+    "en": "About 50 to 60 min by car",
+    "de": "Ca. 50 bis 60 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck, Tirol",
+   "en": "Innsbruck, Tyrol",
+   "de": "Innsbruck, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Innsbruck beter met trein of auto te bezoeken?",
+     "en": "Is Innsbruck better visited by train or car?",
+     "de": "Ist Innsbruck besser mit Bahn oder Auto zu besuchen?"
+    },
+    "a": {
+     "nl": "De trein vanaf Wörgl is vaak het gemakkelijkst, omdat parkeren in het centrum beperkt is. Met de auto kun je een P+R gebruiken.",
+     "en": "The train from Wörgl is often easiest because parking in the centre is limited. By car you can use a park and ride.",
+     "de": "Die Bahn ab Wörgl ist oft am bequemsten, da Parkplätze im Zentrum begrenzt sind. Mit dem Auto bietet sich Park & Ride an."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s93",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "hofburg-innsbruck",
+  "slug_de": "hofburg-innsbruck",
+  "title": {
+   "nl": "Hofburg Innsbruck",
+   "en": "Hofburg Innsbruck",
+   "de": "Hofburg Innsbruck"
+  },
+  "tagline": {
+   "nl": "Keizerlijk paleis met staatsvertrekken uit de tijd van Maria Theresia",
+   "en": "Imperial palace with state rooms from the era of Maria Theresa",
+   "de": "Kaiserliche Residenz mit Prunkräumen aus der Zeit Maria Theresias"
+  },
+  "intro": {
+   "nl": "De Hofburg aan de oostkant van de Innsbrucker oude stad was een Habsburgse residentie. Keizerin Maria Theresia liet het gebouw in de 18e eeuw in rococostijl verbouwen; die stijl is nog steeds te zien.\n\nBezoekers lopen door de staatsvertrekken en de keizerlijke appartementen. Het meest opvallend is de Riesensaal, een zaal van ruim 31 meter lang met levensgrote portretten van Maria Theresia, haar man en hun kinderen. Voor kinderen is het vooral een verhalenmuseum over het leven aan het hof; plan er ca. anderhalf uur voor. Vlakbij ligt de Hofgarten, handig voor een pauze.",
+   "en": "The Hofburg at the eastern edge of Innsbruck's old town was a Habsburg residence. In the 18th century Empress Maria Theresa had it rebuilt in rococo style; that style can still be seen today.\n\nVisitors walk through the state rooms and the imperial apartments. Most striking is the Giant Hall (Riesensaal), more than 31 metres long, with life-size portraits of Maria Theresa, her husband and their children. For children it is mainly a storytelling museum about court life; allow about an hour and a half. The Hofgarten is close by, handy for a break.",
+   "de": "Die Hofburg am östlichen Rand der Innsbrucker Altstadt war eine Residenz der Habsburger. Kaiserin Maria Theresia ließ das Gebäude im 18. Jahrhundert im Rokokostil umbauen; dieser Stil ist bis heute zu sehen.\n\nBesucher gehen durch die Prunkräume und die Kaiserappartements. Am eindrucksvollsten ist der Riesensaal, über 31 Meter lang, mit lebensgroßen Porträts Maria Theresias, ihres Mannes und ihrer Kinder. Für Kinder ist es vor allem ein Erzählmuseum über das Leben am Hof; rund anderthalb Stunden einplanen. Der Hofgarten liegt in der Nähe und eignet sich für eine Pause."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij de kassa naar een audiogids of een kinderroute.",
+    "Combineer met het nabijgelegen Goldenes Dachl en de oude binnenstad.",
+    "Neem na het bezoek een pauze in de Hofgarten.",
+    "Controleer vooraf de openingstijden en prijzen."
+   ],
+   "en": [
+    "Ask at the ticket desk about an audio guide or a children's trail.",
+    "Combine with the nearby Goldenes Dachl and the old town.",
+    "Take a break in the Hofgarten after your visit.",
+    "Check opening times and prices beforehand."
+   ],
+   "de": [
+    "An der Kasse nach Audioguide oder Kinderführung fragen.",
+    "Mit dem nahen Goldenen Dachl und der Altstadt verbinden.",
+    "Nach dem Besuch eine Pause im Hofgarten einlegen.",
+    "Öffnungszeiten und Preise vorab prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "De Hofburg ligt in het centrum van Innsbruck, ca. 50 tot 60 minuten rijden van Niederau. Parkeer in een garage in de buurt of kom met de trein vanaf Wörgl; informeer vooraf naar openingstijden.",
+   "en": "The Hofburg is in central Innsbruck, about 50 to 60 minutes' drive from Niederau. Park in a nearby car park or take the train from Wörgl; check opening times beforehand.",
+   "de": "Die Hofburg liegt im Zentrum von Innsbruck, ca. 50 bis 60 Fahrminuten von Niederau entfernt. Parke in einem nahen Parkhaus oder fahre mit der Bahn ab Wörgl; Öffnungszeiten vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vooral leuk vanaf ca. 6 jaar",
+    "en": "Most fun from about 6 years",
+    "de": "Vor allem ab ca. 6 Jahren spannend"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Entree wisselt; kinderen betalen minder, informeer vooraf",
+    "en": "Admission varies; children pay less, check beforehand",
+    "de": "Eintritt variiert; Kinder zahlen weniger, vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 tot 60 min rijden",
+    "en": "About 50 to 60 min by car",
+    "de": "Ca. 50 bis 60 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck, Tirol",
+   "en": "Innsbruck, Tyrol",
+   "de": "Innsbruck, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang duurt een bezoek aan de Hofburg?",
+     "en": "How long does a Hofburg visit take?",
+     "de": "Wie lange dauert ein Besuch der Hofburg?"
+    },
+    "a": {
+     "nl": "Reken op ongeveer anderhalf uur voor de staatsvertrekken en appartementen.",
+     "en": "Allow about an hour and a half for the state rooms and apartments.",
+     "de": "Für Prunkräume und Appartements sollte man etwa anderthalb Stunden einplanen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "w34",
+  "drop": true,
+  "drop_reason": "Dubbel met s182 (Alpenzoo Innsbruck, zelfde slug); s182 is de bevestigde versie.",
+  "place": "innsbruck",
+  "slug_en": "alpenzoo-innsbruck",
+  "slug_de": "alpenzoo-innsbruck",
+  "title": {
+   "nl": "Alpenzoo Innsbruck",
+   "en": "Alpenzoo Innsbruck",
+   "de": "Alpenzoo Innsbruck"
+  },
+  "tagline": {
+   "nl": "Dierentuin met alleen dieren uit de Alpen, hoog boven de stad",
+   "en": "Zoo with only Alpine animals, high above the city",
+   "de": "Zoo nur mit Alpentieren, hoch über der Stadt"
+  },
+  "intro": {
+   "nl": "De Alpenzoo ligt op ca. 727 meter hoogte aan de rand van Innsbruck en geldt als de hoogst gelegen dierentuin van Europa. Het is een themadierentuin, dus je ziet hier alleen dieren uit de Alpen en Europa: wolven, lynxen, steenbokken, otters, roofvogels en meer; samen ruim 2000 dieren van ca. 150 soorten.\n\nHet pad voert langs verblijven op een heuvel, met mooi uitzicht over de stad. Voor kinderen is het een overzichtelijk bezoek, voor gezinnen goed te combineren met een stadsdag in Innsbruck. Je kunt er te voet, met de bus of via de Hungerburgbahn komen; vanaf het bergstation loop je ca. 400 meter.",
+   "en": "The Alpenzoo stands at about 727 metres on the edge of Innsbruck and is regarded as Europe's highest zoo. It is a theme zoo, so you only see animals from the Alps and Europe: wolves, lynx, ibex, otters, birds of prey and more; together over 2,000 animals of about 150 species.\n\nThe path leads past enclosures on a hillside, with fine views over the city. For children it is a manageable visit and combines well with a city day in Innsbruck. You can get there on foot, by bus or via the Hungerburg funicular; from the station it is roughly 400 metres.",
+   "de": "Der Alpenzoo liegt auf ca. 727 Metern Höhe am Rand von Innsbruck und gilt als höchstgelegener Zoo Europas. Es ist ein Themenzoo, hier sieht man also nur Tiere aus den Alpen und Europa: Wölfe, Luchse, Steinböcke, Fischotter, Greifvögel und mehr; insgesamt über 2.000 Tiere aus rund 150 Arten.\n\nDer Weg führt an Gehegen an einem Hang vorbei, mit schöner Aussicht über die Stadt. Für Kinder ist der Besuch überschaubar und gut mit einem Stadttag in Innsbruck kombinierbar. Man erreicht ihn zu Fuß, mit dem Bus oder über die Hungerburgbahn; von der Station sind es etwa 400 Meter."
+  },
+  "tips": {
+   "nl": [
+    "Kom met de Hungerburgbahn en loop het laatste stuk; dat bespaart parkeerstress.",
+    "Controleer vooraf de openingstijden: zomers langer open dan in de winter.",
+    "Neem comfortabele schoenen mee; het terrein loopt omhoog.",
+    "Combineer het met een wandeling door de oude binnenstad."
+   ],
+   "en": [
+    "Take the Hungerburg funicular and walk the last stretch; it saves parking stress.",
+    "Check opening hours beforehand: longer in summer than in winter.",
+    "Wear comfortable shoes; the grounds are on a slope.",
+    "Combine with a walk through the old town."
+   ],
+   "de": [
+    "Mit der Hungerburgbahn anreisen und das letzte Stück gehen; das spart Parkplatzstress.",
+    "Öffnungszeiten vorab prüfen: im Sommer länger als im Winter.",
+    "Bequeme Schuhe tragen; das Gelände liegt am Hang.",
+    "Mit einem Spaziergang durch die Altstadt verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Innsbruck is ca. 50 tot 60 minuten rijden van Niederau. Bij de dierentuin is beperkte parkeergelegenheid; veel bezoekers komen met de bus of de Hungerburgbahn.",
+   "en": "Innsbruck is about 50 to 60 minutes' drive from Niederau. Parking near the zoo is limited; many visitors come by bus or the Hungerburg funicular.",
+   "de": "Innsbruck ist ca. 50 bis 60 Fahrminuten von Niederau entfernt. Am Zoo gibt es nur begrenzt Parkplätze; viele Besucher kommen mit Bus oder Hungerburgbahn."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Entree wisselt; kinderen betalen minder, informeer vooraf",
+    "en": "Admission varies; children pay less, check beforehand",
+    "de": "Eintritt variiert; Kinder zahlen weniger, vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 tot 60 min rijden",
+    "en": "About 50 to 60 min by car",
+    "de": "Ca. 50 bis 60 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck, Tirol",
+   "en": "Innsbruck, Tyrol",
+   "de": "Innsbruck, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke dieren zie je in de Alpenzoo?",
+     "en": "Which animals can you see at the Alpenzoo?",
+     "de": "Welche Tiere sieht man im Alpenzoo?"
+    },
+    "a": {
+     "nl": "Uitsluitend dieren uit de Alpen en Europa, zoals wolf, lynx, steenbok, otter en roofvogels.",
+     "en": "Only animals from the Alps and Europe, such as wolf, lynx, ibex, otter and birds of prey.",
+     "de": "Ausschließlich Tiere aus den Alpen und Europa, etwa Wolf, Luchs, Steinbock, Fischotter und Greifvögel."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "w42",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "olympic-bobsleigh-igls",
+  "slug_de": "olympia-bobbahn-igls",
+  "title": {
+   "nl": "Olympische bobbaan Igls",
+   "en": "Olympic bob run Igls",
+   "de": "Olympia-Bobbahn Igls"
+  },
+  "tagline": {
+   "nl": "Als passagier mee in een gastbob over de baan van de Winterspelen",
+   "en": "Ride as a passenger in a guest bob on the Winter Games track",
+   "de": "Als Gast im Taxi-Bob über die Bahn der Olympischen Winterspiele"
+  },
+  "intro": {
+   "nl": "In Igls, hoog boven Innsbruck, ligt de olympische bobslee- en rodelbaan, het Olympia Eiskanal, waar de Olympische Winterspelen van 1964 en 1976 werden gehouden. In het winterseizoen kunnen gasten meerijden in een gastbob, met een ervaren piloot en een remmer in een echte wedstrijdbob.\n\nDe rit is kort maar snel: de bob haalt snelheden tot ca. 115 km/u, met bochten en zijdelingse krachten. Het is een intense ervaring, niet voor jonge kinderen of wie snel misselijk wordt. De minimumleeftijd is 10 jaar. Reserveren wordt aangeraden; controleer tijden, prijzen en regels op de officiële site.",
+   "en": "At Igls, high above Innsbruck, lies the Olympic bobsleigh and luge track, the Olympia Eiskanal, where the 1964 and 1976 Winter Olympics were held. In the winter season guests can ride in a guest bob with an experienced pilot and a brakeman in a genuine racing bob.\n\nThe ride is short but fast: the bob reaches speeds of up to about 115 km/h, with bends and strong lateral forces. It is an intense experience, not for young children or anyone prone to motion sickness. The minimum age is 10 years. Booking is recommended; check times, prices and rules on the official site.",
+   "de": "In Igls, hoch über Innsbruck, liegt die Olympia-Bob- und Rodelbahn, der Olympia Eiskanal, auf dem 1964 und 1976 die Olympischen Winterspiele stattfanden. Im Winter können Gäste in einem Gästebob mitfahren, mit einem erfahrenen Piloten und einem Bremser in einem echten Rennbob.\n\nDie Fahrt ist kurz, aber schnell: Der Bob erreicht Geschwindigkeiten von bis zu etwa 115 km/h, mit Kurven und starken Fliehkräften. Es ist ein intensives Erlebnis, nicht für kleine Kinder oder Menschen, denen schnell schlecht wird. Das Mindestalter beträgt 10 Jahre. Eine Reservierung wird empfohlen; Zeiten, Preise und Regeln auf der offiziellen Seite prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf; het aantal plaatsen kan beperkt zijn.",
+    "De minimumleeftijd is 10 jaar; controleer de actuele regels.",
+    "Kleed je warm en draag stevige schoenen.",
+    "Combineer met een bezoek aan de binnenstad van Innsbruck."
+   ],
+   "en": [
+    "Book ahead; places may be limited.",
+    "The minimum age is 10 years; check the current rules.",
+    "Dress warmly and wear sturdy shoes.",
+    "Combine with a visit to Innsbruck's old town."
+   ],
+   "de": [
+    "Vorab reservieren; die Plätze können begrenzt sein.",
+    "Das Mindestalter beträgt 10 Jahre; aktuelle Regeln prüfen.",
+    "Warm anziehen und festes Schuhwerk tragen.",
+    "Mit einem Besuch der Innsbrucker Altstadt verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Igls ligt ca. 55 tot 65 minuten rijden van Niederau via de A12 en Innsbruck. Reserveer en vraag vooraf naar tijden en parkeren.",
+   "en": "Igls is about 55 to 65 minutes' drive from Niederau via the A12 and Innsbruck. Book and ask about times and parking beforehand.",
+   "de": "Igls liegt ca. 55 bis 65 Fahrminuten von Niederau entfernt, über die A12 und Innsbruck. Vorab reservieren und Zeiten sowie Parken erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf 10 jaar",
+    "en": "From 10 years",
+    "de": "Ab 10 Jahren"
+   },
+   "duration": {
+    "nl": "Rit kort; totaal ca. 1 uur",
+    "en": "Short ride; about 1 hour in total",
+    "de": "Kurze Fahrt; insgesamt ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 55 tot 65 min rijden",
+    "en": "About 55 to 65 min by car",
+    "de": "Ca. 55 bis 65 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Igls, Innsbruck",
+   "en": "Igls, Innsbruck",
+   "de": "Igls, Innsbruck"
+  },
+  "url": "https://www.olympiaworld.at/en/die-arenen/olympia-eiskanal",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hard gaat een gastbob?",
+     "en": "How fast is a guest bob?",
+     "de": "Wie schnell ist ein Gästebob?"
+    },
+    "a": {
+     "nl": "Tot ca. 115 km/u; je zit samen met een piloot en een remmer in een echte wedstrijdbob.",
+     "en": "Up to about 115 km/h; you ride with a pilot and a brakeman in a genuine racing bob.",
+     "de": "Bis zu etwa 115 km/h; du fährst mit einem Piloten und einem Bremser in einem echten Rennbob."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s197",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "patscherkofel-cable-car-igls",
+  "slug_de": "patscherkofelbahn-igls",
+  "title": {
+   "nl": "Patscherkofelbahn (Igls)",
+   "en": "Patscherkofel cable car, Igls",
+   "de": "Patscherkofelbahn in Igls"
+  },
+  "tagline": {
+   "nl": "Met de kabelbaan van Igls naar de Innsbrucker huisberg",
+   "en": "By cable car from Igls up Innsbruck's local mountain",
+   "de": "Mit der Bahn von Igls auf Innsbrucks Hausberg"
+  },
+  "intro": {
+   "nl": "De Patscherkofelbahn vertrekt in Igls, een dorp tegen Innsbruck aan, en brengt je naar het bergstation op ruim 1.900 meter. Het is de huisberg van Innsbruck, met uitzicht over de stad, het Inntal en honderden bergtoppen. De gondelbaan rijdt in de zomer van eind mei tot eind oktober.\n\nBoven vind je een uitgebreid netwerk van wandelpaden, van korte rondjes tot tochten naar de top (2.248 m) en de Zirbenweg richting de Glungezer, een comfortabele hoogtepad door oude arvenbossen. Combineer de tocht met een bezoek aan de binnenstad van Innsbruck, maar plan het zo dat je niet alles op één dag wilt doen.",
+   "en": "The Patscherkofelbahn departs from Igls, a village on the edge of Innsbruck, and takes you to the top station at over 1,900 metres. It is Innsbruck's local mountain, with views over the city, the Inn valley and hundreds of peaks. In summer the cable car runs from late May to late October.\n\nUp top there is an extensive network of walking paths, from short loops to the summit (2,248 m) and the Zirbenweg towards the Glungezer, a comfortable high-level path through old stone pine forest. You can combine the trip with Innsbruck's old town, but plan it so that you do not try to do everything in one day.",
+   "de": "Die Patscherkofelbahn startet in Igls, einem Dorf am Rand von Innsbruck, und bringt dich zur Bergstation auf über 1.900 Metern. Es ist Innsbrucks Hausberg, mit Blick auf die Stadt, das Inntal und hunderte Gipfel. Im Sommer fährt die Bahn von Ende Mai bis Ende Oktober.\n\nOben gibt es ein dichtes Netz an Wanderwegen, von kurzen Runden bis zum Gipfel (2.248 m) und zum Zirbenweg Richtung Glungezer, einem bequemen Höhenweg durch alte Zirbenwälder. Du kannst den Ausflug mit der Innsbrucker Altstadt verbinden, plane aber nicht zu viel für einen Tag."
+  },
+  "tips": {
+   "nl": [
+    "Kies de wandelroute passend bij de kinderen; boven zijn korte en langere paden.",
+    "Neem een jas mee; het is boven koeler dan in de stad.",
+    "Combineer met een bezoek aan Innsbruck als het weer onzeker is."
+   ],
+   "en": [
+    "Choose a walking route to suit the children; there are shorter and longer paths at the top.",
+    "Bring a jacket; it is cooler up top than in the city.",
+    "Combine with a visit to Innsbruck if the weather is uncertain."
+   ],
+   "de": [
+    "Wähle eine Wanderroute passend zu den Kindern; oben gibt es kürzere und längere Wege.",
+    "Nimm eine Jacke mit; oben ist es kühler als in der Stadt.",
+    "Verbinde den Ausflug mit einem Innsbruck-Besuch, falls das Wetter unsicher ist."
+   ]
+  },
+  "practical": {
+   "nl": "Igls ligt ca. 1 uur rijden van Niederau, via de A12 richting Innsbruck. De bergbaan rijdt in de zomer ongeveer eind mei tot eind oktober; controleer vooraf de actuele tijden.",
+   "en": "Igls is about 1 hour by car from Niederau, via the A12 towards Innsbruck. In summer the cable car runs roughly from late May to late October; check current times beforehand.",
+   "de": "Igls liegt ca. 1 Stunde Autofahrt von Niederau entfernt, über die A12 Richtung Innsbruck. Im Sommer fährt die Bahn etwa von Ende Mai bis Ende Oktober; aktuelle Zeiten vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preise variieren; vorab erkundigen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 h by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Igls, Innsbruck",
+   "en": "Igls, Innsbruck",
+   "de": "Igls, Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar vertrekt de Patscherkofelbahn?",
+     "en": "Where does the Patscherkofelbahn depart?",
+     "de": "Wo startet die Patscherkofelbahn?"
+    },
+    "a": {
+     "nl": "In Igls, een dorp bij Innsbruck.",
+     "en": "In Igls, a village by Innsbruck.",
+     "de": "In Igls, einem Ort bei Innsbruck."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s207",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "alpine-garden-patscherkofel-innsbruck",
+  "slug_de": "alpengarten-patscherkofel-innsbruck",
+  "title": {
+   "nl": "Alpengarten Patscherkofel",
+   "en": "Patscherkofel Alpine Garden",
+   "de": "Alpengarten Patscherkofel"
+  },
+  "tagline": {
+   "nl": "Botanische berg­tuin van de universiteit boven Innsbruck-Igls",
+   "en": "University botanical alpine garden above Innsbruck-Igls",
+   "de": "Botanischer Alpengarten der Universität oberhalb von Innsbruck-Igls"
+  },
+  "intro": {
+   "nl": "De Alpengarten bij het bergstation van de Patscherkofelbahn hoort sinds 1930 bij de Universiteit van Innsbruck en geldt als de hoogstgelegen botanische tuin van Oostenrijk. Er groeien alpenplanten uit verschillende bergstreken en je krijgt een goed beeld van de Alpenflora.\n\nDe tuin ligt bij het bergstation van de gondel op ruim 1.900 meter. Je kunt de wandeling kort houden of combineren met een route over de Patscherkofel. Een rustige uitstap voor gezinnen met interesse in natuur. Informeer vooraf naar openingstijden van de tuin en de gondel.",
+   "en": "The Alpengarten near the top station of the Patscherkofelbahn has belonged to the University of Innsbruck since 1930 and is regarded as Austria's highest-altitude botanical garden. Alpine plants from various mountain regions grow here, giving a good picture of Alpine flora.\n\nThe garden lies by the gondola's top station at over 1,900 metres. You can keep the visit short or combine it with a walk on the Patscherkofel. A calm outing for families interested in nature. Check the opening times of the garden and the gondola beforehand.",
+   "de": "Der Alpengarten an der Bergstation der Patscherkofelbahn gehört seit 1930 zur Universität Innsbruck und gilt als höchstgelegener botanischer Garten Österreichs. Hier wachsen Alpenpflanzen aus verschiedenen Gebirgsregionen, die einen guten Eindruck der Alpenflora vermitteln.\n\nDer Garten liegt an der Bergstation der Bahn auf über 1.900 Metern. Man kann den Besuch kurz halten oder mit einer Wanderung am Patscherkofel verbinden. Ein ruhiger Ausflug für naturinteressierte Familien. Öffnungszeiten von Garten und Bahn vorab prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Laat kinderen planten zoeken; maak er een spel van.",
+    "Neem een jas mee: boven is het koeler dan in het dal.",
+    "Controleer vooraf de bedrijfstijden van de gondel."
+   ],
+   "en": [
+    "Let children look for plants and make it a game.",
+    "Take a jacket; it is cooler up top than in the valley.",
+    "Check the gondola's operating times beforehand."
+   ],
+   "de": [
+    "Lass Kinder Pflanzen suchen und mach ein Spiel daraus.",
+    "Nimm eine Jacke mit; oben ist es kühler als im Tal.",
+    "Prüfe vorab die Betriebszeiten der Bahn."
+   ]
+  },
+  "practical": {
+   "nl": "Igls ligt bij Innsbruck, ca. 1 uur rijden vanaf Niederau. Vanaf Igls gaat de Patscherkofelbahn omhoog; de tuin ligt bij het bergstation op ruim 1.900 m.",
+   "en": "Igls is near Innsbruck, about 1 hour by car from Niederau. The Patscherkofelbahn runs up from Igls; the garden is at the top station at over 1,900 m.",
+   "de": "Igls liegt bei Innsbruck, ca. 1 Stunde Fahrt von Niederau. Von Igls fährt die Patscherkofelbahn hinauf; der Garten liegt an der Bergstation auf über 1.900 m."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur tuin; gondel extra",
+    "en": "About 1.5 hours for the garden; gondola extra",
+    "de": "Ca. 1,5 Std. Garten; Gondel extra"
+   },
+   "price": {
+    "nl": "Informeer vooraf; gondel kost extra",
+    "en": "Check beforehand; gondola costs extra",
+    "de": "Vorab erkunden; Gondel kostet extra"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 hour by car",
+    "de": "Ca. 1 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Igls, Innsbruck",
+   "en": "Igls, Innsbruck",
+   "de": "Igls, Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt de Alpengarten Patscherkofel?",
+     "en": "Where is the Patscherkofel Alpine Garden?",
+     "de": "Wo liegt der Alpengarten Patscherkofel?"
+    },
+    "a": {
+     "nl": "Bij het bergstation van de Patscherkofelbahn boven Igls, op ruim 1.900 meter.",
+     "en": "By the top station of the Patscherkofelbahn above Igls, at over 1,900 metres.",
+     "de": "An der Bergstation der Patscherkofelbahn oberhalb von Igls, auf über 1.900 Metern."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s278",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "kitzbuehel",
+  "slug_en": "tennis-st-johann-tyrol",
+  "slug_de": "tennis-st-johann-tirol",
+  "title": {
+   "nl": "Tennis in St. Johann in Tirol",
+   "en": "Tennis in St. Johann in Tirol",
+   "de": "Tennis in St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Tennissen op buiten- en binnenbanen in en rond St. Johann",
+   "en": "Tennis on outdoor and indoor courts in and around St. Johann",
+   "de": "Tennis auf Frei- und Hallenplätzen in und um St. Johann"
+  },
+  "intro": {
+   "nl": "St. Johann in Tirol, ongeveer een halfuur van Niederau, heeft meerdere mogelijkheden om te tennissen, zowel op buitenbanen als op binnenbanen. In de zomer speel je buiten met de bergen op de achtergrond.\n\nIn de wintermaanden zijn er tennishallen in St. Johann en Erpfendorf. Ook in de regio, bijvoorbeeld bij het Lärchenhof en de Panorama Badewelt, vind je tennisbanen. Raadpleeg de pagina van de toeristische dienst van St. Johann voor de actuele adressen en vraag vooraf of reserveren nodig is.",
+   "en": "St. Johann in Tirol, about half an hour from Niederau, offers several places to play tennis, on both outdoor and indoor courts. In summer you play outdoors with the mountains behind you.\n\nIn the winter months there are tennis halls in St. Johann and Erpfendorf. Elsewhere in the region too, for instance at the Lärchenhof and the Panorama Badewelt, you will find tennis courts. See the St. Johann tourist office page for current addresses and ask beforehand whether booking is needed.",
+   "de": "St. Johann in Tirol, etwa eine halbe Stunde von Niederau entfernt, bietet mehrere Möglichkeiten zum Tennisspielen, auf Freiplätzen wie auf Hallenplätzen. Im Sommer spielt man draußen mit Bergkulisse.\n\nIn den Wintermonaten stehen Tennishallen in St. Johann und Erpfendorf zur Verfügung. Auch in der Region, etwa am Lärchenhof und in der Panorama Badewelt, gibt es Tennisplätze. Aktuelle Adressen stehen auf der Seite des Tourismusverbands St. Johann; vorab erfragen, ob reserviert werden muss."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een baan vooraf.",
+    "Neem tennisschoenen mee.",
+    "Vraag naar binnenbanen als het weer slecht is."
+   ],
+   "en": [
+    "Reserve a court in advance.",
+    "Bring tennis shoes.",
+    "Ask about indoor courts if the weather is bad."
+   ],
+   "de": [
+    "Einen Platz vorab reservieren.",
+    "Tennisschuhe mitnehmen.",
+    "Bei schlechtem Wetter nach Hallenplätzen fragen."
+   ]
+  },
+  "practical": {
+   "nl": "St. Johann ligt ca. 30-35 minuten rijden van Niederau. Informeer vooraf naar locatie, beschikbaarheid en tarieven.",
+   "en": "St. Johann is about 30 to 35 minutes by car from Niederau. Ask in advance about location, availability and fares.",
+   "de": "St. Johann liegt ca. 30 bis 35 Autominuten von Niederau entfernt. Standort, Verfügbarkeit und Tarife vorab erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Per uur te boeken",
+    "en": "Bookable by the hour",
+    "de": "Stundenweise buchbar"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 33 min rijden",
+    "en": "About 33 minutes by car",
+    "de": "Ca. 33 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (buiten in de zomer, binnen in de winter)",
+    "en": "All year (outdoors in summer, indoors in winter)",
+    "de": "Ganzjährig (draußen im Sommer, Halle im Winter)"
+   }
+  },
+  "location": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/en/stjo/gj/tennis.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je er in de winter tennissen?",
+     "en": "Can you play tennis there in winter?",
+     "de": "Kann man dort im Winter Tennis spielen?"
+    },
+    "a": {
+     "nl": "Ja, in de wintermaanden zijn er tennishallen in St. Johann en Erpfendorf; reserveer vooraf.",
+     "en": "Yes, in the winter months there are tennis halls in St. Johann and Erpfendorf; book beforehand.",
+     "de": "Ja, in den Wintermonaten gibt es Tennishallen in St. Johann und Erpfendorf; vorab reservieren."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s178",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "kitzbuehel-old-town",
+  "slug_de": "altstadt-kitzbuehel",
+  "title": {
+   "nl": "Altstadt van Kitzbühel",
+   "en": "Kitzbühel old town",
+   "de": "Altstadt von Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Autovrije straten met erkers en gotische gevels in Tirol",
+   "en": "Car-free streets with oriels and Gothic gables in Tyrol",
+   "de": "Autofreie Gassen mit Erkern und gotischen Giebeln in Tirol"
+  },
+  "intro": {
+   "nl": "Kitzbühel is vooral bekend van het skiën en de Hahnenkamm-race, maar in de zomer is het ook een prettige stad voor een wandeling. De twee hoofdstraten, Vorderstadt en Hinterstadt, zijn voetgangersgebied. De huizen hebben erkers en gotische gevels, en er zijn kerken zoals de Liebfrauenkirche en de parochiekerk. Verder zijn er veel winkels, van internationale merken tot lokale specialiteiten.\n\nEen rondje door de oude binnenstad duurt ongeveer anderhalf uur, meer als je ergens gaat zitten. De stad heeft een andere sfeer dan de dorpen in het Brixental: chiquer en drukker, met veel terrassen. Het past goed bij een halve dag en te combineren met een bergbaan of wandeling op het Kitzbüheler Horn.",
+   "en": "Kitzbühel is best known for skiing and the Hahnenkamm race, but in summer it is also a pleasant town for a stroll. The two main streets, Vorderstadt and Hinterstadt, are pedestrian areas. The houses have oriels and Gothic gables, and there are churches such as the Liebfrauenkirche and the parish church. There are also plenty of shops, from international brands to local specialities.\n\nA loop through the old town takes about an hour and a half, more if you sit down somewhere. The town has a different feel from the villages in the Brixental: smarter and busier, with many terraces. It suits half a day and combines well with a cable car ride or walk on the Kitzbüheler Horn.",
+   "de": "Kitzbühel ist vor allem für das Skifahren und das Hahnenkammrennen bekannt, aber im Sommer ist die Stadt auch für einen Bummel angenehm. Die beiden Hauptstraßen, Vorderstadt und Hinterstadt, sind Fußgängerzonen. Die Häuser haben Erker und gotische Giebel, und es gibt Kirchen wie die Liebfrauenkirche und die Pfarrkirche. Dazu kommen viele Geschäfte, von internationalen Marken bis zu lokalen Spezialitäten.\n\nEine Runde durch die Altstadt dauert etwa anderthalb Stunden, mehr, wenn du dich irgendwo hinsetzt. Die Stadt hat ein anderes Flair als die Dörfer im Brixental: schicker und belebter, mit vielen Terrassen. Sie passt zu einem halben Tag und lässt sich gut mit einer Bergbahnfahrt oder Wanderung am Kitzbüheler Horn verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Kijk naar de erkers en gevels in de Vorderstadt en Hinterstadt.",
+    "Plan een koffiestop op een terras.",
+    "Combineer met een uitstap naar het Kitzbüheler Horn."
+   ],
+   "en": [
+    "Look at the oriels and gables on the Vorderstadt and Hinterstadt.",
+    "Plan a coffee stop on a terrace.",
+    "Combine with a trip to the Kitzbüheler Horn."
+   ],
+   "de": [
+    "Schau dir die Erker und Giebel in Vorderstadt und Hinterstadt an.",
+    "Plane eine Kaffeepause auf einer Terrasse ein.",
+    "Verbinde den Besuch mit einem Ausflug zum Kitzbüheler Horn."
+   ]
+  },
+  "practical": {
+   "nl": "Kitzbühel ligt ca. 45 minuten rijden van Niederau, via Wörgl en de B170 door het Brixental.",
+   "en": "Kitzbühel is roughly 45 minutes by car from Niederau, via Wörgl and the B170 through the Brixental.",
+   "de": "Kitzbühel liegt ca. 45 Fahrminuten von Niederau entfernt, über Wörgl und die B170 durch das Brixental."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "Approx. 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "Approx. 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel",
+   "en": "Kitzbühel",
+   "de": "Kitzbühel"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Kitzbühel ook in de zomer de moeite waard?",
+     "en": "Is Kitzbühel worth visiting in summer?",
+     "de": "Lohnt sich Kitzbühel auch im Sommer?"
+    },
+    "a": {
+     "nl": "Ja, de oude binnenstad met voetgangersstraten, kerken, winkels en terrassen is ook zonder skiseizoen een prettige stop.",
+     "en": "Yes, the old town with its pedestrian streets, churches, shops and terraces is a pleasant stop even outside the ski season.",
+     "de": "Ja, die Altstadt mit Fußgängerzonen, Kirchen, Geschäften und Terrassen ist auch außerhalb der Skisaison ein angenehmer Stopp."
+    }
+   }
+  ],
+  "verified": true
+ }
+]

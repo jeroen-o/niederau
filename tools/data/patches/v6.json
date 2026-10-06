@@ -1,0 +1,1337 @@
+[
+ {
+  "id": "s169",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kufstein",
+  "slug_en": "hechtsee-beach-kufstein",
+  "slug_de": "hechtsee-strandbad-kufstein",
+  "title": {
+   "nl": "Strandbad Hechtsee bij Kufstein",
+   "en": "Hechtsee beach near Kufstein",
+   "de": "Strandbad Hechtsee bei Kufstein"
+  },
+  "tagline": {
+   "nl": "Populair badmeer met speelplekken en meerrestaurant",
+   "en": "Popular bathing lake with play areas and a lakeside restaurant",
+   "de": "Beliebter Badesee mit Spielmöglichkeiten und Seerestaurant"
+  },
+  "intro": {
+   "nl": "Het Hechtsee ligt vlak bij Kufstein, op een steenworp van de Duitse grens. Het is het grootste en met ca. 57 m ook het diepste meer ten westen van Kufstein en geldt als een van de populairste badmeren van Tirol. Het strandbad heeft ruime ligweiden met zon en schaduw, een speeltuin, kinderbaden, een duikplatform en drijvende eilanden.\n\nKinderen kunnen er ook beachvolleybal, watervolleybal en tafeltennis spelen. Je kunt een boot huren en er is een meerrestaurant. Rond het meer loopt een vlak pad, geschikt voor gezinnen met kinderen. Het meer combineert goed met een bezoek aan Kufstein en de vesting.",
+   "en": "Hechtsee lies close to Kufstein, just a short distance from the German border. It is the largest and, at about 57 m, also the deepest lake west of Kufstein, and counts as one of Tyrol's most popular bathing lakes. The beach bath has generous lawns with sun and shade, a playground, children's pools, a diving platform and floating islands.\n\nChildren can also enjoy beach volleyball, water volleyball and table tennis. Boats can be hired and there is a lakeside restaurant. A level path runs around the lake, suitable for families with children. The lake combines well with a visit to Kufstein and its fortress.",
+   "de": "Der Hechtsee liegt nahe Kufstein, nur wenige Meter von der deutschen Grenze entfernt. Er ist der größte und mit ca. 57 m auch der tiefste See westlich von Kufstein und zählt zu den beliebtesten Badeseen Tirols. Das Strandbad bietet weitläufige Liegewiesen mit Sonne und Schatten, einen Spielplatz, Kinderbecken, eine Sprungplattform und schwimmende Inseln.\n\nFür Kinder gibt es außerdem Beachvolleyball, Wasservolleyball und Tischtennis. Man kann Boote mieten, und es gibt ein Seerestaurant. Rund um den See führt ein ebener Weg, der sich für Familien mit Kindern eignet. Der See lässt sich gut mit einem Besuch in Kufstein und der Festung verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Neem een handdoek en zonnebrand voor de ligweide mee.",
+    "Combineer met een bezoek aan de vesting van Kufstein.",
+    "Controleer de openingstijden van het strandbad.",
+    "Wees op warme dagen vroeg om een goede plek te vinden."
+   ],
+   "en": [
+    "Take a towel and sun cream for the lawn.",
+    "Combine with a visit to Kufstein Fortress.",
+    "Check the beach bath's opening hours.",
+    "Arrive early on hot days to find a good spot."
+   ],
+   "de": [
+    "Nehmen Sie Handtuch und Sonnencreme für die Liegewiese mit.",
+    "Verbinden Sie den Besuch mit der Festung Kufstein.",
+    "Prüfen Sie die Öffnungszeiten des Strandbads.",
+    "Kommen Sie an heißen Tagen früh, um einen guten Platz zu finden."
+   ]
+  },
+  "practical": {
+   "nl": "Het Hechtsee ligt ca. 35 minuten rijden van Niederau, via Wörgl en de A12 richting Kufstein. Het strandbad is in de zomer geopend, doorgaans vanaf mei; informeer naar actuele openingstijden en prijzen.",
+   "en": "Hechtsee is about 35 minutes by car from Niederau, via Wörgl and the A12 towards Kufstein. The beach bath is open in summer, usually from May; ask about current opening hours and prices.",
+   "de": "Der Hechtsee ist ca. 35 Fahrminuten von Niederau entfernt, über Wörgl und die A12 Richtung Kufstein. Das Strandbad ist im Sommer geöffnet, in der Regel ab Mai; aktuelle Öffnungszeiten und Preise bitte erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Entree; informeer naar actuele prijzen",
+    "en": "Admission charged; ask about current prices",
+    "de": "Eintritt; aktuelle Preise erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "Approx. 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. mei tot september)",
+    "en": "Summer (approx. May to September)",
+    "de": "Sommer (ca. Mai bis September)"
+   }
+  },
+  "location": {
+   "nl": "Kufstein",
+   "en": "Kufstein",
+   "de": "Kufstein"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je rond het Hechtsee wandelen?",
+     "en": "Can you walk around Hechtsee?",
+     "de": "Kann man um den Hechtsee wandern?"
+    },
+    "a": {
+     "nl": "Ja, rond het meer loopt een vlak pad dat geschikt is voor gezinnen met kinderen.",
+     "en": "Yes, a level path runs around the lake and is suitable for families with children.",
+     "de": "Ja, rund um den See führt ein ebener Weg, der für Familien mit Kindern geeignet ist."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s193",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "european-forum-alpbach",
+  "slug_de": "europaeisches-forum-alpbach",
+  "title": {
+   "nl": "Europees Forum Alpbach",
+   "en": "European Forum Alpbach",
+   "de": "Europäisches Forum Alpbach"
+  },
+  "tagline": {
+   "nl": "Jaarlijks internationaal congres in het Tiroolse bergdorp Alpbach",
+   "en": "Annual international conference in the Tyrolean mountain village of Alpbach",
+   "de": "Internationale Jahreskonferenz im Tiroler Bergdorf Alpbach"
+  },
+  "intro": {
+   "nl": "Sinds 1945 komen er elk jaar aan het einde van de zomer wetenschappers, politici, ondernemers, kunstenaars en studenten samen in Alpbach voor het Europees Forum. Ruim twee weken lang staan er lezingen, debatten en werkgroepen op het programma, in een dorp dat verder vooral om zijn houten huizen en bloemenpracht bekend staat.\n\nVoor een gezin op vakantie is dit geen standaard dagje uit: het programma richt zich vooral op deelnemers, en toegang en tickets verschillen per onderdeel. De Euregio Days waren in 2026 gratis toegankelijk, dus het loont om te kijken wat er publiek is. Zonder forum is Alpbach op zichzelf al een mooie bestemming voor een wandeling of een terrasbezoek.",
+   "en": "Since 1945 scientists, politicians, business people, artists and students have gathered in Alpbach at the end of each summer for the European Forum. For over two weeks the programme is filled with lectures, debates and workshops, in a village otherwise known for its timber houses and flower-decked balconies.\n\nFor a family on holiday this is not a standard day out: the programme is aimed mainly at participants, and access and tickets vary by event. The Euregio Days were free to attend in 2026, so it is worth checking what is open to the public. Even without the forum, Alpbach is a lovely place for a walk or a terrace stop.",
+   "de": "Seit 1945 treffen sich jedes Jahr zum Ende des Sommers Wissenschaftler, Politiker, Unternehmer, Künstler und Studierende beim Europäischen Forum in Alpbach. Über zwei Wochen lang stehen Vorträge, Diskussionen und Workshops auf dem Programm, in einem Dorf, das sonst vor allem für seine Holzhäuser und den Blumenschmuck bekannt ist.\n\nFür Familien im Urlaub ist das kein gewöhnlicher Ausflug: Das Programm richtet sich vor allem an Teilnehmende, Zugang und Tickets unterscheiden sich je nach Veranstaltung. Die Euregio Days waren 2026 kostenlos zugänglich, ein Blick auf das öffentliche Angebot lohnt sich also. Auch ohne Forum ist Alpbach ein schönes Ziel für einen Spaziergang oder eine Pause auf der Terrasse."
+  },
+  "tips": {
+   "nl": [
+    "Kijk vroeg op de officiële website welke onderdelen publiek toegankelijk zijn en of je een ticket nodig hebt.",
+    "Reken in de forumperiode op drukte en beperkte parkeerplaatsen; kom bij voorkeur vroeg of met de bus.",
+    "Combineer het bezoek met een wandeling door het dorp of een korte route in de omgeving."
+   ],
+   "en": [
+    "Check early on the official website which parts are open to the public and whether you need a ticket.",
+    "Expect crowds and limited parking during the forum; arrive early or take the bus.",
+    "Combine the visit with a walk through the village or a short trail nearby."
+   ],
+   "de": [
+    "Prüfen Sie frühzeitig auf der offiziellen Website, welche Teile öffentlich zugänglich sind und ob ein Ticket nötig ist.",
+    "Rechnen Sie während des Forums mit Andrang und knappen Parkplätzen; kommen Sie früh oder mit dem Bus.",
+    "Verbinden Sie den Besuch mit einem Dorfspaziergang oder einer kurzen Wanderung in der Umgebung."
+   ]
+  },
+  "practical": {
+   "nl": "Alpbach ligt in het Alpbachtal, ca. 35 tot 40 minuten rijden vanaf Niederau via Wörgl en de weg door het Alpbachtal. Het forum vindt plaats in het dorp en omliggende congresgebouwen; informeer vooraf naar toegang en parkeren.",
+   "en": "Alpbach lies in the Alpbachtal valley, about 35 to 40 minutes by car from Niederau via Wörgl and the valley road. The forum takes place in the village and nearby congress buildings; ask in advance about access and parking.",
+   "de": "Alpbach liegt im Alpbachtal, etwa 35 bis 40 Autominuten von Niederau entfernt über Wörgl und die Talstraße. Das Forum findet im Dorf und in nahen Kongressgebäuden statt; erkundigen Sie sich vorab nach Zugang und Parken."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vooral volwassenen en tieners",
+    "en": "Mainly adults and teenagers",
+    "de": "Vor allem Erwachsene und Jugendliche"
+   },
+   "duration": {
+    "nl": "Een paar uur tot een halve dag",
+    "en": "A few hours to half a day",
+    "de": "Einige Stunden bis zum halben Tag"
+   },
+   "price": {
+    "nl": "Wisselt per onderdeel; informeer vooraf",
+    "en": "Varies by event; check in advance",
+    "de": "Je nach Veranstaltung unterschiedlich; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 35 tot 40 min rijden",
+    "en": "Approx. 35 to 40 min by car",
+    "de": "Ca. 35 bis 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Eind augustus tot begin september",
+    "en": "Late August to early September",
+    "de": "Ende August bis Anfang September"
+   }
+  },
+  "location": {
+   "nl": "Alpbach",
+   "en": "Alpbach",
+   "de": "Alpbach"
+  },
+  "url": "https://www.alpbach.org",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer vindt het Europees Forum Alpbach plaats?",
+     "en": "When does the European Forum Alpbach take place?",
+     "de": "Wann findet das Europäische Forum Alpbach statt?"
+    },
+    "a": {
+     "nl": "Elk jaar aan het einde van de zomer; de 81e editie liep van 24 augustus tot 4 september 2026. Controleer de data van volgende edities op de officiële website.",
+     "en": "Every year at the end of summer; the 81st edition ran from 24 August to 4 September 2026. Check the dates of future editions on the official website.",
+     "de": "Jedes Jahr zum Ende des Sommers; die 81. Ausgabe lief vom 24. August bis 4. September 2026. Termine künftiger Ausgaben stehen auf der offiziellen Website."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s165",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "alpbach-village-visit",
+  "slug_de": "alpbach-dorfbesuch",
+  "title": {
+   "nl": "Alpbach, bloemendorp in Tirol",
+   "en": "Alpbach, Tyrol's flower village",
+   "de": "Alpbach, das Blumendorf in Tirol"
+  },
+  "tagline": {
+   "nl": "Houten boerderijen, bloemen en bergen in een zijdal van de Inn",
+   "en": "Timber farmhouses, flowers and mountains in a side valley of the Inn",
+   "de": "Holzhäuser, Blumen und Berge in einem Seitental des Inntals"
+  },
+  "intro": {
+   "nl": "Alpbach ligt in een zijdal van het Inntal, in het Alpbachtal, en staat bekend om zijn eenheid in bouwstijl: houten huizen met veel bloemen aan de balkons. Het dorp wordt geroemd als een van de mooiste dorpen van Oostenrijk.\n\nJe kunt er een halve dag rondlopen langs de kerk, boerderijen en terrassen, bijvoorbeeld op de dorpsroute langs de Heimatweg. Aan het einde van de zomer is het dorp ook bekend door het Europäisches Forum Alpbach, een internationaal congres. De omliggende heuvels bieden korte wandelingen en uitzicht over het dal, dus het dorp combineert goed met een bergtocht of een wandeling over de weiden.",
+   "en": "Alpbach lies in a side valley of the Inn valley, in the Alpbachtal, and is known for its unity of building style: timber houses with plenty of flowers on the balconies. The village is praised as one of the most beautiful in Austria.\n\nYou can spend half a day strolling past the church, farmhouses and terraces, for instance on the village route along the Heimatweg. At the end of summer the village is also known for the Europäisches Forum Alpbach, an international congress. The surrounding hills offer short walks and views over the valley, so the village combines well with a mountain trip or a walk across the meadows.",
+   "de": "Alpbach liegt in einem Seitental des Inntals, im Alpbachtal, und ist bekannt für seine einheitliche Bauweise: Holzhäuser mit viel Blumenschmuck an den Balkonen. Das Dorf gilt als eines der schönsten Dörfer Österreichs.\n\nMan kann einen halben Tag an Kirche, Bauernhäusern und Terrassen vorbei flanieren, zum Beispiel auf dem Dorfrundgang entlang des Heimatwegs. Zum Ende des Sommers ist der Ort außerdem durch das Europäische Forum Alpbach bekannt, einen internationalen Kongress. Die umliegenden Hügel bieten kurze Spaziergänge und Aussicht über das Tal, sodass sich der Besuch gut mit einer Bergfahrt oder einem Spaziergang über die Wiesen verbinden lässt."
+  },
+  "tips": {
+   "nl": [
+    "Kom in de ochtend; dan is het rustiger en het licht mooier voor foto's.",
+    "Houd er rekening mee dat de weg naar het dorp smal en bochtig kan zijn.",
+    "Combineer het bezoek met de Wiedersbergerhornbahn voor uitzicht.",
+    "Bekijk de agenda als je een bepaald evenement wilt zien."
+   ],
+   "en": [
+    "Come in the morning; it is quieter and the light is better for photos.",
+    "Bear in mind that the road to the village can be narrow and winding.",
+    "Combine the visit with the Wiedersbergerhornbahn for views.",
+    "Check the events calendar if you want to see a particular event."
+   ],
+   "de": [
+    "Komm am Vormittag; dann ist es ruhiger und das Licht schöner für Fotos.",
+    "Beachte, dass die Straße ins Dorf eng und kurvig sein kann.",
+    "Verbinde den Besuch mit der Wiedersbergerhornbahn für die Aussicht.",
+    "Schau in den Veranstaltungskalender, wenn du eine bestimmte Veranstaltung sehen möchtest."
+   ]
+  },
+  "practical": {
+   "nl": "Alpbach ligt ca. 35 minuten rijden van Niederau, via Brixlegg of de Inntalautobahn en het Alpbachtal. De weg naar het dorp is plaatselijk smal; er zijn parkeerplaatsen bij het dorp.",
+   "en": "Alpbach is about 35 minutes by car from Niederau, via Brixlegg or the Inn valley motorway and the Alpbachtal. The road to the village is narrow in places; there are car parks near the village.",
+   "de": "Alpbach liegt ca. 35 Autominuten von Niederau entfernt, über Brixlegg oder die Inntalautobahn und das Alpbachtal. Die Straße ins Dorf ist stellenweise eng; in Dorfnähe gibt es Parkplätze."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Een wandeling door het dorp is gratis",
+    "en": "A walk through the village is free",
+    "de": "Ein Spaziergang durch das Dorf ist kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "Year-round",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Alpbach, Alpbachtal",
+   "en": "Alpbach, Alpbachtal",
+   "de": "Alpbach, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom staat Alpbach bekend?",
+     "en": "What is Alpbach known for?",
+     "de": "Wofür ist Alpbach bekannt?"
+    },
+    "a": {
+     "nl": "Voor zijn eenheid in bouwstijl met houten huizen en veel bloemen, en voor het Europäisches Forum Alpbach aan het einde van de zomer.",
+     "en": "For its uniform timber architecture with plenty of flowers, and for the Europäisches Forum Alpbach at the end of summer.",
+     "de": "Für seine einheitliche Holzarchitektur mit viel Blumenschmuck und für das Europäische Forum Alpbach zum Ende des Sommers."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s166",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "wiedersbergerhorn-cable-car-alpbach",
+  "slug_de": "wiedersbergerhornbahn-alpbach",
+  "title": {
+   "nl": "Wiedersbergerhornbahn Alpbach",
+   "en": "Wiedersbergerhornbahn, Alpbach",
+   "de": "Wiedersbergerhornbahn Alpbach"
+  },
+  "tagline": {
+   "nl": "Met de gondel naar alpenweiden en het Lauserland",
+   "en": "By gondola to alpine pastures and the Lauserland",
+   "de": "Mit der Gondel zu Almwiesen und ins Lauserland"
+  },
+  "intro": {
+   "nl": "De Wiedersbergerhornbahn in Alpbach is een gondel met zes plaatsen die je in de zomer naar een wandel- en weidegebied rond het Wiedersberger Horn (2.127 m) brengt. Boven liggen hutten, alpenweiden en panoramapaden met uitzicht op de Kitzbüheler Alpen.\n\nVoor gezinnen is er het Lauserland bij het bergstation, een speelbos met bijna 40 speel- en belevingsstations. Bekend zijn de Lauser-Sauser, de hoogste draaimolen van Oostenrijk (18 m), en de Lauser Tower met sprongen in een groot luchtkussen. Het aanbod is geschikt voor een halve dag, bijvoorbeeld met een hutstop, maar de bergbaan is ook het startpunt voor langere wandelingen.",
+   "en": "The Wiedersbergerhornbahn in Alpbach is a six-seat gondola that takes you in summer to a hiking and pasture area around the Wiedersberger Horn (2,127 m). At the top there are huts, alpine pastures and panorama paths with views of the Kitzbühel Alps.\n\nFor families there is the Lauserland by the top station, a forest playground with almost 40 play and adventure stations. Well known are the Lauser-Sauser, Austria's highest carousel (18 m), and the Lauser Tower with jumps into a large air cushion. It suits a half day, for example with a hut stop, and the lift is also a starting point for longer hikes.",
+   "de": "Die Wiedersbergerhornbahn in Alpbach ist eine Sechser-Gondel, die dich im Sommer in ein Wander- und Almgebiet rund um das Wiedersberger Horn (2.127 m) bringt. Oben gibt es Hütten, Almwiesen und Panoramawege mit Blick auf die Kitzbüheler Alpen.\n\nFür Familien gibt es das Lauserland an der Bergstation, einen Erlebniswald mit knapp 40 Spiel- und Erlebnisstationen. Bekannt sind der Lauser-Sauser, das höchste Karussell Österreichs (18 m), und der Lauser Tower mit Sprüngen in ein großes Luftkissen. Das Angebot passt zu einem halben Tag, zum Beispiel mit Hüttenrast, und die Bahn dient auch als Ausgangspunkt für längere Wanderungen."
+  },
+  "tips": {
+   "nl": [
+    "Kijk of je een Alpbachtal Card hebt; die geeft in de zomer gratis toegang tot de bahn.",
+    "Plan tijd in voor de Lauser-Sauser en de overige speelstations van het Lauserland.",
+    "Neem een extra laag kleding mee; boven kan het fris zijn.",
+    "Combineer de rit met een wandeling door het dorp Alpbach."
+   ],
+   "en": [
+    "Check whether you have an Alpbachtal Card; it gives free use of the lift in summer.",
+    "Allow time for the Lauser-Sauser and the other Lauserland play stations.",
+    "Bring an extra layer; it can be cool at the top.",
+    "Combine the trip with a walk through Alpbach village."
+   ],
+   "de": [
+    "Prüfe, ob du eine Alpbachtal Card hast; sie gilt im Sommer als Freifahrt für die Bahn.",
+    "Plane Zeit für den Lauser-Sauser und die übrigen Spielstationen im Lauserland ein.",
+    "Nimm eine zusätzliche Schicht mit; oben kann es kühl sein.",
+    "Verbinde die Fahrt mit einem Spaziergang durch das Dorf Alpbach."
+   ]
+  },
+  "practical": {
+   "nl": "Het dalstation ligt in het Alpbachtal, ca. 35 tot 40 minuten rijden van Niederau. In 2026 liep het zomerseizoen van eind mei tot begin november; de exacte data wisselen per jaar, dus controleer de actuele tijden.",
+   "en": "The valley station is in the Alpbachtal, about 35 to 40 minutes by car from Niederau. In 2026 the summer season ran from late May to early November; exact dates vary each year, so check the current times.",
+   "de": "Die Talstation liegt im Alpbachtal, ca. 35 bis 40 Autominuten von Niederau entfernt. 2026 lief die Sommersaison von Ende Mai bis Anfang November; die genauen Termine ändern sich jährlich, bitte aktuelle Zeiten prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf. Gratis met Alpbachtal Card",
+    "en": "Prices vary; check in advance. Free with the Alpbachtal Card",
+    "de": "Preis variiert; vorab erfragen. Kostenlos mit Alpbachtal Card"
+   },
+   "distance": {
+    "nl": "Ca. 35 tot 40 min rijden",
+    "en": "About 35 to 40 min by car",
+    "de": "Ca. 35 bis 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. eind mei tot begin november)",
+    "en": "Summer (approx. late May to early November)",
+    "de": "Sommer (ca. Ende Mai bis Anfang November)"
+   }
+  },
+  "location": {
+   "nl": "Alpbach, Alpbachtal",
+   "en": "Alpbach, Alpbachtal",
+   "de": "Alpbach, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het Lauserland?",
+     "en": "What is the Lauserland?",
+     "de": "Was ist das Lauserland?"
+    },
+    "a": {
+     "nl": "Een speelbos voor gezinnen bij het bergstation van de Wiedersbergerhornbahn, met bijna 40 speel- en belevingsstations.",
+     "en": "A forest playground for families by the top station of the Wiedersbergerhornbahn, with almost 40 play and adventure stations.",
+     "de": "Ein Erlebniswald für Familien an der Bergstation der Wiedersbergerhornbahn mit knapp 40 Spiel- und Erlebnisstationen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s263",
+  "drop": true,
+  "drop_reason": "Specifieke wandelroute Alpbach-Reith niet bevestigd; '1983 mooiste dorp' niet bevestigd; dorp zelf gedekt door s165.",
+  "place": "alpbach",
+  "slug_en": "alpbach-hiking-reith",
+  "slug_de": "alpbach-wanderung-reith",
+  "title": {
+   "nl": "Wandelen van Alpbach naar Reith",
+   "en": "Walk from Alpbach to Reith",
+   "de": "Wanderung von Alpbach nach Reith"
+  },
+  "tagline": {
+   "nl": "Wandelen langs houten boerderijen en bergweiden in het Alpbachtal",
+   "en": "Walking past timber farmhouses and mountain pastures in the Alpbachtal",
+   "de": "Wandern vorbei an Holzhöfen und Bergwiesen im Alpbachtal"
+  },
+  "intro": {
+   "nl": "Alpbach is een bergdorp in het Alpbachtal dat bekendstaat om zijn houten huizen en bloemrijke weiden. In 1983 werd het uitgeroepen tot mooiste dorp van Oostenrijk. De wandeling richting Reith im Alpbachtal loopt over weiden en langs boerderijen met uitzicht over het dal.\n\nDe route is eenvoudig en geschikt voor gezinnen, waarbij je onderweg bij een Gasthof kunt pauzeren. In het dorp zelf is het de moeite waard een rondje te lopen langs de oude huizen.",
+   "en": "Alpbach is a mountain village in the Alpbachtal known for its timber houses and flower-rich meadows. In 1983 it was named Austria's most beautiful village. The walk towards Reith im Alpbachtal runs across meadows and past farms with views over the valley.\n\nThe route is easy and suitable for families, and you can stop at a Gasthof on the way. In the village itself it is worth a stroll past the old houses.",
+   "de": "Alpbach ist ein Bergdorf im Alpbachtal, bekannt für seine Holzhäuser und blumenreichen Wiesen. 1983 wurde es zum schönsten Dorf Österreichs gekürt. Die Wanderung Richtung Reith im Alpbachtal führt über Wiesen und an Höfen vorbei mit Blick über das Tal.\n\nDie Route ist einfach und familiengeeignet, unterwegs kannst du in einem Gasthof einkehren. Im Ort selbst lohnt sich ein Rundgang vorbei an den alten Häusern."
+  },
+  "tips": {
+   "nl": [
+    "Kies bij onzeker weer de kortere variant; het terrein is open.",
+    "Neem een kaart of volg de bewegwijzering.",
+    "Plan een lunchstop in een Gasthof."
+   ],
+   "en": [
+    "In uncertain weather choose the shorter variant; the terrain is open.",
+    "Take a map or follow the signposts.",
+    "Plan a lunch stop at a Gasthof."
+   ],
+   "de": [
+    "Wähle bei unsicherem Wetter die kürzere Variante; das Gelände ist offen.",
+    "Nimm eine Karte mit oder folge der Beschilderung.",
+    "Plane eine Mittagseinkehr in einem Gasthof ein."
+   ]
+  },
+  "practical": {
+   "nl": "Alpbach ligt ca. 30 minuten rijden van Niederau, via Kramsach en de weg het Alpbachtal in.",
+   "en": "Alpbach is about 30 minutes by car from Niederau, via Kramsach and the road into the Alpbachtal.",
+   "de": "Alpbach liegt ca. 30 Autominuten von Niederau entfernt, über Kramsach und die Straße ins Alpbachtal."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2–3 uur",
+    "en": "About 2–3 hours",
+    "de": "Ca. 2–3 Stunden"
+   },
+   "price": {
+    "nl": "Gratis te belopen",
+    "en": "Free to walk",
+    "de": "Kostenlos zu begehen"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "About 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Alpbach, Alpbachtal",
+   "en": "Alpbach, Alpbachtal",
+   "de": "Alpbach, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom staat Alpbach bekend?",
+     "en": "Why is Alpbach famous?",
+     "de": "Wofür ist Alpbach bekannt?"
+    },
+    "a": {
+     "nl": "Voor zijn houten huizen en bloemen; in 1983 werd het gekozen tot mooiste dorp van Oostenrijk.",
+     "en": "For its timber houses and flowers; in 1983 it was named Austria's most beautiful village.",
+     "de": "Für seine Holzhäuser und Blumen; 1983 wurde es zum schönsten Dorf Österreichs gekürt."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s185",
+  "drop": true,
+  "drop_reason": "Dubbel met s69/w33 (glasblazen Rattenberg); inwonertal 400 klopt niet met bron (ca. 440).",
+  "place": "rattenberg",
+  "slug_en": "rattenberg-glassblowing",
+  "slug_de": "glasblaeser-rattenberg",
+  "title": {
+   "nl": "Glasblazen in Rattenberg",
+   "en": "Glassblowing in Rattenberg",
+   "de": "Glasbläser in Rattenberg"
+  },
+  "tagline": {
+   "nl": "De kleinste stad van Oostenrijk en haar glastraditie",
+   "en": "Austria's smallest town and its glass tradition",
+   "de": "Österreichs kleinste Stadt und ihre Glastradition"
+  },
+  "intro": {
+   "nl": "Rattenberg aan de Inn is met zo'n 400 inwoners de kleinste stad van Oostenrijk. Het middeleeuwse stadsbeeld is vrijwel intact gebleven, en de stad staat bekend om haar glasverwerkende bedrijven en winkels met kristalglas.\n\nBij Kisslinger Kristall-Glas kun je volgens de bronnen van maandag tot en vrijdag glasblazers aan het werk zien, en je kunt onder begeleiding van een glasblazer zelf een glazen bol blazen die je meeneemt. Dat is een leuke ervaring voor kinderen. Combineer het met een wandeling door de smalle straten van de oude stad en een bezoek aan de winkels.",
+   "en": "With about 400 inhabitants, Rattenberg on the Inn is Austria's smallest town. Its medieval townscape has survived almost intact, and the town is known for its glassmaking businesses and crystal glass shops.\n\nAt Kisslinger Kristall-Glas you can, according to sources, watch glassblowers at work from Monday to Friday, and with a glassblower's help you can blow a glass sphere of your own to take home. That is a fun experience for children. Combine it with a stroll through the narrow streets of the old town and a visit to the shops.",
+   "de": "Rattenberg am Inn ist mit rund 400 Einwohnern die kleinste Stadt Österreichs. Das mittelalterliche Stadtbild ist nahezu vollständig erhalten, und die Stadt ist bekannt für ihre glasverarbeitenden Betriebe und Kristallglasgeschäfte.\n\nBei Kisslinger Kristall-Glas kannst du laut Quellen von Montag bis Freitag Glasbläsern bei der Arbeit zusehen, und mit Hilfe eines Glasbläsers kannst du eine eigene Glaskugel blasen und mitnehmen. Das ist ein schönes Erlebnis für Kinder. Verbinde es mit einem Spaziergang durch die engen Gassen der Altstadt und einem Besuch in den Geschäften."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf of demonstraties plaatsvinden (maandag tot vrijdag).",
+    "Zelf glas blazen kan, maar vraag naar prijs en leeftijd.",
+    "Glas is breekbaar; pak souvenirs goed in.",
+    "Plan tijd in voor een wandeling door de oude stad."
+   ],
+   "en": [
+    "Check beforehand that demonstrations are on (Monday to Friday).",
+    "You can blow glass yourself, but ask about price and age limit.",
+    "Glass is fragile; pack souvenirs well.",
+    "Allow time for a walk through the old town."
+   ],
+   "de": [
+    "Prüfe vorab, ob Vorführungen stattfinden (Montag bis Freitag).",
+    "Du kannst selbst Glas blasen, frag aber nach Preis und Altersgrenze.",
+    "Glas ist zerbrechlich; verpacke Souvenirs gut.",
+    "Plane Zeit für einen Spaziergang durch die Altstadt ein."
+   ]
+  },
+  "practical": {
+   "nl": "Rattenberg ligt ca. 25 minuten rijden van Niederau, in het Alpbachtal; neem de A12 en rijd naar Rattenberg/Kramsach. Parkeren kan aan de rand van de stad.",
+   "en": "Rattenberg is roughly 25 minutes by car from Niederau, in the Alpbachtal; take the A12 to Rattenberg/Kramsach. Parking is on the edge of the town.",
+   "de": "Rattenberg liegt ca. 25 Fahrminuten von Niederau entfernt im Alpbachtal; nimm die A12 nach Rattenberg/Kramsach. Parken ist am Stadtrand möglich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "Approx. 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Kijken vaak gratis; zelf blazen kost extra",
+    "en": "Watching is often free; blowing your own costs extra",
+    "de": "Zuschauen oft kostenlos; selbst blasen kostet extra"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min by car",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Rattenberg, Alpbachtal",
+   "en": "Rattenberg, Alpbachtal",
+   "de": "Rattenberg, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kan ik glasblazers aan het werk zien?",
+     "en": "Can I watch glassblowers at work?",
+     "de": "Kann ich Glasbläsern bei der Arbeit zusehen?"
+    },
+    "a": {
+     "nl": "Bij Kisslinger Kristall-Glas volgens de bronnen van maandag tot vrijdag; controleer de tijden vooraf.",
+     "en": "At Kisslinger Kristall-Glas, according to sources, Monday to Friday; check times beforehand.",
+     "de": "Bei Kisslinger Kristall-Glas laut Quellen von Montag bis Freitag; bitte prüfe die Zeiten vorab."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s253",
+  "drop": true,
+  "drop_reason": "Zomerconcerten in Rattenberg/Augustinermuseum niet te bevestigen via zoekresultaten.",
+  "place": "rattenberg",
+  "slug_en": "rattenberg-summer-concerts",
+  "slug_de": "rattenberg-sommerkonzerte",
+  "title": {
+   "nl": "Concerten in Rattenberg",
+   "en": "Concerts in Rattenberg",
+   "de": "Konzerte in Rattenberg"
+  },
+  "tagline": {
+   "nl": "Muziek in de middeleeuwse straten van Oostenrijks kleinste stad",
+   "en": "Music in the medieval lanes of Austria's smallest town",
+   "de": "Musik in den mittelalterlichen Gassen von Österreichs kleinster Stadt"
+  },
+  "intro": {
+   "nl": "Rattenberg is met zo'n 440 inwoners de kleinste stad van Oostenrijk en bewaart bijna het hele middeleeuwse stadsbeeld. In de zomer worden er in en rond de stad regelmatig concerten gegeven, onder meer in de kloostergang van het Augustinermuseum, en er zijn zomerse openluchtvoorstellingen.\n\nHet programma wisselt per jaar, dus kijk vooraf in de evenementenkalender of bij het toeristenbureau wat er op uw dag speelt. Een avond hier combineert goed met een wandeling door de autovrije oude stad en een diner op een terras. Met kinderen werkt een vroeg concert of een kort optreden het best.",
+   "en": "With around 440 inhabitants Rattenberg is Austria's smallest town and has kept almost its entire medieval townscape. In summer concerts are held in and around the town, including in the cloister of the Augustinian Museum, and there are summer open-air performances.\n\nThe programme changes each year, so check the events calendar or the tourist office for what is on during your day. An evening here combines well with a walk through the car-free old town and dinner on a terrace. With children an early concert or a short performance works best.",
+   "de": "Rattenberg ist mit rund 440 Einwohnern die kleinste Stadt Österreichs und hat fast das gesamte mittelalterliche Stadtbild bewahrt. Im Sommer finden in und um die Stadt regelmäßig Konzerte statt, unter anderem im Kreuzgang des Augustinermuseums, dazu gibt es sommerliche Freilichtaufführungen.\n\nDas Programm wechselt jedes Jahr, schauen Sie daher vorab in den Veranstaltungskalender oder fragen Sie beim Tourismusbüro nach. Ein Abend hier lässt sich gut mit einem Bummel durch die autofreie Altstadt und einem Essen auf einer Terrasse verbinden. Mit Kindern eignet sich ein frühes Konzert oder ein kurzer Auftritt am besten."
+  },
+  "tips": {
+   "nl": [
+    "Bekijk de evenementenkalender voordat u gaat; het programma wisselt per jaar.",
+    "Parkeer buiten de autovrije oude stad en loop naar het centrum.",
+    "Neem een jas mee voor concerten in kloostergang of buiten.",
+    "Combineer met een bezoek aan de glasateliers voordat ze sluiten."
+   ],
+   "en": [
+    "Check the events calendar before you go; the programme changes each year.",
+    "Park outside the car-free old town and walk in.",
+    "Bring a jacket for concerts in the cloister or outdoors.",
+    "Combine with a visit to the glass workshops before they close."
+   ],
+   "de": [
+    "Prüfen Sie den Veranstaltungskalender vor dem Besuch; das Programm wechselt jedes Jahr.",
+    "Parken Sie außerhalb der autofreien Altstadt und gehen Sie zu Fuß hinein.",
+    "Nehmen Sie eine Jacke für Konzerte im Kreuzgang oder im Freien mit.",
+    "Verbinden Sie den Besuch mit den Glaswerkstätten, bevor sie schließen."
+   ]
+  },
+  "practical": {
+   "nl": "Rattenberg ligt in het Inntal bij Kramsach, ca. 30 minuten rijden vanaf Niederau via Wörgl en de A12.",
+   "en": "Rattenberg is in the Inn Valley near Kramsach, about 30 minutes by car from Niederau via Wörgl and the A12.",
+   "de": "Rattenberg liegt im Inntal bei Kramsach, etwa 30 Autominuten von Niederau entfernt über Wörgl und die A12."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "Approx. 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Entree of bijdrage; informeer vooraf naar actuele prijzen",
+    "en": "Admission or contribution; ask in advance about current prices",
+    "de": "Eintritt oder Beitrag; aktuelle Preise vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer; programma wisselt",
+    "en": "Summer; programme varies",
+    "de": "Sommer; Programm wechselt"
+   }
+  },
+  "location": {
+   "nl": "Rattenberg, Alpbachtal",
+   "en": "Rattenberg, Alpbachtal",
+   "de": "Rattenberg, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe vind ik de actuele concerten in Rattenberg?",
+     "en": "How do I find current concerts in Rattenberg?",
+     "de": "Wie finde ich die aktuellen Konzerte in Rattenberg?"
+    },
+    "a": {
+     "nl": "Via de evenementenkalender van de stad of het toeristenbureau van het Alpbachtal.",
+     "en": "Via the town's events calendar or the Alpbachtal tourist office.",
+     "de": "Über den Veranstaltungskalender der Stadt oder das Tourismusbüro Alpbachtal."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s69",
+  "drop": false,
+  "drop_reason": "",
+  "place": "rattenberg",
+  "slug_en": "glassblowing-rattenberg",
+  "slug_de": "glasblasen-rattenberg",
+  "title": {
+   "nl": "Glasblazen in Rattenberg",
+   "en": "Glassblowing in Rattenberg",
+   "de": "Glasblasen in Rattenberg"
+  },
+  "tagline": {
+   "nl": "Glasblazers aan het werk in Oostenrijks kleinste stad",
+   "en": "Glassblowers at work in Austria's smallest town",
+   "de": "Glasbläser bei der Arbeit in Österreichs kleinster Stadt"
+  },
+  "intro": {
+   "nl": "Rattenberg is met zo'n 440 inwoners de kleinste stad van Oostenrijk en staat bekend als glasstad van Tirol. In de middeleeuwse straatjes zitten glasblazers, glasslijpers en graveurs. Kisslinger Kristall-Glas, actief sinds 1820, is een bekend adres waar je glasblazers aan het werk kunt zien en de winkel kunt bekijken.\n\nVan mei tot oktober kunnen bezoekers er volgens de aanbieder op bepaalde middagen (maandag en vrijdag) onder begeleiding van een meester zelf een kristallen glazen bol blazen en meenemen; reserveren is naar verluidt niet nodig. Dat is vooral leuk voor gezinnen met kinderen. Combineer het met een wandeling door de oude stad. Vraag vooraf naar tijden, leeftijdsgrenzen en prijs.",
+   "en": "With around 440 inhabitants Rattenberg is the smallest town in Austria and is known as the glass town of Tyrol. Glassblowers, cutters and engravers have workshops in its medieval lanes. Kisslinger Kristall-Glas, active since 1820, is a well-known address where you can watch glassblowers at work and browse the shop.\n\nFrom May to October visitors can, according to the operator, blow their own crystal glass bauble on certain afternoons (Monday and Friday) under a master's guidance and take it home; booking is reportedly not required. It is especially fun for families with children. Combine it with a walk through the old town. Ask in advance about times, age limits and price.",
+   "de": "Mit rund 440 Einwohnern ist Rattenberg die kleinste Stadt Österreichs und gilt als Glasstadt Tirols. In den mittelalterlichen Gassen arbeiten Glasbläser, Glasschleifer und Graveure. Kisslinger Kristall-Glas, seit 1820 aktiv, ist eine bekannte Adresse, wo man Glasbläsern bei der Arbeit zusehen und den Laden besichtigen kann.\n\nVon Mai bis Oktober können Besucher laut Anbieter an bestimmten Nachmittagen (Montag und Freitag) unter Anleitung eines Meisters eine eigene Kristallglaskugel blasen und mitnehmen; eine Reservierung ist angeblich nicht nötig. Das macht vor allem Familien mit Kindern Spaß. Verbinden Sie es mit einem Spaziergang durch die Altstadt. Fragen Sie vorab nach Zeiten, Altersgrenzen und Preis."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf of en wanneer zelf glasblazen mogelijk is en vanaf welke leeftijd.",
+    "Neem breekbare aankopen in een stevige verpakking mee naar huis.",
+    "Combineer met een wandeling door de Altstadt van Rattenberg.",
+    "Het Augustinermuseum is een goede aanvulling bij regenachtig weer."
+   ],
+   "en": [
+    "Ask in advance whether and when blowing your own glass is possible and from what age.",
+    "Pack fragile purchases well for the journey home.",
+    "Combine with a walk through Rattenberg's old town.",
+    "The Augustinian Museum is a good addition in wet weather."
+   ],
+   "de": [
+    "Fragen Sie vorab, ob und wann Selberblasen möglich ist und ab welchem Alter.",
+    "Verpacken Sie zerbrechliche Einkäufe gut für die Heimreise.",
+    "Verbinden Sie den Besuch mit einem Spaziergang durch die Altstadt von Rattenberg.",
+    "Das Augustinermuseum ist bei Regen eine gute Ergänzung."
+   ]
+  },
+  "practical": {
+   "nl": "Rattenberg ligt in het Inntal bij Kramsach, ca. 30 minuten rijden vanaf Niederau via Wörgl en de A12 (afrit Kramsach). Parkeer buiten de autovrije oude stad en loop naar het centrum.",
+   "en": "Rattenberg is in the Inn Valley near Kramsach, about 30 minutes by car from Niederau via Wörgl and the A12 (Kramsach exit). Park outside the car-free old town and walk in.",
+   "de": "Rattenberg liegt im Inntal bei Kramsach, etwa 30 Autominuten von Niederau entfernt über Wörgl und die A12 (Ausfahrt Kramsach). Parken Sie außerhalb der autofreien Altstadt und gehen Sie zu Fuß hinein."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kijken: alle leeftijden; zelf blazen: informeer naar de minimumleeftijd",
+    "en": "Watching: all ages; blowing yourself: ask about the minimum age",
+    "de": "Zuschauen: alle Altersgruppen; Selberblasen: nach Mindestalter fragen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "Approx. 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Zelf blazen kost extra; informeer naar de prijs",
+    "en": "Blowing your own costs extra; ask for the price",
+    "de": "Selberblasen kostet extra; Preis erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zelf blazen: mei tot oktober; kijken: hele jaar (controleer openingstijden)",
+    "en": "Blowing your own: May to October; watching: all year (check opening hours)",
+    "de": "Selberblasen: Mai bis Oktober; Zuschauen: ganzjährig (Öffnungszeiten prüfen)"
+   }
+  },
+  "location": {
+   "nl": "Rattenberg, Alpbachtal",
+   "en": "Rattenberg, Alpbachtal",
+   "de": "Rattenberg, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je in Rattenberg zelf glas blazen?",
+     "en": "Can you blow glass yourself in Rattenberg?",
+     "de": "Kann man in Rattenberg selbst Glas blasen?"
+    },
+    "a": {
+     "nl": "Bij Kisslinger Kristall-Glas kan dat volgens de aanbieder van mei tot oktober op bepaalde middagen; vraag vooraf naar tijden en prijs.",
+     "en": "At Kisslinger Kristall-Glas this is possible, according to the operator, on certain afternoons from May to October; ask about times and price in advance.",
+     "de": "Bei Kisslinger Kristall-Glas ist das laut Anbieter von Mai bis Oktober an bestimmten Nachmittagen möglich; Zeiten und Preis vorab erfragen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "w33",
+  "drop": false,
+  "drop_reason": "",
+  "place": "rattenberg",
+  "slug_en": "rattenberg-glass-town-winter",
+  "slug_de": "glasstadt-rattenberg-winter",
+  "title": {
+   "nl": "Glasstad Rattenberg in de winter",
+   "en": "Rattenberg glass town in winter",
+   "de": "Glasstadt Rattenberg im Winter"
+  },
+  "tagline": {
+   "nl": "Glasateliers en een middeleeuwse oude stad, ook op een koude dag",
+   "en": "Glass workshops and a medieval old town, even on a cold day",
+   "de": "Glaswerkstätten und eine mittelalterliche Altstadt, auch an kalten Tagen"
+  },
+  "intro": {
+   "nl": "Rattenberg is met zo'n 440 inwoners de kleinste stad van Oostenrijk, tegen een rotswand aan de Inn gebouwd, met een middeleeuwse kern van kleine huizen en straatjes. De stad staat bekend als glasstad van Tirol.\n\nBij Kisslinger Kristall-Glas, actief sinds 1820, kun je glasblazers aan het werk zien en de winkel met glaswerk bekijken. Zelf een glazen bol blazen kan volgens de aanbieder alleen van mei tot oktober, dus in de winter ga je vooral kijken en winkelen. Het is een goede uitweg bij koud of nat weer; combineer het met een wandeling door de oude stad en eventueel het Augustinermuseum.",
+   "en": "With around 440 inhabitants Rattenberg is Austria's smallest town, built against a rock face above the Inn, with a medieval core of small houses and lanes. It is known as the glass town of Tyrol.\n\nAt Kisslinger Kristall-Glas, active since 1820, you can watch glassblowers at work and browse the shop with its glassware. According to the operator, blowing your own bauble is only possible from May to October, so in winter you mainly come to look and shop. It is a good option in cold or wet weather; combine it with a walk through the old town and, if you like, the Augustinian Museum.",
+   "de": "Rattenberg ist mit rund 440 Einwohnern die kleinste Stadt Österreichs, an eine Felswand über dem Inn gebaut, mit einem mittelalterlichen Kern aus kleinen Häusern und Gassen. Sie gilt als Glasstadt Tirols.\n\nBei Kisslinger Kristall-Glas, seit 1820 aktiv, kann man Glasbläsern bei der Arbeit zusehen und den Laden mit Glaswaren besichtigen. Selbst eine Glaskugel zu blasen ist laut Anbieter nur von Mai bis Oktober möglich, im Winter kommt man also vor allem zum Schauen und Einkaufen. Bei kaltem oder nassem Wetter ist das eine gute Option; verbinden Sie es mit einem Spaziergang durch die Altstadt und gegebenenfalls dem Augustinermuseum."
+  },
+  "tips": {
+   "nl": [
+    "Zelf blazen kan alleen van mei tot oktober; in de winter ga je vooral kijken.",
+    "Controleer vooraf of er demonstraties zijn en wat de openingstijden zijn.",
+    "Loop daarna een rondje door de autovrije oude stad.",
+    "Pak breekbare aankopen goed in voor de terugreis."
+   ],
+   "en": [
+    "Blowing your own is only possible from May to October; in winter you mainly watch.",
+    "Check beforehand whether demonstrations are on and what the opening hours are.",
+    "Afterwards take a lap around the car-free old town.",
+    "Pack fragile purchases well for the journey home."
+   ],
+   "de": [
+    "Selbst blasen ist nur von Mai bis Oktober möglich; im Winter schaut man vor allem zu.",
+    "Prüfen Sie vorab, ob Vorführungen stattfinden und wie die Öffnungszeiten sind.",
+    "Drehen Sie danach eine Runde durch die autofreie Altstadt.",
+    "Verpacken Sie zerbrechliche Einkäufe gut für die Heimreise."
+   ]
+  },
+  "practical": {
+   "nl": "Rattenberg ligt ca. 30 minuten rijden van Niederau, aan de Inn in het Alpbachtal. Parkeren kan aan de rand van het stadje; met de trein is het station Rattenberg-Kramsach op loopafstand.",
+   "en": "Rattenberg is about 30 minutes' drive from Niederau, on the Inn in the Alpbachtal. Parking is possible at the edge of town; by train, Rattenberg-Kramsach station is within walking distance.",
+   "de": "Rattenberg liegt ca. 30 Fahrminuten von Niederau entfernt, am Inn im Alpbachtal. Geparkt wird am Stadtrand; mit der Bahn ist der Bahnhof Rattenberg-Kramsach fußläufig erreichbar."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Informeer vooraf naar toegang en prijzen",
+    "en": "Check access and prices beforehand",
+    "de": "Zugang und Preise vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "About 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar; zelf blazen alleen mei tot oktober",
+    "en": "All year; blowing your own only May to October",
+    "de": "Ganzjährig; Selbstblasen nur Mai bis Oktober"
+   }
+  },
+  "location": {
+   "nl": "Rattenberg, Alpbachtal",
+   "en": "Rattenberg, Alpbachtal",
+   "de": "Rattenberg, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kan ik in de winter zelf glas blazen in Rattenberg?",
+     "en": "Can I blow glass myself in Rattenberg in winter?",
+     "de": "Kann ich in Rattenberg im Winter selbst Glas blasen?"
+    },
+    "a": {
+     "nl": "Volgens de aanbieder kan dat alleen van mei tot oktober; in de winter kun je vooral kijken en winkelen. Controleer vooraf de actuele mogelijkheden.",
+     "en": "According to the operator this is only possible from May to October; in winter you can mainly watch and shop. Check current options beforehand.",
+     "de": "Laut Anbieter nur von Mai bis Oktober; im Winter kann man vor allem zuschauen und einkaufen. Aktuelle Möglichkeiten vorab prüfen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s136",
+  "drop": false,
+  "drop_reason": "",
+  "place": "westendorf",
+  "slug_en": "westendorf-village-walk",
+  "slug_de": "dorfrundgang-westendorf",
+  "title": {
+   "nl": "Dorpswandeling Westendorf",
+   "en": "Village walk in Westendorf",
+   "de": "Dorfspaziergang in Westendorf"
+  },
+  "tagline": {
+   "nl": "Een SkiWelt-dorp in het Brixental met kerk en winkels",
+   "en": "A Brixental SkiWelt village with church and shops",
+   "de": "Ein SkiWelt-Ort im Brixental mit Kirche und Geschäften"
+  },
+  "intro": {
+   "nl": "Westendorf is een dorp in het Brixental dat bij het skigebied SkiWelt hoort. Het ligt op een zonnig plateau en wordt gekenmerkt door boerderijen met goed onderhouden bergweiden. In de zomer is het rustig en gemoedelijk.\n\nEen rondje door het dorp past goed in een uur. Je kunt het combineren met een bezoek aan de plaatselijke Sennerei, de zuivelfabriek met winkeltje. Vanuit Westendorf brengt de Alpenrosenbahn je omhoog naar de Choralpe, waar het natuurbelevingspark Alpinolino ligt: thematische paden met speelse onderdelen voor kinderen.",
+   "en": "Westendorf is a village in the Brixental that belongs to the SkiWelt ski area. It sits on a sunny plateau and is characterised by farmhouses and well-kept mountain meadows. In summer it is quiet and friendly.\n\nA walk around the village fits neatly into an hour. You can combine it with a visit to the local Sennerei, the dairy with its shop. From Westendorf the Alpenrosenbahn takes you up to the Choralpe, home to the Alpinolino nature adventure park: themed trails with playful stops for children.",
+   "de": "Westendorf ist ein Ort im Brixental, der zum Skigebiet SkiWelt gehört. Er liegt auf einem sonnigen Plateau und ist geprägt von Bauernhöfen und gepflegten Almwiesen. Im Sommer ist es ruhig und gemütlich.\n\nEine Runde durch den Ort passt gut in eine Stunde. Man kann sie mit einem Besuch in der örtlichen Sennerei samt Laden verbinden. Von Westendorf bringt dich die Alpenrosenbahn hinauf zur Choralpe, wo der Erlebnispark Alpinolino liegt: Themenwege mit spielerischen Stationen für Kinder."
+  },
+  "tips": {
+   "nl": [
+    "Combineer de wandeling met een bezoek aan de Sennerei.",
+    "Plan eventueel een uitstapje naar Alpinolino op de Choralpe met kinderen.",
+    "Parkeer in het centrum en loop alles te voet.",
+    "Kijk onderweg naar bakkers en winkels voor een lokale snack."
+   ],
+   "en": [
+    "Combine the walk with a visit to the Sennerei.",
+    "Consider a trip to Alpinolino on the Choralpe with children.",
+    "Park in the centre and walk everything on foot.",
+    "Look out for bakeries and shops along the way for a local snack."
+   ],
+   "de": [
+    "Verbinde den Spaziergang mit einem Besuch in der Sennerei.",
+    "Plane mit Kindern ggf. einen Ausflug zum Alpinolino auf der Choralpe.",
+    "Parke im Zentrum und gehe alles zu Fuß.",
+    "Halte unterwegs nach Bäckereien und Geschäften für einen regionalen Snack Ausschau."
+   ]
+  },
+  "practical": {
+   "nl": "Westendorf ligt ca. 30 minuten rijden van Niederau, via de B170 in het Brixental.",
+   "en": "Westendorf is roughly 30 minutes by car from Niederau, via the B170 through the Brixental.",
+   "de": "Westendorf liegt ca. 30 Fahrminuten von Niederau entfernt, über die B170 durch das Brixental."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "Approx. 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 min Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Westendorf, Brixental",
+   "en": "Westendorf, Brixental",
+   "de": "Westendorf, Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen te doen bij Westendorf?",
+     "en": "What is there for children near Westendorf?",
+     "de": "Was gibt es für Kinder in der Nähe von Westendorf?"
+    },
+    "a": {
+     "nl": "Alpinolino op de Choralpe combineert natuurbeleving met thematische paden, een marmottenrally en andere speelse onderdelen.",
+     "en": "Alpinolino on the Choralpe combines nature discovery with themed trails, a marmot rally and other playful stops.",
+     "de": "Der Alpinolino auf der Choralpe verbindet Naturerlebnis mit Themenwegen, einer Murmeltier-Rallye und weiteren spielerischen Stationen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s137",
+  "drop": false,
+  "drop_reason": "",
+  "place": "westendorf",
+  "slug_en": "sennerei-westendorf-dairy",
+  "slug_de": "sennerei-westendorf",
+  "title": {
+   "nl": "Sennerei Westendorf",
+   "en": "Sennerei Westendorf dairy",
+   "de": "Sennerei Westendorf"
+  },
+  "tagline": {
+   "nl": "Kaas en zuivel uit het Brixental, direct bij de maker",
+   "en": "Cheese and dairy from the Brixental, straight from the maker",
+   "de": "Käse und Milchprodukte aus dem Brixental, direkt vom Hersteller"
+  },
+  "intro": {
+   "nl": "De Sennerei Westendorf is een kleine, familiebedrijfachtige zuivelfabriek in het dorp. Er worden onder meer Tilsiter, Bergkäse, bierkaas en Brodakas gemaakt, daarnaast boter, yoghurt, room en kwark. De Brodakas is een zure-melkkaas en een specialiteit van het Brixental die volgens de toeristische informatie alleen hier verkrijgbaar is.\n\nIn de winkel koop je de eigen producten en daarnaast regionale artikelen zoals spek en worst, eieren, honing, jam, kruiden en thee. Het is een leuke stop als je lokale producten als souvenir wilt meenemen. Of er rondleidingen of proeverijen zijn, hangt van het moment af; vraag dat ter plaatse of via het toeristenbureau.",
+   "en": "The Sennerei Westendorf is a small, family-run dairy in the village. Among other things it makes Tilsiter, Bergkäse, beer cheese and Brodakas, as well as butter, yoghurt, cream and curd. Brodakas is a sour-milk cheese and a Brixental speciality that, according to tourist information, is only available here.\n\nThe shop sells the dairy's own products along with regional items such as bacon and sausages, eggs, honey, jam, spices and tea. It is a nice stop if you want to take local products home as souvenirs. Whether tours or tastings are on offer depends on the time; ask on site or via the tourist office.",
+   "de": "Die Sennerei Westendorf ist eine kleine, familiär geführte Käserei im Ort. Hergestellt werden unter anderem Tilsiter, Bergkäse, Bierkäse und Brodakas sowie Butter, Joghurt, Rahm und Topfen. Der Brodakas ist ein Sauermilchkäse und eine Brixentaler Spezialität, die laut Tourismusinformation nur hier erhältlich ist.\n\nIm Laden gibt es die eigenen Produkte sowie regionale Artikel wie Speck und Wurst, Eier, Honig, Marmelade, Gewürze und Tee. Es ist ein schöner Stopp, wenn du regionale Produkte als Souvenir mitnehmen möchtest. Ob Führungen oder Verkostungen angeboten werden, hängt vom Zeitpunkt ab; frag vor Ort oder beim Tourismusbüro."
+  },
+  "tips": {
+   "nl": [
+    "Kijk vooraf naar de openingstijden; de winkel is niet de hele dag open.",
+    "Probeer de Brodakas, een specialiteit van het Brixental.",
+    "Koop kaas als souvenir en houd hem onderweg koel.",
+    "Vraag ter plaatse of een rondleiding of proeverij mogelijk is."
+   ],
+   "en": [
+    "Check opening hours beforehand; the shop is not open all day.",
+    "Try the Brodakas, a Brixental speciality.",
+    "Buy cheese as a souvenir and keep it cool on the way.",
+    "Ask on site whether a tour or tasting is possible."
+   ],
+   "de": [
+    "Prüfe vorab die Öffnungszeiten; der Laden ist nicht ganztägig geöffnet.",
+    "Probiere den Brodakas, eine Brixentaler Spezialität.",
+    "Kaufe Käse als Souvenir und halte ihn unterwegs kühl.",
+    "Frag vor Ort, ob eine Führung oder Verkostung möglich ist."
+   ]
+  },
+  "practical": {
+   "nl": "De Sennerei ligt in Westendorf, ca. 30 minuten rijden van Niederau. Controleer de actuele openingstijden van de winkel.",
+   "en": "The Sennerei is in Westendorf, roughly 30 minutes by car from Niederau. Check the shop's current opening hours.",
+   "de": "Die Sennerei liegt in Westendorf, ca. 30 Fahrminuten von Niederau entfernt. Prüfe die aktuellen Öffnungszeiten des Ladens."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 30 tot 60 min.",
+    "en": "Approx. 30 to 60 min.",
+    "de": "Ca. 30 bis 60 Min."
+   },
+   "price": {
+    "nl": "Gratis te bezoeken; producten zijn te koop",
+    "en": "Free to visit; products are for sale",
+    "de": "Besuch kostenlos; Produkte sind käuflich"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "Approx. 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Westendorf, Brixental",
+   "en": "Westendorf, Brixental",
+   "de": "Westendorf, Brixental"
+  },
+  "url": "https://www.sennerei-westendorf.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat maakt de Sennerei Westendorf?",
+     "en": "What does the Sennerei Westendorf make?",
+     "de": "Was stellt die Sennerei Westendorf her?"
+    },
+    "a": {
+     "nl": "Onder meer Tilsiter, Bergkäse, bierkaas en Brodakas, plus boter, yoghurt, room en kwark.",
+     "en": "Among other things Tilsiter, Bergkäse, beer cheese and Brodakas, plus butter, yoghurt, cream and curd.",
+     "de": "Unter anderem Tilsiter, Bergkäse, Bierkäse und Brodakas sowie Butter, Joghurt, Rahm und Topfen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s135",
+  "drop": false,
+  "drop_reason": "",
+  "place": "westendorf",
+  "slug_en": "choralpe-hiking-westendorf",
+  "slug_de": "choralpe-wandern-westendorf",
+  "title": {
+   "nl": "Choralpe bij Westendorf",
+   "en": "Choralpe near Westendorf",
+   "de": "Choralpe bei Westendorf"
+  },
+  "tagline": {
+   "nl": "Rustige bergwandeling in het Brixental met gezinsroutes",
+   "en": "A quiet Brixental mountain walk with family trails",
+   "de": "Ruhige Bergwanderung im Brixental mit Familienwegen"
+  },
+  "intro": {
+   "nl": "De Choralpe is het wandelgebied boven Westendorf in het Brixental. In de zomer brengt de Alpenrosenbahn je in twee delen omhoog naar het Talkaser op ca. 1.770 m, waarna je meteen op de bergweiden staat. Vandaar vertrekken paden langs berghutten, onder meer de Alpenrosenhütte, met uitzicht op de Kitzbüheler Alpen.\n\nVoor gezinnen is er Alpinolino, een beleveniswereld met thematische paden, een marmottenrally en een vliegschool met de adelaar Bert. Kinderen ontdekken zo spelenderwijs de bergnatuur. Wie meer wil, kan langere rondes lopen, bijvoorbeeld langs de Fleidingalm. Plan een hutstop in en kijk vooraf naar het weer en de actuele bedrijfstijden van de bahn.",
+   "en": "The Choralpe is the hiking area above Westendorf in the Brixental. In summer the two-section Alpenrosenbahn takes you up to the Talkaser at about 1,770 m, and you are on the mountain pastures straight away. Paths lead from there past mountain huts, including the Alpenrosenhütte, with views of the Kitzbühel Alps.\n\nFor families there is Alpinolino, an adventure world with themed trails, a marmot rally and a flight school with the eagle Bert. Children discover mountain nature through play. If you want more, you can walk longer loops, for instance towards the Fleidingalm. Plan a hut stop and check the weather and the lift's current operating times beforehand.",
+   "de": "Die Choralpe ist das Wandergebiet oberhalb von Westendorf im Brixental. Im Sommer bringt dich die zweiteilige Alpenrosenbahn zum Talkaser auf ca. 1.770 m, und du stehst gleich auf den Almwiesen. Von dort führen Wege an Berghütten vorbei, darunter die Alpenrosenhütte, mit Blick auf die Kitzbüheler Alpen.\n\nFür Familien gibt es den Alpinolino, eine Erlebniswelt mit Themenwegen, einer Murmeltier-Rallye und einer Flugschule mit Adler Bert. So entdecken Kinder spielerisch die Bergnatur. Wer mehr möchte, wandert längere Runden, etwa Richtung Fleidingalm. Plane eine Hüttenrast ein und prüfe vorab Wetter und aktuelle Betriebszeiten der Bahn."
+  },
+  "tips": {
+   "nl": [
+    "Kies een korte thematische route van Alpinolino als je jonge kinderen hebt.",
+    "Plan een hutstop in; veel hutten serveren eenvoudige Tiroler gerechten.",
+    "Controleer vooraf de bedrijfstijden van de bahn.",
+    "Neem zonnebrand en een regenjas mee; het weer in de bergen kan snel omslaan."
+   ],
+   "en": [
+    "Choose a short Alpinolino themed trail if you have young children.",
+    "Plan a hut stop; many huts serve simple Tyrolean dishes.",
+    "Check the lift's operating times beforehand.",
+    "Bring sun cream and a rain jacket; mountain weather can change quickly."
+   ],
+   "de": [
+    "Wähle einen kurzen Themenweg im Alpinolino, wenn du kleine Kinder hast.",
+    "Plane eine Hüttenrast ein; viele Hütten servieren einfache Tiroler Gerichte.",
+    "Prüfe vorab die Betriebszeiten der Bahn.",
+    "Nimm Sonnenschutz und eine Regenjacke mit; das Bergwetter kann schnell umschlagen."
+   ]
+  },
+  "practical": {
+   "nl": "Westendorf ligt ca. 30 minuten rijden van Niederau, via Wörgl of Hopfgarten. De Alpenrosenbahn rijdt in de zomer; de exacte seizoensdata en tijden verschillen per jaar.",
+   "en": "Westendorf is about 30 minutes by car from Niederau, via Wörgl or Hopfgarten. The Alpenrosenbahn runs in summer; exact season dates and times differ each year.",
+   "de": "Westendorf liegt ca. 30 Autominuten von Niederau entfernt, über Wörgl oder Hopfgarten. Die Alpenrosenbahn fährt im Sommer; die genauen Saisondaten und Zeiten ändern sich jährlich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Für alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check in advance",
+    "de": "Preis variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "About 30 min by car",
+    "de": "Ca. 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (data wisselen per jaar)",
+    "en": "Summer (dates vary by year)",
+    "de": "Sommer (Termine wechseln jährlich)"
+   }
+  },
+  "location": {
+   "nl": "Westendorf, Brixental",
+   "en": "Westendorf, Brixental",
+   "de": "Westendorf, Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Choralpe geschikt voor kinderen?",
+     "en": "Is the Choralpe suitable for children?",
+     "de": "Ist die Choralpe für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, Alpinolino heeft thematische paden, een marmottenrally en andere speelse onderdelen; wie meer wil lopen, vindt ook langere routes.",
+     "en": "Yes, Alpinolino has themed trails, a marmot rally and other playful stops; those who want to walk further will also find longer routes.",
+     "de": "Ja, der Alpinolino bietet Themenwege, eine Murmeltier-Rallye und weitere spielerische Stationen; wer weiter wandern möchte, findet auch längere Routen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s61",
+  "drop": false,
+  "drop_reason": "",
+  "place": "mayrhofen",
+  "slug_en": "penkenbahn-mayrhofen",
+  "slug_de": "penkenbahn-mayrhofen",
+  "title": {
+   "nl": "Penkenbahn Mayrhofen",
+   "en": "Penkenbahn, Mayrhofen",
+   "de": "Penkenbahn Mayrhofen"
+  },
+  "tagline": {
+   "nl": "Met de gondel naar de Penken, met speel- en sportstation",
+   "en": "By cable car up the Penken, with play and sports facilities",
+   "de": "Mit der Bahn auf den Penken, mit Spiel- und Sportstation"
+  },
+  "intro": {
+   "nl": "De Penkenbahn is een moderne driekabelbaan in Mayrhofen in het Zillertal. Het bergstation ligt op ca. 1.790 m. Bovenaan vind je de FunSportStation Penken met een speelplaats, een motorisch parcours en activiteiten als E-Trial en de Bergroller.\n\nVlak naast het bergstation ligt de waterspeelplaats LärchwaldBachl, met onder meer een waterrad, een spiraalemmer en houten tonnen en goten. Op warme dagen is dat een vaste favoriet bij kinderen. De FunSportStation is in de zomer geopend, ongeveer van eind juni tot september. Plan ruim de tijd en kijk vooraf naar het weer en de actuele informatie, zodat het bezoek ontspannen verloopt.",
+   "en": "The Penkenbahn is a modern three-rope cable car in Mayrhofen in the Zillertal. The top station is at about 1,790 m. Up top you find the FunSportStation Penken with a playground, a motor-skills course and activities such as E-Trial and the Bergroller.\n\nRight next to the top station is the LärchwaldBachl water playground, with a water wheel, a spiral bucket and wooden barrels and gutters, among other things. On warm days it is a firm favourite with children. The FunSportStation is open in summer, roughly from late June to September. Allow plenty of time and check the weather and current information beforehand so the visit goes smoothly.",
+   "de": "Die Penkenbahn ist eine moderne Dreiseilumlaufbahn in Mayrhofen im Zillertal. Die Bergstation liegt auf ca. 1.790 m. Oben findest du die FunSportStation Penken mit einem Spielplatz, einem Motorikparcours und Angeboten wie E-Trial und Bergroller.\n\nDirekt neben der Bergstation liegt der Wasserspielplatz LärchwaldBachl, unter anderem mit Wasserrad, Spiraleimer sowie Holzfässern und Rinnen. An warmen Tagen ist er bei Kindern ein fester Favorit. Die FunSportStation ist im Sommer geöffnet, etwa von Ende Juni bis September. Plane reichlich Zeit ein und prüfe vorab Wetter und aktuelle Informationen, damit der Besuch entspannt verläuft."
+  },
+  "tips": {
+   "nl": [
+    "Neem reservekleding mee voor de waterspeelplaats.",
+    "Controleer de leeftijds- en lengte-eisen voor de Bergroller.",
+    "Controleer vooraf de seizoensdata en bedrijfstijden van de bahn en de FunSportStation.",
+    "Plan voldoende tijd in; kinderen blijven vaak lang bij het water."
+   ],
+   "en": [
+    "Bring spare clothes for the water playground.",
+    "Check age and height requirements for the Bergroller.",
+    "Check the season dates and operating times of the lift and the FunSportStation beforehand.",
+    "Allow plenty of time; children often stay at the water for a long while."
+   ],
+   "de": [
+    "Wechselkleidung für den Wasserspielplatz mitnehmen.",
+    "Alters- und Größenvorgaben für den Bergroller prüfen.",
+    "Saisonzeiten und Betriebszeiten der Bahn und der FunSportStation vorab prüfen.",
+    "Reichlich Zeit einplanen; Kinder bleiben oft lange am Wasser."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Mayrhofen in ca. 55 minuten rijden, via Wörgl en de Zillertalstraße. Je kunt ook met de trein vanuit Jenbach. Controleer vooraf de actuele tarieven en tijden.",
+   "en": "From Niederau, Mayrhofen is about 55 minutes by car, via Wörgl and the Zillertal road. You can also take the train from Jenbach. Check current fares and times beforehand.",
+   "de": "Von Niederau erreichst du Mayrhofen in ca. 55 Minuten, über Wörgl und die Zillertalstraße. Auch mit dem Zug ab Jenbach möglich. Aktuelle Tarife und Zeiten vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinnen met kinderen",
+    "en": "Families with children",
+    "de": "Familien mit Kindern"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Prices vary; check beforehand",
+    "de": "Preise wechseln; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "Approx. 55 min by car",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (FunSportStation ca. eind juni tot september)",
+    "en": "Summer (FunSportStation approx. late June to September)",
+    "de": "Sommer (FunSportStation ca. Ende Juni bis September)"
+   }
+  },
+  "location": {
+   "nl": "Mayrhofen, Zillertal",
+   "en": "Mayrhofen, Zillertal",
+   "de": "Mayrhofen, Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen op de Penken?",
+     "en": "What is there for children on the Penken?",
+     "de": "Was gibt es für Kinder am Penken?"
+    },
+    "a": {
+     "nl": "Een speelplaats, de waterspeelplaats LärchwaldBachl en een motorisch parcours bij de FunSportStation Penken.",
+     "en": "A playground, the LärchwaldBachl water playground and a motor-skills course at the FunSportStation Penken.",
+     "de": "Ein Spielplatz, der Wasserspielplatz LärchwaldBachl und ein Motorikparcours an der FunSportStation Penken."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s97",
+  "drop": false,
+  "drop_reason": "",
+  "place": "mayrhofen",
+  "slug_en": "zillertal-canyoning",
+  "slug_de": "canyoning-zillertal",
+  "title": {
+   "nl": "Canyoning in het Zillertal",
+   "en": "Canyoning in the Zillertal",
+   "de": "Canyoning im Zillertal"
+  },
+  "tagline": {
+   "nl": "Door kloven klauteren, zwemmen en springen met een gids",
+   "en": "Climb, swim and jump through gorges with a guide",
+   "de": "Mit Guide durch Schluchten klettern, schwimmen und springen"
+  },
+  "intro": {
+   "nl": "Bij canyoning volg je een bergbeek door een kloof: je daalt af langs rotsen, glijdt door waterbekkens en springt op geschikte plekken in het water. Aanbieders in het Zillertal, onder meer in de Zemmschlucht bij Mayrhofen, doen dit onder leiding van gidsen en zorgen voor de uitrusting.\n\nEr zijn tochten voor verschillende niveaus. Gezinstochten voor beginners beginnen bij aanbieders in Mayrhofen vanaf ca. 6 jaar, een lichtere sportieve tocht vanaf ca. 10 jaar en de tocht naar de Blaue Lagune vanaf ca. 12 jaar. Een tocht duurt ruwweg drie tot vier uur. Boek vooraf bij een aanbieder en vraag naar leeftijd, conditie en weersomstandigheden.",
+   "en": "In canyoning you follow a mountain stream through a gorge: you abseil down rocks, slide through pools and jump into the water at suitable spots. Providers in the Zillertal, including in the Zemmschlucht near Mayrhofen, run this under the guidance of guides and provide the equipment.\n\nThere are trips for different levels. Beginner family trips with providers in Mayrhofen start from about 6 years, a lighter sporty trip from about 10 and the trip to the Blaue Lagune from about 12. A trip takes roughly three to four hours. Book ahead with a provider and ask about age, fitness and weather conditions.",
+   "de": "Beim Canyoning folgt man einem Gebirgsbach durch eine Schlucht: Man seilt sich an Felsen ab, rutscht durch Wasserbecken und springt an geeigneten Stellen ins Wasser. Anbieter im Zillertal, etwa in der Zemmschlucht bei Mayrhofen, führen das mit Guides durch und stellen die Ausrüstung.\n\nEs gibt Touren für verschiedene Niveaus. Familientouren für Einsteiger beginnen bei Anbietern in Mayrhofen ab etwa 6 Jahren, eine leichtere sportliche Tour ab etwa 10 und die Tour zur Blauen Lagune ab etwa 12. Eine Tour dauert grob drei bis vier Stunden. Vorab bei einem Anbieter buchen und nach Alter, Kondition und Wetterbedingungen fragen."
+  },
+  "tips": {
+   "nl": [
+    "Boek vooraf en vraag naar de minimumleeftijd van de gekozen tocht.",
+    "Draag badkleding onder het pak en neem een handdoek mee.",
+    "Bij slecht weer of hoog water kan een tocht vervallen."
+   ],
+   "en": [
+    "Book ahead and ask about the minimum age of the chosen trip.",
+    "Wear swimwear under the wetsuit and bring a towel.",
+    "Trips may be cancelled in bad weather or high water."
+   ],
+   "de": [
+    "Vorab buchen und nach dem Mindestalter der gewählten Tour fragen.",
+    "Badekleidung unter dem Anzug tragen und ein Handtuch mitnehmen.",
+    "Bei schlechtem Wetter oder Hochwasser kann eine Tour ausfallen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 55 minuten rijden naar Mayrhofen in het Zillertal, waar de aanbieders hun tochten starten.",
+   "en": "From Niederau it is about 55 minutes by car to Mayrhofen in the Zillertal, where providers start their trips.",
+   "de": "Von Niederau sind es etwa 55 Minuten mit dem Auto nach Mayrhofen im Zillertal, wo die Anbieter ihre Touren starten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinstochten vanaf ca. 6 jaar; sportiever vanaf 10 tot 12",
+    "en": "Family trips from about 6; sportier from 10 to 12",
+    "de": "Familientouren ab ca. 6; sportlicher ab 10 bis 12"
+   },
+   "duration": {
+    "nl": "Ca. 3–4 uur",
+    "en": "About 3–4 hours",
+    "de": "Ca. 3–4 Std."
+   },
+   "price": {
+    "nl": "Prijs verschilt per tocht; informeer vooraf",
+    "en": "Price varies by trip; check beforehand",
+    "de": "Preis je nach Tour verschieden; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "About 55 min by car",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Zillertal (Mayrhofen)",
+   "en": "Zillertal (Mayrhofen)",
+   "de": "Zillertal (Mayrhofen)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Vanaf welke leeftijd kun je canyoning doen in het Zillertal?",
+     "en": "From what age can you go canyoning in the Zillertal?",
+     "de": "Ab welchem Alter ist Canyoning im Zillertal möglich?"
+    },
+    "a": {
+     "nl": "Gezinstochten voor beginners beginnen bij aanbieders in Mayrhofen vanaf ca. 6 jaar; sportievere tochten vanaf ca. 10 tot 12 jaar.",
+     "en": "Beginner family trips with providers in Mayrhofen start from about 6; sportier trips from about 10 to 12.",
+     "de": "Familientouren für Einsteiger beginnen bei Anbietern in Mayrhofen ab ca. 6 Jahren; sportlichere Touren ab ca. 10 bis 12 Jahren."
+    }
+   }
+  ],
+  "verified": true
+ }
+]

@@ -1,0 +1,530 @@
+[
+ {
+  "slug": "westendorf",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Westendorf",
+   "en": "Westendorf",
+   "de": "Westendorf"
+  },
+  "tagline": {
+   "nl": "Bloemrijk dorp aan de voet van de Choralpe, met Alpinolino voor kinderen",
+   "en": "Flower-filled village below the Choralpe, with the Alpinolino children's area",
+   "de": "Blumenreicher Ort am Fuß der Choralpe, mit Alpinolino für Kinder"
+  },
+  "intro": {
+   "nl": "Westendorf ligt aan de ingang van het Brixental, op een zonnig plateau aan de voet van de Choralpe, op ongeveer 800 meter hoogte. Het dorp telt ruim 3.700 inwoners en staat bekend om zijn verzorgde bloementuinen: het werd ooit in de Entente Florale-wedstrijd uitgeroepen tot een van de mooiste bloemendorpen van Europa.\n\nIn de zomer begint hier een uitgestrekt netwerk van bewegwijzerde wandelpaden en fietsroutes door het Windautal en over de alpenweiden. Vanuit het dorp brengt de Alpenrosenbahn je in de zomermaanden naar de Talkaser op ongeveer 1.770 meter. Daar ligt Alpinolino, een ontdekkingsgebied voor kinderen met speurtochten over dieren en natuur, en een uitkijkpunt met zicht op het Brixental en de Hohe Tauern. Midden in de zomer zijn er speciale speeldagen voor kinderen.\n\nIn de winter hoort Westendorf bij de SkiWelt Wilder Kaiser-Brixental, waar de liften direct vanuit de omgeving van het dorp vertrekken. Voor een gezin uit Niederau is het een rustige dagtocht naar een ander dal, met meer ruimte en minder drukte dan Kitzbühel. Controleer vooraf de actuele openingstijden van de bergbanen en van Alpinolino.",
+   "en": "Westendorf lies at the entrance to the Brixental, on a sunny plateau below the Choralpe, at roughly 800 metres. The village has more than 3,700 inhabitants and is known for its carefully tended flower displays: it was once named one of Europe's prettiest flower villages in the Entente Florale competition.\n\nIn summer a wide network of signposted walking paths and cycle routes starts here, running through the Windautal and across the alpine pastures. In the summer months the Alpenrosenbahn takes you up to the Talkaser at around 1,770 metres. There you will find Alpinolino, a discovery area for children with nature and wildlife trails, plus a viewpoint over the Brixental and the Hohe Tauern. In high summer there are special play days for children.\n\nIn winter Westendorf belongs to the SkiWelt Wilder Kaiser-Brixental, with lifts starting close to the village. For a family from Niederau it makes a relaxed day out in a different valley, with more space and fewer crowds than Kitzbühel. Check the current opening times of the lifts and Alpinolino before you go.",
+   "de": "Westendorf liegt am Eingang des Brixentals, auf einem sonnigen Hochplateau am Fuß der Choralpe, auf rund 800 Metern Höhe. Der Ort hat mehr als 3.700 Einwohner und ist für seinen gepflegten Blumenschmuck bekannt: Im Wettbewerb Entente Florale wurde er einst zu einem der schönsten Blumendörfer Europas gekürt.\n\nIm Sommer beginnt hier ein weitläufiges Netz aus beschilderten Wander- und Radwegen durch das Windautal und über die Almflächen. In den Sommermonaten bringt Sie die Alpenrosenbahn zum Talkaser auf etwa 1.770 Metern. Dort liegt Alpinolino, eine Entdeckerwelt für Kinder mit Natur- und Tierrätseln, dazu ein Aussichtspunkt mit Blick über das Brixental und die Hohen Tauern. Im Hochsommer gibt es besondere Spieltage für Kinder.\n\nIm Winter gehört Westendorf zur SkiWelt Wilder Kaiser-Brixental, die Bahnen starten nahe beim Ort. Für eine Familie aus Niederau ist es ein entspannter Tagesausflug in ein anderes Tal, mit mehr Platz und weniger Trubel als in Kitzbühel. Prüfen Sie vorab die aktuellen Öffnungszeiten der Bahnen und von Alpinolino."
+  },
+  "highlights": {
+   "nl": [
+    "Mit de Alpenrosenbahn (zomer) naar de Talkaser op ca. 1.770 m, met uitzichtpunt over het Brixental en de Hohe Tauern.",
+    "Alpinolino: ontdekkingsgebied voor kinderen met speurtochten over natuur en dieren.",
+    "Wandelen en fietsen over meer dan 250 km bewegwijzerde paden door het Windautal en over de alpenweiden.",
+    "Skiën in de SkiWelt Wilder Kaiser-Brixental in de winter.",
+    "Een wandeling door het dorp met zijn bloemversiering."
+   ],
+   "en": [
+    "Take the Alpenrosenbahn (summer) up to the Talkaser at about 1,770 m, with a viewpoint over the Brixental and the Hohe Tauern.",
+    "Alpinolino: a discovery area for children with nature and wildlife trails.",
+    "Walking and cycling on more than 250 km of signposted paths through the Windautal and across the alpine pastures.",
+    "Skiing in the SkiWelt Wilder Kaiser-Brixental in winter.",
+    "A stroll through the village with its flower displays."
+   ],
+   "de": [
+    "Im Sommer mit der Alpenrosenbahn zum Talkaser auf rund 1.770 m, mit Aussichtspunkt über das Brixental und die Hohen Tauern.",
+    "Alpinolino: Entdeckerwelt für Kinder mit Natur- und Tierrätseln.",
+    "Wandern und Radfahren auf mehr als 250 km beschilderten Wegen durch das Windautal und über die Almen.",
+    "Im Winter Skifahren in der SkiWelt Wilder Kaiser-Brixental.",
+    "Ein Spaziergang durch den Ort mit seinem Blumenschmuck."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten met de auto vanaf Niederau, via Wörgl en daarna door het Brixental richting Kitzbühel.",
+   "en": "About 35 minutes by car from Niederau, via Wörgl and then along the Brixental towards Kitzbühel.",
+   "de": "Ca. 35 Minuten mit dem Auto ab Niederau, über Wörgl und dann durch das Brixental Richtung Kitzbühel."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met kinderen die een rustig dorp met natuur en wandelen zoeken.",
+   "en": "Suits families with children looking for a quiet village with nature and walking.",
+   "de": "Passt zu Familien mit Kindern, die einen ruhigen Ort mit Natur und Wandern suchen."
+  },
+  "season": {
+   "nl": "Hele jaar; Alpenrosenbahn en wandelen in de zomer, skiën in de winter.",
+   "en": "Year-round; Alpenrosenbahn and walking in summer, skiing in winter.",
+   "de": "Ganzjährig; Alpenrosenbahn und Wandern im Sommer, Skifahren im Winter."
+  },
+  "drive_min": 35,
+  "elevation_m": 800,
+  "url": "https://www.kitzbueheler-alpen.com/de/bri/westendorf.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoort Westendorf bij hetzelfde skigebied als Niederau?",
+     "en": "Is Westendorf part of the same ski area as Niederau?",
+     "de": "Gehört Westendorf zum selben Skigebiet wie Niederau?"
+    },
+    "a": {
+     "nl": "Nee. Westendorf hoort bij de SkiWelt Wilder Kaiser-Brixental, Niederau bij Ski Juwel Alpbachtal Wildschönau. Het zijn aparte skigebieden met eigen skipassen; informeer vooraf naar de actuele regeling.",
+     "en": "No. Westendorf belongs to the SkiWelt Wilder Kaiser-Brixental, Niederau to the Ski Juwel Alpbachtal Wildschönau. They are separate ski areas with their own passes; check the current arrangements beforehand.",
+     "de": "Nein. Westendorf gehört zur SkiWelt Wilder Kaiser-Brixental, Niederau zum Ski Juwel Alpbachtal Wildschönau. Es sind getrennte Skigebiete mit eigenen Skipässen; informieren Sie sich vorab über die aktuelle Regelung."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is er voor kinderen te doen in Westendorf in de zomer?",
+     "en": "What is there for children to do in Westendorf in summer?",
+     "de": "Was gibt es im Sommer für Kinder in Westendorf?"
+    },
+    "a": {
+     "nl": "Met de Alpenrosenbahn kom je bij Alpinolino op de Talkaser, een ontdekkingsgebied voor kinderen. De bergbaan rijdt in de zomer ongeveer van mei tot november; controleer de actuele tijden.",
+     "en": "The Alpenrosenbahn takes you to Alpinolino on the Talkaser, a discovery area for children. In summer the lift runs roughly from May to November; check the current times.",
+     "de": "Mit der Alpenrosenbahn gelangen Sie zu Alpinolino am Talkaser, einer Entdeckerwelt für Kinder. Im Sommer fährt die Bahn etwa von Mai bis November; prüfen Sie die aktuellen Zeiten."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "kirchberg-in-tirol",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Kirchberg in Tirol",
+   "en": "Kirchberg in Tirol",
+   "de": "Kirchberg in Tirol"
+  },
+  "tagline": {
+   "nl": "Levendig dorp in het Brixental, aan de ingang van het Spertental",
+   "en": "Lively village in the Brixental, at the mouth of the Spertental",
+   "de": "Lebendiger Ort im Brixental, am Eingang des Spertentals"
+  },
+  "intro": {
+   "nl": "Kirchberg in Tirol ligt op ongeveer 860 meter hoogte in het Brixental, op de plek waar het Spertental op het hoofddal uitkomt, enkele kilometers ten westen van Kitzbühel. Met ruim 5.000 inwoners is het een van de grotere dorpen van de regio, met winkels, restaurants en een dorpscentrum dat het hele jaar leeft. De parochiekerk uit de dertiende eeuw is gewijd aan Sint-Ulrich.\n\nIn de winter vertrekt de Gaisbergbahn vanuit het dorp richting het skigebied van Kitzbühel. In de zomer kun je met dezelfde berg een wandeling combineren: de Gaisberg is ongeveer 1.770 meter hoog en te voet of met de gondel te bereiken. In de winter is er ook een rodelbaan, die wekelijks verlicht is. Het natuurgebied Spertental biedt rustige wandelingen, onder meer met een kneippvoorziening, en er is een uitgebreid netwerk van loop- en nordic-walkingroutes door het dal.\n\nVoor een gezin uit Niederau combineer je Kirchberg handig met Kitzbühel: het dorp is levendiger dan Westendorf, maar minder druk dan Kitzbühel zelf. Er is bovendien een badmeer, dat in de zomer ook wordt gebruikt voor evenementen. Controleer vooraf openingstijden en actuele programma's.",
+   "en": "Kirchberg in Tirol lies at about 860 metres in the Brixental, where the Spertental joins the main valley, a few kilometres west of Kitzbühel. With more than 5,000 inhabitants it is one of the larger villages in the region, with shops, restaurants and a centre that is lively all year round. The parish church, dating from the thirteenth century, is dedicated to Saint Ulrich.\n\nIn winter the Gaisbergbahn starts from the village towards the Kitzbühel ski area. In summer you can combine the same mountain with a walk: the Gaisberg is about 1,770 metres high and can be reached on foot or by gondola. In winter there is also a toboggan run that is lit up once a week. The Spertental nature reserve offers quiet walks, including a Kneipp facility, and a wide network of running and Nordic walking routes runs through the valley.\n\nFor a family from Niederau, Kirchberg combines easily with Kitzbühel: the village is livelier than Westendorf but less busy than Kitzbühel itself. There is also a bathing lake, which is used for summer events as well. Check opening times and current programmes beforehand.",
+   "de": "Kirchberg in Tirol liegt auf etwa 860 Metern im Brixental, dort, wo das Spertental ins Haupttal mündet, wenige Kilometer westlich von Kitzbühel. Mit mehr als 5.000 Einwohnern ist es einer der größeren Orte der Region, mit Geschäften, Restaurants und einem Ortskern, der das ganze Jahr über belebt ist. Die Pfarrkirche aus dem 13. Jahrhundert ist dem heiligen Ulrich geweiht.\n\nIm Winter startet die Gaisbergbahn im Ort Richtung Skigebiet Kitzbühel. Im Sommer lässt sich derselbe Berg mit einer Wanderung verbinden: Der Gaisberg ist rund 1.770 Meter hoch und zu Fuß oder mit der Gondel erreichbar. Im Winter gibt es außerdem eine Rodelbahn, die einmal pro Woche beleuchtet ist. Das Naturgebiet Spertental bietet ruhige Wanderungen, unter anderem mit einer Kneippanlage, und durch das Tal führt ein weites Netz an Lauf- und Nordic-Walking-Strecken.\n\nFür eine Familie aus Niederau lässt sich Kirchberg gut mit Kitzbühel kombinieren: Der Ort ist lebhafter als Westendorf, aber weniger voll als Kitzbühel selbst. Außerdem gibt es einen Badesee, der im Sommer auch für Veranstaltungen genutzt wird. Prüfen Sie vorab Öffnungszeiten und aktuelle Programme."
+  },
+  "highlights": {
+   "nl": [
+    "Met de Gaisbergbahn naar de Gaisberg (ca. 1.770 m): wandelen in de zomer, skiën en rodelen in de winter.",
+    "Rustige gezinswandelingen in het natuurgebied Spertental, met o.a. een kneippvoorziening.",
+    "Loop- en nordic-walkingroutes door het dal (ca. 88 km netwerk).",
+    "De oude parochiekerk gewijd aan Sint-Ulrich in het dorpscentrum.",
+    "Het badmeer Kirchberg in de zomer."
+   ],
+   "en": [
+    "Take the Gaisbergbahn up the Gaisberg (about 1,770 m): walking in summer, skiing and tobogganing in winter.",
+    "Quiet family walks in the Spertental nature reserve, including a Kneipp facility.",
+    "Running and Nordic walking routes through the valley (a network of about 88 km).",
+    "The old parish church dedicated to Saint Ulrich in the village centre.",
+    "The Kirchberg bathing lake in summer."
+   ],
+   "de": [
+    "Mit der Gaisbergbahn auf den Gaisberg (ca. 1.770 m): Wandern im Sommer, Skifahren und Rodeln im Winter.",
+    "Ruhige Familienwanderungen im Naturgebiet Spertental, u. a. mit Kneippanlage.",
+    "Lauf- und Nordic-Walking-Strecken durch das Tal (Netz von ca. 88 km).",
+    "Die alte Pfarrkirche zum heiligen Ulrich im Ortskern.",
+    "Der Badesee Kirchberg im Sommer."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 45 minuten met de auto vanaf Niederau, via Wörgl en door het Brixental.",
+   "en": "About 45 minutes by car from Niederau, via Wörgl and through the Brixental.",
+   "de": "Ca. 45 Minuten mit dem Auto ab Niederau, über Wörgl und durch das Brixental."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen en skiërs die Kitzbühel willen combineren met een dorpsdag.",
+   "en": "Suits families and skiers wanting to combine Kitzbühel with a village day.",
+   "de": "Passt zu Familien und Skifahrern, die Kitzbühel mit einem Dorftag verbinden möchten."
+  },
+  "season": {
+   "nl": "Hele jaar; skiën en rodelen in de winter, wandelen en zwemmen in de zomer.",
+   "en": "Year-round; skiing and tobogganing in winter, hiking and swimming in summer.",
+   "de": "Ganzjährig; Skifahren und Rodeln im Winter, Wandern und Baden im Sommer."
+  },
+  "drive_min": 45,
+  "elevation_m": 860,
+  "url": "https://www.kitzbueheler-alpen.com/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe ver is Kirchberg van Kitzbühel?",
+     "en": "How far is Kirchberg from Kitzbühel?",
+     "de": "Wie weit ist Kirchberg von Kitzbühel entfernt?"
+    },
+    "a": {
+     "nl": "Beide plaatsen liggen enkele kilometers van elkaar; met de auto is het een korte rit van ongeveer tien minuten.",
+     "en": "The two places are a few kilometres apart; by car it is a short drive of roughly ten minutes.",
+     "de": "Die beiden Orte liegen wenige Kilometer auseinander; mit dem Auto ist es eine kurze Fahrt von etwa zehn Minuten."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Kirchberg ook in de zomer de moeite waard?",
+     "en": "Is Kirchberg worth a visit in summer too?",
+     "de": "Lohnt sich Kirchberg auch im Sommer?"
+    },
+    "a": {
+     "nl": "Ja, het dorp is een uitgangspunt voor wandel- en fietstochten door het Brixental, het Spertental en naar de Gaisberg; er is ook een badmeer.",
+     "en": "Yes, the village is a starting point for walking and cycling trips through the Brixental, the Spertental and up the Gaisberg; there is also a bathing lake.",
+     "de": "Ja, der Ort ist Ausgangspunkt für Wander- und Radtouren durch das Brixental, das Spertental und auf den Gaisberg; es gibt auch einen Badesee."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "kitzbuehel",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Kitzbühel",
+   "en": "Kitzbühel",
+   "de": "Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Historische stad in de Kitzbüheler Alpen, bekend om de Hahnenkamm-race",
+   "en": "Historic town in the Kitzbühel Alps, known for the Hahnenkamm race",
+   "de": "Historische Stadt in den Kitzbüheler Alpen, bekannt für das Hahnenkammrennen"
+  },
+  "intro": {
+   "nl": "Kitzbühel ligt op ongeveer 762 meter hoogte in het Leukental, tussen de Hahnenkamm (1.712 m) en het Kitzbüheler Horn (1.996 m). De stad kreeg in 1271 stadsrechten en heeft een goed bewaarde oude binnenstad op een terras ten westen van de Kitzbüheler Ache, met kleurige gevels, smalle straten, winkels en terrassen.\n\nWereldwijd is de plaats bekend door de Hahnenkamm-skirace op de Streif, die elk jaar in januari wordt verreden. Voor gezinnen is er in de zomer meer te doen dan de naam doet vermoeden: de Hornbahn brengt je naar het Kitzbüheler Horn, en daar ligt op ongeveer 1.880 meter de Alpenblumengarten, een tuin van ongeveer 20.000 m2 met meer dan 300 soorten berg- en alpenplanten. Er is ook een kinderklimpad. Ten noordwesten van de stad ligt de Schwarzsee, een natuurlijk meer om te zwemmen en te wandelen.\n\nVoor een gezin uit Niederau is Kitzbühel een volwaardige dagtocht waarin je stad, natuur en eten combineert. Het is drukker en duurder dan de dorpen in het dal; reken in het hoogseizoen op meer verkeer. Controleer vooraf openingstijden en prijzen van bergbanen en attracties.",
+   "en": "Kitzbühel lies at about 762 metres in the Leukental, between the Hahnenkamm (1,712 m) and the Kitzbüheler Horn (1,996 m). The town received its town charter in 1271 and has a well-preserved old centre on a terrace west of the Kitzbüheler Ache, with colourful façades, narrow streets, shops and terraces.\n\nThe place is known worldwide for the Hahnenkamm ski race on the Streif, held every January. For families there is more to do in summer than the name suggests: the Hornbahn takes you up the Kitzbüheler Horn, where the Alpenblumengarten lies at around 1,880 metres, a garden of roughly 20,000 m2 with more than 300 species of mountain and alpine plants. There is also a children's climbing trail. North-west of the town lies the Schwarzsee, a natural lake for swimming and walking.\n\nFor a family from Niederau, Kitzbühel is a full day out combining town, nature and dining. It is busier and pricier than the villages in the valley; expect more traffic in high season. Check opening times and prices of lifts and attractions beforehand.",
+   "de": "Kitzbühel liegt auf etwa 762 Metern im Leukental, zwischen dem Hahnenkamm (1.712 m) und dem Kitzbüheler Horn (1.996 m). Die Stadt erhielt 1271 das Stadtrecht und hat eine gut erhaltene Altstadt auf einer Terrasse westlich der Kitzbüheler Ache, mit bunten Fassaden, engen Gassen, Geschäften und Terrassen.\n\nWeltweit bekannt ist der Ort durch das Hahnenkammrennen auf der Streif, das jedes Jahr im Januar stattfindet. Für Familien gibt es im Sommer mehr zu tun, als der Name vermuten lässt: Die Hornbahn bringt Sie aufs Kitzbüheler Horn, wo auf rund 1.880 Metern der Alpenblumengarten liegt, ein Garten von etwa 20.000 m2 mit mehr als 300 Berg- und Alpenpflanzenarten. Es gibt außerdem einen Kinder-Kletterpfad. Nordwestlich der Stadt liegt der Schwarzsee, ein Naturbadesee zum Schwimmen und Spazieren.\n\nFür eine Familie aus Niederau ist Kitzbühel ein vollwertiger Tagesausflug, bei dem man Stadt, Natur und Genuss verbindet. Es ist belebter und teurer als die Dörfer im Tal; in der Hochsaison muss man mit mehr Verkehr rechnen. Prüfen Sie vorab Öffnungszeiten und Preise von Bahnen und Attraktionen."
+  },
+  "highlights": {
+   "nl": [
+    "De oude binnenstad met kleurige gevels, winkels en terrassen.",
+    "De Hahnenkamm-race op de Streif in januari (voor wie dan in de buurt is).",
+    "Het Kitzbüheler Horn (1.996 m) met de Hornbahn en wandelmogelijkheden in de zomer.",
+    "De Alpenblumengarten (ca. 1.880 m) met meer dan 300 plantensoorten en een kinderklimpad.",
+    "De Schwarzsee: zwemmen en wandelen in de zomer."
+   ],
+   "en": [
+    "The old town with colourful façades, shops and terraces.",
+    "The Hahnenkamm race on the Streif in January (if you are nearby then).",
+    "The Kitzbüheler Horn (1,996 m) with the Hornbahn and summer walking.",
+    "The Alpenblumengarten (about 1,880 m) with more than 300 plant species and a children's climbing trail.",
+    "The Schwarzsee: swimming and walking in summer."
+   ],
+   "de": [
+    "Die Altstadt mit bunten Fassaden, Geschäften und Terrassen.",
+    "Das Hahnenkammrennen auf der Streif im Januar (wer um diese Zeit in der Nähe ist).",
+    "Das Kitzbüheler Horn (1.996 m) mit der Hornbahn und Wandermöglichkeiten im Sommer.",
+    "Der Alpenblumengarten (ca. 1.880 m) mit mehr als 300 Pflanzenarten und einem Kinder-Kletterpfad.",
+    "Der Schwarzsee: Baden und Spazieren im Sommer."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 55 minuten met de auto vanaf Niederau, via Wörgl en door het Brixental (Kirchberg).",
+   "en": "About 55 minutes by car from Niederau, via Wörgl and through the Brixental (Kirchberg).",
+   "de": "Ca. 55 Minuten mit dem Auto ab Niederau, über Wörgl und durch das Brixental (Kirchberg)."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die stad, natuur en eten willen combineren.",
+   "en": "Suits families wanting to combine town, nature and dining.",
+   "de": "Passt zu Familien, die Stadt, Natur und Genuss verbinden möchten."
+  },
+  "season": {
+   "nl": "Hele jaar; skiën in de winter, wandelen, zwemmen en stadsbezoek in de zomer.",
+   "en": "Year-round; skiing in winter, hiking, swimming and sightseeing in summer.",
+   "de": "Ganzjährig; Skifahren im Winter, Wandern, Baden und Stadtbummel im Sommer."
+  },
+  "drive_min": 55,
+  "elevation_m": 762,
+  "url": "https://www.kitzbuehel.com/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom is Kitzbühel beroemd?",
+     "en": "Why is Kitzbühel famous?",
+     "de": "Wofür ist Kitzbühel berühmt?"
+    },
+    "a": {
+     "nl": "Vooral door de Hahnenkamm-skirace op de Streif, die elk jaar in januari wordt gehouden, en door de oude binnenstad.",
+     "en": "Mainly for the Hahnenkamm ski race on the Streif, held every January, and for its old town.",
+     "de": "Vor allem durch das Hahnenkammrennen auf der Streif, das jedes Jahr im Januar stattfindet, und durch die Altstadt."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat kun je in Kitzbühel in de zomer met kinderen doen?",
+     "en": "What can you do in Kitzbühel with children in summer?",
+     "de": "Was kann man in Kitzbühel im Sommer mit Kindern unternehmen?"
+    },
+    "a": {
+     "nl": "Met de Hornbahn naar het Kitzbüheler Horn en de Alpenblumengarten (met kinderklimpad), of zwemmen en wandelen bij de Schwarzsee.",
+     "en": "Take the Hornbahn up the Kitzbüheler Horn to the Alpenblumengarten (with a children's climbing trail), or swim and walk at the Schwarzsee.",
+     "de": "Mit der Hornbahn aufs Kitzbüheler Horn zum Alpenblumengarten (mit Kinder-Kletterpfad) oder Baden und Spazieren am Schwarzsee."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "soell",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Söll",
+   "en": "Söll",
+   "de": "Söll"
+  },
+  "tagline": {
+   "nl": "Dorp aan de Wilde Kaiser met Hexenwasser en de Hohe Salve",
+   "en": "Village by the Wilder Kaiser with Hexenwasser and the Hohe Salve",
+   "de": "Dorf am Wilden Kaiser mit Hexenwasser und der Hohen Salve"
+  },
+  "intro": {
+   "nl": "Söll ligt op ongeveer 703 meter hoogte aan de voet van de Hohe Salve, tussen Wörgl en St. Johann, en heeft circa 3.700 inwoners. Het hoort bij de vakantieregio Wilder Kaiser en bij de SkiWelt Wilder Kaiser-Brixental, een van de grootste aaneengesloten skigebieden van Oostenrijk.\n\nHet bekendste punt is de Hohe Salve (ongeveer 1.828 m), met een panorama dat van de Wilde Kaiser en de Hohe Tauern met de Großglockner tot de Kitzbüheler Alpen reikt. Halverwege ligt Hochsöll op ongeveer 1.355 meter, het startpunt van het Hexenwasser. Dat is een thematische wandelroute met meer dan 50 stations waar kinderen met alle zintuigen met water kunnen spelen, blootsvoets door bronwater kunnen lopen of brood kunnen bakken boven een vuurplaats. De route is bereikbaar met de Hexenwasser-gondel en in de winter is er een winterwandelversie.\n\nVoor gezinnen uit Niederau is Söll een geschikte dagtocht met kinderen, zonder lange afstanden. In de winter zijn er pistes voor alle niveaus, vooral blauwe en rode. Controleer vooraf of de bergbanen en het Hexenwasser geopend zijn en wat de actuele tarieven zijn.",
+   "en": "Söll lies at about 703 metres at the foot of the Hohe Salve, between Wörgl and St. Johann, and has around 3,700 inhabitants. It belongs to the Wilder Kaiser holiday region and to the SkiWelt Wilder Kaiser-Brixental, one of the largest connected ski areas in Austria.\n\nThe best-known spot is the Hohe Salve (about 1,828 m), with a panorama stretching from the Wilder Kaiser and the Hohe Tauern with the Großglockner to the Kitzbühel Alps. Halfway up lies Hochsöll at about 1,355 metres, the starting point of the Hexenwasser. This is a themed walking trail with more than 50 stations where children can play with water using all their senses, walk barefoot through spring water or bake bread over a fire pit. The trail is reached by the Hexenwasser gondola, and in winter there is a winter walking version.\n\nFor families from Niederau, Söll is a suitable day out with children, without long distances. In winter there are slopes for all levels, mostly blue and red. Check beforehand whether the lifts and the Hexenwasser are open and what the current prices are.",
+   "de": "Söll liegt auf etwa 703 Metern am Fuß der Hohen Salve, zwischen Wörgl und St. Johann, und hat rund 3.700 Einwohner. Es gehört zur Urlaubsregion Wilder Kaiser und zur SkiWelt Wilder Kaiser-Brixental, einem der größten zusammenhängenden Skigebiete Österreichs.\n\nDer bekannteste Punkt ist die Hohe Salve (etwa 1.828 m) mit einem Panorama, das vom Wilden Kaiser und den Hohen Tauern mit dem Großglockner bis zu den Kitzbüheler Alpen reicht. Auf halber Höhe liegt Hochsöll auf rund 1.355 Metern, der Ausgangspunkt des Hexenwassers. Das ist ein Themenweg mit mehr als 50 Stationen, an denen Kinder mit allen Sinnen mit Wasser spielen, barfuß durch Quellwasser gehen oder an einer Feuerstelle Brot backen können. Der Weg ist mit der Hexenwasser-Gondel erreichbar, und im Winter gibt es eine Winterwander-Variante.\n\nFür Familien aus Niederau ist Söll ein geeigneter Tagesausflug mit Kindern, ohne lange Wege. Im Winter gibt es Pisten für alle Könnensstufen, vor allem blaue und rote. Prüfen Sie vorab, ob die Bergbahnen und das Hexenwasser geöffnet sind und wie die aktuellen Preise lauten."
+  },
+  "highlights": {
+   "nl": [
+    "Hexenwasser in Hochsöll (ca. 1.355 m): thematische wandelroute met 50+ stations en waterspel voor kinderen.",
+    "De Hohe Salve (ca. 1.828 m) met 360-gradenpanorama over de Wilde Kaiser, de Hohe Tauern en de Kitzbüheler Alpen.",
+    "Wandelen met uitzicht op de Wilde Kaiser, naar alpenhutten.",
+    "Skiën in de winter als onderdeel van de SkiWelt, met veel blauwe en rode pistes.",
+    "Winterwandelroute bij het Hexenwasser in de winter."
+   ],
+   "en": [
+    "Hexenwasser at Hochsöll (about 1,355 m): a themed walking trail with 50+ stations and water play for children.",
+    "The Hohe Salve (about 1,828 m) with a 360-degree panorama over the Wilder Kaiser, the Hohe Tauern and the Kitzbühel Alps.",
+    "Walks with views of the Wilder Kaiser, to alpine huts.",
+    "Skiing in winter as part of the SkiWelt, with many blue and red runs.",
+    "A winter walking route at the Hexenwasser in winter."
+   ],
+   "de": [
+    "Hexenwasser in Hochsöll (ca. 1.355 m): Themenweg mit mehr als 50 Stationen und Wasserspiel für Kinder.",
+    "Die Hohe Salve (ca. 1.828 m) mit 360-Grad-Panorama über Wilden Kaiser, Hohe Tauern und Kitzbüheler Alpen.",
+    "Wanderungen mit Blick auf den Wilden Kaiser, zu Almhütten.",
+    "Im Winter Skifahren als Teil der SkiWelt, mit vielen blauen und roten Pisten.",
+    "Winterwanderweg am Hexenwasser im Winter."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 40 minuten met de auto vanaf Niederau, via Wörgl en richting Kufstein/Söll.",
+   "en": "About 40 minutes by car from Niederau, via Wörgl and towards Kufstein/Söll.",
+   "de": "Ca. 40 Minuten mit dem Auto ab Niederau, über Wörgl und Richtung Kufstein/Söll."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met kinderen en bij wie bergpanorama zoekt.",
+   "en": "Suits families with children and anyone seeking mountain views.",
+   "de": "Passt zu Familien mit Kindern und allen, die Bergpanorama suchen."
+  },
+  "season": {
+   "nl": "Hele jaar; Hexenwasser en wandelen in de zomer, skiën in de winter.",
+   "en": "Year-round; Hexenwasser and walking in summer, skiing in winter.",
+   "de": "Ganzjährig; Hexenwasser und Wandern im Sommer, Skifahren im Winter."
+  },
+  "drive_min": 40,
+  "elevation_m": 703,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het Hexenwasser?",
+     "en": "What is the Hexenwasser?",
+     "de": "Was ist das Hexenwasser?"
+    },
+    "a": {
+     "nl": "Een themaroute bij Hochsöll op de Hohe Salve boven Söll met meer dan 50 stations met water en spel voor kinderen, bereikbaar met de Hexenwasser-gondel.",
+     "en": "A themed trail at Hochsöll on the Hohe Salve above Söll with more than 50 water and play stations for children, reached by the Hexenwasser gondola.",
+     "de": "Ein Themenweg bei Hochsöll an der Hohen Salve oberhalb von Söll mit mehr als 50 Wasser- und Spielstationen für Kinder, erreichbar mit der Hexenwasser-Gondel."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoort Söll bij hetzelfde skigebied als Niederau?",
+     "en": "Is Söll part of the same ski area as Niederau?",
+     "de": "Gehört Söll zum selben Skigebiet wie Niederau?"
+    },
+    "a": {
+     "nl": "Nee, Söll hoort bij de SkiWelt Wilder Kaiser-Brixental, Niederau bij Ski Juwel. Informeer naar de actuele skipassregeling.",
+     "en": "No, Söll belongs to the SkiWelt Wilder Kaiser-Brixental, Niederau to Ski Juwel. Check the current ski pass arrangements.",
+     "de": "Nein, Söll gehört zur SkiWelt Wilder Kaiser-Brixental, Niederau zum Ski Juwel. Informieren Sie sich über die aktuelle Skipassregelung."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "ellmau",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Ellmau",
+   "en": "Ellmau",
+   "de": "Ellmau"
+  },
+  "tagline": {
+   "nl": "Dorp onder de Wilde Kaiser, bekend van de tv-serie Der Bergdoktor",
+   "en": "Village below the Wilder Kaiser, known from the TV series Der Bergdoktor",
+   "de": "Dorf unter dem Wilden Kaiser, bekannt aus der Fernsehserie Der Bergdoktor"
+  },
+  "intro": {
+   "nl": "Ellmau ligt op ongeveer 820 meter hoogte in het Sölllandl, op de zonnige zuidzijde van de Wilde Kaiser. Het is een toeristisch dorp met veel accommodaties en een weids uitzicht op de steile rotswanden. Bij Duitstaligen is Ellmau vooral bekend als decor van de tv-serie Der Bergdoktor; in de zomer worden op vaste dagen, ongeveer om de week op dinsdag, rondleidingen langs filmlocaties georganiseerd.\n\nIn de winter vormt de bergbaan Ellmau-Going een toegang tot de SkiWelt Wilder Kaiser-Brixental, met in totaal ongeveer 284 pistekilometers. Bij het bergstation van de Hartkaiserbahn, die sinds 2015 een gondel met tien zitplaatsen is, ligt in de zomer Ellmis Zauberwelt: een speelwereld voor kinderen met trampolines, schommels, een kasteel met glijbaan, een doolhof en waterpartijen. Wandelaars lopen vanaf de Wochenbrunner Alm naar de Gruttenhütte.\n\nOok het zwembad Kaiserbad en een 27-holes golfbaan liggen in het dorp. Voor een gezin uit Niederau is Ellmau een mooie dagtocht om de Kaiser te zien zonder ver te rijden; het is rustiger dan Kitzbühel. Controleer vooraf de actuele openingstijden van bergbanen en hutten.",
+   "en": "Ellmau lies at about 820 metres in the Sölllandl, on the sunny south side of the Wilder Kaiser. It is a tourist village with plenty of accommodation and a wide view of the steep rock faces. German-speaking visitors know Ellmau above all as the setting of the TV series Der Bergdoktor; in summer, tours of filming locations are organised on set days, roughly every other Tuesday.\n\nIn winter the Ellmau-Going lift gives access to the SkiWelt Wilder Kaiser-Brixental, with around 284 km of slopes in total. At the top station of the Hartkaiserbahn, a ten-seater gondola since 2015, you will find Ellmis Zauberwelt in summer: a play world for children with trampolines, swings, a castle with a slide, a maze and water features. Walkers can go from the Wochenbrunner Alm to the Gruttenhütte.\n\nThe Kaiserbad swimming pool and a 27-hole golf course are also in the village. For a family from Niederau, Ellmau is a lovely day trip to see the Kaiser mountains without driving far; it is quieter than Kitzbühel. Check the current opening times of cable cars and huts beforehand.",
+   "de": "Ellmau liegt auf etwa 820 Metern im Sölllandl, auf der sonnigen Südseite des Wilden Kaisers. Es ist ein Urlaubsort mit vielen Unterkünften und weitem Blick auf die steilen Felswände. Im deutschsprachigen Raum ist Ellmau vor allem als Schauplatz der Fernsehserie Der Bergdoktor bekannt; im Sommer werden an festen Tagen, etwa jeden zweiten Dienstag, Führungen zu Drehorten angeboten.\n\nIm Winter bildet die Bergbahn Ellmau-Going einen Einstieg in die SkiWelt Wilder Kaiser-Brixental mit insgesamt rund 284 Pistenkilometern. An der Bergstation der Hartkaiserbahn, seit 2015 eine Zehner-Gondel, liegt im Sommer Ellmis Zauberwelt: eine Spielwelt für Kinder mit Trampolinen, Schaukeln, einer Burg mit Rutsche, einem Irrgarten und Wasserspielen. Wanderer gehen von der Wochenbrunner Alm zur Gruttenhütte.\n\nAuch das Hallenbad Kaiserbad und ein 27-Loch-Golfplatz liegen im Ort. Für eine Familie aus Niederau ist Ellmau ein schöner Tagesausflug, um den Kaiser zu sehen, ohne weit zu fahren; es ist ruhiger als Kitzbühel. Prüfen Sie vorab die aktuellen Öffnungszeiten von Bergbahnen und Hütten."
+  },
+  "highlights": {
+   "nl": [
+    "Hartkaiserbahn en Ellmis Zauberwelt: speelwereld voor kinderen bij het bergstation (zomer).",
+    "Wandeling vanaf de Wochenbrunner Alm naar de Gruttenhütte, met uitzicht op de Wilde Kaiser.",
+    "Rondleidingen langs Bergdoktor-filmlocaties in de zomer (ongeveer om de week op dinsdag).",
+    "Skiën in de SkiWelt Wilder Kaiser-Brixental via de bergbaan Ellmau-Going.",
+    "Zwembad Kaiserbad en 27-holes golfbaan in het dorp."
+   ],
+   "en": [
+    "Hartkaiserbahn and Ellmis Zauberwelt: a children's play world at the top station (summer).",
+    "Walk from the Wochenbrunner Alm to the Gruttenhütte, with views of the Wilder Kaiser.",
+    "Tours of Bergdoktor filming locations in summer (roughly every other Tuesday).",
+    "Skiing in the SkiWelt Wilder Kaiser-Brixental via the Ellmau-Going lift.",
+    "The Kaiserbad pool and a 27-hole golf course in the village."
+   ],
+   "de": [
+    "Hartkaiserbahn und Ellmis Zauberwelt: Spielwelt für Kinder an der Bergstation (Sommer).",
+    "Wanderung von der Wochenbrunner Alm zur Gruttenhütte, mit Blick auf den Wilden Kaiser.",
+    "Führungen zu Bergdoktor-Drehorten im Sommer (etwa jeden zweiten Dienstag).",
+    "Skifahren in der SkiWelt Wilder Kaiser-Brixental über die Bergbahn Ellmau-Going.",
+    "Hallenbad Kaiserbad und 27-Loch-Golfplatz im Ort."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 45 minuten met de auto vanaf Niederau, via Wörgl en Söll.",
+   "en": "About 45 minutes by car from Niederau, via Wörgl and Söll.",
+   "de": "Ca. 45 Minuten mit dem Auto ab Niederau, über Wörgl und Söll."
+  },
+  "best_for": {
+   "nl": "Past bij wandelaars, gezinnen met kinderen en fans van Der Bergdoktor.",
+   "en": "Suits walkers, families with children and fans of Der Bergdoktor.",
+   "de": "Passt zu Wanderern, Familien mit Kindern und Fans von Der Bergdoktor."
+  },
+  "season": {
+   "nl": "Hele jaar; wandelen en Ellmis Zauberwelt in de zomer, skiën in de winter.",
+   "en": "Year-round; walking and Ellmis Zauberwelt in summer, skiing in winter.",
+   "de": "Ganzjährig; Wandern und Ellmis Zauberwelt im Sommer, Skifahren im Winter."
+  },
+  "drive_min": 45,
+  "elevation_m": 820,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom is Ellmau bekend?",
+     "en": "Why is Ellmau well known?",
+     "de": "Wofür ist Ellmau bekannt?"
+    },
+    "a": {
+     "nl": "Door de ligging onder de Wilde Kaiser en omdat de tv-serie Der Bergdoktor er speelt en wordt opgenomen.",
+     "en": "For its location beneath the Wilder Kaiser and because the TV series Der Bergdoktor is set and filmed there.",
+     "de": "Wegen der Lage unter dem Wilden Kaiser und weil die Fernsehserie Der Bergdoktor dort spielt und gedreht wird."
+    }
+   },
+   {
+    "q": {
+     "nl": "Welk skigebied hoort bij Ellmau?",
+     "en": "Which ski area does Ellmau belong to?",
+     "de": "Zu welchem Skigebiet gehört Ellmau?"
+    },
+    "a": {
+     "nl": "De SkiWelt Wilder Kaiser-Brixental (ongeveer 284 pistekilometers in totaal).",
+     "en": "The SkiWelt Wilder Kaiser-Brixental (around 284 km of slopes in total).",
+     "de": "Die SkiWelt Wilder Kaiser-Brixental (insgesamt rund 284 Pistenkilometer)."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "slug": "koessen",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Kössen",
+   "en": "Kössen",
+   "de": "Kössen"
+  },
+  "tagline": {
+   "nl": "Rustig dorp in het Kaiserwinkl, vlak bij de Duitse grens",
+   "en": "Quiet village in the Kaiserwinkl, close to the German border",
+   "de": "Ruhiger Ort im Kaiserwinkl, nahe der deutschen Grenze"
+  },
+  "intro": {
+   "nl": "Kössen ligt op ongeveer 588 meter hoogte in het Tiroler Kaiserwinkl, in het uiterste noordoosten van Tirol, dicht bij de grens met Beieren. Het geldt als de hoofdplaats van het Kaiserwinkl, waarvan sinds 2005 ook Walchsee, Rettenschöss en Schwendt deel uitmaken onder één toeristisch merk. Het dorp ligt in een breed dal, omgeven door bergen en weiden.\n\nIn de zomer kun je er wandelen en fietsen. De Unterberghorn (ca. 1.773 m) staat bekend als een van de plekken in Tirol voor paragliding en deltavliegen, omdat de thermiek er gunstig is. Een bekende wandeling is de ongeveer vier kilometer lange Schmugglerweg bij de Klobenstein. Vlakbij ligt de Walchsee, waar het water in de zomer gemiddeld tussen 20 en 24 graden is en je kunt zwemmen, zeilen en varen.\n\nIn de winter biedt het familieskigebied Hochkössen ongeveer 22 kilometer piste, naast langlaufloipes, winterwandelpaden en sneeuwschoenroutes. Voor een gezin uit Niederau is Kössen een langere dagtocht van ruim een uur rijden, geschikt voor wie rust zoekt. Controleer vooraf openingstijden en het weer.",
+   "en": "Kössen lies at about 588 metres in the Tyrolean Kaiserwinkl, in the far north-east of Tyrol close to the Bavarian border. It is regarded as the main village of the Kaiserwinkl, which since 2005 also includes Walchsee, Rettenschöss and Schwendt under one tourism brand. The village sits in a broad valley surrounded by mountains and meadows.\n\nIn summer you can walk and cycle here. The Unterberghorn (about 1,773 m) is known as one of the places in Tyrol for paragliding and hang gliding thanks to its good thermals. A well-known walk is the roughly four-kilometre Schmugglerweg at the Klobenstein. Close by lies the Walchsee, where the water in summer is typically between 20 and 24 degrees and you can swim, sail and go boating.\n\nIn winter the family ski area of Hochkössen offers around 22 km of slopes, alongside cross-country trails, winter walking paths and snowshoe routes. For a family from Niederau, Kössen is a longer day trip of just over an hour's drive, suited to those seeking peace and quiet. Check opening times and the weather beforehand.",
+   "de": "Kössen liegt auf etwa 588 Metern im Tiroler Kaiserwinkl, im äußersten Nordosten Tirols, nahe der bayerischen Grenze. Es gilt als Hauptort des Kaiserwinkls, zu dem seit 2005 auch Walchsee, Rettenschöß und Schwendt unter einer gemeinsamen Tourismusmarke gehören. Der Ort liegt in einem breiten Tal, umgeben von Bergen und Wiesen.\n\nIm Sommer kann man hier wandern und radfahren. Das Unterberghorn (ca. 1.773 m) gilt dank guter Thermik als einer der Plätze in Tirol für Gleitschirm- und Drachenfliegen. Eine bekannte Wanderung ist der rund vier Kilometer lange Schmugglerweg am Klobenstein. In der Nähe liegt der Walchsee, dessen Wasser im Sommer üblicherweise 20 bis 24 Grad warm ist und zum Schwimmen, Segeln und Bootfahren einlädt.\n\nIm Winter bietet das Familienskigebiet Hochkössen rund 22 Kilometer Pisten, daneben Langlaufloipen, Winterwanderwege und Schneeschuhrouten. Für eine Familie aus Niederau ist Kössen ein längerer Tagesausflug mit gut einer Stunde Fahrt, geeignet für alle, die Ruhe suchen. Prüfen Sie vorab Öffnungszeiten und das Wetter."
+  },
+  "highlights": {
+   "nl": [
+    "Wandelen en fietsen in het Kaiserwinkl.",
+    "De Schmugglerweg bij de Klobenstein: ca. 4 km lange wandeling.",
+    "De Unterberghorn (ca. 1.773 m), bekend bij paragliders en deltavliegers.",
+    "De Walchsee vlakbij: zwemmen, zeilen en varen in de zomer.",
+    "Winter: familieskigebied Hochkössen (ca. 22 km piste), langlaufloipes en winterwandelpaden."
+   ],
+   "en": [
+    "Walking and cycling in the Kaiserwinkl.",
+    "The Schmugglerweg at the Klobenstein: a walk of about 4 km.",
+    "The Unterberghorn (about 1,773 m), known among paragliders and hang gliders.",
+    "The nearby Walchsee: swimming, sailing and boating in summer.",
+    "Winter: the Hochkössen family ski area (about 22 km of slopes), cross-country trails and winter walking paths."
+   ],
+   "de": [
+    "Wandern und Radfahren im Kaiserwinkl.",
+    "Der Schmugglerweg am Klobenstein: Wanderung von ca. 4 km.",
+    "Das Unterberghorn (ca. 1.773 m), bekannt bei Gleitschirm- und Drachenfliegern.",
+    "Der nahe Walchsee: Schwimmen, Segeln und Bootfahren im Sommer.",
+    "Winter: Familienskigebiet Hochkössen (ca. 22 km Pisten), Langlaufloipen und Winterwanderwege."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 65 minuten met de auto vanaf Niederau, via Wörgl, Kufstein en daarna richting Kössen/Walchsee.",
+   "en": "About 65 minutes by car from Niederau, via Wörgl, Kufstein and then towards Kössen/Walchsee.",
+   "de": "Ca. 65 Minuten mit dem Auto ab Niederau, über Wörgl, Kufstein und dann Richtung Kössen/Walchsee."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen en natuurliefhebbers die rust zoeken.",
+   "en": "Suits families and nature lovers seeking peace and quiet.",
+   "de": "Passt zu Familien und Naturliebhabern, die Ruhe suchen."
+  },
+  "season": {
+   "nl": "Hele jaar; wandelen, fietsen en zwemmen in de zomer, langlaufen en skiën in de winter.",
+   "en": "Year-round; walking, cycling and swimming in summer, cross-country and skiing in winter.",
+   "de": "Ganzjährig; Wandern, Radfahren und Baden im Sommer, Langlaufen und Skifahren im Winter."
+  },
+  "drive_min": 65,
+  "elevation_m": 588,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt Kössen?",
+     "en": "Where is Kössen?",
+     "de": "Wo liegt Kössen?"
+    },
+    "a": {
+     "nl": "In het Tiroler Kaiserwinkl, in het noordoosten van Tirol, dicht bij de grens met Beieren.",
+     "en": "In the Tyrolean Kaiserwinkl, in north-east Tyrol close to the Bavarian border.",
+     "de": "Im Tiroler Kaiserwinkl, im Nordosten Tirols nahe der bayerischen Grenze."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Kössen een goede dagtocht vanuit Niederau?",
+     "en": "Is Kössen a good day trip from Niederau?",
+     "de": "Ist Kössen ein guter Tagesausflug ab Niederau?"
+    },
+    "a": {
+     "nl": "Ja, mits je rekening houdt met een rit van ongeveer een uur enkele reis; het is een rustige bestemming.",
+     "en": "Yes, provided you allow roughly an hour each way; it is a quiet destination.",
+     "de": "Ja, wenn man pro Strecke etwa eine Stunde einplant; es ist ein ruhiges Ziel."
+    }
+   }
+  ],
+  "verified": true
+ }
+]
