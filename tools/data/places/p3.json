@@ -1,0 +1,530 @@
+[
+ {
+  "slug": "westendorf",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Westendorf",
+   "en": "Westendorf",
+   "de": "Westendorf"
+  },
+  "tagline": {
+   "nl": "Dorp in het Brixental met skiën, wandelen en een ontspannen sfeer",
+   "en": "Brixental village for skiing, hiking and a relaxed atmosphere",
+   "de": "Dorf im Brixental mit Skifahren, Wandern und entspannter Atmosphäre"
+  },
+  "intro": {
+   "nl": "Westendorf ligt in het Brixental, aan de oostkant van het dal richting Kitzbühel. Het is een echt Tiroler dorp met een compact centrum, waar ook veel gezinnen verblijven. Het dorp hoort bij de Skiwelt Wilder Kaiser-Brixental, een van de grotere skigebieden van Oostenrijk.\n\nIn de winter is Westendorf vooral aantrekkelijk voor skiërs en snowboarders: de bergbanen vertrekken vlak bij het dorp en de pistes sluiten aan op de rest van de Skiwelt. In de zomer is het een uitgangspunt voor wandelingen over alpenweiden, mountainbiketochten en fietsen door het dal.\n\nVoor een gezin uit Niederau is Westendorf een prima dagtocht: niet ver weg, maar wel een ander dal met een eigen karakter. Het is rustiger dan Kitzbühel, wat het geschikt maakt voor wie een ontspannen dag zonder drukte zoekt. Controleer voor je vertrekt altijd de actuele openingstijden van liften en attracties.",
+   "en": "Westendorf lies in the Brixental valley, on the eastern side towards Kitzbühel. It is a genuine Tyrolean village with a compact centre, and many families choose to stay here. The village belongs to the Skiwelt Wilder Kaiser-Brixental, one of the larger ski areas in Austria.\n\nIn winter Westendorf is mainly attractive to skiers and snowboarders: the lifts start close to the village and the slopes connect with the rest of the Skiwelt. In summer it is a base for walks across alpine pastures, mountain biking and cycling along the valley.\n\nFor a family staying in Niederau, Westendorf makes a good day out: not far away, yet a different valley with its own character. It is quieter than Kitzbühel, which suits anyone looking for a relaxed day without the crowds. Always check current opening times of lifts and attractions before you set off.",
+   "de": "Westendorf liegt im Brixental, im östlichen Teil des Tals in Richtung Kitzbühel. Es ist ein echtes Tiroler Dorf mit kompaktem Ortskern, in dem viele Familien Urlaub machen. Der Ort gehört zur Skiwelt Wilder Kaiser-Brixental, einem der größeren Skigebiete Österreichs.\n\nIm Winter ist Westendorf vor allem für Skifahrer und Snowboarder interessant: Die Bergbahnen starten nahe beim Ort, und die Pisten sind mit dem Rest der Skiwelt verbunden. Im Sommer dient es als Ausgangspunkt für Wanderungen über Almwiesen, Mountainbike-Touren und Radfahren durch das Tal.\n\nFür eine Familie aus Niederau ist Westendorf ein guter Tagesausflug: nicht weit entfernt, aber ein anderes Tal mit eigenem Charakter. Es ist ruhiger als Kitzbühel und eignet sich daher für alle, die einen entspannten Tag ohne Trubel suchen. Prüfen Sie vor der Abfahrt immer die aktuellen Öffnungszeiten von Bahnen und Attraktionen."
+  },
+  "highlights": {
+   "nl": [
+    "In de winter skiën in de Skiwelt Wilder Kaiser-Brixental, met bergbanen vlak bij het dorp.",
+    "In de zomer wandelen over alpenweiden en naar berghutten in de omgeving.",
+    "Mountainbiken en fietsen door het Brixental.",
+    "Een wandeling door het dorpscentrum met kerk en traditionele huizen.",
+    "Combineren met een bezoek aan Kitzbühel of Kirchberg in dezelfde dagtocht."
+   ],
+   "en": [
+    "Skiing in winter in the Skiwelt Wilder Kaiser-Brixental, with lifts close to the village.",
+    "Summer walks across alpine pastures and to mountain huts nearby.",
+    "Mountain biking and cycling through the Brixental.",
+    "A stroll through the village centre with its church and traditional houses.",
+    "Easy to combine with a visit to Kitzbühel or Kirchberg on the same day."
+   ],
+   "de": [
+    "Im Winter Skifahren in der Skiwelt Wilder Kaiser-Brixental, mit Bergbahnen nahe beim Ort.",
+    "Im Sommer Wanderungen über Almwiesen und zu Berghütten in der Umgebung.",
+    "Mountainbiken und Radfahren durch das Brixental.",
+    "Ein Spaziergang durch den Ortskern mit Kirche und traditionellen Häusern.",
+    "Gut kombinierbar mit einem Besuch in Kitzbühel oder Kirchberg am selben Tag."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten met de auto vanaf Niederau, via Wörgl en daarna door het Brixental richting Kitzbühel.",
+   "en": "About 35 minutes by car from Niederau, via Wörgl and then along the Brixental towards Kitzbühel.",
+   "de": "Ca. 35 Minuten mit dem Auto ab Niederau, über Wörgl und dann durch das Brixental Richtung Kitzbühel."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen en skiërs die een rustig dorp zoeken.",
+   "en": "Suits families and skiers looking for a quiet village.",
+   "de": "Passt zu Familien und Skifahrern, die ein ruhiges Dorf suchen."
+  },
+  "season": {
+   "nl": "Hele jaar; vooral winter (ski) en zomer (wandelen, fietsen).",
+   "en": "Year-round; mainly winter (skiing) and summer (hiking, cycling).",
+   "de": "Ganzjährig; vor allem Winter (Ski) und Sommer (Wandern, Radfahren)."
+  },
+  "drive_min": 35,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoort Westendorf bij hetzelfde skigebied als Niederau?",
+     "en": "Is Westendorf part of the same ski area as Niederau?",
+     "de": "Gehört Westendorf zum selben Skigebiet wie Niederau?"
+    },
+    "a": {
+     "nl": "Nee. Westendorf hoort bij de Skiwelt Wilder Kaiser-Brixental, Niederau bij het Ski Juwel Alpbachtal Wildschönau. Het zijn aparte skigebieden met eigen skipassen; informeer vooraf naar de actuele regeling.",
+     "en": "No. Westendorf belongs to the Skiwelt Wilder Kaiser-Brixental, Niederau to the Ski Juwel Alpbachtal Wildschönau. They are separate ski areas with their own passes; check the current arrangements beforehand.",
+     "de": "Nein. Westendorf gehört zur Skiwelt Wilder Kaiser-Brixental, Niederau zum Ski Juwel Alpbachtal Wildschönau. Es sind getrennte Skigebiete mit eigenen Skipässen; informieren Sie sich vorab über die aktuelle Regelung."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Westendorf geschikt als dagtocht met kinderen?",
+     "en": "Is Westendorf suitable as a day trip with children?",
+     "de": "Eignet sich Westendorf als Tagesausflug mit Kindern?"
+    },
+    "a": {
+     "nl": "Ja, het is een rustig dorp en de rit vanaf Niederau is korter dan een uur. Kijk voor je vertrekt naar het actuele programma van bergbanen en attracties.",
+     "en": "Yes, it is a quiet village and the drive from Niederau takes under an hour. Check the current programme of lifts and attractions before you go.",
+     "de": "Ja, es ist ein ruhiger Ort, und die Fahrt ab Niederau dauert weniger als eine Stunde. Prüfen Sie vorab das aktuelle Programm der Bergbahnen und Attraktionen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "slug": "kirchberg-in-tirol",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Kirchberg in Tirol",
+   "en": "Kirchberg in Tirol",
+   "de": "Kirchberg in Tirol"
+  },
+  "tagline": {
+   "nl": "Levendig dorp in het Brixental, vlak bij Kitzbühel",
+   "en": "Lively village in the Brixental, close to Kitzbühel",
+   "de": "Lebendiger Ort im Brixental, ganz nah bei Kitzbühel"
+  },
+  "intro": {
+   "nl": "Kirchberg in Tirol ligt in het Brixental, op korte afstand van Kitzbühel. Het is een van de grotere en levendigere dorpen van het dal, met winkels, restaurants en een centrum dat het hele jaar open is. Het dorp ligt in de Kitzbüheler Alpen.\n\nIn de winter is Kirchberg een skidorp: de Gaisberg-bergbaan vertrekt vanuit het dorp en geeft toegang tot het skigebied rond Kitzbühel. In de zomer wandel en fiets je vanuit het dorp het dal in; het zijdal Spertental is een rustige optie voor een gezinswandeling.\n\nVoor gezinnen uit Niederau is Kirchberg een handige combinatie met Kitzbühel: je kunt de ene helft van de dag in het dorp doorbrengen en daarna doorrijden. Het is levendiger dan Westendorf, maar minder drukbezocht dan Kitzbühel zelf. Controleer vooraf openingstijden van liften en winkels.",
+   "en": "Kirchberg in Tirol lies in the Brixental, a short distance from Kitzbühel. It is one of the larger and livelier villages in the valley, with shops, restaurants and a centre that is active all year round. The village lies in the Kitzbühel Alps.\n\nIn winter Kirchberg is a ski village: the Gaisberg lift starts from the village and gives access to the ski area around Kitzbühel. In summer you can walk and cycle from the village into the valley; the side valley Spertental is a quiet option for a family walk.\n\nFor families from Niederau, Kirchberg combines well with Kitzbühel: spend part of the day in the village and then drive on. It is livelier than Westendorf but less busy than Kitzbühel itself. Check opening times of lifts and shops beforehand.",
+   "de": "Kirchberg in Tirol liegt im Brixental, nur eine kurze Strecke von Kitzbühel entfernt. Es ist einer der größeren und lebendigeren Orte des Tals mit Geschäften, Restaurants und einem Ortskern, der das ganze Jahr über belebt ist. Der Ort liegt in den Kitzbüheler Alpen.\n\nIm Winter ist Kirchberg ein Skiort: Die Gaisbergbahn startet im Ort und führt ins Skigebiet rund um Kitzbühel. Im Sommer kann man vom Ort aus ins Tal wandern und radeln; das Seitental Spertental ist eine ruhige Option für eine Familienwanderung.\n\nFür Familien aus Niederau lässt sich Kirchberg gut mit Kitzbühel kombinieren: einen Teil des Tages im Ort verbringen und dann weiterfahren. Es ist lebhafter als Westendorf, aber weniger überlaufen als Kitzbühel selbst. Prüfen Sie vorab die Öffnungszeiten von Bahnen und Geschäften."
+  },
+  "highlights": {
+   "nl": [
+    "Skiën in de winter via de Gaisbergbahn richting het skigebied van Kitzbühel.",
+    "Wandelen en fietsen in het Brixental in de zomer.",
+    "Een gezinswandeling in het rustige zijdal Spertental.",
+    "Winkelen en iets eten in het dorpscentrum.",
+    "Gemakkelijk te combineren met een bezoek aan Kitzbühel."
+   ],
+   "en": [
+    "Winter skiing via the Gaisbergbahn towards the Kitzbühel ski area.",
+    "Summer walking and cycling in the Brixental.",
+    "A family walk in the quiet side valley Spertental.",
+    "Shopping and a bite to eat in the village centre.",
+    "Easy to combine with a visit to Kitzbühel."
+   ],
+   "de": [
+    "Im Winter Skifahren über die Gaisbergbahn Richtung Skigebiet Kitzbühel.",
+    "Im Sommer Wandern und Radfahren im Brixental.",
+    "Eine Familienwanderung im ruhigen Seitental Spertental.",
+    "Bummeln und Einkehren im Ortskern.",
+    "Gut kombinierbar mit einem Besuch in Kitzbühel."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 45 minuten met de auto vanaf Niederau, via Wörgl en door het Brixental.",
+   "en": "About 45 minutes by car from Niederau, via Wörgl and through the Brixental.",
+   "de": "Ca. 45 Minuten mit dem Auto ab Niederau, über Wörgl und durch das Brixental."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen en skiërs die Kitzbühel willen combineren met een dorpsdag.",
+   "en": "Suits families and skiers wanting to combine Kitzbühel with a village day.",
+   "de": "Passt zu Familien und Skifahrern, die Kitzbühel mit einem Dorftag verbinden möchten."
+  },
+  "season": {
+   "nl": "Hele jaar; skiën in de winter, wandelen en fietsen in de zomer.",
+   "en": "Year-round; skiing in winter, hiking and cycling in summer.",
+   "de": "Ganzjährig; Skifahren im Winter, Wandern und Radfahren im Sommer."
+  },
+  "drive_min": 45,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe ver is Kirchberg van Kitzbühel?",
+     "en": "How far is Kirchberg from Kitzbühel?",
+     "de": "Wie weit ist Kirchberg von Kitzbühel entfernt?"
+    },
+    "a": {
+     "nl": "Beide plaatsen liggen vlak bij elkaar; met de auto is het een korte rit van enkele minuten.",
+     "en": "The two places are close together; by car it is a short drive of a few minutes.",
+     "de": "Die beiden Orte liegen nahe beieinander; mit dem Auto ist es nur eine kurze Fahrt von wenigen Minuten."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Kirchberg ook in de zomer de moeite waard?",
+     "en": "Is Kirchberg worth a visit in summer too?",
+     "de": "Lohnt sich Kirchberg auch im Sommer?"
+    },
+    "a": {
+     "nl": "Ja, het dorp is een uitgangspunt voor wandel- en fietstochten door het Brixental en het Spertental.",
+     "en": "Yes, the village is a starting point for walking and cycling trips through the Brixental and the Spertental.",
+     "de": "Ja, der Ort ist Ausgangspunkt für Wander- und Radtouren durch das Brixental und das Spertental."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "slug": "kitzbuehel",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Kitzbühel",
+   "en": "Kitzbühel",
+   "de": "Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Historische stad in de Kitzbüheler Alpen, bekend om de Hahnenkamm-race",
+   "en": "Historic town in the Kitzbühel Alps, known for the Hahnenkamm race",
+   "de": "Historische Stadt in den Kitzbüheler Alpen, bekannt für das Hahnenkammrennen"
+  },
+  "intro": {
+   "nl": "Kitzbühel is een stad in de Kitzbüheler Alpen met een goed bewaarde oude binnenstad: kleurige gevels, smalle straten en winkels. De stad is wereldberoemd door de Hahnenkamm-skirace, die elk jaar in januari op de Streif wordt gehouden.\n\nOp korte afstand liggen het Kitzbüheler Horn met een bergbaan, de Schwarzsee om te zwemmen en uitgestrekte wandel- en fietsroutes. In de winter is Kitzbühel een groot skigebied; in de zomer is het een goede uitvalsbasis voor wandelaars, golfers en fietsers.\n\nVoor gezinnen uit Niederau is Kitzbühel een dagtocht die de moeite waard is, vooral als je een mix wilt van stad, natuur en eten. Het is een drukkere en duurdere plaats dan de dorpen in het dal; reken in het hoogseizoen op meer verkeer. Controleer vooraf openingstijden en prijzen van liften en attracties.",
+   "en": "Kitzbühel is a town in the Kitzbühel Alps with a well-preserved old centre: colourful façades, narrow streets and shops. The town is world famous for the Hahnenkamm ski race, held every January on the Streif.\n\nNearby are the Kitzbüheler Horn with its cable car, the Schwarzsee for swimming and extensive walking and cycling routes. In winter Kitzbühel is a large ski area; in summer it is a good base for walkers, golfers and cyclists.\n\nFor families from Niederau, Kitzbühel is a worthwhile day trip, especially if you want a mix of town, nature and dining. It is busier and pricier than the villages in the valley; expect more traffic in high season. Check opening times and prices of lifts and attractions beforehand.",
+   "de": "Kitzbühel ist eine Stadt in den Kitzbüheler Alpen mit gut erhaltener Altstadt: bunte Fassaden, enge Gassen und Geschäfte. Weltberühmt ist die Stadt durch das Hahnenkammrennen, das jedes Jahr im Januar auf der Streif stattfindet.\n\nIn der Nähe liegen das Kitzbüheler Horn mit Bergbahn, der Schwarzsee zum Baden sowie weitläufige Wander- und Radwege. Im Winter ist Kitzbühel ein großes Skigebiet; im Sommer ist es eine gute Basis für Wanderer, Golfer und Radfahrer.\n\nFür Familien aus Niederau ist Kitzbühel ein lohnender Tagesausflug, vor allem wenn man Stadt, Natur und Genuss verbinden möchte. Es ist belebter und teurer als die Dörfer im Tal; in der Hochsaison muss man mit mehr Verkehr rechnen. Prüfen Sie vorab Öffnungszeiten und Preise von Bahnen und Attraktionen."
+  },
+  "highlights": {
+   "nl": [
+    "De oude binnenstad met kleurige gevels, winkels en terrassen.",
+    "De Hahnenkamm-race op de Streif in januari (voor wie in die periode in de buurt is).",
+    "Het Kitzbüheler Horn met bergbaan en wandelmogelijkheden in de zomer.",
+    "Zwemmen en wandelen rond de Schwarzsee in de zomer.",
+    "Skiën in het grote skigebied rond Kitzbühel in de winter."
+   ],
+   "en": [
+    "The old town with colourful façades, shops and terraces.",
+    "The Hahnenkamm race on the Streif in January (if you are nearby then).",
+    "The Kitzbüheler Horn with its cable car and summer walking.",
+    "Swimming and walking around the Schwarzsee in summer.",
+    "Skiing in the large ski area around Kitzbühel in winter."
+   ],
+   "de": [
+    "Die Altstadt mit bunten Fassaden, Geschäften und Terrassen.",
+    "Das Hahnenkammrennen auf der Streif im Januar (wer um diese Zeit in der Nähe ist).",
+    "Das Kitzbüheler Horn mit Bergbahn und Wandermöglichkeiten im Sommer.",
+    "Baden und Spazieren rund um den Schwarzsee im Sommer.",
+    "Skifahren im großen Skigebiet rund um Kitzbühel im Winter."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 55 minuten met de auto vanaf Niederau, via Wörgl en door het Brixental (Kirchberg).",
+   "en": "About 55 minutes by car from Niederau, via Wörgl and through the Brixental (Kirchberg).",
+   "de": "Ca. 55 Minuten mit dem Auto ab Niederau, über Wörgl und durch das Brixental (Kirchberg)."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die stad, natuur en eten willen combineren.",
+   "en": "Suits families wanting to combine town, nature and dining.",
+   "de": "Passt zu Familien, die Stadt, Natur und Genuss verbinden möchten."
+  },
+  "season": {
+   "nl": "Hele jaar; skiën in de winter, wandelen, zwemmen en stadsbezoek in de zomer.",
+   "en": "Year-round; skiing in winter, hiking, swimming and sightseeing in summer.",
+   "de": "Ganzjährig; Skifahren im Winter, Wandern, Baden und Stadtbummel im Sommer."
+  },
+  "drive_min": 55,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom is Kitzbühel beroemd?",
+     "en": "Why is Kitzbühel famous?",
+     "de": "Wofür ist Kitzbühel berühmt?"
+    },
+    "a": {
+     "nl": "Vooral door de Hahnenkamm-skirace op de Streif, die elk jaar in januari wordt gehouden, en door zijn oude binnenstad.",
+     "en": "Mainly for the Hahnenkamm ski race on the Streif, held every January, and for its old town.",
+     "de": "Vor allem durch das Hahnenkammrennen auf der Streif, das jedes Jahr im Januar stattfindet, und durch die Altstadt."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je vanuit Niederau met de auto in een dag naar Kitzbühel?",
+     "en": "Can you visit Kitzbühel from Niederau in a day by car?",
+     "de": "Kann man Kitzbühel ab Niederau an einem Tag mit dem Auto besuchen?"
+    },
+    "a": {
+     "nl": "Ja, de rit duurt ruim een halfuur tot een uur, afhankelijk van het verkeer. Het is een ruime dagtocht.",
+     "en": "Yes, the drive takes roughly half an hour to an hour depending on traffic. It makes a comfortable day trip.",
+     "de": "Ja, die Fahrt dauert je nach Verkehr etwa eine halbe bis eine Stunde. Es ist ein gut machbarer Tagesausflug."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "slug": "soell",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Söll",
+   "en": "Söll",
+   "de": "Söll"
+  },
+  "tagline": {
+   "nl": "Dorp aan de Wilde Kaiser met Hexenwasser en de Hohe Salve",
+   "en": "Village by the Wilder Kaiser with Hexenwasser and the Hohe Salve",
+   "de": "Dorf am Wilden Kaiser mit Hexenwasser und der Hohen Salve"
+  },
+  "intro": {
+   "nl": "Söll ligt aan de voet van de Wilde Kaiser, in het Kufsteinerland, en is een bekend toeristisch dorp. Het hoort bij de Skiwelt Wilder Kaiser-Brixental en kijkt uit op het steile Kaisergebergte.\n\nIn de zomer en winter is de Hohe Salve het bekendste punt. Op de berg ligt Hochsöll, met onder meer het themapark Hexenwasser, een wandelroute met waterspeeltuinen en attracties voor kinderen. Op de top staat een kapel, en het uitzicht reikt ver over de Tiroler bergen.\n\nVoor gezinnen uit Niederau is Söll een goede dagtocht met kinderen: er is veel te doen zonder lange afstanden. In de winter zijn er pistes voor alle niveaus. Controleer vooraf of de bergbanen en het Hexenwasser geopend zijn en wat de actuele tarieven zijn.",
+   "en": "Söll lies at the foot of the Wilder Kaiser in the Kufsteinerland and is a well-known tourist village. It is part of the Skiwelt Wilder Kaiser-Brixental and looks out on the steep Kaiser mountains.\n\nThe Hohe Salve is the best-known spot in both summer and winter. On the mountain lies Hochsöll, home to the Hexenwasser theme trail, a walking route with water play areas and attractions for children. There is a chapel at the summit, and the view stretches far across the Tyrolean mountains.\n\nFor families from Niederau, Söll is a good day out with children: there is plenty to do without long distances. In winter there are slopes for all levels. Check beforehand whether the lifts and the Hexenwasser are open and what the current prices are.",
+   "de": "Söll liegt am Fuß des Wilden Kaisers im Kufsteinerland und ist ein bekannter Urlaubsort. Es gehört zur Skiwelt Wilder Kaiser-Brixental und blickt auf das schroffe Kaisergebirge.\n\nIm Sommer wie im Winter ist die Hohe Salve der bekannteste Punkt. Am Berg liegt Hochsöll mit dem Erlebnisweg Hexenwasser, einer Wanderroute mit Wasserspielplätzen und Attraktionen für Kinder. Auf dem Gipfel steht eine Kapelle, und die Aussicht reicht weit über die Tiroler Berge.\n\nFür Familien aus Niederau ist Söll ein guter Tagesausflug mit Kindern: Es gibt viel zu erleben, ohne lange Wege. Im Winter gibt es Pisten für alle Könnensstufen. Prüfen Sie vorab, ob die Bergbahnen und das Hexenwasser geöffnet sind und wie die aktuellen Preise lauten."
+  },
+  "highlights": {
+   "nl": [
+    "Hexenwasser in Hochsöll: wandelroute met waterspeeltuinen voor kinderen (zomer).",
+    "De Hohe Salve met bergbaan, kapel op de top en wijd uitzicht.",
+    "Wandelen met uitzicht op de Wilde Kaiser.",
+    "Skiën in de winter als onderdeel van de Skiwelt.",
+    "Een rondje door het dorp met horeca en winkels."
+   ],
+   "en": [
+    "Hexenwasser at Hochsöll: a walking trail with water play areas for children (summer).",
+    "The Hohe Salve with cable car, summit chapel and wide views.",
+    "Walks with views of the Wilder Kaiser.",
+    "Skiing in winter as part of the Skiwelt.",
+    "A stroll around the village with its cafés and shops."
+   ],
+   "de": [
+    "Hexenwasser in Hochsöll: Erlebnisweg mit Wasserspielplätzen für Kinder (Sommer).",
+    "Die Hohe Salve mit Bergbahn, Gipfelkapelle und weiter Aussicht.",
+    "Wanderungen mit Blick auf den Wilden Kaiser.",
+    "Skifahren im Winter als Teil der Skiwelt.",
+    "Ein Bummel durch den Ort mit Gastronomie und Geschäften."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 40 minuten met de auto vanaf Niederau, via Wörgl en richting Kufstein/Söll.",
+   "en": "About 40 minutes by car from Niederau, via Wörgl and towards Kufstein/Söll.",
+   "de": "Ca. 40 Minuten mit dem Auto ab Niederau, über Wörgl und Richtung Kufstein/Söll."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met kinderen en bij wie bergpanorama zoekt.",
+   "en": "Suits families with children and anyone seeking mountain views.",
+   "de": "Passt zu Familien mit Kindern und allen, die Bergpanorama suchen."
+  },
+  "season": {
+   "nl": "Hele jaar; Hexenwasser en wandelen in de zomer, skiën in de winter.",
+   "en": "Year-round; Hexenwasser and walking in summer, skiing in winter.",
+   "de": "Ganzjährig; Hexenwasser und Wandern im Sommer, Skifahren im Winter."
+  },
+  "drive_min": 40,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het Hexenwasser?",
+     "en": "What is the Hexenwasser?",
+     "de": "Was ist das Hexenwasser?"
+    },
+    "a": {
+     "nl": "Een themaroute op de Hohe Salve boven Söll met waterspeelplekken en attracties voor kinderen, vooral in de zomer.",
+     "en": "A themed trail on the Hohe Salve above Söll with water play areas and attractions for children, mainly in summer.",
+     "de": "Ein Erlebnisweg an der Hohen Salve oberhalb von Söll mit Wasserspielplätzen und Attraktionen für Kinder, vor allem im Sommer."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoort Söll bij hetzelfde skigebied als Niederau?",
+     "en": "Is Söll part of the same ski area as Niederau?",
+     "de": "Gehört Söll zum selben Skigebiet wie Niederau?"
+    },
+    "a": {
+     "nl": "Nee, Söll hoort bij de Skiwelt Wilder Kaiser-Brixental, Niederau bij Ski Juwel. Informeer naar de actuele skipassregeling.",
+     "en": "No, Söll belongs to the Skiwelt Wilder Kaiser-Brixental, Niederau to Ski Juwel. Check the current ski pass arrangements.",
+     "de": "Nein, Söll gehört zur Skiwelt Wilder Kaiser-Brixental, Niederau zum Ski Juwel. Informieren Sie sich über die aktuelle Skipassregelung."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "slug": "ellmau",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Ellmau",
+   "en": "Ellmau",
+   "de": "Ellmau"
+  },
+  "tagline": {
+   "nl": "Dorp aan de voet van de Wilde Kaiser, bekend van de tv-serie Der Bergdoktor",
+   "en": "Village at the foot of the Wilder Kaiser, known from the TV series Der Bergdoktor",
+   "de": "Dorf am Fuß des Wilden Kaisers, bekannt aus der Fernsehserie Der Bergdoktor"
+  },
+  "intro": {
+   "nl": "Ellmau ligt in het Kufsteinerland, direct onder de steile rotswanden van de Wilde Kaiser. Het is een toeristisch dorp met veel accommodaties en een weids dalzicht. Bij Duitstaligen is Ellmau bekend doordat de tv-serie Der Bergdoktor hier deels is opgenomen.\n\nIn de winter hoort Ellmau bij de Skiwelt Wilder Kaiser-Brixental; de Hartkaiser-bergbaan vertrekt vanuit het dorp. In de zomer zijn er wandelingen naar alpenhutten, fietsroutes en mooie uitzichten op de Wilde Kaiser.\n\nVoor gezinnen uit Niederau is Ellmau een mooie dagtocht als je het Kaisergebergte wilt zien zonder te ver te rijden. Het dorp is rustiger dan Kitzbühel en geschikt voor wie liever wandelt dan winkelt. Controleer vooraf de actuele openingstijden van bergbanen en hutten.",
+   "en": "Ellmau lies in the Kufsteinerland, directly beneath the steep rock walls of the Wilder Kaiser. It is a tourist village with plenty of accommodation and an open valley view. German-speaking visitors know Ellmau because the TV series Der Bergdoktor is partly filmed here.\n\nIn winter Ellmau belongs to the Skiwelt Wilder Kaiser-Brixental; the Hartkaiser cable car starts from the village. In summer there are walks to alpine huts, cycling routes and fine views of the Wilder Kaiser.\n\nFor families from Niederau, Ellmau is a lovely day trip if you want to see the Kaiser mountains without driving too far. The village is quieter than Kitzbühel and suits those who prefer walking to shopping. Check the current opening times of cable cars and huts beforehand.",
+   "de": "Ellmau liegt im Kufsteinerland, direkt unter den steilen Felswänden des Wilden Kaisers. Es ist ein Urlaubsort mit vielen Unterkünften und weitem Talblick. Im deutschsprachigen Raum ist Ellmau bekannt, weil die Fernsehserie Der Bergdoktor hier teilweise gedreht wird.\n\nIm Winter gehört Ellmau zur Skiwelt Wilder Kaiser-Brixental; die Hartkaiserbahn startet im Ort. Im Sommer gibt es Wanderungen zu Almhütten, Radrouten und schöne Ausblicke auf den Wilden Kaiser.\n\nFür Familien aus Niederau ist Ellmau ein schöner Tagesausflug, wenn man das Kaisergebirge sehen möchte, ohne weit zu fahren. Der Ort ist ruhiger als Kitzbühel und eignet sich für alle, die lieber wandern als bummeln. Prüfen Sie vorab die aktuellen Öffnungszeiten von Bergbahnen und Hütten."
+  },
+  "highlights": {
+   "nl": [
+    "De Hartkaiser-bergbaan voor wandelen in de zomer en skiën in de winter.",
+    "Wandelingen naar alpenhutten met uitzicht op de Wilde Kaiser.",
+    "Fietsen door het dal rond Ellmau.",
+    "Skiën in de Skiwelt Wilder Kaiser-Brixental.",
+    "Bergdoktor-locaties in het dorp voor fans van de serie."
+   ],
+   "en": [
+    "The Hartkaiser cable car for summer walking and winter skiing.",
+    "Walks to alpine huts with views of the Wilder Kaiser.",
+    "Cycling through the valley around Ellmau.",
+    "Skiing in the Skiwelt Wilder Kaiser-Brixental.",
+    "Bergdoktor filming locations in the village for fans of the series."
+   ],
+   "de": [
+    "Die Hartkaiserbahn zum Wandern im Sommer und Skifahren im Winter.",
+    "Wanderungen zu Almhütten mit Blick auf den Wilden Kaiser.",
+    "Radfahren durch das Tal rund um Ellmau.",
+    "Skifahren in der Skiwelt Wilder Kaiser-Brixental.",
+    "Bergdoktor-Drehorte im Ort für Fans der Serie."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 45 minuten met de auto vanaf Niederau, via Wörgl en Söll.",
+   "en": "About 45 minutes by car from Niederau, via Wörgl and Söll.",
+   "de": "Ca. 45 Minuten mit dem Auto ab Niederau, über Wörgl und Söll."
+  },
+  "best_for": {
+   "nl": "Past bij wandelaars, gezinnen en fans van Der Bergdoktor.",
+   "en": "Suits walkers, families and fans of Der Bergdoktor.",
+   "de": "Passt zu Wanderern, Familien und Fans von Der Bergdoktor."
+  },
+  "season": {
+   "nl": "Hele jaar; wandelen in de zomer, skiën in de winter.",
+   "en": "Year-round; hiking in summer, skiing in winter.",
+   "de": "Ganzjährig; Wandern im Sommer, Skifahren im Winter."
+  },
+  "drive_min": 45,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom is Ellmau bekend?",
+     "en": "Why is Ellmau well known?",
+     "de": "Wofür ist Ellmau bekannt?"
+    },
+    "a": {
+     "nl": "Door de ligging onder de Wilde Kaiser en omdat de tv-serie Der Bergdoktor er deels wordt opgenomen.",
+     "en": "For its location beneath the Wilder Kaiser and because the TV series Der Bergdoktor is partly filmed there.",
+     "de": "Wegen der Lage unter dem Wilden Kaiser und weil die Fernsehserie Der Bergdoktor dort teilweise gedreht wird."
+    }
+   },
+   {
+    "q": {
+     "nl": "Welk skigebied hoort bij Ellmau?",
+     "en": "Which ski area does Ellmau belong to?",
+     "de": "Zu welchem Skigebiet gehört Ellmau?"
+    },
+    "a": {
+     "nl": "Ellmau hoort bij de Skiwelt Wilder Kaiser-Brixental.",
+     "en": "Ellmau belongs to the Skiwelt Wilder Kaiser-Brixental.",
+     "de": "Ellmau gehört zur Skiwelt Wilder Kaiser-Brixental."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "slug": "koessen",
+  "region": "kufsteinerland",
+  "drop": false,
+  "name": {
+   "nl": "Kössen",
+   "en": "Kössen",
+   "de": "Kössen"
+  },
+  "tagline": {
+   "nl": "Rustig dorp in de Kaiserwinkl, vlak bij de Duitse grens",
+   "en": "Quiet village in the Kaiserwinkl, close to the German border",
+   "de": "Ruhiger Ort im Kaiserwinkl, nahe der deutschen Grenze"
+  },
+  "intro": {
+   "nl": "Kössen ligt in het Tiroler Kaiserwinkl, in het uiterste noordoosten van Tirol, dicht bij de grens met Beieren. Het is een rustig dorp in een breed dal, omringd door bergen en weiden.\n\nIn de zomer is het een plek voor wandelen, fietsen en actieve dagen in de natuur. De Unterberghorn is bekend onder schermvliegers. Bij Kössen ligt ook de Klobenstein, een beboste kloof met een kleine kapel. In de winter zijn er pistes, langlaufloipes en winterwandelroutes.\n\nVoor gezinnen uit Niederau is Kössen een langere dagtocht, die vooral aantrekkelijk is voor wie rust zoekt en wil combineren met een uitstapje naar de Beierse meren. Reken op een rit van ruim een uur. Controleer vooraf actuele openingstijden en weersomstandigheden.",
+   "en": "Kössen lies in the Tyrolean Kaiserwinkl, in the far north-east of Tyrol close to the Bavarian border. It is a quiet village in a broad valley surrounded by mountains and meadows.\n\nIn summer it is a place for walking, cycling and active days in nature. The Unterberghorn is known among paragliders. Near Kössen lies the Klobenstein, a wooded gorge with a small chapel. In winter there are slopes, cross-country trails and winter walking routes.\n\nFor families from Niederau, Kössen is a longer day trip, mainly attractive to those wanting peace and quiet and perhaps a combined outing to the Bavarian lakes. Allow just over an hour for the drive. Check current opening times and weather conditions beforehand.",
+   "de": "Kössen liegt im Tiroler Kaiserwinkl, im äußersten Nordosten Tirols, nahe der bayerischen Grenze. Es ist ein ruhiger Ort in einem breiten Tal, umgeben von Bergen und Wiesen.\n\nIm Sommer eignet er sich zum Wandern, Radfahren und für aktive Tage in der Natur. Das Unterberghorn ist bei Gleitschirmfliegern bekannt. In der Nähe von Kössen liegt der Klobenstein, eine bewaldete Schlucht mit einer kleinen Kapelle. Im Winter gibt es Pisten, Langlaufloipen und Winterwanderwege.\n\nFür Familien aus Niederau ist Kössen ein längerer Tagesausflug, vor allem für alle, die Ruhe suchen und vielleicht einen Abstecher zu den bayerischen Seen planen. Rechnen Sie mit gut einer Stunde Fahrt. Prüfen Sie vorab aktuelle Öffnungszeiten und die Wetterlage."
+  },
+  "highlights": {
+   "nl": [
+    "Wandelen en fietsen in het Kaiserwinkl.",
+    "De Klobenstein: beboste kloof met een kleine kapel, een korte wandeling.",
+    "De Unterberghorn, bekend bij schermvliegers.",
+    "Winter: pistes, langlaufloipes en winterwandelroutes.",
+    "Combineren met een uitstapje naar de Beierse meren."
+   ],
+   "en": [
+    "Walking and cycling in the Kaiserwinkl.",
+    "The Klobenstein: a wooded gorge with a small chapel, a short walk.",
+    "The Unterberghorn, known among paragliders.",
+    "Winter: slopes, cross-country trails and winter walking routes.",
+    "Combine with a trip to the Bavarian lakes."
+   ],
+   "de": [
+    "Wandern und Radfahren im Kaiserwinkl.",
+    "Der Klobenstein: bewaldete Schlucht mit kleiner Kapelle, ein kurzer Spaziergang.",
+    "Das Unterberghorn, bekannt bei Gleitschirmfliegern.",
+    "Winter: Pisten, Langlaufloipen und Winterwanderwege.",
+    "Kombinierbar mit einem Ausflug zu den bayerischen Seen."
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 65 minuten met de auto vanaf Niederau, via Wörgl, Kufstein en daarna richting Kössen/Walchsee.",
+   "en": "About 65 minutes by car from Niederau, via Wörgl, Kufstein and then towards Kössen/Walchsee.",
+   "de": "Ca. 65 Minuten mit dem Auto ab Niederau, über Wörgl, Kufstein und dann Richtung Kössen/Walchsee."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen en natuurliefhebbers die rust zoeken.",
+   "en": "Suits families and nature lovers seeking peace and quiet.",
+   "de": "Passt zu Familien und Naturliebhabern, die Ruhe suchen."
+  },
+  "season": {
+   "nl": "Hele jaar; wandelen en fietsen in de zomer, langlaufen en skiën in de winter.",
+   "en": "Year-round; walking and cycling in summer, cross-country and skiing in winter.",
+   "de": "Ganzjährig; Wandern und Radfahren im Sommer, Langlaufen und Skifahren im Winter."
+  },
+  "drive_min": 65,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt Kössen?",
+     "en": "Where is Kössen?",
+     "de": "Wo liegt Kössen?"
+    },
+    "a": {
+     "nl": "In het Tiroler Kaiserwinkl, in het noordoosten van Tirol, dicht bij de grens met Beieren.",
+     "en": "In the Tyrolean Kaiserwinkl, in north-east Tyrol close to the Bavarian border.",
+     "de": "Im Tiroler Kaiserwinkl, im Nordosten Tirols nahe der bayerischen Grenze."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is Kössen een goede dagtocht vanuit Niederau?",
+     "en": "Is Kössen a good day trip from Niederau?",
+     "de": "Ist Kössen ein guter Tagesausflug ab Niederau?"
+    },
+    "a": {
+     "nl": "Ja, mits je rekening houdt met een rit van ongeveer een uur enkele reis; het is een rustige bestemming.",
+     "en": "Yes, provided you allow roughly an hour each way; it is a quiet destination.",
+     "de": "Ja, wenn man pro Strecke etwa eine Stunde einplant; es ist ein ruhiges Ziel."
+    }
+   }
+  ],
+  "verified": false
+ }
+]

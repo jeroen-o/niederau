@@ -1,0 +1,1721 @@
+[
+ {
+  "id": "s187",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "rattenberg-outdoor-pool",
+  "slug_de": "freibad-rattenberg",
+  "title": {
+   "nl": "Freibad Rattenberg",
+   "en": "Rattenberg open-air pool",
+   "de": "Freibad Rattenberg"
+  },
+  "tagline": {
+   "nl": "Zwemmen combineren met het kleinste stadje van Oostenrijk",
+   "en": "Combine a swim with Austria's smallest town",
+   "de": "Baden und die kleinste Stadt Österreichs verbinden"
+  },
+  "intro": {
+   "nl": "Rattenberg in het Inntal staat bekend als de kleinste stad van Oostenrijk, met glasblazers en een historisch centrum. Volgens de bronnen is er in of bij het stadje een openluchtbad met een kinderbad, handig als verfrissende stop na een rondgang door de straatjes.\n\nWe konden het bad niet onafhankelijk bevestigen. Het dichtstbijzijnde bevestigde openluchtbad ligt in het naburige Brixlegg. Informeer daarom vooraf bij de toeristische organisatie van het Alpbachtal of het bad in Rattenberg open is en welke voorzieningen er zijn, voordat je er een uitstap op baseert.",
+   "en": "Rattenberg in the Inn valley is known as Austria's smallest town, with glassblowers and a historic centre. According to the source material there is an open-air pool with a children's pool in or near the town, a handy refreshing stop after a stroll through the lanes.\n\nWe could not confirm the pool independently. The nearest confirmed open-air pool is in neighbouring Brixlegg. Ask the Alpbachtal tourist office beforehand whether the Rattenberg pool is open and what facilities it has before building an outing around it.",
+   "de": "Rattenberg im Inntal gilt als kleinste Stadt Österreichs, mit Glasbläsern und einem historischen Zentrum. Laut Quellenmaterial gibt es in oder bei der Stadt ein Freibad mit Kinderbecken, eine praktische Erfrischung nach dem Bummel durch die Gassen.\n\nWir konnten das Bad nicht unabhängig bestätigen. Das nächste bestätigte Freibad liegt im benachbarten Brixlegg. Fragen Sie vorab beim Tourismusverband Alpbachtal nach, ob das Bad in Rattenberg geöffnet ist und welche Ausstattung es hat, bevor Sie einen Ausflug darauf aufbauen."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf naar openingstijden en tarieven.",
+    "Combineer met een bezoek aan de glasblazers in het centrum.",
+    "Het Freischwimmbad in Brixlegg is een bevestigd alternatief in de buurt."
+   ],
+   "en": [
+    "Ask about opening times and prices in advance.",
+    "Combine it with a visit to the glassblowers in the centre.",
+    "The Brixlegg open-air pool nearby is a confirmed alternative."
+   ],
+   "de": [
+    "Erkundigen Sie sich vorab nach Öffnungszeiten und Preisen.",
+    "Verbinden Sie es mit einem Besuch bei den Glasbläsern im Zentrum.",
+    "Das Freischwimmbad Brixlegg in der Nähe ist eine bestätigte Alternative."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 25 tot 30 minuten met de auto via Wörgl en de A12 (afrit Rattenberg). Open in de zomer; tijden niet bevestigd.",
+   "en": "From Niederau it is about 25 to 30 minutes by car via Wörgl and the A12 (exit Rattenberg). Open in summer; times not confirmed.",
+   "de": "Von Niederau fahren Sie etwa 25 bis 30 Minuten mit dem Auto über Wörgl und die A12 (Ausfahrt Rattenberg). Im Sommer geöffnet; Zeiten nicht bestätigt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 tot 30 min rijden",
+    "en": "Approx. 25 to 30 min by car",
+    "de": "Ca. 25 bis 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Rattenberg, Inntal",
+   "en": "Rattenberg, Inn valley",
+   "de": "Rattenberg, Inntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er in Rattenberg een openluchtbad?",
+     "en": "Is there an open-air pool in Rattenberg?",
+     "de": "Gibt es in Rattenberg ein Freibad?"
+    },
+    "a": {
+     "nl": "Dat konden we niet onafhankelijk bevestigen; het naburige Brixlegg heeft wel een bevestigd bad. Informeer vooraf.",
+     "en": "We could not confirm this independently; neighbouring Brixlegg has a confirmed pool. Check beforehand.",
+     "de": "Das konnten wir nicht unabhängig bestätigen; das benachbarte Brixlegg hat ein bestätigtes Bad. Fragen Sie vorab nach."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s194",
+  "drop": false,
+  "drop_reason": "",
+  "place": "brixlegg",
+  "slug_en": "brixlegg-outdoor-pool",
+  "slug_de": "freischwimmbad-brixlegg",
+  "title": {
+   "nl": "Freischwimmbad Brixlegg",
+   "en": "Brixlegg open-air pool",
+   "de": "Freischwimmbad Brixlegg"
+  },
+  "tagline": {
+   "nl": "Openluchtbad met kinderbad onder Schloss Lanegg",
+   "en": "Open-air pool with a children's pool below Lanegg Castle",
+   "de": "Freibad mit Kinderbecken unterhalb von Schloss Lanegg"
+  },
+  "intro": {
+   "nl": "Het Freischwimmbad in Brixlegg ligt in het Alpbachtal, direct onder Schloss Lanegg en naast het Museum Bergbau en Hüttenwesen. Het bad heeft twee zwembassins, een kinderbad en een grote ligweide.\n\nHet is een eenvoudig, ruim opgezet gemeentebad: geen spectaculaire attracties, wel een prettige plek om een warme middag door te brengen. Het bad is alleen open bij goed weer, dus kijk vooraf of het die dag open gaat. Met de Alpbachtal Card is de toegang inbegrepen. Het past goed in een dagje Alpbachtal, bijvoorbeeld in combinatie met het mijnbouwmuseum of een bezoek aan het nabijgelegen Rattenberg.",
+   "en": "The Freischwimmbad in Brixlegg lies in the Alpbachtal, right below Lanegg Castle and next to the Mining and Smelting Museum. It has two swimming pools, a children's pool and a large sunbathing lawn.\n\nIt is a simple, spacious municipal pool: no spectacular attractions, but a pleasant place to spend a warm afternoon. The pool only opens in good weather, so check on the day whether it is open. Entry is included with the Alpbachtal Card. It fits well into a day out in the Alpbachtal, for example combined with the mining museum or a visit to nearby Rattenberg.",
+   "de": "Das Freischwimmbad Brixlegg liegt im Alpbachtal, direkt unterhalb von Schloss Lanegg und neben dem Museum Bergbau und Hüttenwesen. Es hat zwei Schwimmbecken, ein Kinderbecken und eine große Liegewiese.\n\nEs ist ein einfaches, großzügiges Gemeindebad: keine spektakulären Attraktionen, aber ein angenehmer Ort für einen warmen Nachmittag. Das Bad öffnet nur bei schönem Wetter, schauen Sie also am Tag selbst nach, ob geöffnet ist. Mit der Alpbachtal Card ist der Eintritt inklusive. Es passt gut in einen Tag im Alpbachtal, etwa in Kombination mit dem Bergbaumuseum oder einem Besuch im nahen Rattenberg."
+  },
+  "tips": {
+   "nl": [
+    "Ga bij twijfelachtig weer eerst na of het bad open is.",
+    "Na 14.00 uur geldt vaak een gunstiger middagtarief.",
+    "Neem de Alpbachtal Card mee: de toegang is daarmee inbegrepen.",
+    "Combineer met een bezoek aan het mijnbouwmuseum of Rattenberg."
+   ],
+   "en": [
+    "Check beforehand whether the pool is open if the weather is uncertain.",
+    "An afternoon rate usually applies after 2 pm.",
+    "Bring the Alpbachtal Card, which includes entry.",
+    "Combine it with the mining museum or Rattenberg."
+   ],
+   "de": [
+    "Prüfen Sie bei unsicherem Wetter vorab, ob das Bad geöffnet ist.",
+    "Nach 14 Uhr gilt in der Regel ein günstigerer Nachmittagstarif.",
+    "Nehmen Sie die Alpbachtal Card mit, der Eintritt ist damit inbegriffen.",
+    "Verbinden Sie den Besuch mit dem Bergbaumuseum oder Rattenberg."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 25 tot 30 minuten met de auto, via Wörgl en de A12 of B171 richting Brixlegg. Er is een gemeentebad met gewone openingstijden in het seizoen; actuele tijden vindt u bij de gemeente of de toeristische organisatie.",
+   "en": "From Niederau it is about 25 to 30 minutes by car via Wörgl and the A12 or B171 towards Brixlegg. Opening times follow the summer season; check the current hours with the municipality or the tourist office.",
+   "de": "Von Niederau sind es etwa 25 bis 30 Minuten mit dem Auto über Wörgl und die A12 oder B171 Richtung Brixlegg. Die Öffnungszeiten richten sich nach der Sommersaison; aktuelle Zeiten erfahren Sie bei der Gemeinde oder dem Tourismusverband."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; ca. € 6 voor volwassenen, ca. € 3 voor kinderen (informeer vooraf)",
+    "en": "Prices vary; about € 6 for adults and € 3 for children (check beforehand)",
+    "de": "Preise wechseln; ca. 6 € für Erwachsene, ca. 3 € für Kinder (vorab erfragen)"
+   },
+   "distance": {
+    "nl": "Ca. 25 tot 30 min rijden",
+    "en": "Approx. 25 to 30 min by car",
+    "de": "Ca. 25 bis 30 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Brixlegg, Alpbachtal",
+   "en": "Brixlegg, Alpbachtal",
+   "de": "Brixlegg, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de toegang met de Alpbachtal Card inbegrepen?",
+     "en": "Is entry included with the Alpbachtal Card?",
+     "de": "Ist der Eintritt mit der Alpbachtal Card inbegriffen?"
+    },
+    "a": {
+     "nl": "Ja, volgens de toeristische organisatie is de toegang met de Alpbachtal Card inbegrepen. Controleer de voorwaarden bij uw accommodatie.",
+     "en": "Yes, according to the tourist board, entry is included with the Alpbachtal Card. Check the conditions with your accommodation.",
+     "de": "Ja, laut Tourismusverband ist der Eintritt mit der Alpbachtal Card inbegriffen. Prüfen Sie die Bedingungen bei Ihrer Unterkunft."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s196",
+  "drop": true,
+  "drop_reason": "Een 'Wildwaterpark Imst' bestaat niet; alleen commerciele raftingtochten op de Imster Schlucht (Inn).",
+  "verified": false
+ },
+ {
+  "id": "s206",
+  "drop": true,
+  "drop_reason": "Dubbel van s194 (Freischwimmbad Brixlegg); een apart 'Strandbad Brixlegg aan de Inn' niet bevestigd.",
+  "verified": false
+ },
+ {
+  "id": "s213",
+  "drop": false,
+  "drop_reason": "",
+  "place": "thiersee",
+  "slug_en": "thiersee-lido",
+  "slug_de": "strandbad-thiersee",
+  "title": {
+   "nl": "Strandbad Thiersee",
+   "en": "Thiersee lido",
+   "de": "Strandbad Thiersee"
+  },
+  "tagline": {
+   "nl": "Zwemmen in een schoon meer bij Kufstein",
+   "en": "Swimming in a clean lake near Kufstein",
+   "de": "Baden in einem sauberen See bei Kufstein"
+  },
+  "intro": {
+   "nl": "Het Thiersee ligt in het Kufsteinerland en geldt als een van de schoonste meren van Tirol, met een gemiddelde watertemperatuur van rond 22 °C in de zomer. Het meer is ongeveer 25 hectare groot en tot circa 12 meter diep.\n\nAan het meer ligt een strandbad met ligweide, een duiktoren, een waterglijbaan-achtig springelement (aqua jump) en een beachvolleybalveld. Je kunt er ook roeiboten, waterfietsen en dolfijnboten huren. Het is rustiger dan de grotere meren in de buurt en daardoor geschikt voor gezinnen die een ontspannen dag aan het water zoeken. Rond het meer lopen wandelpaden.",
+   "en": "The Thiersee lies in the Kufsteinerland and is considered one of the cleanest lakes in Tyrol, with an average summer water temperature of around 22 °C. The lake covers about 25 hectares and is up to roughly 12 metres deep.\n\nOn the shore there is a lido with a sunbathing lawn, a diving tower, an aqua jump and a beach volleyball court. Rowing boats, pedal boats and dolphin-shaped boats can be rented. It is quieter than the larger lakes nearby, which makes it a good choice for families who want a relaxed day by the water. Walking paths run around the lake.",
+   "de": "Der Thiersee liegt im Kufsteinerland und gilt als einer der saubersten Seen Tirols, mit einer durchschnittlichen Wassertemperatur von etwa 22 °C im Sommer. Der See ist rund 25 Hektar groß und bis zu etwa 12 Meter tief.\n\nAm Ufer gibt es ein Strandbad mit Liegewiese, Sprungturm, Aqua Jump und Beachvolleyballplatz. Ruderboote, Tretboote und Delfinboote können gemietet werden. Der See ist ruhiger als die größeren Seen der Umgebung und eignet sich daher für Familien, die einen entspannten Tag am Wasser suchen. Rund um den See führen Spazierwege."
+  },
+  "tips": {
+   "nl": [
+    "Neem geld mee: voor de toegang wordt meestal een kleine bijdrage gevraagd.",
+    "Huur een roeiboot of waterfiets voor een rondje over het meer.",
+    "Kom doordeweeks of in de ochtend voor meer rust."
+   ],
+   "en": [
+    "Bring some cash: a small entry fee is usually charged.",
+    "Rent a rowing or pedal boat for a trip on the lake.",
+    "Come on a weekday or in the morning for more peace."
+   ],
+   "de": [
+    "Nehmen Sie etwas Geld mit: für den Eintritt wird meist ein kleiner Betrag verlangt.",
+    "Mieten Sie ein Ruder- oder Tretboot für eine Runde auf dem See.",
+    "Kommen Sie wochentags oder vormittags für mehr Ruhe."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 40 tot 45 minuten met de auto via Wörgl en Kufstein. Er is parkeergelegenheid in de buurt. Openingstijden en tarieven kunnen wisselen; informeer vooraf.",
+   "en": "From Niederau it is about 40 to 45 minutes by car via Wörgl and Kufstein. Parking is available nearby. Opening times and prices can change; check beforehand.",
+   "de": "Von Niederau fahren Sie etwa 40 bis 45 Minuten mit dem Auto über Wörgl und Kufstein. Parkmöglichkeiten gibt es in der Nähe. Öffnungszeiten und Preise können sich ändern; erkundigen Sie sich vorab."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Kleine entreeprijs; informeer vooraf",
+    "en": "Small entry fee; check beforehand",
+    "de": "Geringer Eintrittspreis; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 40 tot 45 min rijden",
+    "en": "Approx. 40 to 45 min by car",
+    "de": "Ca. 40 bis 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Thiersee, Kufsteinerland",
+   "en": "Thiersee, Kufsteinerland",
+   "de": "Thiersee, Kufsteinerland"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij het Thiersee boten huren?",
+     "en": "Can you rent boats at the Thiersee?",
+     "de": "Kann man am Thiersee Boote mieten?"
+    },
+    "a": {
+     "nl": "Ja, er zijn roeiboten, waterfietsen en dolfijnboten te huur tegen een kleine vergoeding.",
+     "en": "Yes, rowing boats, pedal boats and dolphin boats can be rented for a small fee.",
+     "de": "Ja, Ruderboote, Tretboote und Delfinboote können gegen eine kleine Gebühr gemietet werden."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s223",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "rafting-oetztaler-ache",
+  "slug_de": "rafting-oetztaler-ache",
+  "title": {
+   "nl": "Rafting op de Ötztaler Ache",
+   "en": "Rafting on the Ötztaler Ache",
+   "de": "Rafting auf der Ötztaler Ache"
+  },
+  "tagline": {
+   "nl": "Wildwaterrafting voor ervaren peddelaars in het Ötztal",
+   "en": "Whitewater rafting for experienced paddlers in the Ötztal",
+   "de": "Wildwasser-Rafting für erfahrene Paddler im Ötztal"
+  },
+  "intro": {
+   "nl": "De Ötztaler Ache staat bekend als een van de uitdagendste raftingrivieren van Europa. Het traject bij Sautens, aan de ingang van het Ötztal, is circa 14 km lang en kent stroomversnellingen van klasse IV tot V. Dat maakt de tocht eerder geschikt voor sportieve volwassenen dan voor gezinnen met kinderen.\n\nDe tochten worden door gespecialiseerde aanbieders met gids georganiseerd en duren ongeveer een halve dag. Een minimumleeftijd van ca. 16 jaar is gebruikelijk bij deze zware route. Wil je met jongere kinderen het water op, kijk dan naar rustiger tochten op andere rivieren, bijvoorbeeld op de Imster Schlucht (Inn), waar gezinstochten vanaf ca. 10 jaar bestaan.",
+   "en": "The Ötztaler Ache is regarded as one of the most demanding rafting rivers in Europe. The stretch near Sautens, at the entrance to the Ötztal, is about 14 km long and has class IV to V rapids. That makes the trip better suited to sporty adults than to families with children.\n\nTrips are run by specialist operators with a guide and take roughly half a day. A minimum age of about 16 is usual on this demanding route. If you want to go on the water with younger children, look at gentler trips on other rivers, such as the Imster Schlucht (Inn), where family tours exist from about 10 years.",
+   "de": "Die Ötztaler Ache gilt als einer der anspruchsvollsten Rafting-Flüsse Europas. Die Strecke bei Sautens am Eingang des Ötztals ist rund 14 km lang und hat Stromschnellen der Klassen IV bis V. Damit eignet sie sich eher für sportliche Erwachsene als für Familien mit Kindern.\n\nDie Touren werden von spezialisierten Anbietern mit Guide durchgeführt und dauern etwa einen halben Tag. Ein Mindestalter von etwa 16 Jahren ist bei dieser anspruchsvollen Strecke üblich. Wer mit jüngeren Kindern aufs Wasser möchte, schaut besser nach ruhigeren Touren auf anderen Flüssen, etwa der Imster Schlucht (Inn), wo es Familientouren ab etwa 10 Jahren gibt."
+  },
+  "tips": {
+   "nl": [
+    "Boek vooraf en vraag naar de minimumleeftijd en het niveau van de tocht.",
+    "Neem een handdoek en droge kleren mee; het water is koud.",
+    "Wetsuit en helm worden doorgaans door de aanbieder verstrekt; vraag ernaar."
+   ],
+   "en": [
+    "Book ahead and ask about the minimum age and difficulty of the trip.",
+    "Bring a towel and dry clothes; the water is cold.",
+    "Wetsuit and helmet are normally supplied by the operator; ask about it."
+   ],
+   "de": [
+    "Buchen Sie vorab und fragen Sie nach Mindestalter und Schwierigkeitsgrad der Tour.",
+    "Nehmen Sie Handtuch und trockene Kleidung mit; das Wasser ist kalt.",
+    "Neoprenanzug und Helm stellt in der Regel der Anbieter; fragen Sie danach."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 1,5 uur met de auto via de A12 richting Innsbruck en verder naar Sautens (Ötztal). Reserveren vooraf is nodig; het startpunt hangt af van de aanbieder.",
+   "en": "From Niederau it is about 1.5 hours by car via the A12 towards Innsbruck and on to Sautens (Ötztal). Booking in advance is required; the starting point depends on the operator.",
+   "de": "Von Niederau sind es etwa 1,5 Stunden mit dem Auto über die A12 Richtung Innsbruck und weiter nach Sautens (Ötztal). Eine Reservierung im Voraus ist nötig; der Startpunkt hängt vom Anbieter ab."
+  },
+  "facts": {
+   "age": {
+    "nl": "Ca. 16 jaar en ouder (informeer bij de aanbieder)",
+    "en": "About 16 and older (check with the operator)",
+    "de": "Ab ca. 16 Jahren (beim Anbieter erfragen)"
+   },
+   "duration": {
+    "nl": "Ca. een halve dag",
+    "en": "About half a day",
+    "de": "Etwa ein halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt per aanbieder; informeer vooraf",
+    "en": "Price varies by operator; check beforehand",
+    "de": "Preis je nach Anbieter; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 uur rijden",
+    "en": "Approx. 1.5 hours by car",
+    "de": "Ca. 1,5 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (bij voldoende water)",
+    "en": "Summer (depending on water levels)",
+    "de": "Sommer (je nach Wasserstand)"
+   }
+  },
+  "location": {
+   "nl": "Sautens, Ötztal",
+   "en": "Sautens, Ötztal",
+   "de": "Sautens, Ötztal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is rafting op de Ötztaler Ache geschikt voor kinderen?",
+     "en": "Is rafting on the Ötztaler Ache suitable for children?",
+     "de": "Ist Rafting auf der Ötztaler Ache für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Meestal niet: de route is zwaar en aanbieders hanteren een minimumleeftijd van ca. 16 jaar. Voor gezinnen zijn er rustiger tochten, zoals op de Imster Schlucht vanaf ca. 10 jaar.",
+     "en": "Usually not: the route is demanding and operators set a minimum age of about 16. For families there are gentler trips, such as on the Imster Schlucht from about 10 years.",
+     "de": "Meist nicht: Die Strecke ist anspruchsvoll, und Anbieter setzen ein Mindestalter von etwa 16 Jahren an. Für Familien gibt es ruhigere Touren, etwa auf der Imster Schlucht ab etwa 10 Jahren."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s224",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "kitzsteinhorn-summer-glacier",
+  "slug_de": "kitzsteinhorn-sommer-gletscher",
+  "title": {
+   "nl": "Kitzsteinhorn in de zomer",
+   "en": "Kitzsteinhorn in summer",
+   "de": "Kitzsteinhorn im Sommer"
+  },
+  "tagline": {
+   "nl": "Gletsjerwereld en uitzichtplatforms op ruim 3.000 meter",
+   "en": "Glacier world and viewing platforms above 3,000 metres",
+   "de": "Gletscherwelt und Aussichtsplattformen auf über 3.000 Metern"
+  },
+  "intro": {
+   "nl": "Het Kitzsteinhorn (3.203 m) ligt boven Kaprun, grenzend aan het Nationalpark Hohe Tauern. Een kabelbaan brengt je naar het bergstation op 3.029 meter, waar de Gipfelwelt 3000 het hele jaar te bezoeken is.\n\nIn de zomer zijn onder meer de uitzichtplatforms Top of Salzburg en Nationalpark Gallery, de bioscoop Cinema 3000 en een ijsarena met sneeuwglijbanen en een ijsbar te bezoeken. Het is een uitstapje voor een hele dag: let op dat het op deze hoogte ook midden in de zomer koud kan zijn. Het ligt ver van Niederau en past daarom vooral bij een dag waarop je bewust een bergtocht in de Hohe Tauern wilt maken.",
+   "en": "The Kitzsteinhorn (3,203 m) rises above Kaprun, on the edge of the Hohe Tauern National Park. A cable car takes you to the top station at 3,029 metres, where the Gipfelwelt 3000 can be visited all year round.\n\nIn summer you can visit the Top of Salzburg and Nationalpark Gallery viewing platforms, the Cinema 3000 and an ice arena with snow slides and an ice bar. It is a full-day outing: be aware that it can be cold at this altitude even in midsummer. It is a long way from Niederau, so it suits a day when you deliberately want a high-mountain trip in the Hohe Tauern.",
+   "de": "Das Kitzsteinhorn (3.203 m) erhebt sich über Kaprun, am Rand des Nationalparks Hohe Tauern. Eine Seilbahn bringt Sie zur Bergstation auf 3.029 Metern, wo die Gipfelwelt 3000 ganzjährig besucht werden kann.\n\nIm Sommer gibt es unter anderem die Aussichtsplattformen Top of Salzburg und Nationalpark Gallery, das Cinema 3000 sowie eine Eisarena mit Schneerutschen und Eisbar. Es ist ein Ausflug für einen ganzen Tag: Auf dieser Höhe kann es auch im Hochsommer kalt sein. Von Niederau ist es weit, daher passt es vor allem zu einem Tag, an dem Sie bewusst einen Hochgebirgsausflug in die Hohen Tauern machen möchten."
+  },
+  "tips": {
+   "nl": [
+    "Neem warme kleding, een muts en handschoenen mee, ook in de zomer.",
+    "Zonnebrand en zonnebril zijn op deze hoogte onmisbaar.",
+    "Controleer vooraf de actuele weersomstandigheden en de dienstregeling van de kabelbanen."
+   ],
+   "en": [
+    "Bring warm clothes, a hat and gloves, even in summer.",
+    "Sunscreen and sunglasses are essential at this altitude.",
+    "Check the current weather and cable car operating times beforehand."
+   ],
+   "de": [
+    "Nehmen Sie warme Kleidung, Mütze und Handschuhe mit, auch im Sommer.",
+    "Sonnencreme und Sonnenbrille sind auf dieser Höhe unverzichtbar.",
+    "Prüfen Sie vorab Wetter und Betriebszeiten der Bahnen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 1,5 tot 2 uur met de auto naar Kaprun, via Kitzbühel en Zell am See. Het dal- en bergstation hebben parkeergelegenheid. Prijzen van de bergbaan: zie de officiële website.",
+   "en": "From Niederau it is about 1.5 to 2 hours by car to Kaprun, via Kitzbühel and Zell am See. There is parking at the valley station. For cable car prices, see the official website.",
+   "de": "Von Niederau fahren Sie etwa 1,5 bis 2 Stunden mit dem Auto nach Kaprun, über Kitzbühel und Zell am See. An der Talstation gibt es Parkplätze. Die Preise der Bergbahn finden Sie auf der offiziellen Website."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden (gezinsvriendelijk)",
+    "en": "All ages (family-friendly)",
+    "de": "Alle Altersgruppen (familienfreundlich)"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Prijs bergbaan wisselt; zie officiële website",
+    "en": "Cable car price varies; see the official website",
+    "de": "Preis der Bergbahn wechselt; siehe offizielle Website"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 tot 2 uur rijden",
+    "en": "Approx. 1.5 to 2 hours by car",
+    "de": "Ca. 1,5 bis 2 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (in de zomer ook geopend)",
+    "en": "Year-round (open in summer too)",
+    "de": "Ganzjährig (auch im Sommer geöffnet)"
+   }
+  },
+  "location": {
+   "nl": "Kaprun, Salzburgerland",
+   "en": "Kaprun, Salzburg region",
+   "de": "Kaprun, Salzburger Land"
+  },
+  "url": "https://www.kitzsteinhorn.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Gipfelwelt 3000 ook in de zomer open?",
+     "en": "Is the Gipfelwelt 3000 open in summer too?",
+     "de": "Ist die Gipfelwelt 3000 auch im Sommer geöffnet?"
+    },
+    "a": {
+     "nl": "Ja, de Gipfelwelt 3000 op 3.029 meter is het hele jaar te bezoeken, met in de zomer onder meer uitzichtplatforms, Cinema 3000 en een ijsarena.",
+     "en": "Yes, the Gipfelwelt 3000 at 3,029 metres can be visited all year, with viewing platforms, Cinema 3000 and an ice arena in summer.",
+     "de": "Ja, die Gipfelwelt 3000 auf 3.029 Metern ist ganzjährig zu besuchen, im Sommer unter anderem mit Aussichtsplattformen, Cinema 3000 und Eisarena."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s230",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "plansee-lake-reutte",
+  "slug_de": "plansee-see-reutte",
+  "title": {
+   "nl": "Plansee bij Reutte",
+   "en": "Plansee near Reutte",
+   "de": "Plansee bei Reutte"
+  },
+  "tagline": {
+   "nl": "Het op één na grootste meer van Tirol, om te zwemmen en te wandelen",
+   "en": "Tyrol's second-largest lake, for swimming and walking",
+   "de": "Tirols zweitgrößter See zum Baden und Wandern"
+  },
+  "intro": {
+   "nl": "Het Plansee ligt in de Naturparkregion Reutte en is na de Achensee het grootste meer van Tirol. Het meer heeft twee bekkens van ongeveer 78 en 72 meter diep en staat bekend om zijn heldere water.\n\nAan de oever vind je een ligweide van circa 4.000 m² met een steenachtige waterkant. Douches en kleedcabines ontbreken, maar bij restaurants en kiosken zijn toiletten. Dit is dus een natuurlijke badplek, geen zwembadcomplex. Je kunt er zwemmen, langs het water wandelen en picknicken. Het is een lange rit vanaf Niederau, dus plan het als dagtocht, eventueel gecombineerd met andere bezienswaardigheden rond Reutte.",
+   "en": "The Plansee lies in the Reutte nature park region and, after the Achensee, is the largest lake in Tyrol. It has two basins about 78 and 72 metres deep and is known for its clear water.\n\nOn the shore there is a lawn of roughly 4,000 m² with a stony water's edge. There are no showers or changing cabins, but toilets are available at restaurants and kiosks. This is a natural swimming spot, not a pool complex. You can swim, walk along the water and picnic. It is a long drive from Niederau, so plan it as a day trip, perhaps combined with other sights around Reutte.",
+   "de": "Der Plansee liegt in der Naturparkregion Reutte und ist nach dem Achensee der größte See Tirols. Er hat zwei Becken mit etwa 78 und 72 Metern Tiefe und ist für sein klares Wasser bekannt.\n\nAm Ufer gibt es eine Liegewiese von rund 4.000 m² mit steinigem Ufer. Duschen und Umkleidekabinen fehlen, Toiletten gibt es aber bei Restaurants und Kiosken. Es ist also ein natürlicher Badeplatz, keine Badeanlage. Man kann schwimmen, am Wasser spazieren und picknicken. Von Niederau ist die Fahrt lang, planen Sie daher einen Tagesausflug, eventuell kombiniert mit anderen Sehenswürdigkeiten rund um Reutte."
+  },
+  "tips": {
+   "nl": [
+    "Neem badschoenen mee: de waterkant is steenachtig.",
+    "Er zijn geen douches of kleedcabines; neem een handdoek en droge kleren mee.",
+    "Het water van een bergmeer is fris, ook in de zomer."
+   ],
+   "en": [
+    "Bring water shoes: the water's edge is stony.",
+    "There are no showers or changing cabins; bring a towel and dry clothes.",
+    "The water of a mountain lake is cool even in summer."
+   ],
+   "de": [
+    "Nehmen Sie Badeschuhe mit: Das Ufer ist steinig.",
+    "Es gibt keine Duschen oder Umkleiden; Handtuch und trockene Kleidung mitnehmen.",
+    "Das Wasser eines Bergsees ist auch im Sommer frisch."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 1,5 tot 2 uur met de auto via de A12 en de Fernpass-route richting Reutte. Daarom vooral geschikt als dagtocht.",
+   "en": "From Niederau it is about 1.5 to 2 hours by car via the A12 and the Fernpass route towards Reutte. It is therefore best as a day trip.",
+   "de": "Von Niederau fahren Sie etwa 1,5 bis 2 Stunden mit dem Auto über die A12 und die Fernpass-Route Richtung Reutte. Daher eher als Tagesausflug geeignet."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Vrij toegankelijke badplek; kosten wisselen per voorziening",
+    "en": "Freely accessible bathing spot; costs vary by facility",
+    "de": "Frei zugänglicher Badeplatz; Kosten je nach Einrichtung"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 tot 2 uur rijden",
+    "en": "Approx. 1.5 to 2 hours by car",
+    "de": "Ca. 1,5 bis 2 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Plansee, Naturparkregion Reutte",
+   "en": "Plansee, Reutte nature park region",
+   "de": "Plansee, Naturparkregion Reutte"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn er douches of kleedcabines bij het Plansee?",
+     "en": "Are there showers or changing cabins at the Plansee?",
+     "de": "Gibt es am Plansee Duschen oder Umkleidekabinen?"
+    },
+    "a": {
+     "nl": "Nee, bij de badplek ontbreken douches en kleedcabines. Toiletten vind je bij restaurants en kiosken.",
+     "en": "No, showers and changing cabins are not available at the bathing spot. Toilets are at restaurants and kiosks.",
+     "de": "Nein, am Badeplatz gibt es keine Duschen und Umkleidekabinen. Toiletten finden Sie bei Restaurants und Kiosken."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s233",
+  "drop": false,
+  "drop_reason": "",
+  "place": "zell-am-ziller",
+  "slug_en": "canoeing-ziller-zillertal",
+  "slug_de": "kanufahren-ziller-zillertal",
+  "title": {
+   "nl": "Kanoën op de Ziller",
+   "en": "Canoeing on the Ziller",
+   "de": "Kanufahren auf der Ziller"
+  },
+  "tagline": {
+   "nl": "Rustige kanovaart door het Zillertal",
+   "en": "A calm canoe trip through the Zillertal",
+   "de": "Ruhige Kanufahrt durch das Zillertal"
+  },
+  "intro": {
+   "nl": "De Ziller stroomt door het Zillertal en mondt bij Strass in de Inn uit. Volgens de bronnen kun je er een rustige kanotocht maken, minder wild dan de grote raftingrivieren en daardoor in principe geschikt voor beginners en gezinnen met wat oudere kinderen.\n\nWe konden geen aanbieder van kanotochten op de Ziller bevestigen. Een rivier in de bergen kan door smeltwater en regen snel van karakter veranderen, dus ga alleen met een erkende aanbieder en gids het water op. Informeer vooraf naar de leeftijdsgrens, de moeilijkheid en de uitrusting.",
+   "en": "The Ziller flows through the Zillertal and joins the Inn near Strass. According to the source material you can take a calm canoe trip on it, gentler than the big rafting rivers and in principle suitable for beginners and families with somewhat older children.\n\nWe could not confirm an operator offering canoe trips on the Ziller. A mountain river can change character quickly with meltwater and rain, so only go on the water with a recognised operator and guide. Ask beforehand about the age limit, difficulty and equipment.",
+   "de": "Die Ziller fließt durch das Zillertal und mündet bei Strass in den Inn. Laut Quellenmaterial ist dort eine ruhige Kanutour möglich, sanfter als die großen Rafting-Flüsse und grundsätzlich für Anfänger und Familien mit etwas älteren Kindern geeignet.\n\nEinen Anbieter für Kanutouren auf der Ziller konnten wir nicht bestätigen. Ein Gebirgsfluss kann sich durch Schmelzwasser und Regen schnell verändern, gehen Sie daher nur mit einem anerkannten Anbieter und Guide aufs Wasser. Erkundigen Sie sich vorab nach Altersgrenze, Schwierigkeit und Ausrüstung."
+  },
+  "tips": {
+   "nl": [
+    "Boek alleen bij een erkende aanbieder met gids.",
+    "Neem een waterdichte tas voor telefoon en sleutels mee.",
+    "Vraag naar leeftijdsgrens en waterstand."
+   ],
+   "en": [
+    "Only book with a recognised operator with a guide.",
+    "Bring a waterproof bag for phone and keys.",
+    "Ask about the age limit and water level."
+   ],
+   "de": [
+    "Buchen Sie nur bei einem anerkannten Anbieter mit Guide.",
+    "Nehmen Sie eine wasserdichte Tasche für Handy und Schlüssel mit.",
+    "Fragen Sie nach Altersgrenze und Wasserstand."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 40 minuten met de auto via Wörgl en de Zillertal-weg. Reserveren vooraf is verstandig.",
+   "en": "From Niederau it is about 40 minutes by car via Wörgl and the Zillertal road. Booking in advance is wise.",
+   "de": "Von Niederau fahren Sie etwa 40 Minuten mit dem Auto über Wörgl und die Zillertal-Straße. Eine Reservierung im Voraus ist ratsam."
+  },
+  "facts": {
+   "age": {
+    "nl": "Ca. 8 jaar en ouder (niet bevestigd)",
+    "en": "About 8 and older (not confirmed)",
+    "de": "Ab ca. 8 Jahren (nicht bestätigt)"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Zillertal",
+   "en": "Zillertal",
+   "de": "Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is kanoën op de Ziller geschikt voor beginners?",
+     "en": "Is canoeing on the Ziller suitable for beginners?",
+     "de": "Ist Kanufahren auf der Ziller für Anfänger geeignet?"
+    },
+    "a": {
+     "nl": "Volgens de bronnen wel, maar dat is niet bevestigd. Ga alleen met een erkende aanbieder en informeer vooraf.",
+     "en": "According to the sources yes, but this is not confirmed. Only go with a recognised operator and ask beforehand.",
+     "de": "Laut Quellen ja, das ist aber nicht bestätigt. Gehen Sie nur mit einem anerkannten Anbieter und fragen Sie vorab nach."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s238",
+  "drop": true,
+  "drop_reason": "Geen officiele badplek in de Inn bij Kufstein te vinden; zwemmen in de Inn is gevaarlijk.",
+  "verified": false
+ },
+ {
+  "id": "s239",
+  "drop": false,
+  "drop_reason": "",
+  "place": "schwaz",
+  "slug_en": "schwaz-outdoor-pool",
+  "slug_de": "freibad-schwaz",
+  "title": {
+   "nl": "Freibad Schwaz (Erlebnisbad)",
+   "en": "Schwaz outdoor adventure pool",
+   "de": "Freibad Schwaz (Erlebnisbad)"
+  },
+  "tagline": {
+   "nl": "Ruim openluchtbad met glijbanen in de zilverstad",
+   "en": "Spacious open-air pool with slides in the silver town",
+   "de": "Großes Freibad mit Rutschen in der Silberstadt"
+  },
+  "intro": {
+   "nl": "Het openluchtbad van Schwaz in het Inntal is een uitgebreid bad met een verwarmd avonturenbad, luie rivier, onderwaterbubbels, een waterwand en een klimnet. Een brede glijbaan van 14 meter komt uit in dat bad, een tweede glijbaan van ongeveer 74 meter heeft een eigen bassin.\n\nVerder zijn er een 25-metersbad, een kinderbad met speelstroom en een duikbassin. Op het terrein vind je een speeltuin, tafeltennis, een ligweide en een café-restaurant met terras. Het bad is toegankelijk voor mensen met een beperking en met een kinderwagen goed te bezoeken. Het is open van mei tot en met september. Combineer het met een bezoek aan de zilvermijn of het centrum van Schwaz.",
+   "en": "The open-air pool in Schwaz in the Inn valley is a large facility with a heated adventure pool featuring a lazy river, underwater bubbles, a water wall and a climbing net. A wide 14-metre slide ends in that pool, and a second slide of about 74 metres has its own landing pool.\n\nThere are also a 25-metre sports pool, a children's pool with a play stream and a diving pool. On site you will find a playground, table tennis, a sunbathing lawn and a café-restaurant with a terrace. The pool is accessible for people with disabilities and easy to visit with a pushchair. It is open from May to September. Combine it with a visit to the silver mine or the centre of Schwaz.",
+   "de": "Das Freibad in Schwaz im Inntal ist eine große Anlage mit beheiztem Erlebnisbecken samt Strömungskanal, Unterwassersprudlern, Wasserwand und Kletternetz. Eine breite 14-Meter-Rutsche mündet in dieses Becken, eine zweite Rutsche von rund 74 Metern hat ein eigenes Auslaufbecken.\n\nDazu kommen ein 25-Meter-Sportbecken, ein Kinderbecken mit Spielbach und ein Sprungbecken. Auf dem Gelände gibt es einen Spielplatz, Tischtennis, eine Liegewiese und ein Café-Restaurant mit Terrasse. Das Bad ist barrierefrei und mit dem Kinderwagen gut zu besuchen. Geöffnet ist von Mai bis September. Verbinden Sie den Besuch mit dem Silberbergwerk oder der Altstadt von Schwaz."
+  },
+  "tips": {
+   "nl": [
+    "De glijbanen zijn favoriet bij kinderen; let op de lengte- en leeftijdsregels ter plekke.",
+    "Gratis parkeren is mogelijk in de parkeergarage en langs het sportveld.",
+    "Combineer met het zilvermijn-bezoek in Schwaz voor een volledige dag."
+   ],
+   "en": [
+    "The slides are popular with children; check the height and age rules on site.",
+    "Free parking is available in the car park and along the sports field.",
+    "Combine with a visit to the silver mine in Schwaz for a full day."
+   ],
+   "de": [
+    "Die Rutschen sind bei Kindern beliebt; beachten Sie vor Ort die Größen- und Altersregeln.",
+    "Kostenlose Parkplätze gibt es in der Parkgarage und am Sportplatz.",
+    "Verbinden Sie den Besuch mit dem Silberbergwerk in Schwaz zu einem ganzen Tag."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 40 minuten met de auto via de A12, afrit Schwaz. Het bad is in de zomer open (mei tot en met september); controleer actuele tijden vooraf.",
+   "en": "From Niederau it is about 40 minutes by car via the A12, exit Schwaz. The pool is open in summer (May to September); check current hours beforehand.",
+   "de": "Von Niederau fahren Sie etwa 40 Minuten mit dem Auto über die A12, Ausfahrt Schwaz. Das Bad ist im Sommer geöffnet (Mai bis September); aktuelle Zeiten vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "Approx. 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (mei tot en met september)",
+    "en": "Summer (May to September)",
+    "de": "Sommer (Mai bis September)"
+   }
+  },
+  "location": {
+   "nl": "Schwaz, Inntal",
+   "en": "Schwaz, Inn valley",
+   "de": "Schwaz, Inntal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke attracties heeft het bad in Schwaz?",
+     "en": "What attractions does the Schwaz pool have?",
+     "de": "Welche Attraktionen hat das Bad in Schwaz?"
+    },
+    "a": {
+     "nl": "Onder meer een avonturenbad met luie rivier en waterwand, twee glijbanen (14 en ca. 74 meter), een kinderbad en een duikbassin.",
+     "en": "Among others an adventure pool with a lazy river and water wall, two slides (14 and about 74 metres), a children's pool and a diving pool.",
+     "de": "Unter anderem ein Erlebnisbecken mit Strömungskanal und Wasserwand, zwei Rutschen (14 und rund 74 Meter), ein Kinderbecken und ein Sprungbecken."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s244",
+  "drop": true,
+  "drop_reason": "Aparte 'zwemvijver' in Westendorf niet te vinden; het bad is het Freischwimmbad Westendorf (zie s290).",
+  "verified": false
+ },
+ {
+  "id": "s246",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "hopfgarten-outdoor-pool",
+  "slug_de": "freibad-hopfgarten",
+  "title": {
+   "nl": "Freibad Hopfgarten",
+   "en": "Hopfgarten outdoor pool",
+   "de": "Freibad Hopfgarten"
+  },
+  "tagline": {
+   "nl": "Zwemmen in het Brixental, vlak bij de SkiWelt-gondels",
+   "en": "Swimming in the Brixental, close to the SkiWelt lifts",
+   "de": "Baden im Brixental, nahe den SkiWelt-Bahnen"
+  },
+  "intro": {
+   "nl": "Hopfgarten im Brixental ligt in de SkiWelt en is in de zomer een uitvalsbasis voor wandelaars en fietsers. Volgens de bronnen heeft het dorp een openluchtbad met een groot bassin, een kinderbad en uitzicht op de omliggende bergen, een prettige afsluiting na een gondeltocht of fietsronde.\n\nWe konden de exacte voorzieningen niet bevestigen. Wel noemt de toeristische organisatie het recreatiepark Salvenaland in Hopfgarten, met een zwemmeer en minigolf. Informeer vooraf waar je in Hopfgarten precies kunt zwemmen en wanneer het bad open is.",
+   "en": "Hopfgarten im Brixental lies in the SkiWelt and is a summer base for walkers and cyclists. According to the source material the village has an open-air pool with a large pool, a children's pool and views of the surrounding mountains, a pleasant end to a gondola ride or bike tour.\n\nWe could not confirm the exact facilities. The tourist board does mention the Salvenaland leisure park in Hopfgarten, with a swimming lake and mini golf. Ask beforehand where exactly you can swim in Hopfgarten and when it is open.",
+   "de": "Hopfgarten im Brixental liegt in der SkiWelt und ist im Sommer Ausgangspunkt für Wanderer und Radfahrer. Laut Quellenmaterial hat der Ort ein Freibad mit großem Becken, Kinderbecken und Blick auf die Berge, ein angenehmer Abschluss nach einer Gondelfahrt oder Radtour.\n\nDie genaue Ausstattung konnten wir nicht bestätigen. Der Tourismusverband nennt jedoch den Freizeitpark Salvenaland in Hopfgarten mit Badesee und Minigolf. Erkundigen Sie sich vorab, wo genau man in Hopfgarten baden kann und wann geöffnet ist."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf naar openingstijden en tarieven.",
+    "Ga aan het eind van de middag als het rustiger is.",
+    "Salvenaland is een bevestigd alternatief met zwemmeer."
+   ],
+   "en": [
+    "Ask about opening times and prices in advance.",
+    "Go in the late afternoon when it is quieter.",
+    "Salvenaland is a confirmed alternative with a swimming lake."
+   ],
+   "de": [
+    "Erkundigen Sie sich vorab nach Öffnungszeiten und Preisen.",
+    "Gehen Sie am späten Nachmittag, wenn es ruhiger ist.",
+    "Das Salvenaland ist eine bestätigte Alternative mit Badesee."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 20 minuten met de auto via Wörgl en de B170 richting Hopfgarten.",
+   "en": "From Niederau it is about 20 minutes by car via Wörgl and the B170 towards Hopfgarten.",
+   "de": "Von Niederau fahren Sie etwa 20 Minuten mit dem Auto über Wörgl und die B170 Richtung Hopfgarten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 20 min rijden",
+    "en": "Approx. 20 min by car",
+    "de": "Ca. 20 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar kun je in Hopfgarten zwemmen?",
+     "en": "Where can you swim in Hopfgarten?",
+     "de": "Wo kann man in Hopfgarten baden?"
+    },
+    "a": {
+     "nl": "Het recreatiepark Salvenaland heeft een zwemmeer; het openluchtbad zelf is niet bevestigd. Informeer vooraf.",
+     "en": "The Salvenaland leisure park has a swimming lake; the open-air pool itself is not confirmed. Check beforehand.",
+     "de": "Der Freizeitpark Salvenaland hat einen Badesee; das Freibad selbst ist nicht bestätigt. Fragen Sie vorab nach."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s249",
+  "drop": false,
+  "drop_reason": "",
+  "place": "walchsee",
+  "slug_en": "water-skiing-walchsee",
+  "slug_de": "wasserski-walchsee",
+  "title": {
+   "nl": "Waterskiën en watersport op het Walchsee",
+   "en": "Water skiing and water sports on the Walchsee",
+   "de": "Wasserski und Wassersport am Walchsee"
+  },
+  "tagline": {
+   "nl": "Waterski, tubes en bootverhuur op een van de warmste meren van Tirol",
+   "en": "Water skiing, tubes and boat rental on one of Tyrol's warmest lakes",
+   "de": "Wasserski, Tubes und Bootsverleih an einem der wärmsten Seen Tirols"
+  },
+  "intro": {
+   "nl": "Het Walchsee in het Kaiserwinkl is het vierde meer van Tirol qua oppervlakte (ca. 95 hectare) en wordt in de zomer tot ongeveer 24 °C. Het is naar verluidt het enige meer in Tirol waar je achter een boot kunt waterskiën; die traditie gaat terug tot de jaren vijftig.\n\nHet watersportcentrum Karl²O biedt waterskiën, waterpret met tubes en wings, stand-uppaddleboarden, verhuur van elektrische boten en waterfietsen en vissen. Of wakeboarden mogelijk is, kun je het beste vooraf navragen. Voor kinderen en beginners is de minimumleeftijd per activiteit verschillend; vraag naar de voorwaarden en reserveer bij drukte vooraf.",
+   "en": "The Walchsee in the Kaiserwinkl is Tyrol's fourth-largest lake by area (about 95 hectares) and warms up to roughly 24 °C in summer. It is said to be the only lake in Tyrol where you can water ski behind a boat, a tradition dating back to the 1950s.\n\nThe Karl²O water sports centre offers water skiing, tube and wing rides, stand-up paddleboarding, rental of electric boats and pedal boats, and fishing. Ask beforehand whether wakeboarding is available. Minimum ages differ per activity, so ask about the conditions and book ahead when it is busy.",
+   "de": "Der Walchsee im Kaiserwinkl ist flächenmäßig der viertgrößte See Tirols (rund 95 Hektar) und erwärmt sich im Sommer auf etwa 24 °C. Er gilt als der einzige See Tirols, auf dem man hinter einem Boot Wasserski fahren kann; diese Tradition reicht bis in die 1950er-Jahre zurück.\n\nDas Wassersportzentrum Karl²O bietet Wasserski, Tubes und Wings, Stand-up-Paddling, Verleih von Elektro- und Tretbooten sowie Fischen an. Ob Wakeboarden möglich ist, erfragen Sie am besten vorab. Das Mindestalter unterscheidet sich je nach Aktivität; fragen Sie nach den Bedingungen und reservieren Sie bei Andrang im Voraus."
+  },
+  "tips": {
+   "nl": [
+    "Vraag vooraf naar leeftijdsgrenzen en beschikbaarheid per activiteit.",
+    "Gebruik zonnebrand: op open water is de zon sterk.",
+    "Het water is relatief warm, waardoor een val minder schrikt."
+   ],
+   "en": [
+    "Ask about age limits and availability per activity beforehand.",
+    "Use sunscreen: the sun is strong on open water.",
+    "The water is relatively warm, so a fall is less of a shock."
+   ],
+   "de": [
+    "Fragen Sie vorab nach Altersgrenzen und Verfügbarkeit je Aktivität.",
+    "Verwenden Sie Sonnencreme: Auf offenem Wasser ist die Sonne stark.",
+    "Das Wasser ist vergleichsweise warm, ein Sturz ist daher weniger unangenehm."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 45 minuten met de auto via Wörgl en Kufstein richting Walchsee. Prijzen en tijden wisselen per seizoen; informeer bij het watersportcentrum.",
+   "en": "From Niederau it is about 45 minutes by car via Wörgl and Kufstein towards Walchsee. Prices and times vary by season; ask the water sports centre.",
+   "de": "Von Niederau fahren Sie etwa 45 Minuten mit dem Auto über Wörgl und Kufstein Richtung Walchsee. Preise und Zeiten wechseln je nach Saison; fragen Sie beim Wassersportzentrum nach."
+  },
+  "facts": {
+   "age": {
+    "nl": "Afhankelijk van de activiteit; informeer vooraf",
+    "en": "Depends on the activity; check beforehand",
+    "de": "Je nach Aktivität; vorab erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "Approx. 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Walchsee, Kaiserwinkl",
+   "en": "Walchsee, Kaiserwinkl",
+   "de": "Walchsee, Kaiserwinkl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je op het Walchsee waterskiën?",
+     "en": "Can you water ski on the Walchsee?",
+     "de": "Kann man am Walchsee Wasserski fahren?"
+    },
+    "a": {
+     "nl": "Ja, het Walchsee staat bekend als het enige meer in Tirol waar je achter een boot kunt waterskiën; het watersportcentrum organiseert dat.",
+     "en": "Yes, the Walchsee is known as the only lake in Tyrol where you can water ski behind a boat; the water sports centre runs it.",
+     "de": "Ja, der Walchsee gilt als der einzige See Tirols, auf dem man hinter einem Boot Wasserski fahren kann; das Wassersportzentrum bietet es an."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s252",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "pillersee-lake-walk",
+  "slug_de": "pillersee-strandbad-rundweg",
+  "title": {
+   "nl": "Pillersee bij St. Ulrich",
+   "en": "Pillersee near St. Ulrich",
+   "de": "Pillersee bei St. Ulrich"
+  },
+  "tagline": {
+   "nl": "Zwemmen, bootje huren en wandelen langs een alpenmeer",
+   "en": "Swimming, boat hire and a stroll around an alpine lake",
+   "de": "Baden, Bootsverleih und Spaziergang an einem Bergsee"
+  },
+  "intro": {
+   "nl": "De Pillersee ligt in de Kitzbüheler Alpen bij St. Ulrich am Pillersee. Aan de noordoostzijde ligt een vrij toegankelijk strandbad; bij de oever kun je boten en SUP-boards huren.\n\nRond het meer loopt de Pillerseerunde, een eenvoudige wandeling van ongeveer 4,4 km die ruim een uur duurt en met een kinderwagen te doen is. Onderweg zijn veel rustbanken en bij het Seestüberl kun je onder meer suppen en waterfietsen. Verder is er bij het meer een 3D-boogschietparcours. Het is een rustig gezinsuitje waarbij zwemmen, wandelen en een terrasje samengaan.",
+   "en": "The Pillersee lies in the Kitzbühel Alps near St. Ulrich am Pillersee. On the north-east shore there is a freely accessible lido, and boats and SUP boards can be rented by the water.\n\nThe Pillerseerunde runs around the lake: an easy walk of about 4.4 km that takes a little over an hour and is pushchair-friendly. There are many benches along the way, and at the Seestüberl you can go stand-up paddling or pedalling. There is also a 3D archery course by the lake. It makes a relaxed family outing combining swimming, walking and a stop on a terrace.",
+   "de": "Der Pillersee liegt in den Kitzbüheler Alpen bei St. Ulrich am Pillersee. Am Nordostufer befindet sich ein frei zugängliches Strandbad; am Ufer können Boote und SUP-Boards gemietet werden.\n\nUm den See führt die Pillerseerunde, ein leichter Spaziergang von rund 4,4 km, der etwas mehr als eine Stunde dauert und kinderwagentauglich ist. Unterwegs gibt es viele Rastplätze, und beim Seestüberl kann man unter anderem Stand-up-Paddling oder Tretboot fahren. Am See gibt es außerdem einen 3D-Bogenparcours. Es ist ein entspannter Familienausflug mit Baden, Spazieren und Einkehr."
+  },
+  "tips": {
+   "nl": [
+    "De ronde is ongeveer 4,4 km; reken op ruim een uur lopen.",
+    "Het pad is geschikt voor kinderwagens.",
+    "Huur een SUP-board of waterfiets bij het Seestüberl."
+   ],
+   "en": [
+    "The loop is about 4.4 km; allow a little over an hour.",
+    "The path is suitable for pushchairs.",
+    "Rent an SUP board or pedal boat at the Seestüberl."
+   ],
+   "de": [
+    "Die Runde ist etwa 4,4 km lang; planen Sie gut eine Stunde ein.",
+    "Der Weg ist kinderwagentauglich.",
+    "Mieten Sie ein SUP-Board oder Tretboot beim Seestüberl."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 1 uur 15 min met de auto via Wörgl, Kitzbühel en St. Johann. Parkeerkosten en openingstijden van de voorzieningen kunnen wisselen.",
+   "en": "From Niederau it is about 1 hour 15 minutes by car via Wörgl, Kitzbühel and St. Johann. Parking costs and opening times of facilities can vary.",
+   "de": "Von Niederau fahren Sie etwa 1 Stunde 15 Minuten mit dem Auto über Wörgl, Kitzbühel und St. Johann. Parkgebühren und Öffnungszeiten der Einrichtungen können wechseln."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Strand vrij toegankelijk; verhuur tegen betaling",
+    "en": "Lido freely accessible; rentals are paid",
+    "de": "Strandbad frei zugänglich; Verleih kostenpflichtig"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 15 min rijden",
+    "en": "Approx. 1 hour 15 min by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "St. Ulrich am Pillersee, Kitzbüheler Alpen",
+   "en": "St. Ulrich am Pillersee, Kitzbühel Alps",
+   "de": "St. Ulrich am Pillersee, Kitzbüheler Alpen"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de wandeling rond de Pillersee geschikt voor kinderwagens?",
+     "en": "Is the walk around the Pillersee suitable for pushchairs?",
+     "de": "Ist der Spaziergang um den Pillersee kinderwagentauglich?"
+    },
+    "a": {
+     "nl": "Ja, de Pillerseerunde is een eenvoudige route van ca. 4,4 km (ruim een uur) en geschikt voor kinderwagens.",
+     "en": "Yes, the Pillerseerunde is an easy route of about 4.4 km (a little over an hour) and suitable for pushchairs.",
+     "de": "Ja, die Pillerseerunde ist eine leichte Route von ca. 4,4 km (gut eine Stunde) und kinderwagentauglich."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s256",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kirchberg-in-tirol",
+  "slug_en": "kaiserquell-pool-kirchdorf",
+  "slug_de": "freibad-kaiserquell-kirchdorf",
+  "title": {
+   "nl": "Freibad Kaiserquell Kirchdorf",
+   "en": "Kaiserquell outdoor pool, Kirchdorf",
+   "de": "Freibad Kaiserquell Kirchdorf"
+  },
+  "tagline": {
+   "nl": "Gezinsbad met glijbaan en ligweide bij St. Johann",
+   "en": "Family pool with a slide and lawns near St. Johann",
+   "de": "Familienbad mit Rutsche und Liegewiese bei St. Johann"
+  },
+  "intro": {
+   "nl": "Het Freibad Kaiserquell in Kirchdorf in Tirol ligt ongeveer 500 meter van het dorpscentrum, in het Kaiserquell sport- en recreatiegebied. Het gebied beslaat zo'n 15.000 m² met een glijbaan van 50 meter, een kinderbad met waterolifant en een speeltuin met onder meer een draaimolen, trampoline en nestschommel.\n\nOok zijn er een beachvolleybalveld, tafeltennis en een zwembadbuffet voor een hapje en drankje. Het is daarmee een bad waar kinderen zich uren kunnen vermaken en ouders rustig kunnen liggen. Het ligt bij St. Johann in Tirol; als het weer omslaat, is er in St. Johann een overdekt bad in de buurt. Controleer vooraf de openingstijden en tarieven.",
+   "en": "The Kaiserquell outdoor pool in Kirchdorf in Tirol lies about 500 metres from the village centre, in the Kaiserquell sports and leisure area. The grounds cover about 15,000 m² with a 50-metre slide, a children's splash pool with a water elephant and a playground with a carousel, trampoline and nest swing.\n\nThere are also a beach volleyball court, table tennis and a pool buffet for food and drinks. Children can have fun for hours while parents relax on the lawn. It lies near St. Johann in Tirol; if the weather turns, there is an indoor pool in St. Johann close by. Check opening times and prices beforehand.",
+   "de": "Das Freibad Kaiserquell in Kirchdorf in Tirol liegt rund 500 Meter vom Ortszentrum entfernt in der Sport- und Freizeitanlage Kaiserquell. Das Gelände umfasst etwa 15.000 m² mit einer 50-Meter-Rutsche, einem Kinderplanschbecken mit Wasserelefant und einem Spielplatz mit Karussell, Trampolin und Nestschaukel.\n\nAußerdem gibt es einen Beachvolleyballplatz, Tischtennis und ein Schwimmbadbuffet für Speisen und Getränke. Kinder können sich hier stundenlang vergnügen, während Eltern auf der Wiese entspannen. Es liegt bei St. Johann in Tirol; bei Wetterumschwung ist in St. Johann ein Hallenbad in der Nähe. Prüfen Sie vorab Öffnungszeiten und Preise."
+  },
+  "tips": {
+   "nl": [
+    "Het bad ligt ca. 500 meter van het centrum; te voet bereikbaar vanuit het dorp.",
+    "Controleer vooraf de actuele openingstijden en tarieven.",
+    "Bij slecht weer is er in St. Johann in Tirol een overdekt bad."
+   ],
+   "en": [
+    "The pool is about 500 metres from the centre and walkable from the village.",
+    "Check current opening times and prices beforehand.",
+    "In bad weather there is an indoor pool in St. Johann in Tirol."
+   ],
+   "de": [
+    "Das Bad liegt rund 500 Meter vom Zentrum und ist vom Ort aus zu Fuß erreichbar.",
+    "Prüfen Sie vorab aktuelle Öffnungszeiten und Preise.",
+    "Bei schlechtem Wetter gibt es in St. Johann in Tirol ein Hallenbad."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 1 uur 10 min met de auto via Wörgl, Kitzbühel en St. Johann. Het is daarmee een uitstapje voor een halve of hele dag.",
+   "en": "From Niederau it is about 1 hour 10 minutes by car via Wörgl, Kitzbühel and St. Johann. It suits a half- or full-day outing.",
+   "de": "Von Niederau fahren Sie etwa 1 Stunde 10 Minuten mit dem Auto über Wörgl, Kitzbühel und St. Johann. Es eignet sich als Halb- oder Ganztagesausflug."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 10 min rijden",
+    "en": "Approx. 1 hour 10 min by car",
+    "de": "Ca. 1 Std. 10 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kirchdorf in Tirol, nabij St. Johann",
+   "en": "Kirchdorf in Tirol, near St. Johann",
+   "de": "Kirchdorf in Tirol, bei St. Johann"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Heeft het bad in Kirchdorf een glijbaan?",
+     "en": "Does the Kirchdorf pool have a slide?",
+     "de": "Hat das Bad in Kirchdorf eine Rutsche?"
+    },
+    "a": {
+     "nl": "Ja, er is een waterglijbaan van ca. 50 meter, plus een kinderbad met waterolifant en een speeltuin.",
+     "en": "Yes, there is a water slide of about 50 metres, plus a children's pool with a water elephant and a playground.",
+     "de": "Ja, es gibt eine Wasserrutsche von ca. 50 Metern sowie ein Kinderbecken mit Wasserelefant und einen Spielplatz."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s267",
+  "drop": true,
+  "drop_reason": "Freibad in Hopfgarten niet te bevestigen; dubbel van s246.",
+  "verified": false
+ },
+ {
+  "id": "s270",
+  "drop": true,
+  "drop_reason": "Geen officieel 'Innstrand' in Innsbruck bevestigd; baden in de Inn wordt afgeraden.",
+  "verified": false
+ },
+ {
+  "id": "s279",
+  "drop": true,
+  "drop_reason": "Dubbel van s213 (Strandbad Thiersee).",
+  "verified": false
+ },
+ {
+  "id": "s283",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kirchberg-in-tirol",
+  "slug_en": "kirchbichl-lido",
+  "slug_de": "strandbad-kirchbichl",
+  "title": {
+   "nl": "Strandbad Kirchbichl",
+   "en": "Kirchbichl lido",
+   "de": "Strandbad Kirchbichl"
+  },
+  "tagline": {
+   "nl": "Rustig strandbad bij Wörgl in de Ferienregion Hohe Salve",
+   "en": "Quiet lido near Wörgl in the Hohe Salve region",
+   "de": "Ruhiges Strandbad bei Wörgl in der Ferienregion Hohe Salve"
+  },
+  "intro": {
+   "nl": "Kirchbichl ligt in het Inntal, vlak bij Wörgl, en maakt deel uit van de Ferienregion Hohe Salve in de Kitzbüheler Alpen. Het dorp heeft een strandbad dat de toeristische organisatie onder de zwemmogelijkheden in de regio noemt.\n\nHet is een eenvoudige, lokale badplek en dus geen groot recreatiebad. De precieze voorzieningen (zoals glijbaan, speeltuin of kiosk), de tarieven en de openingstijden hebben we niet kunnen bevestigen. Informeer daarom vooraf bij de gemeente of de toeristische organisatie voordat je erheen rijdt. Doordat het zo dichtbij Niederau ligt, is het een handige optie voor een korte zwemuitstap.",
+   "en": "Kirchbichl lies in the Inn valley, close to Wörgl, and is part of the Hohe Salve holiday region in the Kitzbühel Alps. The village has a lido that the tourist board lists among the swimming options in the region.\n\nIt is a simple, local bathing spot rather than a large leisure pool. We could not confirm the exact facilities (such as a slide, playground or kiosk), the prices or the opening times. Please check with the municipality or the tourist office before you go. Because it is so close to Niederau, it is a handy option for a short swimming outing.",
+   "de": "Kirchbichl liegt im Inntal, nahe Wörgl, und gehört zur Ferienregion Hohe Salve in den Kitzbüheler Alpen. Der Ort hat ein Strandbad, das der Tourismusverband unter den Bademöglichkeiten der Region aufführt.\n\nEs ist ein einfacher, lokaler Badeplatz und kein großes Freizeitbad. Die genaue Ausstattung (etwa Rutsche, Spielplatz oder Kiosk), die Preise und die Öffnungszeiten konnten wir nicht bestätigen. Bitte erkundigen Sie sich vor der Fahrt bei der Gemeinde oder beim Tourismusverband. Da es nahe bei Niederau liegt, ist es eine praktische Option für einen kurzen Badeausflug."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf naar openingstijden en tarieven.",
+    "Het water in bergrivieren en -meren is vaak fris; neem een handdoek en droge kleding mee.",
+    "Het ligt dicht bij Wörgl en laat zich goed combineren met een boodschap of een ander uitje."
+   ],
+   "en": [
+    "Ask about opening times and prices in advance.",
+    "Water in mountain rivers and lakes is often cool; bring a towel and dry clothes.",
+    "It is close to Wörgl and combines well with shopping or another outing."
+   ],
+   "de": [
+    "Erkundigen Sie sich vorab nach Öffnungszeiten und Preisen.",
+    "Das Wasser in Bergflüssen und -seen ist oft frisch; Handtuch und trockene Kleidung mitnehmen.",
+    "Es liegt nahe Wörgl und lässt sich gut mit Einkäufen oder einem anderen Ausflug verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 20 tot 25 minuten met de auto via Oberau en Wörgl richting Kirchbichl.",
+   "en": "From Niederau it is about 20 to 25 minutes by car via Oberau and Wörgl towards Kirchbichl.",
+   "de": "Von Niederau fahren Sie etwa 20 bis 25 Minuten mit dem Auto über Oberau und Wörgl Richtung Kirchbichl."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 20 tot 25 min rijden",
+    "en": "Approx. 20 to 25 min by car",
+    "de": "Ca. 20 bis 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kirchbichl, nabij Wörgl",
+   "en": "Kirchbichl, near Wörgl",
+   "de": "Kirchbichl, nahe Wörgl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt Kirchbichl ten opzichte van Niederau?",
+     "en": "Where is Kirchbichl in relation to Niederau?",
+     "de": "Wo liegt Kirchbichl im Verhältnis zu Niederau?"
+    },
+    "a": {
+     "nl": "Kirchbichl ligt bij Wörgl in het Inntal, ongeveer 20 tot 25 minuten rijden vanaf Niederau.",
+     "en": "Kirchbichl is near Wörgl in the Inn valley, about 20 to 25 minutes' drive from Niederau.",
+     "de": "Kirchbichl liegt bei Wörgl im Inntal, etwa 20 bis 25 Autominuten von Niederau entfernt."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s285",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ebbs",
+  "slug_en": "ebbs-natural-pool",
+  "slug_de": "naturbad-ebbs",
+  "title": {
+   "nl": "Naturbad Ebbs",
+   "en": "Ebbs natural pool",
+   "de": "Naturbad Ebbs"
+  },
+  "tagline": {
+   "nl": "Rustige badplek met uitzicht op de Wilder Kaiser",
+   "en": "A quiet bathing spot with views of the Wilder Kaiser",
+   "de": "Ruhiger Badeplatz mit Blick auf den Wilden Kaiser"
+  },
+  "intro": {
+   "nl": "Ebbs ligt in het Kufsteinerland, onder de rotswanden van de Wilder Kaiser. Volgens de bronnen is er een natuurlijke badplek met een klein strand, gras en picknickplekken, waar kinderen aan de waterkant spelen en ouders van het uitzicht genieten.\n\nWe konden de badplek niet onafhankelijk bevestigen. Informeer daarom vooraf bij de gemeente of het Kufsteinerland of en waar je in Ebbs kunt zwemmen, wat de voorzieningen zijn en of er toegang wordt gevraagd. Een bevestigd alternatief in de buurt is het Thiersee.",
+   "en": "Ebbs lies in the Kufsteinerland, beneath the rock faces of the Wilder Kaiser. According to the source material there is a natural bathing spot with a small beach, grass and picnic areas, where children play at the water's edge and parents enjoy the view.\n\nWe could not confirm the spot independently. Ask the municipality or the Kufsteinerland tourist office beforehand whether and where you can swim in Ebbs, what facilities there are and whether an entry fee applies. A confirmed alternative nearby is the Thiersee.",
+   "de": "Ebbs liegt im Kufsteinerland, unter den Felswänden des Wilden Kaisers. Laut Quellenmaterial gibt es einen natürlichen Badeplatz mit kleinem Strand, Wiese und Picknickplätzen, an dem Kinder am Wasser spielen und Eltern die Aussicht genießen.\n\nDen Badeplatz konnten wir nicht unabhängig bestätigen. Fragen Sie vorab bei der Gemeinde oder dem Kufsteinerland nach, ob und wo man in Ebbs baden kann, welche Ausstattung es gibt und ob Eintritt verlangt wird. Eine bestätigte Alternative in der Nähe ist der Thiersee."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf naar openingstijden en tarieven.",
+    "Neem een picknick en een handdoek mee.",
+    "Het Thiersee is een bevestigd alternatief."
+   ],
+   "en": [
+    "Ask about opening times and prices in advance.",
+    "Bring a picnic and a towel.",
+    "The Thiersee is a confirmed alternative."
+   ],
+   "de": [
+    "Erkundigen Sie sich vorab nach Öffnungszeiten und Preisen.",
+    "Nehmen Sie Picknick und Handtuch mit.",
+    "Der Thiersee ist eine bestätigte Alternative."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 30 tot 35 minuten met de auto via Wörgl en de A12 richting Kufstein.",
+   "en": "From Niederau it is about 30 to 35 minutes by car via Wörgl and the A12 towards Kufstein.",
+   "de": "Von Niederau fahren Sie etwa 30 bis 35 Minuten mit dem Auto über Wörgl und die A12 Richtung Kufstein."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 30 tot 35 min rijden",
+    "en": "Approx. 30 to 35 min by car",
+    "de": "Ca. 30 bis 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Ebbs, Kufsteinerland",
+   "en": "Ebbs, Kufsteinerland",
+   "de": "Ebbs, Kufsteinerland"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij Ebbs zwemmen?",
+     "en": "Can you swim near Ebbs?",
+     "de": "Kann man bei Ebbs baden?"
+    },
+    "a": {
+     "nl": "Volgens de bronnen is er een badplek, maar dat is niet bevestigd. Informeer vooraf.",
+     "en": "According to the sources there is a bathing spot, but this is not confirmed. Check beforehand.",
+     "de": "Laut Quellen gibt es einen Badeplatz, das ist aber nicht bestätigt. Fragen Sie vorab nach."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s290",
+  "drop": false,
+  "drop_reason": "",
+  "place": "westendorf",
+  "slug_en": "westendorf-outdoor-pool",
+  "slug_de": "freischwimmbad-westendorf",
+  "title": {
+   "nl": "Freischwimmbad Westendorf",
+   "en": "Westendorf open-air pool",
+   "de": "Freischwimmbad Westendorf"
+  },
+  "tagline": {
+   "nl": "Verwarmd openluchtbad met 42 meter glijbaan in het Brixental",
+   "en": "Heated open-air pool with a 42-metre slide in the Brixental",
+   "de": "Beheiztes Freibad mit 42-Meter-Rutsche im Brixental"
+  },
+  "intro": {
+   "nl": "Westendorf staat vooral bekend om het skiseizoen, maar het dorp heeft ook een uitgebreid openluchtbad voor de zomer. Het Freischwimmbad beschikt over vijf bassins: een zwembad, een apart bassin voor niet-zwemmers, een duikbassin, een kinderbad en een glijbaanbassin. De baden worden steeds verwarmd.\n\nDe 42 meter lange waterglijbaan en de duiktoren zijn favoriet bij oudere kinderen. Daarnaast is er een ligweide van ongeveer 17.000 m², een speeltuin, tafeltennis en een kiosk. Het bad is van mei tot en met september open. Het dorp zelf heeft ook goede eetgelegenheden, wat het bad geschikt maakt voor een zwemmiddag gevolgd door een diner.",
+   "en": "Westendorf is best known for the ski season, but the village also has a large open-air pool for summer. The Freischwimmbad has five pools: a swimming pool, a separate pool for non-swimmers, a diving pool, a children's pool and a slide pool. The water is always heated.\n\nThe 42-metre water slide and the diving tower are favourites with older children. There is also a lawn of about 17,000 m², a playground, table tennis and a kiosk. The pool is open from May to September. The village itself has good places to eat, so a swimming afternoon can be followed by dinner.",
+   "de": "Westendorf ist vor allem für die Skisaison bekannt, hat aber auch ein großes Freibad für den Sommer. Das Freischwimmbad verfügt über fünf Becken: ein Schwimmerbecken, ein separates Nichtschwimmerbecken, ein Sprungbecken, ein Kinderbecken und ein Rutschenbecken. Die Becken sind stets beheizt.\n\nDie 42 Meter lange Wasserrutsche und der Sprungturm sind bei größeren Kindern beliebt. Dazu kommen eine Liegewiese von rund 17.000 m², ein Spielplatz, Tischtennis und ein Kiosk. Das Bad ist von Mai bis September geöffnet. Im Ort selbst gibt es gute Einkehrmöglichkeiten, sodass auf den Badenachmittag ein Abendessen folgen kann."
+  },
+  "tips": {
+   "nl": [
+    "Het water is altijd verwarmd, dus ook geschikt bij minder warm weer.",
+    "Met een gastenkaart is er vaak korting; vraag het na bij uw accommodatie.",
+    "De glijbaan en duiktoren zijn vooral voor oudere kinderen."
+   ],
+   "en": [
+    "The water is always heated, so it also works on cooler days.",
+    "A guest card often gives a discount; ask your accommodation.",
+    "The slide and diving tower are mainly for older children."
+   ],
+   "de": [
+    "Das Wasser ist stets beheizt, daher auch an kühleren Tagen geeignet.",
+    "Mit einer Gästekarte gibt es oft Ermäßigung; fragen Sie bei Ihrer Unterkunft nach.",
+    "Rutsche und Sprungturm sind vor allem für größere Kinder."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 35 minuten met de auto via Wörgl en Hopfgarten (B170) naar Westendorf. Het bad is open van mei tot en met september; dagelijks ca. 9.00 tot 19.30 uur, controleer actuele tijden.",
+   "en": "From Niederau it is about 35 minutes by car via Wörgl and Hopfgarten (B170) to Westendorf. The pool is open May to September, usually about 9 am to 7.30 pm; check current hours.",
+   "de": "Von Niederau fahren Sie etwa 35 Minuten mit dem Auto über Wörgl und Hopfgarten (B170) nach Westendorf. Das Bad ist von Mai bis September geöffnet, in der Regel ca. 9 bis 19.30 Uhr; aktuelle Zeiten prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Ca. € 8 volwassenen, ca. € 6 kinderen (indicatie; informeer vooraf)",
+    "en": "About € 8 adults, about € 6 children (indicative; check beforehand)",
+    "de": "Ca. 8 € Erwachsene, ca. 6 € Kinder (Richtwert; vorab erfragen)"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "Approx. 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (mei tot en met september)",
+    "en": "Summer (May to September)",
+    "de": "Sommer (Mai bis September)"
+   }
+  },
+  "location": {
+   "nl": "Westendorf, Brixental",
+   "en": "Westendorf, Brixental",
+   "de": "Westendorf, Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel bassins heeft het bad in Westendorf?",
+     "en": "How many pools does the Westendorf pool have?",
+     "de": "Wie viele Becken hat das Bad in Westendorf?"
+    },
+    "a": {
+     "nl": "Vijf: een zwembad, een niet-zwemmersbad, een duikbassin, een kinderbad en een glijbaanbassin.",
+     "en": "Five: a swimming pool, a non-swimmer pool, a diving pool, a children's pool and a slide pool.",
+     "de": "Fünf: ein Schwimmerbecken, ein Nichtschwimmerbecken, ein Sprungbecken, ein Kinderbecken und ein Rutschenbecken."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "s296",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ellmau",
+  "slug_en": "kaiserbad-ellmau",
+  "slug_de": "kaiserbad-ellmau",
+  "title": {
+   "nl": "Kaiserbad Ellmau",
+   "en": "Kaiserbad Ellmau",
+   "de": "Kaiserbad Ellmau"
+  },
+  "tagline": {
+   "nl": "Wellness- en familiebad aan de voet van de Wilder Kaiser",
+   "en": "Wellness and family pool at the foot of the Wilder Kaiser",
+   "de": "Wellness- und Familienbad am Fuß des Wilden Kaisers"
+  },
+  "intro": {
+   "nl": "Ellmau ligt aan de voet van de Wilder Kaiser. Volgens de bronnen is er een modern bad met een buitenbad, een binnenbad, een sauna en glijbanen, met uitzicht op de rotswanden. Het zou ook bij minder mooi weer of als rustdag na een wandeling een goede keus zijn.\n\nWe konden het bad niet onafhankelijk bevestigen. Controleer vooraf of het bad bestaat en open is, welke onderdelen er zijn (de sauna is waarschijnlijk alleen voor volwassenen) en wat de toegang kost. Informeer bij de toeristische organisatie Wilder Kaiser.",
+   "en": "Ellmau lies at the foot of the Wilder Kaiser. According to the source material there is a modern pool with an outdoor pool, an indoor pool, a sauna and slides, with views of the rock faces. It would also be a good choice in less pleasant weather or as a rest day after a hike.\n\nWe could not confirm the facility independently. Check beforehand that it exists and is open, which parts it offers (the sauna is probably adults only) and what entry costs. Ask the Wilder Kaiser tourist office.",
+   "de": "Ellmau liegt am Fuß des Wilden Kaisers. Laut Quellenmaterial gibt es ein modernes Bad mit Freibad, Hallenbad, Sauna und Rutschen, mit Blick auf die Felswände. Es wäre auch bei schlechterem Wetter oder als Ruhetag nach einer Wanderung eine gute Wahl.\n\nDie Einrichtung konnten wir nicht unabhängig bestätigen. Prüfen Sie vorab, ob das Bad existiert und geöffnet ist, welche Bereiche es bietet (die Sauna ist vermutlich nur für Erwachsene) und was der Eintritt kostet. Fragen Sie beim Tourismusverband Wilder Kaiser nach."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf naar openingstijden en tarieven.",
+    "Handig bij slecht weer als er een binnenbad is.",
+    "Vraag naar de leeftijdsregels voor de sauna."
+   ],
+   "en": [
+    "Ask about opening times and prices in advance.",
+    "Handy in bad weather if there is an indoor pool.",
+    "Ask about the age rules for the sauna."
+   ],
+   "de": [
+    "Erkundigen Sie sich vorab nach Öffnungszeiten und Preisen.",
+    "Praktisch bei schlechtem Wetter, wenn es ein Hallenbad gibt.",
+    "Fragen Sie nach den Altersregeln für die Sauna."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau ca. 35 tot 40 minuten met de auto via Wörgl en Söll naar Ellmau.",
+   "en": "From Niederau it is about 35 to 40 minutes by car via Wörgl and Söll to Ellmau.",
+   "de": "Von Niederau fahren Sie etwa 35 bis 40 Minuten mit dem Auto über Wörgl und Söll nach Ellmau."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half a day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis wechselt; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 35 tot 40 min rijden",
+    "en": "Approx. 35 to 40 min by car",
+    "de": "Ca. 35 bis 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Hele jaar (niet bevestigd)",
+    "en": "Year-round (not confirmed)",
+    "de": "Ganzjährig (nicht bestätigt)"
+   }
+  },
+  "location": {
+   "nl": "Ellmau, Wilder Kaiser",
+   "en": "Ellmau, Wilder Kaiser",
+   "de": "Ellmau, Wilder Kaiser"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er in Ellmau een binnenbad?",
+     "en": "Is there an indoor pool in Ellmau?",
+     "de": "Gibt es in Ellmau ein Hallenbad?"
+    },
+    "a": {
+     "nl": "Volgens de bronnen wel, maar dat is niet bevestigd. Informeer vooraf.",
+     "en": "According to the sources yes, but this is not confirmed. Check beforehand.",
+     "de": "Laut Quellen ja, das ist aber nicht bestätigt. Fragen Sie vorab nach."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s3",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "niederau-mountain-lake",
+  "slug_de": "bergsee-niederau",
+  "title": {
+   "nl": "Bergmeertje bij Niederau",
+   "en": "Mountain lake near Niederau",
+   "de": "Bergsee bei Niederau"
+  },
+  "tagline": {
+   "nl": "Een frisse duik in bergwater, boven het dorp",
+   "en": "A fresh dip in mountain water above the village",
+   "de": "Ein frischer Sprung ins Bergwasser oberhalb des Dorfes"
+  },
+  "intro": {
+   "nl": "Volgens de bronnen ligt boven Niederau, ongeveer 15 minuten lopen van het centrum, een klein stuwmeertje omgeven door bergweiden en sparrenbossen. Er zou een klein strandje zijn en het is bedoeld voor een picknick en een frisse duik, zonder commerciële voorzieningen.\n\nWe konden dit meertje niet bevestigen en het water is uiteraard fris. Het erkende zwemwater in het dal is het verwarmde openluchtbad tussen Niederau en Oberau. Vraag bij de toeristische dienst Wildschönau of dit meertje toegankelijk is om in te zwemmen, en hoe je er komt, voordat je erheen loopt.",
+   "en": "According to the source material there is a small reservoir lake above Niederau, about a 15-minute walk from the centre, surrounded by mountain meadows and spruce forest. It is said to have a small beach and is meant for a picnic and a fresh dip, with no commercial facilities.\n\nWe could not confirm this lake, and the water is naturally cool. The established swimming option in the valley is the heated open-air pool between Niederau and Oberau. Ask the Wildschönau tourist office whether this lake is open for swimming, and how to get there, before you walk up.",
+   "de": "Laut Quellenmaterial liegt oberhalb von Niederau, etwa 15 Gehminuten vom Zentrum entfernt, ein kleiner Stausee, umgeben von Bergwiesen und Fichtenwäldern. Es soll einen kleinen Strand geben; er eignet sich für ein Picknick und einen erfrischenden Sprung ins Wasser, ohne kommerzielle Einrichtungen.\n\nDiesen See konnten wir nicht bestätigen, und das Wasser ist naturgemäß frisch. Die etablierte Bademöglichkeit im Tal ist das beheizte Freibad zwischen Niederau und Oberau. Fragen Sie beim Tourismusverband Wildschönau nach, ob der See zum Baden freigegeben ist und wie man hinkommt, bevor Sie hinaufgehen."
+  },
+  "tips": {
+   "nl": [
+    "Het water is fris; wen er geleidelijk aan.",
+    "Neem zelf een picknick mee: er zijn geen voorzieningen.",
+    "Gebruik sterke zonnebrand; de zon is op hoogte krachtig."
+   ],
+   "en": [
+    "The water is cool; get used to it gradually.",
+    "Bring your own picnic: there are no facilities.",
+    "Use strong sunscreen; the sun is strong at altitude."
+   ],
+   "de": [
+    "Das Wasser ist frisch; gewöhnen Sie sich allmählich daran.",
+    "Nehmen Sie ein eigenes Picknick mit: Es gibt keine Einrichtungen.",
+    "Verwenden Sie starke Sonnencreme; die Sonne ist in der Höhe kräftig."
+   ]
+  },
+  "practical": {
+   "nl": "Te voet vanuit Niederau ca. 15 minuten (volgens de bronnen), richting het zuiden. Informeer bij de toeristische dienst naar de precieze route.",
+   "en": "On foot from Niederau about 15 minutes (according to the sources), heading south. Ask the tourist office for the exact route.",
+   "de": "Zu Fuß von Niederau ca. 15 Minuten (laut Quellen) Richtung Süden. Fragen Sie beim Tourismusverband nach der genauen Route."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Naar verluidt gratis; niet bevestigd",
+    "en": "Reportedly free; not confirmed",
+    "de": "Angeblich kostenlos; nicht bestätigt"
+   },
+   "distance": {
+    "nl": "Ca. 15 min lopen vanaf het centrum",
+    "en": "Approx. 15 min walk from the centre",
+    "de": "Ca. 15 Min. zu Fuß vom Zentrum"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is zwemmen in het meertje boven Niederau toegestaan?",
+     "en": "Is swimming allowed in the lake above Niederau?",
+     "de": "Ist Baden im See oberhalb von Niederau erlaubt?"
+    },
+    "a": {
+     "nl": "Dat is niet bevestigd. Vraag het bij de toeristische dienst Wildschönau; het verwarmde openluchtbad is een zeker alternatief.",
+     "en": "This is not confirmed. Ask the Wildschönau tourist office; the heated open-air pool is a sure alternative.",
+     "de": "Das ist nicht bestätigt. Fragen Sie beim Tourismusverband Wildschönau nach; das beheizte Freibad ist eine sichere Alternative."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s37",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "wastlhof-pool",
+  "slug_de": "schwimmbad-hotel-wastlhof",
+  "title": {
+   "nl": "Zwembad Hotel Wastlhof",
+   "en": "Hotel Wastlhof swimming pool",
+   "de": "Schwimmbad Hotel Wastlhof"
+  },
+  "tagline": {
+   "nl": "Binnen- en buitenzwembad bij partnerhotel Wastlhof in Niederau",
+   "en": "Indoor and outdoor pool at partner hotel Wastlhof in Niederau",
+   "de": "Hallen- und Freibad im Partnerhotel Wastlhof in Niederau"
+  },
+  "intro": {
+   "nl": "Hotel Wastlhof, partner van Niederau.nl, is een viersterren-wellnesshotel in Niederau dat al drie generaties door de familie Brunner wordt gerund. Het hotel beschikt over een binnenbad en een buitenbad dat het hele jaar verwarmd is, met uitzicht op de bergen rondom Niederau.\n\nIn de zomer is het buitenbad een prettige plek om na een wandeling of fietstocht af te koelen; in de winter kun je er vanuit het warme water naar de besneeuwde bergen kijken. Het zwembad is bedoeld voor gasten van het hotel. Wil je als niet-gast zwemmen, dan is er in het dal ook een verwarmd openluchtbad tussen Niederau en Oberau. Neem voor actuele informatie contact op met het hotel.",
+   "en": "Hotel Wastlhof, a partner of Niederau.nl, is a four-star wellness hotel in Niederau that has been run by the Brunner family for three generations. It has an indoor pool and an outdoor pool that is heated all year round, with views of the mountains around Niederau.\n\nIn summer the outdoor pool is a pleasant place to cool off after a walk or bike ride; in winter you can look out at the snowy mountains from the warm water. The pool is meant for hotel guests. If you are not staying there and want to swim, there is also a heated open-air pool in the valley between Niederau and Oberau. For current information, contact the hotel.",
+   "de": "Das Hotel Wastlhof, Partner von Niederau.nl, ist ein Vier-Sterne-Wellnesshotel in Niederau, das seit drei Generationen von der Familie Brunner geführt wird. Es verfügt über ein Hallenbad und ein ganzjährig beheiztes Freibad mit Blick auf die Berge rund um Niederau.\n\nIm Sommer ist das Freibad ein angenehmer Ort zur Abkühlung nach einer Wanderung oder Radtour; im Winter schaut man aus dem warmen Wasser auf die verschneiten Berge. Das Schwimmbad ist für Hotelgäste gedacht. Wer nicht im Hotel wohnt und schwimmen möchte, findet im Tal außerdem ein beheiztes Freibad zwischen Niederau und Oberau. Aktuelle Informationen erhalten Sie direkt beim Hotel."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij het hotel naar de tijden voor het bad.",
+    "Het buitenbad is het hele jaar verwarmd, dus ook in de winter te gebruiken.",
+    "Als niet-gast kun je terecht bij het openluchtbad tussen Niederau en Oberau."
+   ],
+   "en": [
+    "Ask the hotel about the pool times.",
+    "The outdoor pool is heated all year, so it can be used in winter too.",
+    "If you are not a guest, try the open-air pool between Niederau and Oberau."
+   ],
+   "de": [
+    "Fragen Sie im Hotel nach den Zeiten für das Bad.",
+    "Das Freibad ist ganzjährig beheizt und kann daher auch im Winter genutzt werden.",
+    "Als Nicht-Gast können Sie das Freibad zwischen Niederau und Oberau besuchen."
+   ]
+  },
+  "practical": {
+   "nl": "Het zwembad ligt op het terrein van Hotel Wastlhof in Niederau. Gebruik is bedoeld voor hotelgasten; neem voor andere mogelijkheden contact op met het hotel.",
+   "en": "The pool is on the grounds of Hotel Wastlhof in Niederau. Use is intended for hotel guests; contact the hotel for other options.",
+   "de": "Das Schwimmbad befindet sich auf dem Gelände des Hotels Wastlhof in Niederau. Die Nutzung ist für Hotelgäste gedacht; für andere Möglichkeiten wenden Sie sich an das Hotel."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Naar wens",
+    "en": "As you like",
+    "de": "Nach Belieben"
+   },
+   "price": {
+    "nl": "Voor hotelgasten; informeer bij het hotel",
+    "en": "For hotel guests; ask the hotel",
+    "de": "Für Hotelgäste; beim Hotel erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau, bij het hotel",
+    "en": "In Niederau, at the hotel",
+    "de": "In Niederau, beim Hotel"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "Year-round",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
+  "url": "https://www.hotelwastlhof.at/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het buitenbad van Hotel Wastlhof het hele jaar open?",
+     "en": "Is the outdoor pool at Hotel Wastlhof open all year?",
+     "de": "Ist das Freibad des Hotels Wastlhof ganzjährig geöffnet?"
+    },
+    "a": {
+     "nl": "Het buitenbad wordt het hele jaar verwarmd; het is bedoeld voor hotelgasten. Vraag het hotel naar actuele tijden.",
+     "en": "The outdoor pool is heated all year; it is intended for hotel guests. Ask the hotel for current times.",
+     "de": "Das Freibad wird ganzjährig beheizt; es ist für Hotelgäste gedacht. Fragen Sie das Hotel nach aktuellen Zeiten."
+    }
+   }
+  ],
+  "verified": true
+ }
+]

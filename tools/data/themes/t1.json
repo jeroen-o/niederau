@@ -1,0 +1,787 @@
+[
+ {
+  "kind": "theme",
+  "theme": "wandelen",
+  "slug_en": "hiking",
+  "slug_de": "wandern",
+  "slug_nl": "wandelen",
+  "title": {
+   "nl": "Wandelen in de Wildschönau en omgeving",
+   "en": "Hiking in the Wildschönau and around",
+   "de": "Wandern in der Wildschönau und Umgebung"
+  },
+  "tagline": {
+   "nl": "Van rustige dalwandelingen tot bergtochten, met uitzicht op de Tiroolse Alpen.",
+   "en": "From gentle valley strolls to mountain tours, with views across the Tyrolean Alps.",
+   "de": "Von ruhigen Talwegen bis zu Bergtouren, mit Blick auf die Tiroler Alpen."
+  },
+  "intro": {
+   "nl": "Niederau ligt op ongeveer 828 meter in de Wildschönau, een zijdal van het Inntal dat bekendstaat om zijn groene hellingen en bergweiden. Daardoor is het een prettige uitvalsbasis voor wandelaars van elk niveau: er zijn korte, vlakke paden langs beekjes en boerderijen, maar ook langere routes die omhoog leiden naar alpenweiden en bergtoppen.\n\nVoor gezinnen met kinderen is de ligging handig. Met de bergbaan bij Niederau kom je zonder zware klim op hoogte, waarna de wandelingen vaak ruim en overzichtelijk zijn. Onderweg kom je regelmatig een berghut tegen waar je iets kunt eten en drinken, en op sommige routes vind je speelplekken of thematische paden die de tocht voor kinderen leuker maken.\n\nWie verder wil kijken, vindt in de buurt meer mogelijkheden. De Wildschönau grenst aan het Alpbachtal en ligt op redelijke afstand van het Brixental en Kitzbühel, die elk hun eigen routes en uitzichtpunten hebben. Veel bergbanen in de regio zijn in de zomer open en maken enkele dagtochten eenvoudig. Op deze pagina vind je een algemene gids; de afzonderlijke wandelingen en uitstapjes zijn hieronder uitgewerkt.",
+   "en": "Niederau lies at roughly 828 metres in the Wildschönau, a side valley of the Inn valley known for its green slopes and mountain pastures. That makes it a pleasant base for walkers of every level: there are short, flat paths along streams and farms, as well as longer routes climbing to alpine meadows and summits.\n\nFor families with children the setting is practical. The mountain lift near Niederau lifts you to altitude without a hard climb, after which the walks are often wide and easy to follow. Along the way you regularly pass a mountain hut where you can eat and drink, and some routes have play areas or themed trails that make the walk more fun for children.\n\nIf you want to look further afield, there is plenty nearby. The Wildschönau borders the Alpbachtal and lies within reasonable distance of the Brixental and Kitzbühel, each with its own routes and viewpoints. Many lifts in the region run in summer, which makes a few day trips easy. This page offers a general guide; the individual walks and outings are described below.",
+   "de": "Niederau liegt auf rund 828 Metern in der Wildschönau, einem Seitental des Inntals, das für seine grünen Hänge und Almwiesen bekannt ist. Das macht den Ort zu einem angenehmen Ausgangspunkt für Wanderer jedes Niveaus: Es gibt kurze, flache Wege entlang von Bächen und Höfen, aber auch längere Routen hinauf zu Almen und Gipfeln.\n\nFür Familien mit Kindern ist die Lage praktisch. Mit der Bergbahn bei Niederau gelangt man ohne anstrengenden Aufstieg in die Höhe, danach sind die Wege oft breit und übersichtlich. Unterwegs trifft man regelmäßig auf eine Hütte zum Einkehren, und auf manchen Routen gibt es Spielplätze oder Themenwege, die die Tour für Kinder abwechslungsreicher machen.\n\nWer weiter schauen möchte, findet in der Nähe viele Möglichkeiten. Die Wildschönau grenzt an das Alpbachtal und liegt in angemessener Entfernung zum Brixental und zu Kitzbühel, die jeweils eigene Routen und Aussichtspunkte bieten. Viele Bergbahnen der Region sind im Sommer in Betrieb, wodurch sich einige Tagesausflüge leicht planen lassen. Diese Seite bietet einen allgemeinen Leitfaden; die einzelnen Wanderungen und Ausflüge sind unten beschrieben."
+  },
+  "sections": [
+   {
+    "h": {
+     "nl": "Wanneer en voor wie?",
+     "en": "When and for whom?",
+     "de": "Wann und für wen?"
+    },
+    "p": {
+     "nl": "Het wandelseizoen loopt grofweg van eind mei tot in oktober; in de zomer zijn de meeste bergbanen en hutten open. Op hoogte kan in het voor- en najaar nog sneeuw liggen. Met kinderen werken korte etappes het best: reken op een tempo dat bij de jongste past en plan pauzes in. Een kinderwagen of draagzak is op de brede wegen vaak een optie, maar niet op elk bergpad.",
+     "en": "The walking season runs roughly from late May to October; in summer most lifts and huts are open. At altitude there can still be snow in spring and autumn. With children, short stages work best: set the pace by the youngest and plan breaks. A pushchair or baby carrier is often an option on the wide tracks, but not on every mountain path.",
+     "de": "Die Wandersaison dauert grob von Ende Mai bis in den Oktober; im Sommer sind die meisten Bergbahnen und Hütten geöffnet. In der Höhe kann im Frühjahr und Herbst noch Schnee liegen. Mit Kindern funktionieren kurze Etappen am besten: Das Tempo richtet sich nach dem Jüngsten, Pausen werden eingeplant. Kinderwagen oder Tragetuch sind auf breiten Wegen oft möglich, aber nicht auf jedem Bergpfad."
+    }
+   },
+   {
+    "h": {
+     "nl": "Veiligheid en regels",
+     "en": "Safety and rules",
+     "de": "Sicherheit und Regeln"
+    },
+    "p": {
+     "nl": "Het weer in de bergen kan snel omslaan, vooral in de middag. Kijk vooraf naar de weersverwachting, begin vroeg en draag stevige schoenen en een regenjas. Neem genoeg water mee en houd je aan de gemarkeerde paden. Sluit hekken achter je op weides en houd afstand van koeien, zeker als er kalveren bij zijn; laat honden aan de lijn. Informeer bij het toeristenbureau naar de actuele toestand van routes.",
+     "en": "Mountain weather can change quickly, especially in the afternoon. Check the forecast beforehand, start early and wear sturdy shoes and a rain jacket. Carry enough water and stay on the marked paths. Close gates behind you on pastures and keep your distance from cattle, particularly when calves are present; keep dogs on a lead. Ask the tourist office about the current condition of routes.",
+     "de": "Das Wetter in den Bergen kann schnell umschlagen, besonders am Nachmittag. Informieren Sie sich vorher über die Vorhersage, starten Sie früh und tragen Sie feste Schuhe und eine Regenjacke. Nehmen Sie genug Wasser mit und bleiben Sie auf den markierten Wegen. Schließen Sie Weidetore hinter sich und halten Sie Abstand zu Kühen, vor allem bei Kälbern; Hunde gehören an die Leine. Fragen Sie beim Tourismusbüro nach dem aktuellen Zustand der Wege."
+    }
+   }
+  ],
+  "tips": {
+   "nl": [
+    "Begin vroeg: de ochtend is meestal stabieler qua weer.",
+    "Plan een hut als doel, dat motiveert kinderen.",
+    "Neem een extra laag kleding mee, het is boven koeler.",
+    "Kies bij twijfel de kortere route.",
+    "Vraag naar een wandelkaart bij het toeristenbureau of je accommodatie."
+   ],
+   "en": [
+    "Start early: mornings are usually more stable weather-wise.",
+    "Choose a hut as a goal, which motivates children.",
+    "Pack an extra layer; it is cooler higher up.",
+    "If in doubt, take the shorter route.",
+    "Ask for a walking map at the tourist office or your accommodation."
+   ],
+   "de": [
+    "Früh starten: Der Vormittag ist meist wetterstabiler.",
+    "Eine Hütte als Ziel wählen, das motiviert Kinder.",
+    "Eine zusätzliche Kleidungsschicht einpacken, oben ist es kühler.",
+    "Im Zweifel die kürzere Route wählen.",
+    "Eine Wanderkarte im Tourismusbüro oder in der Unterkunft erfragen."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "nl": "Is wandelen in de Wildschönau geschikt voor jonge kinderen?",
+     "en": "Is hiking in the Wildschönau suitable for young children?",
+     "de": "Ist Wandern in der Wildschönau für kleine Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, er zijn veel korte en vlakke routes, en met een bergbaan beperk je de klim. Kies een route die bij de leeftijd past en informeer vooraf naar de lengte.",
+     "en": "Yes, there are many short, flat routes, and using a lift limits the climb. Choose a route that suits the age and ask about the length beforehand.",
+     "de": "Ja, es gibt viele kurze und flache Wege, und mit einer Bergbahn lässt sich der Aufstieg begrenzen. Wählen Sie eine Route, die zum Alter passt, und erkundigen Sie sich vorab nach der Länge."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer is het beste moment om te wandelen?",
+     "en": "When is the best time to hike?",
+     "de": "Wann ist die beste Zeit zum Wandern?"
+    },
+    "a": {
+     "nl": "Meestal van juni tot en met september, wanneer paden en hutten open zijn. In de nazomer en vroege herfst is het vaak rustig en helder, al kan het koeler zijn.",
+     "en": "Usually June to September, when paths and huts are open. Late summer and early autumn are often quiet and clear, though it can be cooler.",
+     "de": "Meist von Juni bis September, wenn Wege und Hütten geöffnet sind. Spätsommer und früher Herbst sind oft ruhig und klar, können aber kühler sein."
+    }
+   },
+   {
+    "q": {
+     "nl": "Heb ik een gids of speciale uitrusting nodig?",
+     "en": "Do I need a guide or special equipment?",
+     "de": "Brauche ich einen Führer oder spezielle Ausrüstung?"
+    },
+    "a": {
+     "nl": "Voor de gewone wandelroutes niet. Stevige schoenen, regenkleding en water volstaan. Voor alpiene routes is ervaring nodig en kun je een lokale gids overwegen.",
+     "en": "Not for the ordinary walking routes. Sturdy shoes, rain gear and water are enough. Alpine routes require experience, and you could consider a local guide.",
+     "de": "Für normale Wanderwege nicht. Feste Schuhe, Regenkleidung und Wasser genügen. Für alpine Routen ist Erfahrung nötig, und ein lokaler Bergführer kann sinnvoll sein."
+    }
+   }
+  ]
+ },
+ {
+  "kind": "theme",
+  "theme": "zwemmen",
+  "slug_en": "swimming",
+  "slug_de": "schwimmen",
+  "slug_nl": "zwemmen",
+  "title": {
+   "nl": "Zwemmen en badplezier rond Niederau",
+   "en": "Swimming and water fun around Niederau",
+   "de": "Schwimmen und Badespaß rund um Niederau"
+  },
+  "tagline": {
+   "nl": "Bergmeren, zwembaden en waterpret binnen rijafstand van de Wildschönau.",
+   "en": "Mountain lakes, pools and water fun within driving distance of the Wildschönau.",
+   "de": "Bergseen, Schwimmbäder und Wasserspaß in Fahrdistanz zur Wildschönau."
+  },
+  "intro": {
+   "nl": "Een vakantie in de Alpen betekent niet alleen bergen: in de omgeving van Niederau liggen ook meren en zwembaden waar gezinnen op een warme dag heerlijk kunnen afkoelen. Binnen ongeveer een halfuur tot driekwartier rijden vind je meerdere badmeren in het Tiroler Unterland, waaronder de meren rond Kramsach en bij Walchsee.\n\nDe Tiroolse bergmeren zijn doorgaans helder en groen, maar het water blijft vaak frisser dan je van laaglandmeren gewend bent. Veel meren hebben een ligweide, een kleine horeca en een afgebakend zwemgedeelte; sommige zijn gratis toegankelijk, bij andere betaal je entree. Voor jonge kinderen zijn ondiepe stukken en speelweides prettig.\n\nBij slecht weer is een overdekt bad een goed alternatief. In de regio vind je zwembaden en wellnessfaciliteiten, en veel accommodaties hebben een eigen zwembad of sauna voor gasten. Op deze pagina vind je tips voor een geslaagde badplek; de afzonderlijke meren en baden staan hieronder. Controleer altijd vooraf de openingstijden en het seizoen.",
+   "en": "A holiday in the Alps is not only about mountains: around Niederau there are also lakes and swimming pools where families can cool off on a warm day. Within about half an hour to three quarters of an hour by car you reach several bathing lakes in the Tyrolean Unterland, including those around Kramsach and near Walchsee.\n\nTyrolean mountain lakes are generally clear and green, but the water is often cooler than you may be used to from lowland lakes. Many lakes have a sunbathing lawn, a small snack bar and a marked swimming area; some are free to enter, while others charge an entrance fee. For young children, shallow areas and play meadows are a plus.\n\nIn poor weather an indoor pool is a good alternative. The region has swimming pools and spa facilities, and many accommodations have their own pool or sauna for guests. This page offers tips for a successful day at the water; the individual lakes and pools are described below. Always check opening times and the season beforehand.",
+   "de": "Ein Urlaub in den Alpen bedeutet nicht nur Berge: In der Umgebung von Niederau gibt es auch Seen und Schwimmbäder, in denen sich Familien an warmen Tagen abkühlen können. Innerhalb von etwa einer halben bis dreiviertel Stunde Autofahrt erreichen Sie mehrere Badeseen im Tiroler Unterland, darunter die Seen rund um Kramsach und bei Walchsee.\n\nTiroler Bergseen sind meist klar und grün, doch das Wasser ist oft kühler, als man es von Seen im Flachland kennt. Viele Seen haben eine Liegewiese, einen kleinen Imbiss und einen abgegrenzten Badebereich; manche sind frei zugänglich, bei anderen wird Eintritt verlangt. Für kleine Kinder sind flache Bereiche und Spielwiesen von Vorteil.\n\nBei schlechtem Wetter ist ein Hallenbad eine gute Alternative. In der Region gibt es Schwimmbäder und Wellnessangebote, und viele Unterkünfte haben für ihre Gäste ein eigenes Schwimmbad oder eine Sauna. Diese Seite gibt Tipps für einen gelungenen Badetag; die einzelnen Seen und Bäder sind unten beschrieben. Prüfen Sie vorab immer Öffnungszeiten und Saison."
+  },
+  "sections": [
+   {
+    "h": {
+     "nl": "Wanneer zwemmen?",
+     "en": "When to swim?",
+     "de": "Wann baden?"
+    },
+    "p": {
+     "nl": "De badmeren zijn doorgaans in de zomer geschikt, vooral in juli en augustus, als het water het warmst is. In juni en september kan het water nog koel zijn. Veel buitenbaden openen alleen in het zomerseizoen; informeer daarom vooraf naar de data. Kies bij onweer of kou een overdekt bad.",
+     "en": "The bathing lakes are generally suitable in summer, especially in July and August when the water is warmest. In June and September the water can still be cool. Many outdoor pools open only in the summer season, so ask about dates in advance. In a thunderstorm or cold spell, choose an indoor pool.",
+     "de": "Die Badeseen eignen sich meist im Sommer, vor allem im Juli und August, wenn das Wasser am wärmsten ist. Im Juni und September kann es noch kühl sein. Viele Freibäder öffnen nur in der Sommersaison, daher vorab nach den Terminen fragen. Bei Gewitter oder Kälte lieber ein Hallenbad wählen."
+    }
+   },
+   {
+    "h": {
+     "nl": "Veiligheid met kinderen",
+     "en": "Safety with children",
+     "de": "Sicherheit mit Kindern"
+    },
+    "p": {
+     "nl": "Houd kleine kinderen altijd binnen handbereik, ook in ondiep water. Bergmeren worden snel dieper en hebben soms koude stromingen. Zwem alleen in de aangewezen zones, let op waarschuwingsborden en laat kinderen niet alleen met luchtbedden het water in. Neem zonnebrand en een hoofddeksel mee: op hoogte is de zon sterker dan je verwacht.",
+     "en": "Always keep small children within reach, even in shallow water. Mountain lakes get deep quickly and may have cold currents. Swim only in designated areas, heed warning signs and do not let children enter the water alone with inflatables. Bring sun cream and a hat: the sun is stronger at altitude than you expect.",
+     "de": "Kleine Kinder immer in Reichweite halten, auch im flachen Wasser. Bergseen werden schnell tief und haben manchmal kalte Strömungen. Nur in den ausgewiesenen Bereichen baden, Warnschilder beachten und Kinder nicht allein mit Luftmatratzen ins Wasser lassen. Sonnencreme und Kopfbedeckung mitnehmen: In der Höhe ist die Sonne stärker, als man denkt."
+    }
+   }
+  ],
+  "tips": {
+   "nl": [
+    "Neem waterschoenen mee voor stenige oevers.",
+    "Kom op warme dagen vroeg: de populairste meren raken vol.",
+    "Een extra handdoek en droge kleding voor kinderen is geen overbodige luxe.",
+    "Check weer en openingstijden vooraf.",
+    "Plan een ijsje of pauze na het zwemmen in."
+   ],
+   "en": [
+    "Bring water shoes for stony shores.",
+    "Arrive early on warm days: the most popular lakes fill up.",
+    "An extra towel and dry clothes for children are worth packing.",
+    "Check weather and opening times beforehand.",
+    "Plan an ice cream or a break after swimming."
+   ],
+   "de": [
+    "Wasserschuhe für steinige Ufer mitnehmen.",
+    "An warmen Tagen früh kommen: Die beliebtesten Seen füllen sich.",
+    "Ein zusätzliches Handtuch und trockene Kleidung für Kinder sind sinnvoll.",
+    "Wetter und Öffnungszeiten vorab prüfen.",
+    "Ein Eis oder eine Pause nach dem Schwimmen einplanen."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe warm is het water in de bergmeren?",
+     "en": "How warm is the water in the mountain lakes?",
+     "de": "Wie warm ist das Wasser in den Bergseen?"
+    },
+    "a": {
+     "nl": "Dat verschilt per meer en per dag. In hoogzomer is het vaak aangenaam, maar frisser dan in laaglandmeren. Informeer ter plaatse.",
+     "en": "It varies by lake and by day. In high summer it is often pleasant but cooler than lowland lakes. Ask on site.",
+     "de": "Das hängt vom See und vom Tag ab. Im Hochsommer ist es oft angenehm, aber kühler als in Flachlandseen. Fragen Sie vor Ort."
+    }
+   },
+   {
+    "q": {
+     "nl": "Zijn er zwemopties bij regen?",
+     "en": "Are there swimming options when it rains?",
+     "de": "Gibt es Badeoptionen bei Regen?"
+    },
+    "a": {
+     "nl": "Ja, in de regio zijn overdekte baden en wellnessfaciliteiten, en veel accommodaties hebben een eigen zwembad. Controleer de openingstijden en toegangsregels vooraf.",
+     "en": "Yes, the region has indoor pools and spa facilities, and many accommodations have their own pool. Check opening times and access rules beforehand.",
+     "de": "Ja, in der Region gibt es Hallenbäder und Wellnessangebote, und viele Unterkünfte haben ein eigenes Schwimmbad. Prüfen Sie Öffnungszeiten und Zugangsregeln vorab."
+    }
+   },
+   {
+    "q": {
+     "nl": "Moet ik entree betalen bij de meren?",
+     "en": "Do I have to pay entrance at the lakes?",
+     "de": "Muss ich an den Seen Eintritt zahlen?"
+    },
+    "a": {
+     "nl": "Sommige meren zijn vrij toegankelijk, andere hebben een strandbad met entree. Dat verschilt, dus kijk vooraf op de pagina van het betreffende meer.",
+     "en": "Some lakes are freely accessible, others have a lido with an entrance fee. It varies, so check the page for the lake in question first.",
+     "de": "Manche Seen sind frei zugänglich, andere haben ein Strandbad mit Eintritt. Das ist unterschiedlich, schauen Sie daher vorab auf die Seite des jeweiligen Sees."
+    }
+   }
+  ]
+ },
+ {
+  "kind": "theme",
+  "theme": "skieen",
+  "slug_en": "skiing",
+  "slug_de": "skifahren",
+  "slug_nl": "skieen",
+  "title": {
+   "nl": "Skiën in Ski Juwel Alpbachtal Wildschönau",
+   "en": "Skiing in Ski Juwel Alpbachtal Wildschönau",
+   "de": "Skifahren im Ski Juwel Alpbachtal Wildschönau"
+  },
+  "tagline": {
+   "nl": "Gezinsvriendelijk skiën vlak bij je deur, met een groot gebied in de buurt.",
+   "en": "Family-friendly skiing close to your door, with a large area nearby.",
+   "de": "Familienfreundliches Skifahren direkt vor der Tür, mit großem Gebiet in der Nähe."
+  },
+  "intro": {
+   "nl": "Niederau ligt in het skigebied Ski Juwel Alpbachtal Wildschönau, een van de grotere skigebieden van Tirol dat de dalen van Alpbach en de Wildschönau verbindt. Vanaf het dorp bereik je met de bergbaan de pistes bij de Markbachjoch, zodat je 's ochtends snel op de piste staat en 's middags weer terug bent bij je accommodatie.\n\nHet gebied is vooral gewaardeerd door gezinnen en gemiddelde skiërs: je vindt veel brede, overzichtelijke pistes van verschillende niveaus, en bergrestaurants waar je kunt opwarmen. Beginners kunnen terecht op rustige oefenhellingen en bij skischolen in de dorpen. Gevorderden vinden voldoende afwisseling, al is het gebied minder extreem dan sommige grotere Alpenregio's.\n\nHet wintersportseizoen loopt grofweg van december tot in maart, afhankelijk van de sneeuw. Sneeuwzekerheid is er in de regel het best in het hoogseizoen; informeer voor je vertrek naar de actuele situatie. Op deze pagina vind je een algemene gids met praktische tips; de afzonderlijke skiactiviteiten, de skischolen en uitstapjes in de omgeving staan hieronder.",
+   "en": "Niederau lies in the Ski Juwel Alpbachtal Wildschönau ski area, one of the larger ski areas in Tyrol, linking the valleys of Alpbach and the Wildschönau. From the village you reach the slopes at the Markbachjoch by lift, so you are quickly on the piste in the morning and back at your accommodation in the afternoon.\n\nThe area is particularly appreciated by families and intermediate skiers: you will find many wide, easy-to-read slopes at various levels, and mountain restaurants where you can warm up. Beginners can use quiet practice slopes and ski schools in the villages. Advanced skiers find enough variety, though the area is less extreme than some larger Alpine regions.\n\nThe winter sports season runs roughly from December into March, depending on snow. Snow reliability is generally best in high season; check the current situation before departure. This page offers a general guide with practical tips; the individual ski activities, ski schools and outings nearby are described below.",
+   "de": "Niederau liegt im Skigebiet Ski Juwel Alpbachtal Wildschönau, einem der größeren Skigebiete Tirols, das die Täler von Alpbach und der Wildschönau verbindet. Vom Ort erreichen Sie mit der Bergbahn die Pisten am Markbachjoch, sodass Sie morgens schnell auf der Piste sind und nachmittags wieder bei Ihrer Unterkunft.\n\nDas Gebiet wird vor allem von Familien und mittelguten Skifahrern geschätzt: Es gibt viele breite, übersichtliche Pisten verschiedener Schwierigkeitsgrade und Bergrestaurants zum Aufwärmen. Anfänger finden ruhige Übungshänge und Skischulen in den Orten. Fortgeschrittene finden genug Abwechslung, auch wenn das Gebiet weniger extrem ist als manche größere Alpenregion.\n\nDie Wintersaison dauert grob von Dezember bis in den März, je nach Schnee. Die Schneesicherheit ist in der Regel im Hochwinter am besten; informieren Sie sich vor der Abreise über die aktuelle Lage. Diese Seite bietet einen allgemeinen Leitfaden mit praktischen Tipps; die einzelnen Skiaktivitäten, Skischulen und Ausflüge in der Nähe sind unten beschrieben."
+  },
+  "sections": [
+   {
+    "h": {
+     "nl": "Voor wie?",
+     "en": "For whom?",
+     "de": "Für wen?"
+    },
+    "p": {
+     "nl": "Het gebied past bij gezinnen, beginners en gemiddelde skiërs. Kinderen kunnen vaak vanaf een jaar of drie of vier met skiles beginnen; vraag bij de skischool naar de minimumleeftijd en groepsgrootte. Boek lessen en materiaalverhuur bij voorkeur van tevoren, vooral in schoolvakanties. Sneeuwboarders zijn welkom en veel pistes zijn geschikt.",
+     "en": "The area suits families, beginners and intermediate skiers. Children can often start ski lessons from around three or four years old; ask the ski school about minimum age and group size. Book lessons and equipment hire in advance where possible, especially during school holidays. Snowboarders are welcome and many slopes are suitable.",
+     "de": "Das Gebiet passt zu Familien, Anfängern und mittleren Skifahrern. Kinder können oft ab etwa drei oder vier Jahren mit dem Skikurs beginnen; fragen Sie die Skischule nach Mindestalter und Gruppengröße. Buchen Sie Kurse und Skiverleih möglichst im Voraus, besonders in den Schulferien. Snowboarder sind willkommen, und viele Pisten sind geeignet."
+    }
+   },
+   {
+    "h": {
+     "nl": "Veiligheid en regels",
+     "en": "Safety and rules",
+     "de": "Sicherheit und Regeln"
+    },
+    "p": {
+     "nl": "Op de piste gelden de internationale FIS-regels: houd rekening met anderen, pas je snelheid aan en geef voorrang aan wie lager of voor je is. Een helm is voor kinderen sterk aan te raden en wordt door veel gezinnen standaard gedragen. Blijf op de gemarkeerde pistes, let op lawinewaarschuwingen en sluit een reis- of skiverzekering af die pistehulp dekt.",
+     "en": "The international FIS rules apply on the slopes: be considerate of others, adjust your speed and give way to those below or ahead of you. A helmet is strongly recommended for children and worn as standard by many families. Stay on marked slopes, heed avalanche warnings and take out travel or ski insurance that covers rescue costs.",
+     "de": "Auf der Piste gelten die internationalen FIS-Regeln: Rücksicht auf andere nehmen, die Geschwindigkeit anpassen und Vorrang für den, der tiefer oder vor Ihnen fährt. Für Kinder wird ein Helm dringend empfohlen, und viele Familien tragen ihn standardmäßig. Bleiben Sie auf markierten Pisten, beachten Sie Lawinenwarnungen und schließen Sie eine Reise- oder Skiversicherung ab, die Bergungskosten abdeckt."
+    }
+   }
+  ],
+  "tips": {
+   "nl": [
+    "Boek skiles en verhuur vooraf in schoolvakanties.",
+    "Start de dag vroeg: de pistes zijn dan het mooist.",
+    "Neem reserve handschoenen en een bril mee voor kinderen.",
+    "Plan een pauze in een berghut om op te warmen.",
+    "Check sneeuw- en liftinformatie voor je vertrekt."
+   ],
+   "en": [
+    "Book ski lessons and rental in advance during school holidays.",
+    "Start early: the slopes are at their best.",
+    "Pack spare gloves and goggles for children.",
+    "Plan a break in a mountain hut to warm up.",
+    "Check snow and lift information before you set off."
+   ],
+   "de": [
+    "In den Schulferien Skikurse und Verleih im Voraus buchen.",
+    "Früh starten: Dann sind die Pisten am schönsten.",
+    "Ersatzhandschuhe und Skibrille für Kinder einpacken.",
+    "Eine Pause in einer Berghütte zum Aufwärmen einplanen.",
+    "Schnee- und Liftinformationen vor dem Losfahren prüfen."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Niederau geschikt voor beginners?",
+     "en": "Is Niederau suitable for beginners?",
+     "de": "Ist Niederau für Anfänger geeignet?"
+    },
+    "a": {
+     "nl": "Ja, er zijn rustige oefenhellingen en skischolen in de omgeving. Informeer bij de skischool naar de actuele lesmogelijkheden.",
+     "en": "Yes, there are quiet practice slopes and ski schools nearby. Ask the ski school about current lesson options.",
+     "de": "Ja, es gibt ruhige Übungshänge und Skischulen in der Umgebung. Fragen Sie die Skischule nach den aktuellen Kursmöglichkeiten."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer is het skiseizoen?",
+     "en": "When is the ski season?",
+     "de": "Wann ist die Skisaison?"
+    },
+    "a": {
+     "nl": "Grofweg van december tot in maart, afhankelijk van de sneeuw. Kijk voor vertrek naar de actuele situatie.",
+     "en": "Roughly December to March, depending on snow. Check the current situation before departure.",
+     "de": "Grob von Dezember bis in den März, je nach Schnee. Prüfen Sie vor der Abreise die aktuelle Lage."
+    }
+   },
+   {
+    "q": {
+     "nl": "Heb ik een skipas nodig voor de hele regio?",
+     "en": "Do I need a ski pass for the whole region?",
+     "de": "Brauche ich einen Skipass für die ganze Region?"
+    },
+    "a": {
+     "nl": "Voor Ski Juwel Alpbachtal Wildschönau is een eigen skipas nodig. Informeer naar de actuele tarieven en dagkaart- of meerdaagse opties bij de liftmaatschappij.",
+     "en": "A ski pass is required for Ski Juwel Alpbachtal Wildschönau. Ask the lift company about current prices and day or multi-day options.",
+     "de": "Für das Ski Juwel Alpbachtal Wildschönau ist ein Skipass erforderlich. Informieren Sie sich bei der Bergbahn über aktuelle Preise sowie Tages- und Mehrtagesoptionen."
+    }
+   }
+  ]
+ },
+ {
+  "kind": "theme",
+  "theme": "winterpret",
+  "slug_en": "winter-fun",
+  "slug_de": "winterspass",
+  "slug_nl": "winterpret",
+  "title": {
+   "nl": "Winterpret in Niederau en omgeving",
+   "en": "Winter fun in Niederau and around",
+   "de": "Winterspaß in Niederau und Umgebung"
+  },
+  "tagline": {
+   "nl": "Sneeuwpret zonder ski's: sleeën, winterwandelen, sneeuwschoenen en meer.",
+   "en": "Snow fun without skis: sledging, winter walking, snowshoeing and more.",
+   "de": "Schneespaß ohne Ski: Rodeln, Winterwandern, Schneeschuhlaufen und mehr."
+  },
+  "intro": {
+   "nl": "Een wintervakantie in Niederau draait niet alleen om skiën. Wie liever rustiger buiten is of met jonge kinderen reist, vindt in de Wildschönau en omgeving veel manieren om van de sneeuw te genieten. Denk aan sleetochten, winterwandelen over geprepareerde paden, sneeuwschoenwandelen, langlaufen en een middag schaatsen.\n\nVeel van die activiteiten zijn ook voor beginners eenvoudig te doen. Een gezinsvriendelijke sleebaan, een korte winterwandeling met een pauze in een berghut of een uitstapje met de paardenslee maken een dag bijzonder zonder dat je veel ervaring of uitrusting nodig hebt. Voor veel kinderen is sneeuw gewoon spelen genoeg: een sneeuwpop bouwen, glijden op een bobslee of een sneeuwballengevecht.\n\nDe beschikbaarheid hangt af van sneeuw en weer, dus controleer vooraf of routes en banen geopend zijn. Op deze pagina vind je een algemene gids en praktische tips; de afzonderlijke winteractiviteiten in en rond Niederau vind je hieronder. Warme kleding en waterdichte laarzen zijn het halve werk.",
+   "en": "A winter holiday in Niederau is not only about skiing. If you prefer a calmer time outdoors or are travelling with young children, the Wildschönau and surroundings offer many ways to enjoy the snow. Think sledging, winter walks on prepared paths, snowshoeing, cross-country skiing and an afternoon of ice skating.\n\nMany of these activities are easy for beginners too. A family-friendly toboggan run, a short winter walk with a break in a mountain hut or a horse-drawn sleigh ride makes a day special without needing much experience or equipment. For many children simply playing in the snow is enough: building a snowman, sliding on a sledge or having a snowball fight.\n\nAvailability depends on snow and weather, so check beforehand whether trails and runs are open. This page offers a general guide and practical tips; the individual winter activities in and around Niederau are listed below. Warm clothing and waterproof boots are half the job.",
+   "de": "Ein Winterurlaub in Niederau besteht nicht nur aus Skifahren. Wer es lieber ruhiger mag oder mit kleinen Kindern reist, findet in der Wildschönau und Umgebung viele Möglichkeiten, den Schnee zu genießen. Dazu gehören Rodeln, Winterwandern auf präparierten Wegen, Schneeschuhwandern, Langlaufen und ein Nachmittag auf dem Eis.\n\nViele dieser Aktivitäten sind auch für Anfänger leicht machbar. Eine familienfreundliche Rodelbahn, eine kurze Winterwanderung mit Einkehr in einer Berghütte oder eine Pferdeschlittenfahrt machen einen Tag besonders, ohne viel Erfahrung oder Ausrüstung zu verlangen. Für viele Kinder ist Spielen im Schnee schon genug: einen Schneemann bauen, auf dem Schlitten rutschen oder eine Schneeballschlacht machen.\n\nDie Verfügbarkeit hängt von Schnee und Wetter ab, prüfen Sie daher vorab, ob Wege und Bahnen geöffnet sind. Diese Seite bietet einen allgemeinen Leitfaden und praktische Tipps; die einzelnen Winteraktivitäten in und um Niederau finden Sie unten. Warme Kleidung und wasserdichte Stiefel sind schon die halbe Miete."
+  },
+  "sections": [
+   {
+    "h": {
+     "nl": "Wanneer en voor wie?",
+     "en": "When and for whom?",
+     "de": "Wann und für wen?"
+    },
+    "p": {
+     "nl": "De winterpret is er vooral in de wintermaanden, van december tot in maart, afhankelijk van de sneeuw. De activiteiten zijn grotendeels geschikt voor het hele gezin, ook voor wie niet skiet. Kleine kinderen kunnen vaak meedoen op rustige banen of in de sneeuw spelen, terwijl oudere kinderen kunnen sleeën of sneeuwschoenwandelen.",
+     "en": "Winter fun is mostly available in the winter months, from December into March, depending on snow. The activities are largely suitable for the whole family, including non-skiers. Small children can often join on quiet runs or play in the snow, while older children can sledge or go snowshoeing.",
+     "de": "Der Winterspaß findet vor allem in den Wintermonaten statt, von Dezember bis in den März, je nach Schnee. Die Aktivitäten eignen sich größtenteils für die ganze Familie, auch für Nicht-Skifahrer. Kleine Kinder können oft auf ruhigen Bahnen mitmachen oder im Schnee spielen, ältere Kinder können rodeln oder Schneeschuh wandern."
+    }
+   },
+   {
+    "h": {
+     "nl": "Veiligheid en kleding",
+     "en": "Safety and clothing",
+     "de": "Sicherheit und Kleidung"
+    },
+    "p": {
+     "nl": "Kleed je in lagen, draag waterdichte handschoenen en laarzen en neem een muts mee. Sleeën doe je op de aangewezen banen en liefst met helm voor kinderen. Houd afstand van andere sleeërs en rem op tijd. Blijf bij winterwandelen op de gemarkeerde paden en vermijd steile hellingen met lawinegevaar. Controleer de actuele condities voor je vertrekt.",
+     "en": "Dress in layers, wear waterproof gloves and boots and bring a hat. Sledge on the designated runs and preferably with a helmet for children. Keep your distance from other sledgers and brake in good time. When winter walking, stay on marked paths and avoid steep slopes with avalanche risk. Check current conditions before leaving.",
+     "de": "Ziehen Sie sich in Schichten an, tragen Sie wasserdichte Handschuhe und Stiefel und nehmen Sie eine Mütze mit. Rodeln Sie auf den vorgesehenen Bahnen und für Kinder am besten mit Helm. Halten Sie Abstand zu anderen Rodlern und bremsen Sie rechtzeitig. Bleiben Sie beim Winterwandern auf markierten Wegen und meiden Sie steile Hänge mit Lawinengefahr. Prüfen Sie vor dem Aufbruch die aktuellen Bedingungen."
+    }
+   }
+  ],
+  "tips": {
+   "nl": [
+    "Neem een droge reservemuts en handschoenen mee voor kinderen.",
+    "Huur een slee ter plaatse of vraag bij je accommodatie.",
+    "Combineer een winterwandeling met een stop in een berghut.",
+    "Check of banen en paden open zijn.",
+    "Plan pauzes: kinderen koelen sneller af dan je denkt."
+   ],
+   "en": [
+    "Bring a dry spare hat and gloves for children.",
+    "Hire a sledge on site or ask at your accommodation.",
+    "Combine a winter walk with a stop at a mountain hut.",
+    "Check whether runs and paths are open.",
+    "Plan breaks: children cool down faster than you think."
+   ],
+   "de": [
+    "Trockene Ersatzmütze und -handschuhe für Kinder mitnehmen.",
+    "Einen Schlitten vor Ort leihen oder in der Unterkunft erfragen.",
+    "Eine Winterwanderung mit einer Einkehr in einer Berghütte verbinden.",
+    "Prüfen, ob Bahnen und Wege geöffnet sind.",
+    "Pausen einplanen: Kinder kühlen schneller aus, als man denkt."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke winteractiviteiten zijn er zonder ski's?",
+     "en": "What winter activities are there without skis?",
+     "de": "Welche Winteraktivitäten gibt es ohne Ski?"
+    },
+    "a": {
+     "nl": "Je kunt sleeën, winterwandelen, sneeuwschoenlopen, langlaufen of schaatsen. Het aanbod hangt af van de sneeuw.",
+     "en": "You can go sledging, winter walking, snowshoeing, cross-country skiing or ice skating. The offer depends on snow.",
+     "de": "Sie können rodeln, winterwandern, Schneeschuh laufen, langlaufen oder Schlittschuh laufen. Das Angebot hängt vom Schnee ab."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is dit geschikt voor jonge kinderen?",
+     "en": "Is this suitable for young children?",
+     "de": "Ist das für kleine Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Veel activiteiten wel, zeker rustige sleebanen en korte winterwandelingen. Let op warme kleding en pauzes.",
+     "en": "Many activities are, especially quiet toboggan runs and short winter walks. Mind warm clothing and breaks.",
+     "de": "Viele Aktivitäten schon, vor allem ruhige Rodelbahnen und kurze Winterwanderungen. Auf warme Kleidung und Pausen achten."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kan ik sleeën of sneeuwschoenen huren?",
+     "en": "Can I hire sledges or snowshoes?",
+     "de": "Kann ich Schlitten oder Schneeschuhe leihen?"
+    },
+    "a": {
+     "nl": "Vaak wel in het dorp of bij sportwinkels en accommodaties. Vraag ter plaatse naar de mogelijkheden.",
+     "en": "Often yes, in the village or from sports shops and accommodations. Ask on site about the options.",
+     "de": "Oft ja, im Ort oder bei Sportgeschäften und Unterkünften. Fragen Sie vor Ort nach den Möglichkeiten."
+    }
+   }
+  ]
+ },
+ {
+  "kind": "theme",
+  "theme": "fietsen",
+  "slug_en": "cycling",
+  "slug_de": "radfahren",
+  "slug_nl": "fietsen",
+  "title": {
+   "nl": "Fietsen in de Wildschönau en het Inntal",
+   "en": "Cycling in the Wildschönau and the Inn Valley",
+   "de": "Radfahren in der Wildschönau und im Inntal"
+  },
+  "tagline": {
+   "nl": "Van rustige fietspaden in het dal tot e-bike en mountainbike in de bergen.",
+   "en": "From quiet valley cycle paths to e-bike and mountain bike tours in the hills.",
+   "de": "Von ruhigen Radwegen im Tal bis zu E-Bike- und Mountainbike-Touren in den Bergen."
+  },
+  "intro": {
+   "nl": "Fietsen in Tirol is een mix van rustige dalroutes en pittige bergtochten. Vanuit Niederau heb je in de Wildschönau zelf veel kleine wegen langs boerderijen en weides, en in het nabijgelegen Inntal ligt een goed bekende fietsroute langs de rivier die vlak en overzichtelijk is. Dat maakt de regio interessant voor gezinnen met kinderen die al een stuk kunnen fietsen.\n\nVoor wie meer uitdaging zoekt, zijn er mountainbikeroutes en geprepareerde trails in de bergen. Door de hoogteverschillen is een e-bike in de Wildschönau populair: zo kom je met minder moeite omhoog, en kunnen ook gezinsleden met verschillende conditie samen op pad. Fietsen kun je in de regio meestal huren, vaak inclusief helm.\n\nLet op: een fiets in de bergen vraagt om voorbereiding. Kies een route die past bij de conditie van je gezin, check het weer en neem water en reparatiemateriaal mee. De afzonderlijke fietsroutes en verhuurlocaties staan hieronder; informeer vooraf naar de actuele toestand van de wegen en eventuele afsluitingen.",
+   "en": "Cycling in Tyrol is a mix of quiet valley routes and tough mountain tours. From Niederau you have many small roads past farms and pastures in the Wildschönau itself, and in the nearby Inn Valley there is a well-known riverside cycle route that is flat and easy to follow. That makes the region interesting for families with children who can already cycle a good distance.\n\nFor those seeking more of a challenge, there are mountain bike routes and prepared trails in the hills. Because of the height differences, an e-bike is popular in the Wildschönau: it gets you uphill with less effort and lets family members of different fitness ride together. Bikes can usually be hired in the region, often including a helmet.\n\nNote that riding in the mountains requires preparation. Choose a route that suits your family's fitness, check the weather and bring water and repair gear. The individual cycling routes and rental locations are listed below; ask about current road conditions and closures beforehand.",
+   "de": "Radfahren in Tirol ist eine Mischung aus ruhigen Talrouten und anspruchsvollen Bergtouren. Von Niederau aus gibt es in der Wildschönau selbst viele kleine Straßen entlang von Höfen und Wiesen, und im nahen Inntal verläuft ein bekannter Radweg am Fluss, der flach und übersichtlich ist. Das macht die Region interessant für Familien mit Kindern, die schon ein gutes Stück fahren können.\n\nWer mehr Herausforderung sucht, findet Mountainbike-Routen und präparierte Trails in den Bergen. Wegen der Höhenunterschiede ist das E-Bike in der Wildschönau beliebt: Man kommt mit weniger Mühe bergauf, und Familienmitglieder mit unterschiedlicher Kondition können gemeinsam fahren. Räder lassen sich in der Region meist leihen, oft samt Helm.\n\nBeachten Sie, dass Radfahren in den Bergen Vorbereitung verlangt. Wählen Sie eine Route, die zur Kondition Ihrer Familie passt, prüfen Sie das Wetter und nehmen Sie Wasser und Reparaturmaterial mit. Die einzelnen Radrouten und Verleihstellen finden Sie unten; erkundigen Sie sich vorab nach dem aktuellen Straßenzustand und eventuellen Sperrungen."
+  },
+  "sections": [
+   {
+    "h": {
+     "nl": "Wanneer en voor wie?",
+     "en": "When and for whom?",
+     "de": "Wann und für wen?"
+    },
+    "p": {
+     "nl": "Het fietsseizoen loopt grofweg van mei tot oktober; in de bergen is het van juni tot september het zekerst. Voor gezinnen zijn de vlakke dalroutes het meest geschikt. Kinderen op eigen fiets kunnen vaak al korte stukken aan; een kinderzitje of aanhanger is een optie voor de jongste. E-bikes helpen bij hoogteverschillen.",
+     "en": "The cycling season runs roughly from May to October; in the hills June to September is the most reliable. For families, the flat valley routes are the most suitable. Children on their own bikes can often manage short stretches; a child seat or trailer is an option for the youngest. E-bikes help with the climbs.",
+     "de": "Die Radsaison dauert grob von Mai bis Oktober; in den Bergen ist der Zeitraum Juni bis September am sichersten. Für Familien eignen sich die flachen Talrouten am besten. Kinder auf eigenem Rad schaffen oft schon kurze Strecken; ein Kindersitz oder Anhänger ist für die Jüngsten eine Option. E-Bikes helfen bei Höhenunterschieden."
+    }
+   },
+   {
+    "h": {
+     "nl": "Veiligheid en regels",
+     "en": "Safety and rules",
+     "de": "Sicherheit und Regeln"
+    },
+    "p": {
+     "nl": "Een helm is voor kinderen in Oostenrijk verplicht tot een bepaalde leeftijd; voor iedereen is het verstandig. Fiets op de aangegeven routes en houd rekening met wandelaars, vooral op smalle paden. Op mountainbikeroutes zijn afdalingen steil en kunnen glad zijn. Controleer remmen en banden voor je vertrekt, en neem een regenjas en reparatiemateriaal mee.",
+     "en": "A helmet is compulsory for children up to a certain age in Austria, and sensible for everyone. Ride on the designated routes and be considerate of walkers, especially on narrow paths. On mountain bike routes descents can be steep and slippery. Check brakes and tyres before setting off, and bring a rain jacket and repair kit.",
+     "de": "Ein Helm ist für Kinder in Österreich bis zu einem bestimmten Alter Pflicht und für alle sinnvoll. Fahren Sie auf den ausgewiesenen Routen und nehmen Sie Rücksicht auf Wanderer, besonders auf schmalen Wegen. Auf Mountainbike-Strecken können Abfahrten steil und rutschig sein. Prüfen Sie Bremsen und Reifen vor der Abfahrt und nehmen Sie Regenjacke und Reparaturset mit."
+    }
+   }
+  ],
+  "tips": {
+   "nl": [
+    "Huur e-bikes als de familie verschillende conditie heeft.",
+    "Plan een pauze bij een berghut of café.",
+    "Neem een regenjas en reservebinnenband mee.",
+    "Begin met een korte route om het niveau te testen.",
+    "Vraag bij het toeristenbureau naar fietskaarten."
+   ],
+   "en": [
+    "Hire e-bikes if your family has different fitness levels.",
+    "Plan a break at a mountain hut or cafe.",
+    "Pack a rain jacket and a spare inner tube.",
+    "Start with a short route to test the level.",
+    "Ask the tourist office for cycling maps."
+   ],
+   "de": [
+    "E-Bikes leihen, wenn die Familie unterschiedliche Kondition hat.",
+    "Eine Pause an einer Berghütte oder in einem Café einplanen.",
+    "Regenjacke und Ersatzschlauch mitnehmen.",
+    "Mit einer kurzen Route beginnen, um das Niveau zu testen.",
+    "Im Tourismusbüro nach Radkarten fragen."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je fietsen huren in de Wildschönau?",
+     "en": "Can you hire bikes in the Wildschönau?",
+     "de": "Kann man in der Wildschönau Räder leihen?"
+    },
+    "a": {
+     "nl": "Ja, fiets- en e-bikeverhuur is er in de regio gebruikelijk. Vraag naar kindermaten en helmen; reserveren is in het hoogseizoen verstandig.",
+     "en": "Yes, bike and e-bike hire is common in the region. Ask about child sizes and helmets; booking is wise in high season.",
+     "de": "Ja, Fahrrad- und E-Bike-Verleih ist in der Region üblich. Fragen Sie nach Kindergrößen und Helmen; im Hochsommer ist eine Reservierung ratsam."
+    }
+   },
+   {
+    "q": {
+     "nl": "Zijn er vlakke fietsroutes voor gezinnen?",
+     "en": "Are there flat cycle routes for families?",
+     "de": "Gibt es flache Radrouten für Familien?"
+    },
+    "a": {
+     "nl": "Ja, vooral in het Inntal liggen vlakke routes langs de rivier. In de Wildschönau zelf zijn er rustige dalwegen, maar ook hoogteverschillen.",
+     "en": "Yes, especially in the Inn Valley there are flat routes along the river. In the Wildschönau itself there are quiet valley roads, but also height differences.",
+     "de": "Ja, vor allem im Inntal gibt es flache Strecken am Fluss. In der Wildschönau selbst gibt es ruhige Talwege, aber auch Höhenunterschiede."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is mountainbiken toegestaan overal?",
+     "en": "Is mountain biking allowed everywhere?",
+     "de": "Ist Mountainbiken überall erlaubt?"
+    },
+    "a": {
+     "nl": "Nee, in Oostenrijk is fietsen op bospaden aan regels gebonden. Gebruik aangewezen routes en volg borden en lokale informatie.",
+     "en": "No, in Austria cycling on forest paths is subject to rules. Use designated routes and follow signs and local information.",
+     "de": "Nein, in Österreich ist das Radfahren auf Waldwegen an Regeln gebunden. Nutzen Sie ausgewiesene Routen und folgen Sie Schildern und lokalen Informationen."
+    }
+   }
+  ]
+ },
+ {
+  "kind": "theme",
+  "theme": "avontuur",
+  "slug_en": "adventure",
+  "slug_de": "abenteuer",
+  "slug_nl": "avontuur",
+  "title": {
+   "nl": "Avontuur in Tirol voor gezinnen",
+   "en": "Adventure in Tyrol for families",
+   "de": "Abenteuer in Tirol für Familien"
+  },
+  "tagline": {
+   "nl": "Klimparken, rafting, canyoning en andere actieve uitjes in de regio.",
+   "en": "Climbing parks, rafting, canyoning and other active outings in the region.",
+   "de": "Kletterparks, Rafting, Canyoning und andere aktive Ausflüge in der Region."
+  },
+  "intro": {
+   "nl": "Wie met oudere kinderen of tieners reist, zoekt vaak iets spannenders dan een wandeling. In en rond Tirol is daar veel voor: klimparken in de bomen, klimsteigers, rafting en canyoning, zip-lines en andere buitenactiviteiten. Veel aanbieders richten zich nadrukkelijk op gezinnen en hebben trajecten voor verschillende leeftijden.\n\nVanuit Niederau liggen sommige activiteiten dichtbij, andere vragen een rit van een halfuur tot een uur. Rivieren in de omgeving, zoals de Inn en de Ziller, bieden mogelijkheden voor raftingtochten, en in de bergen zijn er klim- en avontuurparken. De uitvoering gebeurt meestal onder begeleiding van opgeleide gidsen, die materiaal en instructie verzorgen.\n\nLet op de minimumleeftijd, lengte en conditie die per activiteit gelden, en reserveer vooraf, vooral in het hoogseizoen. Het weer speelt een grote rol: bij regen of hoog water kunnen activiteiten uitvallen. Op deze pagina vind je een algemene gids met praktische tips; de afzonderlijke avonturen staan hieronder.",
+   "en": "Those travelling with older children or teenagers often want something more exciting than a walk. In and around Tyrol there is plenty: climbing parks in the trees, via ferrata-style routes, rafting and canyoning, zip-lines and other outdoor activities. Many providers explicitly target families and have courses for different ages.\n\nFrom Niederau some activities are close, while others need a drive of half an hour to an hour. Rivers in the area, such as the Inn and the Ziller, offer rafting possibilities, and there are climbing and adventure parks in the hills. The activities are usually run under supervision of trained guides who provide equipment and instruction.\n\nMind the minimum age, height and fitness that apply to each activity, and book in advance, especially in high season. Weather plays a big role: in rain or high water activities may be cancelled. This page offers a general guide with practical tips; the individual adventures are described below.",
+   "de": "Wer mit älteren Kindern oder Jugendlichen reist, sucht oft etwas Spannenderes als eine Wanderung. In und um Tirol gibt es viel davon: Kletterparks in den Bäumen, Klettersteige, Rafting und Canyoning, Zip-Lines und weitere Outdoor-Aktivitäten. Viele Anbieter richten sich ausdrücklich an Familien und haben Parcours für verschiedene Altersgruppen.\n\nVon Niederau liegen einige Aktivitäten nahe, andere erfordern eine Fahrt von einer halben bis zu einer Stunde. Flüsse der Umgebung wie Inn und Ziller bieten Möglichkeiten zum Rafting, und in den Bergen gibt es Kletter- und Abenteuerparks. Die Durchführung erfolgt meist unter Anleitung ausgebildeter Guides, die Ausrüstung und Einweisung stellen.\n\nBeachten Sie Mindestalter, Körpergröße und Kondition, die je Aktivität gelten, und buchen Sie vorab, besonders in der Hochsaison. Das Wetter spielt eine große Rolle: Bei Regen oder Hochwasser können Aktivitäten ausfallen. Diese Seite bietet einen allgemeinen Leitfaden mit praktischen Tipps; die einzelnen Abenteuer sind unten beschrieben."
+  },
+  "sections": [
+   {
+    "h": {
+     "nl": "Wanneer en voor wie?",
+     "en": "When and for whom?",
+     "de": "Wann und für wen?"
+    },
+    "p": {
+     "nl": "Avontuurlijke activiteiten zijn meestal van mei tot en met september beschikbaar, afhankelijk van aanbieder en weer. Veel aanbieders hanteren een minimumleeftijd en soms een minimumlengte of -gewicht; vraag dat vooraf na. Voor kinderen die van uitdaging houden zijn klimparken een goede start, rafting en canyoning vragen doorgaans meer lef en conditie.",
+     "en": "Adventure activities are generally available from May to September, depending on provider and weather. Many providers set a minimum age and sometimes a minimum height or weight; check this in advance. For children who like a challenge, climbing parks are a good start, while rafting and canyoning generally need more nerve and fitness.",
+     "de": "Abenteuer-Aktivitäten sind meist von Mai bis September verfügbar, je nach Anbieter und Wetter. Viele Anbieter setzen ein Mindestalter und manchmal eine Mindestgröße oder ein Mindestgewicht voraus; erfragen Sie das vorab. Für Kinder, die Herausforderungen mögen, sind Kletterparks ein guter Einstieg, Rafting und Canyoning verlangen meist mehr Mut und Kondition."
+    }
+   },
+   {
+    "h": {
+     "nl": "Veiligheid en voorbereiding",
+     "en": "Safety and preparation",
+     "de": "Sicherheit und Vorbereitung"
+    },
+    "p": {
+     "nl": "Kies een erkende aanbieder die met gecertificeerde gidsen en goed onderhouden materiaal werkt. Luister goed naar de instructie, draag de verstrekte helm en het harnas en overschat jezelf niet. Draag geschikte kleding en schoenen en let op je gezondheid: bij twijfel over conditie, zwangerschap of medische klachten overleg je vooraf met de aanbieder.",
+     "en": "Choose a recognised provider that works with certified guides and well-maintained equipment. Listen carefully to the instructions, wear the supplied helmet and harness and do not overestimate yourself. Wear suitable clothing and shoes and mind your health: if in doubt about fitness, pregnancy or medical conditions, consult the provider beforehand.",
+     "de": "Wählen Sie einen anerkannten Anbieter mit zertifizierten Guides und gut gewartetem Material. Hören Sie der Einweisung aufmerksam zu, tragen Sie den gestellten Helm und das Gurtzeug und überschätzen Sie sich nicht. Tragen Sie passende Kleidung und Schuhe und achten Sie auf Ihre Gesundheit: Bei Zweifeln an Kondition, Schwangerschaft oder gesundheitlichen Problemen sprechen Sie vorab mit dem Anbieter."
+    }
+   }
+  ],
+  "tips": {
+   "nl": [
+    "Reserveer vooraf, zeker in het hoogseizoen.",
+    "Controleer minimumleeftijd en -lengte per activiteit.",
+    "Neem reservekleding en een handdoek mee.",
+    "Draag stevige schoenen en geen losse sieraden.",
+    "Houd een alternatief klaar voor slecht weer."
+   ],
+   "en": [
+    "Book in advance, especially in high season.",
+    "Check minimum age and height for each activity.",
+    "Bring spare clothes and a towel.",
+    "Wear sturdy shoes and no loose jewellery.",
+    "Have a backup plan for bad weather."
+   ],
+   "de": [
+    "Vorab reservieren, besonders in der Hochsaison.",
+    "Mindestalter und -größe je Aktivität prüfen.",
+    "Wechselkleidung und ein Handtuch mitnehmen.",
+    "Feste Schuhe tragen und keinen losen Schmuck.",
+    "Eine Alternative für schlechtes Wetter bereithalten."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "nl": "Vanaf welke leeftijd kunnen kinderen meedoen?",
+     "en": "From what age can children take part?",
+     "de": "Ab welchem Alter können Kinder mitmachen?"
+    },
+    "a": {
+     "nl": "Dat verschilt per activiteit. Klimparken hebben vaak parcours voor jonge kinderen, rafting en canyoning een hogere minimumleeftijd. Vraag het vooraf na.",
+     "en": "It varies by activity. Climbing parks often have courses for young children, while rafting and canyoning have a higher minimum age. Ask in advance.",
+     "de": "Das hängt von der Aktivität ab. Kletterparks haben oft Parcours für kleine Kinder, Rafting und Canyoning ein höheres Mindestalter. Fragen Sie vorab nach."
+    }
+   },
+   {
+    "q": {
+     "nl": "Moet ik van tevoren reserveren?",
+     "en": "Do I need to book in advance?",
+     "de": "Muss ich vorher reservieren?"
+    },
+    "a": {
+     "nl": "Aan te raden, vooral in juli en augustus. Sommige aanbieders werken met vaste starttijden.",
+     "en": "Recommended, especially in July and August. Some providers use fixed start times.",
+     "de": "Empfehlenswert, besonders im Juli und August. Manche Anbieter arbeiten mit festen Startzeiten."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat gebeurt er bij slecht weer?",
+     "en": "What happens in bad weather?",
+     "de": "Was passiert bei schlechtem Wetter?"
+    },
+    "a": {
+     "nl": "Bij onweer, hoog water of zware regen kunnen activiteiten uitvallen. Vraag naar de annuleringsregels voor je boekt.",
+     "en": "In a thunderstorm, high water or heavy rain activities may be cancelled. Ask about cancellation terms before booking.",
+     "de": "Bei Gewitter, Hochwasser oder starkem Regen können Aktivitäten ausfallen. Fragen Sie vor der Buchung nach den Stornoregeln."
+    }
+   }
+  ]
+ },
+ {
+  "kind": "theme",
+  "theme": "dieren",
+  "slug_en": "animals",
+  "slug_de": "tiere",
+  "slug_nl": "dieren",
+  "title": {
+   "nl": "Dieren en natuur voor kinderen rond Niederau",
+   "en": "Animals and nature for children around Niederau",
+   "de": "Tiere und Natur für Kinder rund um Niederau"
+  },
+  "tagline": {
+   "nl": "Boerderijdieren, wildparken en dierenparken in en rond de Wildschönau.",
+   "en": "Farm animals, wildlife parks and zoos in and around the Wildschönau.",
+   "de": "Hoftiere, Wildparks und Tiergärten in und um die Wildschönau."
+  },
+  "intro": {
+   "nl": "Kinderen en dieren, dat is een goede combinatie op vakantie. In de Wildschönau en omgeving kom je dieren op verschillende manieren tegen: koeien, schapen en geiten op de bergweiden, paarden en pony's bij ruitercentra en boerderijen, en in de wijdere regio ook dierentuinen en wildparken. Zo kan een gewone wandeling al een kleine dierenontdekking worden.\n\nEen groot dierenpark in de buurt is de Alpenzoo in Innsbruck, die zich richt op dieren uit het Alpengebied. Daarnaast zijn er kleinere wildparken en boerderijen waar kinderen dieren kunnen zien of soms aaien. Het aanbod verschilt per seizoen, dus controleer vooraf de openingstijden en voorwaarden.\n\nRespect voor dieren is belangrijk. Voed wilde dieren niet, houd afstand van koeien met kalveren en volg de regels van het park of de boerderij. Op deze pagina vind je een algemene gids met praktische tips; de afzonderlijke bestemmingen voor dierenliefhebbers staan hieronder.",
+   "en": "Children and animals make a good combination on holiday. In the Wildschönau and surroundings you meet animals in different ways: cows, sheep and goats on the mountain pastures, horses and ponies at riding centres and farms, and further afield zoos and wildlife parks. An ordinary walk can already become a small animal discovery.\n\nA large zoo nearby is the Alpine Zoo in Innsbruck, which focuses on animals from the Alpine region. There are also smaller wildlife parks and farms where children can see or sometimes pet animals. The offer differs by season, so check opening times and conditions beforehand.\n\nRespect for animals is important. Do not feed wild animals, keep your distance from cows with calves and follow the rules of the park or farm. This page offers a general guide with practical tips; the individual destinations for animal lovers are described below.",
+   "de": "Kinder und Tiere sind im Urlaub eine gute Kombination. In der Wildschönau und Umgebung begegnet man Tieren auf verschiedene Weise: Kühe, Schafe und Ziegen auf den Almen, Pferde und Ponys auf Reiterhöfen und Bauernhöfen, und in der weiteren Region auch Zoos und Wildparks. So kann schon ein gewöhnlicher Spaziergang zur kleinen Tierentdeckung werden.\n\nEin großer Tierpark in der Nähe ist der Alpenzoo Innsbruck, der sich auf Tiere des Alpenraums konzentriert. Daneben gibt es kleinere Wildparks und Bauernhöfe, wo Kinder Tiere sehen oder manchmal streicheln können. Das Angebot ist je nach Saison unterschiedlich, prüfen Sie daher vorab Öffnungszeiten und Bedingungen.\n\nRespekt vor Tieren ist wichtig. Füttern Sie keine Wildtiere, halten Sie Abstand zu Kühen mit Kälbern und befolgen Sie die Regeln des Parks oder Hofes. Diese Seite bietet einen allgemeinen Leitfaden mit praktischen Tipps; die einzelnen Ziele für Tierfreunde sind unten beschrieben."
+  },
+  "sections": [
+   {
+    "h": {
+     "nl": "Wanneer en voor wie?",
+     "en": "When and for whom?",
+     "de": "Wann und für wen?"
+    },
+    "p": {
+     "nl": "Dierenbezoeken zijn het hele jaar mogelijk, maar het aanbod is in het zomerseizoen het grootst. Kleinere kinderen genieten vooral van aaibare dieren en korte bezoeken; oudere kinderen houden van uitleg en voederrondes. Plan niet te veel op één dag, en houd rekening met voedertijden, die per park verschillen.",
+     "en": "Animal visits are possible all year, but the offer is greatest in the summer season. Smaller children especially enjoy animals they can pet and short visits; older children like explanations and feeding rounds. Do not plan too much for one day, and note feeding times, which vary by park.",
+     "de": "Tierbesuche sind das ganze Jahr möglich, doch das Angebot ist im Sommer am größten. Kleinere Kinder mögen vor allem streichelbare Tiere und kurze Besuche; ältere Kinder schätzen Erklärungen und Fütterungen. Planen Sie nicht zu viel für einen Tag und beachten Sie die Fütterungszeiten, die je nach Park abweichen."
+    }
+   },
+   {
+    "h": {
+     "nl": "Regels en veiligheid",
+     "en": "Rules and safety",
+     "de": "Regeln und Sicherheit"
+    },
+    "p": {
+     "nl": "Voed alleen dieren waar dat uitdrukkelijk is toegestaan en met het aangeboden voer. Was na het aaien je handen. Kinderen horen onder toezicht bij dieren te zijn. Op weides kunnen koeien beschermend reageren naar honden en kalveren; houd afstand, loop rustig en laat honden aan de lijn. Sluit hekken achter je.",
+     "en": "Only feed animals where expressly permitted and with the food provided. Wash your hands after petting. Children should be supervised around animals. On pastures cows can react protectively towards dogs and calves; keep your distance, walk calmly and keep dogs on a lead. Close gates behind you.",
+     "de": "Füttern Sie Tiere nur, wo es ausdrücklich erlaubt ist, und mit dem angebotenen Futter. Waschen Sie nach dem Streicheln die Hände. Kinder sollten bei Tieren beaufsichtigt werden. Auf Weiden können Kühe schützend auf Hunde und Kälber reagieren; halten Sie Abstand, gehen Sie ruhig und leinen Sie Hunde an. Schließen Sie Tore hinter sich."
+    }
+   }
+  ],
+  "tips": {
+   "nl": [
+    "Neem oude kleren of laarzen mee voor boerderijbezoek.",
+    "Check de voedertijden vooraf.",
+    "Houd afstand van dieren op de wei.",
+    "Maak er een korte, leuke dag van met een picknick.",
+    "Vraag je accommodatie naar boerderijen in de buurt."
+   ],
+   "en": [
+    "Bring old clothes or boots for a farm visit.",
+    "Check feeding times beforehand.",
+    "Keep your distance from animals on the pasture.",
+    "Make it a short, fun day with a picnic.",
+    "Ask your accommodation about farms nearby."
+   ],
+   "de": [
+    "Alte Kleidung oder Stiefel für den Hofbesuch mitnehmen.",
+    "Fütterungszeiten vorab prüfen.",
+    "Abstand zu Tieren auf der Weide halten.",
+    "Einen kurzen, schönen Tag mit Picknick daraus machen.",
+    "In der Unterkunft nach Höfen in der Nähe fragen."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn er dierenparken in de buurt van Niederau?",
+     "en": "Are there animal parks near Niederau?",
+     "de": "Gibt es Tierparks in der Nähe von Niederau?"
+    },
+    "a": {
+     "nl": "Ja, in de regio zijn dierentuinen en wildparken, zoals de Alpenzoo in Innsbruck. De rijtijd verschilt; informeer vooraf.",
+     "en": "Yes, the region has zoos and wildlife parks, such as the Alpine Zoo in Innsbruck. Driving time varies; check in advance.",
+     "de": "Ja, in der Region gibt es Zoos und Wildparks, etwa den Alpenzoo Innsbruck. Die Fahrzeit ist unterschiedlich; informieren Sie sich vorab."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kunnen kinderen dieren aaien?",
+     "en": "Can children pet the animals?",
+     "de": "Dürfen Kinder Tiere streicheln?"
+    },
+    "a": {
+     "nl": "Soms wel, vooral op boerderijen of in kinderboerderijachtige delen van parken. Vraag het ter plaatse en volg de aanwijzingen.",
+     "en": "Sometimes, especially on farms or in petting areas of parks. Ask on site and follow instructions.",
+     "de": "Manchmal schon, vor allem auf Höfen oder in Streichelbereichen von Parks. Fragen Sie vor Ort und folgen Sie den Anweisungen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is het veilig om langs koeien te wandelen?",
+     "en": "Is it safe to walk past cows?",
+     "de": "Ist es sicher, an Kühen vorbeizuwandern?"
+    },
+    "a": {
+     "nl": "Over het algemeen wel, maar wees voorzichtig. Houd afstand, vooral bij kalveren, wandel rustig en neem honden aan de lijn.",
+     "en": "Generally yes, but be careful. Keep your distance, especially near calves, walk calmly and keep dogs on a lead.",
+     "de": "Im Allgemeinen ja, aber seien Sie vorsichtig. Halten Sie Abstand, besonders bei Kälbern, gehen Sie ruhig und leinen Sie Hunde an."
+    }
+   }
+  ]
+ },
+ {
+  "kind": "hub",
+  "scope": "activities",
+  "slug_nl": "activiteiten",
+  "slug_en": "activities",
+  "slug_de": "aktivitaeten",
+  "title": {
+   "nl": "Activiteiten in en rond Niederau",
+   "en": "Activities in and around Niederau",
+   "de": "Aktivitäten in und um Niederau"
+  },
+  "tagline": {
+   "nl": "Alles om te doen met het gezin, zomer en winter, rond de Wildschönau.",
+   "en": "Everything to do with the family, summer and winter, around the Wildschönau.",
+   "de": "Alles für die Familie, Sommer und Winter, rund um die Wildschönau."
+  },
+  "intro": {
+   "nl": "Niederau ligt in het hart van de Wildschönau, op een prettige afstand van het Inntal, het Alpbachtal en de Kitzbüheler Alpen. Dat maakt het een goede uitvalsbasis voor een gezinsvakantie met afwisseling: een dag wandelen of fietsen, een middag bij een bergmeer, een uitstapje naar een dierenpark of, in de winter, skiën en sleeën.\n\nOp deze pagina vind je de activiteiten geordend per thema, van wandelen en zwemmen tot avontuur en dieren. Per thema lees je eerst een algemene gids met praktische tips, daarna volgen de afzonderlijke uitstapjes met een indicatie van de afstand vanaf Niederau. Kijk altijd even naar het seizoen, het weer en de actuele openingstijden voordat je op pad gaat.",
+   "en": "Niederau lies in the heart of the Wildschönau, at a comfortable distance from the Inn Valley, the Alpbachtal and the Kitzbühel Alps. That makes it a good base for a family holiday with variety: a day of walking or cycling, an afternoon at a mountain lake, a trip to an animal park or, in winter, skiing and sledging.\n\nOn this page you will find the activities arranged by theme, from hiking and swimming to adventure and animals. Each theme starts with a general guide with practical tips, followed by the individual outings with an indication of the distance from Niederau. Always check the season, the weather and current opening times before setting off.",
+   "de": "Niederau liegt im Herzen der Wildschönau, in angenehmer Entfernung zum Inntal, zum Alpbachtal und zu den Kitzbüheler Alpen. Das macht den Ort zu einem guten Ausgangspunkt für einen abwechslungsreichen Familienurlaub: ein Tag Wandern oder Radfahren, ein Nachmittag an einem Bergsee, ein Ausflug in einen Tierpark oder im Winter Skifahren und Rodeln.\n\nAuf dieser Seite finden Sie die Aktivitäten nach Themen geordnet, von Wandern und Schwimmen bis zu Abenteuer und Tieren. Jedes Thema beginnt mit einem allgemeinen Leitfaden samt praktischen Tipps, danach folgen die einzelnen Ausflüge mit einer Angabe der Entfernung von Niederau. Prüfen Sie vor dem Aufbruch stets Saison, Wetter und aktuelle Öffnungszeiten."
+  }
+ }
+]

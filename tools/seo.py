@@ -147,6 +147,13 @@ urls += "".join(f'''  <url><loc>{u}</loc><lastmod>{TODAY}</lastmod>
     <image:image><image:loc>{BASE}/assets/img/niederau-markbachjochbahn-gondel.webp</image:loc></image:image>
     <image:image><image:loc>{BASE}/assets/img/niederau-skien-markbachjoch.webp</image:loc></image:image></url>
 ''' for u in (f"{BASE}/markbachjoch/", f"{BASE}/en/markbachjoch/", f"{BASE}/de/markbachjoch/"))
+
+_reg = ROOT / "tools" / "data" / "_registry.json"
+if _reg.exists():
+    for ent in json.loads(_reg.read_text(encoding="utf-8")):
+        u = ent["urls"]
+        alts = "".join(f'<xhtml:link rel="alternate" hreflang="{c}" href="{BASE}{u[c]}"/>' for c in ("nl", "en", "de")) + f'<xhtml:link rel="alternate" hreflang="x-default" href="{BASE}{u["en"]}"/>'
+        urls += "".join(f"  <url><loc>{BASE}{u[c]}</loc><lastmod>{TODAY}</lastmod>{alts}</url>\n" for c in ("nl", "en", "de"))
 (ROOT / "sitemap.xml").write_text(f'''<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 {urls}</urlset>
@@ -208,6 +215,10 @@ urls += "".join(f'''  <url><loc>{u}</loc><lastmod>{TODAY}</lastmod>
 - The Markbachjoch (summit about 1,496 m) is the house mountain of Niederau and has the oldest mountain lift of the Wildschönau: the first chairlift in Tyrol opened here on 14 January 1947 (construction began 1946, engineer Sepp Hochmuth; self-built with wooden boards, wires, water pipes and an old tank engine). A two-person chairlift (Swoboda) followed in 1972; since 1995 the eight-person gondola Markbachjochbahn (Doppelmayr, ride about 6 minutes, about 1,200 persons/hour) runs from Niederau. 75th anniversary in 2022.
 - Huts and restaurants: Rübezahl-Hütte (panorama inn with sun terrace near the top station), Markbachjochalm (playground, petting zoo), Schnapshütte (snack bar at the valley station), Norderbergalm (about 1,360 m, roughly 30 minutes' walk). Opening times vary by season.
 - Summer: hiking to the Rosskopf (via Halsgatterl) or Feldalphorn, forest-edge walk to Penningdörfl, paragliding take-off below the hut. Winter: wide sunny slopes for beginners and families, steeper north slopes (Hochberg run).
+
+## Activities and places (own pages, NL/EN/DE)
+- Activity guide by theme (hiking, swimming, skiing, winter fun, cycling, adventure, animals, culture, attractions, day trips, wellness, workshops, golf): {BASE}/en/activities/ (NL {BASE}/activiteiten/, DE {BASE}/de/aktivitaeten/). Each activity has its own page with facts, tips and FAQ. Information is indicative; times and prices change, check with the provider.
+- Places and regions around Niederau (Wildschönau, Alpbachtal, Brixental and Kitzbühel Alps, Kufsteinerland and Wilder Kaiser, Inn valley incl. Innsbruck, Zillertal incl. Mayrhofen and Hintertux): {BASE}/en/nearby/ (NL {BASE}/omgeving/, DE {BASE}/de/umgebung/).
 
 ## Tourist office
 - Wildschönau Tourismus (tourist office for Niederau and the whole valley): Hauserweg, Oberau 337, 6311 Wildschönau, +43 5339 8255, info@wildschoenau.com, https://www.wildschoenau.com/ – accommodation in all four villages, events, lift and trail information.

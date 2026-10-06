@@ -1,0 +1,2132 @@
+[
+ {
+  "id": "w45",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "alphorn-trial-lesson",
+  "slug_de": "alphorn-schnupperkurs",
+  "title": {
+   "nl": "Alphorn proberen",
+   "en": "Try the alphorn",
+   "de": "Alphorn ausprobieren"
+  },
+  "tagline": {
+   "nl": "Kennismaken met het iconische instrument van de Alpen",
+   "en": "An introduction to the Alps' most iconic instrument",
+   "de": "Erste Töne auf dem Instrument der Alpen"
+  },
+  "intro": {
+   "nl": "Het alphorn is een lange houten hoorn die in de Alpen al eeuwenlang wordt gebruikt en een diepe, ver dragende klank heeft. In een proefles maak je kennis met het instrument: hoe je de lippen en de adem gebruikt en hoe je de eerste tonen laat klinken.\n\nVolgens de bron wordt de les gegeven door een lokale muzikant in een zaal van een hotel in Niederau en is het vooral in het winterseizoen op bepaalde dagen te doen. Kinderen vinden het vaak grappig en spannend tegelijk. Of en wanneer er een les is, wisselt; informeer vooraf bij uw accommodatie of de toeristische dienst.",
+   "en": "The alphorn is a long wooden horn that has been used in the Alps for centuries and has a deep, far-carrying sound. A trial lesson introduces the instrument: how to use lips and breath, and how to produce the first notes.\n\nAccording to the source the lesson is given by a local musician in a hotel room in Niederau, mainly in the winter season on certain days. Children often find it funny and exciting at once. Whether and when a lesson takes place varies; ask your accommodation or the tourist office beforehand.",
+   "de": "Das Alphorn ist ein langes Holzhorn, das in den Alpen seit Jahrhunderten gespielt wird und einen tiefen, weittragenden Klang hat. In einer Schnupperstunde lernt man das Instrument kennen: wie man Lippen und Atem einsetzt und die ersten Töne hervorbringt.\n\nLaut Quelle gibt ein örtlicher Musiker die Stunde in einem Hotelraum in Niederau, vor allem im Winter an bestimmten Tagen. Kinder finden es oft lustig und spannend zugleich. Ob und wann eine Stunde stattfindet, wechselt; vorab bei der Unterkunft oder dem Tourismusverband nachfragen."
+  },
+  "tips": {
+   "nl": [
+    "Aanmelden is vooraf nodig; vraag naar tijden.",
+    "Een foto met het alphorn is een leuke herinnering.",
+    "Luister ook naar een demonstratie door de muzikant.",
+    "Plan de les als binnenprogramma op een koude dag."
+   ],
+   "en": [
+    "Booking beforehand is needed; ask about times.",
+    "A photo with the alphorn makes a nice memento.",
+    "Also listen to a demonstration by the musician.",
+    "Plan the lesson as an indoor activity on a cold day."
+   ],
+   "de": [
+    "Eine vorherige Anmeldung ist nötig; nach Zeiten fragen.",
+    "Ein Foto mit dem Alphorn ist eine schöne Erinnerung.",
+    "Auch einer Vorführung des Musikers zuhören.",
+    "Die Stunde als Indoor-Programm an einem kalten Tag einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "De les vindt plaats in Niederau zelf, dus je hoeft niet ver te reizen. Het aanbod is seizoensgebonden; vraag naar de actuele dagen en de prijs.",
+   "en": "The lesson takes place in Niederau itself, so there is no travel. The offer is seasonal; ask about current days and price.",
+   "de": "Die Stunde findet in Niederau selbst statt, eine Anreise ist daher nicht nötig. Das Angebot ist saisonal; nach aktuellen Tagen und Preis fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From about 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 45 minuten",
+    "en": "About 45 minutes",
+    "de": "Ca. 45 Minuten"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Vooral winter; informeer vooraf",
+    "en": "Mainly winter; check beforehand",
+    "de": "Vor allem Winter; vorab informieren"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe oud moet je zijn voor een alphornles?",
+     "en": "How old do you need to be for an alphorn lesson?",
+     "de": "Wie alt muss man für eine Alphornstunde sein?"
+    },
+    "a": {
+     "nl": "Volgens de bron vanaf ca. 8 jaar; vraag dit vooraf na.",
+     "en": "According to the source from about 8 years; confirm beforehand.",
+     "de": "Laut Quelle ab ca. 8 Jahren; vorab bestätigen lassen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s152",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kufstein",
+  "slug_en": "day-trip-munich-by-train",
+  "slug_de": "tagesausflug-muenchen-mit-dem-zug",
+  "title": {
+   "nl": "Dagtrip München per trein",
+   "en": "Day trip to Munich by train",
+   "de": "Tagesausflug nach München mit dem Zug"
+  },
+  "tagline": {
+   "nl": "Een stadsdag in Beieren: Marienplatz, Englischer Garten en musea",
+   "en": "A city day in Bavaria: Marienplatz, Englischer Garten and museums",
+   "de": "Ein Stadttag in Bayern: Marienplatz, Englischer Garten und Museen"
+  },
+  "intro": {
+   "nl": "München ligt op ruim een uur treinen vanaf Wörgl en is daarmee een goed te combineren dagje weg vanuit Niederau. De Beierse hoofdstad heeft een autovrij centrum rond de Marienplatz, waar het carillon van het Neue Rathaus op vaste tijden speelt, en grote parken zoals de Englischer Garten, waar surfers op de Eisbach de golf berijden.\n\nVoor gezinnen is er veel te kiezen: het Deutsches Museum met veel doe-opstellingen, de dierentuin Hellabrunn of een middag in een van de beierse biergarten. Wie met de trein gaat, hoeft niet te zoeken naar parkeerplaats; een lange dag is wel verstandig, want er is genoeg voor meerdere bezoeken.",
+   "en": "Munich is little more than an hour by train from Wörgl, which makes it a feasible day out from Niederau. The Bavarian capital has a largely pedestrianised centre around Marienplatz, where the carillon of the New Town Hall plays at set times, and big green spaces such as the Englischer Garten, where surfers ride the standing wave on the Eisbach.\n\nFamilies have plenty to choose from: the Deutsches Museum with its many hands-on exhibits, Hellabrunn Zoo, or an afternoon in a traditional beer garden. Going by train means no hunting for parking, and a full day is wise, as there is enough to fill several visits.",
+   "de": "München ist von Wörgl aus mit dem Zug in gut einer Stunde erreichbar und lässt sich daher gut als Tagesausflug von Niederau aus einplanen. Die bayerische Landeshauptstadt hat eine weitgehend autofreie Altstadt rund um den Marienplatz, wo das Glockenspiel des Neuen Rathauses zu festen Zeiten spielt, sowie große Grünflächen wie den Englischen Garten, in dem Surfer auf der Eisbachwelle reiten.\n\nFamilien finden viel Auswahl: das Deutsche Museum mit zahlreichen Mitmach-Stationen, den Tierpark Hellabrunn oder einen Nachmittag in einem klassischen Biergarten. Wer mit dem Zug fährt, spart sich die Parkplatzsuche; ein langer Tag ist ratsam, denn es gibt Stoff für mehrere Besuche."
+  },
+  "tips": {
+   "nl": [
+    "Het carillon op de Marienplatz speelt volgens de gangbare informatie rond 11 en 12 uur; controleer de actuele tijden.",
+    "Kijk vooraf naar dagkaarten en groepstickets voor de trein; de voorwaarden wisselen.",
+    "Plan één of twee hoofdbezoeken (bijvoorbeeld museum en park) in plaats van alles.",
+    "De Eisbach-golf in de Englischer Garten is gratis te bekijken vanaf de brug."
+   ],
+   "en": [
+    "The carillon on Marienplatz plays around 11 am and 12 noon according to common information; check current times.",
+    "Look into day tickets and group fares for the train beforehand; conditions change.",
+    "Plan one or two main visits (for example a museum and the park) rather than everything.",
+    "The Eisbach wave in the Englischer Garten can be watched for free from the bridge."
+   ],
+   "de": [
+    "Das Glockenspiel am Marienplatz spielt nach gängigen Angaben gegen 11 und 12 Uhr; aktuelle Zeiten bitte prüfen.",
+    "Vorab Tages- und Gruppentickets für die Bahn vergleichen; die Bedingungen ändern sich.",
+    "Lieber ein bis zwei Hauptziele (z. B. Museum und Park) einplanen als alles.",
+    "Die Eisbachwelle im Englischen Garten kann man kostenlos von der Brücke aus ansehen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Wörgl Hbf duurt de treinrit naar München Hbf ca. 1 uur en 15 minuten; Wörgl ligt ca. 20 minuten rijden van Niederau. Met de auto is München ca. 1,5 tot 2 uur rijden, afhankelijk van drukte en grensverkeer.",
+   "en": "From Wörgl Hbf the train to Munich Hbf takes about 1 hour 15 minutes; Wörgl is roughly 20 minutes by car from Niederau. By car Munich is about 1.5 to 2 hours away, depending on traffic and border queues.",
+   "de": "Von Wörgl Hbf dauert die Zugfahrt nach München Hbf etwa 1 Stunde 15 Minuten; Wörgl liegt rund 20 Minuten Autofahrt von Niederau entfernt. Mit dem Auto ist München je nach Verkehr und Grenzstau etwa 1,5 bis 2 Stunden entfernt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganztägig"
+   },
+   "price": {
+    "nl": "Treinkaartje en entrees wisselen; informeer vooraf naar dagkaarten",
+    "en": "Train fares and admissions vary; check day tickets beforehand",
+    "de": "Bahnpreise und Eintritte variieren; Tagestickets vorab prüfen"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 tot 2 uur rijden, of ca. 20 min naar Wörgl plus ca. 1 u 15 trein",
+    "en": "About 1.5 to 2 hours by car, or about 20 min to Wörgl plus about 1 h 15 by train",
+    "de": "Ca. 1,5 bis 2 Std. mit dem Auto oder ca. 20 Min. nach Wörgl plus ca. 1 Std. 15 Min. Zug"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "München, Duitsland",
+   "en": "Munich, Germany",
+   "de": "München, Deutschland"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang duurt de trein van Wörgl naar München?",
+     "en": "How long is the train from Wörgl to Munich?",
+     "de": "Wie lange dauert die Zugfahrt von Wörgl nach München?"
+    },
+    "a": {
+     "nl": "Ongeveer 1 uur en 15 minuten naar München Hbf. Reken daarbij ca. 20 minuten rit van Niederau naar Wörgl.",
+     "en": "About 1 hour 15 minutes to Munich Hbf. Add roughly 20 minutes' drive from Niederau to Wörgl.",
+     "de": "Etwa 1 Stunde 15 Minuten bis München Hbf. Dazu kommen rund 20 Minuten Fahrt von Niederau nach Wörgl."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s153",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "day-trip-innsbruck",
+  "slug_de": "tagesausflug-innsbruck",
+  "title": {
+   "nl": "Dagtrip Innsbruck",
+   "en": "Day trip to Innsbruck",
+   "de": "Tagesausflug nach Innsbruck"
+  },
+  "tagline": {
+   "nl": "Tiroler hoofdstad met oude binnenstad, Gouden Dakje en bergbaan",
+   "en": "The Tyrolean capital with its old town, Golden Roof and mountain railway",
+   "de": "Tirols Hauptstadt mit Altstadt, Goldenem Dachl und Bergbahn"
+  },
+  "intro": {
+   "nl": "Innsbruck ligt op ca. een uur van Niederau en combineert een middeleeuwse binnenstad met bergen die letterlijk boven de straten oprijzen. Rond de smalle straten van de Altstadt staat het Goldenes Dachl, een erker met een verguld dak uit de late middeleeuwen, vlakbij de keizerlijke Hofburg.\n\nMet de Nordkettenbahn vanaf het centrum kom je in korte tijd op grote hoogte, waar het uitzicht over de stad en de Inntal reikt. Kinderen vinden de Alpenzoo en de oude binnenstad vaak de leukste onderdelen. Parkeren in het centrum is beperkt en kan duur zijn; park-and-ride of de trein vanaf Wörgl is vaak praktischer.",
+   "en": "Innsbruck is about an hour from Niederau and pairs a medieval old town with mountains that rise right above the streets. In the narrow lanes of the Altstadt stands the Goldenes Dachl, a late-medieval oriel with a gilded roof, close to the imperial Hofburg.\n\nThe Nordkettenbahn from the centre takes you to high altitude quickly, with views across the city and the Inn valley. Children often enjoy the Alpine Zoo and the old town most. Parking in the centre is limited and can be expensive; park and ride, or the train from Wörgl, is often more practical.",
+   "de": "Innsbruck liegt rund eine Stunde von Niederau entfernt und verbindet eine mittelalterliche Altstadt mit Bergen, die direkt über den Straßen aufragen. In den engen Gassen der Altstadt steht das Goldene Dachl, ein spätmittelalterlicher Erker mit vergoldetem Dach, unweit der kaiserlichen Hofburg.\n\nMit der Nordkettenbahn ab dem Zentrum gelangt man rasch in große Höhe, mit Blick über die Stadt und das Inntal. Kinder mögen oft den Alpenzoo und die Altstadt am meisten. Parkplätze im Zentrum sind begrenzt und teils teuer; Park & Ride oder die Bahn ab Wörgl sind oft praktischer."
+  },
+  "tips": {
+   "nl": [
+    "Kom bij voorkeur met de trein of gebruik een P+R; parkeren in het centrum is lastig.",
+    "Vraag naar de Innsbruck Card als je meerdere bezienswaardigheden wilt bezoeken; reken zelf na of dat loont.",
+    "Combineer de oude binnenstad met een bezoek aan Hofburg of Alpenzoo.",
+    "Let bij de bergbaan op het weer; bij mist is het uitzicht beperkt."
+   ],
+   "en": [
+    "Take the train or use a park and ride; parking in the centre is tricky.",
+    "Ask about the Innsbruck Card if you want to see several sights; work out yourself whether it pays off.",
+    "Combine the old town with a visit to the Hofburg or the Alpine Zoo.",
+    "Check the weather before taking the mountain railway; in fog the view is limited."
+   ],
+   "de": [
+    "Am besten mit der Bahn anreisen oder Park & Ride nutzen; Parken im Zentrum ist schwierig.",
+    "Zur Innsbruck Card informieren, wenn mehrere Sehenswürdigkeiten geplant sind; selbst nachrechnen, ob sie sich lohnt.",
+    "Altstadt mit einem Besuch der Hofburg oder des Alpenzoos verbinden.",
+    "Vor der Bergbahn das Wetter prüfen; bei Nebel ist die Aussicht eingeschränkt."
+   ]
+  },
+  "practical": {
+   "nl": "Met de auto is Innsbruck ca. 50 tot 60 minuten rijden via de A12 (Oostenrijkse vignet nodig). De trein vanaf Wörgl Hbf doet er ruim een halfuur over; Wörgl ligt ca. 20 minuten van Niederau.",
+   "en": "By car Innsbruck is about 50 to 60 minutes along the A12 (Austrian motorway vignette required). The train from Wörgl Hbf takes a little over half an hour; Wörgl is about 20 minutes from Niederau.",
+   "de": "Mit dem Auto ist Innsbruck über die A12 in ca. 50 bis 60 Minuten erreichbar (österreichische Vignette nötig). Der Zug ab Wörgl Hbf braucht gut eine halbe Stunde; Wörgl liegt etwa 20 Minuten von Niederau entfernt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganztägig"
+   },
+   "price": {
+    "nl": "Wisselt per bezienswaardigheid; informeer vooraf",
+    "en": "Varies by sight; check beforehand",
+    "de": "Je nach Sehenswürdigkeit unterschiedlich; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 tot 60 min rijden",
+    "en": "About 50 to 60 min by car",
+    "de": "Ca. 50 bis 60 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck, Tirol",
+   "en": "Innsbruck, Tyrol",
+   "de": "Innsbruck, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Innsbruck beter met trein of auto te bezoeken?",
+     "en": "Is Innsbruck better visited by train or car?",
+     "de": "Ist Innsbruck besser mit Bahn oder Auto zu besuchen?"
+    },
+    "a": {
+     "nl": "De trein vanaf Wörgl is vaak het gemakkelijkst, omdat parkeren in het centrum beperkt is. Met de auto kun je een P+R gebruiken.",
+     "en": "The train from Wörgl is often easiest because parking in the centre is limited. By car you can use a park and ride.",
+     "de": "Die Bahn ab Wörgl ist oft am bequemsten, da Parkplätze im Zentrum begrenzt sind. Mit dem Auto bietet sich Park & Ride an."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s204",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kufstein",
+  "slug_en": "berchtesgaden-day-trip",
+  "slug_de": "tagesausflug-berchtesgaden",
+  "title": {
+   "nl": "Berchtesgaden en Königssee",
+   "en": "Berchtesgaden and Königssee",
+   "de": "Berchtesgaden und Königssee"
+  },
+  "tagline": {
+   "nl": "Dagtocht naar het Duitse Berchtesgadener Land met bergmeer en zoutmijn",
+   "en": "Day trip to Germany's Berchtesgadener Land with an alpine lake and salt mine",
+   "de": "Tagesausflug ins Berchtesgadener Land mit Bergsee und Salzbergwerk"
+  },
+  "intro": {
+   "nl": "Het Berchtesgadener Land ligt net over de Duitse grens, ten zuidoosten van Salzburg, en is een van de bekendste gebieden van de Beierse Alpen. Het Königssee is een smal, diep bergmeer waar alleen elektrisch aangedreven boten varen; de tocht gaat naar de kapel van St. Bartholomä, een bekend plekje aan het water.\n\nDaarnaast zijn er het Salzbergwerk, waar bezoekers met mijnwerkerskleding de mijn in gaan, en het Kehlsteinhaus, dat via een speciale bus en lift wordt bereikt. Het is een lange dag, dus begin vroeg en kies twee, hooguit drie onderdelen; in het hoogseizoen kunnen er drukte en wachttijden zijn.",
+   "en": "The Berchtesgadener Land lies just across the German border, south-east of Salzburg, and is one of the best-known areas of the Bavarian Alps. The Königssee is a narrow, deep mountain lake where only electric boats operate; the trip goes to the chapel of St. Bartholomä, a well-known spot on the shore.\n\nOther options are the salt mine, where visitors put on miners' clothing and go underground, and the Kehlsteinhaus, reached by a special bus and a lift. It is a long day, so start early and choose two, at most three, parts; in high season expect crowds and queues.",
+   "de": "Das Berchtesgadener Land liegt direkt hinter der deutschen Grenze, südöstlich von Salzburg, und gehört zu den bekanntesten Gebieten der Bayerischen Alpen. Der Königssee ist ein schmaler, tiefer Bergsee, auf dem nur Elektroboote fahren; die Fahrt führt zur Kapelle St. Bartholomä, einem bekannten Ort am Ufer.\n\nWeitere Ziele sind das Salzbergwerk, in dem Besucher in Bergmannskleidung einfahren, und das Kehlsteinhaus, das mit einem Spezialbus und einem Aufzug erreicht wird. Es ist ein langer Tag, daher früh starten und zwei, höchstens drei Programmpunkte wählen; in der Hochsaison muss man mit Andrang und Wartezeiten rechnen."
+  },
+  "tips": {
+   "nl": [
+    "Vertrek vroeg; parkeren en bootkaartjes lopen in het hoogseizoen snel vol.",
+    "Kijk vooraf op de website van de aanbieders naar openingstijden, want de Kehlstein-weg is seizoensgebonden.",
+    "Neem een warme jas mee; op het water en in de zoutmijn is het koel.",
+    "Controleer bij een route over Duits grondgebied de actuele regels voor tol en grensverkeer."
+   ],
+   "en": [
+    "Leave early; parking and boat tickets fill up quickly in high season.",
+    "Check opening times on the operators' websites beforehand, as the Kehlstein road is seasonal.",
+    "Bring a warm jacket; it is cool on the water and in the salt mine.",
+    "If you route over German territory, check current rules on tolls and border traffic."
+   ],
+   "de": [
+    "Früh losfahren; Parkplätze und Bootstickets sind in der Hochsaison schnell vergeben.",
+    "Öffnungszeiten vorab bei den Betreibern prüfen, da die Kehlsteinstraße saisonal ist.",
+    "Eine warme Jacke mitnehmen; auf dem Wasser und im Salzbergwerk ist es kühl.",
+    "Bei einer Route über deutsches Gebiet aktuelle Regeln zu Maut und Grenzverkehr prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is Berchtesgaden ca. 1,5 tot 2 uur rijden, afhankelijk van verkeer en grensdrukte. Rij bij voorkeur vroeg, parkeer bij de Königssee-aanlegsteiger en reserveer waar mogelijk.",
+   "en": "From Niederau, Berchtesgaden is about 1.5 to 2 hours by car, depending on traffic and border queues. Drive early, park near the Königssee landing stage and book ahead where possible.",
+   "de": "Von Niederau ist Berchtesgaden je nach Verkehr und Grenzstau ca. 1,5 bis 2 Stunden entfernt. Früh losfahren, am Königssee-Anleger parken und, wo möglich, vorab buchen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganztägig"
+   },
+   "price": {
+    "nl": "Bootkaartje en entrees wisselen; informeer vooraf",
+    "en": "Boat fares and admissions vary; check beforehand",
+    "de": "Bootspreise und Eintritte variieren; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 1,5 tot 2 uur rijden",
+    "en": "About 1.5 to 2 hours by car",
+    "de": "Ca. 1,5 bis 2 Std. mit dem Auto"
+   },
+   "season": {
+    "nl": "Voornamelijk lente tot herfst; sommige onderdelen hele jaar",
+    "en": "Mainly spring to autumn; some parts all year",
+    "de": "Hauptsächlich Frühling bis Herbst; einige Angebote ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Berchtesgaden, Beieren (Duitsland)",
+   "en": "Berchtesgaden, Bavaria (Germany)",
+   "de": "Berchtesgaden, Bayern (Deutschland)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je op het Königssee met een motorboot varen?",
+     "en": "Can you take a motorboat on the Königssee?",
+     "de": "Darf man auf dem Königssee mit einem Motorboot fahren?"
+    },
+    "a": {
+     "nl": "Nee, op het meer varen alleen elektrische boten van de lokale rederij.",
+     "en": "No, only electric boats of the local operator run on the lake.",
+     "de": "Nein, auf dem See verkehren nur Elektroboote des örtlichen Betreibers."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s66",
+  "drop": true,
+  "drop_reason": "Dubbel van s153 (Dagtrip Innsbruck); stadswandeling is daarin opgenomen.",
+  "verified": false
+ },
+ {
+  "id": "s81",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "kitzbuehel-old-town-walk",
+  "slug_de": "kitzbuehel-altstadt-spaziergang",
+  "title": {
+   "nl": "Kitzbühel: wandeling door de oude stad",
+   "en": "Kitzbühel old town walk",
+   "de": "Kitzbühel: Altstadtspaziergang"
+  },
+  "tagline": {
+   "nl": "Pastelkleurige gevels, kerkjes en winkelstraatjes in de Gamsstadt",
+   "en": "Pastel façades, churches and shopping lanes in the Gams town",
+   "de": "Pastellfarbene Fassaden, Kirchen und Einkaufsgassen in der Gamsstadt"
+  },
+  "intro": {
+   "nl": "Kitzbühel is vooral bekend van de wintersport en de Hahnenkamm-races, maar de oude binnenstad is ook zonder ski's het bezoeken waard. De Vorderstadt en Hinterstadt hebben gebouwen met kleurige gevels, uithangborden, koffiehuizen en winkels; er staan een paar kerken, waaronder de Liebfrauenkirche en de Pfarrkirche.\n\nEen wandeling door het autovrije centrum duurt ongeveer twee tot drie uur met stops. Het is een rustig programma voor een dag met minder goed weer of voor tussendoor tussen de skipistes. Kinderen kunnen er terecht in ijssalons en bij de lokale speeltuinen; entree voor het wandelen zelf is niet nodig.",
+   "en": "Kitzbühel is best known for winter sports and the Hahnenkamm races, but its old town is worth a visit even without skis. The Vorderstadt and Hinterstadt streets have buildings with colourful façades, hanging signs, cafés and shops; several churches stand there, including the Liebfrauenkirche and the parish church.\n\nA stroll through the largely car-free centre takes about two to three hours with stops. It is a calm programme for a day with poorer weather or a break between ski days. Children can find ice-cream parlours and playgrounds, and walking the streets itself costs nothing.",
+   "de": "Kitzbühel ist vor allem für Wintersport und das Hahnenkammrennen bekannt, doch auch die Altstadt ist ohne Ski einen Besuch wert. In der Vorderstadt und Hinterstadt stehen Häuser mit bunten Fassaden, Ausleger-Schildern, Cafés und Läden; mehrere Kirchen, darunter die Liebfrauenkirche und die Pfarrkirche, prägen das Bild.\n\nEin Bummel durch das weitgehend autofreie Zentrum dauert mit Pausen etwa zwei bis drei Stunden. Es ist ein ruhiges Programm für einen Tag mit schlechterem Wetter oder als Abwechslung zwischen Skitagen. Kinder finden Eisdielen und Spielplätze; das Flanieren selbst kostet nichts."
+  },
+  "tips": {
+   "nl": [
+    "Parkeer in een garage aan de rand en loop het laatste stuk.",
+    "Combineer de stad met het Museum Kitzbühel of een kaffeepauze.",
+    "Kijk naar actuele evenementen in de stad voor een bezoek.",
+    "Plan in de zomer ook een bergbaan of het meer Schwarzsee in."
+   ],
+   "en": [
+    "Park in a car park on the edge and walk the last stretch.",
+    "Combine the town with the Museum Kitzbühel or a coffee break.",
+    "Look up current events in the town before visiting.",
+    "In summer, consider adding a mountain lift or Schwarzsee lake."
+   ],
+   "de": [
+    "In einem Parkhaus am Rand parken und das letzte Stück gehen.",
+    "Die Stadt mit dem Museum Kitzbühel oder einer Kaffeepause verbinden.",
+    "Vor dem Besuch aktuelle Veranstaltungen in der Stadt prüfen.",
+    "Im Sommer zusätzlich eine Bergbahn oder den Schwarzsee einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Kitzbühel ligt ca. 40 tot 45 minuten rijden van Niederau, via Wörgl en de Brixentaler route. Parkeren kan in garages; het centrum zelf is grotendeels voetgangersgebied.",
+   "en": "Kitzbühel is about 40 to 45 minutes' drive from Niederau, via Wörgl and the Brixental road. Parking is possible in car parks; the centre itself is largely pedestrianised.",
+   "de": "Kitzbühel liegt etwa 40 bis 45 Fahrminuten von Niederau entfernt, über Wörgl und das Brixental. Geparkt wird in Parkhäusern; das Zentrum selbst ist weitgehend Fußgängerzone."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Wandelen is gratis; parkeren en consumpties zijn extra",
+    "en": "Walking is free; parking and refreshments extra",
+    "de": "Spazieren kostenlos; Parken und Verzehr extra"
+   },
+   "distance": {
+    "nl": "Ca. 40 tot 45 min rijden",
+    "en": "About 40 to 45 min by car",
+    "de": "Ca. 40 bis 45 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel, Tirol",
+   "en": "Kitzbühel, Tyrol",
+   "de": "Kitzbühel, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de binnenstad van Kitzbühel autovrij?",
+     "en": "Is Kitzbühel's old town car-free?",
+     "de": "Ist die Kitzbüheler Altstadt autofrei?"
+    },
+    "a": {
+     "nl": "Grotendeels wel; het centrum is voor het grootste deel voetgangersgebied, dus parkeer je in een garage in de buurt.",
+     "en": "Largely, yes; the centre is mostly pedestrianised, so park in a nearby car park.",
+     "de": "Weitgehend ja; das Zentrum ist größtenteils Fußgängerzone, daher in einem nahen Parkhaus parken."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s93",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "hofburg-innsbruck",
+  "slug_de": "hofburg-innsbruck",
+  "title": {
+   "nl": "Hofburg Innsbruck",
+   "en": "Hofburg Innsbruck",
+   "de": "Hofburg Innsbruck"
+  },
+  "tagline": {
+   "nl": "Keizerlijk paleis met staatsvertrekken uit de tijd van Maria Theresia",
+   "en": "Imperial palace with state rooms from the era of Maria Theresa",
+   "de": "Kaiserliche Residenz mit Prunkräumen aus der Zeit Maria Theresias"
+  },
+  "intro": {
+   "nl": "De Hofburg aan de rand van de Innsbrucker oude stad was een Habsburgse residentie. Keizerin Maria Theresia liet het gebouw in de 18e eeuw verbouwen tot een laat-barokke en rococo-achtige residentie; die stijl is nog steeds te zien.\n\nBezoekers lopen door de staatsvertrekken en de keizerlijke appartementen. Het meest opvallend is de Riesensaal, met portretten van Maria Theresia, haar man en hun kinderen. Voor kinderen is het vooral een verhalenmuseum over het leven aan het hof; plan er ca. anderhalf uur voor. Het paleis is toegankelijk, en tegenover het gebouw ligt de Hofgarten, handig voor een pauze.",
+   "en": "The Hofburg at the edge of Innsbruck's old town was a Habsburg residence. In the 18th century Empress Maria Theresa had it rebuilt into a late-Baroque, rococo-style residence; that style can still be seen today.\n\nVisitors walk through the state rooms and the imperial apartments. Most striking is the Giant Hall (Riesensaal), with portraits of Maria Theresa, her husband and their children. For children it is mainly a storytelling museum about court life; allow about an hour and a half. The palace is accessible, and the Hofgarten opposite is handy for a break.",
+   "de": "Die Hofburg am Rand der Innsbrucker Altstadt war eine Residenz der Habsburger. Kaiserin Maria Theresia ließ das Gebäude im 18. Jahrhundert zu einer spätbarocken Residenz im Stil des Wiener Rokoko umbauen; dieser Stil ist bis heute zu sehen.\n\nBesucher gehen durch die Prunkräume und die Kaiserappartements. Am eindrucksvollsten ist der Riesensaal mit Porträts Maria Theresias, ihres Mannes und ihrer Kinder. Für Kinder ist es vor allem ein Erzählmuseum über das Leben am Hof; rund anderthalb Stunden einplanen. Das Schloss ist barrierearm, und gegenüber liegt der Hofgarten für eine Pause."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij de kassa naar een audiogids of een kinderroute.",
+    "Combineer met het nabijgelegen Goldenes Dachl en de oude binnenstad.",
+    "Neem na het bezoek een pauze in de Hofgarten.",
+    "Controleer vooraf de openingstijden; het museum is volgens bronnen dagelijks open, maar tijden wisselen."
+   ],
+   "en": [
+    "Ask at the ticket desk about an audio guide or a children's trail.",
+    "Combine with the nearby Goldenes Dachl and the old town.",
+    "Take a break in the Hofgarten after your visit.",
+    "Check opening times beforehand; the museum is reported to be open daily, but hours vary."
+   ],
+   "de": [
+    "An der Kasse nach Audioguide oder Kinderführung fragen.",
+    "Mit dem nahen Goldenen Dachl und der Altstadt verbinden.",
+    "Nach dem Besuch eine Pause im Hofgarten einlegen.",
+    "Öffnungszeiten vorab prüfen; das Museum ist laut Quellen täglich geöffnet, die Zeiten können sich ändern."
+   ]
+  },
+  "practical": {
+   "nl": "De Hofburg ligt in het centrum van Innsbruck, ca. 50 tot 60 minuten rijden van Niederau. Parkeren kan in een garage in de buurt; vanaf het station is het ongeveer 15 minuten lopen of een korte busrit.",
+   "en": "The Hofburg is in central Innsbruck, about 50 to 60 minutes' drive from Niederau. Parking is possible in a nearby car park; from the station it is around 15 minutes on foot or a short bus ride.",
+   "de": "Die Hofburg liegt im Zentrum von Innsbruck, ca. 50 bis 60 Fahrminuten von Niederau entfernt. Geparkt werden kann in einem nahen Parkhaus; vom Bahnhof sind es etwa 15 Minuten zu Fuß oder eine kurze Busfahrt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vooral leuk vanaf ca. 6 jaar",
+    "en": "Most fun from about 6 years",
+    "de": "Vor allem ab ca. 6 Jahren spannend"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Entree wisselt; kinderen betalen minder, informeer vooraf",
+    "en": "Admission varies; children pay less, check beforehand",
+    "de": "Eintritt variiert; Kinder zahlen weniger, vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 tot 60 min rijden",
+    "en": "About 50 to 60 min by car",
+    "de": "Ca. 50 bis 60 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck, Tirol",
+   "en": "Innsbruck, Tyrol",
+   "de": "Innsbruck, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang duurt een bezoek aan de Hofburg?",
+     "en": "How long does a Hofburg visit take?",
+     "de": "Wie lange dauert ein Besuch der Hofburg?"
+    },
+    "a": {
+     "nl": "Reken op ongeveer anderhalf uur voor de staatsvertrekken en appartementen.",
+     "en": "Allow about an hour and a half for the state rooms and apartments.",
+     "de": "Für Prunkräume und Appartements sollte man etwa anderthalb Stunden einplanen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "w31",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kufstein",
+  "slug_en": "kufstein-fortress",
+  "slug_de": "festung-kufstein",
+  "title": {
+   "nl": "Festung Kufstein",
+   "en": "Kufstein Fortress",
+   "de": "Festung Kufstein"
+  },
+  "tagline": {
+   "nl": "Burcomplex boven de stad met torens, museum en de grootste buitenorgel",
+   "en": "Fortress above the town with towers, museums and a huge open-air organ",
+   "de": "Burg über der Stadt mit Türmen, Museen und riesiger Freiluftorgel"
+  },
+  "intro": {
+   "nl": "De Festung Kufstein torent hoog boven de Inn en de stad uit. De vesting heeft eeuwen aan geschiedenis, met torens, binnenhoven, kazematten en tentoonstellingen over de streek. Het uitzicht over de Inn-vallei en richting het Kaisergebirge is een van de pluspunten.\n\nBijzonder is de Heldenorgel, een van de grootste buitenorgels ter wereld, die dagelijks om 12 uur klinkt; in juli en augustus volgt volgens bronnen een tweede optreden aan het eind van de middag. Naar boven ga je te voet via de oude opgang of met de panoramalift. Reken op twee tot drie uur voor een bezoek, en trek warme kleren aan: boven is het vaak winderig.",
+   "en": "The Kufstein Fortress rises high above the Inn and the town. It has centuries of history, with towers, courtyards, casemates and exhibitions about the region. The view across the Inn valley and towards the Kaisergebirge is a highlight.\n\nA special feature is the Heldenorgel (Heroes' Organ), one of the world's largest open-air organs, which plays daily at noon; in July and August there is reportedly a second concert in the early evening. You reach the top on foot along the old ramps or by panoramic lift. Allow two to three hours for a visit, and dress warmly: it is often windy up there.",
+   "de": "Die Festung Kufstein thront hoch über dem Inn und der Stadt. Sie blickt auf Jahrhunderte Geschichte zurück, mit Türmen, Höfen, Kasematten und Ausstellungen zur Region. Der Blick über das Inntal und zum Kaisergebirge zählt zu den Pluspunkten.\n\nBesonders ist die Heldenorgel, eine der größten Freiluftorgeln der Welt, die täglich um 12 Uhr erklingt; im Juli und August gibt es laut Quellen ein zweites Konzert am frühen Abend. Hinauf geht es zu Fuß über die alten Rampen oder mit dem Panoramalift. Für den Besuch zwei bis drei Stunden einplanen und warm anziehen: Oben ist es oft windig."
+  },
+  "tips": {
+   "nl": [
+    "De orgel klinkt dagelijks om 12 uur en is ook goed te horen vanuit de stad; luister vanuit de Festung voor het volle effect.",
+    "Laat kinderen via de ramp of de lift naar boven; controleer vooraf of de lift in bedrijf is.",
+    "Trek warme kleren aan, zeker in de winter.",
+    "Combineer met een wandeling door het centrum van Kufstein."
+   ],
+   "en": [
+    "The organ plays daily at 12 noon and can also be heard from the town; listen from the fortress for the full effect.",
+    "Let children go up along the ramps or by lift; check beforehand that the lift is running.",
+    "Dress warmly, especially in winter.",
+    "Combine with a stroll through Kufstein's centre."
+   ],
+   "de": [
+    "Die Orgel spielt täglich um 12 Uhr und ist auch aus der Stadt zu hören; für den vollen Eindruck von der Festung aus lauschen.",
+    "Kinder können über die Rampen oder per Lift hinauf; vorab prüfen, ob der Lift in Betrieb ist.",
+    "Warm anziehen, besonders im Winter.",
+    "Mit einem Bummel durch das Zentrum von Kufstein verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Kufstein ligt ca. 30 tot 35 minuten rijden van Niederau, via de A12. In de stad is parkeren mogelijk; de lift naar de Festung begint in het centrum.",
+   "en": "Kufstein is about 30 to 35 minutes' drive from Niederau, via the A12. Parking is available in town; the lift to the fortress starts in the centre.",
+   "de": "Kufstein ist ca. 30 bis 35 Fahrminuten von Niederau entfernt, über die A12. In der Stadt gibt es Parkmöglichkeiten; der Lift zur Festung beginnt im Zentrum."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Entree wisselt; kinderen betalen minder, informeer vooraf",
+    "en": "Admission varies; children pay less, check beforehand",
+    "de": "Eintritt variiert; Kinder zahlen weniger, vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 30 tot 35 min rijden",
+    "en": "About 30 to 35 min by car",
+    "de": "Ca. 30 bis 35 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Kufstein, Tirol",
+   "en": "Kufstein, Tyrol",
+   "de": "Kufstein, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe laat speelt de Heldenorgel in Kufstein?",
+     "en": "When does the Heldenorgel play in Kufstein?",
+     "de": "Wann spielt die Heldenorgel in Kufstein?"
+    },
+    "a": {
+     "nl": "Dagelijks om 12 uur; in juli en augustus volgens bronnen ook aan het eind van de middag. Controleer de actuele tijden.",
+     "en": "Daily at noon; in July and August also in the early evening according to sources. Check current times.",
+     "de": "Täglich um 12 Uhr; im Juli und August laut Quellen auch am frühen Abend. Aktuelle Zeiten prüfen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "w32",
+  "drop": false,
+  "drop_reason": "",
+  "place": "wattens",
+  "slug_en": "swarovski-crystal-worlds",
+  "slug_de": "swarovski-kristallwelten",
+  "title": {
+   "nl": "Swarovski Kristallwelten",
+   "en": "Swarovski Crystal Worlds",
+   "de": "Swarovski Kristallwelten"
+  },
+  "tagline": {
+   "nl": "Kunst en kristal in en onder de reus van Wattens, met speeltoren",
+   "en": "Art and crystal in and beneath the Giant at Wattens, with a play tower",
+   "de": "Kunst und Kristall im und unter dem Riesen von Wattens, mit Spielturm"
+  },
+  "intro": {
+   "nl": "De Swarovski Kristallwelten liggen in Wattens, bij het hoofdkantoor van het kristalbedrijf. De ingang is een groot hoofd van een reus met een waterstraal uit zijn mond; daaronder liggen de Wunderkammern, een reeks kunstzinnige kamers waarin kristal, licht en kunst samenkomen.\n\nVoor gezinnen is er een speeltoren op meerdere niveaus en een doolhof, naast een park met kunstwerken. Het is een binnenprogramma dat ook bij slecht weer werkt. Reken op twee tot drie uur, en bekijk vooraf de actuele openingstijden en entreeprijzen op de officiële site; er is ook een winkel en een restaurant.",
+   "en": "The Swarovski Crystal Worlds are in Wattens, next to the crystal company's headquarters. The entrance is a large giant's head with a stream of water from its mouth; beneath it lie the Chambers of Wonder, a series of artistic rooms combining crystal, light and art.\n\nFor families there is a play tower on several levels and a maze, plus a park with artworks. It is an indoor-friendly programme that also works in poor weather. Allow two to three hours, and check current opening hours and admission prices on the official site beforehand; there is also a shop and a restaurant.",
+   "de": "Die Swarovski Kristallwelten liegen in Wattens, neben dem Hauptsitz des Kristallunternehmens. Der Eingang ist ein großer Riesenkopf, aus dessen Mund Wasser fließt; darunter liegen die Wunderkammern, eine Reihe künstlerischer Räume, in denen Kristall, Licht und Kunst zusammenkommen.\n\nFür Familien gibt es einen Spielturm auf mehreren Ebenen und ein Labyrinth sowie einen Park mit Kunstwerken. Das Programm funktioniert gut drinnen und damit auch bei schlechtem Wetter. Zwei bis drei Stunden einplanen und vorab aktuelle Öffnungszeiten und Eintrittspreise auf der offiziellen Seite prüfen; es gibt auch Shop und Restaurant."
+  },
+  "tips": {
+   "nl": [
+    "Koop tickets zo mogelijk online en controleer de actuele openingstijden.",
+    "Kom op een doordeweekse ochtend voor minder drukte.",
+    "Plan de speeltoren in voor kinderen die moe worden van de kunst.",
+    "Parkeren is ter plaatse mogelijk; informeer naar de kosten."
+   ],
+   "en": [
+    "Buy tickets online where possible and check current opening hours.",
+    "Come on a weekday morning for fewer crowds.",
+    "Plan the play tower for children who tire of the art.",
+    "Parking is available on site; check the cost."
+   ],
+   "de": [
+    "Tickets wenn möglich online kaufen und aktuelle Öffnungszeiten prüfen.",
+    "An einem Werktagvormittag kommen, dann ist es ruhiger.",
+    "Den Spielturm für Kinder einplanen, die der Kunst überdrüssig werden.",
+    "Parken ist vor Ort möglich; die Kosten vorab erfragen."
+   ]
+  },
+  "practical": {
+   "nl": "Wattens ligt ca. 40 tot 45 minuten rijden van Niederau, via de A12 richting Innsbruck, afrit Wattens. Met openbaar vervoer kom je via Innsbruck of Wattens met een bus.",
+   "en": "Wattens is about 40 to 45 minutes' drive from Niederau, via the A12 towards Innsbruck, exit Wattens. By public transport you travel via Innsbruck or Wattens with a bus.",
+   "de": "Wattens liegt ca. 40 bis 45 Fahrminuten von Niederau entfernt, über die A12 Richtung Innsbruck, Abfahrt Wattens. Mit öffentlichen Verkehrsmitteln geht es über Innsbruck oder Wattens mit dem Bus."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Entree wisselt; informeer vooraf",
+    "en": "Admission varies; check beforehand",
+    "de": "Eintritt variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 40 tot 45 min rijden",
+    "en": "About 40 to 45 min by car",
+    "de": "Ca. 40 bis 45 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Wattens, Tirol",
+   "en": "Wattens, Tyrol",
+   "de": "Wattens, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een speelgebied voor kinderen?",
+     "en": "Is there a play area for children?",
+     "de": "Gibt es einen Spielbereich für Kinder?"
+    },
+    "a": {
+     "nl": "Ja, er is een speeltoren met meerdere niveaus en een doolhof.",
+     "en": "Yes, there is a multi-level play tower and a maze.",
+     "de": "Ja, es gibt einen Spielturm mit mehreren Ebenen und ein Labyrinth."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "w33",
+  "drop": false,
+  "drop_reason": "",
+  "place": "rattenberg",
+  "slug_en": "glassblowing-rattenberg",
+  "slug_de": "glasblaeserei-rattenberg",
+  "title": {
+   "nl": "Glasblazen in Rattenberg",
+   "en": "Glassblowing in Rattenberg",
+   "de": "Glasbläserei in Rattenberg"
+  },
+  "tagline": {
+   "nl": "Kijken hoe glas wordt geblazen in het kleinste stadje van Oostenrijk",
+   "en": "Watch glass being blown in Austria's smallest town",
+   "de": "Beim Glasblasen zusehen in Österreichs kleinster Stadt"
+  },
+  "intro": {
+   "nl": "Rattenberg is het kleinste stadje van Oostenrijk, tegen de rotswand aan de Inn gebouwd, met een middeleeuwse kern van kleine huizen en geplaveide straatjes. Het staat bekend om zijn glasambacht, waarvan de traditie in het stadje sterk is.\n\nIn de werkplaats van Kisslinger kunnen bezoekers op doordeweekse dagen gratis meekijken naar glasblazers. Volgens de aanbieder kunnen gasten op bepaalde middagen in de zomerperiode zelf een eenvoudig stuk blazen; controleer vooraf of en wanneer dat mogelijk is. De winkel toont vier verdiepingen vol glaswerk. Combineer het met een wandeling door het stadje, ca. een halfuur.",
+   "en": "Rattenberg is Austria's smallest town, built against the rock face above the Inn, with a medieval core of small houses and cobbled lanes. It is known for its glass craft, a strong tradition in the town.\n\nAt the Kisslinger workshop, visitors can watch glassblowers for free on weekdays. According to the operator, guests can try blowing a simple piece themselves on certain afternoons in the summer period; check beforehand whether and when that is possible. The shop shows four floors of glassware. Combine it with a stroll through the town, about half an hour.",
+   "de": "Rattenberg ist die kleinste Stadt Österreichs, an die Felswand über dem Inn gebaut, mit einem mittelalterlichen Kern aus kleinen Häusern und gepflasterten Gassen. Sie ist für ihr Glashandwerk bekannt, dessen Tradition hier stark ist.\n\nIn der Werkstatt von Kisslinger kann man an Werktagen kostenlos den Glasbläsern zusehen. Laut Anbieter können Gäste an bestimmten Nachmittagen in der Sommerperiode selbst ein einfaches Stück blasen; vorab klären, ob und wann das möglich ist. Der Laden zeigt Glaswaren auf vier Etagen. Gut kombinierbar mit einem Bummel durch die Stadt, etwa eine halbe Stunde."
+  },
+  "tips": {
+   "nl": [
+    "Zelf blazen kan alleen op bepaalde middagen, waarschijnlijk in de zomerperiode; informeer vooraf.",
+    "Loop daarna een rondje door het autovrije stadje.",
+    "Kijk ook naar andere ambachtelijke glaswinkels in Rattenberg.",
+    "Neem geen kleine kinderen mee in de buurt van de hete ovens zonder toezicht."
+   ],
+   "en": [
+    "Trying it yourself is only possible on certain afternoons, probably in summer; ask beforehand.",
+    "Afterwards take a lap around the car-free town.",
+    "Also look at other craft glass shops in Rattenberg.",
+    "Do not let small children near the hot furnaces unsupervised."
+   ],
+   "de": [
+    "Selbst blasen ist nur an bestimmten Nachmittagen möglich, vermutlich im Sommer; vorab nachfragen.",
+    "Danach eine Runde durch die autofreie Stadt drehen.",
+    "Auch andere Glaskunst-Läden in Rattenberg ansehen.",
+    "Kleine Kinder nicht unbeaufsichtigt in die Nähe der heißen Öfen lassen."
+   ]
+  },
+  "practical": {
+   "nl": "Rattenberg ligt ca. 30 minuten rijden van Niederau, aan de Inn in het Alpbachtal. Parkeren kan aan de rand van het stadje; met de trein is het station Rattenberg-Kramsach op loopafstand.",
+   "en": "Rattenberg is about 30 minutes' drive from Niederau, on the Inn in the Alpbachtal. Parking is possible at the edge of town; by train, Rattenberg-Kramsach station is within walking distance.",
+   "de": "Rattenberg liegt ca. 30 Fahrminuten von Niederau entfernt, am Inn im Alpbachtal. Geparkt wird am Stadtrand; mit der Bahn ist der Bahnhof Rattenberg-Kramsach fußläufig erreichbar."
+  },
+  "facts": {
+   "age": {
+    "nl": "Kijken: alle leeftijden; zelf proberen vaak vanaf ca. 8 jaar",
+    "en": "Watching: all ages; trying often from about 8 years",
+    "de": "Zuschauen: alle Altersgruppen; Ausprobieren oft ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Kijken is gratis; zelf blazen kost extra, informeer vooraf",
+    "en": "Watching is free; blowing yourself costs extra, check beforehand",
+    "de": "Zuschauen kostenlos; selbst blasen kostet extra, vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 30 min rijden",
+    "en": "About 30 min by car",
+    "de": "Ca. 30 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar; zelf blazen vaak alleen in het zomerseizoen",
+    "en": "All year; trying it yourself often only in summer",
+    "de": "Ganzjährig; Selbstblasen oft nur im Sommer"
+   }
+  },
+  "location": {
+   "nl": "Rattenberg, Alpbachtal",
+   "en": "Rattenberg, Alpbachtal",
+   "de": "Rattenberg, Alpbachtal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kost kijken bij de glasblazers geld?",
+     "en": "Does watching the glassblowers cost money?",
+     "de": "Kostet das Zuschauen bei den Glasbläsern etwas?"
+    },
+    "a": {
+     "nl": "Volgens de aanbieder is de toegang gratis; zelf blazen kost extra.",
+     "en": "According to the operator admission is free; blowing yourself costs extra.",
+     "de": "Laut Anbieter ist der Eintritt frei; selbst blasen kostet extra."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "w34",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "alpenzoo-innsbruck",
+  "slug_de": "alpenzoo-innsbruck",
+  "title": {
+   "nl": "Alpenzoo Innsbruck",
+   "en": "Alpenzoo Innsbruck",
+   "de": "Alpenzoo Innsbruck"
+  },
+  "tagline": {
+   "nl": "Dierentuin met alleen dieren uit de Alpen, hoog boven de stad",
+   "en": "Zoo with only Alpine animals, high above the city",
+   "de": "Zoo nur mit Alpentieren, hoch über der Stadt"
+  },
+  "intro": {
+   "nl": "De Alpenzoo ligt op ca. 727 meter hoogte aan de rand van Innsbruck en geldt als de hoogst gelegen dierentuin van Europa. Het is een themadierentuin, dus je ziet hier alleen dieren uit de Alpen en Europa: wolven, lynxen, steenbokken, otters, roofvogels en meer; samen ruim 2000 dieren van ca. 150 soorten.\n\nHet pad voert langs verblijven op een heuvel, met mooi uitzicht over de stad. Voor kinderen is het een overzichtelijk bezoek, voor gezinnen goed te combineren met een stadsdag in Innsbruck. Je kunt er te voet, met de bus of via de Hungerburgbahn komen; vanaf het bergstation loop je ca. 400 meter.",
+   "en": "The Alpenzoo stands at about 727 metres on the edge of Innsbruck and is regarded as Europe's highest zoo. It is a theme zoo, so you only see animals from the Alps and Europe: wolves, lynx, ibex, otters, birds of prey and more; together over 2,000 animals of about 150 species.\n\nThe path leads past enclosures on a hillside, with fine views over the city. For children it is a manageable visit and combines well with a city day in Innsbruck. You can get there on foot, by bus or via the Hungerburg funicular; from the station it is roughly 400 metres.",
+   "de": "Der Alpenzoo liegt auf ca. 727 Metern Höhe am Rand von Innsbruck und gilt als höchstgelegener Zoo Europas. Es ist ein Themenzoo, hier sieht man also nur Tiere aus den Alpen und Europa: Wölfe, Luchse, Steinböcke, Fischotter, Greifvögel und mehr; insgesamt über 2.000 Tiere aus rund 150 Arten.\n\nDer Weg führt an Gehegen an einem Hang vorbei, mit schöner Aussicht über die Stadt. Für Kinder ist der Besuch überschaubar und gut mit einem Stadttag in Innsbruck kombinierbar. Man erreicht ihn zu Fuß, mit dem Bus oder über die Hungerburgbahn; von der Station sind es etwa 400 Meter."
+  },
+  "tips": {
+   "nl": [
+    "Kom met de Hungerburgbahn en loop het laatste stuk; dat bespaart parkeerstress.",
+    "Controleer vooraf de openingstijden: zomers langer open dan in de winter.",
+    "Neem comfortabele schoenen mee; het terrein loopt omhoog.",
+    "Combineer het met een wandeling door de oude binnenstad."
+   ],
+   "en": [
+    "Take the Hungerburg funicular and walk the last stretch; it saves parking stress.",
+    "Check opening hours beforehand: longer in summer than in winter.",
+    "Wear comfortable shoes; the grounds are on a slope.",
+    "Combine with a walk through the old town."
+   ],
+   "de": [
+    "Mit der Hungerburgbahn anreisen und das letzte Stück gehen; das spart Parkplatzstress.",
+    "Öffnungszeiten vorab prüfen: im Sommer länger als im Winter.",
+    "Bequeme Schuhe tragen; das Gelände liegt am Hang.",
+    "Mit einem Spaziergang durch die Altstadt verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Innsbruck is ca. 50 tot 60 minuten rijden van Niederau. Bij de dierentuin is beperkte parkeergelegenheid; veel bezoekers komen met de bus of de Hungerburgbahn.",
+   "en": "Innsbruck is about 50 to 60 minutes' drive from Niederau. Parking near the zoo is limited; many visitors come by bus or the Hungerburg funicular.",
+   "de": "Innsbruck ist ca. 50 bis 60 Fahrminuten von Niederau entfernt. Am Zoo gibt es nur begrenzt Parkplätze; viele Besucher kommen mit Bus oder Hungerburgbahn."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Entree wisselt; kinderen betalen minder, informeer vooraf",
+    "en": "Admission varies; children pay less, check beforehand",
+    "de": "Eintritt variiert; Kinder zahlen weniger, vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 tot 60 min rijden",
+    "en": "About 50 to 60 min by car",
+    "de": "Ca. 50 bis 60 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Hele jaar",
+    "en": "All year",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Innsbruck, Tirol",
+   "en": "Innsbruck, Tyrol",
+   "de": "Innsbruck, Tirol"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke dieren zie je in de Alpenzoo?",
+     "en": "Which animals can you see at the Alpenzoo?",
+     "de": "Welche Tiere sieht man im Alpenzoo?"
+    },
+    "a": {
+     "nl": "Uitsluitend dieren uit de Alpen en Europa, zoals wolf, lynx, steenbok, otter en roofvogels.",
+     "en": "Only animals from the Alps and Europe, such as wolf, lynx, ibex, otter and birds of prey.",
+     "de": "Ausschließlich Tiere aus den Alpen und Europa, etwa Wolf, Luchs, Steinbock, Fischotter und Greifvögel."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "w35",
+  "drop": true,
+  "drop_reason": "Kletterhalle Wörgl is volgens bronnen sinds 25 feb. 2026 gesloten (faillissement); heropening onzeker.",
+  "verified": false
+ },
+ {
+  "id": "w42",
+  "drop": false,
+  "drop_reason": "",
+  "place": "innsbruck",
+  "slug_en": "olympic-bobsleigh-igls",
+  "slug_de": "olympia-bobbahn-igls",
+  "title": {
+   "nl": "Olympische bobbaan Igls",
+   "en": "Olympic bob run Igls",
+   "de": "Olympia-Bobbahn Igls"
+  },
+  "tagline": {
+   "nl": "Als passagier mee in een gastbob over de baan van de Winterspelen",
+   "en": "Ride as a passenger in a guest bob on the Winter Games track",
+   "de": "Als Gast im Taxi-Bob über die Bahn der Olympischen Winterspiele"
+  },
+  "intro": {
+   "nl": "In Igls, hoog boven Innsbruck, ligt de olympische bobslee- en rodelbaan, waar in 1964 en 1976 de Olympische Winterspelen werden gehouden. In het winterseizoen kunnen gasten meerijden in een gastbob (taxibob), waarbij een professionele piloot de bob bestuurt.\n\nDe rit duurt ongeveer een minuut over een baan van ruim 1,2 kilometer en bereikt snelheden tot ca. 100 km/u, met bochten en zijdelingse krachten. Je zit als passagier achter de piloot. Het is een korte maar intense ervaring, niet voor jonge kinderen of wie snel misselijk wordt. Reserveren wordt aangeraden; controleer de leeftijdsregels en tijden op de officiële site.",
+   "en": "At Igls, high above Innsbruck, lies the Olympic bobsleigh and luge track, where the 1964 and 1976 Winter Olympics were held. In the winter season guests can ride in a guest bob (taxi bob) steered by a professional pilot.\n\nThe run lasts about a minute over a track of just over 1.2 kilometres and reaches speeds of up to about 100 km/h, with bends and strong lateral forces. You sit behind the pilot as a passenger. It is a short but intense experience, not for young children or anyone prone to motion sickness. Booking is recommended; check age rules and times on the official site.",
+   "de": "In Igls, hoch über Innsbruck, liegt die Olympia-Bob- und Rodelbahn, auf der 1964 und 1976 die Olympischen Winterspiele stattfanden. Im Winter können Gäste in einem Gästebob (Taxi-Bob) mitfahren, den ein professioneller Pilot steuert.\n\nDie Fahrt dauert rund eine Minute auf einer gut 1,2 Kilometer langen Bahn und erreicht Geschwindigkeiten von etwa 100 km/h, mit Kurven und starken Fliehkräften. Man sitzt als Passagier hinter dem Piloten. Es ist ein kurzes, aber intensives Erlebnis, nicht für kleine Kinder oder Menschen, denen schnell schlecht wird. Eine Reservierung wird empfohlen; Altersregeln und Zeiten auf der offiziellen Seite prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf; de aanbieder kan beperkte plaatsen hebben.",
+    "Controleer de minimumleeftijd; volgens bronnen is dat 10 jaar mét begeleider.",
+    "Kleed je warm en draag stevige schoenen.",
+    "Combineer met een bezoek aan de binnenstad van Innsbruck."
+   ],
+   "en": [
+    "Book ahead; the operator may have limited places.",
+    "Check the minimum age; according to sources it is 10 years with a guardian.",
+    "Dress warmly and wear sturdy shoes.",
+    "Combine with a visit to Innsbruck's old town."
+   ],
+   "de": [
+    "Vorab reservieren; der Betreiber hat möglicherweise nur begrenzte Plätze.",
+    "Mindestalter prüfen; laut Quellen sind es 10 Jahre mit Begleitperson.",
+    "Warm anziehen und festes Schuhwerk tragen.",
+    "Mit einem Besuch der Innsbrucker Altstadt verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Igls ligt ca. 55 tot 65 minuten rijden van Niederau via de A12 en Innsbruck. Parkeren kan bij de baan; reserveer en vraag naar de openingstijden vooraf.",
+   "en": "Igls is about 55 to 65 minutes' drive from Niederau via the A12 and Innsbruck. Parking is possible near the track; book and ask about opening times beforehand.",
+   "de": "Igls liegt ca. 55 bis 65 Fahrminuten von Niederau entfernt, über die A12 und Innsbruck. Parken ist an der Bahn möglich; vorab reservieren und die Öffnungszeiten erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 10 jaar, met begeleider (controleer vooraf)",
+    "en": "From about 10 years, with a guardian (check beforehand)",
+    "de": "Ab ca. 10 Jahren mit Begleitperson (vorab prüfen)"
+   },
+   "duration": {
+    "nl": "Rit ca. 1 minuut; totaal ca. 1 uur",
+    "en": "Ride about 1 minute; about 1 hour in total",
+    "de": "Fahrt ca. 1 Minute; insgesamt ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 55 tot 65 min rijden",
+    "en": "About 55 to 65 min by car",
+    "de": "Ca. 55 bis 65 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Igls, Innsbruck",
+   "en": "Igls, Innsbruck",
+   "de": "Igls, Innsbruck"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hard gaat een gastbob?",
+     "en": "How fast is a guest bob?",
+     "de": "Wie schnell ist ein Gästebob?"
+    },
+    "a": {
+     "nl": "Tot ca. 100 km/u over een baan van ruim 1,2 km; de rit duurt ongeveer een minuut.",
+     "en": "Up to about 100 km/h over a track of just over 1.2 km; the ride lasts about a minute.",
+     "de": "Bis zu etwa 100 km/h auf einer gut 1,2 km langen Bahn; die Fahrt dauert etwa eine Minute."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "w48",
+  "drop": false,
+  "drop_reason": "",
+  "place": "jenbach",
+  "slug_en": "zillertalbahn-steam-train",
+  "slug_de": "zillertalbahn-dampfzug",
+  "title": {
+   "nl": "Zillertalbahn stoomtrein",
+   "en": "Zillertalbahn steam train",
+   "de": "Zillertalbahn Dampfzug"
+  },
+  "tagline": {
+   "nl": "Met de smalspoor-stoomtrein van Jenbach naar Mayrhofen",
+   "en": "By narrow-gauge steam train from Jenbach to Mayrhofen",
+   "de": "Mit der Schmalspur-Dampfbahn von Jenbach nach Mayrhofen"
+  },
+  "intro": {
+   "nl": "De Zillertalbahn is een smalspoorlijn van Jenbach in het Inntal naar Mayrhofen in het Zillertal. De route is ca. 32 tot 33 kilometer lang en loopt door dorpen, weiden en langs de rivier de Ziller. De stoomtreinrit duurt ongeveer anderhalf uur per richting.\n\nDe stoomtrein rijdt volgens bronnen alleen op bepaalde dagen, ongeveer van mei tot begin oktober; in de winter rijden de gewone treinen. De stoomtrein heeft een buffetwagen, een open wagon en een kinderwagon. Gezinnen kunnen onderweg uitstappen, bijvoorbeeld in Mayrhofen voor een wandeling of eten. Controleer vooraf het rooster op de officiële site.",
+   "en": "The Zillertalbahn is a narrow-gauge line from Jenbach in the Inn valley to Mayrhofen in the Zillertal. The route is about 32 to 33 kilometres long and runs through villages and meadows alongside the Ziller river. The steam journey takes about an hour and a half each way.\n\nAccording to sources, the steam train only runs on certain days, roughly from May to early October; in winter the regular trains run. The steam train has a buffet car, an open carriage and a children's carriage. Families can get off en route, for example in Mayrhofen for a walk or a meal. Check the timetable on the official site beforehand.",
+   "de": "Die Zillertalbahn ist eine Schmalspurbahn von Jenbach im Inntal nach Mayrhofen im Zillertal. Die Strecke ist etwa 32 bis 33 Kilometer lang und führt durch Dörfer und Wiesen entlang der Ziller. Die Dampffahrt dauert etwa anderthalb Stunden pro Richtung.\n\nDer Dampfzug fährt laut Quellen nur an bestimmten Tagen, ungefähr von Mai bis Anfang Oktober; im Winter verkehren die regulären Züge. Der Dampfzug hat einen Buffetwagen, einen offenen Wagen und einen Kinderwagen. Familien können unterwegs aussteigen, zum Beispiel in Mayrhofen für einen Spaziergang oder eine Mahlzeit. Den Fahrplan vorab auf der offiziellen Seite prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Controleer het rooster: stoomtreinen rijden niet elke dag en niet in de winter.",
+    "Neem een wagon met open zijkanten voor foto's, maar kleed je warm.",
+    "Reserveer bij drukte of met een groep.",
+    "Plan een stop in Mayrhofen voor lunch of wandeling."
+   ],
+   "en": [
+    "Check the timetable: steam trains do not run every day, nor in winter.",
+    "Take the open carriage for photos, but dress warmly.",
+    "Book in busy periods or with a group.",
+    "Plan a stop in Mayrhofen for lunch or a walk."
+   ],
+   "de": [
+    "Fahrplan prüfen: Dampfzüge fahren nicht täglich und nicht im Winter.",
+    "Für Fotos den offenen Wagen wählen, aber warm anziehen.",
+    "Bei Andrang oder mit Gruppe reservieren.",
+    "Einen Halt in Mayrhofen für Mittagessen oder Spaziergang einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Het station van Jenbach ligt ca. 35 tot 40 minuten rijden van Niederau, via de A12. Je kunt ook met de trein naar Jenbach en daar overstappen op de Zillertalbahn.",
+   "en": "Jenbach station is about 35 to 40 minutes' drive from Niederau, via the A12. You can also take the train to Jenbach and change onto the Zillertalbahn.",
+   "de": "Der Bahnhof Jenbach liegt ca. 35 bis 40 Fahrminuten von Niederau entfernt, über die A12. Man kann auch mit der Bahn nach Jenbach fahren und dort in die Zillertalbahn umsteigen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 3 uur retour, plus stop",
+    "en": "About 3 hours return, plus a stop",
+    "de": "Ca. 3 Stunden hin und zurück, plus Aufenthalt"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 35 tot 40 min rijden naar Jenbach",
+    "en": "About 35 to 40 min by car to Jenbach",
+    "de": "Ca. 35 bis 40 Min. mit dem Auto nach Jenbach"
+   },
+   "season": {
+    "nl": "Stoomtrein ca. mei tot begin oktober; gewone treinen hele jaar",
+    "en": "Steam train roughly May to early October; regular trains all year",
+    "de": "Dampfzug ca. Mai bis Anfang Oktober; reguläre Züge ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Jenbach en Zillertal",
+   "en": "Jenbach and Zillertal",
+   "de": "Jenbach und Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Rijdt de stoomtrein in de winter?",
+     "en": "Does the steam train run in winter?",
+     "de": "Fährt der Dampfzug im Winter?"
+    },
+    "a": {
+     "nl": "Volgens bronnen rijdt de stoomtrein ongeveer van mei tot begin oktober op bepaalde dagen; in de winter rijden gewone treinen.",
+     "en": "According to sources the steam train runs on certain days roughly from May to early October; regular trains run in winter.",
+     "de": "Laut Quellen fährt der Dampfzug ungefähr von Mai bis Anfang Oktober an bestimmten Tagen; im Winter verkehren reguläre Züge."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s10",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "alpine-flower-walk",
+  "slug_de": "alpenblumen-wanderung",
+  "title": {
+   "nl": "Alpenbloemenwandeling",
+   "en": "Alpine flower walk",
+   "de": "Alpenblumen-Wanderung"
+  },
+  "tagline": {
+   "nl": "Kleurrijke bergweiden in het hoogseizoen van de bloei",
+   "en": "Colourful mountain pastures at the peak of flowering",
+   "de": "Bunte Almwiesen zur Blütezeit"
+  },
+  "intro": {
+   "nl": "Op de weiden rond het Markbachjoch bloeien in de zomer veel soorten alpenbloemen, zoals alpenrozen, gentianen en andere bergplanten. Een rustige wandeling met aandacht voor wat er langs het pad groeit is een mooie manier om de bergnatuur te leren kennen.\n\nVolgens de bron is er een korte geleide tocht van ongeveer 4 kilometer die ca. twee uur duurt, met een kinderopdracht om bloemen te herkennen of te bundelen in een herbarium. Of die gids er nu is, wisselt; ook zonder gids is de wandeling goed te doen. Beschermde planten laat je staan.",
+   "en": "In summer many Alpine flowers bloom on the pastures around the Markbachjoch, such as alpenrose, gentians and other mountain plants. A quiet walk paying attention to what grows by the path is a good way to get to know mountain nature.\n\nAccording to the source there is a short guided walk of about 4 kilometres lasting around two hours, with a children's task of recognising flowers or making a herbarium. Whether a guide is available varies; the walk is also fine without one. Protected plants are left where they grow.",
+   "de": "Im Sommer blühen auf den Almwiesen rund ums Markbachjoch viele Alpenblumen, etwa Almrausch, Enzian und andere Bergpflanzen. Ein ruhiger Spaziergang mit Blick auf das, was am Wegrand wächst, ist eine schöne Art, die Bergnatur kennenzulernen.\n\nLaut Quelle gibt es eine kurze geführte Tour von etwa 4 Kilometern mit rund zwei Stunden Dauer, mit einer Kinderaufgabe zum Erkennen von Blumen oder einem Herbarium. Ob eine Führung angeboten wird, wechselt; auch ohne Führer ist die Wanderung gut machbar. Geschützte Pflanzen bleiben stehen."
+  },
+  "tips": {
+   "nl": [
+    "Beste periode is ongeveer juni tot augustus.",
+    "Plukken is verboden bij beschermde planten; fotograferen kan altijd.",
+    "Neem een bloemengids of app mee.",
+    "Draag stevige schoenen."
+   ],
+   "en": [
+    "Best period is roughly June to August.",
+    "Do not pick protected plants; photographing is always fine.",
+    "Bring a flower guide or an app.",
+    "Wear sturdy shoes."
+   ],
+   "de": [
+    "Beste Zeit ist etwa Juni bis August.",
+    "Geschützte Pflanzen nicht pflücken; Fotografieren ist immer erlaubt.",
+    "Einen Blumenführer oder eine App mitnehmen.",
+    "Festes Schuhwerk tragen."
+   ]
+  },
+  "practical": {
+   "nl": "De wandeling start bij het Markbachjoch, bereikbaar met de gondel vanuit Niederau of te voet. Informeer naar eventuele geleide tochten bij de toeristische dienst.",
+   "en": "The walk starts at the Markbachjoch, reachable by gondola from Niederau or on foot. Ask the tourist office about any guided walks.",
+   "de": "Die Wanderung beginnt am Markbachjoch, erreichbar per Gondel ab Niederau oder zu Fuß. Nach möglichen geführten Touren beim Tourismusverband fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "Vanaf Niederau met gondel of te voet",
+    "en": "From Niederau by gondola or on foot",
+    "de": "Ab Niederau mit Gondel oder zu Fuß"
+   },
+   "season": {
+    "nl": "Zomer (vooral juni tot augustus)",
+    "en": "Summer (mainly June to August)",
+    "de": "Sommer (vor allem Juni bis August)"
+   }
+  },
+  "location": {
+   "nl": "Markbachjoch, Niederau",
+   "en": "Markbachjoch, Niederau",
+   "de": "Markbachjoch, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer bloeien de alpenbloemen?",
+     "en": "When do the Alpine flowers bloom?",
+     "de": "Wann blühen die Alpenblumen?"
+    },
+    "a": {
+     "nl": "Ongeveer van juni tot augustus; het hangt af van hoogte en weer.",
+     "en": "Roughly June to August; it depends on altitude and weather.",
+     "de": "Etwa von Juni bis August; abhängig von Höhe und Wetter."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s13",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "kite-flying-mountain-pasture",
+  "slug_de": "drachensteigen-auf-der-alm",
+  "title": {
+   "nl": "Vliegeren op de bergweide",
+   "en": "Kite flying on the mountain pasture",
+   "de": "Drachensteigen auf der Almwiese"
+  },
+  "tagline": {
+   "nl": "Wind, weide en uitzicht voor een ontspannen familiemiddag",
+   "en": "Wind, pasture and views for a relaxed family afternoon",
+   "de": "Wind, Wiese und Aussicht für einen entspannten Familiennachmittag"
+  },
+  "intro": {
+   "nl": "Op de open bergweiden boven Niederau staat vaak een briesje, ideaal om een vlieger op te laten. Met uitzicht op de Tiroolse bergtoppen is dat een eenvoudige en goedkope activiteit voor de hele familie, zonder planning of toegangskaartje.\n\nEen vlieger koop je vaak in een souvenirwinkel in het dorp of neem je van thuis mee. Je kunt met de gondel naar boven of omhoog wandelen naar een open stuk weide, bij het Markbachjoch of een ander plateau in de buurt. Kinderen leren daarbij spelenderwijs hoe de wind werkt. Let op het weer en de windrichting en houd afstand van koeien en afrasteringen.",
+   "en": "On the open mountain pastures above Niederau there is often a breeze, ideal for flying a kite. With the Tyrolean peaks around you, it is a simple, inexpensive activity for the whole family, with no planning or ticket needed.\n\nYou can often buy a kite in a souvenir shop in the village or bring one from home. Take the gondola up or walk up to an open stretch of pasture near the Markbachjoch or another plateau nearby. Children learn playfully how wind works. Watch the weather and wind direction, and keep away from cattle and fences.",
+   "de": "Auf den offenen Almwiesen oberhalb von Niederau weht oft eine Brise, ideal zum Drachensteigen. Mit den Tiroler Gipfeln ringsum ist das eine einfache, günstige Aktivität für die ganze Familie, ohne Planung oder Eintrittskarte.\n\nEinen Drachen gibt es oft in einem Souvenirladen im Dorf, oder man bringt ihn von zu Hause mit. Mit der Gondel oder zu Fuß geht es zu einem offenen Wiesenstück am Markbachjoch oder auf einem anderen Plateau in der Nähe. Kinder lernen dabei spielerisch, wie der Wind funktioniert. Auf Wetter und Windrichtung achten und Abstand zu Weidevieh und Zäunen halten."
+  },
+  "tips": {
+   "nl": [
+    "Kies een vlieger die makkelijk te vervoeren en te sturen is.",
+    "Kijk naar de windrichting en kies een open stuk zonder bomen.",
+    "Houd afstand van vee en afrasteringen.",
+    "Neem een jas mee; het kan boven fris zijn."
+   ],
+   "en": [
+    "Choose a kite that is easy to carry and steer.",
+    "Check wind direction and pick an open spot without trees.",
+    "Keep away from cattle and fences.",
+    "Bring a jacket; it can be cool up there."
+   ],
+   "de": [
+    "Einen Drachen wählen, der sich leicht tragen und lenken lässt.",
+    "Auf Windrichtung achten und eine freie Fläche ohne Bäume wählen.",
+    "Abstand zu Vieh und Zäunen halten.",
+    "Eine Jacke mitnehmen; oben kann es kühl sein."
+   ]
+  },
+  "practical": {
+   "nl": "Je bent in ca. 40 minuten te voet boven, of sneller met de gondel vanuit Niederau. Informeer bij de toeristische dienst naar de actuele gondelrijtijden.",
+   "en": "You can walk up in about 40 minutes, or go faster by gondola from Niederau. Ask the tourist office about current gondola times.",
+   "de": "Zu Fuß ist man in ca. 40 Minuten oben, schneller geht es mit der Gondel ab Niederau. Aktuelle Fahrzeiten beim Tourismusverband erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 3 uur",
+    "en": "About 1 to 3 hours",
+    "de": "Ca. 1 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Een vlieger kost enkele euro's; informeer vooraf",
+    "en": "A kite costs a few euros; check beforehand",
+    "de": "Ein Drachen kostet wenige Euro; vorab informieren"
+   },
+   "distance": {
+    "nl": "Vanaf Niederau te voet of met gondel",
+    "en": "From Niederau on foot or by gondola",
+    "de": "Ab Niederau zu Fuß oder mit Gondel"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Markbachjoch, Niederau",
+   "en": "Markbachjoch, Niederau",
+   "de": "Markbachjoch, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar koop je een vlieger?",
+     "en": "Where can you buy a kite?",
+     "de": "Wo bekommt man einen Drachen?"
+    },
+    "a": {
+     "nl": "Vaak in een souvenirwinkel in het dorp; of neem er een mee van thuis.",
+     "en": "Often in a souvenir shop in the village, or bring one from home.",
+     "de": "Oft in einem Souvenirladen im Dorf, oder von zu Hause mitbringen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s17",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "wildlife-watching-niederau",
+  "slug_de": "wildtiere-beobachten-niederau",
+  "title": {
+   "nl": "Wild spotten in de ochtend",
+   "en": "Early-morning wildlife watching",
+   "de": "Wildtiere beobachten am frühen Morgen"
+  },
+  "tagline": {
+   "nl": "Reeën, marmotten en vogels in het bos en op de weide",
+   "en": "Deer, marmots and birds in forest and pasture",
+   "de": "Rehe, Murmeltiere und Vögel in Wald und Alm"
+  },
+  "intro": {
+   "nl": "In de vroege ochtend zijn veel wilde dieren actief, en dat maakt een tocht met een kenner extra interessant. In de bossen en op de hoger gelegen weiden rond Niederau kun je reeën, marmotten en vogels zoals roofvogels zien, soms ook een gems of steenbok verder weg.\n\nVolgens de bron is er een geleide tocht van ca. 4 kilometer van 2 tot 3 uur. Een gids laat zien hoe je sporen leest en door een verrekijker kijkt. Zonder gids kun je het ook zelf proberen, rustig en stil. Er zijn geen garanties: wat je ziet hangt af van weer en geluk.",
+   "en": "In the early morning many wild animals are active, which makes a trip with an expert especially interesting. In the forests and higher pastures around Niederau you can see deer, marmots and birds such as raptors, sometimes also a chamois or ibex in the distance.\n\nAccording to the source there is a guided walk of about 4 kilometres lasting 2 to 3 hours. A guide shows how to read tracks and use binoculars. You can also try it yourself, quietly and calmly. There are no guarantees: what you see depends on weather and luck.",
+   "de": "Am frühen Morgen sind viele Wildtiere aktiv, was eine Tour mit einem Kenner besonders interessant macht. In den Wäldern und höheren Almen rund um Niederau kann man Rehe, Murmeltiere und Vögel wie Greifvögel sehen, manchmal auch eine Gams oder einen Steinbock in der Ferne.\n\nLaut Quelle gibt es eine geführte Tour von ca. 4 Kilometern mit 2 bis 3 Stunden Dauer. Ein Führer zeigt, wie man Spuren liest und das Fernglas nutzt. Man kann es auch selbst versuchen, leise und ruhig. Garantien gibt es nicht: Was man sieht, hängt von Wetter und Glück ab."
+  },
+  "tips": {
+   "nl": [
+    "Praat zacht; lawaai verjaagt dieren.",
+    "Neem een verrekijker mee.",
+    "Kleed je in dempende kleuren en warm.",
+    "Houd afstand en blijf op de paden."
+   ],
+   "en": [
+    "Speak softly; noise scares animals away.",
+    "Bring binoculars.",
+    "Wear muted colours and warm clothing.",
+    "Keep your distance and stay on the paths."
+   ],
+   "de": [
+    "Leise sprechen; Lärm vertreibt die Tiere.",
+    "Ein Fernglas mitnehmen.",
+    "Gedeckte Farben und warme Kleidung tragen.",
+    "Abstand halten und auf den Wegen bleiben."
+   ]
+  },
+  "practical": {
+   "nl": "De tocht start in het dorp (volgens de bron bij de toeristische dienst). Informeer vooraf naar vertrektijd, aanmelding en prijs.",
+   "en": "The walk starts in the village (according to the source at the tourist office). Ask beforehand about departure time, booking and price.",
+   "de": "Die Tour startet im Ort (laut Quelle beim Tourismusverband). Vorab nach Startzeit, Anmeldung und Preis fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 3 uur",
+    "en": "About 2 to 3 hours",
+    "de": "Ca. 2 bis 3 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "Vanaf Niederau",
+    "en": "From Niederau",
+    "de": "Ab Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Bossen en weiden rond Niederau",
+   "en": "Bossen en weiden rond Niederau",
+   "de": "Bossen en weiden rond Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het zeker dat je dieren ziet?",
+     "en": "Is it certain you will see animals?",
+     "de": "Sieht man sicher Tiere?"
+    },
+    "a": {
+     "nl": "Nee, wilde dieren zijn onvoorspelbaar; geduld en stilte vergroten de kans.",
+     "en": "No, wild animals are unpredictable; patience and silence improve the chances.",
+     "de": "Nein, Wildtiere sind unberechenbar; Geduld und Ruhe erhöhen die Chancen."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s22",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "stargazing-summer-wildschoenau",
+  "slug_de": "sterne-beobachten-sommer",
+  "title": {
+   "nl": "Sterren kijken in de zomer",
+   "en": "Summer stargazing",
+   "de": "Sterne beobachten im Sommer"
+  },
+  "tagline": {
+   "nl": "De nachthemel boven het dal, met telescoop en uitleg",
+   "en": "The night sky above the valley, with telescope and commentary",
+   "de": "Der Nachthimmel über dem Tal, mit Teleskop und Erklärungen"
+  },
+  "intro": {
+   "nl": "Boven de dorpslichten van Niederau is de nachthemel in het gebergte vaak goed te zien. Op een heldere nacht zie je sterren, planeten en soms de Melkweg. In augustus zijn de Perseïden, de vallende sterren, een hoogtepunt.\n\nVolgens de bron is er op bepaalde zomeravonden een geleide avond met een gids en een telescoop op een open plek buiten het dorp. Kinderen mogen een wens doen bij elke vallende ster. Het programma hangt af van het weer; bij bewolking vervalt het. Informeer vooraf naar de data, de plek en de kosten.",
+   "en": "Above the village lights of Niederau, the night sky in the mountains is often clearly visible. On a clear night you can see stars, planets and sometimes the Milky Way. In August the Perseids, the shooting stars, are a highlight.\n\nAccording to the source there is a guided evening on certain summer evenings with a guide and a telescope at an open spot outside the village. Children may make a wish at every shooting star. The programme depends on the weather and is cancelled in cloud. Ask beforehand about dates, location and cost.",
+   "de": "Oberhalb der Dorflichter von Niederau ist der Nachthimmel im Gebirge oft gut zu sehen. In einer klaren Nacht erkennt man Sterne, Planeten und manchmal die Milchstraße. Im August sind die Perseiden, die Sternschnuppen, ein Höhepunkt.\n\nLaut Quelle gibt es an bestimmten Sommerabenden einen geführten Abend mit einem Führer und einem Teleskop an einem offenen Platz außerhalb des Dorfes. Kinder dürfen sich bei jeder Sternschnuppe etwas wünschen. Das Programm hängt vom Wetter ab und fällt bei Bewölkung aus. Vorab nach Terminen, Ort und Kosten fragen."
+  },
+  "tips": {
+   "nl": [
+    "Rond nieuwe maan zijn de meeste sterren zichtbaar.",
+    "De Perseïden zijn ongeveer rond half augustus op hun hoogtepunt.",
+    "Kleed je warm; de nachten zijn fris.",
+    "Gebruik een rood licht in plaats van wit."
+   ],
+   "en": [
+    "Stars are most visible around new moon.",
+    "The Perseids peak around mid-August.",
+    "Dress warmly; the nights are cool.",
+    "Use a red light instead of white."
+   ],
+   "de": [
+    "Um Neumond sind die meisten Sterne zu sehen.",
+    "Die Perseiden haben ihren Höhepunkt etwa Mitte August.",
+    "Warm anziehen; die Nächte sind kühl.",
+    "Rotlicht statt weißes Licht verwenden."
+   ]
+  },
+  "practical": {
+   "nl": "De avond vindt plaats op een open plek buiten het dorp. Informeer bij de toeristische dienst naar de actuele data en het vertrekpunt.",
+   "en": "The evening takes place on an open spot outside the village. Ask the tourist office about current dates and the meeting point.",
+   "de": "Der Abend findet an einem offenen Platz außerhalb des Dorfes statt. Aktuelle Termine und Treffpunkt beim Tourismusverband erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "Vanaf Niederau",
+    "en": "From Niederau",
+    "de": "Ab Niederau"
+   },
+   "season": {
+    "nl": "Zomer, bij helder weer",
+    "en": "Summer, in clear weather",
+    "de": "Sommer, bei klarem Wetter"
+   }
+  },
+  "location": {
+   "nl": "Boven Niederau",
+   "en": "Boven Niederau",
+   "de": "Boven Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer zie je de Perseïden?",
+     "en": "When can you see the Perseids?",
+     "de": "Wann sieht man die Perseiden?"
+    },
+    "a": {
+     "nl": "Ongeveer rond half augustus, bij helder weer en weinig maanlicht.",
+     "en": "Around mid-August, in clear weather and little moonlight.",
+     "de": "Etwa Mitte August, bei klarem Wetter und wenig Mondlicht."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s23",
+  "drop": false,
+  "drop_reason": "",
+  "place": "thierbach",
+  "slug_en": "foraging-berries-herbs-thierbach",
+  "slug_de": "beeren-kraeuter-sammeln-thierbach",
+  "title": {
+   "nl": "Bosvruchten en kruiden zoeken",
+   "en": "Foraging for berries and herbs",
+   "de": "Beeren und Kräuter sammeln"
+  },
+  "tagline": {
+   "nl": "Met een mandje op pad bij Thierbach",
+   "en": "Out with a basket near Thierbach",
+   "de": "Mit dem Körbchen unterwegs bei Thierbach"
+  },
+  "intro": {
+   "nl": "In de bossen en langs de bosranden rond Thierbach groeien in de zomer wilde aardbeien, bosbessen en kruiden zoals munt. Een korte wandeling met een mandje, op zoek naar wat je zelf kunt plukken, is een leuk programma voor kinderen vanaf een jaar of drie.\n\nVolgens de bron is er een bewegwijzerde wandeling van ca. 2 kilometer. Met een kenner leer je wat eetbaar is. Eet nooit iets dat je niet zeker herkent, en spoel wat je plukt goed af. Wat er te vinden is, hangt af van het seizoen en de plek.",
+   "en": "In the forests and forest edges around Thierbach, wild strawberries, bilberries and herbs such as mint grow in summer. A short walk with a basket, hunting for what you can pick yourself, is a nice activity for children from about three.\n\nAccording to the source there is a waymarked walk of about 2 kilometres. With an expert you learn what is edible. Never eat anything you are not sure you recognise, and wash what you pick well. What you find depends on season and spot.",
+   "de": "In den Wäldern und an den Waldrändern rund um Thierbach wachsen im Sommer Walderdbeeren, Heidelbeeren und Kräuter wie Minze. Ein kurzer Spaziergang mit Körbchen, auf der Suche nach Selbstgepflücktem, ist ein schönes Programm für Kinder ab etwa drei Jahren.\n\nLaut Quelle gibt es einen markierten Weg von ca. 2 Kilometern. Mit einem Kenner lernt man, was essbar ist. Nie etwas essen, das man nicht sicher erkennt, und Gepflücktes gut abspülen. Was man findet, hängt von Jahreszeit und Ort ab."
+  },
+  "tips": {
+   "nl": [
+    "Eet niets wat je niet zeker herkent.",
+    "Bosbessen kleuren de tong blauw, kinderen vinden dat leuk.",
+    "Neem een mandje en water mee.",
+    "Spoel wat je plukt goed af."
+   ],
+   "en": [
+    "Do not eat anything you are not sure about.",
+    "Bilberries stain the tongue blue, which children enjoy.",
+    "Bring a basket and water.",
+    "Wash what you pick well."
+   ],
+   "de": [
+    "Nichts essen, was man nicht sicher kennt.",
+    "Heidelbeeren färben die Zunge blau, was Kindern Spaß macht.",
+    "Körbchen und Wasser mitnehmen.",
+    "Gepflücktes gut abspülen."
+   ]
+  },
+  "practical": {
+   "nl": "Thierbach ligt ca. 10 minuten rijden van Niederau; parkeer bij het dorp. Vraag bij de toeristische dienst naar de route of een kaart.",
+   "en": "Thierbach is about 10 minutes' drive from Niederau; park near the village. Ask the tourist office for the route or a map.",
+   "de": "Thierbach liegt ca. 10 Fahrminuten von Niederau entfernt; beim Dorf parken. Nach Route oder Karte beim Tourismusverband fragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 3 jaar",
+    "en": "From about 3 years",
+    "de": "Ab ca. 3 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 tot 2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Gratis of volgens aanbieder; informeer vooraf",
+    "en": "Free or per operator; check beforehand",
+    "de": "Kostenlos oder je nach Anbieter; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 10 min rijden",
+    "en": "About 10 min by car",
+    "de": "Ca. 10 Min. mit dem Auto"
+   },
+   "season": {
+    "nl": "Zomer en vroege herfst",
+    "en": "Summer and early autumn",
+    "de": "Sommer und Frühherbst"
+   }
+  },
+  "location": {
+   "nl": "Thierbach, Wildschönau",
+   "en": "Thierbach, Wildschönau",
+   "de": "Thierbach, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Mag je zomaar in het bos plukken?",
+     "en": "May you simply pick in the woods?",
+     "de": "Darf man einfach im Wald pflücken?"
+    },
+    "a": {
+     "nl": "Voor eigen gebruik en kleine hoeveelheden meestal wel, maar laat beschermde planten staan en respecteer privéterrein.",
+     "en": "For own use and small amounts usually yes, but leave protected plants and respect private land.",
+     "de": "Für den Eigenbedarf und kleine Mengen meist ja, aber geschützte Pflanzen stehen lassen und Privatgrund respektieren."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s25",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "auenweg-herb-trail-niederau",
+  "slug_de": "auenweg-kraeuterpfad-niederau",
+  "title": {
+   "nl": "Auenweg en kruidenpad Niederau",
+   "en": "Auenweg and herb trail Niederau",
+   "de": "Auenweg und Kräuterlehrpfad Niederau"
+  },
+  "tagline": {
+   "nl": "Korte, kinderwagenvriendelijke wandeling met infoborden en speeltuin",
+   "en": "Short, pushchair-friendly walk with information boards and a playground",
+   "de": "Kurzer, kinderwagentauglicher Spaziergang mit Infotafeln und Spielplatz"
+  },
+  "intro": {
+   "nl": "De Auenweg in Niederau is een korte themawandeling van ca. 1 kilometer in het dal, vlak bij het centrum. Het pad is vlak en ook geschikt voor kinderwagens. Langs de route staan informatieborden over wilde kruiden, met beschrijvingen van planten en hun gebruik.\n\nHalverwege ligt een speeltuin, handig voor jonge kinderen. De wandeling is kort en past goed in een rustige ochtend of middag, ook als de bergen in de wolken zitten. Het is meer een ontspannen educatief rondje dan een echte tocht; je ziet er de natuur in het dal van dichtbij. Zonder gids te doen; informeer bij de toeristische dienst naar de actuele route.",
+   "en": "The Auenweg in Niederau is a short themed walk of about 1 kilometre on the valley floor, close to the centre. The path is flat and also suitable for pushchairs. Along the route are information boards about wild herbs, describing plants and their uses.\n\nHalfway along there is a playground, handy for young children. The walk is short and fits a quiet morning or afternoon, even when the mountains are in cloud. It is more a relaxed educational loop than a real hike; you see nature in the valley up close. It can be done without a guide; ask the tourist office about the current route.",
+   "de": "Der Auenweg in Niederau ist ein kurzer Themenweg von etwa 1 Kilometer im Talboden, nahe dem Ortszentrum. Der Weg ist flach und auch für Kinderwagen geeignet. Entlang der Strecke informieren Tafeln über Wildkräuter, mit Beschreibungen der Pflanzen und ihrer Verwendung.\n\nAuf halber Strecke gibt es einen Spielplatz, praktisch für kleine Kinder. Der Spaziergang ist kurz und passt gut zu einem ruhigen Vormittag oder Nachmittag, auch wenn die Berge in Wolken stecken. Er ist eher eine entspannte Lernrunde als eine echte Wanderung; man sieht die Natur im Tal aus der Nähe. Ohne Führung machbar; nach der aktuellen Route beim Tourismusverband fragen."
+  },
+  "tips": {
+   "nl": [
+    "Neem een kleine kruidengids of een app mee om planten te herkennen.",
+    "Plan de speeltuin in als pauze.",
+    "Pluk niets zonder te weten of het eetbaar of beschermd is.",
+    "Combineer met een bezoek aan een café in het dorp."
+   ],
+   "en": [
+    "Bring a small herb guide or an app to identify plants.",
+    "Plan the playground as a break.",
+    "Do not pick anything unless you know it is edible or unprotected.",
+    "Combine with a café stop in the village."
+   ],
+   "de": [
+    "Einen kleinen Kräuterführer oder eine App zum Bestimmen der Pflanzen mitnehmen.",
+    "Den Spielplatz als Pause einplanen.",
+    "Nichts pflücken, ohne zu wissen, ob es essbar oder geschützt ist.",
+    "Mit einer Einkehr im Dorf verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "De wandeling begint in het centrum van Niederau en is te voet te bereiken vanaf de meeste verblijven in het dorp. Zonder auto te doen; reken op ca. 30 minuten met stops.",
+   "en": "The walk starts in Niederau centre and is reachable on foot from most places to stay in the village. No car needed; allow about 30 minutes with stops.",
+   "de": "Der Weg beginnt im Ortszentrum von Niederau und ist von den meisten Unterkünften im Dorf zu Fuß erreichbar. Kein Auto nötig; mit Pausen ca. 30 Minuten einplanen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 30 min tot 1 uur",
+    "en": "About 30 min to 1 hour",
+    "de": "Ca. 30 Min. bis 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "In het dorp, te voet",
+    "en": "In the village, on foot",
+    "de": "Im Ort, zu Fuß"
+   },
+   "season": {
+    "nl": "Meestal zomer; ook als winterwandeling genoemd",
+    "en": "Mostly summer; also listed as a winter walk",
+    "de": "Meist Sommer; auch als Winterwanderung genannt"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Auenweg geschikt voor kinderwagens?",
+     "en": "Is the Auenweg suitable for pushchairs?",
+     "de": "Ist der Auenweg kinderwagentauglich?"
+    },
+    "a": {
+     "nl": "Ja, het pad is kort en vlak en wordt als familievriendelijk beschreven.",
+     "en": "Yes, the path is short and flat and described as family-friendly.",
+     "de": "Ja, der Weg ist kurz und flach und wird als familienfreundlich beschrieben."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s31",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "rainbow-walk-wildschoenau",
+  "slug_de": "regenbogen-spaziergang-wildschoenau",
+  "title": {
+   "nl": "Wandelen na de regenbui",
+   "en": "Walking after the rain",
+   "de": "Spaziergang nach dem Regen"
+  },
+  "tagline": {
+   "nl": "Natte weiden, beekjes en met geluk een regenboog",
+   "en": "Wet meadows, brooks and, with luck, a rainbow",
+   "de": "Nasse Wiesen, Bäche und mit Glück ein Regenbogen"
+  },
+  "intro": {
+   "nl": "In het bergklimaat komen zomerse buien geregeld voor, vaak 's middags. Na zo'n bui breekt de zon vaak weer door en ziet het dal er anders uit: glinsterende weiden, kolkende beekjes en de geur van natte grond. Met een beetje geluk verschijnt er een regenboog boven de bergen.\n\nDit is geen vast programma maar een spontane wandeling, vanuit je accommodatie, die je kunt doen als de regen stopt. Een korte rondgang van ca. een uur in de buurt is genoeg. Kijk naar de zon en de buien om te zien waar een regenboog kan verschijnen. Waterdichte kleding en laarzen zijn handig.",
+   "en": "In the mountain climate summer showers are frequent, often in the afternoon. After one, the sun often breaks through and the valley looks different: glistening meadows, rushing brooks and the smell of wet ground. With luck a rainbow appears over the mountains.\n\nThis is not a fixed programme but a spontaneous walk from your accommodation that you can do when the rain stops. A short loop of about an hour nearby is enough. Watch the sun and the showers to see where a rainbow might appear. Waterproof clothing and boots are handy.",
+   "de": "Im Bergklima sind sommerliche Schauer häufig, oft am Nachmittag. Danach bricht die Sonne oft wieder durch und das Tal sieht anders aus: glitzernde Wiesen, rauschende Bäche und der Duft nasser Erde. Mit etwas Glück erscheint ein Regenbogen über den Bergen.\n\nDas ist kein festes Programm, sondern ein spontaner Spaziergang ab der Unterkunft, den man machen kann, wenn der Regen aufhört. Eine kurze Runde von etwa einer Stunde in der Nähe genügt. Auf Sonne und Schauer achten, um zu sehen, wo ein Regenbogen entstehen kann. Wasserdichte Kleidung und Stiefel sind praktisch."
+  },
+  "tips": {
+   "nl": [
+    "Wacht tot de regen echt gestopt is.",
+    "Neem een regenjas en laarzen mee.",
+    "Kijk tegen de zon in tegengestelde richting voor een regenboog.",
+    "Een fototoestel of telefoon is handig."
+   ],
+   "en": [
+    "Wait until the rain has really stopped.",
+    "Bring a rain jacket and boots.",
+    "Look away from the sun for a rainbow.",
+    "A camera or phone is handy."
+   ],
+   "de": [
+    "Warten, bis der Regen wirklich aufgehört hat.",
+    "Regenjacke und Stiefel mitnehmen.",
+    "Für einen Regenbogen von der Sonne wegschauen.",
+    "Kamera oder Handy sind praktisch."
+   ]
+  },
+  "practical": {
+   "nl": "Je kunt direct vanuit je verblijf in Niederau de wandeling beginnen; er is geen reservering nodig.",
+   "en": "You can start straight from your accommodation in Niederau; no booking is needed.",
+   "de": "Man kann direkt ab der Unterkunft in Niederau starten; eine Reservierung ist nicht nötig."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Gratis",
+    "en": "Free",
+    "de": "Kostenlos"
+   },
+   "distance": {
+    "nl": "Vanuit het dorp, te voet",
+    "en": "From the village, on foot",
+    "de": "Vom Ort aus zu Fuß"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Dal van Niederau",
+   "en": "Dal van Niederau",
+   "de": "Dal van Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is een regenboog gegarandeerd?",
+     "en": "Is a rainbow guaranteed?",
+     "de": "Ist ein Regenbogen garantiert?"
+    },
+    "a": {
+     "nl": "Nee, het hangt af van zon en buien; de wandeling zelf is ook zonder regenboog fijn.",
+     "en": "No, it depends on sun and showers; the walk is pleasant even without a rainbow.",
+     "de": "Nein, das hängt von Sonne und Schauern ab; der Spaziergang ist auch ohne Regenbogen schön."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s32",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "insects-butterflies-oberau",
+  "slug_de": "insekten-schmetterlinge-oberau",
+  "title": {
+   "nl": "Insecten en vlinders ontdekken",
+   "en": "Discovering insects and butterflies",
+   "de": "Insekten und Schmetterlinge entdecken"
+  },
+  "tagline": {
+   "nl": "Op zoek naar het kleine leven in de bloemrijke weiden",
+   "en": "Looking for small creatures in the flower-rich meadows",
+   "de": "Auf der Suche nach Kleintieren in blumenreichen Wiesen"
+  },
+  "intro": {
+   "nl": "In de bloemrijke weiden rond Oberau leven veel vlinders, kevers, hommels en bijen. Kinderen kunnen daar op ontdekkingstocht met een loep en een insectenboekje. Wie op zijn knieën in het gras kijkt, ziet vaak meer dan verwacht.\n\nVolgens de bron is er een geleide wandeling van ca. anderhalf uur, geschikt vanaf ongeveer vier jaar, waarbij een vlinder voorzichtig even in een kijkpotje wordt bekeken en weer vrijgelaten. Kinderen leren zo over bestuiving en waarom insecten belangrijk zijn. Of er een gids is, wisselt; je kunt het ook zelf doen.",
+   "en": "The flower-rich meadows around Oberau are home to many butterflies, beetles, bumblebees and bees. Children can explore with a magnifying glass and an insect booklet. Looking at grass level on your knees often reveals more than expected.\n\nAccording to the source there is a guided walk of about an hour and a half, suitable from around four years, where a butterfly is briefly examined in a viewing pot and then released. Children learn about pollination and why insects matter. Whether a guide is available varies; you can also do it yourself.",
+   "de": "In den blumenreichen Wiesen rund um Oberau leben viele Schmetterlinge, Käfer, Hummeln und Bienen. Kinder können mit Lupe und Insektenheft auf Entdeckungstour gehen. Wer auf Knien im Gras schaut, sieht oft mehr als erwartet.\n\nLaut Quelle gibt es eine geführte Wanderung von ca. anderthalb Stunden, geeignet ab etwa vier Jahren, bei der ein Schmetterling kurz in einem Beobachtungsglas betrachtet und wieder freigelassen wird. Kinder lernen so etwas über Bestäubung und warum Insekten wichtig sind. Ob ein Führer dabei ist, wechselt; man kann es auch selbst machen."
+  },
+  "tips": {
+   "nl": [
+    "Beste maanden zijn ongeveer juni tot augustus.",
+    "Neem een loep en een insectenboekje mee.",
+    "Volg de bijen naar de mooiste bloemen.",
+    "Laat dieren altijd weer vrij en ga voorzichtig te werk."
+   ],
+   "en": [
+    "Best months are roughly June to August.",
+    "Bring a magnifying glass and an insect guide.",
+    "Follow the bees to the best flowers.",
+    "Always release animals and handle them gently."
+   ],
+   "de": [
+    "Beste Monate sind etwa Juni bis August.",
+    "Lupe und Insektenführer mitnehmen.",
+    "Den Bienen zu den schönsten Blumen folgen.",
+    "Tiere immer wieder freilassen und vorsichtig sein."
+   ]
+  },
+  "practical": {
+   "nl": "De wandeling start in Niederau en loopt door weiden bij Oberau. Informeer bij de toeristische dienst naar de dag, het uur en de prijs.",
+   "en": "The walk starts in Niederau and passes through meadows near Oberau. Ask the tourist office about day, time and price.",
+   "de": "Die Wanderung startet in Niederau und führt durch Wiesen bei Oberau. Tag, Uhrzeit und Preis beim Tourismusverband erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 4 jaar",
+    "en": "From about 4 years",
+    "de": "Ab ca. 4 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "Vanaf Niederau",
+    "en": "From Niederau",
+    "de": "Ab Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Weiden bij Oberau",
+   "en": "Weiden bij Oberau",
+   "de": "Weiden bij Oberau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Welke dieren kunnen kinderen zien?",
+     "en": "Which animals can children see?",
+     "de": "Welche Tiere können Kinder sehen?"
+    },
+    "a": {
+     "nl": "Vlinders, kevers, bijen en hommels; precieze soorten hangen van tijd en plek af.",
+     "en": "Butterflies, beetles, bees and bumblebees; exact species depend on time and place.",
+     "de": "Schmetterlinge, Käfer, Bienen und Hummeln; welche genau, hängt von Zeit und Ort ab."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s47",
+  "drop": true,
+  "drop_reason": "Astro Camp niet te bevestigen; dubbel/overlap met s22.",
+  "verified": false
+ },
+ {
+  "id": "s48",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "alpine-hut-day-markbachjoch",
+  "slug_de": "almhuette-markbachjoch-tagesausflug",
+  "title": {
+   "nl": "Dag op een berghut bij het Markbachjoch",
+   "en": "A day at a mountain hut near the Markbachjoch",
+   "de": "Tag auf einer Almhütte am Markbachjoch"
+  },
+  "tagline": {
+   "nl": "Wandelen naar een alpenhut voor melk, kaas en terras",
+   "en": "A walk to an alpine hut for milk, cheese and a terrace",
+   "de": "Wanderung zur Alm mit Milch, Käse und Terrasse"
+  },
+  "intro": {
+   "nl": "Rond het Markbachjoch liggen verscheidene alpenhutten met een terras en eigen producten, zoals melk, kaas, spek en brood. Een tocht naar zo'n hut is een klassiek familieprogramma: lopen, uitrusten en lekker eten.\n\nVolgens de bron duurt de wandeling vanuit Niederau ca. 45 minuten, of je gaat met de gondel naar het Markbachjoch en loopt vandaar ca. 15 minuten. Kinderen vinden het vaak leuk om de koeien in de buurt te zien; houd afstand en blijf op het pad. Let op: de naam van de hut uit de bron kon niet worden bevestigd. Informeer bij de toeristische dienst welke hutten geopend zijn.",
+   "en": "Around the Markbachjoch there are several alpine huts with terraces and their own produce, such as milk, cheese, bacon and bread. A trip to such a hut is a classic family programme: walk, rest and eat well.\n\nAccording to the source the walk from Niederau takes about 45 minutes, or you take the gondola to the Markbachjoch and walk about 15 minutes from there. Children often enjoy seeing the cows nearby; keep your distance and stay on the path. Note: the hut name in the source could not be confirmed. Ask the tourist office which huts are open.",
+   "de": "Rund um das Markbachjoch gibt es mehrere Almhütten mit Terrasse und eigenen Produkten wie Milch, Käse, Speck und Brot. Ein Ausflug zu einer solchen Hütte ist ein klassisches Familienprogramm: wandern, rasten und gut essen.\n\nLaut Quelle dauert der Weg ab Niederau etwa 45 Minuten, oder man fährt mit der Gondel zum Markbachjoch und geht von dort ca. 15 Minuten. Kinder freuen sich oft über die Kühe in der Nähe; Abstand halten und auf dem Weg bleiben. Hinweis: Der Hüttenname in der Quelle ließ sich nicht bestätigen. Beim Tourismusverband erfragen, welche Hütten geöffnet sind."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf welke hut open is.",
+    "Probeer lokale producten zoals kaas en melk.",
+    "Neem contant geld mee; niet overal kun je pinnen.",
+    "Houd afstand van koeien en blijf op het pad."
+   ],
+   "en": [
+    "Check beforehand which hut is open.",
+    "Try local products such as cheese and milk.",
+    "Bring cash; cards are not accepted everywhere.",
+    "Keep away from cows and stay on the path."
+   ],
+   "de": [
+    "Vorab klären, welche Hütte geöffnet ist.",
+    "Regionale Produkte wie Käse und Milch probieren.",
+    "Bargeld mitnehmen; nicht überall wird Karte akzeptiert.",
+    "Abstand zu Kühen halten und auf dem Weg bleiben."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau loop je ca. 45 minuten omhoog, of rijd je met de gondel naar het Markbachjoch en loop je ca. 15 minuten. Reken op een halve dag.",
+   "en": "From Niederau it is about a 45-minute walk uphill, or take the gondola to the Markbachjoch and walk about 15 minutes. Allow half a day.",
+   "de": "Ab Niederau geht man ca. 45 Minuten bergauf, oder man fährt mit der Gondel zum Markbachjoch und geht ca. 15 Minuten. Einen halben Tag einplanen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve tot hele dag",
+    "en": "Half to full day",
+    "de": "Halber bis ganzer Tag"
+   },
+   "price": {
+    "nl": "Consumpties voor eigen rekening",
+    "en": "Refreshments at your own cost",
+    "de": "Verzehr auf eigene Kosten"
+   },
+   "distance": {
+    "nl": "Ca. 45 min lopen vanaf Niederau",
+    "en": "About 45 min walk from Niederau",
+    "de": "Ca. 45 Min. zu Fuß ab Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Markbachjoch, Niederau",
+   "en": "Markbachjoch, Niederau",
+   "de": "Markbachjoch, Niederau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je met de gondel naar boven?",
+     "en": "Can you take the gondola up?",
+     "de": "Kann man mit der Gondel hinauffahren?"
+    },
+    "a": {
+     "nl": "Ja, vanaf Niederau naar het Markbachjoch; daarna volgt een korte wandeling.",
+     "en": "Yes, from Niederau to the Markbachjoch, followed by a short walk.",
+     "de": "Ja, ab Niederau zum Markbachjoch; danach folgt ein kurzer Spaziergang."
+    }
+   }
+  ],
+  "verified": false
+ },
+ {
+  "id": "s5",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "farm-visit-milking-wildschoenau",
+  "slug_de": "bauernhofbesuch-melken-wildschoenau",
+  "title": {
+   "nl": "Boerderijbezoek en koeien melken",
+   "en": "Farm visit and cow milking",
+   "de": "Bauernhofbesuch und Kühe melken"
+  },
+  "tagline": {
+   "nl": "Kinderen ontdekken waar melk en kaas vandaan komen",
+   "en": "Children find out where milk and cheese come from",
+   "de": "Kinder entdecken, woher Milch und Käse kommen"
+  },
+  "intro": {
+   "nl": "Het Wildschönau-dal heeft veel kleine boerderijen. Een bezoek aan een bergboerderij is een leerzaam programma voor gezinnen: kinderen zien de dieren, krijgen uitleg over het werk en leren hoe melk tot kaas wordt gemaakt.\n\nVolgens de bron kunnen kinderen op sommige boerderijen vanaf ongeveer drie jaar helpen met aaien, voeren en soms melken en proeven; de bezoeken zijn 's ochtends rond de melktijd, duren ca. twee uur en worden via de toeristische dienst of het hotel geregeld. De precieze aanbieder, tijden en kosten kon ik niet bevestigen, dus informeer vooraf. Ook kleine kaasmakerijen op alpenweiden zijn vaak een bezoek waard.",
+   "en": "The Wildschönau valley has many small farms. A visit to a mountain farm is an educational programme for families: children see the animals, hear about the work and learn how milk becomes cheese.\n\nAccording to the source, on some farms children from about three can help with stroking, feeding and sometimes milking and tasting; visits take place in the morning around milking time, last about two hours and are arranged through the tourist office or hotel. The exact operator, times and cost could not be confirmed, so ask beforehand. Small alpine cheese dairies are often worth a visit too.",
+   "de": "Das Wildschönau hat viele kleine Bauernhöfe. Ein Besuch auf einem Bergbauernhof ist ein lehrreiches Programm für Familien: Kinder sehen die Tiere, erfahren etwas über die Arbeit und lernen, wie aus Milch Käse wird.\n\nLaut Quelle können Kinder auf manchen Höfen ab etwa drei Jahren beim Streicheln, Füttern und teils Melken und Probieren helfen; die Besuche finden morgens zur Melkzeit statt, dauern ca. zwei Stunden und werden über den Tourismusverband oder das Hotel organisiert. Genauer Anbieter, Zeiten und Kosten ließen sich nicht bestätigen, daher vorab nachfragen. Auch kleine Alpkäsereien sind oft einen Besuch wert."
+  },
+  "tips": {
+   "nl": [
+    "Trek laarzen of stevige schoenen aan.",
+    "Kom op tijd; de melktijd is vroeg.",
+    "Vraag naar de kaas van de boerderij.",
+    "Houd afstand tot dieren die je niet kent."
+   ],
+   "en": [
+    "Wear boots or sturdy shoes.",
+    "Arrive on time; milking time is early.",
+    "Ask about the farm's cheese.",
+    "Keep away from animals you do not know."
+   ],
+   "de": [
+    "Stiefel oder festes Schuhwerk tragen.",
+    "Pünktlich sein; die Melkzeit ist früh.",
+    "Nach dem Käse vom Hof fragen.",
+    "Abstand zu unbekannten Tieren halten."
+   ]
+  },
+  "practical": {
+   "nl": "Het bezoek wordt in de regel via de toeristische dienst of je accommodatie geregeld; de boerderijen liggen in het dal, bijvoorbeeld bij Oberau of Thierbach, op ca. 10 minuten van Niederau.",
+   "en": "The visit is usually arranged through the tourist office or your accommodation; the farms are in the valley, for example near Oberau or Thierbach, about 10 minutes from Niederau.",
+   "de": "Der Besuch wird in der Regel über den Tourismusverband oder die Unterkunft organisiert; die Höfe liegen im Tal, etwa bei Oberau oder Thierbach, ca. 10 Minuten von Niederau."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 3 jaar",
+    "en": "From about 3 years",
+    "de": "Ab ca. 3 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; check beforehand",
+    "de": "Preis variiert; vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 10 min vanaf Niederau",
+    "en": "About 10 min from Niederau",
+    "de": "Ca. 10 Min. ab Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Oberau en Thierbach",
+   "en": "Oberau en Thierbach",
+   "de": "Oberau en Thierbach"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Moet je reserveren?",
+     "en": "Do you need to book?",
+     "de": "Muss man reservieren?"
+    },
+    "a": {
+     "nl": "Meestal wel; vraag bij de toeristische dienst of je accommodatie.",
+     "en": "Usually yes; ask the tourist office or your accommodation.",
+     "de": "Meist ja; beim Tourismusverband oder der Unterkunft nachfragen."
+    }
+   }
+  ],
+  "verified": false
+ }
+]
