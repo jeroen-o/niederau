@@ -1,0 +1,1541 @@
+[
+ {
+  "id": "s225",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "adventure-park-achensee",
+  "slug_de": "abenteuerpark-achensee",
+  "title": {
+   "nl": "Hochseilgarten Achensee",
+   "en": "High ropes course at Achensee",
+   "de": "Hochseilgarten am Achensee"
+  },
+  "tagline": {
+   "nl": "Klimparcours in de boomtoppen aan het Achensee",
+   "en": "Treetop climbing courses by Lake Achensee",
+   "de": "Klettern in den Baumwipfeln am Achensee"
+  },
+  "intro": {
+   "nl": "Het Abenteuerpark Achensee ligt bij Achenkirch, aan de weg langs het Achensee, niet ver van de scheepsaanlegplaats Achenseehof. Het park heeft zeven parcoursen in verschillende moeilijkheidsgraden, op ongeveer 2 tot 15 meter hoogte. Je loopt over bruggen en netten, balanceert over zwaaiende boomstammen en sluit af met een Flying Fox.\n\nBehalve klimmen is er in het park meer te doen: er zijn onder meer een slacklinebaan, een speelplaats, boogschieten en een outdoor escape game. Daardoor is het een goede keuze voor een gezin met kinderen van wisselende leeftijd, bijvoorbeeld als aanvulling op een dag aan het meer. Let op: het park ligt in Achenkirch en niet in Pertisau.",
+   "en": "The Abenteuerpark Achensee is in Achenkirch, on the road along Lake Achensee and close to the Achenseehof boat landing. It has seven courses of varying difficulty at heights of roughly 2 to 15 metres. You cross bridges and nets, balance along swinging logs and finish with a flying fox.\n\nClimbing is not the only thing on offer: the park also has a slackline course, a playground, archery and an outdoor escape game. That makes it a good choice for families with children of different ages, for instance as part of a day at the lake. Note that the park is in Achenkirch rather than Pertisau.",
+   "de": "Der Abenteuerpark Achensee liegt in Achenkirch an der Achenseestraße, nicht weit von der Schiffsanlegestelle Achenseehof. Er hat sieben Parcours unterschiedlicher Schwierigkeit in etwa 2 bis 15 Metern Höhe. Man geht über Brücken und Netze, balanciert über schwingende Baumstämme und endet mit einem Flying Fox.\n\nNeben dem Klettern gibt es weitere Angebote: unter anderem eine Slackline-Strecke, einen Spielplatz, Bogenschießen und ein Outdoor-Escape-Game. Das passt gut für Familien mit Kindern verschiedenen Alters, etwa als Ergänzung zu einem Tag am See. Der Park liegt in Achenkirch und nicht in Pertisau."
+  },
+  "tips": {
+   "nl": [
+    "Informeer vooraf naar de minimale lengte of leeftijd per parcours.",
+    "Draag stevige, gesloten schoenen en kleding waarin je kunt bewegen.",
+    "Combineer het bezoek met een boottocht of een wandeling langs het Achensee.",
+    "Kijk vooraf naar openingstijden; die hangen af van seizoen en weer."
+   ],
+   "en": [
+    "Ask beforehand about the minimum height or age for each course.",
+    "Wear sturdy, closed shoes and clothes you can move in.",
+    "Combine the visit with a boat trip or a walk along Lake Achensee.",
+    "Check opening times in advance; they depend on season and weather."
+   ],
+   "de": [
+    "Frage vorab nach Mindestgröße oder Mindestalter pro Parcours.",
+    "Feste, geschlossene Schuhe und bewegliche Kleidung tragen.",
+    "Der Besuch lässt sich mit einer Schifffahrt oder einem Spaziergang am Achensee verbinden.",
+    "Öffnungszeiten vorab prüfen; sie hängen von Saison und Wetter ab."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau rijd je ca. 1 uur via Wörgl en de A12 (afrit Jenbach) richting Achensee en Achenkirch. Parkeren is mogelijk bij het park; controleer actuele informatie op de website van het park of van de regio.",
+   "en": "From Niederau it is about an hour by car via Wörgl and the A12 (Jenbach exit) towards Lake Achensee and Achenkirch. Check current details with the park or the regional tourist office.",
+   "de": "Von Niederau fährt man ca. 1 Stunde über Wörgl und die A12 (Ausfahrt Jenbach) zum Achensee und nach Achenkirch. Aktuelle Details bitte beim Park oder beim Tourismusverband erfragen."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 hour by car",
+    "de": "Ca. 1 Stunde Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (informeer naar openingstijden)",
+    "en": "Summer (check opening times)",
+    "de": "Sommer (Öffnungszeiten erfragen)"
+   }
+  },
+  "location": {
+   "nl": "Achenkirch, Achensee",
+   "en": "Achenkirch, Lake Achensee",
+   "de": "Achenkirch, Achensee"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Ligt het klimpark in Pertisau of Achenkirch?",
+     "en": "Is the climbing park in Pertisau or Achenkirch?",
+     "de": "Liegt der Kletterpark in Pertisau oder Achenkirch?"
+    },
+    "a": {
+     "nl": "Het Abenteuerpark Achensee ligt in Achenkirch, aan de hoofdweg langs het meer tussen Maurach en Achenkirch.",
+     "en": "The Abenteuerpark Achensee is in Achenkirch, on the main road along the lake between Maurach and Achenkirch.",
+     "de": "Der Abenteuerpark Achensee liegt in Achenkirch an der Hauptstraße am See zwischen Maurach und Achenkirch."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s255",
+  "drop": true,
+  "drop_reason": "Hochseilgarten Wörgl niet te vinden; geen bevestiging van een klimpark in Wörgl.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s262",
+  "drop": true,
+  "drop_reason": "Geen zomerbobslee in Brixen im Thale gevonden; Hochbrixen-gondel heeft RiesenWelt-park, geen coaster.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s264",
+  "drop": true,
+  "drop_reason": "Geen tandemsprong vanaf Innsbruck bevestigd; aanbieder zit in St. Johann in Tirol (Bestskydive).",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s27",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "tennis-oberau-wildschoenau",
+  "slug_de": "tennis-oberau-wildschoenau",
+  "title": {
+   "nl": "Tennissen in Oberau",
+   "en": "Tennis in Oberau",
+   "de": "Tennis in Oberau"
+  },
+  "tagline": {
+   "nl": "Drie gravelbanen in het Wildschönauer dal",
+   "en": "Three clay courts in the Wildschönau valley",
+   "de": "Drei Sandplätze im Wildschönauer Tal"
+  },
+  "intro": {
+   "nl": "De tennisbanen van de Wildschönau liggen in Oberau, het dorp naast Niederau. Er zijn drie gravelbanen en een café met drankjes. De banen liggen in de buurt van het openluchtzwembad, zodat je sport en zwemmen makkelijk combineert.\n\nHet gebruik van de banen is inbegrepen bij de Wildschönau Card. Het seizoen loopt in de zomer, ruwweg van eind april tot half september, afhankelijk van het weer. Een dag van tevoren reserveren is verstandig. Het is een mooie activiteit voor een regenvrij dagdeel, met de bergen als achtergrond.",
+   "en": "The Wildschönau tennis courts are in Oberau, the village next to Niederau. There are three clay courts and a café serving refreshments. They are close to the open-air swimming pool, so it is easy to combine tennis with a swim.\n\nUse of the courts is included with the Wildschönau Card. The season runs through the summer, roughly from late April to mid September, depending on the weather. Booking a day ahead is advisable. It makes a good activity for a dry part of the day, with the mountains as a backdrop.",
+   "de": "Die Tennisplätze der Wildschönau liegen in Oberau, dem Nachbarort von Niederau. Es gibt drei Sandplätze und ein Café mit Erfrischungen. Sie befinden sich in der Nähe des Freischwimmbads, sodass sich Tennis und Baden gut verbinden lassen.\n\nDie Nutzung der Plätze ist mit der Wildschönau Card inklusive. Die Saison läuft im Sommer, etwa von Ende April bis Mitte September, je nach Wetter. Eine Reservierung am Vortag ist ratsam. Eine schöne Aktivität für einen trockenen Tagesabschnitt mit Bergkulisse."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een dag van tevoren.",
+    "Neem eigen racket en tennisschoenen mee als je die hebt; informeer naar verhuur.",
+    "Betaling ter plekke gebeurt volgens de informatie van de regio contant.",
+    "Combineer met een bezoek aan het openluchtzwembad."
+   ],
+   "en": [
+    "Reserve a day in advance.",
+    "Bring your own racket and tennis shoes if you have them; ask about rental.",
+    "According to the regional information, payment on site is cash only.",
+    "Combine with a visit to the open-air pool."
+   ],
+   "de": [
+    "Einen Tag vorher reservieren.",
+    "Eigenen Schläger und Tennisschuhe mitbringen; nach Verleih fragen.",
+    "Laut Regionsinfo wird vor Ort bar bezahlt.",
+    "Mit einem Besuch im Freischwimmbad kombinieren."
+   ]
+  },
+  "practical": {
+   "nl": "Oberau ligt ca. 5 minuten rijden van Niederau; het adres is Weihererfeldweg in Oberau. Openingstijden zijn weersafhankelijk, dus controleer eerst bij de Wildschönau Tourismus.",
+   "en": "Oberau is about 5 minutes by car from Niederau; the courts are on Weihererfeldweg. Opening hours depend on the weather, so check with Wildschönau Tourism first.",
+   "de": "Oberau ist ca. 5 Autominuten von Niederau entfernt; die Plätze liegen am Weihererfeldweg. Die Öffnung ist wetterabhängig, bitte vorher beim Tourismusverband Wildschönau nachfragen."
+  },
+  "facts": {
+   "age": {},
+   "duration": {
+    "nl": "Per uur te boeken",
+    "en": "Bookable by the hour",
+    "de": "Stundenweise buchbar"
+   },
+   "price": {
+    "nl": "Inbegrepen bij de Wildschönau Card; anders informeer vooraf",
+    "en": "Included with the Wildschönau Card; otherwise ask in advance",
+    "de": "Mit Wildschönau Card inklusive; sonst vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 5 min rijden",
+    "en": "About 5 minutes by car",
+    "de": "Ca. 5 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. eind april - half september)",
+    "en": "Summer (roughly late April to mid September)",
+    "de": "Sommer (ca. Ende April bis Mitte September)"
+   }
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
+  "url": "https://www.wildschoenau.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn er tennisbanen in Niederau zelf?",
+     "en": "Are there tennis courts in Niederau itself?",
+     "de": "Gibt es Tennisplätze in Niederau selbst?"
+    },
+    "a": {
+     "nl": "De regionale informatie noemt de banen in Oberau, het naastgelegen dorp, met drie gravelbanen.",
+     "en": "The regional information lists the courts in neighbouring Oberau, with three clay courts.",
+     "de": "Die Regionsinfo nennt die Anlage im Nachbarort Oberau mit drei Sandplätzen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s271",
+  "drop": false,
+  "drop_reason": "",
+  "place": "koessen",
+  "slug_en": "3d-archery-koessen",
+  "slug_de": "3d-bogenschiessen-koessen",
+  "title": {
+   "nl": "3D-boogschieten in Kössen",
+   "en": "3D archery in Kössen",
+   "de": "3D-Bogenschießen in Kössen"
+  },
+  "tagline": {
+   "nl": "Met pijl en boog door het bos op zoek naar 3D-doelen",
+   "en": "Stalk 3D targets through the forest with a bow",
+   "de": "Mit Pfeil und Bogen auf Waldparcours"
+  },
+  "intro": {
+   "nl": "In Kössen, aan de voet van de Wilder Kaiser, kun je onder begeleiding boogschieten op een bosparcours. Na een korte oefening op een schijf loop je door het terrein en zoek je 3D-doelen in de vorm van dieren. De route voert door schaduwrijk bos, wat fijn is op warme dagen.\n\nDe activiteit duurt ongeveer twee uur en is bedoeld voor het hele gezin; kinderen vanaf ca. 8 jaar kunnen meedoen. Je hebt geen ervaring nodig, want je krijgt uitleg en materiaal. Het is een rustige, geconcentreerde sport die ook voor ouders een leuke uitdaging is.",
+   "en": "In Kössen, at the foot of the Wilder Kaiser, you can try guided archery on a forest course. After a short practice round on a target you walk through the terrain looking for 3D targets shaped like animals. The route runs through shady woodland, which is welcome on warm days.\n\nThe activity takes about two hours and suits the whole family; children from about 8 years old can join. No experience is needed because you get instruction and equipment. It is a calm, focused sport that also challenges the parents.",
+   "de": "In Kössen am Fuß des Wilden Kaisers kann man unter Anleitung auf einem Waldparcours Bogenschießen. Nach einer kurzen Übung an der Scheibe geht es durch das Gelände, wo 3D-Tierfiguren als Ziele warten. Die Strecke führt durch schattigen Wald, was an warmen Tagen angenehm ist.\n\nDie Aktivität dauert etwa zwei Stunden und eignet sich für die ganze Familie; Kinder ab ca. 8 Jahren können teilnehmen. Erfahrung ist nicht nötig, denn Einweisung und Ausrüstung sind dabei. Es ist ein ruhiger, konzentrierter Sport, der auch Eltern fordert."
+  },
+  "tips": {
+   "nl": [
+    "Meld je vooraf aan; plekken zijn beperkt.",
+    "Draag stevige schoenen en kleding die bij het weer past.",
+    "Vraag naar prijzen en groepsgrootte bij de aanbieder.",
+    "Bij de Kaiserwinkl-gastenkaart kan een korting gelden; informeer ernaar."
+   ],
+   "en": [
+    "Book in advance; places are limited.",
+    "Wear sturdy shoes and clothing suited to the weather.",
+    "Ask the provider about prices and group size.",
+    "A guest-card discount may apply; ask about it."
+   ],
+   "de": [
+    "Vorab anmelden; die Plätze sind begrenzt.",
+    "Feste Schuhe und wettergerechte Kleidung tragen.",
+    "Preise und Gruppengröße beim Anbieter erfragen.",
+    "Mit Gästekarte kann es eine Ermäßigung geben; einfach nachfragen."
+   ]
+  },
+  "practical": {
+   "nl": "Kössen ligt ca. 1 uur rijden van Niederau, in het Kufsteinerland bij de Wilder Kaiser. Het verzamelpunt is bij de aanbieder (SportundNatur) in Kössen; bevestig tijden en plek bij het boeken.",
+   "en": "Kössen is about an hour's drive from Niederau, in the Kufsteinerland next to the Wilder Kaiser. The meeting point is with the provider (SportundNatur) in Kössen; confirm time and place when booking.",
+   "de": "Kössen liegt ca. 1 Stunde Autofahrt von Niederau entfernt im Kufsteinerland am Wilden Kaiser. Treffpunkt ist beim Anbieter (SportundNatur) in Kössen; Zeit und Ort bei der Buchung bestätigen lassen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 8 jaar",
+    "en": "From about 8 years",
+    "de": "Ab ca. 8 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur rijden",
+    "en": "About 1 hour by car",
+    "de": "Ca. 1 Stunde Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kössen, Kufsteinerland",
+   "en": "Kössen, Kufsteinerland",
+   "de": "Kössen, Kufsteinerland"
+  },
+  "url": "https://www.sportundnatur.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Vanaf welke leeftijd kun je meedoen?",
+     "en": "What is the minimum age?",
+     "de": "Ab welchem Alter kann man teilnehmen?"
+    },
+    "a": {
+     "nl": "Volgens de beschrijving van de aanbieder vanaf ca. 8 jaar; bevestig dit bij het boeken.",
+     "en": "According to the provider, from about 8 years; confirm when booking.",
+     "de": "Laut Anbieter ab ca. 8 Jahren; bitte bei der Buchung bestätigen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s274",
+  "drop": true,
+  "drop_reason": "Geen 'Wildwasserpark Landeck' gevonden; alleen commerciële rafting op de Inn.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s278",
+  "drop": true,
+  "drop_reason": "Tennispark met squash en fitness in St. Johann niet bevestigd.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s294",
+  "drop": true,
+  "drop_reason": "Kanoën op de Ziller bij Zell am Ziller niet bevestigd.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s30",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "schatzbergbahn-summer-auffach",
+  "slug_de": "schatzbergbahn-sommer-auffach",
+  "title": {
+   "nl": "Schatzbergbahn in de zomer",
+   "en": "Schatzberg cable car in summer",
+   "de": "Schatzbergbahn im Sommer"
+  },
+  "tagline": {
+   "nl": "Met de gondel van Auffach naar het wandelgebied",
+   "en": "Gondola from Auffach into the hiking area",
+   "de": "Mit der Gondel von Auffach ins Wandergebiet"
+  },
+  "intro": {
+   "nl": "De Schatzbergbahn vertrekt in Auffach en brengt je in ongeveer een kwartier omhoog; onderweg stopt de gondel bij het middenstation Koglmoos. Het bergstation ligt op ruim 1.770 meter. Boven vind je een netwerk van wandelpaden, een rondwandeling langs de Schatzberg Alm en het Gipfö Hit, en uitzicht over de Wildschönau.\n\nVoor gezinnen is het een praktische manier om hoog te komen zonder lange klim. Bij het bergstation staan geiten die graag bezoek krijgen, en bij Koglmoos is een waterspeelplaats voor kinderen. In de zomer rijdt de bahn in een vast seizoen; houders van de Kitzbüheler Alpen Sommerkaart rijden gratis.",
+   "en": "The Schatzbergbahn starts in Auffach and takes you up in roughly a quarter of an hour; on the way the gondola stops at the Koglmoos middle station. The top station is at just over 1,770 metres. Up there you will find a network of walking trails, a circular route past the Schatzberg Alm and the Gipfö Hit, and views over the Wildschönau.\n\nFor families it is a practical way to gain height without a long climb. Goats near the top station like visitors, and Koglmoos has a water playground for children. The lift runs in a fixed summer season; holders of the Kitzbüheler Alpen summer card ride free.",
+   "de": "Die Schatzbergbahn startet in Auffach und bringt Sie in etwa einer Viertelstunde nach oben; unterwegs hält die Gondel an der Mittelstation Koglmoos. Die Bergstation liegt auf gut 1.770 Metern. Oben gibt es ein Netz von Wanderwegen, eine Rundtour an der Schatzberg Alm und dem Gipfö Hit vorbei und Aussicht über die Wildschönau.\n\nFür Familien ist das ein praktischer Weg, ohne langen Aufstieg Höhe zu gewinnen. An der Bergstation freuen sich Ziegen über Besuch, und bei Koglmoos gibt es einen Wasserspielplatz für Kinder. Die Bahn fährt in einer festen Sommersaison; mit der Kitzbüheler Alpen Sommerkarte fährt man gratis."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf de zomerdienstregeling en het weer.",
+    "Neem een warme laag mee; boven is het kouder dan in het dal.",
+    "Kinderen vinden de waterspeelplaats bij Koglmoos leuk.",
+    "Lunch kan bij de Schatzberg Alm, het Gipfö Hit of Koglmoos."
+   ],
+   "en": [
+    "Check the summer timetable and the weather beforehand.",
+    "Take a warm layer; it is cooler at the top than in the valley.",
+    "Children enjoy the water playground at Koglmoos.",
+    "You can have lunch at the Schatzberg Alm, the Gipfö Hit or Koglmoos."
+   ],
+   "de": [
+    "Sommerfahrplan und Wetter vorab prüfen.",
+    "Eine warme Schicht mitnehmen; oben ist es kühler als im Tal.",
+    "Kinder mögen den Wasserspielplatz bei Koglmoos.",
+    "Einkehr ist an der Schatzberg Alm, am Gipfö Hit oder in Koglmoos möglich."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 10-15 minuten rijden van Niederau; het dalstation staat in het dorp. Prijzen en dienstregeling vind je bij Ski Juwel of de Wildschönau Tourismus.",
+   "en": "Auffach is about 10 to 15 minutes by car from Niederau; the valley station is in the village. Prices and timetable are available from Ski Juwel or Wildschönau Tourism.",
+   "de": "Auffach liegt ca. 10 bis 15 Autominuten von Niederau entfernt; die Talstation befindet sich im Ort. Preise und Fahrzeiten gibt es bei Ski Juwel oder dem Tourismusverband Wildschönau."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 2-3 uur inclusief wandeling",
+    "en": "About 2 to 3 hours including a walk",
+    "de": "Ca. 2 bis 3 Stunden inkl. Spaziergang"
+   },
+   "price": {
+    "nl": "Tarief wisselt; informeer vooraf",
+    "en": "Fares vary; ask in advance",
+    "de": "Tarife variieren; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10-15 min rijden",
+    "en": "About 10 to 15 minutes by car",
+    "de": "Ca. 10 bis 15 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Schatzberg",
+   "en": "Auffach, Schatzberg",
+   "de": "Auffach, Schatzberg"
+  },
+  "url": "https://www.skijuwel.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog ligt het bergstation?",
+     "en": "How high is the top station?",
+     "de": "Wie hoch liegt die Bergstation?"
+    },
+    "a": {
+     "nl": "Het bergstation ligt op ruim 1.770 meter; de top van de Schatzberg is hoger.",
+     "en": "The top station is just over 1,770 metres; the Schatzberg summit is higher.",
+     "de": "Die Bergstation liegt auf gut 1.770 Metern; der Gipfel des Schatzbergs liegt höher."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s300",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "talfest-niederau",
+  "slug_de": "wildschoenauer-talfest-niederau",
+  "title": {
+   "nl": "Wildschönauer Talfest",
+   "en": "Wildschönau Talfest",
+   "de": "Wildschönauer Talfest"
+  },
+  "tagline": {
+   "nl": "Zomers dorpsfeest met muziek en klederdracht",
+   "en": "Summer village festival with music and costume",
+   "de": "Sommerfest mit Musik und Tracht"
+  },
+  "intro": {
+   "nl": "Het Wildschönauer Talfest is een groot zomerfeest dat in Niederau wordt gehouden en door de Bundesmusikkapelle Niederau wordt georganiseerd. Het duurt enkele dagen, in een recente editie in augustus. Hoogtepunt is de optocht op zondag met ongeveer 500 deelnemers in klederdracht, met versierde wagens, muziekkapellen en schutters.\n\nHet is een goede kans om de Tiroolse tradities van dichtbij te zien en te horen. Er is muziek, en eten en drinken van lokale verenigingen. De precieze data en het programma verschillen per jaar; bekijk de evenementenagenda van de Wildschönau Tourismus.",
+   "en": "The Wildschönauer Talfest is a large summer festival held in Niederau and organised by the Niederau brass band, the Bundesmusikkapelle. It lasts several days, in a recent edition in August. The highlight is the Sunday parade with around 500 participants in traditional costume, with decorated floats, bands and marksmen's companies.\n\nIt is a good chance to see and hear Tyrolean traditions up close. There is music, plus food and drink. Exact dates and the programme change from year to year; see the events calendar of Wildschönau Tourism.",
+   "de": "Das Wildschönauer Talfest ist ein großes Sommerfest in Niederau, das von der Bundesmusikkapelle Niederau organisiert wird. Es dauert mehrere Tage, in einer jüngeren Ausgabe im August. Höhepunkt ist der Festumzug am Sonntag mit rund 500 Teilnehmenden in Tracht, mit geschmückten Wagen, Musikkapellen und Schützen.\n\nEine gute Gelegenheit, Tiroler Brauchtum aus der Nähe zu erleben. Es gibt Musik sowie Essen und Trinken. Termine und Programm ändern sich von Jahr zu Jahr; siehe den Veranstaltungskalender des Tourismusverbands Wildschönau."
+  },
+  "tips": {
+   "nl": [
+    "Controleer de datum in de evenementenagenda.",
+    "Kom op tijd voor een goede plek langs de optocht.",
+    "Neem een regenjas mee; het weer kan wisselen.",
+    "Parkeer buiten het centrum en loop het laatste stuk."
+   ],
+   "en": [
+    "Check the date in the events calendar.",
+    "Arrive early for a good spot along the parade.",
+    "Bring a rain jacket; the weather can change.",
+    "Park outside the centre and walk the last stretch."
+   ],
+   "de": [
+    "Termin im Veranstaltungskalender prüfen.",
+    "Früh kommen für einen guten Platz am Umzug.",
+    "Regenjacke mitnehmen; das Wetter kann wechseln.",
+    "Außerhalb des Zentrums parken und das letzte Stück gehen."
+   ]
+  },
+  "practical": {
+   "nl": "Het feest vindt plaats in Niederau, vaak op loopafstand van accommodaties in het dorp. Toegang en programma kunnen per jaar verschillen; informeer bij de Wildschönau Tourismus.",
+   "en": "The festival takes place in Niederau, often within walking distance of accommodation in the village. Admission and programme can vary from year to year; ask Wildschönau Tourism.",
+   "de": "Das Fest findet in Niederau statt, oft in Gehweite der Unterkünfte im Ort. Eintritt und Programm können jährlich variieren; bitte beim Tourismusverband Wildschönau erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {},
+   "price": {
+    "nl": "Informeer vooraf",
+    "en": "Ask in advance",
+    "de": "Vorab erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Zomer (meestal augustus)",
+    "en": "Summer (usually August)",
+    "de": "Sommer (meist August)"
+   }
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
+  "url": "https://www.wildschoenau.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer is het Talfest?",
+     "en": "When is the Talfest?",
+     "de": "Wann findet das Talfest statt?"
+    },
+    "a": {
+     "nl": "Een recente editie liep van 6 tot 9 augustus; de data wisselen per jaar, dus kijk in de evenementenagenda.",
+     "en": "A recent edition ran from 6 to 9 August; dates change each year, so check the events calendar.",
+     "de": "Eine jüngere Ausgabe lief vom 6. bis 9. August; die Termine wechseln, daher im Veranstaltungskalender nachsehen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s33",
+  "drop": true,
+  "drop_reason": "Overnachting in hut van Markbachjoch niet bevestigd; alleen horeca gevonden.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s39",
+  "drop": true,
+  "drop_reason": "Slackline Park Niederau niet gevonden.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s4",
+  "drop": true,
+  "drop_reason": "Zomerbobslee op de Schatzberg niet bevestigd.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s40",
+  "drop": true,
+  "drop_reason": "Boomklimmen bij Niederau niet bevestigd (bestaand Hochseilgarten Zauberwinkl is iets anders).",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s43",
+  "drop": true,
+  "drop_reason": "Kajakken op de Inn bij Wörgl voor beginners niet bevestigd.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s45",
+  "drop": true,
+  "drop_reason": "Minigolf in Niederau (Tirol) niet gevonden.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s49",
+  "drop": true,
+  "drop_reason": "Waterspeelplein in Niederau niet bevestigd (wel speelplaats Auenweg; waterspeelplaats bij Koglmoos).",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s7",
+  "drop": true,
+  "drop_reason": "3D-boogparcours in de Wildschönau niet bevestigd.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s9",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "tandem-paragliding-niederau",
+  "slug_de": "tandem-gleitschirm-niederau",
+  "title": {
+   "nl": "Tandem paragliden vanaf het Markbachjoch",
+   "en": "Tandem paragliding from the Markbachjoch",
+   "de": "Tandem-Paragleiten vom Markbachjoch"
+  },
+  "tagline": {
+   "nl": "Zweven boven de Wildschönau met een ervaren piloot",
+   "en": "Glide over the Wildschönau with an experienced pilot",
+   "de": "Mit erfahrenem Piloten über die Wildschönau gleiten"
+  },
+  "intro": {
+   "nl": "De Wildschönau geldt als een van de betere gebieden in Tirol voor paragliden. Met de Markbachjochbahn vanuit Niederau kom je in enkele minuten bij het startgebied op ca. 1.500 meter. Daar vlieg je samen met een ervaren tandempiloot naar beneden; je hoeft zelf niets te kunnen.\n\nDe vlucht duurt ongeveer 8 tot 10 minuten, de hele activiteit ruim een half uur tot drie kwartier. Het hoogteverschil is ca. 600 meter. Het hoogdal is relatief beschut tegen harde wind. Volgens aanbieders mogen kinderen vaak vanaf ca. 8 jaar mee; er geldt een maximumgewicht, dus vraag het na.",
+   "en": "The Wildschönau is regarded as one of the better areas in Tyrol for paragliding. The Markbachjochbahn from Niederau takes you to the take-off area at about 1,500 metres in a few minutes. From there you fly down with an experienced tandem pilot; you do not need any skills yourself.\n\nThe flight lasts roughly 8 to 10 minutes and the whole activity a little over half an hour to three quarters of an hour. The height difference is about 600 metres. The high valley is fairly sheltered from strong winds. According to providers, children can often join from about 8 years old; a maximum weight applies, so ask first.",
+   "de": "Die Wildschönau gilt als eines der besseren Gebiete Tirols zum Paragleiten. Mit der Markbachjochbahn ab Niederau erreicht man in wenigen Minuten das Startgebiet auf ca. 1.500 Metern. Von dort fliegt man mit einem erfahrenen Tandempiloten ins Tal; eigene Kenntnisse sind nicht nötig.\n\nDer Flug dauert etwa 8 bis 10 Minuten, die gesamte Aktivität gut eine halbe bis dreiviertel Stunde. Der Höhenunterschied beträgt rund 600 Meter. Das Hochtal ist vor starkem Wind relativ geschützt. Laut Anbietern können Kinder oft ab ca. 8 Jahren mitfliegen; es gilt ein Höchstgewicht, daher vorher nachfragen."
+  },
+  "tips": {
+   "nl": [
+    "Vlucht gaat alleen door bij geschikt weer; houd rekening met verplaatsing.",
+    "Draag stevige schoenen en kleding in lagen.",
+    "Vraag naar de leeftijds- en gewichtsgrens bij het boeken.",
+    "De liftrit naar het startpunt kan apart worden gerekend."
+   ],
+   "en": [
+    "Flights only go ahead in suitable weather; allow for rescheduling.",
+    "Wear sturdy shoes and layered clothing.",
+    "Ask about the age and weight limits when booking.",
+    "The lift ride to take-off may be charged separately."
+   ],
+   "de": [
+    "Flüge finden nur bei geeignetem Wetter statt; eine Verschiebung einplanen.",
+    "Feste Schuhe und Kleidung im Zwiebellook tragen.",
+    "Beim Buchen nach Alters- und Gewichtsgrenze fragen.",
+    "Die Liftfahrt zum Startplatz kann separat berechnet werden."
+   ]
+  },
+  "practical": {
+   "nl": "De Markbachjochbahn vertrekt in Niederau zelf, dus je bent in enkele minuten bij het dalstation. Boeken kan bij lokale piloten of via de Wildschönau Tourismus; prijzen wisselen per aanbieder.",
+   "en": "The Markbachjochbahn starts in Niederau itself, so the valley station is only minutes away. You can book with local pilots or via Wildschönau Tourism; prices vary by provider.",
+   "de": "Die Markbachjochbahn startet in Niederau selbst, die Talstation ist also nur wenige Minuten entfernt. Buchung bei lokalen Piloten oder über den Tourismusverband Wildschönau; die Preise variieren je nach Anbieter."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vaak vanaf ca. 8 jaar; informeer",
+    "en": "Often from about 8 years; ask",
+    "de": "Oft ab ca. 8 Jahren; erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 45 min totaal, vlucht 8-10 min",
+    "en": "About 45 minutes in total, flight 8 to 10 min",
+    "de": "Ca. 45 Minuten gesamt, Flug 8 bis 10 Min."
+   },
+   "price": {
+    "nl": "Prijs wisselt; informeer vooraf",
+    "en": "Price varies; ask in advance",
+    "de": "Preis variiert; vorab erfragen"
+   },
+   "distance": {
+    "nl": "In Niederau",
+    "en": "In Niederau",
+    "de": "In Niederau"
+   },
+   "season": {
+    "nl": "Zomer (weersafhankelijk)",
+    "en": "Summer (weather permitting)",
+    "de": "Sommer (wetterabhängig)"
+   }
+  },
+  "location": {
+   "nl": "Markbachjoch, Niederau",
+   "en": "Markbachjoch, Niederau",
+   "de": "Markbachjoch, Niederau"
+  },
+  "url": "https://www.wildschoenau.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar start de vlucht?",
+     "en": "Where does the flight start?",
+     "de": "Wo startet der Flug?"
+    },
+    "a": {
+     "nl": "Via de Markbachjochbahn bij Niederau naar het startgebied op ca. 1.500 meter.",
+     "en": "By the Markbachjochbahn at Niederau to the take-off area at about 1,500 metres.",
+     "de": "Mit der Markbachjochbahn bei Niederau zum Startgebiet auf ca. 1.500 Metern."
+    }
+   }
+  ]
+ },
+ {
+  "id": "w11",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "torchlight-walk-wildschoenau",
+  "slug_de": "fackelwanderung-wildschoenau",
+  "title": {
+   "nl": "Fakkelwandeling in de Wildschönau",
+   "en": "Torchlight walk in the Wildschönau",
+   "de": "Fackelwanderung in der Wildschönau"
+  },
+  "tagline": {
+   "nl": "Avondwandeling met fakkel of hoofdlamp door de winter",
+   "en": "Evening winter walk by torch or headlamp",
+   "de": "Winterlicher Abendspaziergang mit Fackel oder Stirnlampe"
+  },
+  "intro": {
+   "nl": "In de winter organiseert de Wildschönau begeleide avondwandelingen met fakkels of hoofdlampen, soms ook met sneeuwschoenen. Je loopt in een kleine groep door de sneeuw met een gids die de omgeving toelicht. Een bekend voorbeeld is de fakkelwandeling langs de Franziskusweg, die bij het bergbouwmuseum z'Bach begint en naar het centrum van Oberau leidt.\n\nLangs die route staan verlichte kerststalvitrines. De tochten zijn kort en geschikt voor gezinnen, al hangt het per tocht af of kleine kinderen mee mogen. Voor kinderen tot 12 jaar is het tarief lager; met de Wildschönau Card zijn begeleide winterwandelingen vaak gratis.",
+   "en": "In winter the Wildschönau runs guided evening walks by torch or headlamp, sometimes on snowshoes. You walk through the snow in a small group with a guide who explains the surroundings. One well-known example is the torchlight walk along the Franziskusweg, which starts at the z'Bach mountain farming museum and leads to the centre of Oberau.\n\nIlluminated nativity displays line that route. The walks are short and suitable for families, although whether small children can join depends on the walk. Children up to 12 pay a lower fare; with the Wildschönau Card guided winter walks are often free.",
+   "de": "Im Winter bietet die Wildschönau geführte Abendwanderungen mit Fackel oder Stirnlampe an, teils auch mit Schneeschuhen. Man geht in einer kleinen Gruppe durch den Schnee, ein Guide erklärt die Umgebung. Ein bekanntes Beispiel ist die Fackelwanderung auf dem Franziskusweg, die am Bergbauernmuseum z'Bach beginnt und ins Zentrum von Oberau führt.\n\nEntlang der Strecke stehen beleuchtete Krippenvitrinen. Die Touren sind kurz und familiengeeignet, ob kleine Kinder mitkönnen, hängt aber von der Tour ab. Für Kinder bis 12 Jahre gilt ein günstigerer Preis; mit der Wildschönau Card sind geführte Winterwanderungen oft kostenlos."
+  },
+  "tips": {
+   "nl": [
+    "Kleed je warm en neem handschoenen en muts mee.",
+    "Neem een hoofdlamp mee als daar om gevraagd wordt.",
+    "Vraag bij de Wildschönau Tourismus naar dag, tijd en minimumleeftijd.",
+    "Vaste schoenen met profiel zijn belangrijk bij sneeuw en ijs."
+   ],
+   "en": [
+    "Dress warmly and bring gloves and a hat.",
+    "Bring a headlamp if one is requested.",
+    "Ask Wildschönau Tourism about day, time and minimum age.",
+    "Sturdy shoes with grip matter on snow and ice."
+   ],
+   "de": [
+    "Warm anziehen, Handschuhe und Mütze mitnehmen.",
+    "Eine Stirnlampe mitbringen, falls verlangt.",
+    "Beim Tourismusverband Wildschönau nach Tag, Uhrzeit und Mindestalter fragen.",
+    "Feste Schuhe mit Profil sind bei Schnee und Eis wichtig."
+   ]
+  },
+  "practical": {
+   "nl": "Startpunten en tijden verschillen per tocht; je kunt vanuit Niederau meestal met auto of bus in ca. 5-10 minuten bij de start zijn. Aanmelden en actuele data via de Wildschönau Tourismus.",
+   "en": "Starting points and times differ by walk; from Niederau you can usually reach the start by car or bus in about 5 to 10 minutes. Registration and current dates via Wildschönau Tourism.",
+   "de": "Startpunkte und Zeiten unterscheiden sich je nach Tour; von Niederau aus ist der Start meist in ca. 5 bis 10 Minuten mit Auto oder Bus erreichbar. Anmeldung und aktuelle Termine über den Tourismusverband Wildschönau."
+  },
+  "facts": {
+   "age": {
+    "nl": "Informeer naar minimumleeftijd",
+    "en": "Ask about minimum age",
+    "de": "Mindestalter erfragen"
+   },
+   "duration": {
+    "nl": "Ca. 1,5-2 uur (wisselt)",
+    "en": "About 1.5 to 2 hours (varies)",
+    "de": "Ca. 1,5 bis 2 Stunden (variiert)"
+   },
+   "price": {
+    "nl": "Klein bedrag; gratis met Wildschönau Card",
+    "en": "Small fee; free with the Wildschönau Card",
+    "de": "Kleiner Beitrag; mit Wildschönau Card gratis"
+   },
+   "distance": {
+    "nl": "Ca. 5-10 min rijden",
+    "en": "About 5 to 10 minutes by car",
+    "de": "Ca. 5 bis 10 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Wildschönau (o.a. Oberau)",
+   "en": "Wildschönau (including Oberau)",
+   "de": "Wildschönau (u. a. Oberau)"
+  },
+  "url": "https://www.wildschoenau.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat kost een fakkelwandeling?",
+     "en": "How much does a torchlight walk cost?",
+     "de": "Was kostet eine Fackelwanderung?"
+    },
+    "a": {
+     "nl": "Volgens de regio ongeveer € 5 voor volwassenen en € 2 voor kinderen tot 12 jaar; gratis met de Wildschönau Card. Prijzen kunnen per tocht verschillen.",
+     "en": "According to the region about € 5 for adults and € 2 for children up to 12; free with the Wildschönau Card. Prices can differ by walk.",
+     "de": "Laut Region etwa 5 € für Erwachsene und 2 € für Kinder bis 12 Jahre; mit der Wildschönau Card gratis. Die Preise können je nach Tour abweichen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "w12",
+  "drop": true,
+  "drop_reason": "Georganiseerde sterrenkijk-tochten niet bevestigd.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "w22",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "schatzbergbahn-winter-auffach",
+  "slug_de": "schatzbergbahn-winter-auffach",
+  "title": {
+   "nl": "Schatzbergbahn in de winter",
+   "en": "Schatzberg cable car in winter",
+   "de": "Schatzbergbahn im Winter"
+  },
+  "tagline": {
+   "nl": "Uitzicht over de Wildschönau vanaf het bergstation",
+   "en": "Views over the Wildschönau from the top station",
+   "de": "Aussicht über die Wildschönau von der Bergstation"
+  },
+  "intro": {
+   "nl": "De Schatzbergbahn in Auffach is de gondel naar het skigebied van de Schatzberg, dat bij Ski Juwel Alpbachtal Wildschönau hoort. Ook wie niet skiet kan er in principe een kijkje nemen, maar vraag vooraf of er een voetgangersticket is en tot welk station je kunt. Het bergstation ligt op ruim 1.700 meter; sommige bronnen noemen een iets andere hoogte.\n\nBoven heb je uitzicht over het dal en de omliggende toppen, en er zijn bergrestaurants voor een warm drankje. Bij helder weer is het een rustige uitstap voor gezinnen met jonge kinderen of voor een dag zonder ski's. Houd er rekening mee dat het boven duidelijk kouder is dan in Niederau.",
+   "en": "The Schatzbergbahn in Auffach is the gondola to the Schatzberg ski area, which belongs to Ski Juwel Alpbachtal Wildschönau. Non-skiers can in principle take a look too, but ask beforehand whether a pedestrian ticket exists and which station you can use. The top station is at just over 1,700 metres; some sources give a slightly different height.\n\nUp there you have views over the valley and surrounding peaks, and mountain restaurants for a hot drink. In clear weather it is a calm outing for families with young children or for a day without skis. Bear in mind that it is clearly colder at the top than in Niederau.",
+   "de": "Die Schatzbergbahn in Auffach ist die Gondel ins Skigebiet Schatzberg, das zum Ski Juwel Alpbachtal Wildschönau gehört. Auch Nichtskifahrer können grundsätzlich einen Blick wagen, sollten aber vorab fragen, ob es ein Fußgängerticket gibt und welche Station nutzbar ist. Die Bergstation liegt auf gut 1.700 Metern; manche Quellen nennen eine leicht abweichende Höhe.\n\nOben hat man Aussicht über das Tal und die umliegenden Gipfel, außerdem gibt es Bergrestaurants für ein warmes Getränk. Bei klarem Wetter ist es ein ruhiger Ausflug für Familien mit kleinen Kindern oder für einen Tag ohne Ski. Oben ist es deutlich kälter als in Niederau."
+  },
+  "tips": {
+   "nl": [
+    "Kies een helderde dag voor het beste uitzicht.",
+    "Neem warme kleding, muts en zonnebril mee.",
+    "Vraag vooraf naar de voetgangersprijs en tot waar je mag.",
+    "Plan een stop in een bergrestaurant voor een warm drankje."
+   ],
+   "en": [
+    "Pick a clear day for the best views.",
+    "Bring warm clothing, a hat and sunglasses.",
+    "Ask beforehand about the pedestrian fare and how far you may go.",
+    "Plan a stop at a mountain restaurant for a hot drink."
+   ],
+   "de": [
+    "Einen klaren Tag für die beste Aussicht wählen.",
+    "Warme Kleidung, Mütze und Sonnenbrille mitnehmen.",
+    "Vorab nach dem Fußgängerpreis fragen und wie weit man fahren darf.",
+    "Einen Stopp im Bergrestaurant für ein warmes Getränk einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Auffach ligt ca. 10-15 minuten rijden van Niederau. Voor skiërs is er vaak openbaar vervoer binnen het dal; informeer naar de actuele dienstregeling bij de Wildschönau Tourismus of Ski Juwel.",
+   "en": "Auffach is about 10 to 15 minutes by car from Niederau. Public transport usually runs within the valley; ask Wildschönau Tourism or Ski Juwel for the current timetable.",
+   "de": "Auffach liegt ca. 10 bis 15 Autominuten von Niederau entfernt. Im Tal verkehren in der Regel öffentliche Verkehrsmittel; den aktuellen Fahrplan gibt es beim Tourismusverband Wildschönau oder Ski Juwel."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1-2 uur",
+    "en": "About 1 to 2 hours",
+    "de": "Ca. 1 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Tarief wisselt; informeer vooraf",
+    "en": "Fares vary; ask in advance",
+    "de": "Tarife variieren; vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 10-15 min rijden",
+    "en": "About 10 to 15 minutes by car",
+    "de": "Ca. 10 bis 15 Minuten Fahrt"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Auffach, Schatzberg",
+   "en": "Auffach, Schatzberg",
+   "de": "Auffach, Schatzberg"
+  },
+  "url": "https://www.skijuwel.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je zonder ski's omhoog?",
+     "en": "Can you go up without skis?",
+     "de": "Kann man ohne Ski hinauffahren?"
+    },
+    "a": {
+     "nl": "Dat is vaak mogelijk met een voetgangersticket, maar bevestig dit vooraf bij Ski Juwel.",
+     "en": "This is often possible with a pedestrian ticket, but confirm with Ski Juwel beforehand.",
+     "de": "Das ist oft mit einem Fußgängerticket möglich, bitte vorab bei Ski Juwel bestätigen."
+    }
+   }
+  ]
+ },
+ {
+  "id": "w29",
+  "drop": true,
+  "drop_reason": "Zonsopgangpicknick via hotel niet bevestigd.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "w36",
+  "drop": true,
+  "drop_reason": "Snowcat-ritten Schatzberg niet bevestigd.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {},
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": []
+ }
+]

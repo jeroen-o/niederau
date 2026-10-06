@@ -1,0 +1,518 @@
+[
+ {
+  "slug": "rattenberg",
+  "region": "alpbachtal",
+  "drop": false,
+  "name": {
+   "nl": "Rattenberg",
+   "en": "Rattenberg",
+   "de": "Rattenberg"
+  },
+  "tagline": {
+   "nl": "Piepklein stadje aan de Inn, bekend om zijn glaskunst",
+   "en": "Tiny town on the Inn, known for its glass art",
+   "de": "Winzige Stadt am Inn, bekannt für ihre Glaskunst"
+  },
+  "intro": {
+   "nl": "Rattenberg geldt als de kleinste stad van Oostenrijk. Het ligt in het Inntal, aan de rand van het Alpbachtal, tussen de rivier en een steile rotswand. De compacte, middeleeuws aandoende oude kern met smalle straatjes is autovrij en in een klein uur te belopen.\n\nHet stadje staat bekend om zijn glasblazers en glasateliers. In meerdere winkels en werkplaatsen kun je zien hoe glas wordt bewerkt en kun je kleine souvenirs kopen. Boven het stadje liggen de resten van een burcht, waar je een mooi uitzicht over de Inn hebt.\n\nVoor gezinnen uit Niederau is Rattenberg een rustig uitstapje van een halve dag, goed te combineren met Kramsach of Alpbach. Het is ook bij regen goed te doen, omdat winkels en ateliers binnen zijn.",
+   "en": "Rattenberg is generally regarded as the smallest town in Austria. It lies in the Inn Valley, on the edge of the Alpbachtal, squeezed between the river and a steep rock face. The compact, medieval-looking old centre has narrow lanes, is car-free and can be walked in a little under an hour.\n\nThe town is known for its glassblowers and glass studios. In several shops and workshops you can watch glass being worked and buy small souvenirs. Above the town are the remains of a castle, offering a fine view over the Inn.\n\nFor families staying in Niederau, Rattenberg makes a relaxed half-day outing that combines well with Kramsach or Alpbach. It also works in wet weather, as the shops and studios are indoors.",
+   "de": "Rattenberg gilt als kleinste Stadt Österreichs. Sie liegt im Inntal am Rand des Alpbachtals, eingezwängt zwischen Fluss und steiler Felswand. Der kompakte, mittelalterlich wirkende Altstadtkern mit engen Gassen ist autofrei und in knapp einer Stunde zu Fuß erkundet.\n\nBekannt ist der Ort für seine Glasbläser und Glasateliers. In mehreren Geschäften und Werkstätten kann man dem Handwerk zusehen und kleine Mitbringsel kaufen. Oberhalb der Stadt liegen die Reste einer Burg mit schöner Aussicht über den Inn.\n\nFür Familien aus Niederau ist Rattenberg ein entspannter Halbtagesausflug, gut kombinierbar mit Kramsach oder Alpbach. Auch bei Regen ist er machbar, da Geschäfte und Ateliers überdacht sind."
+  },
+  "highlights": {
+   "nl": [
+    "Rondwandeling door de autovrije oude kern met smalle straatjes",
+    "Glasateliers en winkels bezoeken en glasbewerking van dichtbij zien",
+    "Wandeling naar de burchtresten boven het stadje voor het uitzicht",
+    "Een stuk langs de Inn wandelen of fietsen (zomer)",
+    "In de adventstijd een rustig, sfeervol stadje om te bezoeken (informeer vooraf naar markten)"
+   ],
+   "en": [
+    "Stroll through the car-free old centre and its narrow lanes",
+    "Visit glass studios and shops and see the craft up close",
+    "Walk up to the castle remains above the town for the view",
+    "Walk or cycle a stretch along the Inn (summer)",
+    "A quiet, atmospheric town to visit in Advent (check ahead for markets)"
+   ],
+   "de": [
+    "Rundgang durch die autofreie Altstadt mit ihren engen Gassen",
+    "Glasateliers und Geschäfte besuchen und das Handwerk aus der Nähe sehen",
+    "Spaziergang zu den Burgresten oberhalb der Stadt wegen der Aussicht",
+    "Ein Stück am Inn entlang wandern oder radeln (Sommer)",
+    "In der Adventszeit ein ruhiger, stimmungsvoller Ort (Märkte vorab prüfen)"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan over de Inntal-route in westelijke richting. Dit is een schatting; check de route vooraf.",
+   "en": "About 35 minutes by car from Niederau: via Oberau to Wörgl, then west along the Inn Valley. This is an estimate; check the route beforehand.",
+   "de": "Etwa 35 Minuten Autofahrt ab Niederau: über Oberau nach Wörgl, dann im Inntal Richtung Westen. Das ist eine Schätzung; Route bitte vorab prüfen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met interesse in ambacht en een rustige stadswandeling.",
+   "en": "Suits families interested in crafts and a gentle town stroll.",
+   "de": "Passt zu Familien mit Interesse an Handwerk und einem ruhigen Stadtbummel."
+  },
+  "season": {
+   "nl": "Het hele jaar bezoekbaar; openingstijden van ateliers verschillen per seizoen.",
+   "en": "Open to visit all year; studio opening hours vary by season.",
+   "de": "Ganzjährig besuchbar; Öffnungszeiten der Ateliers variieren je nach Saison."
+  },
+  "drive_min": 35,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Rattenberg echt de kleinste stad van Oostenrijk?",
+     "en": "Is Rattenberg really the smallest town in Austria?",
+     "de": "Ist Rattenberg wirklich die kleinste Stadt Österreichs?"
+    },
+    "a": {
+     "nl": "Ja, Rattenberg wordt algemeen zo omschreven.",
+     "en": "Yes, it is generally described that way.",
+     "de": "Ja, so wird Rattenberg allgemein beschrieben."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je in Rattenberg met de auto de oude kern in?",
+     "en": "Can you drive into Rattenberg's old centre?",
+     "de": "Kann man mit dem Auto in die Altstadt von Rattenberg fahren?"
+    },
+    "a": {
+     "nl": "De oude kern is autovrij; parkeer aan de rand en loop naar binnen. Informeer ter plaatse naar parkeerplekken.",
+     "en": "The old centre is car-free; park on the edge and walk in. Ask locally about parking.",
+     "de": "Die Altstadt ist autofrei; am Rand parken und zu Fuß hineingehen. Parkmöglichkeiten bitte vor Ort erfragen."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "kramsach",
+  "region": "alpbachtal",
+  "drop": false,
+  "name": {
+   "nl": "Kramsach",
+   "en": "Kramsach",
+   "de": "Kramsach"
+  },
+  "tagline": {
+   "nl": "Dorp met openluchtmuseum en bergmeertjes aan de Inn",
+   "en": "Village with an open-air museum and small lakes by the Inn",
+   "de": "Dorf mit Freilichtmuseum und Bergseen am Inn"
+  },
+  "intro": {
+   "nl": "Kramsach ligt in het Inntal bij het Alpbachtal, direct naast Rattenberg. Het dorp is vooral bekend om het Museum Tiroler Bauernhöfe, een openluchtmuseum met verplaatste boerderijen uit heel Tirol, en om de Reintalersee en andere meertjes in de omgeving.\n\nDe meren liggen tussen bos en rotswanden en zijn in de zomer populair voor een wandeling of een duik; in welke meren precies gezwommen mag worden en wat de toegang kost, informeer je ter plaatse. Ook de glastraditie van de streek komt in Kramsach terug.\n\nVoor gezinnen is Kramsach een ontspannen uitstapje dat prima in een halve dag past, zeker in combinatie met Rattenberg. In de winter is het museum mogelijk beperkt geopend; controleer dat vooraf.",
+   "en": "Kramsach lies in the Inn Valley near the Alpbachtal, right next to Rattenberg. It is best known for the Museum of Tyrolean Farmhouses, an open-air museum with relocated farmhouses from across Tyrol, and for the Reintalersee and other small lakes nearby.\n\nThe lakes sit between forest and rock faces and are popular in summer for a walk or a dip; which lakes allow swimming and what entry costs, ask locally. The region's glass tradition also appears in Kramsach.\n\nFor families, Kramsach is a relaxed outing that fits in half a day, especially combined with Rattenberg. In winter the museum may have limited opening; check beforehand.",
+   "de": "Kramsach liegt im Inntal beim Alpbachtal, direkt neben Rattenberg. Bekannt ist der Ort vor allem für das Museum Tiroler Bauernhöfe, ein Freilichtmuseum mit versetzten Bauernhäusern aus ganz Tirol, sowie für den Reintalersee und weitere kleine Seen in der Umgebung.\n\nDie Seen liegen zwischen Wald und Felswänden und sind im Sommer beliebt für einen Spaziergang oder ein Bad; wo genau gebadet werden darf und was der Eintritt kostet, bitte vor Ort erfragen. Auch die Glastradition der Region begegnet einem in Kramsach.\n\nFür Familien ist Kramsach ein entspannter Ausflug, der gut in einen halben Tag passt, besonders in Kombination mit Rattenberg. Im Winter ist das Museum möglicherweise nur eingeschränkt geöffnet; bitte vorab prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "Museum Tiroler Bauernhöfe bezoeken (openluchtmuseum met oude boerderijen)",
+    "Wandeling rond de Reintalersee en de andere meertjes",
+    "Zwemmen of picknicken bij de meren in de zomer (regels ter plaatse controleren)",
+    "Combineren met een bezoek aan het nabije Rattenberg",
+    "Fietsen langs de Inn (zomer)"
+   ],
+   "en": [
+    "Visit the Museum of Tyrolean Farmhouses (open-air museum of old farms)",
+    "Walk around the Reintalersee and the other small lakes",
+    "Swim or picnic at the lakes in summer (check local rules)",
+    "Combine with a visit to nearby Rattenberg",
+    "Cycle along the Inn (summer)"
+   ],
+   "de": [
+    "Museum Tiroler Bauernhöfe besuchen (Freilichtmuseum mit alten Höfen)",
+    "Spaziergang um den Reintalersee und die anderen kleinen Seen",
+    "Im Sommer an den Seen baden oder picknicken (Regeln vor Ort prüfen)",
+    "Mit einem Besuch im nahen Rattenberg kombinieren",
+    "Radfahren am Inn (Sommer)"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 30 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan westwaarts door het Inntal. Schatting; check de route vooraf.",
+   "en": "About 30 minutes by car from Niederau: via Oberau to Wörgl, then west through the Inn Valley. Estimate; check the route beforehand.",
+   "de": "Etwa 30 Minuten Autofahrt ab Niederau: über Oberau nach Wörgl, dann westwärts durchs Inntal. Schätzung; Route bitte vorab prüfen."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen met kinderen die van buiten en oude boerderijen houden.",
+   "en": "Suits families with children who enjoy the outdoors and old farmhouses.",
+   "de": "Passt zu Familien mit Kindern, die Natur und alte Bauernhöfe mögen."
+  },
+  "season": {
+   "nl": "Vooral lente tot herfst; in de winter is het aanbod beperkter.",
+   "en": "Mainly spring to autumn; fewer options in winter.",
+   "de": "Vor allem Frühling bis Herbst; im Winter ist das Angebot eingeschränkter."
+  },
+  "drive_min": 30,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Kramsach een goed uitstapje bij regen?",
+     "en": "Is Kramsach a good outing in wet weather?",
+     "de": "Ist Kramsach bei Regen ein guter Ausflug?"
+    },
+    "a": {
+     "nl": "Gedeeltelijk: het museum is vooral buiten, maar enkele gebouwen zijn te betreden. Combineer met Rattenberg waar ateliers binnen zijn.",
+     "en": "Partly: the museum is mostly outdoors, though some buildings can be entered. Combine with Rattenberg, where studios are indoors.",
+     "de": "Teilweise: Das Museum ist überwiegend draußen, einige Gebäude kann man betreten. Kombinierbar mit Rattenberg, wo die Ateliers überdacht sind."
+    }
+   },
+   {
+    "q": {
+     "nl": "Mag je in de meren van Kramsach zwemmen?",
+     "en": "Can you swim in Kramsach's lakes?",
+     "de": "Darf man in den Seen von Kramsach baden?"
+    },
+    "a": {
+     "nl": "Dat verschilt per meer en kan geld kosten; informeer ter plaatse of bij het toeristenbureau.",
+     "en": "This varies by lake and may cost money; ask locally or at the tourist office.",
+     "de": "Das ist je nach See unterschiedlich und kann kostenpflichtig sein; bitte vor Ort oder beim Tourismusverband erfragen."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "kundl",
+  "region": "alpbachtal",
+  "drop": false,
+  "name": {
+   "nl": "Kundl",
+   "en": "Kundl",
+   "de": "Kundl"
+  },
+  "tagline": {
+   "nl": "Dorp in het Inntal, vooral handig als doorgangsplaats",
+   "en": "Inn Valley village, mainly a convenient stopover",
+   "de": "Inntaldorf, vor allem als Durchgangsort praktisch"
+  },
+  "intro": {
+   "nl": "Kundl ligt in het Inntal tussen Wörgl en Rattenberg, aan de ingang van het Alpbachtal. Het is geen klassieke toeristenplaats, maar een werkdorp in de vallei met bekende farmaceutische industrie.\n\nVoor gezinnen is Kundl vooral interessant als tussenstop op weg naar Alpbach, Rattenberg of Kramsach. De omgeving leent zich voor een rustige fiets- of wandeltocht langs de Inn en door de vlakke dalbodem.\n\nVerwacht hier geen groot aanbod aan attracties. Wie gericht een dagje wil plannen, kan beter een van de omliggende plaatsen als doel kiezen en Kundl zien als onderdeel van de route. Concrete bezienswaardigheden heb ik niet kunnen controleren; informeer bij het toeristenbureau.",
+   "en": "Kundl lies in the Inn Valley between Wörgl and Rattenberg, at the gateway to the Alpbachtal. It is not a classic tourist resort but a working village in the valley, with well-known pharmaceutical industry.\n\nFor families, Kundl is mainly of interest as a stop on the way to Alpbach, Rattenberg or Kramsach. The surroundings suit a gentle cycle or walk along the Inn across the flat valley floor.\n\nDo not expect a large range of attractions. If you want to plan a day out, choose one of the surrounding places as your goal and treat Kundl as part of the route. I could not verify specific sights; ask the tourist office.",
+   "de": "Kundl liegt im Inntal zwischen Wörgl und Rattenberg, am Eingang zum Alpbachtal. Es ist kein klassischer Urlaubsort, sondern ein Arbeitsort im Tal mit bekannter Pharmaindustrie.\n\nFür Familien ist Kundl vor allem als Zwischenstopp auf dem Weg nach Alpbach, Rattenberg oder Kramsach interessant. Die Umgebung eignet sich für eine ruhige Rad- oder Wandertour am Inn über den flachen Talboden.\n\nEin großes Angebot an Attraktionen ist nicht zu erwarten. Wer einen Ausflug plant, wählt besser einen der umliegenden Orte als Ziel und sieht Kundl als Teil der Route. Konkrete Sehenswürdigkeiten konnte ich nicht prüfen; bitte beim Tourismusverband nachfragen."
+  },
+  "highlights": {
+   "nl": [
+    "Fietsen of wandelen langs de Inn over de vlakke dalbodem (zomer)",
+    "Tussenstop op weg naar Alpbach of Rattenberg",
+    "Rustige rondwandeling door het dorp en de omgeving",
+    "Lokale horeca als pauze tijdens een dagtocht door het Inntal"
+   ],
+   "en": [
+    "Cycle or walk along the Inn across the flat valley floor (summer)",
+    "Stopover on the way to Alpbach or Rattenberg",
+    "Quiet stroll through the village and surroundings",
+    "Local cafes and restaurants as a break during a day trip through the Inn Valley"
+   ],
+   "de": [
+    "Radfahren oder Wandern am Inn über den flachen Talboden (Sommer)",
+    "Zwischenstopp auf dem Weg nach Alpbach oder Rattenberg",
+    "Ruhiger Spaziergang durch Dorf und Umgebung",
+    "Lokale Gastronomie als Pause bei einem Ausflug durchs Inntal"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 25 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan een stukje westwaarts. Schatting.",
+   "en": "About 25 minutes by car from Niederau: via Oberau to Wörgl, then a short way west. Estimate.",
+   "de": "Etwa 25 Minuten Autofahrt ab Niederau: über Oberau nach Wörgl, dann ein Stück westwärts. Schätzung."
+  },
+  "best_for": {
+   "nl": "Past bij wie rustig wil fietsen of een tussenstop zoekt.",
+   "en": "Suits those who want a quiet bike ride or a stopover.",
+   "de": "Passt zu ruhigen Radtouren oder als Zwischenstopp."
+  },
+  "season": {
+   "nl": "Vooral zomer voor fietsen; in de winter weinig reden voor een apart bezoek.",
+   "en": "Mainly summer for cycling; little reason for a separate winter visit.",
+   "de": "Vor allem Sommer zum Radeln; im Winter kaum Anlass für einen eigenen Besuch."
+  },
+  "drive_min": 25,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Kundl een toeristische bestemming?",
+     "en": "Is Kundl a tourist destination?",
+     "de": "Ist Kundl ein Urlaubsziel?"
+    },
+    "a": {
+     "nl": "Niet echt; het is vooral een dorp in het Inntal en handig als tussenstop.",
+     "en": "Not really; it is mainly a village in the Inn Valley and handy as a stopover.",
+     "de": "Eher nicht; es ist vor allem ein Dorf im Inntal und als Zwischenstopp praktisch."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is er in de buurt wel leuk voor gezinnen?",
+     "en": "What nearby is good for families?",
+     "de": "Was ist in der Nähe für Familien interessant?"
+    },
+    "a": {
+     "nl": "Rattenberg, Kramsach en Alpbach liggen op korte afstand.",
+     "en": "Rattenberg, Kramsach and Alpbach are a short drive away.",
+     "de": "Rattenberg, Kramsach und Alpbach liegen in kurzer Entfernung."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "hopfgarten",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "tagline": {
+   "nl": "Dorp in het Brixental met bergbaan naar de Hohe Salve",
+   "en": "Brixental village with a cable car to the Hohe Salve",
+   "de": "Dorf im Brixental mit Bergbahn zur Hohen Salve"
+  },
+  "intro": {
+   "nl": "Hopfgarten im Brixental ligt aan de ingang van het Brixental, tussen Wörgl en Kitzbühel. Het dorp is een van de plaatsen in het skigebied SkiWelt Wilder Kaiser-Brixental en ligt aan de voet van de Hohe Salve, een bekende uitzichtberg.\n\nIn de winter vertrekken hier de liften het skigebied in. In de zomer is de omgeving geschikt voor wandelen en fietsen, en op de Hohe Salve staat een kapel met een bekend panorama. Ook voor kinderen is er in de buurt het nodige te doen.\n\nVanuit Niederau is Hopfgarten dichtbij genoeg voor een dagje uit, bijvoorbeeld om op een andere kant van de SkiWelt te skiën of op een zomerse dag de Hohe Salve te beklimmen. Actuele bedrijfstijden van liften controleer je vooraf.",
+   "en": "Hopfgarten im Brixental lies at the entrance to the Brixental, between Wörgl and Kitzbühel. The village is one of the places in the SkiWelt Wilder Kaiser-Brixental ski area and sits at the foot of the Hohe Salve, a well-known viewpoint mountain.\n\nIn winter the lifts into the ski area start here. In summer the surroundings are good for hiking and cycling, and the Hohe Salve has a chapel with a well-known panorama. There is also plenty nearby for children.\n\nFrom Niederau, Hopfgarten is close enough for a day out, for example to ski another side of the SkiWelt or to head up the Hohe Salve on a summer day. Check current lift operating times beforehand.",
+   "de": "Hopfgarten im Brixental liegt am Eingang des Brixentals, zwischen Wörgl und Kitzbühel. Der Ort gehört zum Skigebiet SkiWelt Wilder Kaiser-Brixental und liegt am Fuß der Hohen Salve, eines bekannten Aussichtsbergs.\n\nIm Winter starten hier die Lifte ins Skigebiet. Im Sommer eignet sich die Umgebung zum Wandern und Radfahren, und auf der Hohen Salve steht eine Kapelle mit bekanntem Panorama. Auch für Kinder gibt es in der Nähe einiges.\n\nVon Niederau aus ist Hopfgarten nah genug für einen Tagesausflug, etwa um eine andere Seite der SkiWelt zu befahren oder an einem Sommertag auf die Hohe Salve zu steigen. Aktuelle Betriebszeiten der Bahnen bitte vorab prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "Skiën in de SkiWelt Wilder Kaiser-Brixental (winter)",
+    "Wandeling of tocht naar de Hohe Salve met panoramazicht (zomer)",
+    "Wandelen en fietsen in het Brixental",
+    "Dorpswandeling en terrasje in het dorp",
+    "Combineren met Itter of Brixen im Thale"
+   ],
+   "en": [
+    "Ski in the SkiWelt Wilder Kaiser-Brixental (winter)",
+    "Hike or ride up the Hohe Salve for panoramic views (summer)",
+    "Hiking and cycling in the Brixental",
+    "Village stroll and a drink on a terrace",
+    "Combine with Itter or Brixen im Thale"
+   ],
+   "de": [
+    "Skifahren in der SkiWelt Wilder Kaiser-Brixental (Winter)",
+    "Wanderung oder Fahrt auf die Hohe Salve mit Panoramablick (Sommer)",
+    "Wandern und Radfahren im Brixental",
+    "Dorfbummel und Einkehr",
+    "Kombinierbar mit Itter oder Brixen im Thale"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 30 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan door het Brixental richting Kitzbühel. Schatting.",
+   "en": "About 30 minutes by car from Niederau: via Oberau to Wörgl, then through the Brixental towards Kitzbühel. Estimate.",
+   "de": "Etwa 30 Minuten Autofahrt ab Niederau: über Oberau nach Wörgl, dann durchs Brixental Richtung Kitzbühel. Schätzung."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die willen skiën of wandelen met uitzicht.",
+   "en": "Suits families who want to ski or hike with views.",
+   "de": "Passt zu Familien, die Skifahren oder Wandern mit Aussicht möchten."
+  },
+  "season": {
+   "nl": "Hele jaar; winter voor ski, zomer voor wandelen en fietsen.",
+   "en": "All year; winter for skiing, summer for hiking and cycling.",
+   "de": "Ganzjährig; Winter zum Skifahren, Sommer zum Wandern und Radeln."
+  },
+  "drive_min": 30,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoort Hopfgarten bij een skigebied?",
+     "en": "Is Hopfgarten part of a ski area?",
+     "de": "Gehört Hopfgarten zu einem Skigebiet?"
+    },
+    "a": {
+     "nl": "Ja, het is een van de plaatsen van de SkiWelt Wilder Kaiser-Brixental.",
+     "en": "Yes, it is one of the villages of SkiWelt Wilder Kaiser-Brixental.",
+     "de": "Ja, es ist einer der Orte der SkiWelt Wilder Kaiser-Brixental."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is de Hohe Salve?",
+     "en": "What is the Hohe Salve?",
+     "de": "Was ist die Hohe Salve?"
+    },
+    "a": {
+     "nl": "Een bekende uitzichtberg boven Hopfgarten, met een kapel op de top.",
+     "en": "A well-known viewpoint mountain above Hopfgarten, with a chapel at the summit.",
+     "de": "Ein bekannter Aussichtsberg oberhalb von Hopfgarten mit einer Kapelle am Gipfel."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "itter",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Itter",
+   "en": "Itter",
+   "de": "Itter"
+  },
+  "tagline": {
+   "nl": "Klein dorp met een beroemde burcht in het Brixental",
+   "en": "Small village with a famous castle in the Brixental",
+   "de": "Kleines Dorf mit berühmter Burg im Brixental"
+  },
+  "intro": {
+   "nl": "Itter is een klein dorp aan de rand van het Brixental, tussen Wörgl en Hopfgarten. Het wordt vooral genoemd vanwege Schloss Itter, een burcht die in de laatste dagen van de Tweede Wereldoorlog bekend werd door een gevecht in mei 1945.\n\nHet kasteel is geen standaard bezienswaardigheid: of en wanneer het te bezoeken is, verschilt en kan beperkt zijn. Informeer daarom vooraf voordat je speciaal komt. Het dorp zelf is rustig en landelijk.\n\nItter past goed als korte stop op een rit door het Brixental, bijvoorbeeld in combinatie met Hopfgarten. Voor een dagvullend programma is het te klein.",
+   "en": "Itter is a small village on the edge of the Brixental, between Wörgl and Hopfgarten. It is mainly mentioned for Schloss Itter, a castle that became known for a battle in May 1945, in the last days of the Second World War.\n\nThe castle is not a standard attraction: whether and when it can be visited varies and may be limited. Check beforehand before making a special trip. The village itself is quiet and rural.\n\nItter works well as a short stop on a drive through the Brixental, for example combined with Hopfgarten. It is too small for a full day.",
+   "de": "Itter ist ein kleines Dorf am Rand des Brixentals, zwischen Wörgl und Hopfgarten. Bekannt ist es vor allem durch Schloss Itter, eine Burg, die durch ein Gefecht im Mai 1945, in den letzten Tagen des Zweiten Weltkriegs, bekannt wurde.\n\nDas Schloss ist keine gewöhnliche Sehenswürdigkeit: Ob und wann es besichtigt werden kann, ist unterschiedlich und kann eingeschränkt sein. Bitte vorab erkundigen, bevor man eigens anreist. Das Dorf selbst ist ruhig und ländlich.\n\nItter eignet sich als kurzer Stopp bei einer Fahrt durchs Brixental, etwa in Kombination mit Hopfgarten. Für einen ganzen Tag ist es zu klein."
+  },
+  "highlights": {
+   "nl": [
+    "Schloss Itter van buiten bekijken (toegang vooraf navragen)",
+    "Rustige wandeling in de omgeving",
+    "Korte stop op de route door het Brixental",
+    "Combineren met Hopfgarten"
+   ],
+   "en": [
+    "See Schloss Itter from outside (check access beforehand)",
+    "Quiet walk in the surroundings",
+    "Short stop on the route through the Brixental",
+    "Combine with Hopfgarten"
+   ],
+   "de": [
+    "Schloss Itter von außen ansehen (Zugang vorab erfragen)",
+    "Ruhiger Spaziergang in der Umgebung",
+    "Kurzer Stopp auf der Route durchs Brixental",
+    "Mit Hopfgarten kombinieren"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 25 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan het Brixental in. Schatting.",
+   "en": "About 25 minutes by car from Niederau: via Oberau to Wörgl, then into the Brixental. Estimate.",
+   "de": "Etwa 25 Minuten Autofahrt ab Niederau: über Oberau nach Wörgl, dann ins Brixental. Schätzung."
+  },
+  "best_for": {
+   "nl": "Past bij geschiedenisliefhebbers en als korte tussenstop.",
+   "en": "Suits history fans and as a short stopover.",
+   "de": "Passt zu Geschichtsinteressierten und als kurzer Zwischenstopp."
+  },
+  "season": {
+   "nl": "Hele jaar, als korte stop.",
+   "en": "All year, as a short stop.",
+   "de": "Ganzjährig, als kurzer Stopp."
+  },
+  "drive_min": 25,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waarom is Itter bekend?",
+     "en": "Why is Itter known?",
+     "de": "Wofür ist Itter bekannt?"
+    },
+    "a": {
+     "nl": "Vooral door Schloss Itter en een gevecht in mei 1945.",
+     "en": "Mainly for Schloss Itter and a battle in May 1945.",
+     "de": "Vor allem durch Schloss Itter und ein Gefecht im Mai 1945."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je Schloss Itter bezoeken?",
+     "en": "Can you visit Schloss Itter?",
+     "de": "Kann man Schloss Itter besichtigen?"
+    },
+    "a": {
+     "nl": "Dat is niet altijd mogelijk; informeer vooraf.",
+     "en": "This is not always possible; enquire beforehand.",
+     "de": "Das ist nicht immer möglich; bitte vorab erkundigen."
+    }
+   }
+  ]
+ },
+ {
+  "slug": "brixen-im-thale",
+  "region": "brixental",
+  "drop": false,
+  "name": {
+   "nl": "Brixen im Thale",
+   "en": "Brixen im Thale",
+   "de": "Brixen im Thale"
+  },
+  "tagline": {
+   "nl": "Dorp in het Brixental met uitzicht op de Hohe Salve",
+   "en": "Brixental village with views of the Hohe Salve",
+   "de": "Dorf im Brixental mit Blick zur Hohen Salve"
+  },
+  "intro": {
+   "nl": "Brixen im Thale ligt in het Brixental, een stuk ten zuiden van Hopfgarten en Itter, aan de voet van de Hohe Salve. Het dorp hoort bij het skigebied SkiWelt Wilder Kaiser-Brixental en heeft in de winter een directe verbinding met de pistes.\n\nIn de zomer is de omgeving geschikt voor wandelen en fietsen, met de Hohe Salve als bekend uitzichtpunt. Het dorp zelf is landelijk van karakter, met een kerk en een paar horecagelegenheden.\n\nVanuit Niederau is het een korte rit voor een dag skiën aan de andere kant van de SkiWelt of voor een zomerse wandeling. Actuele info over lifttijden en kinderfaciliteiten controleer je vooraf.",
+   "en": "Brixen im Thale lies in the Brixental, some way south of Hopfgarten and Itter, at the foot of the Hohe Salve. The village belongs to the SkiWelt Wilder Kaiser-Brixental ski area and in winter has direct access to the slopes.\n\nIn summer the surroundings suit hiking and cycling, with the Hohe Salve as a well-known viewpoint. The village itself is rural in character, with a church and a few places to eat.\n\nFrom Niederau it is a short drive for a day of skiing on the other side of the SkiWelt or for a summer hike. Check current lift times and children's facilities beforehand.",
+   "de": "Brixen im Thale liegt im Brixental, ein Stück südlich von Hopfgarten und Itter, am Fuß der Hohen Salve. Der Ort gehört zum Skigebiet SkiWelt Wilder Kaiser-Brixental und hat im Winter direkten Zugang zu den Pisten.\n\nIm Sommer eignet sich die Umgebung zum Wandern und Radfahren, mit der Hohen Salve als bekanntem Aussichtspunkt. Der Ort selbst ist ländlich geprägt, mit Kirche und einigen Gasthäusern.\n\nVon Niederau aus ist es eine kurze Fahrt für einen Skitag auf der anderen Seite der SkiWelt oder für eine Sommerwanderung. Aktuelle Liftzeiten und Kinderangebote bitte vorab prüfen."
+  },
+  "highlights": {
+   "nl": [
+    "Skiën in de SkiWelt Wilder Kaiser-Brixental (winter)",
+    "Wandelen richting de Hohe Salve (zomer)",
+    "Fietsen door het Brixental",
+    "Dorpswandeling en bezoek aan de kerk",
+    "Combineren met Hopfgarten"
+   ],
+   "en": [
+    "Ski in the SkiWelt Wilder Kaiser-Brixental (winter)",
+    "Hike towards the Hohe Salve (summer)",
+    "Cycle through the Brixental",
+    "Village walk and a look at the church",
+    "Combine with Hopfgarten"
+   ],
+   "de": [
+    "Skifahren in der SkiWelt Wilder Kaiser-Brixental (Winter)",
+    "Wandern Richtung Hohe Salve (Sommer)",
+    "Radfahren durchs Brixental",
+    "Dorfspaziergang und Besuch der Kirche",
+    "Mit Hopfgarten kombinieren"
+   ]
+  },
+  "getting_there": {
+   "nl": "Ca. 35 minuten rijden vanaf Niederau: via Oberau naar Wörgl en dan door het Brixental. Schatting.",
+   "en": "About 35 minutes by car from Niederau: via Oberau to Wörgl, then through the Brixental. Estimate.",
+   "de": "Etwa 35 Minuten Autofahrt ab Niederau: über Oberau nach Wörgl, dann durchs Brixental. Schätzung."
+  },
+  "best_for": {
+   "nl": "Past bij gezinnen die skiën of wandelen.",
+   "en": "Suits families who ski or hike.",
+   "de": "Passt zu Familien, die Ski fahren oder wandern."
+  },
+  "season": {
+   "nl": "Hele jaar; winter voor ski, zomer voor wandelen.",
+   "en": "All year; winter for skiing, summer for hiking.",
+   "de": "Ganzjährig; Winter zum Skifahren, Sommer zum Wandern."
+  },
+  "drive_min": 35,
+  "elevation_m": null,
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoort Brixen im Thale bij een skigebied?",
+     "en": "Is Brixen im Thale part of a ski area?",
+     "de": "Gehört Brixen im Thale zu einem Skigebiet?"
+    },
+    "a": {
+     "nl": "Ja, het hoort bij de SkiWelt Wilder Kaiser-Brixental.",
+     "en": "Yes, it belongs to the SkiWelt Wilder Kaiser-Brixental.",
+     "de": "Ja, es gehört zur SkiWelt Wilder Kaiser-Brixental."
+    }
+   },
+   {
+    "q": {
+     "nl": "Welke berg ligt boven het dorp?",
+     "en": "Which mountain is above the village?",
+     "de": "Welcher Berg liegt oberhalb des Dorfes?"
+    },
+    "a": {
+     "nl": "De Hohe Salve, een bekende uitzichtberg.",
+     "en": "The Hohe Salve, a well-known viewpoint mountain.",
+     "de": "Die Hohe Salve, ein bekannter Aussichtsberg."
+    }
+   }
+  ]
+ }
+]

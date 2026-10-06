@@ -1,0 +1,847 @@
+[
+ {
+  "id": "s55",
+  "drop": false,
+  "drop_reason": "",
+  "place": "thiersee",
+  "slug_en": "thiersee-lake-beach",
+  "slug_de": "strandbad-thiersee",
+  "title": {
+   "nl": "Strandbad Thiersee",
+   "en": "Thiersee Lake Beach",
+   "de": "Strandbad Thiersee"
+  },
+  "tagline": {
+   "nl": "Rustig bergmeer met zwemstrand in het Kufsteinerland",
+   "en": "A quiet mountain lake with a bathing beach in the Kufsteinerland",
+   "de": "Ruhiger Bergsee mit Strandbad im Kufsteinerland"
+  },
+  "intro": {
+   "nl": "De Thiersee is een bergmeer van ongeveer 25 hectare en tot ca. 12 meter diep, vlak bij de Beierse grens. Het water staat bekend om zijn goede kwaliteit en wordt in de zomer vaak zo'n 24 graden.\n\nAan het strandbad vind je ligweides, een duiktoren, een beachvolleybalveld en verhuur van roeiboten en waterfietsen. Het is een ontspannen dagje uit voor gezinnen die liever op een overzichtelijk meer zwemmen dan in een groot bad. Neem handdoeken, zonnebrand en wat te eten mee; je kunt hier gemakkelijk een halve of hele dag doorbrengen.",
+   "en": "The Thiersee is a mountain lake of roughly 25 hectares and up to about 12 metres deep, close to the Bavarian border. Its water is known for good quality and in summer it often reaches around 24 degrees.\n\nThe lido has sunbathing lawns, a diving tower, a beach volleyball court and rowing boats and pedalos for hire. It suits families who prefer swimming in a manageable lake to a large pool. Bring towels, sun cream and something to eat; it is easy to spend half a day or a full day here.",
+   "de": "Der Thiersee ist ein Bergsee von rund 25 Hektar und bis zu etwa 12 Metern Tiefe, nahe der bayerischen Grenze. Das Wasser gilt als sauber und erreicht im Sommer oft rund 24 Grad.\n\nAm Strandbad gibt es Liegewiesen, einen Sprungturm, ein Beachvolleyballfeld sowie Ruder- und Tretboote zum Mieten. Das passt gut für Familien, die lieber in einem überschaubaren See als in einem großen Bad schwimmen. Handtücher, Sonnencreme und etwas zu essen mitnehmen; man kann hier leicht einen halben oder ganzen Tag verbringen."
+  },
+  "tips": {
+   "nl": [
+    "Kom doordeweeks of na de middag voor meer rust.",
+    "Neem een picknick mee of check ter plaatse het aanbod aan eten.",
+    "Huur een roeiboot of waterfiets voor een rondje over het meer."
+   ],
+   "en": [
+    "Come on a weekday or later in the afternoon for more peace and quiet.",
+    "Bring a picnic or check what food is available on site.",
+    "Hire a rowing boat or pedalo for a trip around the lake."
+   ],
+   "de": [
+    "Unter der Woche oder am Nachmittag ist es ruhiger.",
+    "Ein Picknick mitbringen oder das Angebot vor Ort prüfen.",
+    "Ein Ruder- oder Tretboot für eine Runde über den See mieten."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 35 minuten rijden via Wörgl en Kufstein, daarna richting Thiersee. Parkeren kan bij het strandbad.",
+   "en": "From Niederau it is about 35 minutes by car via Wörgl and Kufstein, then towards Thiersee. Parking is available near the lido.",
+   "de": "Von Niederau sind es etwa 35 Minuten mit dem Auto über Wörgl und Kufstein Richtung Thiersee. Parken ist am Strandbad möglich."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve of hele dag",
+    "en": "Half or full day",
+    "de": "Halber oder ganzer Tag"
+   },
+   "price": {
+    "nl": "Entree wordt betaald; tarieven wisselen, informeer vooraf",
+    "en": "Admission is charged; prices vary, check beforehand",
+    "de": "Eintritt kostenpflichtig; Preise ändern sich, bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "About 35 min by car",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Thiersee",
+   "en": "Thiersee",
+   "de": "Thiersee"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je in de Thiersee zwemmen?",
+     "en": "Can you swim in the Thiersee?",
+     "de": "Kann man im Thiersee baden?"
+    },
+    "a": {
+     "nl": "Ja, bij het strandbad is zwemmen mogelijk; in de zomer wordt het water vaak ca. 24 graden.",
+     "en": "Yes, swimming is possible at the lido; in summer the water often reaches about 24 degrees.",
+     "de": "Ja, am Strandbad kann man baden; im Sommer wird das Wasser oft rund 24 Grad warm."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s59",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "achensee-boat-trip",
+  "slug_de": "achensee-schifffahrt",
+  "title": {
+   "nl": "Achensee schipvaart",
+   "en": "Achensee boat trip",
+   "de": "Achensee-Schifffahrt"
+  },
+  "tagline": {
+   "nl": "Met de boot over het grootste meer van Tirol",
+   "en": "By boat across Tyrol's largest lake",
+   "de": "Mit dem Schiff über den größten See Tirols"
+  },
+  "intro": {
+   "nl": "Het Achensee ligt tussen het Karwendel en het Rofan en is het grootste meer van Tirol. Sinds 1887 varen er schepen over het smaragdgroene water, tegenwoordig met meerdere aanlegplaatsen langs de oever.\n\nEen tocht over het meer is een rustig programma voor gezinnen: je zit buiten, ziet de berghellingen voorbijglijden en kunt onderweg uitstappen, bijvoorbeeld in Pertisau voor een wandeling langs het water. Bij Seespitz sluit de historische Achenseebahn aan. Het vaarschema verschilt per dag en seizoen, dus bekijk dat vooraf.",
+   "en": "The Achensee lies between the Karwendel and Rofan ranges and is the largest lake in Tyrol. Boats have been sailing its emerald-green water since 1887, today with several landing stages along the shore.\n\nA trip on the lake is a relaxed outing for families: you sit outdoors, watch the mountain slopes glide by and can get off along the way, for example at Pertisau for a walk by the water. At Seespitz the historic Achenseebahn rack railway connects. Sailing times vary by day and season, so check them in advance.",
+   "de": "Der Achensee liegt zwischen Karwendel und Rofan und ist der größte See Tirols. Seit 1887 fahren Schiffe über das smaragdgrüne Wasser, heute mit mehreren Anlegestellen am Ufer.\n\nEine Fahrt über den See ist ein entspanntes Programm für Familien: Man sitzt im Freien, sieht die Berghänge vorbeigleiten und kann unterwegs aussteigen, etwa in Pertisau für einen Spaziergang am Wasser. In Seespitz besteht Anschluss an die historische Achenseebahn. Die Fahrzeiten ändern sich je nach Tag und Saison, daher vorab prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Controleer het vaarschema vooraf.",
+    "Bij helder weer is het uitzicht het mooist.",
+    "Stap uit in Pertisau voor een wandeling of lunch aan het water."
+   ],
+   "en": [
+    "Check the timetable in advance.",
+    "Views are best in clear weather.",
+    "Get off at Pertisau for a walk or lunch by the water."
+   ],
+   "de": [
+    "Fahrplan vorab prüfen.",
+    "Bei klarem Wetter ist die Aussicht am schönsten.",
+    "In Pertisau aussteigen für einen Spaziergang oder ein Mittagessen am Wasser."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 50 minuten rijden via de A12 (richting Jenbach/Achensee) naar Pertisau of Seespitz.",
+   "en": "From Niederau it is about 50 minutes by car via the A12 (towards Jenbach/Achensee) to Pertisau or Seespitz.",
+   "de": "Von Niederau fährt man etwa 50 Minuten über die A12 (Richtung Jenbach/Achensee) nach Pertisau oder Seespitz."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Ca. 1–3 uur, afhankelijk van de tocht",
+    "en": "About 1–3 hours, depending on the trip",
+    "de": "Ca. 1–3 Std., je nach Fahrt"
+   },
+   "price": {
+    "nl": "Prijs hangt af van de tocht; informeer vooraf",
+    "en": "Price depends on the trip; check beforehand",
+    "de": "Preis je nach Fahrt; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "About 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Voornamelijk zomer; vaartijden controleren",
+    "en": "Mainly summer; check sailing times",
+    "de": "Hauptsächlich Sommer; Fahrzeiten prüfen"
+   }
+  },
+  "location": {
+   "nl": "Achensee (Pertisau)",
+   "en": "Achensee (Pertisau)",
+   "de": "Achensee (Pertisau)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Sinds wanneer varen er schepen op het Achensee?",
+     "en": "Since when have boats sailed on the Achensee?",
+     "de": "Seit wann fahren Schiffe auf dem Achensee?"
+    },
+    "a": {
+     "nl": "De scheepvaart op het Achensee bestaat sinds 1887.",
+     "en": "Boat services on the Achensee have existed since 1887.",
+     "de": "Die Schifffahrt auf dem Achensee gibt es seit 1887."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s63",
+  "drop": false,
+  "drop_reason": "",
+  "place": "walchsee",
+  "slug_en": "walchsee-lake-beach",
+  "slug_de": "strandbad-walchsee",
+  "title": {
+   "nl": "Walchsee",
+   "en": "Walchsee",
+   "de": "Walchsee"
+  },
+  "tagline": {
+   "nl": "Een van de warmste zwemmeren van Tirol",
+   "en": "One of the warmest bathing lakes in Tyrol",
+   "de": "Einer der wärmsten Badeseen Tirols"
+  },
+  "intro": {
+   "nl": "Het Walchsee ligt in het Kaiserwinkl, tussen de Kaisergebergte en de Chiemgauer Alpen. Met zo'n 100 hectare is het groot, en het geldt als een van de warmste zwemmeren van Tirol; in de zomer wordt het water vaak 23 tot 25 graden.\n\nLangs de oever liggen grasstroken met ondiepe instappunten, wat het meer geschikt maakt voor gezinnen met kleine kinderen. Er zijn een strandbad, een aquapark met trampolines en glijbanen, een strandbar en een beachvolleybalveld. Je kunt hier ook kano's of SUP-boards huren, al verschilt het aanbod per aanbieder.",
+   "en": "The Walchsee lies in the Kaiserwinkl between the Kaiser Mountains and the Chiemgau Alps. At around 100 hectares it is sizeable, and it counts as one of the warmest bathing lakes in Tyrol; in summer the water often reaches 23 to 25 degrees.\n\nAlong the shore are grassy areas with shallow entry points, which suits families with small children. There is a lido, an aqua park with trampolines and slides, a beach bar and a beach volleyball court. Canoes and SUP boards can also be hired, although the offer varies by provider.",
+   "de": "Der Walchsee liegt im Kaiserwinkl zwischen Kaisergebirge und Chiemgauer Alpen. Mit rund 100 Hektar ist er groß und gilt als einer der wärmsten Badeseen Tirols; im Sommer erreicht das Wasser oft 23 bis 25 Grad.\n\nAm Ufer gibt es Wiesen mit flachen Einstiegen, was den See für Familien mit kleinen Kindern geeignet macht. Es gibt ein Strandbad, einen Aquapark mit Trampolinen und Rutschen, eine Strandbar und ein Beachvolleyballfeld. Kanus und SUP-Boards lassen sich ebenfalls mieten, das Angebot hängt jedoch vom Anbieter ab."
+  },
+  "tips": {
+   "nl": [
+    "Het water is warm genoeg voor ook de kleinsten, maar blijf altijd dichtbij.",
+    "Huur een kano of SUP-board voor een rondje over het meer.",
+    "Kom op een rustige doordeweekse dag voor de meeste ruimte."
+   ],
+   "en": [
+    "The water is warm enough even for little ones, but always stay close by.",
+    "Hire a canoe or SUP board for a trip on the lake.",
+    "Come on a quiet weekday for the most space."
+   ],
+   "de": [
+    "Das Wasser ist auch für die Kleinsten warm genug, bleiben Sie aber immer in der Nähe.",
+    "Ein Kanu oder SUP-Board für eine Runde auf dem See mieten.",
+    "An einem ruhigen Wochentag gibt es am meisten Platz."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 45 minuten rijden via Wörgl en Kufstein naar Walchsee.",
+   "en": "From Niederau it is about 45 minutes by car via Wörgl and Kufstein to Walchsee.",
+   "de": "Von Niederau sind es etwa 45 Minuten mit dem Auto über Wörgl und Kufstein nach Walchsee."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve of hele dag",
+    "en": "Half or full day",
+    "de": "Halber oder ganzer Tag"
+   },
+   "price": {
+    "nl": "Tarieven per strandbad wisselen; informeer vooraf",
+    "en": "Prices vary by lido; check beforehand",
+    "de": "Preise je nach Strandbad unterschiedlich; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "About 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Walchsee, Kaiserwinkl",
+   "en": "Walchsee, Kaiserwinkl",
+   "de": "Walchsee, Kaiserwinkl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe warm wordt het Walchsee?",
+     "en": "How warm does the Walchsee get?",
+     "de": "Wie warm wird der Walchsee?"
+    },
+    "a": {
+     "nl": "In de zomer meestal ca. 23 tot 25 graden, waarmee het een van de warmste meren van Tirol is.",
+     "en": "In summer usually about 23 to 25 degrees, making it one of the warmest lakes in Tyrol.",
+     "de": "Im Sommer meist ca. 23 bis 25 Grad, damit zählt er zu den wärmsten Seen Tirols."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s71",
+  "drop": false,
+  "drop_reason": "",
+  "place": "koessen",
+  "slug_en": "koessen-forest-pool",
+  "slug_de": "waldschwimmbad-koessen",
+  "title": {
+   "nl": "Waldschwimmbad Kössen",
+   "en": "Kössen Forest Pool",
+   "de": "Waldschwimmbad Kössen"
+  },
+  "tagline": {
+   "nl": "Verwarmd openluchtbad in het bos bij Kössen",
+   "en": "Heated outdoor pool in the woods near Kössen",
+   "de": "Beheiztes Freibad im Wald bei Kössen"
+  },
+  "intro": {
+   "nl": "In Kössen, in het Kaiserwinkl bij de Duitse grens, ligt het Erlebnis-Waldschwimmbad: een verwarmd openluchtbad dat zonder chloor werkt en tussen bomen is gelegen. Het is een goed alternatief als je liever in een bad dan in een meer zwemt.\n\nHet bad heeft ligweiden en is vooral aantrekkelijk voor gezinnen die een overzichtelijke, rustige plek zoeken. Faciliteiten en tarieven kunnen per jaar veranderen, dus controleer de openingstijden en voorzieningen voor je vertrekt. Combineer het bezoek eventueel met een wandeling of fietstocht door het Kaiserwinkl.",
+   "en": "In Kössen, in the Kaiserwinkl near the German border, you will find the Erlebnis-Waldschwimmbad: a heated outdoor pool that runs without chlorine and sits among trees. It is a good alternative if you prefer a pool to a lake.\n\nThe pool has sunbathing lawns and is especially appealing to families looking for a manageable, peaceful spot. Facilities and prices can change from year to year, so check opening times and amenities before you go. You can combine the visit with a walk or bike ride through the Kaiserwinkl.",
+   "de": "In Kössen im Kaiserwinkl nahe der deutschen Grenze liegt das Erlebnis-Waldschwimmbad: ein beheiztes Freibad, das ohne Chlor auskommt und zwischen Bäumen liegt. Es ist eine gute Alternative, wenn man lieber im Bad als im See schwimmt.\n\nDas Bad hat Liegewiesen und ist besonders für Familien geeignet, die einen überschaubaren, ruhigen Ort suchen. Ausstattung und Preise können sich von Jahr zu Jahr ändern, daher Öffnungszeiten und Angebot vor der Fahrt prüfen. Der Besuch lässt sich mit einem Spaziergang oder einer Radtour durch den Kaiserwinkl verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf de openingstijden en het weer.",
+    "Doordeweeks is het meestal rustiger.",
+    "Combineer met een wandeling in het Kaiserwinkl."
+   ],
+   "en": [
+    "Check opening times and the weather beforehand.",
+    "It is usually quieter on weekdays.",
+    "Combine with a walk in the Kaiserwinkl."
+   ],
+   "de": [
+    "Öffnungszeiten und Wetter vorab prüfen.",
+    "Unter der Woche ist es meist ruhiger.",
+    "Mit einer Wanderung im Kaiserwinkl kombinieren."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 50 minuten rijden via Wörgl en Kufstein richting Kössen.",
+   "en": "From Niederau it is about 50 minutes by car via Wörgl and Kufstein towards Kössen.",
+   "de": "Von Niederau sind es etwa 50 Minuten mit dem Auto über Wörgl und Kufstein Richtung Kössen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve of hele dag",
+    "en": "Half or full day",
+    "de": "Halber oder ganzer Tag"
+   },
+   "price": {
+    "nl": "Entree wordt betaald; informeer vooraf",
+    "en": "Admission is charged; check beforehand",
+    "de": "Eintritt kostenpflichtig; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "About 50 min by car",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kössen, Kaiserwinkl",
+   "en": "Kössen, Kaiserwinkl",
+   "de": "Kössen, Kaiserwinkl"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het bad in Kössen een meer of een zwembad?",
+     "en": "Is Kössen's bathing spot a lake or a pool?",
+     "de": "Ist das Bad in Kössen ein See oder ein Schwimmbad?"
+    },
+    "a": {
+     "nl": "Het is een verwarmd openluchtbad in het bos (Erlebnis-Waldschwimmbad), geen natuurmeer.",
+     "en": "It is a heated outdoor pool in the woods (Erlebnis-Waldschwimmbad), not a natural lake.",
+     "de": "Es ist ein beheiztes Freibad im Wald (Erlebnis-Waldschwimmbad), kein Natursee."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s75",
+  "drop": true,
+  "drop_reason": "Erlebnisbad Wörgl (Wave) is volgens krantenberichten gesloten.",
+  "place": "woergl",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {},
+  "tagline": {},
+  "intro": {},
+  "tips": {},
+  "practical": {},
+  "facts": {},
+  "location": {},
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s77",
+  "drop": false,
+  "drop_reason": "",
+  "place": "zell-am-ziller",
+  "slug_en": "ziller-rafting",
+  "slug_de": "rafting-zillertal",
+  "title": {
+   "nl": "Rafting op de Ziller",
+   "en": "Rafting on the Ziller",
+   "de": "Rafting auf der Ziller"
+  },
+  "tagline": {
+   "nl": "Met een gids in een rubberboot over de rivier",
+   "en": "By rubber raft with a guide down the river",
+   "de": "Mit Guide im Schlauchboot über den Fluss"
+  },
+  "intro": {
+   "nl": "De Ziller is een van de rivieren in Tirol waar raftingbedrijven dagelijks tochten organiseren. Je vaart in een rubberboot met een gediplomeerde gids, helm, zwemvest en meestal een wetsuit. Het peil en de moeilijkheid hangen af van het seizoen en het weer.\n\nEr zijn rustigere gezinstochten, vaak vanaf ca. 6 jaar, en pittigere tochten voor tieners en volwassenen met een hogere minimumleeftijd, ongeveer 10 tot 12 jaar. Je werkt samen als team en wordt vrijwel zeker nat. Boek van tevoren bij een aanbieder, zoals Actionclub of Freiluftakademie, en lees de voorwaarden over leeftijd en gezondheid.",
+   "en": "The Ziller is one of the Tyrolean rivers where rafting companies run daily trips. You travel in a rubber raft with a qualified guide, helmet, life jacket and usually a wetsuit. Water level and difficulty depend on the season and the weather.\n\nThere are gentler family trips, often from about 6 years, and livelier ones for teenagers and adults with a higher minimum age, roughly 10 to 12 years. You work together as a team and will almost certainly get wet. Book ahead with a provider such as Actionclub or Freiluftakademie and read the age and health conditions.",
+   "de": "Die Ziller ist einer der Tiroler Flüsse, auf denen Rafting-Anbieter täglich Touren durchführen. Man fährt im Schlauchboot mit ausgebildetem Guide, Helm, Schwimmweste und meist Neoprenanzug. Wasserstand und Schwierigkeit hängen von Jahreszeit und Wetter ab.\n\nEs gibt ruhigere Familientouren, oft ab etwa 6 Jahren, und actionreichere Touren für Jugendliche und Erwachsene mit höherem Mindestalter, etwa 10 bis 12 Jahre. Man arbeitet als Team und wird fast sicher nass. Vorab bei einem Anbieter wie Actionclub oder Freiluftakademie buchen und die Bedingungen zu Alter und Gesundheit lesen."
+  },
+  "tips": {
+   "nl": [
+    "Boek vooraf en vraag naar de minimumleeftijd van de gekozen tocht.",
+    "Neem een handdoek en droge kleren mee.",
+    "Het peil is vaak hoger in het voorjaar en begin zomer."
+   ],
+   "en": [
+    "Book ahead and ask about the minimum age of the chosen trip.",
+    "Bring a towel and dry clothes.",
+    "Water levels are often higher in spring and early summer."
+   ],
+   "de": [
+    "Vorab buchen und nach dem Mindestalter der gewählten Tour fragen.",
+    "Handtuch und trockene Kleidung mitnehmen.",
+    "Der Wasserstand ist im Frühjahr und Frühsommer oft höher."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 40 minuten rijden naar het Zillertal (Zell am Ziller of Mayrhofen, afhankelijk van de aanbieder).",
+   "en": "From Niederau it is about 40 minutes by car to the Zillertal (Zell am Ziller or Mayrhofen, depending on the provider).",
+   "de": "Von Niederau sind es etwa 40 Minuten mit dem Auto ins Zillertal (Zell am Ziller oder Mayrhofen, je nach Anbieter)."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinstochten vaak vanaf ca. 6 jaar",
+    "en": "Family trips often from about 6 years",
+    "de": "Familientouren oft ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2–3 uur",
+    "en": "About 2–3 hours",
+    "de": "Ca. 2–3 Std."
+   },
+   "price": {
+    "nl": "Prijs verschilt per tocht; informeer vooraf",
+    "en": "Price varies by trip; check beforehand",
+    "de": "Preis je nach Tour verschieden; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden",
+    "en": "About 40 min by car",
+    "de": "Ca. 40 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (mei tot september)",
+    "en": "Summer (May to September)",
+    "de": "Sommer (Mai bis September)"
+   }
+  },
+  "location": {
+   "nl": "Zillertal",
+   "en": "Zillertal",
+   "de": "Zillertal"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Vanaf welke leeftijd kun je raften op de Ziller?",
+     "en": "From what age can you raft on the Ziller?",
+     "de": "Ab welchem Alter kann man auf der Ziller raften?"
+    },
+    "a": {
+     "nl": "Gezinstochten bieden aanbieders vaak aan vanaf ca. 6 jaar; sportievere tochten hebben een hogere minimumleeftijd.",
+     "en": "Providers often offer family trips from about 6 years; more sporty trips have a higher minimum age.",
+     "de": "Anbieter bieten Familientouren oft ab ca. 6 Jahren an; sportlichere Touren haben ein höheres Mindestalter."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s85",
+  "drop": false,
+  "drop_reason": "",
+  "place": "hopfgarten",
+  "slug_en": "hopfgarten-lake-salvenaland",
+  "slug_de": "badesee-hopfgarten",
+  "title": {
+   "nl": "Badesee Hopfgarten (Salvenaland)",
+   "en": "Hopfgarten Bathing Lake (Salvenaland)",
+   "de": "Badesee Hopfgarten (Salvenaland)"
+  },
+  "tagline": {
+   "nl": "Zwemmeer en vrijetijdspark aan de voet van de Hohe Salve",
+   "en": "Bathing lake and leisure park at the foot of the Hohe Salve",
+   "de": "Badesee und Freizeitpark am Fuß der Hohen Salve"
+  },
+  "intro": {
+   "nl": "Hopfgarten im Brixental ligt aan de voet van de Hohe Salve. In het dorp ligt het Salvenaland, een vrijetijdspark met onder meer een zwemmeer, zwembaden, een kinderpark, een zomerrodelbaan en minigolf.\n\nHet is een overzichtelijk adres voor gezinnen die in de buurt van Niederau willen zwemmen zonder lang te reizen. Het park is in het warme seizoen geopend; de precieze openingsperiode en de tarieven kunnen wisselen. Combineer het met een wandeling door het dorp of een tochtje met de Hohe Salve-bergbaan.",
+   "en": "Hopfgarten im Brixental lies at the foot of the Hohe Salve. In the village is the Salvenaland, a leisure park with a bathing lake, swimming pools, a children's area, a summer toboggan run and mini golf.\n\nIt is a manageable option for families who want to swim near Niederau without travelling far. The park is open in the warm season; the exact opening period and prices may change. Combine it with a stroll through the village or a trip on the Hohe Salve cable car.",
+   "de": "Hopfgarten im Brixental liegt am Fuß der Hohen Salve. Im Ort befindet sich das Salvenaland, ein Freizeitpark mit Badesee, Schwimmbecken, Kinderbereich, Sommerrodelbahn und Minigolf.\n\nEs ist eine überschaubare Adresse für Familien, die in der Nähe von Niederau baden möchten, ohne weit zu fahren. Der Park ist in der warmen Jahreszeit geöffnet; die genaue Öffnungsperiode und die Preise können sich ändern. Kombinieren lässt sich der Besuch mit einem Dorfbummel oder einer Fahrt mit der Hohen Salve-Bahn."
+  },
+  "tips": {
+   "nl": [
+    "Controleer de openingsperiode vooraf.",
+    "Kom op een zonnige dag en neem zonnebrand mee.",
+    "Combineer met de zomerrodelbaan of minigolf."
+   ],
+   "en": [
+    "Check the opening period beforehand.",
+    "Come on a sunny day and bring sun cream.",
+    "Combine with the summer toboggan run or mini golf."
+   ],
+   "de": [
+    "Öffnungszeitraum vorab prüfen.",
+    "An einem sonnigen Tag kommen und Sonnencreme mitnehmen.",
+    "Mit Sommerrodelbahn oder Minigolf kombinieren."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 25 minuten rijden naar Hopfgarten im Brixental.",
+   "en": "From Niederau it is about 25 minutes by car to Hopfgarten im Brixental.",
+   "de": "Von Niederau sind es etwa 25 Minuten mit dem Auto nach Hopfgarten im Brixental."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Entree wordt betaald; tarieven wisselen, informeer vooraf",
+    "en": "Admission is charged; prices vary, check beforehand",
+    "de": "Eintritt kostenpflichtig; Preise ändern sich, bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "About 25 min by car",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (late lente tot begin herfst)",
+    "en": "Summer (late spring to early autumn)",
+    "de": "Sommer (Spätfrühling bis Frühherbst)"
+   }
+  },
+  "location": {
+   "nl": "Hopfgarten im Brixental",
+   "en": "Hopfgarten im Brixental",
+   "de": "Hopfgarten im Brixental"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er naast zwemmen te doen in het Salvenaland?",
+     "en": "What else is there to do at the Salvenaland besides swimming?",
+     "de": "Was gibt es im Salvenaland außer Baden?"
+    },
+    "a": {
+     "nl": "Er zijn onder meer een kinderpark, een zomerrodelbaan en minigolf.",
+     "en": "There is a children's area, a summer toboggan run and mini golf, among other things.",
+     "de": "Es gibt unter anderem einen Kinderbereich, eine Sommerrodelbahn und Minigolf."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s91",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "zell-am-see-lido",
+  "slug_de": "strandbad-zell-am-see",
+  "title": {
+   "nl": "Strandbad Zell am See",
+   "en": "Zell am See Lido",
+   "de": "Strandbad Zell am See"
+  },
+  "tagline": {
+   "nl": "Zwemmen in het Zeller See, omringd door bergen",
+   "en": "Swimming in the Zeller See, ringed by mountains",
+   "de": "Baden im Zeller See, umgeben von Bergen"
+  },
+  "intro": {
+   "nl": "Het Zeller See ligt in het Pinzgau, in de deelstaat Salzburg, tussen de Kitzbüheler Alpen en de Hohe Tauern. Het meer staat bekend om zijn zeer schone water. Rond het meer liggen drie strandbaden: in Zell am See zelf, in Thumersbach en in Schüttdorf (Seespitz).\n\nHet strandbad van Zell am See heeft onder meer een avontuurlijk kinderbad met een grote glijbaan, een duiktoren van 5 meter en wateractiviteiten zoals waterskiën en bananenboot. Het is een lange rit vanaf Niederau, dus het past het best bij een volledige dagtocht.",
+   "en": "The Zeller See lies in the Pinzgau region of Salzburg, between the Kitzbühel Alps and the Hohe Tauern. The lake is known for its very clean water. There are three lidos around it: in Zell am See itself, in Thumersbach and in Schüttdorf (Seespitz).\n\nThe Zell am See lido has, among other things, an adventure pool for children with a large slide, a 5-metre diving tower and water activities such as water skiing and banana boat rides. It is a longer drive from Niederau, so it suits a full day trip best.",
+   "de": "Der Zeller See liegt im Pinzgau im Land Salzburg, zwischen den Kitzbüheler Alpen und den Hohen Tauern. Der See ist für sein sehr sauberes Wasser bekannt. Rund um den See gibt es drei Strandbäder: in Zell am See selbst, in Thumersbach und in Schüttdorf (Seespitz).\n\nDas Strandbad Zell am See hat unter anderem ein Erlebnisbecken für Kinder mit großer Rutsche, einen 5-Meter-Sprungturm und Wasseraktivitäten wie Wasserski und Bananenboot. Von Niederau ist es eine längere Fahrt, daher eignet es sich am besten für einen ganzen Ausflugstag."
+  },
+  "tips": {
+   "nl": [
+    "Plan een hele dag; de rit is een stuk langer dan naar de andere meren.",
+    "Kijk vooraf welk van de drie strandbaden het best bij je gezelschap past.",
+    "Neem zonnebrand en badkleding voor kinderen mee."
+   ],
+   "en": [
+    "Plan a full day; the drive is noticeably longer than to the other lakes.",
+    "Check beforehand which of the three lidos suits your group best.",
+    "Bring sun cream and swimwear for the children."
+   ],
+   "de": [
+    "Einen ganzen Tag einplanen; die Fahrt ist deutlich länger als zu den anderen Seen.",
+    "Vorab prüfen, welches der drei Strandbäder am besten passt.",
+    "Sonnencreme und Badekleidung für die Kinder mitnehmen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 1 uur en 15 minuten rijden, bijvoorbeeld via Kitzbühel en de Pass Thurn. Controleer de route vooraf.",
+   "en": "From Niederau it is about 1 hour 15 minutes by car, for example via Kitzbühel and the Pass Thurn. Check the route beforehand.",
+   "de": "Von Niederau sind es etwa 1 Stunde 15 Minuten mit dem Auto, zum Beispiel über Kitzbühel und den Pass Thurn. Die Route vorab prüfen."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Hele dag",
+    "en": "Full day",
+    "de": "Ganzer Tag"
+   },
+   "price": {
+    "nl": "Entree wordt betaald; tarieven wisselen, informeer vooraf",
+    "en": "Admission is charged; prices vary, check beforehand",
+    "de": "Eintritt kostenpflichtig; Preise ändern sich, bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 1 uur 15 min rijden",
+    "en": "About 1 hour 15 min by car",
+    "de": "Ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Zell am See (Salzburgerland)",
+   "en": "Zell am See (Salzburg region)",
+   "de": "Zell am See (Salzburger Land)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel strandbaden zijn er bij het Zeller See?",
+     "en": "How many lidos are there at the Zeller See?",
+     "de": "Wie viele Strandbäder gibt es am Zeller See?"
+    },
+    "a": {
+     "nl": "Drie: in Zell am See, Thumersbach en Schüttdorf (Seespitz).",
+     "en": "Three: in Zell am See, Thumersbach and Schüttdorf (Seespitz).",
+     "de": "Drei: in Zell am See, Thumersbach und Schüttdorf (Seespitz)."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s95",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "schwarzsee-kitzbuehel",
+  "slug_de": "schwarzsee-kitzbuehel",
+  "title": {
+   "nl": "Schwarzsee Kitzbühel",
+   "en": "Schwarzsee Kitzbühel",
+   "de": "Schwarzsee Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Veenmeer met strandbad bij Kitzbühel",
+   "en": "Moor lake with a lido near Kitzbühel",
+   "de": "Moorsee mit Strandbad bei Kitzbühel"
+  },
+  "intro": {
+   "nl": "Het Schwarzsee ten noordwesten van Kitzbühel is een veenmeer van ruim 16 hectare en tot ca. 7 meter diep. Door het veenachtige karakter is het zicht in het water beperkt en voelt de overgang naar het water wat zacht aan.\n\nHet openbare strandbad heeft grote ligweiden, een waterglijbaan, een duiktoren en verhuur van roei-, trap- en motorboten. Aan het meer zit een restaurant en er is een eigen halte voor bus en trein. Het bad is geopend van mei tot september, zodat je een bezoek goed kunt combineren met een middag in Kitzbühel.",
+   "en": "The Schwarzsee north-west of Kitzbühel is a moor lake of just over 16 hectares and up to about 7 metres deep. Because of its peaty nature visibility in the water is limited and the transition into the water feels soft underfoot.\n\nThe public lido has large sunbathing lawns, a water slide, a diving tower and rental of rowing, pedal and motor boats. There is a restaurant by the lake and its own bus and train stop. The lido is open from May to September, so a visit combines well with an afternoon in Kitzbühel.",
+   "de": "Der Schwarzsee nordwestlich von Kitzbühel ist ein Moorsee von gut 16 Hektar und bis zu etwa 7 Metern Tiefe. Wegen des Moorcharakters ist die Sicht im Wasser begrenzt und der Übergang ins Wasser fühlt sich weich an.\n\nDas öffentliche Strandbad hat große Liegewiesen, eine Wasserrutsche, einen Sprungturm und vermietet Ruder-, Tret- und Motorboote. Am See gibt es ein Restaurant und eine eigene Bus- und Bahnhaltestelle. Das Bad ist von Mai bis September geöffnet, sodass sich der Besuch gut mit einem Nachmittag in Kitzbühel verbinden lässt."
+  },
+  "tips": {
+   "nl": [
+    "Het water is veenachtig en niet glashelder; dat is normaal.",
+    "Combineer met een bezoek aan het centrum van Kitzbühel.",
+    "Reis eventueel met bus of trein; er is een halte bij het meer."
+   ],
+   "en": [
+    "The water is peaty and not crystal clear; that is normal.",
+    "Combine with a visit to Kitzbühel town centre.",
+    "You can travel by bus or train; there is a stop at the lake."
+   ],
+   "de": [
+    "Das Wasser ist moorig und nicht glasklar; das ist normal.",
+    "Mit einem Besuch im Zentrum von Kitzbühel kombinieren.",
+    "Man kann mit Bus oder Bahn anreisen; es gibt eine Haltestelle am See."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 45 minuten rijden naar Kitzbühel; het meer ligt net buiten de stad.",
+   "en": "From Niederau it is about 45 minutes by car to Kitzbühel; the lake lies just outside town.",
+   "de": "Von Niederau sind es etwa 45 Minuten mit dem Auto nach Kitzbühel; der See liegt knapp außerhalb der Stadt."
+  },
+  "facts": {
+   "age": {
+    "nl": "Alle leeftijden",
+    "en": "All ages",
+    "de": "Alle Altersgruppen"
+   },
+   "duration": {
+    "nl": "Halve dag",
+    "en": "Half day",
+    "de": "Halber Tag"
+   },
+   "price": {
+    "nl": "Entree wordt betaald; tarieven wisselen, informeer vooraf",
+    "en": "Admission is charged; prices vary, check beforehand",
+    "de": "Eintritt kostenpflichtig; Preise ändern sich, bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "About 45 min by car",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (mei tot september)",
+    "en": "Summer (May to September)",
+    "de": "Sommer (Mai bis September)"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel",
+   "en": "Kitzbühel",
+   "de": "Kitzbühel"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat voor meer is het Schwarzsee?",
+     "en": "What kind of lake is the Schwarzsee?",
+     "de": "Was für ein See ist der Schwarzsee?"
+    },
+    "a": {
+     "nl": "Een veenmeer van ruim 16 hectare met bruinig, minder helder water.",
+     "en": "A moor lake of just over 16 hectares with brownish, less clear water.",
+     "de": "Ein Moorsee von gut 16 Hektar mit bräunlichem, weniger klarem Wasser."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s97",
+  "drop": false,
+  "drop_reason": "",
+  "place": "mayrhofen",
+  "slug_en": "zillertal-canyoning",
+  "slug_de": "canyoning-zillertal",
+  "title": {
+   "nl": "Canyoning in het Zillertal",
+   "en": "Canyoning in the Zillertal",
+   "de": "Canyoning im Zillertal"
+  },
+  "tagline": {
+   "nl": "Door kloven klauteren, zwemmen en springen met een gids",
+   "en": "Climb, swim and jump through gorges with a guide",
+   "de": "Mit Guide durch Schluchten klettern, schwimmen und springen"
+  },
+  "intro": {
+   "nl": "Bij canyoning volg je een bergbeek door een kloof: je daalt af langs rotsen, glijdt door waterbekkens en springt op geschikte plekken in het water. Aanbieders in het Zillertal, onder meer in de Zemmschlucht bij Mayrhofen, doen dit onder leiding van gecertificeerde gidsen en leveren pak, helm en klimgordel.\n\nEr zijn tochten voor verschillende niveaus. Gezinstochten beginnen bij aanbieders vaak vanaf ca. 6 jaar, klassieke tochten vanaf ca. 12 jaar en extreme varianten vanaf ca. 16 jaar. Boek vooraf bij een aanbieder en vraag naar de leeftijd, conditie en weersvoorwaarden voor de gekozen tocht.",
+   "en": "In canyoning you follow a mountain stream through a gorge: you abseil down rocks, slide through pools and jump into the water at suitable spots. Providers in the Zillertal, including in the Zemmschlucht near Mayrhofen, run this under certified guides and supply wetsuit, helmet and harness.\n\nThere are trips for different levels. Family trips often start from about 6 years, classic trips from about 12 and extreme versions from about 16. Book ahead with a provider and ask about age, fitness and weather conditions for the chosen trip.",
+   "de": "Beim Canyoning folgt man einem Gebirgsbach durch eine Schlucht: Man seilt sich an Felsen ab, rutscht durch Wasserbecken und springt an geeigneten Stellen ins Wasser. Anbieter im Zillertal, etwa in der Zemmschlucht bei Mayrhofen, führen das mit zertifizierten Guides durch und stellen Neoprenanzug, Helm und Gurt.\n\nEs gibt Touren für verschiedene Niveaus. Familientouren beginnen oft ab etwa 6 Jahren, klassische Touren ab etwa 12 und extreme Varianten ab etwa 16. Vorab bei einem Anbieter buchen und nach Alter, Kondition und Wetterbedingungen der gewählten Tour fragen."
+  },
+  "tips": {
+   "nl": [
+    "Boek vooraf en vraag naar de minimumleeftijd van de gekozen tocht.",
+    "Draag badkleding onder het pak en neem een handdoek mee.",
+    "Bij slecht weer of hoog water kan een tocht vervallen."
+   ],
+   "en": [
+    "Book ahead and ask about the minimum age of the chosen trip.",
+    "Wear swimwear under the wetsuit and bring a towel.",
+    "Trips may be cancelled in bad weather or high water."
+   ],
+   "de": [
+    "Vorab buchen und nach dem Mindestalter der gewählten Tour fragen.",
+    "Badekleidung unter dem Anzug tragen und ein Handtuch mitnehmen.",
+    "Bei schlechtem Wetter oder Hochwasser kann eine Tour ausfallen."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Niederau is het ca. 55 minuten rijden naar Mayrhofen in het Zillertal; sommige aanbieders starten dichterbij.",
+   "en": "From Niederau it is about 55 minutes by car to Mayrhofen in the Zillertal; some providers start closer.",
+   "de": "Von Niederau sind es etwa 55 Minuten mit dem Auto nach Mayrhofen im Zillertal; manche Anbieter starten näher."
+  },
+  "facts": {
+   "age": {
+    "nl": "Gezinstochten vaak vanaf ca. 6 jaar; sportiever vanaf 12 tot 16",
+    "en": "Family trips often from about 6; sportier from 12 to 16",
+    "de": "Familientouren oft ab ca. 6; sportlicher ab 12 bis 16"
+   },
+   "duration": {
+    "nl": "Ca. 3–4 uur",
+    "en": "About 3–4 hours",
+    "de": "Ca. 3–4 Std."
+   },
+   "price": {
+    "nl": "Prijs verschilt per tocht; informeer vooraf",
+    "en": "Price varies by trip; check beforehand",
+    "de": "Preis je nach Tour verschieden; bitte vorab informieren"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "About 55 min by car",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Zillertal (Mayrhofen)",
+   "en": "Zillertal (Mayrhofen)",
+   "de": "Zillertal (Mayrhofen)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Vanaf welke leeftijd kun je canyoning doen in het Zillertal?",
+     "en": "From what age can you go canyoning in the Zillertal?",
+     "de": "Ab welchem Alter ist Canyoning im Zillertal möglich?"
+    },
+    "a": {
+     "nl": "Gezinstochten vaak vanaf ca. 6 jaar; klassieke tochten vanaf ca. 12 en extreme tochten vanaf ca. 16 jaar.",
+     "en": "Family trips often from about 6; classic trips from about 12 and extreme trips from about 16.",
+     "de": "Familientouren oft ab ca. 6 Jahren; klassische Touren ab ca. 12 und extreme Touren ab ca. 16 Jahren."
+    }
+   }
+  ]
+ }
+]

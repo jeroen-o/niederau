@@ -1,0 +1,1454 @@
+[
+ {
+  "id": "s107",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "gugelhupf-baking-workshop-niederau",
+  "slug_de": "gugelhupf-backen-workshop-niederau",
+  "title": {
+   "nl": "Gugelhupf bakken met de chef",
+   "en": "Baking Gugelhupf with the chef",
+   "de": "Gugelhupf backen mit dem Küchenchef"
+  },
+  "tagline": {
+   "nl": "Een klassieke Oostenrijkse tulbandcake maken in de hotelkeuken",
+   "en": "Make a classic Austrian ring cake in the hotel kitchen",
+   "de": "Den klassischen Gugelhupf in der Hotelküche selbst backen"
+  },
+  "intro": {
+   "nl": "De Gugelhupf is een hoge ringvormige cake, in Oostenrijk een vaste waarde bij koffie en op zondag. In de keuken van Hotel Wastlhof in Niederau laat de keukenploeg deelnemers zien hoe het deeg wordt gemengd, gekneed, in de vorm gedaan en afgewerkt.\n\nKinderen en volwassenen doen zelf het werk, van afwegen tot garneren. Na het bakken proef je het resultaat, en wat over is neem je mee. Zo'n ochtend of middag in de keuken is een fijne invulling van een regenachtige vakantiedag.",
+   "en": "The Gugelhupf is a tall ring-shaped cake and a fixture of Austrian coffee tables and Sunday afternoons. In the kitchen of Hotel Wastlhof in Niederau, the kitchen team shows participants how the batter is mixed, kneaded, put into the tin and finished.\n\nChildren and adults do the work themselves, from weighing the ingredients to decorating. Once it is baked you taste the result, and anything left over goes home with you. A session in the kitchen is a pleasant way to fill a rainy holiday day.",
+   "de": "Der Gugelhupf ist ein hoher Kuchen in Ringform und in Österreich fester Bestandteil von Kaffeetafel und Sonntagsjause. In der Küche des Hotels Wastlhof in Niederau zeigt das Küchenteam, wie der Teig gerührt, geknetet, in die Form gefüllt und fertiggestellt wird.\n\nKinder und Erwachsene legen selbst Hand an, vom Abwiegen bis zum Verzieren. Nach dem Backen wird probiert, und was übrig bleibt, nehmen Sie mit. Ein Kochstudio-Vormittag ist eine schöne Idee für einen verregneten Urlaubstag."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij het hotel of er een schort of voorschoot beschikbaar is.",
+    "Meld allergieën of dieetwensen vooraf aan.",
+    "Plan de workshop op een regenachtige dag.",
+    "Neem een trommeltje mee voor wat over is."
+   ],
+   "en": [
+    "Ask the hotel whether aprons are provided.",
+    "Mention allergies or dietary needs in advance.",
+    "Plan the workshop for a rainy day.",
+    "Bring a tin for any leftovers."
+   ],
+   "de": [
+    "Fragen Sie im Hotel, ob Schürzen bereitliegen.",
+    "Geben Sie Allergien oder Ernährungswünsche vorab an.",
+    "Planen Sie den Workshop für einen Regentag ein.",
+    "Bringen Sie eine Dose für Reste mit."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in Hotel Wastlhof in Niederau, dus er is geen reistijd. Aanmelden en actuele dagen en tijden verloopt via de receptie van het hotel; vraag ook of de workshop voor gasten van buiten het hotel openstaat.",
+   "en": "The workshop takes place at Hotel Wastlhof in Niederau, so there is no travelling involved. Booking and the current days and times are handled by the hotel reception; ask too whether outside guests can join.",
+   "de": "Der Workshop findet im Hotel Wastlhof in Niederau statt, es ist also keine Anfahrt nötig. Anmeldung sowie aktuelle Tage und Zeiten laufen über die Rezeption des Hotels; fragen Sie auch, ob externe Gäste teilnehmen können."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 5 jaar",
+    "en": "From about 5 years",
+    "de": "Ab ca. 5 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs op aanvraag; informeer bij het hotel",
+    "en": "Price on request; ask the hotel",
+    "de": "Preis auf Anfrage; bitte im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "In het hotel in Niederau",
+    "en": "At the hotel in Niederau",
+    "de": "Im Hotel in Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "https://www.hotelwastlhof.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kan ik meedoen als ik niet in het hotel logeer?",
+     "en": "Can I join if I am not staying at the hotel?",
+     "de": "Kann ich teilnehmen, wenn ich nicht im Hotel wohne?"
+    },
+    "a": {
+     "nl": "Dat verschilt; vraag het bij de receptie van Hotel Wastlhof.",
+     "en": "That varies; please ask at the reception of Hotel Wastlhof.",
+     "de": "Das ist unterschiedlich; fragen Sie bitte an der Rezeption des Hotels Wastlhof nach."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s108",
+  "drop": true,
+  "drop_reason": "Workshop 'wilde kruiden zalf' via VVV niet te bevestigen; bron noemt geen concrete aanbieder.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {},
+  "tagline": {},
+  "intro": {},
+  "tips": {},
+  "practical": {},
+  "facts": {},
+  "location": {},
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s126",
+  "drop": true,
+  "drop_reason": "Natuurfotografie-workshop voor kinderen in Wildschönau niet te bevestigen.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {},
+  "tagline": {},
+  "intro": {},
+  "tips": {},
+  "practical": {},
+  "facts": {},
+  "location": {},
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s19",
+  "drop": true,
+  "drop_reason": "Houtsnij-workshop in Oberau (atelier/aanbieder) niet te bevestigen.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {},
+  "tagline": {},
+  "intro": {},
+  "tips": {},
+  "practical": {},
+  "facts": {},
+  "location": {},
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s28",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "watercolour-painting-workshop-niederau",
+  "slug_de": "aquarell-malworkshop-niederau",
+  "title": {
+   "nl": "Aquarel-schilderworkshop",
+   "en": "Watercolour painting workshop",
+   "de": "Aquarell-Malworkshop"
+  },
+  "tagline": {
+   "nl": "Het berglandschap van het dal met waterverf op papier zetten",
+   "en": "Capture the mountain valley on paper with watercolours",
+   "de": "Das Bergtal mit Wasserfarben aufs Papier bringen"
+  },
+  "intro": {
+   "nl": "Met waterverf leg je je eigen versie van de Wildschönau vast: de heuvels, de weides en het licht op de toppen. Een begeleider legt uit hoe je kleuren mengt, diepte aanbrengt en met een paar streken een lucht of berghelling laat ontstaan. Voorkennis is niet nodig.\n\nAfhankelijk van het weer schilder je binnen in het hotel of buiten met uitzicht op het dal. Elk werkstuk wordt anders, en je neemt het mee naar huis als herinnering aan de vakantie.",
+   "en": "With watercolours you capture your own version of the Wildschönau: the hills, the meadows and the light on the peaks. A guide explains how to mix colours, create depth and conjure up a sky or mountain slope with a few brushstrokes. No previous experience is needed.\n\nDepending on the weather you paint indoors at the hotel or outside with a view of the valley. Every painting turns out different, and you take it home as a souvenir of your holiday.",
+   "de": "Mit Wasserfarben halten Sie Ihre eigene Sicht auf die Wildschönau fest: die Hügel, die Wiesen und das Licht auf den Gipfeln. Eine Anleitung zeigt, wie man Farben mischt, Tiefe erzeugt und mit wenigen Pinselstrichen Himmel oder Berghang entstehen lässt. Vorkenntnisse sind nicht nötig.\n\nJe nach Wetter malen Sie drinnen im Hotel oder draußen mit Blick ins Tal. Jedes Bild wird anders, und Sie nehmen es als Urlaubserinnerung mit nach Hause."
+  },
+  "tips": {
+   "nl": [
+    "Maak eerst een lichte potloodschets.",
+    "Neem een extra vel mee om te oefenen.",
+    "Draag kleding die vlekken mag hebben.",
+    "Vraag naar de actuele dag en tijd bij het hotel."
+   ],
+   "en": [
+    "Start with a light pencil sketch.",
+    "Take a spare sheet to practise on.",
+    "Wear clothes that can get stained.",
+    "Ask the hotel for the current day and time."
+   ],
+   "de": [
+    "Beginnen Sie mit einer leichten Bleistiftskizze.",
+    "Nehmen Sie ein Extrablatt zum Üben.",
+    "Tragen Sie Kleidung, die Flecken vertragen darf.",
+    "Fragen Sie im Hotel nach aktuellem Tag und Uhrzeit."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in Hotel Wastlhof in Niederau, dus er is geen reistijd. Aanmelden en actuele dagen en tijden verloopt via de receptie van het hotel; vraag ook of de workshop voor gasten van buiten het hotel openstaat.",
+   "en": "The workshop takes place at Hotel Wastlhof in Niederau, so there is no travelling involved. Booking and the current days and times are handled by the hotel reception; ask too whether outside guests can join.",
+   "de": "Der Workshop findet im Hotel Wastlhof in Niederau statt, es ist also keine Anfahrt nötig. Anmeldung sowie aktuelle Tage und Zeiten laufen über die Rezeption des Hotels; fragen Sie auch, ob externe Gäste teilnehmen können."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From about 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs op aanvraag; informeer bij het hotel",
+    "en": "Price on request; ask the hotel",
+    "de": "Preis auf Anfrage; bitte im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "In het hotel in Niederau",
+    "en": "At the hotel in Niederau",
+    "de": "Im Hotel in Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "https://www.hotelwastlhof.at",
+  "faq": []
+ },
+ {
+  "id": "s29",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "nature-crafts-workshop-niederau",
+  "slug_de": "basteln-mit-naturmaterialien-niederau",
+  "title": {
+   "nl": "Knutselen met natuurmaterialen",
+   "en": "Crafts with natural materials",
+   "de": "Basteln mit Naturmaterialien"
+  },
+  "tagline": {
+   "nl": "Dennenappels, bladeren en stenen worden kleine kunstwerkjes",
+   "en": "Pine cones, leaves and stones become little works of art",
+   "de": "Zapfen, Blätter und Steine werden zu kleinen Kunstwerken"
+  },
+  "intro": {
+   "nl": "Eerst gaan de kinderen op pad om materiaal te verzamelen: dennenappels, bladeren, mos, stenen en stukjes schors. Daarna wordt de buit in het hotel omgetoverd tot diertjes, huisjes of sieraden. Het is een rustige activiteit die goed werkt voor jonge kinderen.\n\nDoor het zoeken in het bos leren kinderen ook wat er groeit en valt in de bergen, en wat je wel en niet mag meenemen. Elk kind neemt zijn eigen creatie mee naar huis, bijvoorbeeld als cadeautje voor opa en oma.",
+   "en": "The children first head out to gather material: pine cones, leaves, moss, stones and bits of bark. Back at the hotel the haul is turned into little animals, houses or jewellery. It is a calm activity that suits younger children well.\n\nSearching the woods also teaches children what grows and falls in the mountains, and what may or may not be taken home. Every child takes their own creation with them, perhaps as a gift for grandparents.",
+   "de": "Zuerst gehen die Kinder auf die Suche nach Material: Zapfen, Blätter, Moos, Steine und Rindenstücke. Anschließend wird die Ausbeute im Hotel zu kleinen Tieren, Häuschen oder Schmuck verarbeitet. Es ist eine ruhige Aktivität, die gut zu jüngeren Kindern passt.\n\nBeim Sammeln im Wald lernen die Kinder auch, was in den Bergen wächst und fällt und was man mitnehmen darf. Jedes Kind nimmt sein Werk mit nach Hause, zum Beispiel als Geschenk für die Großeltern."
+  },
+  "tips": {
+   "nl": [
+    "Trek stevige schoenen aan voor het bos.",
+    "Laat kinderen alleen ophalen wat op de grond ligt.",
+    "Neem een tasje voor de verzamelde schatten mee.",
+    "Maak iets als cadeau voor opa of oma."
+   ],
+   "en": [
+    "Wear sturdy shoes for the woods.",
+    "Let children pick up only what is lying on the ground.",
+    "Bring a small bag for the treasures.",
+    "Make something as a gift for grandparents."
+   ],
+   "de": [
+    "Ziehen Sie feste Schuhe für den Wald an.",
+    "Lassen Sie Kinder nur aufheben, was am Boden liegt.",
+    "Bringen Sie ein Täschchen für die Schätze mit.",
+    "Basteln Sie ein Geschenk für Oma oder Opa."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in Hotel Wastlhof in Niederau, dus er is geen reistijd. Aanmelden en actuele dagen en tijden verloopt via de receptie van het hotel; vraag ook of de workshop voor gasten van buiten het hotel openstaat.",
+   "en": "The workshop takes place at Hotel Wastlhof in Niederau, so there is no travelling involved. Booking and the current days and times are handled by the hotel reception; ask too whether outside guests can join.",
+   "de": "Der Workshop findet im Hotel Wastlhof in Niederau statt, es ist also keine Anfahrt nötig. Anmeldung sowie aktuelle Tage und Zeiten laufen über die Rezeption des Hotels; fragen Sie auch, ob externe Gäste teilnehmen können."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 4 jaar",
+    "en": "From about 4 years",
+    "de": "Ab ca. 4 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 uur",
+    "en": "About 1.5 hours",
+    "de": "Ca. 1,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs op aanvraag; informeer bij het hotel",
+    "en": "Price on request; ask the hotel",
+    "de": "Preis auf Anfrage; bitte im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "In het hotel in Niederau",
+    "en": "At the hotel in Niederau",
+    "de": "Im Hotel in Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "https://www.hotelwastlhof.at",
+  "faq": []
+ },
+ {
+  "id": "s34",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "tyrolean-cooking-kids-summer-niederau",
+  "slug_de": "tiroler-kochen-kinder-sommer-niederau",
+  "title": {
+   "nl": "Tiroler koken voor kinderen (zomer)",
+   "en": "Tyrolean cooking for kids (summer)",
+   "de": "Tiroler Kochen für Kinder (Sommer)"
+  },
+  "tagline": {
+   "nl": "Käsespätzle en Apfelstrudel maken onder leiding van de chef",
+   "en": "Make Käsespätzle and Apfelstrudel with the chef",
+   "de": "Käsespätzle und Apfelstrudel mit dem Küchenchef zubereiten"
+  },
+  "intro": {
+   "nl": "In de keuken van Hotel Wastlhof leren kinderen twee Tiroler klassiekers bereiden: Käsespätzle, een gerecht van eendeeg dat door een zeef of plank in kokend water gaat en met kaas wordt afgemaakt, en Apfelstrudel met een heel dun uitgerold deeg. Mengen, kneden en uitrollen zijn de onderdelen waar kleine handen goed bij kunnen helpen.\n\nWat de kinderen maken, kunnen ze meestal zelf opeten. Zo leren ze spelenderwijs hoe de streekkeuken werkt, en thuis kunnen ze het gerecht opnieuw proberen.",
+   "en": "In the kitchen of Hotel Wastlhof, children learn to prepare two Tyrolean classics: Käsespätzle, small egg noodles pressed into boiling water and finished with cheese, and Apfelstrudel made with very thinly rolled dough. Mixing, kneading and rolling are jobs that small hands can help with nicely.\n\nChildren can usually eat what they have made. They learn how regional cooking works in a playful way, and can try the dish again at home.",
+   "de": "In der Küche des Hotels Wastlhof lernen Kinder zwei Tiroler Klassiker kennen: Käsespätzle, kleine Eiernudeln, die ins kochende Wasser gedrückt und mit Käse vollendet werden, und Apfelstrudel mit hauchdünn ausgezogenem Teig. Rühren, Kneten und Ausrollen sind Arbeiten, bei denen kleine Hände gut helfen können.\n\nWas die Kinder zubereiten, dürfen sie in der Regel auch selbst essen. So lernen sie spielerisch die regionale Küche kennen und können das Gericht zu Hause nachkochen."
+  },
+  "tips": {
+   "nl": [
+    "Meld dieetwensen en allergieën bij het boeken.",
+    "Vraag of de workshop in het Nederlands of Engels wordt uitgelegd.",
+    "Laat kinderen lange haren vastzetten.",
+    "Vraag naar het recept om thuis na te maken."
+   ],
+   "en": [
+    "Mention dietary needs and allergies when booking.",
+    "Ask in which language the workshop is run.",
+    "Tie back long hair.",
+    "Ask for the recipe to cook at home."
+   ],
+   "de": [
+    "Geben Sie Ernährungswünsche und Allergien bei der Buchung an.",
+    "Fragen Sie, in welcher Sprache der Workshop stattfindet.",
+    "Binden Sie lange Haare zusammen.",
+    "Fragen Sie nach dem Rezept zum Nachkochen."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in Hotel Wastlhof in Niederau, dus er is geen reistijd. Aanmelden en actuele dagen en tijden verloopt via de receptie van het hotel; vraag ook of de workshop voor gasten van buiten het hotel openstaat.",
+   "en": "The workshop takes place at Hotel Wastlhof in Niederau, so there is no travelling involved. Booking and the current days and times are handled by the hotel reception; ask too whether outside guests can join.",
+   "de": "Der Workshop findet im Hotel Wastlhof in Niederau statt, es ist also keine Anfahrt nötig. Anmeldung sowie aktuelle Tage und Zeiten laufen über die Rezeption des Hotels; fragen Sie auch, ob externe Gäste teilnehmen können."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From about 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs op aanvraag; informeer bij het hotel",
+    "en": "Price on request; ask the hotel",
+    "de": "Preis auf Anfrage; bitte im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "In het hotel in Niederau",
+    "en": "At the hotel in Niederau",
+    "de": "Im Hotel in Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "https://www.hotelwastlhof.at",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat maken de kinderen?",
+     "en": "What do the children make?",
+     "de": "Was kochen die Kinder?"
+    },
+    "a": {
+     "nl": "Käsespätzle en Apfelstrudel; vraag het hotel naar het actuele programma.",
+     "en": "Käsespätzle and Apfelstrudel; ask the hotel for the current programme.",
+     "de": "Käsespätzle und Apfelstrudel; fragen Sie das Hotel nach dem aktuellen Programm."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s44",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "mountain-herb-tea-workshop-niederau",
+  "slug_de": "bergkraeuter-tee-workshop-niederau",
+  "title": {
+   "nl": "Bergkruiden en thee maken",
+   "en": "Mountain herb and tea workshop",
+   "de": "Bergkräuter- und Tee-Workshop"
+  },
+  "tagline": {
+   "nl": "Je eigen kruidenthee-melange samenstellen als souvenir",
+   "en": "Blend your own herbal tea as a keepsake",
+   "de": "Eine eigene Kräutertee-Mischung als Mitbringsel"
+  },
+  "intro": {
+   "nl": "In deze workshop draait het om kruiden uit de bergen, zoals tijm, salie, munt en lavendel. Je leert ze herkennen en ruiken, hoe ze worden gedroogd en hoe je er een smakelijke theemelange van maakt. Een deel van de tijd kan buiten worden doorgebracht, de rest in het hotel.\n\nAan het eind heb je een eigen mengsel in een potje. Dat is een eenvoudig, persoonlijk souvenir of cadeau, en thuis zet je er de volgende avond een kop thee van.",
+   "en": "This workshop is about mountain herbs such as thyme, sage, mint and lavender. You learn to recognise and smell them, how they are dried and how to turn them into a tasty tea blend. Part of the time may be spent outdoors, the rest at the hotel.\n\nAt the end you have your own blend in a jar. It makes a simple, personal souvenir or gift, and at home you can brew a cup the next evening.",
+   "de": "In diesem Workshop dreht sich alles um Kräuter aus den Bergen wie Thymian, Salbei, Minze und Lavendel. Sie lernen, sie zu erkennen und zu riechen, wie sie getrocknet werden und wie daraus eine Teemischung entsteht. Ein Teil der Zeit kann draußen verbracht werden, der Rest im Hotel.\n\nAm Ende halten Sie Ihre eigene Mischung im Glas in der Hand. Das ist ein einfaches, persönliches Mitbringsel oder Geschenk, und zu Hause brühen Sie sich am nächsten Abend eine Tasse auf."
+  },
+  "tips": {
+   "nl": [
+    "Kruiden ruiken het sterkst in de ochtend.",
+    "Pluk in de natuur niets wat je niet kent.",
+    "Zet thuis de eerste kop thee als vakantieherinnering.",
+    "Neem een extra potje mee als cadeau."
+   ],
+   "en": [
+    "Herbs smell strongest in the morning.",
+    "Never pick plants you do not recognise.",
+    "Brew the first cup at home as a holiday memory.",
+    "Take an extra jar as a gift."
+   ],
+   "de": [
+    "Kräuter duften am Vormittag am stärksten.",
+    "Pflücken Sie nichts, was Sie nicht kennen.",
+    "Brühen Sie zu Hause die erste Tasse als Urlaubserinnerung.",
+    "Nehmen Sie ein zweites Glas als Geschenk mit."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in Hotel Wastlhof in Niederau, dus er is geen reistijd. Aanmelden en actuele dagen en tijden verloopt via de receptie van het hotel; vraag ook of de workshop voor gasten van buiten het hotel openstaat.",
+   "en": "The workshop takes place at Hotel Wastlhof in Niederau, so there is no travelling involved. Booking and the current days and times are handled by the hotel reception; ask too whether outside guests can join.",
+   "de": "Der Workshop findet im Hotel Wastlhof in Niederau statt, es ist also keine Anfahrt nötig. Anmeldung sowie aktuelle Tage und Zeiten laufen über die Rezeption des Hotels; fragen Sie auch, ob externe Gäste teilnehmen können."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From about 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs op aanvraag; informeer bij het hotel",
+    "en": "Price on request; ask the hotel",
+    "de": "Preis auf Anfrage; bitte im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "In het hotel in Niederau",
+    "en": "At the hotel in Niederau",
+    "de": "Im Hotel in Niederau"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "https://www.hotelwastlhof.at",
+  "faq": []
+ },
+ {
+  "id": "w15",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "gingerbread-baking-workshop-niederau",
+  "slug_de": "lebkuchen-backworkshop-niederau",
+  "title": {
+   "nl": "Bakworkshop Tiroler Lebkuchen",
+   "en": "Tyrolean gingerbread baking workshop",
+   "de": "Backworkshop Tiroler Lebkuchen"
+  },
+  "tagline": {
+   "nl": "Peperkoek kneden, uitsteken en versieren in de hotelkeuken",
+   "en": "Knead, cut out and decorate gingerbread in the hotel kitchen",
+   "de": "Lebkuchen kneten, ausstechen und verzieren in der Hotelküche"
+  },
+  "intro": {
+   "nl": "Lebkuchen is het kruidige peperkoekgebak dat in Oostenrijk vooral in de wintermaanden populair is. In deze workshop maak je het deeg, steek je vormpjes uit en versier je de koekjes zelf met glazuur en strooisel. Het is een fijne, gezellige binnenactiviteit tussen het skiën door of op een dag met slecht weer.\n\nDe koekjes gaan na afloop mee naar huis, bij voorkeur in een mooi doosje. Heb je een allergie of dieetwens, bijvoorbeeld glutenvrij, vraag dan vooraf naar de mogelijkheden.",
+   "en": "Lebkuchen is the spiced gingerbread pastry that is especially popular in Austria through the winter months. In this workshop you make the dough, cut out shapes and decorate the biscuits yourself with icing and sprinkles. It is a cosy indoor activity between ski days or on a day of bad weather.\n\nThe biscuits go home with you afterwards, ideally in a nice box. If you have an allergy or dietary need, such as gluten-free, ask about the options beforehand.",
+   "de": "Lebkuchen ist das würzige Honigkuchen-Gebäck, das in Österreich vor allem in den Wintermonaten beliebt ist. In diesem Workshop stellen Sie den Teig her, stechen Formen aus und verzieren die Kekse selbst mit Zuckerguss und Streuseln. Es ist eine gemütliche Aktivität zwischen zwei Skitagen oder bei schlechtem Wetter.\n\nDie Kekse nehmen Sie anschließend mit nach Hause, am besten in einer hübschen Schachtel. Bei Allergien oder Ernährungswünschen, etwa glutenfrei, fragen Sie vorab nach den Möglichkeiten."
+  },
+  "tips": {
+   "nl": [
+    "Neem een extra doosje mee om de koekjes te vervoeren.",
+    "Maak er een cadeau voor opa en oma van.",
+    "Meld allergieën of glutenvrije wensen vooraf.",
+    "Vraag of de workshop in het hotel of elders plaatsvindt."
+   ],
+   "en": [
+    "Bring a spare box to carry the biscuits home.",
+    "Make them a gift for grandparents.",
+    "Mention allergies or gluten-free needs in advance.",
+    "Ask whether the workshop is held at the hotel or elsewhere."
+   ],
+   "de": [
+    "Bringen Sie eine Extraschachtel für den Transport mit.",
+    "Verschenken Sie die Kekse an Oma und Opa.",
+    "Geben Sie Allergien oder glutenfreie Wünsche vorab an.",
+    "Fragen Sie, ob der Workshop im Hotel oder anderswo stattfindet."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in Hotel Wastlhof in Niederau, dus er is geen reistijd. Aanmelden en actuele dagen en tijden verloopt via de receptie van het hotel; vraag ook of de workshop voor gasten van buiten het hotel openstaat.",
+   "en": "The workshop takes place at Hotel Wastlhof in Niederau, so there is no travelling involved. Booking and the current days and times are handled by the hotel reception; ask too whether outside guests can join.",
+   "de": "Der Workshop findet im Hotel Wastlhof in Niederau statt, es ist also keine Anfahrt nötig. Anmeldung sowie aktuelle Tage und Zeiten laufen über die Rezeption des Hotels; fragen Sie auch, ob externe Gäste teilnehmen können."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 5 jaar",
+    "en": "From about 5 years",
+    "de": "Ab ca. 5 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 uur",
+    "en": "About 2 hours",
+    "de": "Ca. 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs op aanvraag; informeer bij het hotel",
+    "en": "Price on request; ask the hotel",
+    "de": "Preis auf Anfrage; bitte im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "In het hotel in Niederau",
+    "en": "At the hotel in Niederau",
+    "de": "Im Hotel in Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "https://www.hotelwastlhof.at",
+  "faq": []
+ },
+ {
+  "id": "w16",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "tyrolean-cooking-workshop-kids-niederau",
+  "slug_de": "tiroler-kochworkshop-kinder-niederau",
+  "title": {
+   "nl": "Tiroler kookworkshop voor kinderen",
+   "en": "Tyrolean cooking workshop for kids",
+   "de": "Tiroler Kochworkshop für Kinder"
+  },
+  "tagline": {
+   "nl": "Käsespätzle en Kaiserschmarrn maken onder leiding van de chef",
+   "en": "Learn to make Käsespätzle and Kaiserschmarrn with the chef",
+   "de": "Käsespätzle und Kaiserschmarrn mit dem Küchenchef kochen"
+  },
+  "intro": {
+   "nl": "Kinderen maken in de keuken van Hotel Wastlhof kennis met twee Tiroler favorieten: Käsespätzle met kaas en Kaiserschmarrn, een luchtige, in stukjes gescheurde pannenkoek. Ze oefenen met afmeten, mengen, roeren en proeven, en zien hoe een gerecht van losse ingrediënten tot een bord eten wordt.\n\nHet resultaat is de maaltijd zelf, dus het is een leuke winteractiviteit voor een middag zonder skiën. Kaiserschmarrn en Käsespätzle zijn geliefd bij kinderen, en de ervaring helpt bij het nakoken thuis.",
+   "en": "In the kitchen of Hotel Wastlhof, children get to know two Tyrolean favourites: Käsespätzle with cheese and Kaiserschmarrn, a fluffy pancake torn into pieces. They practise measuring, mixing, stirring and tasting, and see how loose ingredients become a plate of food.\n\nThe result is the meal itself, which makes it a fun winter activity for an afternoon off the slopes. Kaiserschmarrn and Käsespätzle are popular with children, and the experience helps with cooking them again at home.",
+   "de": "In der Küche des Hotels Wastlhof lernen Kinder zwei Tiroler Lieblingsgerichte kennen: Käsespätzle mit Käse und Kaiserschmarrn, einen luftigen, zerrissenen Pfannkuchen. Sie üben Abmessen, Rühren und Abschmecken und erleben, wie aus einzelnen Zutaten ein Teller Essen wird.\n\nDas Ergebnis ist die Mahlzeit selbst, daher passt die Aktivität gut zu einem skifreien Nachmittag im Winter. Kaiserschmarrn und Käsespätzle sind bei Kindern beliebt, und die Erfahrung hilft beim Nachkochen zu Hause."
+  },
+  "tips": {
+   "nl": [
+    "Meld dieetwensen en allergieën bij het boeken.",
+    "Het gerecht is van zichzelf vegetarisch.",
+    "Maak foto's van de trotse koks.",
+    "Vraag naar het recept om thuis te proberen."
+   ],
+   "en": [
+    "Mention dietary needs and allergies when booking.",
+    "The dishes are vegetarian by nature.",
+    "Take photos of the proud young cooks.",
+    "Ask for the recipe to try at home."
+   ],
+   "de": [
+    "Geben Sie Ernährungswünsche und Allergien bei der Buchung an.",
+    "Die Gerichte sind von Haus aus vegetarisch.",
+    "Machen Sie Fotos der stolzen kleinen Köche.",
+    "Fragen Sie nach dem Rezept für zu Hause."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in Hotel Wastlhof in Niederau, dus er is geen reistijd. Aanmelden en actuele dagen en tijden verloopt via de receptie van het hotel; vraag ook of de workshop voor gasten van buiten het hotel openstaat.",
+   "en": "The workshop takes place at Hotel Wastlhof in Niederau, so there is no travelling involved. Booking and the current days and times are handled by the hotel reception; ask too whether outside guests can join.",
+   "de": "Der Workshop findet im Hotel Wastlhof in Niederau statt, es ist also keine Anfahrt nötig. Anmeldung sowie aktuelle Tage und Zeiten laufen über die Rezeption des Hotels; fragen Sie auch, ob externe Gäste teilnehmen können."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From about 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 2 tot 2,5 uur",
+    "en": "About 2 to 2.5 hours",
+    "de": "Ca. 2 bis 2,5 Stunden"
+   },
+   "price": {
+    "nl": "Prijs op aanvraag; informeer bij het hotel",
+    "en": "Price on request; ask the hotel",
+    "de": "Preis auf Anfrage; bitte im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "In het hotel in Niederau",
+    "en": "At the hotel in Niederau",
+    "de": "Im Hotel in Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "https://www.hotelwastlhof.at",
+  "faq": []
+ },
+ {
+  "id": "w17",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "mountain-landscape-painting-workshop-niederau",
+  "slug_de": "berglandschaft-malworkshop-niederau",
+  "title": {
+   "nl": "Schilderworkshop winters berglandschap",
+   "en": "Winter mountain landscape painting",
+   "de": "Malworkshop Winterlandschaft"
+  },
+  "tagline": {
+   "nl": "Met waterverf een bergpanorama schilderen, ook voor ouders",
+   "en": "Paint a mountain panorama in watercolour, parents welcome too",
+   "de": "Ein Bergpanorama in Aquarell malen, auch für Eltern"
+  },
+  "intro": {
+   "nl": "In deze schilderworkshop werken kinderen en ouders stap voor stap aan een winters berglandschap. Met waterverf en penselen maakt iedereen een eigen versie van de Wildschönau, met sneeuw, dennen en bergtoppen. Er is geen ervaring nodig; de techniek wordt onderweg uitgelegd.\n\nDe workshop is vooral prettig op een dag met slecht weer of na het skiën. Je schilderij mag mee naar huis en is een mooi cadeau of vakantieherinnering.",
+   "en": "In this painting workshop children and parents work step by step on a wintry mountain landscape. With watercolours and brushes everyone makes their own version of the Wildschönau, with snow, fir trees and peaks. No experience is needed; the technique is explained along the way.\n\nThe workshop is especially welcome on a day of bad weather or after skiing. Your painting comes home with you and makes a nice gift or holiday memory.",
+   "de": "In diesem Malworkshop arbeiten Kinder und Eltern Schritt für Schritt an einer winterlichen Berglandschaft. Mit Wasserfarben und Pinseln entsteht jeweils eine eigene Version der Wildschönau, mit Schnee, Tannen und Gipfeln. Erfahrung ist nicht nötig; die Technik wird unterwegs erklärt.\n\nDer Workshop ist besonders willkommen an Schlechtwettertagen oder nach dem Skifahren. Ihr Bild nehmen Sie mit nach Hause, als Geschenk oder Urlaubserinnerung."
+  },
+  "tips": {
+   "nl": [
+    "Draag kleding die vlekken mag hebben.",
+    "Zoek een plek bij het raam voor uitzicht.",
+    "Het schilderij is een mooi cadeau.",
+    "Vraag naar de actuele dagen en tijden."
+   ],
+   "en": [
+    "Wear clothes that can get stained.",
+    "Pick a spot by the window for the view.",
+    "The painting makes a nice gift.",
+    "Ask about the current days and times."
+   ],
+   "de": [
+    "Tragen Sie Kleidung, die Flecken verträgt.",
+    "Wählen Sie einen Platz am Fenster mit Aussicht.",
+    "Das Bild eignet sich als Geschenk.",
+    "Fragen Sie nach aktuellen Tagen und Zeiten."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in Hotel Wastlhof in Niederau, dus er is geen reistijd. Aanmelden en actuele dagen en tijden verloopt via de receptie van het hotel; vraag ook of de workshop voor gasten van buiten het hotel openstaat.",
+   "en": "The workshop takes place at Hotel Wastlhof in Niederau, so there is no travelling involved. Booking and the current days and times are handled by the hotel reception; ask too whether outside guests can join.",
+   "de": "Der Workshop findet im Hotel Wastlhof in Niederau statt, es ist also keine Anfahrt nötig. Anmeldung sowie aktuelle Tage und Zeiten laufen über die Rezeption des Hotels; fragen Sie auch, ob externe Gäste teilnehmen können."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 6 jaar",
+    "en": "From about 6 years",
+    "de": "Ab ca. 6 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1,5 tot 2 uur",
+    "en": "About 1.5 to 2 hours",
+    "de": "Ca. 1,5 bis 2 Stunden"
+   },
+   "price": {
+    "nl": "Prijs op aanvraag; informeer bij het hotel",
+    "en": "Price on request; ask the hotel",
+    "de": "Preis auf Anfrage; bitte im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "In het hotel in Niederau",
+    "en": "At the hotel in Niederau",
+    "de": "Im Hotel in Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "https://www.hotelwastlhof.at",
+  "faq": []
+ },
+ {
+  "id": "w23",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "snow-crystal-microscope-workshop-niederau",
+  "slug_de": "schneekristalle-mikroskop-workshop-niederau",
+  "title": {
+   "nl": "Sneeuwkristallen onder de loep",
+   "en": "Snow crystals under the magnifier",
+   "de": "Schneekristalle unter der Lupe"
+  },
+  "tagline": {
+   "nl": "Sneeuwvlokken opvangen en van dichtbij bekijken",
+   "en": "Catch snowflakes and look at them up close",
+   "de": "Schneeflocken auffangen und aus nächster Nähe betrachten"
+  },
+  "intro": {
+   "nl": "Sneeuwvlokken lijken op het eerste gezicht allemaal hetzelfde, maar onder een loep of microscoop zie je zeshoekige kristallen met elk een eigen vorm. Bij deze korte workshop vang je verse vlokken op een donkere handschoen of plaat en bekijk je ze direct van dichtbij.\n\nKinderen leren hoe sneeuwkristallen ontstaan en waarom het sneeuwt. De activiteit is afhankelijk van het weer: het werkt alleen als het buiten sneeuwt, en bij lagere temperaturen zijn de kristallen het mooist te zien.",
+   "en": "At first glance snowflakes all look alike, but under a magnifier or microscope you see six-sided crystals, each with its own shape. In this short workshop you catch fresh flakes on a dark glove or plate and look at them straight away from close up.\n\nChildren learn how snow crystals form and why it snows. The activity depends on the weather: it only works when it is snowing outside, and the crystals are easiest to admire at lower temperatures.",
+   "de": "Auf den ersten Blick sehen Schneeflocken alle gleich aus, doch unter Lupe oder Mikroskop erkennt man sechseckige Kristalle mit jeweils eigener Form. In diesem kurzen Workshop fangen Sie frische Flocken auf einem dunklen Handschuh oder einer Platte auf und betrachten sie sofort aus der Nähe.\n\nKinder erfahren, wie Schneekristalle entstehen und warum es schneit. Die Aktivität hängt vom Wetter ab: Sie klappt nur, wenn es draußen schneit, und bei tieferen Temperaturen sind die Kristalle am schönsten zu sehen."
+  },
+  "tips": {
+   "nl": [
+    "Neem een donkere handschoen mee om vlokken op te vangen.",
+    "Een eigen loep is handig als je die hebt.",
+    "Dikke sneeuwval en vorst geven het beste resultaat.",
+    "Probeer foto's van de vlokken te maken."
+   ],
+   "en": [
+    "Bring a dark glove to catch flakes.",
+    "A magnifier of your own is handy if you have one.",
+    "Heavy snowfall and frost give the best results.",
+    "Try taking close-up photos of the flakes."
+   ],
+   "de": [
+    "Bringen Sie einen dunklen Handschuh zum Auffangen mit.",
+    "Eine eigene Lupe ist nützlich, falls vorhanden.",
+    "Starker Schneefall und Frost liefern die besten Ergebnisse.",
+    "Versuchen Sie, die Flocken aus der Nähe zu fotografieren."
+   ]
+  },
+  "practical": {
+   "nl": "De workshop vindt plaats in Hotel Wastlhof in Niederau, dus er is geen reistijd. Ze gaat alleen door als het sneeuwt; vraag bij de receptie naar de actuele mogelijkheden en tijden.",
+   "en": "The workshop takes place at Hotel Wastlhof in Niederau, so there is no travelling involved. It only goes ahead when it snows; ask at reception about current options and times.",
+   "de": "Der Workshop findet im Hotel Wastlhof in Niederau statt, es ist also keine Anfahrt nötig. Er findet nur bei Schneefall statt; fragen Sie an der Rezeption nach aktuellen Möglichkeiten und Zeiten."
+  },
+  "facts": {
+   "age": {
+    "nl": "Vanaf ca. 7 jaar",
+    "en": "From about 7 years",
+    "de": "Ab ca. 7 Jahren"
+   },
+   "duration": {
+    "nl": "Ca. 1 uur",
+    "en": "About 1 hour",
+    "de": "Ca. 1 Stunde"
+   },
+   "price": {
+    "nl": "Prijs op aanvraag; informeer bij het hotel",
+    "en": "Price on request; ask the hotel",
+    "de": "Preis auf Anfrage; bitte im Hotel erfragen"
+   },
+   "distance": {
+    "nl": "In het hotel in Niederau",
+    "en": "At the hotel in Niederau",
+    "de": "Im Hotel in Niederau"
+   },
+   "season": {
+    "nl": "Winter",
+    "en": "Winter",
+    "de": "Winter"
+   }
+  },
+  "location": {
+   "nl": "Hotel Wastlhof, Niederau",
+   "en": "Hotel Wastlhof, Niederau",
+   "de": "Hotel Wastlhof, Niederau"
+  },
+  "url": "https://www.hotelwastlhof.at",
+  "faq": []
+ },
+ {
+  "id": "s109",
+  "drop": true,
+  "drop_reason": "Stausee Niederau met SUP-verhuur niet te bevestigen; een stuwmeer in Niederau voor SUP lijkt niet te bestaan.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {},
+  "tagline": {},
+  "intro": {},
+  "tips": {},
+  "practical": {},
+  "facts": {},
+  "location": {},
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s115",
+  "drop": true,
+  "drop_reason": "Kneipp-koudwaterbad op Schatzberg-plateau niet te bevestigen.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {},
+  "tagline": {},
+  "intro": {},
+  "tips": {},
+  "practical": {},
+  "facts": {},
+  "location": {},
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s120",
+  "drop": true,
+  "drop_reason": "Zwemvijver in Auffach niet te bevestigen (Wildschönau heeft het Bergbadl bij Oberau).",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {},
+  "tagline": {},
+  "intro": {},
+  "tips": {},
+  "practical": {},
+  "facts": {},
+  "location": {},
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s133",
+  "drop": true,
+  "drop_reason": "'Brixenbad' in Hopfgarten niet te vinden.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {},
+  "tagline": {},
+  "intro": {},
+  "tips": {},
+  "practical": {},
+  "facts": {},
+  "location": {},
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s144",
+  "drop": false,
+  "drop_reason": "",
+  "place": "ellmau",
+  "slug_en": "kaiserbad-ellmau-outdoor-pool",
+  "slug_de": "kaiserbad-ellmau-freibad",
+  "title": {
+   "nl": "Kaiserbad Ellmau",
+   "en": "Kaiserbad Ellmau",
+   "de": "Kaiserbad Ellmau"
+  },
+  "tagline": {
+   "nl": "Zwembad met buitenbad en natuurlijke zwemvijver aan de Wilder Kaiser",
+   "en": "Pool complex with outdoor pool and natural pond below the Wilder Kaiser",
+   "de": "Bad mit Freibad und Bioschwimmteich am Wilden Kaiser"
+  },
+  "intro": {
+   "nl": "Het Kaiserbad ligt in Ellmau aan de voet van de Wilder Kaiser. In de zomer is het buitenbad het hart van het complex, met een brede glijbaan, een kinderbad, een speelplek en een grote ligweide. Daarnaast is er een natuurlijke zwemvijver met een duiktoren.\n\nHet Kaiserbad heeft ook een overdekt gedeelte met glijbanen en een wellnessafdeling, wat de locatie ook bij slecht weer bruikbaar maakt. Voor gezinnen is het een goede halve dag, bijvoorbeeld te combineren met een wandeling of een bezoek aan Ellmi's Zauberwelt in de buurt.",
+   "en": "The Kaiserbad is in Ellmau at the foot of the Wilder Kaiser. In summer the outdoor pool is the heart of the complex, with a wide slide, a children's pool, a play area and a large sunbathing lawn. There is also a natural swimming pond with a diving tower.\n\nThe Kaiserbad also has an indoor section with slides and a wellness area, which makes it usable in bad weather too. For families it makes a good half day, for instance combined with a walk or a visit to Ellmi's Zauberwelt nearby.",
+   "de": "Das Kaiserbad liegt in Ellmau am Fuß des Wilden Kaisers. Im Sommer ist das Freibad das Herzstück der Anlage, mit breiter Rutsche, Kinderbecken, Spielbereich und großer Liegewiese. Dazu gibt es einen Bioschwimmteich mit Sprungturm.\n\nDas Kaiserbad hat außerdem einen Hallenbereich mit Rutschen und einen Wellnessbereich, sodass es auch bei Schlechtwetter nutzbar ist. Für Familien ist es ein guter Halbtagesausflug, etwa kombiniert mit einer Wanderung oder einem Besuch in Ellmis Zauberwelt in der Nähe."
+  },
+  "tips": {
+   "nl": [
+    "Controleer vooraf de openingstijden; die verschillen per seizoen.",
+    "Neem handdoeken en zonnebrand mee voor de ligweide.",
+    "Zomermiddagen zijn vaak het drukst; ga eerder op de dag.",
+    "Combineer het met Ellmi's Zauberwelt of een wandeling."
+   ],
+   "en": [
+    "Check opening hours beforehand; they vary by season.",
+    "Bring towels and sun cream for the lawn.",
+    "Summer afternoons are often busiest; go earlier in the day.",
+    "Combine it with Ellmi's Zauberwelt or a walk."
+   ],
+   "de": [
+    "Prüfen Sie vorab die Öffnungszeiten; sie wechseln je nach Saison.",
+    "Nehmen Sie Handtücher und Sonnencreme für die Liegewiese mit.",
+    "Sommernachmittage sind oft am vollsten; kommen Sie früher.",
+    "Kombinieren Sie den Besuch mit Ellmis Zauberwelt oder einer Wanderung."
+   ]
+  },
+  "practical": {
+   "nl": "Ellmau ligt ca. 45 minuten rijden van Niederau, via Wörgl en Söll. Parkeren is mogelijk bij het bad. Controleer de actuele openingstijden en toegangsprijzen bij het bad zelf.",
+   "en": "Ellmau is about 45 minutes by car from Niederau, via Wörgl and Söll. Parking is available at the pool. Check current opening hours and prices with the pool itself.",
+   "de": "Ellmau ist ca. 45 Fahrminuten von Niederau entfernt, über Wörgl und Söll. Parkmöglichkeiten gibt es am Bad. Aktuelle Öffnungszeiten und Eintrittspreise erfragen Sie bitte direkt beim Bad."
+  },
+  "facts": {
+   "age": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "Ellmau",
+   "en": "Ellmau",
+   "de": "Ellmau"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er ook een binnenbad?",
+     "en": "Is there an indoor pool too?",
+     "de": "Gibt es auch ein Hallenbad?"
+    },
+    "a": {
+     "nl": "Ja, het Kaiserbad heeft ook een overdekt gedeelte met glijbanen, handig bij slecht weer.",
+     "en": "Yes, the Kaiserbad also has an indoor section with slides, handy in bad weather.",
+     "de": "Ja, das Kaiserbad hat auch einen Hallenbereich mit Rutschen, praktisch bei schlechtem Wetter."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s156",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "achensee-swimming-pertisau",
+  "slug_de": "achensee-baden-pertisau",
+  "title": {
+   "nl": "Zwemmen aan het Achensee",
+   "en": "Swimming at Lake Achensee",
+   "de": "Baden am Achensee"
+  },
+  "tagline": {
+   "nl": "Het grootste meer van Tirol met helder water en strandjes",
+   "en": "Tyrol's largest lake with clear water and small beaches",
+   "de": "Tirols größter See mit klarem Wasser und Badestränden"
+  },
+  "intro": {
+   "nl": "Het Achensee ligt op ca. 930 m hoogte tussen het Karwendel- en het Rofangebergte en is het grootste meer van Tirol. Het water is helder en frisch; in de zomer wordt het tot ca. 22 graden. Rond het meer liggen strandbaden, onder meer in Pertisau, Achenkirch en Maurach, met ligweiden, steigers en speelplekken.\n\nNaast zwemmen kun je er varen en met pedaalboten of roeiboten het water op. Met de rondvaartschepen en de omringende wandelpaden is het meer ook zonder zwemmen een goed dagje uit. Het vergt wel rijtijd vanuit Niederau, dus plan er een hele dag voor.",
+   "en": "Lake Achensee lies at about 930 m between the Karwendel and Rofan mountains and is the largest lake in Tyrol. The water is clear and fresh; in summer it warms up to around 22 degrees. Around the lake there are beach baths, including in Pertisau, Achenkirch and Maurach, with sunbathing lawns, jetties and play areas.\n\nBesides swimming you can take pedal boats or rowing boats onto the water. With the lake steamers and walking paths around it, the lake also makes a good outing without swimming. It does take some driving from Niederau, so plan a full day.",
+   "de": "Der Achensee liegt auf ca. 930 m Höhe zwischen Karwendel und Rofan und ist der größte See Tirols. Das Wasser ist klar und frisch; im Sommer erwärmt es sich auf bis zu ca. 22 Grad. Rund um den See gibt es Strandbäder, unter anderem in Pertisau, Achenkirch und Maurach, mit Liegewiesen, Stegen und Spielplätzen.\n\nNeben dem Baden können Sie mit Tret- oder Ruderbooten aufs Wasser. Mit den Fahrgastschiffen und den Wegen rund um den See ist er auch ohne Baden ein lohnendes Ausflugsziel. Von Niederau ist es ein Stück Fahrt, planen Sie daher einen ganzen Tag ein."
+  },
+  "tips": {
+   "nl": [
+    "Het water blijft ook in de zomer fris; neem een handdoek en eventueel waterschoenen mee.",
+    "Kies een strandbad naar keuze, bijvoorbeeld Pertisau.",
+    "Combineer zwemmen met een boottocht of wandeling.",
+    "Controleer voor vertrek het weer en de toegangsprijzen."
+   ],
+   "en": [
+    "The water stays fresh even in summer; take a towel and perhaps water shoes.",
+    "Choose a beach bath, for instance Pertisau.",
+    "Combine swimming with a boat trip or a walk.",
+    "Check the weather and entry fees before leaving."
+   ],
+   "de": [
+    "Das Wasser bleibt auch im Sommer frisch; Handtuch und evtl. Badeschuhe mitnehmen.",
+    "Wählen Sie ein Strandbad, zum Beispiel Pertisau.",
+    "Verbinden Sie Baden mit einer Schifffahrt oder Wanderung.",
+    "Prüfen Sie vor der Abfahrt Wetter und Eintrittspreise."
+   ]
+  },
+  "practical": {
+   "nl": "Het Achensee ligt ca. 1 uur rijden van Niederau, via de A12 naar de afrit Jenbach en verder richting Achensee. Strandbaden hebben eigen parkeerplaatsen of parkeren in de buurt; informeer naar actuele toegang.",
+   "en": "Lake Achensee is about 1 hour by car from Niederau, via the A12 to the Jenbach exit and on towards the lake. Beach baths have their own or nearby parking; check current access details.",
+   "de": "Der Achensee ist ca. 1 Stunde Fahrt von Niederau entfernt, über die A12 bis zur Ausfahrt Jenbach und weiter Richtung Achensee. Strandbäder haben eigene oder nahe Parkplätze; aktuelle Zugangsinfos bitte erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "Achensee, Tirol",
+   "en": "Achensee, Tyrol",
+   "de": "Achensee, Tirol"
+  },
+  "url": "https://www.achensee.com",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe warm wordt het water?",
+     "en": "How warm does the water get?",
+     "de": "Wie warm wird das Wasser?"
+    },
+    "a": {
+     "nl": "In de zomer tot ca. 22 graden; het blijft dus fris.",
+     "en": "Up to around 22 degrees in summer, so it stays fresh.",
+     "de": "Im Sommer bis zu ca. 22 Grad, es bleibt also frisch."
+    }
+   }
+  ]
+ },
+ {
+  "id": "s157",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "sailing-windsurfing-achensee",
+  "slug_de": "segeln-windsurfen-achensee",
+  "title": {
+   "nl": "Zeilen en windsurfen op het Achensee",
+   "en": "Sailing and windsurfing at Lake Achensee",
+   "de": "Segeln und Windsurfen am Achensee"
+  },
+  "tagline": {
+   "nl": "Thermische wind maakt het meer geliefd bij zeilers en surfers",
+   "en": "Thermal winds make the lake popular with sailors and surfers",
+   "de": "Thermische Winde machen den See bei Seglern und Surfern beliebt"
+  },
+  "intro": {
+   "nl": "Het Achensee staat bekend om zijn betrouwbare wind. In de loop van de ochtend ontstaat meestal een dalwind, waardoor het meer een geliefde plek is voor zeilen, windsurfen en kitesurfen. Er zijn zeil- en surfscholen met cursussen en verhuur van materiaal, onder meer in Pertisau.\n\nVoor beginners zijn er cursussen; kinderen kunnen vanaf een bepaalde leeftijd meedoen. Het meer is groot genoeg voor langere tochten, maar je blijft op het water altijd afhankelijk van wind en weer.",
+   "en": "Lake Achensee is known for its dependable wind. A valley wind usually builds up during the morning, which makes the lake a favourite for sailing, windsurfing and kitesurfing. Sailing and surf schools offer courses and equipment hire, including at Pertisau.\n\nThere are courses for beginners, and children can join from a certain age. The lake is big enough for longer trips, but on the water you always depend on wind and weather.",
+   "de": "Der Achensee ist für seinen verlässlichen Wind bekannt. Im Lauf des Vormittags baut sich meist ein Talwind auf, der den See zu einem beliebten Revier für Segeln, Windsurfen und Kitesurfen macht. Segel- und Surfschulen bieten Kurse und Materialverleih an, unter anderem in Pertisau.\n\nFür Anfänger gibt es Kurse; Kinder können ab einem bestimmten Alter mitmachen. Der See ist groß genug für längere Törns, doch auf dem Wasser bleiben Sie stets von Wind und Wetter abhängig."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer cursussen of verhuur vooraf.",
+    "De wind is meestal in de middag het sterkst.",
+    "Draag een zwemvest als het materiaal dat vereist.",
+    "Neem droge kleren mee."
+   ],
+   "en": [
+    "Book courses or rentals in advance.",
+    "The wind is usually strongest in the afternoon.",
+    "Wear a life jacket if the equipment requires it.",
+    "Pack dry clothes."
+   ],
+   "de": [
+    "Buchen Sie Kurse oder Verleih im Voraus.",
+    "Der Wind ist meist am Nachmittag am stärksten.",
+    "Tragen Sie eine Schwimmweste, falls erforderlich.",
+    "Nehmen Sie trockene Kleidung mit."
+   ]
+  },
+  "practical": {
+   "nl": "Het Achensee ligt ca. 1 uur rijden van Niederau, via de A12 naar afrit Jenbach. Vraag de zeil- of surfschool naar actuele tarieven, leeftijdsgrenzen en reserveringen.",
+   "en": "Lake Achensee is about 1 hour by car from Niederau, via the A12 to the Jenbach exit. Ask the sailing or surf school about current rates, age limits and booking.",
+   "de": "Der Achensee ist ca. 1 Stunde Fahrt von Niederau entfernt, über die A12 bis Ausfahrt Jenbach. Fragen Sie bei der Segel- oder Surfschule nach aktuellen Preisen, Altersgrenzen und Reservierung."
+  },
+  "facts": {
+   "age": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "Achensee, Tirol",
+   "en": "Achensee, Tyrol",
+   "de": "Achensee, Tirol"
+  },
+  "url": "https://www.achensee.com",
+  "faq": []
+ },
+ {
+  "id": "s16",
+  "drop": true,
+  "drop_reason": "'Wildschönbach' als beek met waterspeelplekken niet te bevestigen; naam en spots niet verifieerbaar.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {},
+  "tagline": {},
+  "intro": {},
+  "tips": {},
+  "practical": {},
+  "facts": {},
+  "location": {},
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s161",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "pillersee-swimming-beach",
+  "slug_de": "pillersee-baden-strand",
+  "title": {
+   "nl": "Zwemmen aan het Pillersee",
+   "en": "Swimming at Lake Pillersee",
+   "de": "Baden am Pillersee"
+  },
+  "tagline": {
+   "nl": "Natuurlijk bergmeer met badstrand in het Pillerseetal",
+   "en": "Natural mountain lake with a beach in the Pillerseetal valley",
+   "de": "Naturbadesee mit Strand im Pillerseetal"
+  },
+  "intro": {
+   "nl": "Het Pillersee ligt bij St. Ulrich am Pillersee in de Kitzbüheler Alpen. Het is een natuurlijk badmeer; op warme dagen komt het water niet hoger dan ca. 20 graden, dus het is eerder verfrissend dan warm. Aan de oever zijn een ligweide, een snackbar en een speelplaats te vinden.\n\nEr is verhuur van boten en SUP-boards, en rond het meer zijn wandelpaden. Het is een rustig alternatief voor drukkere meren, goed voor een dag met kinderen. Voor ligstoelen kan een kleine bijdrage gelden.",
+   "en": "Lake Pillersee lies near St. Ulrich am Pillersee in the Kitzbühel Alps. It is a natural bathing lake; on hot days the water reaches no more than about 20 degrees, so it is refreshing rather than warm. On the shore there is a sunbathing lawn, a snack bar and a playground.\n\nBoats and SUP boards can be hired, and there are walking paths around the lake. It is a quiet alternative to busier lakes and works well for a day with children. A small fee may apply for loungers.",
+   "de": "Der Pillersee liegt bei St. Ulrich am Pillersee in den Kitzbüheler Alpen. Er ist ein Naturbadesee; an heißen Tagen wird das Wasser nicht wärmer als etwa 20 Grad, ist also eher erfrischend als warm. Am Ufer gibt es eine Liegewiese, einen Imbiss und einen Spielplatz.\n\nBoote und SUP-Boards lassen sich leihen, und rund um den See führen Wanderwege. Er ist eine ruhige Alternative zu belebteren Seen und passt gut zu einem Tag mit Kindern. Für Liegen kann eine kleine Gebühr anfallen."
+  },
+  "tips": {
+   "nl": [
+    "Het water is fris; kleine kinderen houden het kort.",
+    "Neem een picknick of ga naar de snackbar.",
+    "Huur een boot of SUP-board om het meer te verkennen.",
+    "Controleer de actuele regels voor ligstoelen en parkeren."
+   ],
+   "en": [
+    "The water is fresh; small children will want short dips.",
+    "Bring a picnic or visit the snack bar.",
+    "Hire a boat or SUP board to explore the lake.",
+    "Check current rules for loungers and parking."
+   ],
+   "de": [
+    "Das Wasser ist frisch; kleine Kinder baden besser nur kurz.",
+    "Nehmen Sie ein Picknick mit oder besuchen Sie den Imbiss.",
+    "Leihen Sie ein Boot oder SUP-Board, um den See zu erkunden.",
+    "Prüfen Sie aktuelle Regeln für Liegen und Parken."
+   ]
+  },
+  "practical": {
+   "nl": "St. Ulrich am Pillersee ligt ca. 1 uur rijden van Niederau, via Wörgl en Kitzbühel. Er zijn parkeerplekken bij het meer; informeer naar actuele toegang en kosten.",
+   "en": "St. Ulrich am Pillersee is about 1 hour by car from Niederau, via Wörgl and Kitzbühel. There is parking near the lake; check current access and costs.",
+   "de": "St. Ulrich am Pillersee ist ca. 1 Stunde Fahrt von Niederau entfernt, über Wörgl und Kitzbühel. Am See gibt es Parkplätze; aktuelle Zugangs- und Kosteninfos bitte erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "St. Ulrich am Pillersee",
+   "en": "St. Ulrich am Pillersee",
+   "de": "St. Ulrich am Pillersee"
+  },
+  "url": "https://www.pillersee.com",
+  "faq": []
+ },
+ {
+  "id": "s169",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kufstein",
+  "slug_en": "hechtsee-beach-kufstein",
+  "slug_de": "hechtsee-strandbad-kufstein",
+  "title": {
+   "nl": "Strandbad Hechtsee bij Kufstein",
+   "en": "Hechtsee beach near Kufstein",
+   "de": "Strandbad Hechtsee bei Kufstein"
+  },
+  "tagline": {
+   "nl": "Populair badmeer met speelplekken en meerrestaurant",
+   "en": "Popular bathing lake with play areas and a lakeside restaurant",
+   "de": "Beliebter Badesee mit Spielmöglichkeiten und Seerestaurant"
+  },
+  "intro": {
+   "nl": "Het Hechtsee ligt ten noorden van Kufstein, vlak bij de grens met Duitsland. Het is een van de populairste badmeren van Tirol en met ca. 57 m ook het diepste van de meren ten westen van Kufstein. Het strandbad heeft een ligweide en bekende voorzieningen voor gezinnen, zoals een speeltuin, beach- en watervolleybal en tafeltennis.\n\nEr is bootverhuur en een meerrestaurant. Het Hechtsee is goed te combineren met een bezoek aan Kufstein en de vesting, en daardoor geschikt voor een gezinsdag in het Kufsteinerland.",
+   "en": "Hechtsee lies north of Kufstein, close to the German border. It is one of Tyrol's most popular bathing lakes and, at about 57 m, also the deepest of the lakes west of Kufstein. The beach bath has a sunbathing lawn and familiar family facilities such as a playground, beach and water volleyball and table tennis.\n\nBoats can be hired and there is a lakeside restaurant. Hechtsee combines well with a visit to Kufstein and its fortress, which makes it suitable for a family day in the Kufsteinerland.",
+   "de": "Der Hechtsee liegt nördlich von Kufstein, nahe der deutschen Grenze. Er zählt zu den beliebtesten Badeseen Tirols und ist mit ca. 57 m der tiefste der Seen westlich von Kufstein. Das Strandbad bietet eine Liegewiese und familiengerechte Angebote wie Spielplatz, Beach- und Wasservolleyball sowie Tischtennis.\n\nEs gibt Bootsverleih und ein Seerestaurant. Der Hechtsee lässt sich gut mit einem Besuch in Kufstein und der Festung verbinden und eignet sich daher für einen Familientag im Kufsteinerland."
+  },
+  "tips": {
+   "nl": [
+    "Neem een handdoek en zonnebrand voor de ligweide mee.",
+    "Combineer met een bezoek aan de vesting van Kufstein.",
+    "Controleer de openingstijden van het strandbad.",
+    "Wees op warme dagen vroeg om een goede plek te vinden."
+   ],
+   "en": [
+    "Take a towel and sun cream for the lawn.",
+    "Combine with a visit to Kufstein Fortress.",
+    "Check the beach bath's opening hours.",
+    "Arrive early on hot days to find a good spot."
+   ],
+   "de": [
+    "Nehmen Sie Handtuch und Sonnencreme für die Liegewiese mit.",
+    "Verbinden Sie den Besuch mit der Festung Kufstein.",
+    "Prüfen Sie die Öffnungszeiten des Strandbads.",
+    "Kommen Sie an heißen Tagen früh, um einen guten Platz zu finden."
+   ]
+  },
+  "practical": {
+   "nl": "Het Hechtsee ligt ca. 40 minuten rijden van Niederau, via Wörgl en de A12 naar Kufstein. Het strandbad heeft parkeermogelijkheden; informeer naar actuele openingstijden en prijzen.",
+   "en": "Hechtsee is about 40 minutes by car from Niederau, via Wörgl and the A12 to Kufstein. The beach bath has parking; ask about current opening hours and prices.",
+   "de": "Der Hechtsee ist ca. 40 Fahrminuten von Niederau entfernt, über Wörgl und die A12 nach Kufstein. Am Strandbad gibt es Parkmöglichkeiten; aktuelle Öffnungszeiten und Preise bitte erfragen."
+  },
+  "facts": {
+   "age": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "Kufstein",
+   "en": "Kufstein",
+   "de": "Kufstein"
+  },
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s171",
+  "drop": false,
+  "drop_reason": "",
+  "place": "walchsee",
+  "slug_en": "sup-walchsee",
+  "slug_de": "sup-walchsee",
+  "title": {
+   "nl": "SUP-boarden op het Walchsee",
+   "en": "Stand-up paddling on Lake Walchsee",
+   "de": "SUP auf dem Walchsee"
+  },
+  "tagline": {
+   "nl": "Peddelen op een van de warmste badmeren van Tirol",
+   "en": "Paddle on one of Tyrol's warmest bathing lakes",
+   "de": "Paddeln auf einem der wärmsten Tiroler Badeseen"
+  },
+  "intro": {
+   "nl": "Het Walchsee in het Kaiserwinkl geldt als een van de warmste badmeren van Tirol. Het water kan in de zomer ongeveer 24 tot 25 graden worden. Dat maakt het meer aantrekkelijk voor een eerste kennismaking met stand-up paddleboarden: een val in het water is niet erg.\n\nBij het meer is een watersportcentrum waar boten en SUP-boards gehuurd kunnen worden. Daarnaast is er een strandbad met een speelplek en andere voorzieningen. Onder het peddelen zie je de bergen rond het meer.",
+   "en": "Lake Walchsee in the Kaiserwinkl is regarded as one of the warmest bathing lakes in Tyrol. In summer the water can reach about 24 to 25 degrees. That makes the lake a pleasant place for a first go at stand-up paddling: falling in is no problem.\n\nBy the lake there is a water sports centre where boats and SUP boards can be hired. There is also a beach bath with a playground and other facilities. While paddling you see the mountains around the lake.",
+   "de": "Der Walchsee im Kaiserwinkl gilt als einer der wärmsten Tiroler Badeseen. Im Sommer kann das Wasser etwa 24 bis 25 Grad erreichen. Das macht den See zu einem angenehmen Ort für die ersten SUP-Versuche: Ein Sturz ins Wasser ist kein Problem.\n\nAm See gibt es ein Wassersportzentrum, wo Boote und SUP-Boards ausgeliehen werden können. Außerdem gibt es ein Strandbad mit Spielplatz und weiteren Angeboten. Beim Paddeln sehen Sie die Berge rund um den See."
+  },
+  "tips": {
+   "nl": [
+    "Begin op je knieën en sta pas op als je balans hebt.",
+    "Draag zwemkleding of kleding die nat mag worden.",
+    "Reserveer bij drukte vooraf bij de verhuurder.",
+    "Combineer het met een zwemmiddag op het strand."
+   ],
+   "en": [
+    "Start on your knees and stand up once you have your balance.",
+    "Wear swimwear or clothes that can get wet.",
+    "Book ahead with the hirer when it is busy.",
+    "Combine it with an afternoon swim at the beach."
+   ],
+   "de": [
+    "Beginnen Sie kniend und stehen Sie erst auf, wenn Sie Balance haben.",
+    "Tragen Sie Badekleidung oder Kleidung, die nass werden darf.",
+    "Reservieren Sie bei Andrang vorab beim Verleih.",
+    "Verbinden Sie es mit einem Badenachmittag am Strand."
+   ]
+  },
+  "practical": {
+   "nl": "Het Walchsee ligt ca. 55 minuten rijden van Niederau, via Wörgl, Kufstein en Walchsee. Controleer bij de verhuurder de actuele tarieven, leeftijdsgrenzen en openingstijden.",
+   "en": "Lake Walchsee is about 55 minutes by car from Niederau, via Wörgl, Kufstein and Walchsee. Check current rates, age limits and opening times with the hirer.",
+   "de": "Der Walchsee ist ca. 55 Fahrminuten von Niederau entfernt, über Wörgl, Kufstein und Walchsee. Aktuelle Preise, Altersgrenzen und Öffnungszeiten erfragen Sie beim Verleih."
+  },
+  "facts": {
+   "age": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "duration": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "price": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "distance": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   },
+   "season": {
+    "nl": "nl",
+    "en": "en",
+    "de": "de"
+   }
+  },
+  "location": {
+   "nl": "Walchsee, Kaiserwinkl",
+   "en": "Walchsee, Kaiserwinkl",
+   "de": "Walchsee, Kaiserwinkl"
+  },
+  "url": "https://www.walchsee.at",
+  "faq": []
+ },
+ {
+  "id": "s181",
+  "drop": true,
+  "drop_reason": "Rafting op de Inn bij Wörgl/aanbieder niet te bevestigen; gezinsrafting op de Inn gebeurt elders in Tirol.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {},
+  "tagline": {},
+  "intro": {},
+  "tips": {},
+  "practical": {},
+  "facts": {},
+  "location": {},
+  "url": "",
+  "faq": []
+ },
+ {
+  "id": "s184",
+  "drop": true,
+  "drop_reason": "Zwemmen aan het 'Brennersee' (Gries am Brenner) niet te bevestigen.",
+  "place": "",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {},
+  "tagline": {},
+  "intro": {},
+  "tips": {},
+  "practical": {},
+  "facts": {},
+  "location": {},
+  "url": "",
+  "faq": []
+ }
+]

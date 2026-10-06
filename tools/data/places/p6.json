@@ -1,0 +1,95 @@
+[
+{
+"slug": "gerlos",
+"region": "zillertal",
+"drop": false,
+"name": {"nl": "Gerlos", "en": "Gerlos", "de": "Gerlos"},
+"tagline": {"nl": "Bergdorp aan de Gerlospas, aan het hoge einde van het Zillertal", "en": "Mountain village on the Gerlos Pass at the top end of the Zillertal", "de": "Bergdorf an der Gerlosstraße am oberen Ende des Zillertals"},
+"intro": {
+"nl": "Gerlos ligt in een zijdal aan het bovenste deel van het Zillertal, langs de weg over de Gerlospas richting Salzburgerland. Het is een rustig bergdorp dat vooral bekendstaat als wintersportplaats en onderdeel is van het skigebied Zillertal Arena.\n\nIn de winter is het dorp een logische uitvalsbasis voor skiërs, in de zomer vooral voor wandelaars en fietsers. Het ligt op de grens van het Zillertal en de Pinzgau, waardoor een rit over de Gerlospas in één dag goed te combineren is met een bezoek aan de omgeving, bijvoorbeeld de watervallen van Krimml aan de andere kant van de pas.\n\nVoor gezinnen uit Niederau is Gerlos een mooie dagtocht als u liever een kleinschalig bergdorp bezoekt dan een groot toeristencentrum. Reken op een autorit van ruim een uur; informeer vooraf bij het toeristenbureau naar de actuele openingstijden van liften en tolwegen.",
+"en": "Gerlos lies in a side valley at the upper end of the Zillertal, on the road over the Gerlos Pass towards Salzburgerland. It is a quiet mountain village best known as a winter sports resort and is part of the Zillertal Arena ski area.\n\nIn winter the village is a natural base for skiers, in summer mainly for walkers and cyclists. It sits on the border between the Zillertal and the Pinzgau, so a drive over the Gerlos Pass combines easily with a visit to the surroundings, for example the Krimml waterfalls on the other side of the pass.\n\nFor families staying in Niederau, Gerlos makes a good day trip if you prefer a small mountain village to a large tourist centre. Allow a drive of a little over an hour, and check current lift opening times and any toll-road charges with the tourist office beforehand.",
+"de": "Gerlos liegt in einem Seitental am oberen Ende des Zillertals, an der Straße über den Gerlospass Richtung Salzburger Land. Es ist ein ruhiges Bergdorf, das vor allem als Wintersportort bekannt ist und zum Skigebiet Zillertal Arena gehört.\n\nIm Winter ist das Dorf ein naheliegender Ausgangspunkt für Skifahrer, im Sommer vor allem für Wanderer und Radfahrer. Es liegt an der Grenze zwischen Zillertal und Pinzgau, sodass sich eine Fahrt über den Gerlospass gut mit einem Besuch der Umgebung verbinden lässt, etwa den Krimmler Wasserfällen auf der anderen Seite des Passes.\n\nFür Familien aus Niederau ist Gerlos ein schönes Ausflugsziel, wenn man lieber ein kleines Bergdorf als ein großes Tourismuszentrum besucht. Planen Sie gut eine Stunde Fahrzeit ein und erkundigen Sie sich vorab beim Tourismusverband nach aktuellen Liftzeiten und eventuellen Mautgebühren."
+},
+"highlights": {
+"nl": ["In de winter skiën in de Zillertal Arena, waarin Gerlos met andere plaatsen is verbonden.", "In de zomer wandelen in de bergen rond Gerlos, van korte dorpsrondes tot langere bergtochten.", "Een tocht over de Gerlospas, een bekende bergroute tussen Tirol en Salzburgerland.", "De watervallen van Krimml aan de Salzburgse kant van de pas, een mooie combinatie met een bezoek aan Gerlos.", "Fietsen en mountainbiken in de omgeving; informeer ter plaatse naar routes en verhuur."],
+"en": ["Skiing in the Zillertal Arena, to which Gerlos is linked along with other villages.", "Summer walking in the mountains around Gerlos, from short village strolls to longer mountain hikes.", "A drive over the Gerlos Pass, a well-known mountain route between Tyrol and Salzburgerland.", "The Krimml waterfalls on the Salzburg side of the pass, a good combination with a visit to Gerlos.", "Cycling and mountain biking nearby; ask locally about routes and rental."],
+"de": ["Skifahren in der Zillertal Arena, mit der Gerlos und weitere Orte verbunden sind.", "Sommerwandern in den Bergen rund um Gerlos, von kurzen Dorfrunden bis zu längeren Bergtouren.", "Eine Fahrt über den Gerlospass, eine bekannte Bergstrecke zwischen Tirol und Salzburger Land.", "Die Krimmler Wasserfälle auf der Salzburger Seite des Passes, gut mit einem Besuch in Gerlos zu verbinden.", "Radfahren und Mountainbiken in der Umgebung; Routen und Verleih vor Ort erfragen."]
+},
+"getting_there": {
+"nl": "Vanaf Niederau ca. 75 minuten met de auto: via Oberau naar Wörgl, dan over de A12 naar de afrit Zillertal en door het Zillertal via Zell am Ziller de weg naar Gerlos op. Controleer vooraf of er tol- of passregels gelden.",
+"en": "About 75 minutes by car from Niederau: via Oberau to Wörgl, then along the A12 to the Zillertal exit and up the valley through Zell am Ziller to Gerlos. Check beforehand for any toll or pass regulations.",
+"de": "Von Niederau ca. 75 Minuten mit dem Auto: über Oberau nach Wörgl, dann auf der A12 zur Ausfahrt Zillertal und durch das Zillertal über Zell am Ziller nach Gerlos. Prüfen Sie vorab eventuelle Maut- oder Passregelungen."
+},
+"best_for": {"nl": "Past bij gezinnen en skiërs die een rustig bergdorp zoeken.", "en": "Suits families and skiers looking for a quiet mountain village.", "de": "Passt zu Familien und Skifahrern, die ein ruhiges Bergdorf suchen."},
+"season": {"nl": "Vooral winter, in de zomer geschikt voor wandelen en een tocht over de pas.", "en": "Mainly winter; in summer good for walking and a drive over the pass.", "de": "Vor allem Winter, im Sommer geeignet zum Wandern und für eine Fahrt über den Pass."},
+"drive_min": 75,
+"elevation_m": null,
+"url": "",
+"faq": [
+{"q": {"nl": "Hoe ver is Gerlos van Niederau?", "en": "How far is Gerlos from Niederau?", "de": "Wie weit ist Gerlos von Niederau entfernt?"}, "a": {"nl": "Ruwweg 75 minuten met de auto, via Wörgl en het Zillertal. De exacte tijd hangt af van het verkeer.", "en": "Roughly 75 minutes by car, via Wörgl and the Zillertal. The exact time depends on traffic.", "de": "Etwa 75 Minuten mit dem Auto, über Wörgl und das Zillertal. Die genaue Zeit hängt vom Verkehr ab."}},
+{"q": {"nl": "Bij welk skigebied hoort Gerlos?", "en": "Which ski area does Gerlos belong to?", "de": "Zu welchem Skigebiet gehört Gerlos?"}, "a": {"nl": "Gerlos maakt deel uit van de Zillertal Arena.", "en": "Gerlos is part of the Zillertal Arena.", "de": "Gerlos gehört zur Zillertal Arena."}}
+]
+},
+{
+"slug": "mayrhofen",
+"region": "zillertal",
+"drop": false,
+"name": {"nl": "Mayrhofen", "en": "Mayrhofen", "de": "Mayrhofen"},
+"tagline": {"nl": "Bekend bergdorp aan het einde van het Zillertal, met veel zomer- en winteraanbod", "en": "Well-known mountain village at the end of the Zillertal with plenty to do all year", "de": "Bekanntes Bergdorf am Talschluss des Zillertals mit viel Angebot das ganze Jahr"},
+"intro": {
+"nl": "Mayrhofen ligt aan het einde van het hoofddal van het Zillertal, op de plek waar het dal zich splitst in vier zijdalen, waaronder het Tuxertal en het Zillergrund. Het is een van de bekendste toeristenplaatsen van Tirol, met een levendige dorpskern vol winkels, cafés en restaurants.\n\nDe plaats trekt in alle seizoenen bezoekers. In de winter zijn de pistes van Penken en Ahorn de trekpleister, in de zomer vooral wandelaars en mountainbikers, en het dorp staat bekend om zijn activiteiten voor avontuurlijke gasten.\n\nVoor gezinnen uit Niederau is Mayrhofen een goed gekozen dagtocht van circa een uur en een kwartier rijden. U kunt er wandelen, met een bergbaan omhoog gaan of gewoon door het dorp slenteren. Informeer vooraf naar de actuele bedrijfstijden van de bergbanen.",
+"en": "Mayrhofen lies at the end of the main Zillertal, where the valley splits into four side valleys, including the Tuxertal and the Zillergrund. It is one of the best-known tourist resorts in Tyrol, with a lively centre of shops, cafés and restaurants.\n\nThe village draws visitors in every season. In winter the pistes of Penken and Ahorn are the main attraction, in summer mostly walkers and mountain bikers, and the resort is known for activities aimed at adventurous guests.\n\nFor families staying in Niederau, Mayrhofen is a well-chosen day trip of about an hour and a quarter by car. You can walk, take a mountain lift up, or simply stroll through the village. Check the current operating times of the mountain lifts in advance.",
+"de": "Mayrhofen liegt am Ende des Hauptzillertals, dort, wo sich das Tal in vier Seitentäler teilt, darunter das Tuxertal und der Zillergrund. Es ist einer der bekanntesten Urlaubsorte Tirols mit einem lebendigen Ortskern voller Geschäfte, Cafés und Restaurants.\n\nDer Ort zieht in allen Jahreszeiten Gäste an. Im Winter sind die Pisten von Penken und Ahorn die Hauptattraktion, im Sommer vor allem Wanderer und Mountainbiker, und der Ort ist für Aktivitäten für abenteuerlustige Gäste bekannt.\n\nFür Familien aus Niederau ist Mayrhofen ein gut gewähltes Ausflugsziel von gut einer Stunde Fahrzeit. Man kann wandern, mit einer Bergbahn hinauffahren oder einfach durch den Ort schlendern. Erkundigen Sie sich vorab nach den aktuellen Betriebszeiten der Bergbahnen."
+},
+"highlights": {
+"nl": ["Bergbanen op de Penken en de Ahorn voor wandelen in de zomer en skiën in de winter.", "Wandelen in de zijdalen rond Mayrhofen, bijvoorbeeld richting het Zillergrund.", "Flaneren door het dorp met winkels, cafés en restaurants.", "Mountainbiken en andere actieve zomeractiviteiten; informeer ter plaatse naar aanbieders.", "Skiën en snowboarden op Penken en Ahorn in de winter."],
+"en": ["Mountain lifts up the Penken and the Ahorn for summer walking and winter skiing.", "Walking in the side valleys around Mayrhofen, for example towards the Zillergrund.", "Strolling through the village with its shops, cafés and restaurants.", "Mountain biking and other active summer pursuits; ask locally about providers.", "Skiing and snowboarding on Penken and Ahorn in winter."],
+"de": ["Bergbahnen auf Penken und Ahorn zum Wandern im Sommer und Skifahren im Winter.", "Wandern in den Seitentälern rund um Mayrhofen, zum Beispiel Richtung Zillergrund.", "Bummeln durch den Ort mit Geschäften, Cafés und Restaurants.", "Mountainbiken und andere aktive Sommeraktivitäten; Anbieter vor Ort erfragen.", "Skifahren und Snowboarden auf Penken und Ahorn im Winter."]
+},
+"getting_there": {
+"nl": "Vanaf Niederau ca. 65 minuten met de auto: via Wörgl, over de A12 naar de afrit Zillertal en dan over de Zillertaler Straße (B169) tot aan het einde van het dal.",
+"en": "About 65 minutes by car from Niederau: via Wörgl, along the A12 to the Zillertal exit, then along the Zillertaler Straße (B169) to the end of the valley.",
+"de": "Von Niederau ca. 65 Minuten mit dem Auto: über Wörgl, auf der A12 zur Ausfahrt Zillertal und dann auf der Zillertaler Straße (B169) bis zum Talende."
+},
+"best_for": {"nl": "Past bij gezinnen en actieve gasten die één plek met veel keuze zoeken.", "en": "Suits families and active guests looking for one place with plenty of choice.", "de": "Passt zu Familien und aktiven Gästen, die einen Ort mit viel Auswahl suchen."},
+"season": {"nl": "Het hele jaar: skiën in de winter, wandelen en fietsen in de zomer.", "en": "All year: skiing in winter, walking and cycling in summer.", "de": "Das ganze Jahr: Skifahren im Winter, Wandern und Radfahren im Sommer."},
+"drive_min": 65,
+"elevation_m": null,
+"url": "",
+"faq": [
+{"q": {"nl": "Is Mayrhofen als dagtocht vanuit Niederau haalbaar?", "en": "Is Mayrhofen feasible as a day trip from Niederau?", "de": "Ist Mayrhofen als Tagesausflug von Niederau machbar?"}, "a": {"nl": "Ja, de rit duurt ruwweg 65 minuten per richting via Wörgl en het Zillertal.", "en": "Yes, the drive takes roughly 65 minutes each way via Wörgl and the Zillertal.", "de": "Ja, die Fahrt dauert je Richtung etwa 65 Minuten über Wörgl und das Zillertal."}},
+{"q": {"nl": "Welke skiberg horen bij Mayrhofen?", "en": "Which ski mountains belong to Mayrhofen?", "de": "Welche Skiberge gehören zu Mayrhofen?"}, "a": {"nl": "De Penken en de Ahorn zijn de twee bekende bergen bij Mayrhofen.", "en": "Penken and Ahorn are the two well-known mountains at Mayrhofen.", "de": "Penken und Ahorn sind die beiden bekannten Berge bei Mayrhofen."}}
+]
+},
+{
+"slug": "hintertux",
+"region": "zillertal",
+"drop": false,
+"name": {"nl": "Hintertux", "en": "Hintertux", "de": "Hintertux"},
+"tagline": {"nl": "Gletsjerskigebied aan het einde van het Tuxertal (gemeente Tux)", "en": "Glacier ski area at the head of the Tuxertal (municipality of Tux)", "de": "Gletscherskigebiet am Ende des Tuxertals (Gemeinde Tux)"},
+"intro": {
+"nl": "Hintertux is het hoogstgelegen dorp van het Tuxertal, een zijdal van het Zillertal bij Mayrhofen. Het hoort bij de gemeente Tux en is vooral bekend om de Hintertuxer Gletsjer, een gletsjerskigebied waar naar eigen zeggen vrijwel het hele jaar kan worden geskied.\n\nOok buiten het skiseizoen is de omgeving interessant. De hooggelegen bergen en de gletsjer zorgen voor een ander landschap dan in de Wildschönau, en het dal kent diverse wandelmogelijkheden. Houd er rekening mee dat het op de gletsjer ook in de zomer koud kan zijn.\n\nVoor gezinnen uit Niederau is het een langere dagtocht: ruim anderhalf uur rijden. Controleer vooraf de bedrijfstijden van de gletsjerbanen en de sneeuwomstandigheden, en kleed u warm.",
+"en": "Hintertux is the highest village in the Tuxertal, a side valley of the Zillertal near Mayrhofen. It belongs to the municipality of Tux and is best known for the Hintertux Glacier, a glacier ski area where skiing is said to be possible almost all year round.\n\nThe area is also interesting outside the ski season. The high mountains and the glacier give a landscape quite different from the Wildschönau, and the valley offers various walking options. Bear in mind that it can be cold on the glacier even in summer.\n\nFor families staying in Niederau this is a longer day trip: a drive of well over an hour and a half. Check the glacier lifts' operating times and snow conditions beforehand, and dress warmly.",
+"de": "Hintertux ist das höchstgelegene Dorf des Tuxertals, eines Seitentals des Zillertals bei Mayrhofen. Es gehört zur Gemeinde Tux und ist vor allem für den Hintertuxer Gletscher bekannt, ein Gletscherskigebiet, in dem laut eigenen Angaben fast das ganze Jahr Ski gefahren werden kann.\n\nAuch außerhalb der Skisaison ist die Umgebung interessant. Die hohen Berge und der Gletscher sorgen für eine andere Landschaft als in der Wildschönau, und im Tal gibt es verschiedene Wandermöglichkeiten. Bedenken Sie, dass es auf dem Gletscher auch im Sommer kalt sein kann.\n\nFür Familien aus Niederau ist das ein längerer Tagesausflug: gut anderthalb Stunden Fahrzeit. Prüfen Sie vorab die Betriebszeiten der Gletscherbahnen und die Schneelage, und ziehen Sie sich warm an."
+},
+"highlights": {
+"nl": ["De Hintertuxer Gletsjer: skiën en snowboarden, ook buiten het gewone wintersportseizoen.", "Met de gletsjerbanen naar grote hoogte voor een bergpanorama, ook in de zomer; informeer vooraf naar de bedrijfstijden.", "Wandelen in het Tuxertal en de hooggelegen omgeving.", "Een rit door het Tuxertal, aftakkend van het Zillertal bij Mayrhofen.", "Combineer de dag met een bezoek aan Mayrhofen op de heen- of terugweg."],
+"en": ["The Hintertux Glacier: skiing and snowboarding, including outside the usual winter season.", "Glacier lifts to high altitude for mountain views, in summer too; check operating times beforehand.", "Walking in the Tuxertal and the high mountain surroundings.", "A drive through the Tuxertal, branching off the Zillertal at Mayrhofen.", "Combine the day with a visit to Mayrhofen on the way there or back."],
+"de": ["Der Hintertuxer Gletscher: Skifahren und Snowboarden, auch außerhalb der üblichen Wintersaison.", "Mit den Gletscherbahnen in große Höhe für das Bergpanorama, auch im Sommer; Betriebszeiten vorab erfragen.", "Wandern im Tuxertal und in der hochalpinen Umgebung.", "Eine Fahrt durch das Tuxertal, das bei Mayrhofen vom Zillertal abzweigt.", "Den Tag mit einem Besuch in Mayrhofen auf der Hin- oder Rückfahrt verbinden."]
+},
+"getting_there": {
+"nl": "Vanaf Niederau ca. 95 minuten met de auto: via Wörgl, over de A12 naar de afrit Zillertal, door het Zillertal naar Mayrhofen en daarna het Tuxertal in tot het einde van het dal.",
+"en": "About 95 minutes by car from Niederau: via Wörgl, along the A12 to the Zillertal exit, through the Zillertal to Mayrhofen and then up the Tuxertal to the head of the valley.",
+"de": "Von Niederau ca. 95 Minuten mit dem Auto: über Wörgl, auf der A12 zur Ausfahrt Zillertal, durch das Zillertal nach Mayrhofen und dann das Tuxertal hinauf bis zum Talende."
+},
+"best_for": {"nl": "Past bij skiërs en wandelaars die hoog in de bergen willen zijn.", "en": "Suits skiers and walkers who want to be high in the mountains.", "de": "Passt zu Skifahrern und Wanderern, die hoch in die Berge wollen."},
+"season": {"nl": "Het hele jaar mogelijk, vooral winter; in de zomer kouder op de gletsjer.", "en": "Possible all year, mainly winter; colder on the glacier in summer.", "de": "Das ganze Jahr möglich, vor allem Winter; im Sommer ist es auf dem Gletscher kälter."},
+"drive_min": 95,
+"elevation_m": null,
+"url": "",
+"faq": [
+{"q": {"nl": "Ligt Hintertux in het Zillertal?", "en": "Is Hintertux in the Zillertal?", "de": "Liegt Hintertux im Zillertal?"}, "a": {"nl": "Hintertux ligt in het Tuxertal, een zijdal van het Zillertal bij Mayrhofen, en hoort bij de gemeente Tux.", "en": "Hintertux is in the Tuxertal, a side valley of the Zillertal near Mayrhofen, and belongs to the municipality of Tux.", "de": "Hintertux liegt im Tuxertal, einem Seitental des Zillertals bei Mayrhofen, und gehört zur Gemeinde Tux."}},
+{"q": {"nl": "Kun je er ook in de zomer skiën?", "en": "Can you ski there in summer too?", "de": "Kann man dort auch im Sommer Ski fahren?"}, "a": {"nl": "Het gletsjerskigebied wordt gepromoot als bijna jaarrond bruikbaar, maar de omstandigheden wisselen; controleer vooraf de actuele situatie.", "en": "The glacier ski area is promoted as usable almost all year, but conditions vary; check the current situation beforehand.", "de": "Das Gletscherskigebiet wird als fast ganzjährig nutzbar beworben, die Bedingungen wechseln aber; prüfen Sie vorab die aktuelle Lage."}}
+]
+}
+]
