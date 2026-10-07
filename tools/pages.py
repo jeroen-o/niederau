@@ -98,7 +98,7 @@ def is_local(a):
     text = " ".join([L(a.get("title", {}), "nl"), L(a.get("tagline", {}), "nl")]).lower()
     return a.get("place") in LOCAL_PLACES or (not a.get("place") and any(w in text for w in LOCAL_WORDS))
 
-ACT_PHOTO = {"s172": "kufstein-vesting-gekleurde-huizen-inn", "w31": "kufstein-vesting-gekleurde-huizen-inn", "s218": "inntal-fietspad-langs-de-inn"}
+ACT_PHOTO = {"n-monsterroller-spieljoch": "niederau-herfst-mountaincarts-bergweg", "s172": "kufstein-vesting-gekleurde-huizen-inn", "w31": "kufstein-vesting-gekleurde-huizen-inn", "s218": "inntal-fietspad-langs-de-inn"}
 def photo_for(a):
     if a["id"] in ACT_PHOTO:
         f = ACT_PHOTO[a["id"]]

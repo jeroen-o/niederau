@@ -1,0 +1,39 @@
+[
+{
+ "id": "n-monsterroller-spieljoch", "new": true, "drop": false, "verified": true,
+ "theme": "avontuur", "season": "summer", "place": "fuegen",
+ "slug_nl": "monsterroller-spieljoch-fuegen", "slug_en": "monsterroller-spieljoch-fuegen", "slug_de": "monsterroller-spieljoch-fuegen",
+ "title": {"nl": "Monsterroller en MountainCart op het Spieljoch", "en": "Monsterroller and MountainCart on the Spieljoch", "de": "Monsterroller und MountainCart am Spieljoch"},
+ "tagline": {"nl": "Met gids en helm van de berg af rollen bij Fügen", "en": "Rolling down the mountain with a guide and helmet near Fügen", "de": "Mit Guide und Helm bergab rollen bei Fügen"},
+ "intro": {
+  "nl": "Op het Spieljoch boven Fügen in het Zillertal kun je in de zomer met een Monsterroller of een MountainCart de berg af. Een Monsterroller is een stevige step met dikke, luchtgevulde banden; een MountainCart is een zitkart met zijn eigen sturing en remmen. Je rijdt achter een gids aan, met helm, en volgt de bosweg van het bergstation naar het middenstation. De afdaling is ongeveer 6,5 kilometer lang.\n\nDe tocht is bedoeld voor volwassenen en jongeren vanaf 10 jaar, afhankelijk van de lichaamslengte. Het aantal voertuigen is beperkt, dus reserveer van tevoren. Wie wil, kan bij sommige tochten doorrijden naar het dalstation. Het is een leuke aanvulling op een wandeling of een dag in het Zillertal als je met pubers of een actieve groep reist.",
+  "en": "In summer you can ride down the Spieljoch above Fügen in the Zillertal on a Monsterroller or a MountainCart. A Monsterroller is a sturdy scooter with fat, air-filled tyres; a MountainCart is a seated cart with its own steering and brakes. You follow a guide, wearing a helmet, along the forest road from the top station to the middle station. The descent is about 6.5 kilometres long.\n\nThe ride is meant for adults and young people from 10 years of age, depending on body height. The number of vehicles is limited, so book in advance. On some tours you can carry on to the valley station. It is a fun addition to a hike or a day in the Zillertal when you travel with teenagers or an active group.",
+  "de": "Am Spieljoch oberhalb von Fügen im Zillertal kann man im Sommer mit einem Monsterroller oder einem MountainCart ins Tal rollen. Ein Monsterroller ist ein stabiler Tretroller mit dicken, luftgefüllten Reifen; ein MountainCart ist ein Sitzkart mit eigener Lenkung und Bremsen. Man fährt mit Helm hinter einem Guide her und folgt dem Forstweg von der Bergstation zur Mittelstation. Die Abfahrt ist rund 6,5 Kilometer lang.\n\nDie Tour ist für Erwachsene und Jugendliche ab 10 Jahren gedacht, je nach Körpergröße. Die Zahl der Fahrzeuge ist begrenzt, deshalb rechtzeitig reservieren. Bei manchen Touren kann man bis zur Talstation weiterfahren. Eine schöne Ergänzung zu einer Wanderung oder einem Tag im Zillertal, wenn man mit Jugendlichen oder einer aktiven Gruppe unterwegs ist."
+ },
+ "tips": {
+  "nl": ["Reserveer vooraf; het aantal voertuigen is beperkt.", "Draag stevige schoenen en kleding die vies mag worden.", "Controleer op de site van de Spieljochbahn de actuele tijden en de lengte- en leeftijdsregels.", "Combineer de rit met een wandeling of lunch op de berg."],
+  "en": ["Book in advance; the number of vehicles is limited.", "Wear sturdy shoes and clothes that can get dirty.", "Check the Spieljochbahn website for current times and the age and height rules.", "Combine the ride with a hike or lunch on the mountain."],
+  "de": ["Vorab reservieren; die Zahl der Fahrzeuge ist begrenzt.", "Feste Schuhe und Kleidung tragen, die schmutzig werden darf.", "Aktuelle Zeiten sowie Alters- und Größenregeln auf der Website der Spieljochbahn prüfen.", "Die Fahrt mit einer Wanderung oder einem Mittagessen am Berg verbinden."]
+ },
+ "practical": {
+  "nl": "Fügen ligt ca. 50 minuten rijden vanaf Niederau, via Wörgl, de A12 en de afrit Zillertal (Strass). De gids begeleidt de tocht van het bergstation naar het middenstation. Volgens de aanbieder starten de tochten in het seizoen dagelijks, meestal vanaf ca. 11.00 uur; controleer de actuele tijden, de prijzen en de beschikbaarheid vooraf bij de Spieljochbahn.",
+  "en": "Fügen is about 50 minutes by car from Niederau, via Wörgl, the A12 and the Zillertal exit (Strass). A guide leads the ride from the top station to the middle station. According to the operator, tours run daily in season, usually from about 11:00 a.m.; check current times, prices and availability with the Spieljochbahn beforehand.",
+  "de": "Fügen liegt ca. 50 Minuten Fahrzeit von Niederau entfernt, über Wörgl, die A12 und die Ausfahrt Zillertal (Strass). Ein Guide begleitet die Fahrt von der Bergstation zur Mittelstation. Laut Anbieter finden die Touren in der Saison täglich statt, meist ab ca. 11 Uhr; aktuelle Zeiten, Preise und Verfügbarkeit vorab bei der Spieljochbahn erfragen."
+ },
+ "facts": {
+  "age": {"nl": "Vanaf 10 jaar, afhankelijk van lengte", "en": "From 10 years, depending on height", "de": "Ab 10 Jahren, je nach Körpergröße"},
+  "duration": {"nl": "Afdaling ca. 6,5 km", "en": "Descent approx. 6.5 km", "de": "Abfahrt ca. 6,5 km"},
+  "price": {"nl": "Prijs wisselt; vraag na bij de Spieljochbahn", "en": "Prices vary; ask the Spieljochbahn", "de": "Preise wechseln; bei der Spieljochbahn erfragen"},
+  "distance": {"nl": "Ca. 50 min rijden", "en": "Approx. 50 min by car", "de": "Ca. 50 Min. Fahrt"},
+  "season": {"nl": "Zomer", "en": "Summer", "de": "Sommer"}
+ },
+ "location": {"nl": "Spieljoch, Fügen (Zillertal)", "en": "Spieljoch, Fügen (Zillertal)", "de": "Spieljoch, Fügen (Zillertal)"},
+ "url": "https://www.spieljochbahn.at/en/summer/activities/monsterroller/",
+ "faq": [
+  {"q": {"nl": "Vanaf welke leeftijd mag je meedoen?", "en": "From what age can you take part?", "de": "Ab welchem Alter kann man mitmachen?"},
+   "a": {"nl": "Vanaf ongeveer 10 jaar, afhankelijk van de lichaamslengte. Controleer de actuele regels bij de Spieljochbahn.", "en": "From about 10 years, depending on body height. Check the current rules with the Spieljochbahn.", "de": "Ab etwa 10 Jahren, je nach Körpergröße. Die aktuellen Regeln bei der Spieljochbahn prüfen."}},
+  {"q": {"nl": "Wat is het verschil tussen een Monsterroller en een MountainCart?", "en": "What is the difference between a Monsterroller and a MountainCart?", "de": "Was ist der Unterschied zwischen Monsterroller und MountainCart?"},
+   "a": {"nl": "De Monsterroller is een step met dikke banden waarop je staat; de MountainCart is een zitkart met sturing en remmen.", "en": "The Monsterroller is a scooter with fat tyres that you stand on; the MountainCart is a seated cart with steering and brakes.", "de": "Der Monsterroller ist ein Tretroller mit dicken Reifen, auf dem man steht; der MountainCart ist ein Sitzkart mit Lenkung und Bremsen."}}
+ ]
+}
+]
