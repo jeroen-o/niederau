@@ -169,7 +169,7 @@ def gen_fig(key, lang, season=None):
     if season: return gen_one(gen_pick(key, season), lang)
     return "".join(gen_one(gen_pick(key, s), lang, f' data-only="{s}"') for s in ("winter", "summer"))
 
-PLACE_PHOTO = {"kufstein": "kufstein-vesting-gekleurde-huizen-inn", "oberau": "oberau-wildschoenau-winter", "thierbach": "thierbach-wildschoenau-sneeuwschoenwandelen", "auffach": "auffach-wildschoenau-e-bike", "muehltal": "muehltal-herfst-wandelen-gezin"}
+PLACE_PHOTO = {"fuegen": "niederau-herfst-mountaincarts-bergweg", "kufstein": "kufstein-vesting-gekleurde-huizen-inn", "oberau": "oberau-wildschoenau-winter", "thierbach": "thierbach-wildschoenau-sneeuwschoenwandelen", "auffach": "auffach-wildschoenau-e-bike", "muehltal": "muehltal-herfst-wandelen-gezin"}
 REGION_PHOTO = {"wildschoenau": "niederau-wildschoenau-pistes-liften-winter"}
 
 # thema-afbeeldingen (bestaande eigen/hotelfoto's) met beschrijvende alt
