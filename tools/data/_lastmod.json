@@ -521,15 +521,15 @@
 },
 "activiteiten/index.html": {
 "date": "2026-10-07",
-"hash": "5862e61ee977f9ab0b9d187dcfc2924281e4f620"
+"hash": "d1f88e4f57914dc4e82fc799d5dbe920edee5753"
 },
 "activiteiten/met-kinderen/index.html": {
 "date": "2026-10-07",
-"hash": "eb24aa8b18736bedbfce9c4d7fa974022472cdfb"
+"hash": "7db356af9d0fecacebed95cffd74b43597918baa"
 },
 "activiteiten/regendag/index.html": {
 "date": "2026-10-07",
-"hash": "5f6d7280871fb73fc0e9b875ce479d18f7949c90"
+"hash": "a9639e96250eecbb7363799b8a8c60d912bafab1"
 },
 "activiteiten/skieen/index.html": {
 "date": "2026-10-06",
@@ -757,7 +757,7 @@
 },
 "activiteiten/winter/index.html": {
 "date": "2026-10-07",
-"hash": "ee7a6027811b031f6784573fd934e710c5251b77"
+"hash": "21e3dc03a1e507d8fa6866f08746df09eedf31b3"
 },
 "activiteiten/winterpret/ijsschaatsen-wildschonau/index.html": {
 "date": "2026-10-06",
@@ -785,7 +785,7 @@
 },
 "activiteiten/zomer/index.html": {
 "date": "2026-10-07",
-"hash": "098e67277b4bfe1e2fa121c9d996e9c1d1995afa"
+"hash": "cb71277f3a4f5ff21e33ab8b770ec972d0cfbedf"
 },
 "activiteiten/zwemmen/badesee-hopfgarten/index.html": {
 "date": "2026-10-06",
@@ -881,27 +881,27 @@
 },
 "agenda/almabtrieb-auffach-2027/index.html": {
 "date": "2026-10-07",
-"hash": "e2e5ce15cc9583eaef1a1380468e68810a121618"
+"hash": "8695c7e38858ef705f8249bfc0e825cf87ba1f57"
 },
 "agenda/hahnenkammrennen-kitzbuhel-2027/index.html": {
 "date": "2026-10-07",
-"hash": "bb9934a55a59c28c9946ffbabe53473d6be544db"
+"hash": "ab376c7ba1f3c1bf3d9158a46958b51239c37fe5"
 },
 "agenda/index.html": {
 "date": "2026-10-07",
-"hash": "80ddff7ff842c858f510d2887c24ae72926c24ae"
+"hash": "a1967b4d33e7d8e961c6f55941cb6fed9dd18451"
 },
 "agenda/krautingerwoche-wildschonau/index.html": {
 "date": "2026-10-07",
-"hash": "3435981eba7af76330ab74520f51d5cd9cd86df8"
+"hash": "76f616b0765365e33c593fcfc1bee4d7e388a6ae"
 },
 "agenda/start-skiseizoen-ski-juwel-2026-27/index.html": {
 "date": "2026-10-07",
-"hash": "90504f3c48e3704feb883cca72ad3051c6a3087d"
+"hash": "85eb36b6ca81d2f78d317f021b142ab21f99280d"
 },
 "agenda/talfest-wildschonau-2027/index.html": {
 "date": "2026-10-07",
-"hash": "5ca65874645c98de1daa7d30c09d5c35fe309f8a"
+"hash": "3a2e054af6cd1f80039a8c36b0d1ad5885dcfddb"
 },
 "de/aktivitaeten/abenteuer/3d-bogenschiessen-koessen/index.html": {
 "date": "2026-10-07",
@@ -1157,7 +1157,7 @@
 },
 "de/aktivitaeten/index.html": {
 "date": "2026-10-07",
-"hash": "7b3ceb2ead99103ca24ac383c1383b16ac878cb8"
+"hash": "56801b6f783fb78e0747dac7de506cd79187fce9"
 },
 "de/aktivitaeten/kultur/almabtrieb-auffach/index.html": {
 "date": "2026-10-06",
@@ -1313,7 +1313,7 @@
 },
 "de/aktivitaeten/mit-kindern/index.html": {
 "date": "2026-10-07",
-"hash": "5a469f85c669889c892b75271e923d5dee4587c6"
+"hash": "6f480e7db5f218654ffda4e3babab44c424d7506"
 },
 "de/aktivitaeten/radfahren/bike-area-streuboden-fieberbrunn/index.html": {
 "date": "2026-10-06",
@@ -1365,7 +1365,7 @@
 },
 "de/aktivitaeten/regenwetter/index.html": {
 "date": "2026-10-07",
-"hash": "421e6a8e5bfacda04af74b477ebb4469d2fd65fa"
+"hash": "12d266b50e2c2e7a0fc1ecd1b359c12282832895"
 },
 "de/aktivitaeten/schwimmen/achensee-baden-pertisau/index.html": {
 "date": "2026-10-06",
@@ -1477,7 +1477,7 @@
 },
 "de/aktivitaeten/sommer/index.html": {
 "date": "2026-10-07",
-"hash": "6c51468acdff4732b9a1947f064dff420344d888"
+"hash": "9ab5cf745dbf5cb9e2f9f0de1e5c986050cc6427"
 },
 "de/aktivitaeten/tagesausfluege/glasstadt-rattenberg-winter/index.html": {
 "date": "2026-10-06",
@@ -1757,7 +1757,7 @@
 },
 "de/aktivitaeten/winter/index.html": {
 "date": "2026-10-07",
-"hash": "1974c24897af750353ca90a2005115caf0201c42"
+"hash": "5a44c91fa9092597f8b85fb67a3a4ba03533cf85"
 },
 "de/aktivitaeten/winterspass/eislaufen-familienpark-drachental/index.html": {
 "date": "2026-10-06",
@@ -1797,99 +1797,99 @@
 },
 "de/ratgeber/anreise-nach-niederau/index.html": {
 "date": "2026-10-07",
-"hash": "05dd75b7002be0fe4c676eea58548ba39b23fd91"
+"hash": "6f98abc5d6f74d3ce661457c9791c9883cee1ed8"
 },
 "de/ratgeber/baden-und-seen/index.html": {
 "date": "2026-10-07",
-"hash": "e27a4b532618ac8b4798d9ef20789ef544ceb805"
+"hash": "238468ab8eca34163298b71861350cd4381bd000"
 },
 "de/ratgeber/beste-reisezeit/index.html": {
 "date": "2026-10-07",
-"hash": "08acd9dfe47d05042162a21419b9dfcf4376995f"
+"hash": "7ba0509ebec4934219fc3cc19baf11e5ef2bbb60"
 },
 "de/ratgeber/eine-woche-in-niederau-sommer/index.html": {
 "date": "2026-10-07",
-"hash": "71a120a4cf50bf48233dc727803a55f60f00b44d"
+"hash": "d77f3355f2a34ba1302d7dee88ecc6a2b011cea4"
 },
 "de/ratgeber/eine-woche-in-niederau-winter/index.html": {
 "date": "2026-10-07",
-"hash": "b79cbf9e1571d1aff618793a0d52573438c15d54"
+"hash": "a9ab47a1e2f0520988ac8e45bf6b9ad82286883c"
 },
 "de/ratgeber/essen-und-trinken/index.html": {
 "date": "2026-10-07",
-"hash": "40d4cbbeff48cd9024a5175ecc47ce7a7424b5df"
+"hash": "c783710aeb5955f5ace8023dc20c7c9a98b59af7"
 },
 "de/ratgeber/index.html": {
 "date": "2026-10-07",
-"hash": "bed45d1ec087723c64dee1cf310de0a2050a243a"
+"hash": "621cd29805ed5a23219fa238723655c0ed57f62a"
 },
 "de/ratgeber/langlaufen-und-winterwandern/index.html": {
 "date": "2026-10-07",
-"hash": "3b5aa49440350bd260273408602261d75f1dab17"
+"hash": "b11861e605f7ab32d562ae49dac42c4d31dd7b80"
 },
 "de/ratgeber/radfahren-und-mountainbiken/index.html": {
 "date": "2026-10-07",
-"hash": "e7bd634d052300d18cd6d0a8921c36c550413367"
+"hash": "220626f5885124ba2372bb87f9e26fcc21b50199"
 },
 "de/ratgeber/reiten-und-pferd-mitbringen/index.html": {
 "date": "2026-10-07",
-"hash": "c16926c3077bd96dbd48466d0352adb8debc3757"
+"hash": "cb0d70a7140cd9f95e93915a9731421fb6ca2a25"
 },
 "de/ratgeber/rodelbahnen-wildschoenau/index.html": {
 "date": "2026-10-07",
-"hash": "c6eb5e39ceff4f55fd9905c9b5d534b228217baa"
+"hash": "94becd9bcfb00022ae17902d6e451bac12cbb4c4"
 },
 "de/ratgeber/sicher-in-den-bergen/index.html": {
 "date": "2026-10-07",
-"hash": "b131819128982008e5e0098c2aea92fa440da4d8"
+"hash": "8dc90e49b3e5761db653b26d59a4070620244fc0"
 },
 "de/ratgeber/skifahren-mit-kindern/index.html": {
 "date": "2026-10-07",
-"hash": "30ec4a91e18845446d9e3d30f0d1a5dc18453214"
+"hash": "cea12ab69b0da34ec4ce17aee86ed8a196fd48d9"
 },
 "de/ratgeber/skigebiet-ski-juwel/index.html": {
 "date": "2026-10-07",
-"hash": "5251bf478798a2a9ae6fd096caf109bd7c043499"
+"hash": "a6b525f16ee83587b469b94fec1cbd7f1107c1d0"
 },
 "de/ratgeber/tagesausfluege-ab-niederau/index.html": {
 "date": "2026-10-07",
-"hash": "5a0c537d3b5b44501d23347fb594a7a721016689"
+"hash": "3996460877b6ec566f25f63f4255de13a4996193"
 },
 "de/ratgeber/unterkunft-waehlen/index.html": {
 "date": "2026-10-07",
-"hash": "1fa89435234ebc5ce9c817bed1d0a9dddba32a90"
+"hash": "a9b82f5b4045537ff681c6d3af10f8a1f518c906"
 },
 "de/ratgeber/urlaub-mit-hund/index.html": {
 "date": "2026-10-07",
-"hash": "85bcd2056fcb42e5ae4df4f8fbd8f84045af799d"
+"hash": "f914246c9286fb3bfa8b4a8a848d70da691ae48e"
 },
 "de/ratgeber/wanderrouten-wildschoenau/index.html": {
 "date": "2026-10-07",
-"hash": "9cacd9e1a84d9c6d33a909be34566cf412ae8879"
+"hash": "9965fb4ee92aaaf4076626f9fab71a13ab6a0615"
 },
 "de/ratgeber/wildschoenau-card/index.html": {
 "date": "2026-10-07",
-"hash": "b9349d7296529930d3a33f9a3884d32e95e4e2b4"
+"hash": "a1ea38a55132dcc28da15d0e788e7e6d3d10c7d5"
 },
 "de/ratgeber/wildschoenau-doerfer-im-vergleich/index.html": {
 "date": "2026-10-07",
-"hash": "7fe060b031986953ca8b13343ce850a9734a6851"
+"hash": "082007bd502c4b6331fdfa9b19bba94ce59d1622"
 },
 "de/region/alpbachtal/index.html": {
 "date": "2026-10-07",
-"hash": "1cfab0b11936aa770be90c52e50839f1b003f7af"
+"hash": "8fb1b4e0be833ff1503aa72bfcbcdf666d5117bb"
 },
 "de/region/brixental/index.html": {
 "date": "2026-10-07",
-"hash": "9d7115348658a779dec83c126143003e33917f17"
+"hash": "1625a77ac015615803d40c6c347212d9c55ed9a5"
 },
 "de/region/inntal/index.html": {
 "date": "2026-10-07",
-"hash": "f8bcb05a9da3d2ba7981b0d30701361d201a3006"
+"hash": "7b6a4d2bcc5cc04a4ea8b543dbc35a9cbf498a81"
 },
 "de/region/kufsteinerland/index.html": {
 "date": "2026-10-07",
-"hash": "1ab8e2f608623fd500be5e8d2aa0082721b620ed"
+"hash": "a305c9c5b876044a63dcb78a98a143a030cbf091"
 },
 "de/region/wildschoenau/index.html": {
 "date": "2026-10-06",
@@ -1897,7 +1897,7 @@
 },
 "de/region/zillertal/index.html": {
 "date": "2026-10-07",
-"hash": "60bc086e505a5c55a82a3c10ecb2faf7a3e8eac6"
+"hash": "934c256086fe7a3c4289c51cee836b92faf54511"
 },
 "de/ueber-uns/index.html": {
 "date": "2026-10-06",
@@ -1917,7 +1917,7 @@
 },
 "de/umgebung/angerberg/index.html": {
 "date": "2026-10-07",
-"hash": "790894560b6c3e0cda55fa317836020d5c905c49"
+"hash": "c5d9dbc18c3c92a1286227be4f1e6206f3c447d3"
 },
 "de/umgebung/aschau-im-zillertal/index.html": {
 "date": "2026-10-06",
@@ -1993,7 +1993,7 @@
 },
 "de/umgebung/hintertux/index.html": {
 "date": "2026-10-07",
-"hash": "11c14639d958eb5091f3a788b42957f2e51cc195"
+"hash": "555c3d3ebf2ebd754a61b14e94b75e072dbce806"
 },
 "de/umgebung/hippach/index.html": {
 "date": "2026-10-06",
@@ -2005,7 +2005,7 @@
 },
 "de/umgebung/igls/index.html": {
 "date": "2026-10-07",
-"hash": "022b6585a5f38209cc3d52ebfdf928d96de09e12"
+"hash": "64540536ae4e179dcee9e3a9c4139193ddddb59e"
 },
 "de/umgebung/imst/index.html": {
 "date": "2026-10-06",
@@ -2013,7 +2013,7 @@
 },
 "de/umgebung/index.html": {
 "date": "2026-10-07",
-"hash": "235c016386c9db587d92443bafdd0f0013b714bf"
+"hash": "243fd9d81183bb26d696dc1c106bfb9c5aee55ec"
 },
 "de/umgebung/innsbruck/index.html": {
 "date": "2026-10-06",
@@ -2065,7 +2065,7 @@
 },
 "de/umgebung/krimml/index.html": {
 "date": "2026-10-07",
-"hash": "3659159f526fc353494b42ea504a99679766fa03"
+"hash": "b9f47599b20324b5c329c0e4a171cede1d89f990"
 },
 "de/umgebung/kufstein/index.html": {
 "date": "2026-10-06",
@@ -2077,7 +2077,7 @@
 },
 "de/umgebung/laengenfeld/index.html": {
 "date": "2026-10-07",
-"hash": "6a4ff9fa57e6437ffff20fba44bb0373f84e1ab2"
+"hash": "9f7fcae015f9b3022a447c9805fe94cda8ef42cf"
 },
 "de/umgebung/langkampfen/index.html": {
 "date": "2026-10-06",
@@ -2089,7 +2089,7 @@
 },
 "de/umgebung/mariastein/index.html": {
 "date": "2026-10-07",
-"hash": "2a30e48dc5f02999e3a87321970977cd3053099b"
+"hash": "f27f07ca0d09b3d2b4539d0c036ddd613629bce7"
 },
 "de/umgebung/maurach/index.html": {
 "date": "2026-10-06",
@@ -2097,7 +2097,7 @@
 },
 "de/umgebung/mayrhofen/index.html": {
 "date": "2026-10-07",
-"hash": "e4df2660f4612d7309ce6ee881770aeff6aabbf4"
+"hash": "1604afbd3c0dad4ef0e54189c71a319df5b50d1d"
 },
 "de/umgebung/muehltal/index.html": {
 "date": "2026-10-06",
@@ -2105,7 +2105,7 @@
 },
 "de/umgebung/muenster/index.html": {
 "date": "2026-10-07",
-"hash": "279574318d10fc951dc5c3a539b530ee3d004986"
+"hash": "0bddb090bcb7c2f15938b17d14bd2cf441ab38c7"
 },
 "de/umgebung/niederndorf/index.html": {
 "date": "2026-10-06",
@@ -2125,7 +2125,7 @@
 },
 "de/umgebung/radfeld/index.html": {
 "date": "2026-10-07",
-"hash": "f90ee69a0a77dae09f1a58eb99784918d24e9de7"
+"hash": "d8a44680289a6fb3997056d496fee6945b9d8a19"
 },
 "de/umgebung/ramsau-im-zillertal/index.html": {
 "date": "2026-10-06",
@@ -2145,7 +2145,7 @@
 },
 "de/umgebung/reutte/index.html": {
 "date": "2026-10-07",
-"hash": "8d706268132fbea650756c7ef426edb0f915b356"
+"hash": "ec3eff14399dd429bc03f4192db66de5ea49a056"
 },
 "de/umgebung/ried-im-zillertal/index.html": {
 "date": "2026-10-06",
@@ -2157,7 +2157,7 @@
 },
 "de/umgebung/ruhpolding/index.html": {
 "date": "2026-10-07",
-"hash": "5a4a25034c01ec0c8e46ae8b4530a51cddb096e3"
+"hash": "d0f0518fdb5b2ef697b123f77bd513e5bcdbac10"
 },
 "de/umgebung/scheffau/index.html": {
 "date": "2026-10-06",
@@ -2245,7 +2245,7 @@
 },
 "de/umgebung/zell-am-see/index.html": {
 "date": "2026-10-07",
-"hash": "1c09288d231a1bd2fc2bcc3a0648bd945ba776f2"
+"hash": "08ac2128460829ffcc5018cafcca2f4f419eb032"
 },
 "de/umgebung/zell-am-ziller/index.html": {
 "date": "2026-10-07",
@@ -2253,27 +2253,27 @@
 },
 "de/veranstaltungen/almabtrieb-auffach-2027/index.html": {
 "date": "2026-10-07",
-"hash": "d3cc9dfdfba495974bc54edfc621c241cc4cd8ef"
+"hash": "ebd4d332b15a13714c8c1c86bf8d3d69ac4ababf"
 },
 "de/veranstaltungen/hahnenkammrennen-kitzbuehel-2027/index.html": {
 "date": "2026-10-07",
-"hash": "6ef59d15f8b370bd9ae31f4d568a30fd6eadebf8"
+"hash": "8a742cff13930100026a96fb86574273461b54d4"
 },
 "de/veranstaltungen/index.html": {
 "date": "2026-10-07",
-"hash": "db07788c02a4e5fc91ddb5e089f2a5421e27a036"
+"hash": "90d1e502b150b706373be3ce38574b76179c78fc"
 },
 "de/veranstaltungen/krautingerwoche-wildschoenau/index.html": {
 "date": "2026-10-07",
-"hash": "61369c9ec4a4c09ae2e20fad7f93bed27c7cd04c"
+"hash": "9c165bafda29dccb790b8e8512c24db4c47c6c8e"
 },
 "de/veranstaltungen/saisonstart-ski-juwel-2026-27/index.html": {
 "date": "2026-10-07",
-"hash": "5555ebbb96958c2a3cc81d23e11004529b99b730"
+"hash": "f5f7c7906d62b24f011c5bf53513ada5f3c002e7"
 },
 "de/veranstaltungen/wildschoenauer-talfest-2027/index.html": {
 "date": "2026-10-07",
-"hash": "14f2363fb83fba9bee8c5863b86dd265233be5ab"
+"hash": "2f8ee89aa17c0cf5a3aa75f1e8c1420139579d3c"
 },
 "en/about/index.html": {
 "date": "2026-10-06",
@@ -2993,11 +2993,11 @@
 },
 "en/activities/index.html": {
 "date": "2026-10-07",
-"hash": "fb9da2395c04d7b510b52ded93d806fad31a01d3"
+"hash": "80141256fa7bad54be1de09f60d168b912b024bd"
 },
 "en/activities/rainy-day/index.html": {
 "date": "2026-10-07",
-"hash": "f8c997cb1d9599aa57adb290bf4146b14be3ff4e"
+"hash": "13cd341ca1db85e86811bd62fd83cc2237b51f1f"
 },
 "en/activities/skiing/children-ski-school-auffach/index.html": {
 "date": "2026-10-06",
@@ -3017,7 +3017,7 @@
 },
 "en/activities/summer/index.html": {
 "date": "2026-10-07",
-"hash": "8f53637880a454c89534134fa6e2d93e7571cdd8"
+"hash": "0df31bb4a6ce2b13595a6d625f6962bd86054e10"
 },
 "en/activities/swimming/achensee-swimming-pertisau/index.html": {
 "date": "2026-10-06",
@@ -3149,11 +3149,11 @@
 },
 "en/activities/winter/index.html": {
 "date": "2026-10-07",
-"hash": "b79643cb380d7267ffdd9277331fc3dcc8cf4b67"
+"hash": "7d48691e6827d124ddc9d8e8474c05fa4fb6cd5d"
 },
 "en/activities/with-kids/index.html": {
 "date": "2026-10-07",
-"hash": "5ca26c0a20ff50cb297bb0d6ed7bb6910ba88acf"
+"hash": "3eac90ecd7a1d771d278cde0bafa3d95706d92e4"
 },
 "en/activities/workshops/index.html": {
 "date": "2026-10-06",
@@ -3161,107 +3161,107 @@
 },
 "en/events/almabtrieb-auffach-2027/index.html": {
 "date": "2026-10-07",
-"hash": "cc862d9cbf1f6a6f1447f97250001369f66e5423"
+"hash": "48842749ae4239bc866572f0437f6c77ddfaec32"
 },
 "en/events/hahnenkamm-races-kitzbuehel-2027/index.html": {
 "date": "2026-10-07",
-"hash": "90dbd1287226710cfe043e796983b46b21504a21"
+"hash": "13f8ea13f9f041cb1061acada5afaf8762e8abcb"
 },
 "en/events/index.html": {
 "date": "2026-10-07",
-"hash": "dda33b264098e2075a8c0c6358c274d9620a605a"
+"hash": "df08bf6474560add5fb948e116c8ce9cf99a3d19"
 },
 "en/events/krautinger-week-wildschoenau/index.html": {
 "date": "2026-10-07",
-"hash": "ae60d8598d565300a47bac641f114e4fcb82495d"
+"hash": "51653bc4093258dbb5144b111b30e4a2cfcd2829"
 },
 "en/events/ski-juwel-season-opening-2026-27/index.html": {
 "date": "2026-10-07",
-"hash": "2b42f9f53b98659c030a5b99c927c50673d5cb41"
+"hash": "4a568dd6580dfc824cc430c6fc1a7b72a5c04701"
 },
 "en/events/wildschoenau-valley-festival-2027/index.html": {
 "date": "2026-10-07",
-"hash": "991d720cfaace109c8577433f4fa04ff02898383"
+"hash": "2ca762fd10a36cbcb7079f694a0cbea8a2c74b32"
 },
 "en/guides/a-week-in-niederau-summer/index.html": {
 "date": "2026-10-07",
-"hash": "7478ea4787c4229f61eecab5d6d0a0f728f5c8ef"
+"hash": "c8c4e6c462088a98bf4a763a55c9deef2a2d4421"
 },
 "en/guides/a-week-in-niederau-winter/index.html": {
 "date": "2026-10-07",
-"hash": "fa8fcce53e620fdeea6df3ca5cdf760d8bcd393b"
+"hash": "5f073f481d3474dabb4b4d335f33fc0e7c1582dc"
 },
 "en/guides/choosing-accommodation/index.html": {
 "date": "2026-10-07",
-"hash": "61f9666ffffacd9df17aad87336fbca749b80c49"
+"hash": "19e86b92a32c387df4cd669989a9808807673a51"
 },
 "en/guides/cross-country-skiing-and-winter-walking/index.html": {
 "date": "2026-10-07",
-"hash": "09f1d40dd5702ab1241dae6bb3c57c2312c27ccd"
+"hash": "a877c15e4829dda6781e1fb25df9b8e01efcba5f"
 },
 "en/guides/cycling-and-mountain-biking/index.html": {
 "date": "2026-10-07",
-"hash": "d5d61487787c869cf2c477ac939472b5e26cd20b"
+"hash": "d1cff750384da39cd32a133684f03cd629ef7d53"
 },
 "en/guides/day-trips-from-niederau/index.html": {
 "date": "2026-10-07",
-"hash": "ace04305ca269bfacc365e09b1bd9195bd1fce29"
+"hash": "248c905e984cef1ffb5433959d8aa792414e6e30"
 },
 "en/guides/food-and-drink/index.html": {
 "date": "2026-10-07",
-"hash": "842bc007c14b91439d4d283f168827f797a8ce29"
+"hash": "f5813386cbd4ea327b26d032ef3fb49178ec5e72"
 },
 "en/guides/getting-to-niederau/index.html": {
 "date": "2026-10-07",
-"hash": "b8b92d76682aa115c1d9f9199acbb21ea17950e4"
+"hash": "6b9006017c6268a8380adad1886105c84ca90b59"
 },
 "en/guides/hiking-routes-wildschoenau/index.html": {
 "date": "2026-10-07",
-"hash": "722b79707e195cff913feb574f3c4318ec8cd067"
+"hash": "faab76a82bbe828104226e81036a351fc688517f"
 },
 "en/guides/holiday-with-your-dog/index.html": {
 "date": "2026-10-07",
-"hash": "764d8bad6053e7c5f8897a258405faf07bb9bb75"
+"hash": "36aa6cd1d42723ce2d9e1462373abe0915456ed7"
 },
 "en/guides/horse-riding-and-bringing-your-horse/index.html": {
 "date": "2026-10-07",
-"hash": "fb84e5a0aa1d14335741026e81f17d3aed4c5f23"
+"hash": "77432f8692053f801f5dc324822e9bd5437d9238"
 },
 "en/guides/index.html": {
 "date": "2026-10-07",
-"hash": "59380feb74baa0a32041f852c9e3494354b87d51"
+"hash": "35d7e778fe022bc5fbf5f3530f59c552bbf8c35a"
 },
 "en/guides/safe-in-the-mountains/index.html": {
 "date": "2026-10-07",
-"hash": "a92f6f1deb41448a69f3034b357088654f347c84"
+"hash": "d9d25237413f4c7ae18caaebd35815d192d000fa"
 },
 "en/guides/ski-juwel-ski-area/index.html": {
 "date": "2026-10-07",
-"hash": "a6e85e1573089d5abe26b10cf72e675dbf425c64"
+"hash": "4479705514e5f7524eec715ad8139db413efc35c"
 },
 "en/guides/skiing-with-kids/index.html": {
 "date": "2026-10-07",
-"hash": "d32d3dff94e6f66e84e3aa1bb531880357bde417"
+"hash": "b0264c7476885ba4d452b8176f6d8bb46aafce70"
 },
 "en/guides/swimming-and-lakes/index.html": {
 "date": "2026-10-07",
-"hash": "945e33b6333f716b9cb29bb87131cdc27d5da75a"
+"hash": "11b18d572ba9e9e8c797d9c0c27070167fe88700"
 },
 "en/guides/toboggan-runs-wildschoenau/index.html": {
 "date": "2026-10-07",
-"hash": "00ae3de1d9043be8fa385b379c046dee2a4a8e52"
+"hash": "29ae4a35627c0e64cab0575814cada6770c2bcc5"
 },
 "en/guides/when-to-visit/index.html": {
 "date": "2026-10-07",
-"hash": "9e973a258062daa8664756b0878f8f4a67cf10c4"
+"hash": "5bfca9b16cbd069abaf747dd76440110ce76fbfb"
 },
 "en/guides/wildschoenau-card/index.html": {
 "date": "2026-10-07",
-"hash": "5b29d900caa7d4766c0043bf8348ac890332db1c"
+"hash": "67375509c4d8567e7efdc3a9a9f789f5e0e04c71"
 },
 "en/guides/wildschoenau-villages-compared/index.html": {
 "date": "2026-10-07",
-"hash": "1750bea67b976cd2b1f9ada7c8f4c158ffb36409"
+"hash": "b60ac767d3edb1da29b6e77e93165240bef25814"
 },
 "en/index.html": {
 "date": "2026-10-06",
@@ -3285,7 +3285,7 @@
 },
 "en/nearby/angerberg/index.html": {
 "date": "2026-10-07",
-"hash": "924fb2b13b133c20cf731d600a9db2005e6750c3"
+"hash": "506266279c8a9f225131b6cc68cf9cb533bb82e2"
 },
 "en/nearby/aschau-im-zillertal/index.html": {
 "date": "2026-10-06",
@@ -3361,7 +3361,7 @@
 },
 "en/nearby/hintertux/index.html": {
 "date": "2026-10-07",
-"hash": "9143661ec6f4a3f29a38df3d3a49e370855c06d3"
+"hash": "4575c8b1b27f658e8216aa422eda691da398c125"
 },
 "en/nearby/hippach/index.html": {
 "date": "2026-10-06",
@@ -3373,7 +3373,7 @@
 },
 "en/nearby/igls/index.html": {
 "date": "2026-10-07",
-"hash": "6d6e0f7621ff0b1b997715722850ca85894fe886"
+"hash": "1f22812bb0fae2a55736efc3e3e1433147ef3a78"
 },
 "en/nearby/imst/index.html": {
 "date": "2026-10-06",
@@ -3381,7 +3381,7 @@
 },
 "en/nearby/index.html": {
 "date": "2026-10-07",
-"hash": "345b2c17310a4cd3e4b2168387c69b8d0a179310"
+"hash": "63a3f5f8e09228402f35eb4d1725ede0e010ed57"
 },
 "en/nearby/innsbruck/index.html": {
 "date": "2026-10-06",
@@ -3433,7 +3433,7 @@
 },
 "en/nearby/krimml/index.html": {
 "date": "2026-10-07",
-"hash": "0a0a4481955c48a58fad19deab5268818c5f28ce"
+"hash": "1155d86b34bb2e20ba8335890f7f2e181be9ab55"
 },
 "en/nearby/kufstein/index.html": {
 "date": "2026-10-06",
@@ -3445,7 +3445,7 @@
 },
 "en/nearby/laengenfeld/index.html": {
 "date": "2026-10-07",
-"hash": "345eef259bd0446a50dea33356b889c7959b8e0d"
+"hash": "88a780f0ce51b4eab740b31161a2ffe2c192964f"
 },
 "en/nearby/langkampfen/index.html": {
 "date": "2026-10-06",
@@ -3457,7 +3457,7 @@
 },
 "en/nearby/mariastein/index.html": {
 "date": "2026-10-07",
-"hash": "b18c017ceabed66b1cad5e4fb217d415d1408740"
+"hash": "73b27323db6cfe9f97fbf22254cdd5a5f1716099"
 },
 "en/nearby/maurach/index.html": {
 "date": "2026-10-06",
@@ -3465,7 +3465,7 @@
 },
 "en/nearby/mayrhofen/index.html": {
 "date": "2026-10-07",
-"hash": "8a7a5f181ccbc5e3a6a370ec5115c1301b808f7d"
+"hash": "870e308b7c056988f8ce49e9e16592e9cc392cbc"
 },
 "en/nearby/muehltal/index.html": {
 "date": "2026-10-06",
@@ -3473,7 +3473,7 @@
 },
 "en/nearby/muenster/index.html": {
 "date": "2026-10-07",
-"hash": "88dcc05d396b6b113d027b6544d7aff241733cd3"
+"hash": "b05a0f5d22df0059311c97c33fb466df1dc847da"
 },
 "en/nearby/niederndorf/index.html": {
 "date": "2026-10-06",
@@ -3493,7 +3493,7 @@
 },
 "en/nearby/radfeld/index.html": {
 "date": "2026-10-07",
-"hash": "706b3ce91ead43f5844d68e7501166a45be4b464"
+"hash": "67af95414a20207da475a69af057932d634e7ffb"
 },
 "en/nearby/ramsau-im-zillertal/index.html": {
 "date": "2026-10-06",
@@ -3513,7 +3513,7 @@
 },
 "en/nearby/reutte/index.html": {
 "date": "2026-10-07",
-"hash": "c60918039d0c4e1ccc33a69815ba7917e34a0d45"
+"hash": "58268efac4afecee712380d961a1bc25e7966971"
 },
 "en/nearby/ried-im-zillertal/index.html": {
 "date": "2026-10-06",
@@ -3525,7 +3525,7 @@
 },
 "en/nearby/ruhpolding/index.html": {
 "date": "2026-10-07",
-"hash": "daa04fd4db47e71d5f4cb152fc9c10711bb5358b"
+"hash": "7963038726c55946730745819d0236718b40fc79"
 },
 "en/nearby/scheffau/index.html": {
 "date": "2026-10-06",
@@ -3613,7 +3613,7 @@
 },
 "en/nearby/zell-am-see/index.html": {
 "date": "2026-10-07",
-"hash": "b4130f5096fb0bcc62ce4bb26b86fa5638aa6e32"
+"hash": "9dd6133bac2d076df5dc1e39df41c4affd8b1935"
 },
 "en/nearby/zell-am-ziller/index.html": {
 "date": "2026-10-07",
@@ -3625,19 +3625,19 @@
 },
 "en/region/alpbachtal/index.html": {
 "date": "2026-10-07",
-"hash": "b810640a410eba5bf0ed467b4f73a65b38c470e5"
+"hash": "32336ae591c81300803064becccb458da06c15d7"
 },
 "en/region/brixental/index.html": {
 "date": "2026-10-07",
-"hash": "a475c37165604df017c142c21e29c44f2cb3c9ef"
+"hash": "c78331f8d2739e921822eb5bd0f82b9175969f49"
 },
 "en/region/inntal/index.html": {
 "date": "2026-10-07",
-"hash": "4e63d5681857b9acd245c1758175e39c48848462"
+"hash": "e57048811e7208e3d68f9c79db43dc46318f3197"
 },
 "en/region/kufsteinerland/index.html": {
 "date": "2026-10-07",
-"hash": "0f1b510e12de915fa7041f87974045b8e4f93435"
+"hash": "34e5abc639282fd8d6c279d2aab16885256bc795"
 },
 "en/region/wildschoenau/index.html": {
 "date": "2026-10-06",
@@ -3645,7 +3645,7 @@
 },
 "en/region/zillertal/index.html": {
 "date": "2026-10-07",
-"hash": "805400eef869277f198f25fd0fbf22766c7d9c59"
+"hash": "3e7da9c98a500711e40a9accc8e072f4c7221a05"
 },
 "fotos/index.html": {
 "date": "2026-10-06",
@@ -3653,83 +3653,83 @@
 },
 "gids/accommodatie-kiezen/index.html": {
 "date": "2026-10-07",
-"hash": "cd0ea95d7ee9d557f632278af7b837526c0a857f"
+"hash": "4a0553cd78f0bb36334bb196fca738610059a275"
 },
 "gids/dagtochten-vanuit-niederau/index.html": {
 "date": "2026-10-07",
-"hash": "d2a6bf1785caa24f14c74013274d3a3b0bc63d3d"
+"hash": "dc03d18f0d9a06af1272eaebc86067777315f07f"
 },
 "gids/een-week-in-niederau-winter/index.html": {
 "date": "2026-10-07",
-"hash": "518da001da6910c5ee411d5cc68b0906885c06e1"
+"hash": "1af0723ba7fff14521e84bd0858133a07c956061"
 },
 "gids/een-week-in-niederau-zomer/index.html": {
 "date": "2026-10-07",
-"hash": "a470dbfa5003b4e721b72d54102f3081fc293285"
+"hash": "9eb713611237071cc23fd839262067a5a4c41a54"
 },
 "gids/eten-en-drinken/index.html": {
 "date": "2026-10-07",
-"hash": "01ca8f7a1e0195620e359fde2ee3f636a29d5aba"
+"hash": "8c834c13f30197fce2dc4afe73e710b48d77dd65"
 },
 "gids/fietsen-en-mountainbiken/index.html": {
 "date": "2026-10-07",
-"hash": "d14aaeb56d84d53feb59b40b5855ef3efc9f2445"
+"hash": "541b069cad96dd5e445a7a34576f5763746a7409"
 },
 "gids/index.html": {
 "date": "2026-10-07",
-"hash": "f59ba76612e5f9b6e4b3b8b5de91ee52a7e92a98"
+"hash": "3457591a483573d2c4ff7d00b3becc003ed23465"
 },
 "gids/langlaufen-en-winterwandelen/index.html": {
 "date": "2026-10-07",
-"hash": "00085542541257d6b5c9ef867fa7a67cd11d0c99"
+"hash": "c1219f5d05694a4aeb13685bda284e533798e0d7"
 },
 "gids/met-je-hond-op-vakantie/index.html": {
 "date": "2026-10-07",
-"hash": "94673796c2c543e05ef56f2843038732f147050f"
+"hash": "b3875763644e8836831166b9dbee226c205e3dd0"
 },
 "gids/paardrijden-en-paard-meenemen/index.html": {
 "date": "2026-10-07",
-"hash": "978dd28be259f744de56b105c8166a5fdc059105"
+"hash": "43cfee69513a994ffce3066181a0ec24b02a4817"
 },
 "gids/reizen-naar-niederau/index.html": {
 "date": "2026-10-07",
-"hash": "7780fb8d6908841dd15ed9800205094761396ec4"
+"hash": "d6de3a4e39b09fbeef1b823d44dff553673cc81a"
 },
 "gids/rodelbanen-wildschonau/index.html": {
 "date": "2026-10-07",
-"hash": "a69244fd0ef8474564f495bcc20c3add4c9e6a19"
+"hash": "a5768bf3931c54a459267513631c85f5ff6a3abb"
 },
 "gids/ski-juwel-skigebied/index.html": {
 "date": "2026-10-07",
-"hash": "3e73905c76f77d3b50782a1de5347f8c29233856"
+"hash": "ca811a7cf85022aa39e773d2012d290bd2d48823"
 },
 "gids/skien-met-kinderen/index.html": {
 "date": "2026-10-07",
-"hash": "c2e116144d59838aeca8482930289feeeeae964b"
+"hash": "becec2d7bc726ec7ca7e7662f9b37f1db2cb2983"
 },
 "gids/veilig-in-de-bergen/index.html": {
 "date": "2026-10-07",
-"hash": "55fb240d21c1d63d861f876198dd844ab4ce6584"
+"hash": "89c771ad4234c348d4a7c1f64758fe69d8c040fc"
 },
 "gids/wandelroutes-wildschonau/index.html": {
 "date": "2026-10-07",
-"hash": "e0f6b6c93cab809311c3c02d99c36d0538b85587"
+"hash": "b3e1fb94c689acc783092aecf90c2747f14fef56"
 },
 "gids/wanneer-naar-niederau/index.html": {
 "date": "2026-10-07",
-"hash": "244b1ea707acef24683b80c591b55c015d5a4f10"
+"hash": "4e637516061919109fc664e7ada9abec5b9d767b"
 },
 "gids/wildschonau-card/index.html": {
 "date": "2026-10-07",
-"hash": "b6e3ebbcf9cf06ad8b2dcf162566f22c70520852"
+"hash": "e563211a8c7380f0b870bc50553df5bb8e64da36"
 },
 "gids/wildschonau-dorpen-vergeleken/index.html": {
 "date": "2026-10-07",
-"hash": "1d2d968eba528e9bc6809c8af5083900d853a5a8"
+"hash": "e037395268694853aed831ce0e6d102344d3cb7c"
 },
 "gids/zwemmen-en-meren/index.html": {
 "date": "2026-10-07",
-"hash": "a18ffbdb0a0fa88c2090c1f5c989df1ad5c35ca0"
+"hash": "dad6ab0aba3fbf66e2e5d99410e72467ac3fadf4"
 },
 "index.html": {
 "date": "2026-10-06",
@@ -3753,7 +3753,7 @@
 },
 "omgeving/angerberg/index.html": {
 "date": "2026-10-07",
-"hash": "ace9244fa2ba50be9669318dac68dbd00890d106"
+"hash": "c70a16440cc8a227206defb64107e72882dc04af"
 },
 "omgeving/aschau-im-zillertal/index.html": {
 "date": "2026-10-06",
@@ -3829,7 +3829,7 @@
 },
 "omgeving/hintertux/index.html": {
 "date": "2026-10-07",
-"hash": "a38f5e8da03c821ff1cb91de636c00d9d812e951"
+"hash": "b4c30169854acf5e1b00e7ae3bad0a3ef6d1739c"
 },
 "omgeving/hippach/index.html": {
 "date": "2026-10-06",
@@ -3841,7 +3841,7 @@
 },
 "omgeving/igls/index.html": {
 "date": "2026-10-07",
-"hash": "70d6b590b36881767291ddf874d1d3ee00f642cc"
+"hash": "4437363b772e034c273be780715060d033729991"
 },
 "omgeving/imst/index.html": {
 "date": "2026-10-06",
@@ -3849,7 +3849,7 @@
 },
 "omgeving/index.html": {
 "date": "2026-10-07",
-"hash": "de9bd06108ae2989ad48d3a17ae6f32b5f861e06"
+"hash": "66a65e73564a9539fed7f2d02eeb3adb44635e07"
 },
 "omgeving/innsbruck/index.html": {
 "date": "2026-10-06",
@@ -3901,7 +3901,7 @@
 },
 "omgeving/krimml/index.html": {
 "date": "2026-10-07",
-"hash": "2de90a673c90060705ecb4c07f52ca86c79061f5"
+"hash": "11ca3fc42dbce36fc861b1f064cdf0e3c0616c79"
 },
 "omgeving/kufstein/index.html": {
 "date": "2026-10-06",
@@ -3913,7 +3913,7 @@
 },
 "omgeving/laengenfeld/index.html": {
 "date": "2026-10-07",
-"hash": "6929a48cb4dbc60e07c71007b6f258973b5428cb"
+"hash": "28e43d7a16fcd178708bed484f18f9f4cfc85f76"
 },
 "omgeving/langkampfen/index.html": {
 "date": "2026-10-06",
@@ -3925,7 +3925,7 @@
 },
 "omgeving/mariastein/index.html": {
 "date": "2026-10-07",
-"hash": "277a2c2724931ca8cfdc2e3e66658dda5b0e7bd7"
+"hash": "91ded0ffbfbbb7129bb6c0a084d33f921619f541"
 },
 "omgeving/maurach/index.html": {
 "date": "2026-10-06",
@@ -3933,7 +3933,7 @@
 },
 "omgeving/mayrhofen/index.html": {
 "date": "2026-10-07",
-"hash": "e75bf069ae0fdaf44e6bdaf0ba63d1d7b1471aef"
+"hash": "a049dbfa1bc7709619457f43cb2b157d3f13a4c6"
 },
 "omgeving/muehltal/index.html": {
 "date": "2026-10-06",
@@ -3941,7 +3941,7 @@
 },
 "omgeving/muenster/index.html": {
 "date": "2026-10-07",
-"hash": "89d9f0842ce4c218416d267c5506112c8de370cd"
+"hash": "dbeadf977a6f57de4f84fe0e0c080370abf37b67"
 },
 "omgeving/niederndorf/index.html": {
 "date": "2026-10-06",
@@ -3961,7 +3961,7 @@
 },
 "omgeving/radfeld/index.html": {
 "date": "2026-10-07",
-"hash": "4de3ed4a3ef6ab2219be8598e0f03466ab8836d5"
+"hash": "0e660d73d1d64de7520f217b4f2da33e3c80475b"
 },
 "omgeving/ramsau-im-zillertal/index.html": {
 "date": "2026-10-06",
@@ -3981,7 +3981,7 @@
 },
 "omgeving/reutte/index.html": {
 "date": "2026-10-07",
-"hash": "08756a2a2111cf53b538423e07d20ec9f245f5b1"
+"hash": "cab7a1230cad0f80bc2924d6a2374255f546f423"
 },
 "omgeving/ried-im-zillertal/index.html": {
 "date": "2026-10-06",
@@ -3993,7 +3993,7 @@
 },
 "omgeving/ruhpolding/index.html": {
 "date": "2026-10-07",
-"hash": "d37c04301422ef4864492ecacb83e12129bd435f"
+"hash": "b9b80503aa1488412f9789a5fb3a7260a203c691"
 },
 "omgeving/scheffau/index.html": {
 "date": "2026-10-06",
@@ -4081,7 +4081,7 @@
 },
 "omgeving/zell-am-see/index.html": {
 "date": "2026-10-07",
-"hash": "266673f8a1fa25fc1030d2094d3960bbcd7fc6fb"
+"hash": "58f13432bfd5929ed7bd39eeedb1eda831891f04"
 },
 "omgeving/zell-am-ziller/index.html": {
 "date": "2026-10-07",
@@ -4093,19 +4093,19 @@
 },
 "regio/alpbachtal/index.html": {
 "date": "2026-10-07",
-"hash": "e417532711df27cdb45b41c360e348174ddb792f"
+"hash": "9f4091a32465a7be14e0c0714ad4f72e5a896b5a"
 },
 "regio/brixental/index.html": {
 "date": "2026-10-07",
-"hash": "f053c9154badbad079073a86e63240ce21700c06"
+"hash": "cbbef3b47a7ec6ff8c2f94e66ad3d0209bacaaa9"
 },
 "regio/inntal/index.html": {
 "date": "2026-10-07",
-"hash": "403e3f8857229863f7752c9cc061a438ee5a018b"
+"hash": "e22d1c52e7fed8529f76663ca32cc3d1f4f71587"
 },
 "regio/kufsteinerland/index.html": {
 "date": "2026-10-07",
-"hash": "7eb3b752c27534438a3294d8ce1685ea21b030ca"
+"hash": "1ca152884153bffb269cdddd44f7b866818cba4a"
 },
 "regio/wildschoenau/index.html": {
 "date": "2026-10-06",
@@ -4113,6 +4113,6 @@
 },
 "regio/zillertal/index.html": {
 "date": "2026-10-07",
-"hash": "2f5f1142cca7f5b8508f62e2239a28859b0e1b2b"
+"hash": "de6dba6d880970d6dcb1968a2804be2e889aad8f"
 }
 }
