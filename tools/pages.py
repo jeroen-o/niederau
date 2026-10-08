@@ -544,7 +544,7 @@ def build_place(p):
             sib_h = f'<section class="alt"><div class="wrap"><h2>{ui("more_region", lang)} {e(reg_name)}</h2>' + card_list([(L(x["name"], lang), L(x.get("tagline", {}), lang), u_place(x, lang), "") for x in sib], lang) + f'<p><a href="{u_region(p["region"], lang)}">{e(reg_name)} →</a></p></div></section>' if reg else ""
         body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{e(reg_name)}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(p.get("tagline", {}), lang))}</p>{intro}{link}</div>
-<div>{facts}{photo_html(PLACE_PHOTO.get(p["slug"], ""), lang) if PLACE_PHOTO.get(p["slug"]) else gen_fig("place:" + p["slug"], lang)}</div></div></section>
+<div>{facts}{photo_html(PLACE_PHOTO.get(p["slug"], ""), lang) if PLACE_PHOTO.get(p["slug"]) else gen_fig("place:" + p["slug"], lang)}{hist_link(p, lang)}</div></div></section>
 <section class="alt"><div class="wrap split" style="align-items:start"><div>{hl_h}</div><div>{gt_h}<p class="note">{ui("check", lang)}</p></div></div></section>
 {act_h}{faq_s}{sib_h}{guides_block(lang, PLACE_GUIDES)}'''
         desc = (L(p.get("tagline", {}), lang) + " " + " ".join(paras(L(p.get("intro", {}), lang)))[:170]).strip()[:300]
@@ -908,6 +908,14 @@ PHOTOS_PG = {
   "hotel": ("Foto’s die onze partner Hotel Wastlhof beschikbaar stelde. Hartelijk dank voor het gebruik van de beelden.", "Photos kindly provided by our partner Hotel Wastlhof. Many thanks for the use of the images.", "Fotos, die unser Partner Hotel Wastlhof zur Verfügung gestellt hat. Herzlichen Dank für die Nutzung der Bilder.")},
  "dlg": {"label": ("Fotogalerij", "Photo gallery", "Fotogalerie"), "close": ("Sluiten", "Close", "Schließen"), "prev": ("Vorige foto", "Previous photo", "Vorheriges Foto"), "next": ("Volgende foto", "Next photo", "Nächstes Foto")},
 }
+# historische foto's per plaats (zoekpagina in de Facebookgroep ‘Kufstein in alten Bildern’)
+PLACE_HIST = {"oberau": "https://www.facebook.com/groups/303360183680431/search/?q=oberau"}
+HIST_LINK = {"nl": "Historische foto’s van {n} (Facebookgroep ‘Kufstein in alten Bildern’)", "en": "Historic photos of {n} (Facebook group ‘Kufstein in alten Bildern’)", "de": "Historische Fotos von {n} (Facebook-Gruppe ‘Kufstein in alten Bildern’)"}
+def hist_link(p, lang):
+    u = PLACE_HIST.get(p["slug"])
+    if not u: return ""
+    return f'<p class="hist-link"><a href="{u}" rel="noopener" target="_blank">{e(HIST_LINK[lang].format(n=L(p["name"], lang)))} →</a></p>'
+
 def linksrc(s):
     return s.replace("Kufstein in alten Bildern", '<a href="https://www.facebook.com/groups/303360183680431/search/?q=niederau" rel="noopener" target="_blank">Kufstein in alten Bildern</a>')
 def u_photos(lang): return f"/{PREFIX[lang]}{PHOTOS_PG['slug'][LANGS.index(lang)]}/"

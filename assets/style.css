@@ -336,3 +336,4 @@ html.js .searchbar { display: block; }
 html.js .search-btn { display: inline-flex; }
 @media (max-width: 1400px) { .search-btn { margin-left: 4px; flex: none; } }
 @media print { .search-btn { display: none !important; } }
+.hist-link { margin-top: 14px; font-size: .95rem; }
