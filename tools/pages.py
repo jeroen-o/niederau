@@ -135,8 +135,8 @@ def photo_html(f, lang):
     return ""
 
 # ---------- sfeerbeelden voor pagina's zonder eigen foto ----------
-GEN_BLOCK = ("historisch", "wastlhof", "familiealbum", "kind-slee", "skischool", "hart-", "sleeen", "skier-reeks", "bier", "ski-balkon", "uithangbord", "golf", "tuber", "tubing", "rivier", "kikkerkoning", "houtstapel", "smeedijzer", "opgezette", "konijn", "paard", "kerk-", "boomplatform", "meer-", "stoeltjeslift-meer", "kabelbaanmast", "stuwmeer", "mountaincarts", "koeien", "wandelweg-mist", "berghelling-regenjas", "ijsgrot", "kufstein", "inntal", "kinderclub", "jausenstation", "klimpark", "sneeuwval-avond", "talfest", "krautinger", "koets", "kinderen",
-             "tiroler-kaiserschmarrn", "sterrenhemel", "boerderijdieren", "brettljause", "fuchsia", "rodelen-avond", "alpbachtal-wildschoenau-familie", "skipauze", "springkussen", "openluchtbad-glijbaan", "snowboarder", "mountainbikers", "wandelen-gezin", "sneeuwschoenwandelen", "paragliden-startplaats", "rodelbaan-gras", "wandelaars-alm", "premium-card")
+GEN_BLOCK = ("historisch", "wastlhof", "familiealbum", "hart-", "bier", "ski-balkon", "uithangbord", "golf", "kikkerkoning", "houtstapel", "smeedijzer", "opgezette", "konijn", "paard", "kerk-", "boomplatform", "meer-", "stoeltjeslift-meer", "kabelbaanmast", "stuwmeer", "mountaincarts", "koeien", "wandelweg-mist", "berghelling-regenjas", "ijsgrot", "kufstein", "inntal", "kinderclub", "jausenstation", "klimpark", "sneeuwval-avond", "talfest", "krautinger", "koets",
+             "tiroler-kaiserschmarrn", "sterrenhemel", "boerderijdieren", "brettljause", "fuchsia", "premium-card", "detail-", "volksschule", "caravans", "steiger", "koe-portret", "klein")
 GEN_WINTER = ("winter", "piste", "sneeuw", "ski", "sleeplift", "rodelbaan-bergzicht", "lanerk", "langlauf", "markbachjochbahn-gondel")
 _POOLS = {}
 _RR = {"winter": 0, "summer": 0}
@@ -147,7 +147,7 @@ def gen_pool(season):
         for f, al, kw, h in PHOTOS:
             if any(b in f for b in GEN_BLOCK): continue
             w, hh = img_dims(f)
-            if w < 700: continue
+            if w < 700 or w > 2.2 * hh: continue
             pools["winter" if any(k in f for k in GEN_WINTER) else "summer"].append(f)
         _POOLS.update(pools)
     return _POOLS[season]
@@ -176,7 +176,7 @@ def gen_fig(key, lang, season=None):
     if season: return gen_one(gen_pick(key, season), lang)
     return "".join(gen_one(gen_pick(key, s), lang, f' data-only="{s}"') for s in ("winter", "summer"))
 
-PLACE_PHOTO = {"mayrhofen": "niederau-zomer-kabelbaanmast-dorp-dal", "fuegen": "niederau-herfst-mountaincarts-bergweg", "kufstein": "kufstein-vesting-gekleurde-huizen-inn", "oberau": "oberau-wildschoenau-winter", "thierbach": "thierbach-wildschoenau-sneeuwschoenwandelen", "auffach": "auffach-wildschoenau-e-bike", "muehltal": "muehltal-herfst-wandelen-gezin"}
+PLACE_PHOTO = {"thierbach": "thierbach-volksschule-gebouw", "mayrhofen": "niederau-zomer-kabelbaanmast-dorp-dal", "fuegen": "niederau-herfst-mountaincarts-bergweg", "kufstein": "kufstein-vesting-gekleurde-huizen-inn", "oberau": "oberau-wildschoenau-winter", "auffach": "auffach-wildschoenau-e-bike", "muehltal": "muehltal-herfst-wandelen-gezin"}
 REGION_PHOTO = {"zillertal": "niederau-zomer-hart-lintjes-stuwmeer", "wildschoenau": "niederau-wildschoenau-pistes-liften-winter"}
 
 # thema-afbeeldingen (bestaande eigen/hotelfoto's) met beschrijvende alt
