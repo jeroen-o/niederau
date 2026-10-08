@@ -99,7 +99,11 @@ def is_local(a):
     return a.get("place") in LOCAL_PLACES or (not a.get("place") and any(w in text for w in LOCAL_WORDS))
 
 ACT_PHOTO = {"n-monsterroller-spieljoch": "niederau-herfst-mountaincarts-bergweg", "s172": "kufstein-vesting-gekleurde-huizen-inn", "w31": "kufstein-vesting-gekleurde-huizen-inn", "s218": "inntal-fietspad-langs-de-inn"}
+GOLF_PHOTOS = ["niederau-zomer-golfer-swing-kasteel", "niederau-zomer-golfbaan-grasvallei-bomen"]
 def photo_for(a):
+    if a.get("theme") == "golf":
+        f = GOLF_PHOTOS[sum(map(ord, a["id"])) % 2]
+        return next((ff, alts, h) for ff, alts, _k, h in PHOTOS if ff == f)
     if a["id"] in ACT_PHOTO:
         f = ACT_PHOTO[a["id"]]
         return next((ff, alts, h) for ff, alts, _k, h in PHOTOS if ff == f)
@@ -124,7 +128,7 @@ def photo_for(a):
 
 def photo_html(f, lang):
     for ff, alts, _k, h in PHOTOS:
-        if ff == f: return f'<img class="side-img" src="/assets/img/{f}.webp" width="1000" height="667" loading="lazy" alt="{e(alts[LANGS.index(lang)])}">'
+        if ff == f: return f'<img class="side-img" src="/assets/img/{f}.webp" width="{img_dims(f)[0]}" height="{img_dims(f)[1]}" loading="lazy" alt="{e(alts[LANGS.index(lang)])}">'
     return ""
 
 # ---------- sfeerbeelden voor pagina's zonder eigen foto ----------
@@ -174,6 +178,7 @@ REGION_PHOTO = {"zillertal": "niederau-zomer-hart-lintjes-stuwmeer", "wildschoen
 
 # thema-afbeeldingen (bestaande eigen/hotelfoto's) met beschrijvende alt
 THEME_IMG = {
+ "golf": ("niederau-zomer-golfbaan-grasvallei-bomen", ("Heuvelachtige golfbaan met een pad tussen bomen onder een blauwe lucht", "Rolling golf course with a path between trees under a blue sky", "Hügeliger Golfplatz mit einem Weg zwischen Bäumen unter blauem Himmel")),
  "wandelen": ("wildschoenau-wandelpad-alm", ("Wandelpad door de weiden naar een alm", "Footpath through the meadows to an alpine hut", "Wanderweg über die Wiesen zu einer Alm")),
  "zwemmen": ("niederau-openluchtzwembad", ("Openluchtzwembad in Niederau", "Open-air pool in Niederau", "Freibad in Niederau")),
  "skieen": ("niederau-skien-markbachjoch", ("Skiërs op de zonnige pistes van het Markbachjoch", "Skiers on the sunny slopes of the Markbachjoch", "Skifahrer auf den sonnigen Pisten des Markbachjochs")),
@@ -186,7 +191,6 @@ THEME_IMG = {
  "dagtochten": ("schoenangeralm-kapel-wildschoenau", ("Kapel bij de Schönangeralm", "Chapel near the Schönangeralm", "Kapelle bei der Schönangeralm")),
  "wellness": ("hotel-wastlhof-niederau-wellness", ("Wellnessruimte van Hotel Wastlhof", "Wellness area at Hotel Wastlhof", "Wellnessbereich des Hotels Wastlhof")),
  "workshops": ("tiroler-kaiserschmarrn", ("Tiroler Kaiserschmarrn", "Tyrolean Kaiserschmarrn", "Tiroler Kaiserschmarrn")),
- "golf": ("niederau-lente-bloemenweide", ("Groene bloemenweide in Niederau", "Green flower meadow in Niederau", "Grüne Blumenwiese in Niederau")),
 }
 
 def L(d, lang, default=""):
@@ -482,7 +486,7 @@ def build_act(a):
             img = gen_pick(a["id"], a["season"])
             side = gen_one(img, lang)
         else: side = None
-        if side is None: side = f'<img class="side-img" src="/assets/img/{img}.webp" width="1000" height="667" loading="lazy" alt="{e(alt[LANGS.index(lang)])}">' if img else ""
+        if side is None: side = f'<img class="side-img" src="/assets/img/{img}.webp" width="{img_dims(img)[0]}" height="{img_dims(img)[1]}" loading="lazy" alt="{e(alt[LANGS.index(lang)])}">' if img else ""
         body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{e(th_short)} · {season_badge(a, lang)}</p><h1 id="h-top">{e(title_n)}</h1><p class="lead">{e(L(a.get("tagline", {}), lang))}</p>{intro}{pl}{link}</div>
 <div>{facts}{side}</div></div></section>
@@ -596,7 +600,7 @@ def build_theme(t):
         lists = f'<section class="alt"><div class="wrap">{lists}</div></section>' if lists else ""
         faq_s, faq_ld = faq_html(d.get("faq"), lang)
         img, alt = THEME_IMG.get(t, (None, ("", "", "")))
-        side = f'<img class="side-img" src="/assets/img/{img}.webp" width="1000" height="667" loading="lazy" alt="{e(alt[LANGS.index(lang)])}">' if img else ""
+        side = f'<img class="side-img" src="/assets/img/{img}.webp" width="{img_dims(img)[0]}" height="{img_dims(img)[1]}" loading="lazy" alt="{e(alt[LANGS.index(lang)])}">' if img else ""
         body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{ui("n_act", lang)}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(d.get("tagline", {}), lang))}</p>{intro}</div>
 <div>{side}{tips_h}</div></div></section>
