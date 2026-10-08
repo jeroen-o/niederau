@@ -904,10 +904,12 @@ PHOTOS_PG = {
  "secp": {
   "winter": ("Pistes, liften, rodelbanen en winterlandschappen.", "Slopes, lifts, toboggan runs and winter landscapes.", "Pisten, Lifte, Rodelbahnen und Winterlandschaften."),
   "summer": ("Wandelen, fietsen, water, dieren en uitzichten buiten de wintermaanden.", "Hiking, cycling, water, animals and views outside the winter months.", "Wandern, Radfahren, Wasser, Tiere und Aussichten außerhalb der Wintermonate."),
-  "history": ("Oude foto’s en ansichtkaarten van Niederau en het Markbachjoch, uit de eigen collectie van de beheerder van deze site.", "Old photos and postcards of Niederau and the Markbachjoch, from the site owner’s own collection.", "Alte Fotos und Ansichtskarten von Niederau und dem Markbachjoch, aus der eigenen Sammlung des Betreibers dieser Seite."),
+  "history": ("Oude foto’s en ansichtkaarten van Niederau en het Markbachjoch, uit de Facebookgroep ‘Kufstein in alten Bildern’. De twee foto’s uit het familiealbum zijn van de beheerder van deze site.", "Old photos and postcards of Niederau and the Markbachjoch, from the Facebook group ‘Kufstein in alten Bildern’. The two family-album photos belong to the site owner.", "Alte Fotos und Ansichtskarten von Niederau und dem Markbachjoch, aus der Facebook-Gruppe ‘Kufstein in alten Bildern’. Die zwei Fotos aus dem Familienalbum gehören dem Betreiber dieser Seite."),
   "hotel": ("Foto’s die onze partner Hotel Wastlhof beschikbaar stelde. Hartelijk dank voor het gebruik van de beelden.", "Photos kindly provided by our partner Hotel Wastlhof. Many thanks for the use of the images.", "Fotos, die unser Partner Hotel Wastlhof zur Verfügung gestellt hat. Herzlichen Dank für die Nutzung der Bilder.")},
  "dlg": {"label": ("Fotogalerij", "Photo gallery", "Fotogalerie"), "close": ("Sluiten", "Close", "Schließen"), "prev": ("Vorige foto", "Previous photo", "Vorheriges Foto"), "next": ("Volgende foto", "Next photo", "Nächstes Foto")},
 }
+def linksrc(s):
+    return s.replace("Kufstein in alten Bildern", '<a href="https://www.facebook.com/groups/303360183680431/" rel="noopener" target="_blank">Kufstein in alten Bildern</a>')
 def u_photos(lang): return f"/{PREFIX[lang]}{PHOTOS_PG['slug'][LANGS.index(lang)]}/"
 def photo_group(f, hotel):
     if "historisch" in f or "familiealbum" in f: return "history"
@@ -924,7 +926,7 @@ def build_photos():
         secs = ""
         for g in ("winter", "summer", "history", "hotel"):
             items = "".join(f'<a class="g-item" href="/assets/img/{f}.webp"><img src="/assets/img/{f}.webp" alt="{e(alts[min(i, len(alts)-1)])}" loading="lazy" decoding="async" width="800" height="600"></a>' for f, alts in groups[g])
-            secs += f'<section class="{"alt" if g != "winter" else ""}" aria-labelledby="h-{g}"><div class="wrap"><h2 id="h-{g}">{e(PHOTOS_PG["sec"][g][i])}</h2><p>{e(PHOTOS_PG["secp"][g][i])}</p><div class="photo-grid">{items}</div></div></section>'
+            secs += f'<section class="{"alt" if g != "winter" else ""}" aria-labelledby="h-{g}"><div class="wrap"><h2 id="h-{g}">{e(PHOTOS_PG["sec"][g][i])}</h2><p>{linksrc(e(PHOTOS_PG["secp"][g][i]))}</p><div class="photo-grid">{items}</div></div></section>'
         d = PHOTOS_PG["dlg"]
         dlg = f'<dialog class="lightbox" aria-label="{e(d["label"][i])}"><button class="lb-close" type="button" aria-label="{e(d["close"][i])}">×</button><button class="lb-prev" type="button" aria-label="{e(d["prev"][i])}">‹</button><figure><figcaption></figcaption></figure><button class="lb-next" type="button" aria-label="{e(d["next"][i])}">›</button></dialog>'
         body = f'<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(PHOTOS_PG["tagline"][i])}</p><p>{e(PHOTOS_PG["intro"][i])}</p></div></section>{secs}{dlg}'
