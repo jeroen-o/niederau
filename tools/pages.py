@@ -132,7 +132,7 @@ def photo_html(f, lang):
     return ""
 
 # ---------- sfeerbeelden voor pagina's zonder eigen foto ----------
-GEN_BLOCK = ("wastlhof", "familiealbum", "kind-slee", "skischool", "hart-", "sleeen", "skier-reeks", "bier", "ski-balkon", "uithangbord", "golf", "tuber", "tubing", "rivier", "kikkerkoning", "houtstapel", "smeedijzer", "opgezette", "konijn", "paard", "kerk-", "boomplatform", "meer-", "stoeltjeslift-meer", "kabelbaanmast", "stuwmeer", "mountaincarts", "koeien", "wandelweg-mist", "berghelling-regenjas", "ijsgrot", "kufstein", "inntal", "kinderclub", "jausenstation", "klimpark", "sneeuwval-avond", "talfest", "krautinger", "koets", "kinderen",
+GEN_BLOCK = ("historisch", "wastlhof", "familiealbum", "kind-slee", "skischool", "hart-", "sleeen", "skier-reeks", "bier", "ski-balkon", "uithangbord", "golf", "tuber", "tubing", "rivier", "kikkerkoning", "houtstapel", "smeedijzer", "opgezette", "konijn", "paard", "kerk-", "boomplatform", "meer-", "stoeltjeslift-meer", "kabelbaanmast", "stuwmeer", "mountaincarts", "koeien", "wandelweg-mist", "berghelling-regenjas", "ijsgrot", "kufstein", "inntal", "kinderclub", "jausenstation", "klimpark", "sneeuwval-avond", "talfest", "krautinger", "koets", "kinderen",
              "tiroler-kaiserschmarrn", "sterrenhemel", "boerderijdieren", "brettljause", "fuchsia", "rodelen-avond", "alpbachtal-wildschoenau-familie", "skipauze", "springkussen", "openluchtbad-glijbaan", "snowboarder", "mountainbikers", "wandelen-gezin", "sneeuwschoenwandelen", "paragliden-startplaats", "rodelbaan-gras", "wandelaars-alm", "premium-card")
 GEN_WINTER = ("winter", "piste", "sneeuw", "ski", "sleeplift", "rodelbaan-bergzicht", "lanerk", "langlauf", "markbachjochbahn-gondel")
 _POOLS = {}
@@ -893,27 +893,30 @@ PHOTOS_PG = {
  "sec": {
   "winter": ("Winter", "Winter", "Winter"),
   "summer": ("Zomer en herfst", "Summer and autumn", "Sommer und Herbst"),
+  "history": ("Vroeger", "In the past", "Früher"),
   "hotel": ("Hotel Wastlhof", "Hotel Wastlhof", "Hotel Wastlhof")},
  "secp": {
   "winter": ("Pistes, liften, rodelbanen en winterlandschappen.", "Slopes, lifts, toboggan runs and winter landscapes.", "Pisten, Lifte, Rodelbahnen und Winterlandschaften."),
   "summer": ("Wandelen, fietsen, water, dieren en uitzichten buiten de wintermaanden.", "Hiking, cycling, water, animals and views outside the winter months.", "Wandern, Radfahren, Wasser, Tiere und Aussichten außerhalb der Wintermonate."),
+  "history": ("Oude foto’s en ansichtkaarten van Niederau en het Markbachjoch. Ze komen uit een Facebookgroep over de Wildschönau; de rechthebbenden zijn ons niet bekend. Ben je maker of rechthebbende en wil je een bronvermelding of verwijdering? Laat het de beheerder van deze site weten.", "Old photos and postcards of Niederau and the Markbachjoch. They come from a Facebook group about the Wildschönau; the rights holders are not known to us. If you are the photographer or rights holder and want a credit or removal, please tell the site owner.", "Alte Fotos und Ansichtskarten von Niederau und dem Markbachjoch. Sie stammen aus einer Facebook-Gruppe zur Wildschönau; die Rechteinhaber sind uns nicht bekannt. Wenn Sie Urheber oder Rechteinhaber sind und eine Namensnennung oder Entfernung wünschen, informieren Sie bitte den Betreiber dieser Seite."),
   "hotel": ("Foto’s die onze partner Hotel Wastlhof beschikbaar stelde. Hartelijk dank voor het gebruik van de beelden.", "Photos kindly provided by our partner Hotel Wastlhof. Many thanks for the use of the images.", "Fotos, die unser Partner Hotel Wastlhof zur Verfügung gestellt hat. Herzlichen Dank für die Nutzung der Bilder.")},
  "dlg": {"label": ("Fotogalerij", "Photo gallery", "Fotogalerie"), "close": ("Sluiten", "Close", "Schließen"), "prev": ("Vorige foto", "Previous photo", "Vorheriges Foto"), "next": ("Volgende foto", "Next photo", "Nächstes Foto")},
 }
 def u_photos(lang): return f"/{PREFIX[lang]}{PHOTOS_PG['slug'][LANGS.index(lang)]}/"
 def photo_group(f, hotel):
+    if "historisch" in f or "familiealbum" in f: return "history"
     if hotel or "wastlhof" in f: return "hotel"
     if any(k in f for k in WINTER_F + ("piste", "sleeplift", "sleeen", "rodelbaan-bergzicht")): return "winter"
     return "summer"
 def build_photos():
     urls = {l: u_photos(l) for l in LANGS}
-    groups = {"winter": [], "summer": [], "hotel": []}
+    groups = {"winter": [], "summer": [], "history": [], "hotel": []}
     for f, alts, kws, hotel in PHOTOS: groups[photo_group(f, hotel)].append((f, alts))
     for lang in LANGS:
         i = LANGS.index(lang); name = PHOTOS_PG["title"][i]
         cr, cr_ld = crumbs(lang, [(name, urls[lang])])
         secs = ""
-        for g in ("winter", "summer", "hotel"):
+        for g in ("winter", "summer", "history", "hotel"):
             items = "".join(f'<a class="g-item" href="/assets/img/{f}.webp"><img src="/assets/img/{f}.webp" alt="{e(alts[min(i, len(alts)-1)])}" loading="lazy" decoding="async" width="800" height="600"></a>' for f, alts in groups[g])
             secs += f'<section class="{"alt" if g != "winter" else ""}" aria-labelledby="h-{g}"><div class="wrap"><h2 id="h-{g}">{e(PHOTOS_PG["sec"][g][i])}</h2><p>{e(PHOTOS_PG["secp"][g][i])}</p><div class="photo-grid">{items}</div></div></section>'
         d = PHOTOS_PG["dlg"]

@@ -307,3 +307,5 @@ main h1 { overflow-wrap: anywhere; hyphens: auto; }
 .g-badge { z-index: 2; }
 .lightbox img { box-shadow: 0 10px 40px rgba(0, 0, 0, .5); }
 @media (prefers-reduced-motion: reduce) { .g-item::after { display: none; } }
+.album.hist { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); align-items: start; }
+.album.hist .album-fig img { filter: sepia(.12) contrast(1.02); }
