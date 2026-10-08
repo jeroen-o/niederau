@@ -576,7 +576,7 @@ def build_region(r):
         faq_s, faq_ld = faq_html(d.get("faq"), lang)
         body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{ui("region", lang)}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(d.get("tagline", {}), lang))}</p>{intro}</div>
-<div>{photo_html(REGION_PHOTO.get(r, ""), lang) if REGION_PHOTO.get(r) else gen_fig("region:" + r, lang)}{hl_h}{gt_h}</div></div></section>
+<div>{photo_html(REGION_PHOTO.get(r, ""), lang) if REGION_PHOTO.get(r) else gen_fig("region:" + r, lang)}{hist_link({"slug": r, "name": d["name"]}, lang)}{hl_h}{gt_h}</div></div></section>
 {pl_h}{faq_s}'''
         desc = (L(d.get("tagline", {}), lang) + " " + " ".join(paras(L(d.get("intro", {}), lang)))[:170]).strip()[:300]
         ld_graph = [
@@ -909,7 +909,8 @@ PHOTOS_PG = {
  "dlg": {"label": ("Fotogalerij", "Photo gallery", "Fotogalerie"), "close": ("Sluiten", "Close", "Schließen"), "prev": ("Vorige foto", "Previous photo", "Vorheriges Foto"), "next": ("Volgende foto", "Next photo", "Nächstes Foto")},
 }
 # historische foto's per plaats (zoekpagina in de Facebookgroep ‘Kufstein in alten Bildern’)
-PLACE_HIST = {"oberau": "https://www.facebook.com/groups/303360183680431/search/?q=oberau"}
+PLACE_HIST = {"oberau": "https://www.facebook.com/groups/303360183680431/search/?q=oberau",
+              "wildschoenau": "https://www.facebook.com/groups/303360183680431/search/?q=wildschonau"}
 HIST_LINK = {"nl": "Historische foto’s van {n} (Facebookgroep ‘Kufstein in alten Bildern’)", "en": "Historic photos of {n} (Facebook group ‘Kufstein in alten Bildern’)", "de": "Historische Fotos von {n} (Facebook-Gruppe ‘Kufstein in alten Bildern’)"}
 def hist_link(p, lang):
     u = PLACE_HIST.get(p["slug"])
