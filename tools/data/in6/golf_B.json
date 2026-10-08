@@ -1,0 +1,702 @@
+[
+ {
+  "id": "g30",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "jenbach",
+  "slug_en": "golf-landclub-achensee-pertisau",
+  "slug_de": "golf-und-landclub-achensee-pertisau",
+  "title": {
+   "nl": "Golf- & Landclub Achensee (Pertisau)",
+   "en": "Golf & Landclub Achensee, Pertisau",
+   "de": "Golf- & Landclub Achensee in Pertisau"
+  },
+  "tagline": {
+   "nl": "Oudste golfclub van Tirol, op ongeveer 1.000 m aan het Achenmeer",
+   "en": "Tyrol's oldest golf club, at roughly 1,000 m by Lake Achensee",
+   "de": "Ältester Golfclub Tirols auf rund 1.000 m am Achensee"
+  },
+  "intro": {
+   "nl": "De club in Pertisau werd in 1934 opgericht en geldt als de oudste van Tirol. Het is een 18-holesbaan (par 71) op ongeveer 1.000 m hoogte, aan de voet van het Karwendelgebergte. Wie vanuit Niederau een dagtocht naar het Achenmeer plant, kan hier een ronde aan toevoegen.\n\nVolgens de toeristische bronnen is de range overdekt en zijn er een oefenbunker, oefengreens, golfschool, proshop en restaurant. De afslagplaatsen verschillen sterk in lengte: vanaf de witte tees meet de baan volgens een golfportaal ruim 6.100 m, vanaf de rode dames-tees circa 4.950 m. Gasten zijn welkom, maar reserveren van een starttijd is nodig en er wordt een handicapbewijs gevraagd. Het seizoen loopt ruwweg van april tot november.",
+   "en": "The club in Pertisau was founded in 1934 and is regarded as the oldest in Tyrol. It is an 18-hole course (par 71) at about 1,000 m altitude, at the foot of the Karwendel range. If you are planning a day trip from Niederau to Lake Achensee, a round here is an easy addition.\n\nAccording to tourism sources the driving range is covered, and there are a practice bunker, practice greens, a golf school, a pro shop and a restaurant. Tee lengths differ considerably: from the white tees a golf portal gives just over 6,100 m, from the red ladies' tees about 4,950 m. Guests are welcome, but a tee time has to be reserved and proof of handicap is asked for. The season runs roughly from April to November.",
+   "de": "Der Club in Pertisau wurde 1934 gegründet und gilt als der älteste Tirols. Es ist ein 18-Loch-Platz (Par 71) auf etwa 1.000 m Höhe am Fuß des Karwendels. Wer von Niederau aus einen Ausflug zum Achensee plant, kann hier gut eine Runde einbauen.\n\nLaut Tourismusquellen ist die Range überdacht, dazu gibt es einen Übungsbunker, Übungsgrüns, eine Golfschule, einen Proshop und ein Restaurant. Die Abschläge unterscheiden sich deutlich in der Länge: Von den weißen Abschlägen nennt ein Golfportal gut 6.100 m, von den roten Damenabschlägen rund 4.950 m. Gäste sind willkommen, die Startzeit muss aber reserviert werden und ein Handicapnachweis wird verlangt. Die Saison dauert grob von April bis November."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een starttijd en neem je handicapbewijs mee.",
+    "Op ongeveer 1.000 m kan het ook in de zomer fris zijn; een extra laag is verstandig.",
+    "Combineer de ronde met een boottocht of wandeling aan het Achenmeer."
+   ],
+   "en": [
+    "Book a tee time and bring proof of your handicap.",
+    "At about 1,000 m it can be cool even in summer; an extra layer is sensible.",
+    "Pair the round with a boat trip or a walk by Lake Achensee."
+   ],
+   "de": [
+    "Reservieren Sie eine Startzeit und bringen Sie den Handicapnachweis mit.",
+    "Auf rund 1.000 m kann es auch im Sommer frisch sein; eine zusätzliche Schicht ist ratsam.",
+    "Verbinden Sie die Runde mit einer Schifffahrt oder einem Spaziergang am Achensee."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 50 minuten rijden vanaf Niederau, via het Inntal en Jenbach naar Pertisau aan het Achenmeer; ongeveer 27 km hemelsbreed.",
+   "en": "About 50 minutes by car from Niederau, through the Inn valley and Jenbach to Pertisau on Lake Achensee; roughly 27 km as the crow flies.",
+   "de": "Ca. 50 Minuten Fahrt ab Niederau, durch das Inntal und über Jenbach nach Pertisau am Achensee; rund 27 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "Approx. 50 min drive",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "April tot november",
+    "en": "April to November",
+    "de": "April bis November"
+   }
+  },
+  "location": {
+   "nl": "Pertisau, Achensee",
+   "en": "Pertisau, Achensee",
+   "de": "Pertisau, Achensee"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golf-landclub-achensee-2",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel holes heeft de baan?",
+     "en": "How many holes does the course have?",
+     "de": "Wie viele Löcher hat der Platz?"
+    },
+    "a": {
+     "nl": "18 holes, par 71.",
+     "en": "18 holes, par 71.",
+     "de": "18 Löcher, Par 71."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kunnen gasten spelen?",
+     "en": "Can guests play?",
+     "de": "Können Gäste spielen?"
+    },
+    "a": {
+     "nl": "Ja, met gereserveerde starttijd en handicapbewijs.",
+     "en": "Yes, with a reserved tee time and proof of handicap.",
+     "de": "Ja, mit reservierter Startzeit und Handicapnachweis."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g31",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "",
+  "slug_en": "posthotel-alpengolf-achenkirch",
+  "slug_de": "posthotel-alpengolf-achenkirch",
+  "title": {
+   "nl": "Posthotel Alpengolf Achenkirch",
+   "en": "Posthotel Alpengolf, Achenkirch",
+   "de": "Posthotel Alpengolf Achenkirch"
+  },
+  "tagline": {
+   "nl": "Negen holes op een hoogvlakte aan de rand van het Karwendel",
+   "en": "Nine holes on a high plateau at the edge of the Karwendel",
+   "de": "Neun Löcher auf einem Hochplateau am Rand des Karwendels"
+  },
+  "intro": {
+   "nl": "Alpengolf ligt in Achenkirch, op een plateau boven het kapelletje Annakirchl en grenzend aan het natuurgebied Karwendel. Het is een negenholesbaan van het Posthotel; het par wordt in de bronnen als 32 vermeld. Daarmee is het een compactere optie dan de 18-holesbanen in de omgeving, geschikt voor een korte ronde in de ochtend of de late namiddag.\n\nGasten zijn welkom, maar vooraf reserveren is nodig en een clubpas met handicap wordt gevraagd. Gasten van het hotel krijgen volgens de bronnen vaste starttijden en korting op de greenfee. Het seizoen loopt van ongeveer mei tot oktober of november, afhankelijk van de sneeuw. Omdat de baan hoger ligt en dicht bij het gebergte, is het uitzicht een belangrijk deel van de aantrekkingskracht.",
+   "en": "Alpengolf lies in Achenkirch, on a plateau above the little Annakirchl chapel, bordering the Karwendel nature reserve. It is a nine-hole course run by the Posthotel, and sources give its par as 32. That makes it a more compact choice than the 18-hole courses nearby, suited to a short round in the morning or late afternoon.\n\nGuests are welcome, but booking ahead is required and a club card showing a handicap is asked for. According to the sources, hotel guests get fixed tee times and a reduced green fee. The season runs from about May to October or November, depending on snow. Because the course sits higher and close to the mountains, the views are a large part of its appeal.",
+   "de": "Alpengolf liegt in Achenkirch auf einem Plateau oberhalb der Annakirchl-Kapelle, angrenzend an das Naturschutzgebiet Karwendel. Es ist ein Neun-Loch-Platz des Posthotels, dessen Par in den Quellen mit 32 angegeben wird. Damit ist er kompakter als die 18-Loch-Plätze der Umgebung und eignet sich für eine kurze Runde am Vormittag oder späten Nachmittag.\n\nGäste sind willkommen, eine Anmeldung ist jedoch nötig, und ein Clubausweis mit Handicap wird verlangt. Hotelgäste erhalten laut den Quellen feste Abschlagzeiten und ein ermäßigtes Greenfee. Die Saison dauert etwa von Mai bis Oktober oder November, je nach Schnee. Da der Platz höher und nahe am Gebirge liegt, ist die Aussicht ein großer Teil seines Reizes."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf en neem je clubpas met handicap mee.",
+    "Kijk in het najaar of de baan nog open is; het einde van het seizoen hangt van de sneeuw af.",
+    "Voor een uitgebreidere ronde kun je naar Pertisau, iets verderop."
+   ],
+   "en": [
+    "Book ahead and bring your club card showing a handicap.",
+    "In autumn, check whether the course is still open; the end of the season depends on snow.",
+    "For a longer round, Pertisau is a little further on."
+   ],
+   "de": [
+    "Reservieren Sie vorab und bringen Sie Ihren Clubausweis mit Handicap mit.",
+    "Prüfen Sie im Herbst, ob der Platz noch geöffnet ist; das Saisonende hängt vom Schnee ab.",
+    "Für eine längere Runde liegt Pertisau ein Stück weiter."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 55 minuten rijden vanaf Niederau, via Jenbach en de Achenpass naar Achenkirch; ongeveer 27 km hemelsbreed.",
+   "en": "About 55 minutes by car from Niederau, via Jenbach and the Achenpass to Achenkirch; roughly 27 km as the crow flies.",
+   "de": "Ca. 55 Minuten Fahrt ab Niederau, über Jenbach und den Achenpass nach Achenkirch; rund 27 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "Approx. 55 min drive",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Ca. mei tot oktober/november",
+    "en": "Approx. May to October/November",
+    "de": "Ca. Mai bis Oktober/November"
+   }
+  },
+  "location": {
+   "nl": "Achenkirch, Achensee",
+   "en": "Achenkirch, Achensee",
+   "de": "Achenkirch, Achensee"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/posthotel-alpengolf-1",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is reserveren nodig?",
+     "en": "Is booking required?",
+     "de": "Muss man reservieren?"
+    },
+    "a": {
+     "nl": "Ja, gasten melden zich vooraf aan en tonen een clubpas met handicap.",
+     "en": "Yes, guests register in advance and show a club card with handicap.",
+     "de": "Ja, Gäste melden sich vorab an und zeigen einen Clubausweis mit Handicap."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoeveel holes?",
+     "en": "How many holes?",
+     "de": "Wie viele Löcher?"
+    },
+    "a": {
+     "nl": "Negen holes.",
+     "en": "Nine holes.",
+     "de": "Neun Löcher."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g32",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "innsbruck",
+  "slug_en": "golf-course-innsbruck-igls-rinn",
+  "slug_de": "golfplatz-innsbruck-igls-rinn",
+  "title": {
+   "nl": "Golfclub Innsbruck-Igls, Championship Course Rinn",
+   "en": "Innsbruck-Igls Golf Club, Championship Course Rinn",
+   "de": "Golfclub Innsbruck-Igls, Championship Course Rinn"
+  },
+  "tagline": {
+   "nl": "18 holes aan de hellingen van de Glungezer, in 2024 heropend",
+   "en": "18 holes on the slopes of the Glungezer, reopened in 2024",
+   "de": "18 Löcher an den Hängen des Glungezers, 2024 wiedereröffnet"
+  },
+  "intro": {
+   "nl": "Het kampioenschapsterrein van Golfclub Innsbruck-Igls ligt bij Rinn, op het plateau aan de zuidelijke hellingen van de Glungezer. Na een renovatie van twee jaar werd de 18-holesbaan in 2024 heropend. Het is een par 71; vanaf de witte tees meet de baan rond 6.050 m, en het hoogteverschil bedraagt bijna 250 m.\n\nDe fairways lopen als twee cirkels over het plateau en zijn deels heuvelachtig. Hole 12 heeft volgens een Duitstalige bron een eilandgreen. Gasten doen er goed aan vooraf te reserveren en een handicapbewijs mee te nemen. Het seizoen loopt ongeveer van april tot oktober. Reken op een rit door het Inntal richting Innsbruck: dit is een uitstap voor wie een dag aan golf wil besteden.",
+   "en": "The championship course of Innsbruck-Igls Golf Club lies near Rinn, on the plateau on the southern slopes of the Glungezer. After a two-year renovation the 18-hole course reopened in 2024. It is a par 71; from the white tees it measures around 6,050 m, with an elevation change of nearly 250 m.\n\nThe fairways run across the plateau like two concentric circles and are partly hilly. According to a German-language source, hole 12 has an island green. Guests should expect to book in advance and show proof of handicap. The season runs from about April to October. Expect a drive through the Inn valley towards Innsbruck: this is an outing for those who want to give a whole day to golf.",
+   "de": "Der Championship Course des Golfclubs Innsbruck-Igls liegt bei Rinn, auf dem Plateau an den Südhängen des Glungezers. Nach zwei Jahren Umbau wurde der 18-Loch-Platz 2024 wiedereröffnet. Er ist ein Par 71; von den weißen Abschlägen misst er rund 6.050 m, der Höhenunterschied beträgt knapp 250 m.\n\nDie Fairways ziehen sich wie zwei konzentrische Kreise über das Plateau und sind teils hügelig. Laut einer deutschsprachigen Quelle hat Bahn 12 ein Inselgrün. Gäste sollten vorab reservieren und einen Handicapnachweis mitbringen. Die Saison reicht etwa von April bis Oktober. Rechnen Sie mit einer Fahrt durch das Inntal Richtung Innsbruck: ein Ausflug für alle, die dem Golf einen ganzen Tag widmen wollen."
+  },
+  "tips": {
+   "nl": [
+    "Plan een hele dag; de rit is lang en de baan heeft aanzienlijk hoogteverschil.",
+    "Reserveer vooraf en neem het handicapbewijs mee.",
+    "Kies de tees naar je niveau: de lengtes lopen van circa 5.200 tot 6.050 m."
+   ],
+   "en": [
+    "Plan a full day; the drive is long and the course has considerable elevation change.",
+    "Book ahead and bring proof of handicap.",
+    "Choose tees to suit your level: lengths range from about 5,200 to 6,050 m."
+   ],
+   "de": [
+    "Planen Sie einen ganzen Tag ein; die Anfahrt ist lang und der Platz hat deutliche Höhenunterschiede.",
+    "Reservieren Sie vorab und bringen Sie den Handicapnachweis mit.",
+    "Wählen Sie den Abschlag passend zum Niveau: Die Längen reichen von etwa 5.200 bis 6.050 m."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 55 minuten rijden vanaf Niederau, door het Inntal richting Innsbruck en dan naar Rinn; ongeveer 46 km hemelsbreed.",
+   "en": "About 55 minutes by car from Niederau, through the Inn valley towards Innsbruck and then up to Rinn; roughly 46 km as the crow flies.",
+   "de": "Ca. 55 Minuten Fahrt ab Niederau, durch das Inntal Richtung Innsbruck und dann hinauf nach Rinn; rund 46 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "Approx. 55 min drive",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Ca. april tot oktober",
+    "en": "Approx. April to October",
+    "de": "Ca. April bis Oktober"
+   }
+  },
+  "location": {
+   "nl": "Rinn, bij Innsbruck",
+   "en": "Rinn, near Innsbruck",
+   "de": "Rinn bei Innsbruck"
+  },
+  "url": "https://tyrol.com/activities/sport/golf/all-golf-courses/innsbruck-golf-club-golf-course-rinn-18-holes-1",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het par van de baan?",
+     "en": "What is the par?",
+     "de": "Welches Par hat der Platz?"
+    },
+    "a": {
+     "nl": "Par 71, 18 holes.",
+     "en": "Par 71, 18 holes.",
+     "de": "Par 71, 18 Löcher."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer is de baan opnieuw geopend?",
+     "en": "When did it reopen?",
+     "de": "Wann wurde der Platz wiedereröffnet?"
+    },
+    "a": {
+     "nl": "In 2024, na een renovatie van twee jaar.",
+     "en": "In 2024, after a two-year renovation.",
+     "de": "2024, nach zwei Jahren Umbau."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g33",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "innsbruck",
+  "slug_en": "golf-course-innsbruck-igls-lans",
+  "slug_de": "golfplatz-innsbruck-igls-lans",
+  "title": {
+   "nl": "Golfclub Innsbruck-Igls, Parkland Course Lans",
+   "en": "Innsbruck-Igls Golf Club, Parkland Course Lans",
+   "de": "Golfclub Innsbruck-Igls, Parkland Course Lans"
+  },
+  "tagline": {
+   "nl": "Negen holes in het park bij Lans, geopend in 1956",
+   "en": "Nine parkland holes at Lans, open since 1956",
+   "de": "Neun Parkland-Löcher bei Lans, seit 1956"
+  },
+  "intro": {
+   "nl": "De parkbaan van Golfclub Innsbruck-Igls ligt bij Lans, op ongeveer 870 m hoogte. Ze opende in 1956 en heeft negen holes met par 66. De lengte ligt volgens de bronnen tussen circa 4.100 en 4.600 m, afhankelijk van de afslagplaats. Het terrein is vlak, met waterpartijen: op hole 3 ligt een biotoop en op hole 6 een vijver met fontein.\n\nEen ronde is bij normaal tempo in ruim anderhalf uur gespeeld. Dat maakt de baan handig als je een korte golfpauze wilt, bijvoorbeeld op een dag in of rond Innsbruck. Gasten melden zich vooraf aan en tonen een clubpas met handicap; het niveau van de speler (handicap tot -54) moet kloppen. De baan hoort bij dezelfde club als de kampioenschapsbaan in Rinn.",
+   "en": "The parkland course of Innsbruck-Igls Golf Club lies near Lans, at about 870 m. It opened in 1956 and has nine holes with a par of 66. Sources put the length between roughly 4,100 and 4,600 m, depending on the tee. The terrain is flat with water features: hole 3 has a biotope and hole 6 a pond with a fountain.\n\nA round takes a little over an hour and a half at normal pace. That makes it handy for a short golf break, for example on a day in or around Innsbruck. Guests register in advance and show a club card with handicap; the player's handicap (up to -54) must be in order. The course belongs to the same club as the championship course in Rinn.",
+   "de": "Der Parklandplatz des Golfclubs Innsbruck-Igls liegt bei Lans auf etwa 870 m Höhe. Er wurde 1956 eröffnet und hat neun Löcher mit Par 66. Die Länge liegt laut Quellen je nach Abschlag zwischen rund 4.100 und 4.600 m. Das Gelände ist flach mit Wasserflächen: Auf Bahn 3 liegt ein Biotop, auf Bahn 6 ein Teich mit Fontäne.\n\nEine Runde dauert bei normalem Tempo gut anderthalb Stunden. Damit eignet sich der Platz für eine kurze Golfpause, etwa an einem Tag in oder um Innsbruck. Gäste melden sich vorab an und zeigen einen Clubausweis mit Handicap; das Handicap (bis -54) muss stimmen. Der Platz gehört zum selben Club wie der Championship Course in Rinn."
+  },
+  "tips": {
+   "nl": [
+    "Je speelt de negen holes in ruim anderhalf uur: handig als tussenstop op een Innsbruck-dag.",
+    "Meld je vooraf aan en neem je clubpas met handicap mee.",
+    "Let op hole 6: de fontein in de vijver maakt de afslag lastiger."
+   ],
+   "en": [
+    "Nine holes take a little over an hour and a half: handy as a stop on a day in Innsbruck.",
+    "Register in advance and bring your club card showing a handicap.",
+    "Watch hole 6: the fountain in the pond makes the tee shot trickier."
+   ],
+   "de": [
+    "Die neun Löcher sind in gut anderthalb Stunden gespielt: praktisch als Zwischenstopp bei einem Innsbruck-Tag.",
+    "Melden Sie sich vorab an und bringen Sie Ihren Clubausweis mit Handicap mit.",
+    "Achtung bei Bahn 6: Die Fontäne im Teich erschwert den Abschlag."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau, door het Inntal naar Innsbruck en verder naar Lans; ongeveer 54 km hemelsbreed.",
+   "en": "About 60 minutes by car from Niederau, through the Inn valley to Innsbruck and on to Lans; roughly 54 km as the crow flies.",
+   "de": "Ca. 60 Minuten Fahrt ab Niederau, durch das Inntal nach Innsbruck und weiter nach Lans; rund 54 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 60 min rijden",
+    "en": "Approx. 60 min drive",
+    "de": "Ca. 60 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomerseizoen",
+    "en": "Summer season",
+    "de": "Sommersaison"
+   }
+  },
+  "location": {
+   "nl": "Lans, bij Innsbruck",
+   "en": "Lans, near Innsbruck",
+   "de": "Lans bei Innsbruck"
+  },
+  "url": "https://tyrol.com/things-to-do/sports/golf/a-golfclub-innsbruck-iglslans",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel holes en welk par?",
+     "en": "How many holes and what par?",
+     "de": "Wie viele Löcher und welches Par?"
+    },
+    "a": {
+     "nl": "Negen holes, par 66.",
+     "en": "Nine holes, par 66.",
+     "de": "Neun Löcher, Par 66."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer opende de baan?",
+     "en": "When did the course open?",
+     "de": "Wann wurde der Platz eröffnet?"
+    },
+    "a": {
+     "nl": "In 1956.",
+     "en": "In 1956.",
+     "de": "1956."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g34",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "innsbruck",
+  "slug_en": "olympia-golf-igls",
+  "slug_de": "olympia-golf-igls",
+  "title": {
+   "nl": "Olympia Golf Igls (korte baan)",
+   "en": "Olympia Golf Igls (short course)",
+   "de": "Olympia Golf Igls (Kurzplatz)"
+  },
+  "tagline": {
+   "nl": "Pay-and-play korte baan aan de voet van de Patscherkofel",
+   "en": "Pay-and-play short course below the Patscherkofel",
+   "de": "Pay-and-play-Kurzplatz am Fuß des Patscherkofels"
+  },
+  "intro": {
+   "nl": "Olympia Golf in Igls is een korte negenholesbaan aan de voet van de Patscherkofel, net buiten Innsbruck. Volgens het Tiroolse toeristenbureau is het een pay-and-play-baan: je hebt geen lidmaatschap nodig, wel een aantoonbare handicap tot -54. Zeven holes zijn par 3, twee par 4; samen komen ze op par 58 en circa 2.800 m.\n\nDe korte holes eisen vooral nauwkeurig ijzerspel, en veel waterpartijen en goed beschermde greens maken het spannend. Er zijn een driving range, putting-, pitching- en chippinggreen, een oefenbunker, clubhuis met restaurant en een golfschool met PGA-professionals. De baan is niet bedoeld voor een lang dagprogramma, maar voor een ronde van ongeveer anderhalf uur. Het seizoen loopt grofweg van maart tot november.",
+   "en": "Olympia Golf in Igls is a short nine-hole course at the foot of the Patscherkofel, just outside Innsbruck. According to the Tyrol tourist board it is pay-and-play: no membership needed, but a verifiable handicap up to -54 is required. Seven holes are par 3 and two are par 4, adding up to par 58 and about 2,800 m.\n\nThe short holes call mostly for accurate iron play, and plenty of water and well-protected greens keep it interesting. There are a driving range, putting, pitching and chipping greens, a practice bunker, a clubhouse with restaurant and a golf school with PGA professionals. It is not meant for a long day's programme but for a round of about an hour and a half. The season runs roughly from March to November.",
+   "de": "Olympia Golf in Igls ist ein kurzer Neun-Loch-Platz am Fuß des Patscherkofels, knapp außerhalb von Innsbruck. Laut Tirol Werbung gilt hier Pay and Play: Eine Mitgliedschaft ist nicht nötig, wohl aber ein nachweisbares Handicap bis -54. Sieben Bahnen sind Par 3, zwei Par 4; zusammen ergibt das Par 58 und rund 2.800 m.\n\nAuf den kurzen Bahnen kommt es vor allem auf präzises Eisenspiel an, und viel Wasser sowie gut verteidigte Grüns sorgen für Spannung. Es gibt eine Driving Range, Putting-, Pitching- und Chipping-Grün, einen Übungsbunker, ein Clubhaus mit Restaurant und eine Golfschule mit PGA-Professionals. Der Platz ist nicht für ein langes Tagesprogramm gedacht, sondern für eine Runde von etwa anderthalb Stunden. Die Saison reicht grob von März bis November."
+  },
+  "tips": {
+   "nl": [
+    "Neem je handicapbewijs mee; zonder kom je niet op de baan.",
+    "Een kleine set met ijzers volstaat op deze korte holes.",
+    "Combineer de ronde met een bezoek aan Innsbruck of de Patscherkofelbaan."
+   ],
+   "en": [
+    "Bring proof of handicap; without it you will not be allowed on the course.",
+    "A small set of irons is enough on these short holes.",
+    "Combine the round with a visit to Innsbruck or the Patscherkofel cable car."
+   ],
+   "de": [
+    "Bringen Sie den Handicapnachweis mit; ohne diesen kommt man nicht auf den Platz.",
+    "Auf diesen kurzen Bahnen genügt ein kleines Eisen-Set.",
+    "Verbinden Sie die Runde mit einem Besuch in Innsbruck oder der Patscherkofelbahn."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau, door het Inntal naar Innsbruck-Igls; ongeveer 56 km hemelsbreed.",
+   "en": "About 60 minutes by car from Niederau, through the Inn valley to Innsbruck-Igls; roughly 56 km as the crow flies.",
+   "de": "Ca. 60 Minuten Fahrt ab Niederau, durch das Inntal nach Innsbruck-Igls; rund 56 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 60 min rijden",
+    "en": "Approx. 60 min drive",
+    "de": "Ca. 60 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Ca. maart tot november",
+    "en": "Approx. March to November",
+    "de": "Ca. März bis November"
+   }
+  },
+  "location": {
+   "nl": "Igls, Innsbruck",
+   "en": "Igls, Innsbruck",
+   "de": "Igls, Innsbruck"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/olympia-golfclub-igls-1",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is lidmaatschap nodig?",
+     "en": "Is membership required?",
+     "de": "Ist eine Mitgliedschaft nötig?"
+    },
+    "a": {
+     "nl": "Nee, het is een pay-and-play-baan; wel is een handicap tot -54 vereist.",
+     "en": "No, it is pay-and-play; a handicap up to -54 is required.",
+     "de": "Nein, es ist ein Pay-and-Play-Platz; ein Handicap bis -54 ist erforderlich."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat voor baan is het?",
+     "en": "What kind of course is it?",
+     "de": "Was für ein Platz ist es?"
+    },
+    "a": {
+     "nl": "Een korte baan met negen holes (zeven par 3, twee par 4).",
+     "en": "A short course with nine holes (seven par 3, two par 4).",
+     "de": "Ein Kurzplatz mit neun Löchern (sieben Par 3, zwei Par 4)."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g35",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "",
+  "slug_en": "golf-club-seefeld-wildmoos",
+  "slug_de": "golfclub-seefeld-wildmoos",
+  "title": {
+   "nl": "Golfclub Seefeld-Wildmoos",
+   "en": "Seefeld-Wildmoos Golf Club",
+   "de": "Golfclub Seefeld-Wildmoos"
+  },
+  "tagline": {
+   "nl": "18 holes van Donald Harradine, op het plateau bij Seefeld",
+   "en": "18 holes by Donald Harradine on the Seefeld plateau",
+   "de": "18 Löcher von Donald Harradine auf dem Seefelder Plateau"
+  },
+  "intro": {
+   "nl": "Wildmoos is de 18-holesbaan op het plateau bij Seefeld, bijna 70 km hemelsbreed van Niederau en daarmee de verst afgelegen baan van deze selectie. De baan is ontworpen door Donald Harradine en dateert van eind jaren zestig (de bronnen noemen 1968 of 1969). Het is een par 70; vanaf de gele heren-tees meet ze ruim 5.200 m, vanaf de rode dames-tees circa 4.600 m.\n\nHet is geen lange baan, maar de ligging op het plateau en het uitzicht op de bergen rond Seefeld maken haar populair. Ze past bij wie een golfdag wil combineren met een bezoek aan Seefeld, dat ook buiten het golfseizoen een bekende plaats is. Voor de exacte seizoensdata en toegangsvoorwaarden raadpleeg je de website van de club; die verschillen per jaar.",
+   "en": "Wildmoos is the 18-hole course on the plateau near Seefeld, almost 70 km as the crow flies from Niederau and so the furthest course in this selection. It was designed by Donald Harradine and dates from the late 1960s (sources say 1968 or 1969). It is a par 70; from the yellow men's tees it measures just over 5,200 m, from the red ladies' tees about 4,600 m.\n\nIt is not a long course, but its position on the plateau and the views of the mountains around Seefeld make it popular. It suits anyone who wants to combine a day of golf with a visit to Seefeld, a well-known resort that also draws visitors outside the golf season. For exact season dates and entry requirements, check the club's website; they vary from year to year.",
+   "de": "Wildmoos ist der 18-Loch-Platz auf dem Plateau bei Seefeld, fast 70 km Luftlinie von Niederau entfernt und damit der am weitesten entfernte Platz dieser Auswahl. Er wurde von Donald Harradine gestaltet und stammt aus den späten 1960er-Jahren (die Quellen nennen 1968 oder 1969). Es ist ein Par 70; von den gelben Herrenabschlägen misst er gut 5.200 m, von den roten Damenabschlägen rund 4.600 m.\n\nEr ist kein langer Platz, doch die Lage auf dem Plateau und der Blick auf die Berge rund um Seefeld machen ihn beliebt. Er passt, wenn man einen Golftag mit einem Besuch in Seefeld verbinden möchte, das auch außerhalb der Golfsaison bekannt ist. Genaue Saisondaten und Zugangsbedingungen finden Sie auf der Website des Clubs; sie ändern sich von Jahr zu Jahr."
+  },
+  "tips": {
+   "nl": [
+    "Plan een volle dag; de rit duurt ruim een uur.",
+    "Controleer op de clubsite de seizoensdata en de toegangsvoorwaarden voor gasten.",
+    "Combineer de ronde met een wandeling of een koffie in Seefeld."
+   ],
+   "en": [
+    "Plan a full day; the drive takes over an hour.",
+    "Check the club's website for season dates and guest entry requirements.",
+    "Pair the round with a walk or a coffee in Seefeld."
+   ],
+   "de": [
+    "Planen Sie einen ganzen Tag ein; die Fahrt dauert über eine Stunde.",
+    "Prüfen Sie auf der Clubwebsite Saisondaten und Zugangsbedingungen für Gäste.",
+    "Verbinden Sie die Runde mit einem Spaziergang oder einem Kaffee in Seefeld."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 70 minuten rijden vanaf Niederau, via de A12 door het Inntal en over de Seefelder Sattel; ongeveer 69 km hemelsbreed.",
+   "en": "About 70 minutes by car from Niederau, via the A12 through the Inn valley and over the Seefeld saddle; roughly 69 km as the crow flies.",
+   "de": "Ca. 70 Minuten Fahrt ab Niederau, über die A12 durch das Inntal und über den Seefelder Sattel; rund 69 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 70 min rijden",
+    "en": "Approx. 70 min drive",
+    "de": "Ca. 70 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomerseizoen",
+    "en": "Summer season",
+    "de": "Sommersaison"
+   }
+  },
+  "location": {
+   "nl": "Seefeld in Tirol",
+   "en": "Seefeld in Tirol",
+   "de": "Seefeld in Tirol"
+  },
+  "url": "https://tyrol.com/activities/sport/golf/all-golf-courses/golfclub-seefeld-wildmoos-2",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wie ontwierp de baan?",
+     "en": "Who designed the course?",
+     "de": "Wer hat den Platz entworfen?"
+    },
+    "a": {
+     "nl": "Donald Harradine.",
+     "en": "Donald Harradine.",
+     "de": "Donald Harradine."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoeveel holes en welk par?",
+     "en": "How many holes and what par?",
+     "de": "Wie viele Löcher und welches Par?"
+    },
+    "a": {
+     "nl": "18 holes, par 70.",
+     "en": "18 holes, par 70.",
+     "de": "18 Löcher, Par 70."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g36",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "",
+  "slug_en": "golf-club-seefeld-reith",
+  "slug_de": "golfclub-seefeld-reith",
+  "title": {
+   "nl": "Golfclub Seefeld-Reith",
+   "en": "Seefeld-Reith Golf Club",
+   "de": "Golfclub Seefeld-Reith"
+  },
+  "tagline": {
+   "nl": "Vlakke negenholesbaan bij Seefeld, zonder lidmaatschap te spelen",
+   "en": "A flat nine-hole course near Seefeld, playable without membership",
+   "de": "Flacher Neun-Loch-Platz bei Seefeld, ohne Mitgliedschaft spielbar"
+  },
+  "intro": {
+   "nl": "Seefeld-Reith is een negenholesbaan die in 2006 opende, ongeveer 67 km hemelsbreed van Niederau. Het is een par 70 en de baan is vlak, met waterhindernissen. De lengte is volgens een golfportaal 5.550 m vanaf de witte tees en 4.554 m vanaf de rode dames-tees. Om de negen holes twee keer te spelen krijg je dus een volledige 18-holesronde.\n\nBij de baan hoort een driving range met twaalf overdekte afslagplaatsen, plus chipping-, pitching- en puttinggreens en een oefenbunker. Je kunt er spelen zonder lid te zijn van een club. Het seizoen loopt volgens de brochure van Seefeld van half april tot begin november, afhankelijk van de sneeuw; de openingstijden worden per week op de clubsite gepubliceerd.",
+   "en": "Seefeld-Reith is a nine-hole course that opened in 2006, around 67 km as the crow flies from Niederau. It is a par 70 and the ground is flat with water hazards. According to a golf portal it measures 5,550 m from the white tees and 4,554 m from the red ladies' tees. Playing the nine holes twice therefore gives you a full 18-hole round.\n\nThe course has a driving range with twelve covered tees, plus chipping, pitching and putting greens and a practice bunker. You can play without being a club member. According to the Seefeld brochure the season runs from mid-April to early November, depending on snow; opening times are published week by week on the club's website.",
+   "de": "Seefeld-Reith ist ein Neun-Loch-Platz, der 2006 eröffnet wurde, rund 67 km Luftlinie von Niederau entfernt. Er ist Par 70, das Gelände ist flach und hat Wasserhindernisse. Laut einem Golfportal misst er 5.550 m von den weißen und 4.554 m von den roten Damenabschlägen. Spielt man die neun Löcher zweimal, ergibt das eine volle 18-Loch-Runde.\n\nZur Anlage gehört eine Driving Range mit zwölf überdachten Abschlägen sowie Chipping-, Pitching- und Putting-Grün und ein Übungsbunker. Man kann ohne Clubmitgliedschaft spielen. Laut der Seefelder Broschüre dauert die Saison von Mitte April bis Anfang November, je nach Schnee; die Öffnungszeiten werden wochenweise auf der Clubwebsite bekannt gegeben."
+  },
+  "tips": {
+   "nl": [
+    "Speel de negen holes twee keer voor een volledige ronde.",
+    "Kijk op de clubsite naar de wekelijkse openingstijden voor je vertrekt.",
+    "Gebruik de overdekte range als het regent."
+   ],
+   "en": [
+    "Play the nine holes twice for a full round.",
+    "Check the club's website for weekly opening times before you set off.",
+    "Use the covered range if it rains."
+   ],
+   "de": [
+    "Spielen Sie die neun Löcher zweimal für eine volle Runde.",
+    "Prüfen Sie vor der Abfahrt die wöchentlichen Öffnungszeiten auf der Clubwebsite.",
+    "Nutzen Sie bei Regen die überdachte Range."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 70 minuten rijden vanaf Niederau, via de A12 door het Inntal en over de Seefelder Sattel; ongeveer 67 km hemelsbreed.",
+   "en": "About 70 minutes by car from Niederau, via the A12 through the Inn valley and over the Seefeld saddle; roughly 67 km as the crow flies.",
+   "de": "Ca. 70 Minuten Fahrt ab Niederau, über die A12 durch das Inntal und über den Seefelder Sattel; rund 67 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 70 min rijden",
+    "en": "Approx. 70 min drive",
+    "de": "Ca. 70 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Half april tot begin november",
+    "en": "Mid-April to early November",
+    "de": "Mitte April bis Anfang November"
+   }
+  },
+  "location": {
+   "nl": "Seefeld in Tirol (Reith)",
+   "en": "Seefeld in Tirol (Reith)",
+   "de": "Seefeld in Tirol (Reith)"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-seefeld-reith-1",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is lidmaatschap nodig?",
+     "en": "Is membership required?",
+     "de": "Ist eine Mitgliedschaft nötig?"
+    },
+    "a": {
+     "nl": "Nee, je kunt als gast spelen.",
+     "en": "No, you can play as a guest.",
+     "de": "Nein, man kann als Gast spielen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer opende de baan?",
+     "en": "When did the course open?",
+     "de": "Wann wurde der Platz eröffnet?"
+    },
+    "a": {
+     "nl": "In 2006.",
+     "en": "In 2006.",
+     "de": "2006."
+    }
+   }
+  ]
+ }
+]
