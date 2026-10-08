@@ -909,7 +909,7 @@ PHOTOS_PG = {
  "dlg": {"label": ("Fotogalerij", "Photo gallery", "Fotogalerie"), "close": ("Sluiten", "Close", "Schließen"), "prev": ("Vorige foto", "Previous photo", "Vorheriges Foto"), "next": ("Volgende foto", "Next photo", "Nächstes Foto")},
 }
 def linksrc(s):
-    return s.replace("Kufstein in alten Bildern", '<a href="https://www.facebook.com/groups/303360183680431/" rel="noopener" target="_blank">Kufstein in alten Bildern</a>')
+    return s.replace("Kufstein in alten Bildern", '<a href="https://www.facebook.com/groups/303360183680431/search/?q=niederau" rel="noopener" target="_blank">Kufstein in alten Bildern</a>')
 def u_photos(lang): return f"/{PREFIX[lang]}{PHOTOS_PG['slug'][LANGS.index(lang)]}/"
 def photo_group(f, hotel):
     if "historisch" in f or "familiealbum" in f: return "history"

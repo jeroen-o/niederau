@@ -151,7 +151,7 @@ HIST_TXT = {"h": t("Geschiedenis in beeld", "History in pictures", "Geschichte i
  "n": t("Oude foto’s en ansichtkaarten uit de Facebookgroep ‘Kufstein in alten Bildern’.",
         "Old photos and postcards from the Facebook group ‘Kufstein in alten Bildern’.",
         "Alte Fotos und Ansichtskarten aus der Facebook-Gruppe ‘Kufstein in alten Bildern’.")}
-FB_URL = "https://www.facebook.com/groups/303360183680431/"
+FB_URL = "https://www.facebook.com/groups/303360183680431/search/?q=niederau"
 def link_src(s): return s.replace("Kufstein in alten Bildern", f'<a href="{FB_URL}" rel="noopener" target="_blank">Kufstein in alten Bildern</a>')
 
 HOME_ANCHOR = {"geschiedenis": t("geschiedenis", "history", "geschichte"),
