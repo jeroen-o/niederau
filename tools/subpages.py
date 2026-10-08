@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Genereert de losse pagina 'Markbachjoch' in NL, EN en DE (inclusief SEO/GEO-blok).
 Bron van de tekst staat hier (per taal naast elkaar); draai via tools/build.sh."""
+import sys as _sys
+_sys.path.insert(0, str(__import__("pathlib").Path(__file__).parent))
+import searchbar as _sb
 import datetime, html, json, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -142,6 +145,13 @@ L = {
               "Fotos: Wildschönau Tourismus, Ski Juwel Alpbachtal Wildschönau, Wildschönauer Bergbahnen, Hotel Wastlhof und eigene Fotos."),
 }
 # ankers op de hoofdpagina verschillen per taal
+
+HIST = json.load(open(ROOT / "tools" / "data" / "historic_photos.json", encoding="utf-8"))
+HIST_TXT = {"h": t("Geschiedenis in beeld", "History in pictures", "Geschichte in Bildern"),
+ "n": t("Oude foto’s en ansichtkaarten uit een Facebookgroep over de Wildschönau; de rechthebbenden zijn ons niet bekend. Ben je maker of rechthebbende en wil je een bronvermelding of verwijdering? Laat het de beheerder van deze site weten.",
+        "Old photos and postcards from a Facebook group about the Wildschönau; the rights holders are not known to us. If you are the photographer or rights holder and want a credit or removal, please tell the site owner.",
+        "Alte Fotos und Ansichtskarten aus einer Facebook-Gruppe zur Wildschönau; die Rechteinhaber sind uns nicht bekannt. Wenn Sie Urheber oder Rechteinhaber sind und eine Namensnennung oder Entfernung wünschen, informieren Sie bitte den Betreiber dieser Seite.")}
+
 HOME_ANCHOR = {"geschiedenis": t("geschiedenis", "history", "geschichte"),
                "lanerkoepfl": t("lanerkoepfl", "lanerkoepfl", "lanerkoepfl"),
                "seizoenen": t("seizoenen", "seasons", "jahreszeiten")}
@@ -245,12 +255,13 @@ def render(lang):
 <script>
   (function () {{
     var m = new Date().getMonth(), season = (m >= 9 || m <= 2) ? 'winter' : 'summer';
-    document.documentElement.setAttribute('data-season', season);
+    document.documentElement.classList.add('js'); document.documentElement.setAttribute('data-season', season);
   }})();
 </script>
 </head>
 <body>
 <a class="skip" href="#main">{g("skip")}</a>
+{_sb.bar(lang)}{_sb.NOSCRIPT}
 
 <header class="site-header">
   <div class="wrap">
@@ -335,6 +346,11 @@ def render(lang):
       <li><span class="when">{g("t5")}</span><br>{g("t5t")}</li>
     </ol>
   </div>
+  <div class="wrap">
+    <h3>{HIST_TXT["h"][lang]}</h3>
+    <div class="album hist">{"".join(f'<figure class="album-fig"><img src="{pre}assets/img/{x["id"]}.webp" width="{x["w"]}" height="{x["h"]}" loading="lazy" decoding="async" alt="{e(x["alt"][lang])}"><figcaption>{e(x["cap"][lang])}</figcaption></figure>' for x in HIST)}</div>
+    <p class="note">{HIST_TXT["n"][lang]}</p>
+  </div>
 </section>
 
 <section id="seizoenen" aria-labelledby="h-seizoenen">
@@ -395,6 +411,7 @@ def render(lang):
   </div>
 </footer>
 <script src="{pre}assets/main.js" defer></script>
+<script src="{pre}assets/search.js" defer></script>
 </body>
 </html>
 '''
