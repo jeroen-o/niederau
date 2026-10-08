@@ -14,3 +14,9 @@ def bar(lang):
             f'<div id="q-st" class="sr-only" role="status" aria-live="polite"></div></div></div>')
 
 NOSCRIPT = ''  # zoekbalk is standaard verborgen en verschijnt via html.js (zie CSS)
+
+BTN_LABEL = {"nl": "Zoeken", "en": "Search", "de": "Suchen"}
+
+def btn(lang):
+    return (f'<button class="search-btn" type="button" aria-label="{BTN_LABEL[lang]}" title="{BTN_LABEL[lang]}" aria-controls="q">'
+            '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m15.5 15.5 5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>')

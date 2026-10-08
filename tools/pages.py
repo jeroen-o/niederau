@@ -381,6 +381,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
       {tog}
       <div class="lang" role="group" aria-label="{ui("lang_label", lang)}">{lang_nav}</div>
     </nav>
+    {_sb.btn(lang)}
   </div>
 </header>
 <main id="main">

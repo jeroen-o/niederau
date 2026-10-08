@@ -329,3 +329,9 @@ main h1 { overflow-wrap: anywhere; hyphens: auto; }
 @media (max-width: 760px) { .searchbar input { font-size: 16px; } .q-res a { grid-template-columns: 1fr; } .q-res .q-k { justify-self: start; } }
 @media print { .searchbar { display: none !important; } }
 html.js .searchbar { display: block; }
+.search-btn { display: none; width: 34px; height: 34px; margin-left: 6px; padding: 0; align-items: center; justify-content: center; border: 0; border-radius: 999px; background: var(--card); color: var(--ink-soft); cursor: pointer; }
+.search-btn svg { width: 17px; height: 17px; }
+.search-btn:hover { color: var(--accent); }
+html.js .search-btn { display: inline-flex; }
+@media (max-width: 1400px) { .search-btn { margin-left: 8px; flex: none; } }
+@media print { .search-btn { display: none !important; } }

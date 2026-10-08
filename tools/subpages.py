@@ -277,6 +277,7 @@ def render(lang):
         {lang_nav}
       </div>
     </nav>
+    {_sb.btn(lang)}
   </div>
 </header>
 
