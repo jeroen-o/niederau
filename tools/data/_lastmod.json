@@ -483,45 +483,185 @@
 "date": "2026-10-06",
 "hash": "abdc6f72ac58fcdcd54ed2636a1d38e5c5f86750"
 },
+"activiteiten/golf/chiemsee-golf-club-prien/index.html": {
+"date": "2026-10-08",
+"hash": "d1dfa0f76287ba11c7152fdfa2e92db547860b6a"
+},
+"activiteiten/golf/city-golf-rosenheim/index.html": {
+"date": "2026-10-08",
+"hash": "1ee39f9f7ee4bea24f9c1335123b0d14c4cf928f"
+},
+"activiteiten/golf/golf-club-am-obinger-see/index.html": {
+"date": "2026-10-08",
+"hash": "8c978207801101a7097546ce1076dd1e31b40385"
+},
+"activiteiten/golf/golf-club-chieming/index.html": {
+"date": "2026-10-08",
+"hash": "be475bfba4463f2adb56030712d6b1a6b7fb66d1"
+},
+"activiteiten/golf/golf-club-gut-ising-chieming/index.html": {
+"date": "2026-10-08",
+"hash": "8374fd7d75f60f1ba1bafda30d2d6a5660fcaf15"
+},
+"activiteiten/golf/golf-club-hoslwang-im-chiemgau/index.html": {
+"date": "2026-10-08",
+"hash": "cf73d44d417765c4102ba6aa706222af60f1e8fe"
+},
+"activiteiten/golf/golf-club-schlo-maxlrain/index.html": {
+"date": "2026-10-08",
+"hash": "869dfacdf31f764edcc0bce410a9d51f8edb81f6"
+},
+"activiteiten/golf/golf-club-schloss-elkofen/index.html": {
+"date": "2026-10-08",
+"hash": "3e1f9edb808517ba84f65cb3ebc68de5e7375ab1"
+},
+"activiteiten/golf/golf-countryclub-larchenhof-erpfendorf/index.html": {
+"date": "2026-10-08",
+"hash": "19b9b6ac8f4bf484e64ebd8f296257c17c9a614c"
+},
+"activiteiten/golf/golf-landclub-achensee-pertisau/index.html": {
+"date": "2026-10-08",
+"hash": "31304af5bc94bad6a03adf667491574c61202331"
+},
+"activiteiten/golf/golf-landclub-rasmushof-kitzbuhel/index.html": {
+"date": "2026-10-08",
+"hash": "834148b429b49b6bbd95a81f7139c01f575081a7"
+},
+"activiteiten/golf/golf-resort-achental-grassau/index.html": {
+"date": "2026-10-08",
+"hash": "34b6248ebafa8d0f625b7fcb721464042ec59926"
+},
+"activiteiten/golf/golf-valley-munchen/index.html": {
+"date": "2026-10-08",
+"hash": "afff84e9c464165eebc9c2b7241324c850948ef4"
+},
 "activiteiten/golf/golfbaan-eichenheim-kitzbuhel/index.html": {
 "date": "2026-10-08",
-"hash": "9ea5a0af6619e03599b919595d59292e1707200f"
+"hash": "2e4e211c6f371284cd2f173a010b8100efa98780"
 },
 "activiteiten/golf/golfbaan-kitzbuhel-kaps/index.html": {
 "date": "2026-10-08",
-"hash": "25eb37a276b09d5acf22c09edf9eec3ced716142"
+"hash": "b440e498d8bd0ee9644ad1cac1d2901316b71296"
 },
 "activiteiten/golf/golfbaan-kitzbuhel-schwarzsee/index.html": {
 "date": "2026-10-08",
-"hash": "2e5fb85842667c88b1bbafcd5c207dda085b6825"
+"hash": "4cb36310a32a2c1e46a69cd15b8841e65ee6d045"
+},
+"activiteiten/golf/golfbaan-patting-hochriesblick/index.html": {
+"date": "2026-10-08",
+"hash": "b721ebd2cf97932c07f0afa08641bb62e1268108"
+},
+"activiteiten/golf/golfclub-beuerberg/index.html": {
+"date": "2026-10-08",
+"hash": "db51c64d2255a3f9958083220b2c84102a3246b6"
+},
+"activiteiten/golf/golfclub-gut-brandlhof-saalfelden/index.html": {
+"date": "2026-10-08",
+"hash": "f3f69d3148a59e750eb9fa59ec6e4c0047a22b53"
+},
+"activiteiten/golf/golfclub-innsbruck-igls-championship-course-rinn/index.html": {
+"date": "2026-10-08",
+"hash": "7e96fcf5c3c9b62c3df32c40e46a3d35ecd54c34"
+},
+"activiteiten/golf/golfclub-innsbruck-igls-parkland-course-lans/index.html": {
+"date": "2026-10-08",
+"hash": "e2d7164f61e82cea42c8f462538676f60999706b"
+},
+"activiteiten/golf/golfclub-isarwinkel-bad-tolz/index.html": {
+"date": "2026-10-08",
+"hash": "f2e0f4c6bad9842fb05823e7d5f73cf6aeabe6ea"
 },
 "activiteiten/golf/golfclub-kitzbuheler-alpen-westendorf/index.html": {
 "date": "2026-10-08",
-"hash": "f8f451f7799d6d55fd6e00934c9fbce97f0a507a"
+"hash": "9d075a3117d23f12d74f3b9c0f0ec76384e5f38f"
+},
+"activiteiten/golf/golfclub-mangfalltal/index.html": {
+"date": "2026-10-08",
+"hash": "ff0f95647dd39febf079961606d5d17bd5db0c79"
+},
+"activiteiten/golf/golfclub-mittersill-stuhlfelden-nationalpark-hohe-tauern/index.html": {
+"date": "2026-10-08",
+"hash": "8874b732d63aaa9a3753d93d33dea49f57b369f1"
+},
+"activiteiten/golf/golfclub-pfaffing-wasserburger-land/index.html": {
+"date": "2026-10-08",
+"hash": "d87a8db7053c471c8e02fb64a0195311752ee46c"
+},
+"activiteiten/golf/golfclub-reit-im-winkl-kossen/index.html": {
+"date": "2026-10-08",
+"hash": "d229b00b3dcba85532b64b532c396d62ea1cc4b2"
+},
+"activiteiten/golf/golfclub-ruhpolding/index.html": {
+"date": "2026-10-08",
+"hash": "149566b96b1823b2914a3bbd713aedcca55f7adb"
+},
+"activiteiten/golf/golfclub-seefeld-reith/index.html": {
+"date": "2026-10-08",
+"hash": "c30b41f134b7fd9098453f1fdcef0386ff980e84"
+},
+"activiteiten/golf/golfclub-seefeld-wildmoos/index.html": {
+"date": "2026-10-08",
+"hash": "5c810e97866dea72595f588b130f5751ed2e493c"
+},
+"activiteiten/golf/golfclub-urslautal/index.html": {
+"date": "2026-10-08",
+"hash": "4f287772c4307ed08ed5fa6d4525e10245920817"
+},
+"activiteiten/golf/golfclub-walchsee-moarhof/index.html": {
+"date": "2026-10-08",
+"hash": "f010643b5297e92dc4b001eb05fd88b55c26b31e"
 },
 "activiteiten/golf/golfclub-wilder-kaiser-ellmau/index.html": {
 "date": "2026-10-08",
-"hash": "ded767aaca37550f64299dfd461aa298ed4d09ad"
+"hash": "43e37be89aa370172b7fca6d6583cf45a0906e95"
+},
+"activiteiten/golf/golfclub-zell-am-see-kaprun-schmittenhohe-en/index.html": {
+"date": "2026-10-08",
+"hash": "81ba0ef2d58b6b020699275e0c67e19fdd21bd95"
+},
+"activiteiten/golf/golfplatz-waakirchen-tegernsee-piesenkam/index.html": {
+"date": "2026-10-08",
+"hash": "ed66034e0ef4424f72cf2f7542521eecebc1c5bf"
 },
 "activiteiten/golf/golfplatz-zillertal-uderns/index.html": {
 "date": "2026-10-08",
-"hash": "657f5913831e15867c4132f3f7c89413a294ae13"
+"hash": "47f4c87a4c6efdf455e5a38db9c50412d048b1d7"
 },
 "activiteiten/golf/index.html": {
 "date": "2026-10-08",
-"hash": "f15c19ff0fb55f203f8d6f01cf452026368f16fe"
+"hash": "529314d5306fbb53c0e19c25002d047b011e32b7"
 },
 "activiteiten/golf/kaisergolf-ellmau-par-3/index.html": {
 "date": "2026-10-08",
-"hash": "43f85530443c371518221167a2256801fa512543"
+"hash": "ed51a76e0a635a795a0ac74cea9694eefc3f5768"
 },
-"activiteiten/golf/kaiserwinkl-golf-kossen-larchenhof/index.html": {
+"activiteiten/golf/kaiserwinkl-golf-kossen/index.html": {
 "date": "2026-10-08",
-"hash": "2c6aacd98391478ae97b50180dc0dad24d5d1816"
+"hash": "238d323dd9035ba5bad3d642c713a53fb5170b38"
+},
+"activiteiten/golf/margarethenhof-golfclub-am-tegernsee/index.html": {
+"date": "2026-10-08",
+"hash": "3795306e7e066adcd894f2810a44a02c4a0dd07e"
+},
+"activiteiten/golf/olympia-golf-igls-korte-baan/index.html": {
+"date": "2026-10-08",
+"hash": "62032d74ae6fe2c90d77feb49a6ce73b26f5800b"
+},
+"activiteiten/golf/posthotel-alpengolf-achenkirch/index.html": {
+"date": "2026-10-08",
+"hash": "7532e570030accd85847050645651a500ea76a75"
+},
+"activiteiten/golf/tegernseer-golf-club-bad-wiessee/index.html": {
+"date": "2026-10-08",
+"hash": "c13e11635c3292cf7f95373664b2a0767a8fa99a"
+},
+"activiteiten/golf/tolzer-golfclub-wackersberg/index.html": {
+"date": "2026-10-08",
+"hash": "cc420dd7daa4da67b2794718a12557047c1afc6b"
 },
 "activiteiten/index.html": {
 "date": "2026-10-08",
-"hash": "0d0e942c858465bea654a3ffd87a1f3f235a6de8"
+"hash": "a625a9e7fad1cf5a08d3006726bd3307d778be00"
 },
 "activiteiten/met-kinderen/index.html": {
 "date": "2026-10-08",
@@ -785,7 +925,7 @@
 },
 "activiteiten/zomer/index.html": {
 "date": "2026-10-08",
-"hash": "346bdb8dbcaf2a094c9a410f7c7653ce8deaa5c8"
+"hash": "4bef4a9002af991489e27a279949bdd4a1f99f25"
 },
 "activiteiten/zwemmen/badesee-hopfgarten/index.html": {
 "date": "2026-10-06",
@@ -1119,45 +1259,185 @@
 "date": "2026-10-06",
 "hash": "ce49bbd0763909aeacdc8319862ce129d3eff503"
 },
+"de/aktivitaeten/golf/city-golf-rosenheim/index.html": {
+"date": "2026-10-08",
+"hash": "4934e3a2170d490dcab5a9a4c3719c0414e89be4"
+},
+"de/aktivitaeten/golf/golf-und-countryclub-laerchenhof-erpfendorf/index.html": {
+"date": "2026-10-08",
+"hash": "7a9aa8f1bf3a0aa73d113007dde5ab75ab7f5a6c"
+},
+"de/aktivitaeten/golf/golf-und-landclub-achensee-pertisau/index.html": {
+"date": "2026-10-08",
+"hash": "4895b99a126658150d8e66972a70da3d6b88175a"
+},
+"de/aktivitaeten/golf/golf-und-landclub-rasmushof-kitzbuehel/index.html": {
+"date": "2026-10-08",
+"hash": "ca93b4256a44c60ea4f077c1c119101cd676b07c"
+},
+"de/aktivitaeten/golf/golf-valley-muenchen/index.html": {
+"date": "2026-10-08",
+"hash": "5f52625c057b24d7b1c7e9741e39e38c0f2cdae9"
+},
+"de/aktivitaeten/golf/golfanlage-patting-hochriesblick-riedering/index.html": {
+"date": "2026-10-08",
+"hash": "774b067e08a2d25a8512acc71fb46eba2c3eaab7"
+},
+"de/aktivitaeten/golf/golfclub-am-obinger-see/index.html": {
+"date": "2026-10-08",
+"hash": "40c5e729abaec9f2b074273ea9518a81eba0149a"
+},
+"de/aktivitaeten/golf/golfclub-beuerberg/index.html": {
+"date": "2026-10-08",
+"hash": "c599285c4249d96d0206fc4ff2442cdc90dc05a7"
+},
+"de/aktivitaeten/golf/golfclub-chieming/index.html": {
+"date": "2026-10-08",
+"hash": "71003edbe611b59498fa60d8873c02c51a039072"
+},
+"de/aktivitaeten/golf/golfclub-gut-brandlhof-saalfelden/index.html": {
+"date": "2026-10-08",
+"hash": "9560b03a5eca16aa93b46aa510b5b1b5bf6f3d5c"
+},
+"de/aktivitaeten/golf/golfclub-gut-ising-chieming/index.html": {
+"date": "2026-10-08",
+"hash": "ca4a18a66a9940e725d4e910abcb95ed2b983b94"
+},
+"de/aktivitaeten/golf/golfclub-hoeslwang-chiemgau/index.html": {
+"date": "2026-10-08",
+"hash": "d1c4808a3620b90a59b4af6a87d9c7e68209e37d"
+},
+"de/aktivitaeten/golf/golfclub-isarwinkel-bad-toelz/index.html": {
+"date": "2026-10-08",
+"hash": "79267bab2d06aff44cad65ec35d89f859c30b957"
+},
+"de/aktivitaeten/golf/golfclub-mangfalltal/index.html": {
+"date": "2026-10-08",
+"hash": "9f42ae2c9403b755be43cae0002dc1b697972cde"
+},
+"de/aktivitaeten/golf/golfclub-mittersill-hohe-tauern/index.html": {
+"date": "2026-10-08",
+"hash": "c2ca2f7f99fc6060649a1a8426a2c636e57c044c"
+},
+"de/aktivitaeten/golf/golfclub-pfaffing-wasserburger-land/index.html": {
+"date": "2026-10-08",
+"hash": "6cb6e2139a0120ebbe96ed1d0e8428430a4484f0"
+},
+"de/aktivitaeten/golf/golfclub-reit-im-winkl-koessen/index.html": {
+"date": "2026-10-08",
+"hash": "ac7a416a014088dae6d390710728784c99d4359c"
+},
+"de/aktivitaeten/golf/golfclub-ruhpolding/index.html": {
+"date": "2026-10-08",
+"hash": "103ca3ad7370916014a880343ab2f8f259c95e3a"
+},
+"de/aktivitaeten/golf/golfclub-schloss-elkofen/index.html": {
+"date": "2026-10-08",
+"hash": "c4be76b59bb622be5ddd0a0aeaee0d2ffe7f6fea"
+},
+"de/aktivitaeten/golf/golfclub-schloss-maxlrain/index.html": {
+"date": "2026-10-08",
+"hash": "eba4402c54145f5efda2155b597c6a706830792d"
+},
+"de/aktivitaeten/golf/golfclub-seefeld-reith/index.html": {
+"date": "2026-10-08",
+"hash": "7e328cbb60953abffd8df3e7f7054ccaadc8ea4d"
+},
+"de/aktivitaeten/golf/golfclub-seefeld-wildmoos/index.html": {
+"date": "2026-10-08",
+"hash": "42cbb78bce007ff0f69a2f654c2ebe2451a09219"
+},
+"de/aktivitaeten/golf/golfclub-urslautal-saalfelden/index.html": {
+"date": "2026-10-08",
+"hash": "0c6601122e3f676b13f86aa5072504109d7663dd"
+},
+"de/aktivitaeten/golf/golfclub-walchsee-moarhof/index.html": {
+"date": "2026-10-08",
+"hash": "25b392d670a19293aca7877681a9009226e198c0"
+},
 "de/aktivitaeten/golf/golfclub-wilder-kaiser-ellmau/index.html": {
 "date": "2026-10-08",
-"hash": "3c4c2767a3d02d9365bb19daf2ec591643e40319"
+"hash": "addc2ff7ee36c3920b52b03ae3cdba52436d50bd"
+},
+"de/aktivitaeten/golf/golfclub-zell-am-see-kaprun/index.html": {
+"date": "2026-10-08",
+"hash": "21a3afcde7a8bfe6764511e174cd8213042be6bc"
+},
+"de/aktivitaeten/golf/golfplatz-bad-wiessee-tegernsee/index.html": {
+"date": "2026-10-08",
+"hash": "043ab100c55eeed8566658ef606e002a1fc750c0"
+},
+"de/aktivitaeten/golf/golfplatz-innsbruck-igls-lans/index.html": {
+"date": "2026-10-08",
+"hash": "89bc78ae5363c1a4b88048c800d1f38439ae9c7c"
+},
+"de/aktivitaeten/golf/golfplatz-innsbruck-igls-rinn/index.html": {
+"date": "2026-10-08",
+"hash": "f691680d27f58f4e1b09c0019139dca7ab4b86cb"
 },
 "de/aktivitaeten/golf/golfplatz-kaiserwinkl-koessen/index.html": {
 "date": "2026-10-08",
-"hash": "dbb3b6c74bae3413332d186faa4c3f25a17fc622"
+"hash": "efd16b6d22ad27778d9b26bdf899e1135f0e404f"
 },
 "de/aktivitaeten/golf/golfplatz-kitzbuehel-eichenheim/index.html": {
 "date": "2026-10-08",
-"hash": "05902fadc12c1b1b0e26b9b17e8e1162fbf43fe1"
+"hash": "763fe55c69d7d4ceeb188ba524b8aa82d93d7bf2"
 },
 "de/aktivitaeten/golf/golfplatz-kitzbuehel-kaps/index.html": {
 "date": "2026-10-08",
-"hash": "5934f2adb1fe0cd4d3cb1aaeed36fe3edbe71f2d"
+"hash": "c1f77d59afd9d4b65757ff02aabec3d36a865a6e"
 },
 "de/aktivitaeten/golf/golfplatz-kitzbuehel-schwarzsee/index.html": {
 "date": "2026-10-08",
-"hash": "15c2262a80ed8276d3efd8f5156b84811a563128"
+"hash": "306fa333d7efd1b5aa7578603b81fbf6a3662ea8"
+},
+"de/aktivitaeten/golf/golfplatz-margarethenhof-tegernsee/index.html": {
+"date": "2026-10-08",
+"hash": "55598308dfa15d1dded8bd49f580fe4aae76aa4a"
+},
+"de/aktivitaeten/golf/golfplatz-prien-chiemsee/index.html": {
+"date": "2026-10-08",
+"hash": "ecfd93a61aec7057df5833d7dbe1b9e86838c01a"
+},
+"de/aktivitaeten/golf/golfplatz-toelz-wackersberg/index.html": {
+"date": "2026-10-08",
+"hash": "3f91734f513aa9f444ef45e910b0281357f174e5"
+},
+"de/aktivitaeten/golf/golfplatz-waakirchen-tegernsee/index.html": {
+"date": "2026-10-08",
+"hash": "3d0b26f02694f2fe441c297a57ad550d2b117c37"
 },
 "de/aktivitaeten/golf/golfplatz-westendorf-brixental/index.html": {
 "date": "2026-10-08",
-"hash": "cea6d9fd181918bf644a6a43bbdfb3b82d4f5443"
+"hash": "37a632d3169b7bca4fa40a6d01d7120315e6ccca"
 },
 "de/aktivitaeten/golf/golfplatz-zillertal-uderns/index.html": {
 "date": "2026-10-08",
-"hash": "db6819c225afc683479ae3ff1d362a3041e6f9b3"
+"hash": "f3fd7589daebcb5e82b355f6dd6ae5d0b4c1e0b5"
+},
+"de/aktivitaeten/golf/golfresort-achental-grassau/index.html": {
+"date": "2026-10-08",
+"hash": "c3ed2aa5b46a3c0f071b709ce21ac72656f20e1c"
 },
 "de/aktivitaeten/golf/index.html": {
 "date": "2026-10-08",
-"hash": "e70f8972709b3b65b9ebdbd9650f9f016d4f6a13"
+"hash": "d59d7096e228720b72c022740e67d6fdfe4fe742"
 },
 "de/aktivitaeten/golf/kaisergolf-ellmau-par-3/index.html": {
 "date": "2026-10-08",
-"hash": "bd01e54ca045176d500b3b9abd8e6a74f4b8eeb5"
+"hash": "75b1d3c1f5677cf91ab04319f6aabf7d7b418b89"
+},
+"de/aktivitaeten/golf/olympia-golf-igls/index.html": {
+"date": "2026-10-08",
+"hash": "1b1af6d6e431df31e7ff0de8052e92518f0bd19a"
+},
+"de/aktivitaeten/golf/posthotel-alpengolf-achenkirch/index.html": {
+"date": "2026-10-08",
+"hash": "e9e8cca3157efd4a0a35d24602b6b86ab666de57"
 },
 "de/aktivitaeten/index.html": {
 "date": "2026-10-08",
-"hash": "88b4aa2b38b0bf3080e384018c20776ede562903"
+"hash": "ec4b3f9926006aef8befe6afa49a8c2fc799a6d6"
 },
 "de/aktivitaeten/kultur/almabtrieb-auffach/index.html": {
 "date": "2026-10-08",
@@ -1477,7 +1757,7 @@
 },
 "de/aktivitaeten/sommer/index.html": {
 "date": "2026-10-08",
-"hash": "95609fa10db83c1accebf69beee3426bd62d555b"
+"hash": "48bae5a43cac4f2b7f6a9e6c51889dae8a58019a"
 },
 "de/aktivitaeten/tagesausfluege/glasstadt-rattenberg-winter/index.html": {
 "date": "2026-10-06",
@@ -1905,7 +2185,7 @@
 },
 "de/umgebung/achenkirch/index.html": {
 "date": "2026-10-08",
-"hash": "45eb42bc9b048fe2b311f544ead1c55308abc66b"
+"hash": "5ed7592b0d85fd8815352a648c99db721b0969be"
 },
 "de/umgebung/alpbach/index.html": {
 "date": "2026-10-08",
@@ -2017,15 +2297,15 @@
 },
 "de/umgebung/innsbruck/index.html": {
 "date": "2026-10-08",
-"hash": "dee1f7d9e468f28f18e777672ec03d0afdb6e8fe"
+"hash": "f3b5b2aa61623119227f039eea472e5fd02ce099"
 },
 "de/umgebung/itter/index.html": {
 "date": "2026-10-08",
-"hash": "9f0042957242094ae0b540541d4d7edd8a5e89ec"
+"hash": "4c3a3410f0732db55ea6f88a16743a27b1f7a97b"
 },
 "de/umgebung/jenbach/index.html": {
 "date": "2026-10-08",
-"hash": "b545e85b372b8e12ecc8c16d25589e68828cbe13"
+"hash": "35fbbcf0568cd1f7022867b651f2afbda26c5483"
 },
 "de/umgebung/jochberg/index.html": {
 "date": "2026-10-08",
@@ -2053,11 +2333,11 @@
 },
 "de/umgebung/kitzbuehel/index.html": {
 "date": "2026-10-08",
-"hash": "9fdbe9aa4f196d095b7179d2b2726d8914393136"
+"hash": "47107ba6c54c64104694d67776e8ae379ba84305"
 },
 "de/umgebung/koessen/index.html": {
 "date": "2026-10-08",
-"hash": "3d27ea249026fe565cb954c304d66ffe4bbd83c0"
+"hash": "2c17689e345e7bcb89a527e9e442bbeac6208584"
 },
 "de/umgebung/kramsach/index.html": {
 "date": "2026-10-08",
@@ -2157,7 +2437,7 @@
 },
 "de/umgebung/ruhpolding/index.html": {
 "date": "2026-10-08",
-"hash": "62e2921e483fef1d0d642c04503387b8c5afc366"
+"hash": "65055805b89cb3e9e160eac478d9d22ceb3e58ba"
 },
 "de/umgebung/scheffau/index.html": {
 "date": "2026-10-08",
@@ -2173,7 +2453,7 @@
 },
 "de/umgebung/seefeld-in-tirol/index.html": {
 "date": "2026-10-08",
-"hash": "b5e30777d4c445db879b49022ff4ec3993ce9426"
+"hash": "b276bba09c4bee63ae8dc7af385e58738317f6f0"
 },
 "de/umgebung/soell/index.html": {
 "date": "2026-10-08",
@@ -2229,7 +2509,7 @@
 },
 "de/umgebung/walchsee/index.html": {
 "date": "2026-10-08",
-"hash": "bb5100bd8e792ed1a93bdb034eb3f895b23f9263"
+"hash": "cb7fd4ba584ce4a9a3856aa112f04ef654d2062d"
 },
 "de/umgebung/wattens/index.html": {
 "date": "2026-10-08",
@@ -2245,7 +2525,7 @@
 },
 "de/umgebung/zell-am-see/index.html": {
 "date": "2026-10-08",
-"hash": "4882c7f135552a1d1a42579f5dc008c6b025aa8b"
+"hash": "d7e40b566ee4bd2ecb5fa117ce020458d5bbb050"
 },
 "de/umgebung/zell-am-ziller/index.html": {
 "date": "2026-10-08",
@@ -2763,41 +3043,181 @@
 "date": "2026-10-06",
 "hash": "bc98253c2983e6ba52cce79a923017a477fdecc7"
 },
+"en/activities/golf/city-golf-rosenheim/index.html": {
+"date": "2026-10-08",
+"hash": "6143a4b249cb0374f814e3aee51f7b7c1c68a2e1"
+},
+"en/activities/golf/golf-club-beuerberg/index.html": {
+"date": "2026-10-08",
+"hash": "5c2fe54bbae8d1f5ba7d09d1c2576a8beb022196"
+},
+"en/activities/golf/golf-club-chieming/index.html": {
+"date": "2026-10-08",
+"hash": "cb3eebf7504151204e39b91f364ca2c29af85afd"
+},
+"en/activities/golf/golf-club-gut-brandlhof-saalfelden/index.html": {
+"date": "2026-10-08",
+"hash": "83dde5229396aa979d765a50c13bc4d2fc3bc1fd"
+},
+"en/activities/golf/golf-club-gut-ising-chieming/index.html": {
+"date": "2026-10-08",
+"hash": "0c2f8906da134af588ab70f85db736e79caec524"
+},
+"en/activities/golf/golf-club-hoeslwang-chiemgau/index.html": {
+"date": "2026-10-08",
+"hash": "73397b35abfb20b7e4b770ae585cc9c2797a03da"
+},
+"en/activities/golf/golf-club-isarwinkel-bad-toelz/index.html": {
+"date": "2026-10-08",
+"hash": "f392798772e4721b096b7255e85087a3fbe8fc6e"
+},
+"en/activities/golf/golf-club-mangfalltal/index.html": {
+"date": "2026-10-08",
+"hash": "b49560b2a1d4ebfbb21168c067f8af1e21934933"
+},
+"en/activities/golf/golf-club-mittersill-hohe-tauern/index.html": {
+"date": "2026-10-08",
+"hash": "436fb35a1f747ef66f9fb13709eebd93b1b99624"
+},
+"en/activities/golf/golf-club-obinger-see/index.html": {
+"date": "2026-10-08",
+"hash": "462eb7a67a096225da754e5bac4211d20f6f2222"
+},
+"en/activities/golf/golf-club-pfaffing-wasserburger-land/index.html": {
+"date": "2026-10-08",
+"hash": "f5f7414b06186280358190130caa42cb7898499b"
+},
+"en/activities/golf/golf-club-reit-im-winkl-koessen/index.html": {
+"date": "2026-10-08",
+"hash": "b035dc8cb44961e7f2dcbab0842b08c9cbbde549"
+},
+"en/activities/golf/golf-club-ruhpolding/index.html": {
+"date": "2026-10-08",
+"hash": "2277b29e7255dd1283f3462b0b8243136de6ecad"
+},
+"en/activities/golf/golf-club-schloss-elkofen/index.html": {
+"date": "2026-10-08",
+"hash": "0ba030b2b3ef809b7c30f4e8832ad8e23fda040a"
+},
+"en/activities/golf/golf-club-schloss-maxlrain/index.html": {
+"date": "2026-10-08",
+"hash": "f5f265cdd26a85dd0a46e61430cab1bdf02721ed"
+},
+"en/activities/golf/golf-club-seefeld-reith/index.html": {
+"date": "2026-10-08",
+"hash": "16d29bb537c416d0eb31e9828b1316ef0f57f5d6"
+},
+"en/activities/golf/golf-club-seefeld-wildmoos/index.html": {
+"date": "2026-10-08",
+"hash": "88a4c9a4d4812ced132b0f6202fc6af6e807a08e"
+},
+"en/activities/golf/golf-club-urslautal-saalfelden/index.html": {
+"date": "2026-10-08",
+"hash": "ca227eb5b16309049d1182c16bcf3e15da73a993"
+},
+"en/activities/golf/golf-club-walchsee-moarhof/index.html": {
+"date": "2026-10-08",
+"hash": "4d5cbdb620e5f390361452ec53b8a7df1ffffa9f"
+},
 "en/activities/golf/golf-club-wilder-kaiser-ellmau/index.html": {
 "date": "2026-10-08",
-"hash": "902b39e359c50381c892a72d72c862f7f4550269"
+"hash": "49dd6f1f0318bd791e7136d4374d78eff1f75e86"
+},
+"en/activities/golf/golf-country-club-laerchenhof-erpfendorf/index.html": {
+"date": "2026-10-08",
+"hash": "4ec14321a2c6ee3013b2f3a232fd1f61bca0fd32"
+},
+"en/activities/golf/golf-course-bad-wiessee-tegernsee/index.html": {
+"date": "2026-10-08",
+"hash": "57d3ad7a74c9bea84f7f2711f577bcbe564e8d33"
+},
+"en/activities/golf/golf-course-innsbruck-igls-lans/index.html": {
+"date": "2026-10-08",
+"hash": "94be2da7d9f02dbe944d243c3918a164714d9647"
+},
+"en/activities/golf/golf-course-innsbruck-igls-rinn/index.html": {
+"date": "2026-10-08",
+"hash": "1fff7924609523f8b3219da45dd8ba229897f624"
 },
 "en/activities/golf/golf-course-kaiserwinkl-koessen/index.html": {
 "date": "2026-10-08",
-"hash": "2a78b363be7312aa512f100074c9a0ed27de6844"
+"hash": "be870af8a99573719d31280db6b606796b2f0881"
 },
 "en/activities/golf/golf-course-kitzbuehel-eichenheim/index.html": {
 "date": "2026-10-08",
-"hash": "8c1baf4fc45da0292341cb7d8a85053a8dca3beb"
+"hash": "f8cd97aa4fad57494d27bc0fc06fa9da2f15f898"
 },
 "en/activities/golf/golf-course-kitzbuehel-kaps/index.html": {
 "date": "2026-10-08",
-"hash": "765d47510a682f623827ddb007f906be3b20688c"
+"hash": "bb488733b0a5334928c93c4a6fe9e2f38acfb0b4"
 },
 "en/activities/golf/golf-course-kitzbuehel-schwarzsee/index.html": {
 "date": "2026-10-08",
-"hash": "40ad199df7311acea7461631e2e30be0db7da44e"
+"hash": "0b83a3ecc2969cedaae8fc806e7465eaeaa6866b"
+},
+"en/activities/golf/golf-course-margarethenhof-tegernsee/index.html": {
+"date": "2026-10-08",
+"hash": "ed07410f243669bdc461a4269ec8ee8363bb1f20"
+},
+"en/activities/golf/golf-course-prien-chiemsee/index.html": {
+"date": "2026-10-08",
+"hash": "78af193c3fbdeda1a7b372e3544720a71c688043"
+},
+"en/activities/golf/golf-course-toelz-wackersberg/index.html": {
+"date": "2026-10-08",
+"hash": "e299c654d52bf1eb50731494980029852806602b"
+},
+"en/activities/golf/golf-course-waakirchen-tegernsee/index.html": {
+"date": "2026-10-08",
+"hash": "de5a26265beafafb71e52b7dcf89113b57a28359"
 },
 "en/activities/golf/golf-course-westendorf-brixental/index.html": {
 "date": "2026-10-08",
-"hash": "e550cdd20eb89640028969bd797aee52909de8bc"
+"hash": "b52990c52adb4ba9261c34f9f5665814f96961fa"
 },
 "en/activities/golf/golf-course-zillertal-uderns/index.html": {
 "date": "2026-10-08",
-"hash": "0413bcd8a94f6f3002efa4c61f3a5b1c88bfc22f"
+"hash": "43b578464702f247790a44f44e45f7943bee0c08"
+},
+"en/activities/golf/golf-landclub-achensee-pertisau/index.html": {
+"date": "2026-10-08",
+"hash": "685d8a961fab8fece5a338676842c32f3fd17205"
+},
+"en/activities/golf/golf-landclub-rasmushof-kitzbuehel/index.html": {
+"date": "2026-10-08",
+"hash": "6ca4ec6fe1895d689d2be270edb5275e631cbb11"
+},
+"en/activities/golf/golf-patting-hochriesblick-riedering/index.html": {
+"date": "2026-10-08",
+"hash": "8a81e35523a024960ad8c27efbba25e47a525261"
+},
+"en/activities/golf/golf-resort-achental-grassau/index.html": {
+"date": "2026-10-08",
+"hash": "d44eea852d67d4a3aa5f46005255198a035e5b41"
+},
+"en/activities/golf/golf-valley-munich/index.html": {
+"date": "2026-10-08",
+"hash": "8f9f3acc22dd79e1eaa8b3243b2e912e72c4158d"
+},
+"en/activities/golf/golf-zell-am-see-kaprun/index.html": {
+"date": "2026-10-08",
+"hash": "009148d42576e4b60d267e71e1dad88ef0f9089d"
 },
 "en/activities/golf/index.html": {
 "date": "2026-10-08",
-"hash": "1e65fed841101fcab234d4c054e36328b2186496"
+"hash": "e2b27afd25853803a4307632310582802dd2d585"
 },
 "en/activities/golf/kaisergolf-ellmau-par-3/index.html": {
 "date": "2026-10-08",
-"hash": "3b068a9145dac28b93e60b3f0afce893c7338d2e"
+"hash": "f330471a89b0a6cb5b7efd5d91d449270ab63e5c"
+},
+"en/activities/golf/olympia-golf-igls/index.html": {
+"date": "2026-10-08",
+"hash": "e7bc7568ecb3adb0d117703ab9ddc0a3760c8c30"
+},
+"en/activities/golf/posthotel-alpengolf-achenkirch/index.html": {
+"date": "2026-10-08",
+"hash": "a31de6088c1689825329ebe22dbabfe456487360"
 },
 "en/activities/hiking/ahorn-alm-walk-mayrhofen/index.html": {
 "date": "2026-10-06",
@@ -2993,7 +3413,7 @@
 },
 "en/activities/index.html": {
 "date": "2026-10-08",
-"hash": "bf399954e8f08caa4e41b8e519fadae84aa6028e"
+"hash": "e364f45429dae7a41fa937a813d995d7744e099f"
 },
 "en/activities/rainy-day/index.html": {
 "date": "2026-10-08",
@@ -3017,7 +3437,7 @@
 },
 "en/activities/summer/index.html": {
 "date": "2026-10-08",
-"hash": "547cfcb1ba1da0c18d103c9238b9e9cdf3b491cc"
+"hash": "13f69f56fc57ca2988c9b3d69d6ec4a6860acf7b"
 },
 "en/activities/swimming/achensee-swimming-pertisau/index.html": {
 "date": "2026-10-06",
@@ -3273,7 +3693,7 @@
 },
 "en/nearby/achenkirch/index.html": {
 "date": "2026-10-08",
-"hash": "0a0e8d68594d7d50cfaefee44675f401e4ecd60d"
+"hash": "abf8083405706aa9902d75bf5612d0f0d4178340"
 },
 "en/nearby/alpbach/index.html": {
 "date": "2026-10-08",
@@ -3385,15 +3805,15 @@
 },
 "en/nearby/innsbruck/index.html": {
 "date": "2026-10-08",
-"hash": "2efeb23cf59fc5783fa05d5b89e64382cb7f9720"
+"hash": "636271af4e3ee897cdfbcc5c9f9000e52c1971c2"
 },
 "en/nearby/itter/index.html": {
 "date": "2026-10-08",
-"hash": "16785ce70225b35fffe8ab44ed99965e98188e20"
+"hash": "4fab47b671d575334a3e5ac81e3c869fb9fbfb6f"
 },
 "en/nearby/jenbach/index.html": {
 "date": "2026-10-08",
-"hash": "108d90e50fc1fe4177e5f8e07d3abba3d99554af"
+"hash": "fa542b16a2f7b40ba62c0f0a488a17b0011aa3b7"
 },
 "en/nearby/jochberg/index.html": {
 "date": "2026-10-08",
@@ -3421,11 +3841,11 @@
 },
 "en/nearby/kitzbuehel/index.html": {
 "date": "2026-10-08",
-"hash": "02c037490ed1325b98d718786d759cc4f1acba62"
+"hash": "2b8c311a0f78cc7c07435de7946888985cc119c1"
 },
 "en/nearby/koessen/index.html": {
 "date": "2026-10-08",
-"hash": "43d41b09b152a54b8d1f14139f69c4437ea3040c"
+"hash": "a8dd920bfa77bb8199bdb36304dce6448d947934"
 },
 "en/nearby/kramsach/index.html": {
 "date": "2026-10-08",
@@ -3525,7 +3945,7 @@
 },
 "en/nearby/ruhpolding/index.html": {
 "date": "2026-10-08",
-"hash": "f94aafa9c2ac06b69a43fa048750cddcd123b03b"
+"hash": "b4e326322864ddfc3b50b748d2a40414073007d2"
 },
 "en/nearby/scheffau/index.html": {
 "date": "2026-10-08",
@@ -3541,7 +3961,7 @@
 },
 "en/nearby/seefeld-in-tirol/index.html": {
 "date": "2026-10-08",
-"hash": "662a66cb9a9827d113ea41e875c04ebbd8829d41"
+"hash": "0fe19e32347c2bee198a94a04c6358214aac89f6"
 },
 "en/nearby/soell/index.html": {
 "date": "2026-10-08",
@@ -3597,7 +4017,7 @@
 },
 "en/nearby/walchsee/index.html": {
 "date": "2026-10-08",
-"hash": "5af1f310f4c55c2a51401a5a8caabf39cbf55872"
+"hash": "915b72960afa8d79603322bd63079ba8414fdfc8"
 },
 "en/nearby/wattens/index.html": {
 "date": "2026-10-08",
@@ -3613,7 +4033,7 @@
 },
 "en/nearby/zell-am-see/index.html": {
 "date": "2026-10-08",
-"hash": "23c2533c621abd5f1a4e004bc4a5ba8bc72ff56d"
+"hash": "6a7761a3090a78ababcf265f1765db9c46458bbd"
 },
 "en/nearby/zell-am-ziller/index.html": {
 "date": "2026-10-08",
@@ -3741,7 +4161,7 @@
 },
 "omgeving/achenkirch/index.html": {
 "date": "2026-10-08",
-"hash": "08c52cdc50565831ad6273a0d7b526a0ef4eb2da"
+"hash": "2109fdc220aa97ecb09dec9961a2c3cecef1b984"
 },
 "omgeving/alpbach/index.html": {
 "date": "2026-10-08",
@@ -3853,15 +4273,15 @@
 },
 "omgeving/innsbruck/index.html": {
 "date": "2026-10-08",
-"hash": "9383cbdd8397df0722560392646c12e2ce124c89"
+"hash": "945586f2e434d7cd77b8c91745cdc5875c857977"
 },
 "omgeving/itter/index.html": {
 "date": "2026-10-08",
-"hash": "bf772323a0aa946d0b03b45f605b05d1bd77e9b9"
+"hash": "73b6fb9e461dd4dc917a46f4f28c8aee563188ce"
 },
 "omgeving/jenbach/index.html": {
 "date": "2026-10-08",
-"hash": "dca2084fb9ad9c2945f7af330a403a95acfc09f5"
+"hash": "a3d3897511b1b3962bd4cd68411ebdfe2a2461c5"
 },
 "omgeving/jochberg/index.html": {
 "date": "2026-10-08",
@@ -3889,11 +4309,11 @@
 },
 "omgeving/kitzbuehel/index.html": {
 "date": "2026-10-08",
-"hash": "cf700e9fbd4470924c133c3bc78fb4b88c80bfbc"
+"hash": "d523bc3cb0d19005e4ad7537e9034ccb85653049"
 },
 "omgeving/koessen/index.html": {
 "date": "2026-10-08",
-"hash": "8f1751d6b161d7b4427cf076d0fb92dc17783b40"
+"hash": "ec27f5fb85da856bb5dae24724a38a2eb6ba278a"
 },
 "omgeving/kramsach/index.html": {
 "date": "2026-10-08",
@@ -3993,7 +4413,7 @@
 },
 "omgeving/ruhpolding/index.html": {
 "date": "2026-10-08",
-"hash": "1a623d9c997be36e9b0bbf476983a5fe04784843"
+"hash": "0815fe647a3f831ca77dec7e48a73c4346e021ca"
 },
 "omgeving/scheffau/index.html": {
 "date": "2026-10-08",
@@ -4009,7 +4429,7 @@
 },
 "omgeving/seefeld-in-tirol/index.html": {
 "date": "2026-10-08",
-"hash": "bc485a8e1b7f9ffd1c7f5936c995ad1c483fc753"
+"hash": "109dc8318caf572360b12d029ad838e7f89eb5c0"
 },
 "omgeving/soell/index.html": {
 "date": "2026-10-08",
@@ -4065,7 +4485,7 @@
 },
 "omgeving/walchsee/index.html": {
 "date": "2026-10-08",
-"hash": "314c8a9cdabde696baeb05bb4073d115e81a82e8"
+"hash": "d3cb6b3af6d7b464b114f503b6cc0f265afad387"
 },
 "omgeving/wattens/index.html": {
 "date": "2026-10-08",
@@ -4081,7 +4501,7 @@
 },
 "omgeving/zell-am-see/index.html": {
 "date": "2026-10-08",
-"hash": "60e45602b2e2113e1ff4cc33b7d2638aecd13f53"
+"hash": "b48aee2f83585bcc2f35dce0e8c8ce91b9dea904"
 },
 "omgeving/zell-am-ziller/index.html": {
 "date": "2026-10-08",

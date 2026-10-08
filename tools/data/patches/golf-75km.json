@@ -1,0 +1,3502 @@
+[
+ {
+  "id": "g9",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "walchsee",
+  "slug_en": "golf-club-walchsee-moarhof",
+  "slug_de": "golfclub-walchsee-moarhof",
+  "title": {
+   "nl": "Golfclub Walchsee-Moarhof",
+   "en": "Walchsee-Moarhof Golf Club",
+   "de": "Golfclub Walchsee-Moarhof"
+  },
+  "tagline": {
+   "nl": "Negen holes aan de rand van het Schwemm-hoogveen",
+   "en": "Nine holes on the edge of the Schwemm bog",
+   "de": "Neun Löcher am Rand des Schwemm-Hochmoors"
+  },
+  "intro": {
+   "nl": "Golfclub Walchsee-Moarhof is een negenholesbaan aan de rand van het natuurreservaat Schwemm, een hoogveengebied in het Kaiserwinkl. Het terrein is heuvelachtig; afslagplaatsen en greens liggen deels hoger dan de fairway. De baan wordt als sportief tot uitdagend omschreven, dus wie loopt merkt het hoogteverschil.\n\nOm in te spelen zijn er een driving range met 20 afslagplaatsen, pitching-, chipping- en puttinggreens en een oefenbunker. Het seizoen loopt volgens de opgaven van april tot oktober. Walchsee zelf ligt aan een meer met dezelfde naam, waardoor een ronde goed past in een dag aan het water. Over par en lengte spreken de bronnen elkaar tegen; vraag dat bij de club na als je nauwkeurig wilt plannen.",
+   "en": "Walchsee-Moarhof Golf Club is a nine-hole course on the edge of the Schwemm nature reserve, a raised-bog area in the Kaiserwinkl. The ground is hilly, and some tees and greens sit above the fairway. The course is described as sporting to demanding, so walkers will notice the elevation.\n\nFor warming up there is a driving range with 20 tees, pitching, chipping and putting greens and a practice bunker. According to the listings the season runs from April to October. Walchsee itself lies on a lake of the same name, so a round fits well into a day by the water. Sources disagree on par and length; ask the club if you want to plan precisely.",
+   "de": "Der Golfclub Walchsee-Moarhof ist ein Neun-Loch-Platz am Rand des Naturschutzgebiets Schwemm, einem Hochmoor im Kaiserwinkl. Das Gelände ist hügelig, manche Abschläge und Grüns liegen erhöht. Der Platz gilt als sportlich bis anspruchsvoll; wer zu Fuß geht, spürt die Höhenunterschiede.\n\nZum Einspielen gibt es eine Driving Range mit 20 Abschlägen, Pitching-, Chipping- und Putting-Grüns sowie einen Übungsbunker. Laut Angaben dauert die Saison von April bis Oktober. Walchsee selbst liegt an einem gleichnamigen See, sodass sich eine Runde gut in einen Tag am Wasser einfügt. Zu Par und Länge widersprechen sich die Quellen; bei genauer Planung bitte beim Club nachfragen."
+  },
+  "tips": {
+   "nl": [
+    "Reken op een heuvelachtige ronde en plan genoeg tijd in, ook voor negen holes.",
+    "Combineer de ronde met een duik of wandeling aan de Walchsee.",
+    "Vraag vooraf naar par en afstanden van de afslagplaatsen; bronnen verschillen."
+   ],
+   "en": [
+    "Expect a hilly round and allow enough time, even for nine holes.",
+    "Combine the round with a swim or walk at Lake Walchsee.",
+    "Ask about par and tee distances beforehand; sources differ."
+   ],
+   "de": [
+    "Rechnen Sie mit einer hügeligen Runde und planen Sie auch für neun Löcher genug Zeit ein.",
+    "Verbinden Sie die Runde mit einem Bad oder Spaziergang am Walchsee.",
+    "Erkundigen Sie sich vorab nach Par und Abschlaglängen; die Quellen weichen ab."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 55 minuten rijden vanaf Niederau, via Kufstein of Kössen naar Walchsee in het Kaiserwinkl; hemelsbreed ca. 30 km.",
+   "en": "About 55 minutes by car from Niederau, via Kufstein or Kössen to Walchsee in the Kaiserwinkl; roughly 30 km as the crow flies.",
+   "de": "Ca. 55 Minuten Fahrt ab Niederau, über Kufstein oder Kössen nach Walchsee im Kaiserwinkl; Luftlinie rund 30 km."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden (ca. 30 km hemelsbreed)",
+    "en": "Approx. 55 min drive (approx. 30 km as the crow flies)",
+    "de": "Ca. 55 Min. Fahrt (ca. 30 km Luftlinie)"
+   },
+   "season": {
+    "nl": "April tot oktober",
+    "en": "April to October",
+    "de": "April bis Oktober"
+   }
+  },
+  "location": {
+   "nl": "Walchsee, Kaiserwinkl",
+   "en": "Walchsee, Kaiserwinkl",
+   "de": "Walchsee, Kaiserwinkl"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-walchsee",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel holes heeft de baan?",
+     "en": "How many holes does the course have?",
+     "de": "Wie viele Löcher hat der Platz?"
+    },
+    "a": {
+     "nl": "Negen holes, met een driving range van 20 afslagplaatsen.",
+     "en": "Nine holes, with a driving range of 20 tees.",
+     "de": "Neun Löcher, dazu eine Driving Range mit 20 Abschlägen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar ligt de baan?",
+     "en": "Where is the course?",
+     "de": "Wo liegt der Platz?"
+    },
+    "a": {
+     "nl": "Aan de rand van het natuurreservaat Schwemm bij Walchsee.",
+     "en": "On the edge of the Schwemm nature reserve near Walchsee.",
+     "de": "Am Rand des Naturschutzgebiets Schwemm bei Walchsee."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g10",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "koessen",
+  "slug_en": "golf-club-reit-im-winkl-koessen",
+  "slug_de": "golfclub-reit-im-winkl-koessen",
+  "title": {
+   "nl": "Golfclub Reit im Winkl-Kössen",
+   "en": "Reit im Winkl-Kössen Golf Club",
+   "de": "Golfclub Reit im Winkl-Kössen"
+  },
+  "tagline": {
+   "nl": "Grensoverschrijdende 18 holes: zes in Tirol, twaalf in Beieren",
+   "en": "A cross-border 18-hole course: six holes in Tyrol, twelve in Bavaria",
+   "de": "Grenzüberschreitende 18 Löcher: sechs in Tirol, zwölf in Bayern"
+  },
+  "intro": {
+   "nl": "Wie hier golft, steekt de grens tussen Oostenrijk en Duitsland meerdere keren over. Van de 18 holes (par 70) liggen er zes in Tirol en twaalf in Beieren; het clubhuis staat aan Oostenrijkse kant. De baan opende volgens opgave in 1985 en ligt op een plateau ten oosten van Kössen, met zicht op het Kaisergebergte en de Chiemgauer Alpen. De gele tees meten 5.461 m, de rode 4.794 m.\n\nGasten zijn welkom, maar moeten zich aanmelden en een clubpas met geregistreerd handicap tonen (maximaal 54; in het weekend en op feestdagen 36). Er is een driving range met 35 afslagplaatsen, waarvan 10 overdekt, plus putting-, pitching- en chippinggreens. Het seizoen loopt van april tot november.",
+   "en": "Playing here means crossing the Austrian-German border more than once. Of the 18 holes (par 70), six are in Tyrol and twelve in Bavaria, with the clubhouse on the Austrian side. The course reportedly opened in 1985 and lies on a plateau east of Kössen, with views of the Kaiser mountains and the Chiemgau Alps. The yellow tees measure 5,461 m, the red 4,794 m.\n\nGuests are welcome but must register and show a club card with a registered handicap (up to 54; 36 at weekends and on public holidays). There is a driving range with 35 tees, 10 of them covered, plus putting, pitching and chipping greens. The season runs from April to November.",
+   "de": "Wer hier spielt, überquert die Grenze zwischen Österreich und Deutschland mehrfach. Von den 18 Löchern (Par 70) liegen sechs in Tirol und zwölf in Bayern; das Clubhaus steht auf österreichischer Seite. Der Platz wurde laut Angaben 1985 eröffnet und liegt auf einer Hochebene östlich von Kössen mit Blick auf das Kaisergebirge und die Chiemgauer Alpen. Die gelben Abschläge messen 5.461 m, die roten 4.794 m.\n\nGäste sind willkommen, müssen sich aber anmelden und einen Clubausweis mit eingetragenem Handicap vorlegen (bis 54; an Wochenenden und Feiertagen 36). Es gibt eine Driving Range mit 35 Abschlägen, davon 10 überdacht, dazu Putting-, Pitching- und Chipping-Grüns. Die Saison dauert von April bis November."
+  },
+  "tips": {
+   "nl": [
+    "Meld je vooraf aan en neem je handicapbewijs mee; zonder is spelen niet mogelijk.",
+    "Gebruik de driving range voor de start; 10 van de 35 plaatsen zijn overdekt.",
+    "Neem je identiteitsbewijs mee: de baan loopt over de landsgrens."
+   ],
+   "en": [
+    "Register in advance and bring proof of your handicap; without it you cannot play.",
+    "Warm up on the range before teeing off; 10 of its 35 tees are covered.",
+    "Bring ID: the course crosses the national border."
+   ],
+   "de": [
+    "Melden Sie sich vorab an und bringen Sie den Handicap-Nachweis mit; ohne ihn ist kein Spiel möglich.",
+    "Spielen Sie sich auf der Range ein; 10 der 35 Abschläge sind überdacht.",
+    "Nehmen Sie einen Ausweis mit: Der Platz verläuft über die Landesgrenze."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau, naar Kössen; hemelsbreed ca. 35 km.",
+   "en": "About 60 minutes by car from Niederau to Kössen; roughly 35 km as the crow flies.",
+   "de": "Ca. 60 Minuten Fahrt ab Niederau nach Kössen; Luftlinie rund 35 km."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 60 min rijden (ca. 35 km hemelsbreed)",
+    "en": "Approx. 60 min drive (approx. 35 km as the crow flies)",
+    "de": "Ca. 60 Min. Fahrt (ca. 35 km Luftlinie)"
+   },
+   "season": {
+    "nl": "April tot november",
+    "en": "April to November",
+    "de": "April bis November"
+   }
+  },
+  "location": {
+   "nl": "Kössen, op de grens met Reit im Winkl",
+   "en": "Kössen, on the border with Reit im Winkl",
+   "de": "Kössen, an der Grenze zu Reit im Winkl"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-reit-im-winkl-koessen",
+  "faq": [
+   {
+    "q": {
+     "nl": "Mogen gasten spelen?",
+     "en": "Can visitors play?",
+     "de": "Dürfen Gäste spielen?"
+    },
+    "a": {
+     "nl": "Ja, na aanmelding en met een clubpas met geregistreerd handicap.",
+     "en": "Yes, after registering and with a club card showing a registered handicap.",
+     "de": "Ja, nach Anmeldung und mit Clubausweis mit eingetragenem Handicap."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waarom is de baan bijzonder?",
+     "en": "What makes the course unusual?",
+     "de": "Was ist das Besondere?"
+    },
+    "a": {
+     "nl": "Hij ligt in twee landen: zes holes in Tirol en twaalf in Beieren.",
+     "en": "It lies in two countries: six holes in Tyrol and twelve in Bavaria.",
+     "de": "Er liegt in zwei Ländern: sechs Löcher in Tirol und zwölf in Bayern."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g11",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "golf-country-club-laerchenhof-erpfendorf",
+  "slug_de": "golf-und-countryclub-laerchenhof-erpfendorf",
+  "title": {
+   "nl": "Golf & Countryclub Lärchenhof Erpfendorf",
+   "en": "Lärchenhof Golf & Country Club, Erpfendorf",
+   "de": "Golf- und Countryclub Lärchenhof Erpfendorf"
+  },
+  "tagline": {
+   "nl": "Negen holes met driving range en korte-spelpark bij St. Johann",
+   "en": "Nine holes with a range and short-game park near St. Johann",
+   "de": "Neun Löcher mit Range und Kurzspielpark bei St. Johann"
+  },
+  "intro": {
+   "nl": "Tussen Kitzbühel en St. Johann in Tirol ligt in Erpfendorf de Lärchenhof, een negenholesbaan met water als belangrijkste hindernis. Het terrein is vlak. Volgens de toeristische bronnen liggen er 5 waterpartijen en 47 bunkers op en rond de baan; hole 8 is een par 5 en geldt als de zwaarste. De club noemt het ook een plek voor wie variatie zoekt: naast de hoofdbaan is er een overdekte driving range en een korte-spelpark met een academiebaan van zes holes.\n\nOmdat de baan negen holes heeft, kun je er twee keer rond met verschillende afslagplaatsen of gewoon één keer voor een kortere sessie. Het seizoen loopt ruwweg van april tot oktober of november. Let op: dit is een andere club dan Kaiserwinkl Golf in Kössen.",
+   "en": "At Erpfendorf, between Kitzbühel and St. Johann in Tirol, the Lärchenhof is a nine-hole course where water is the main hazard. The ground is flat. According to tourism sources there are 5 water hazards and 47 bunkers; hole 8 is a par 5 and rated the hardest. Besides the main course there is a covered driving range and a short-game park with a six-hole academy course.\n\nBecause there are nine holes, you can play twice around from different tees or just once for a shorter session. The season runs roughly from April to October or November. Note that this is a different club from Kaiserwinkl Golf in Kössen.",
+   "de": "In Erpfendorf, zwischen Kitzbühel und St. Johann in Tirol, liegt der Lärchenhof, ein Neun-Loch-Platz, auf dem Wasser das wichtigste Hindernis ist. Das Gelände ist flach. Laut touristischen Quellen gibt es 5 Wasserhindernisse und 47 Bunker; Bahn 8 ist ein Par 5 und gilt als die schwerste. Neben dem Hauptplatz gibt es eine überdachte Driving Range und einen Kurzspielpark mit einer Akademieanlage mit sechs Löchern.\n\nWeil es neun Löcher sind, kann man zweimal von verschiedenen Abschlägen herumgehen oder nur einmal für eine kürzere Einheit. Die Saison dauert etwa von April bis Oktober oder November. Achtung: Das ist ein anderer Club als Kaiserwinkl Golf in Kössen."
+  },
+  "tips": {
+   "nl": [
+    "Bereken water en bunkers goed; vooral op de laatste holes telt precisie.",
+    "Gebruik de overdekte range of de korte-spelpark bij een bui.",
+    "Controleer vooraf of je de juiste club hebt: er zijn twee banen met de naam Lärchenhof."
+   ],
+   "en": [
+    "Plan around the water and bunkers; precision counts most on the closing holes.",
+    "Use the covered range or the short-game park during a shower.",
+    "Check you have the right club: two courses are called Lärchenhof."
+   ],
+   "de": [
+    "Planen Sie Wasser und Bunker ein; auf den Schlussbahnen zählt Präzision.",
+    "Nutzen Sie bei Schauern die überdachte Range oder den Kurzspielpark.",
+    "Prüfen Sie, dass es der richtige Club ist: Zwei Anlagen heißen Lärchenhof."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 45 minuten rijden vanaf Niederau, via Kitzbühel naar Erpfendorf; hemelsbreed ca. 29 km.",
+   "en": "About 45 minutes by car from Niederau, via Kitzbühel to Erpfendorf; roughly 29 km as the crow flies.",
+   "de": "Ca. 45 Minuten Fahrt ab Niederau, über Kitzbühel nach Erpfendorf; Luftlinie rund 29 km."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden (ca. 29 km hemelsbreed)",
+    "en": "Approx. 45 min drive (approx. 29 km as the crow flies)",
+    "de": "Ca. 45 Min. Fahrt (ca. 29 km Luftlinie)"
+   },
+   "season": {
+    "nl": "April tot oktober",
+    "en": "April to October",
+    "de": "April bis Oktober"
+   }
+  },
+  "location": {
+   "nl": "Erpfendorf, Kirchdorf in Tirol",
+   "en": "Erpfendorf, Kirchdorf in Tirol",
+   "de": "Erpfendorf, Kirchdorf in Tirol"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-laerchenhof",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er naast de hoofdbaan?",
+     "en": "What is there besides the main course?",
+     "de": "Was gibt es neben dem Hauptplatz?"
+    },
+    "a": {
+     "nl": "Een overdekte driving range en een korte-spelpark met een academiebaan van zes holes.",
+     "en": "A covered driving range and a short-game park with a six-hole academy course.",
+     "de": "Eine überdachte Driving Range und ein Kurzspielpark mit einer Akademieanlage mit sechs Löchern."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is dit dezelfde club als in Kössen?",
+     "en": "Is this the same club as in Kössen?",
+     "de": "Ist das derselbe Club wie in Kössen?"
+    },
+    "a": {
+     "nl": "Nee; Kaiserwinkl Golf in Kössen is een aparte 18-holesbaan.",
+     "en": "No; Kaiserwinkl Golf in Kössen is a separate 18-hole course.",
+     "de": "Nein; Kaiserwinkl Golf in Kössen ist ein eigener 18-Loch-Platz."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g12",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "golf-landclub-rasmushof-kitzbuehel",
+  "slug_de": "golf-und-landclub-rasmushof-kitzbuehel",
+  "title": {
+   "nl": "Golf & Landclub Rasmushof Kitzbühel",
+   "en": "Rasmushof Golf & Country Club, Kitzbühel",
+   "de": "Golf- und Landclub Rasmushof Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Negen par-3-holes in het zielgebied van de Streif",
+   "en": "Nine par-3 holes in the Streif finish area",
+   "de": "Neun Par-3-Bahnen im Zielgelände der Streif"
+  },
+  "intro": {
+   "nl": "Aan de voet van de Hahnenkamm, in het zielgebied van de beroemde Streif-afdaling, ligt Rasmushof: negen holes die allemaal par 3 zijn. Volgens Tirol Werbung opende de baan in 1977 als eerste negen-holes-par-3-baan van Oostenrijk, met als idee de skipiste ook in de zomer sportief te gebruiken. Een deel van de holes klimt de helling op, de greens zijn klein en vragen om een nauwkeurige ijzerslag.\n\nBij de baan horen een driving range, een gebied voor het korte spel, een golfschool, een restaurant en verhuur van clubs en trolleys. Gasten kunnen dagelijks spelen na reservering; een handicapbewijs wordt gevraagd. De bronnen zijn het niet eens over de exacte lengte, dus noem die liever niet als vaste maat. Vooral geschikt voor een korte ronde in of vlak bij Kitzbühel.",
+   "en": "At the foot of the Hahnenkamm, in the finish area of the famous Streif downhill, lies Rasmushof: nine holes, all of them par 3. According to Tirol Werbung the course opened in 1977 as Austria's first nine-hole par-3 facility, the idea being to make sporting use of the ski slope in summer too. Some holes climb the slope, and the greens are small, rewarding accurate iron play.\n\nThe facility includes a driving range, a short-game area, a golf school, a restaurant and rental of clubs and trolleys. Guests can play daily after booking; proof of handicap is requested. Sources disagree on the exact length, so it is better not to rely on a fixed figure. It suits a short round in or near Kitzbühel.",
+   "de": "Am Fuß des Hahnenkamms, im Zielgelände der berühmten Streif-Abfahrt, liegt der Rasmushof: neun Bahnen, alle Par 3. Laut Tirol Werbung wurde die Anlage 1977 als erste Neun-Loch-Par-3-Anlage Österreichs eröffnet, mit der Idee, die Skipiste auch im Sommer sportlich zu nutzen. Ein Teil der Bahnen steigt den Hang hinauf, die Grüns sind klein und verlangen präzises Eisenspiel.\n\nZur Anlage gehören eine Driving Range, ein Kurzspielbereich, eine Golfschule, ein Restaurant sowie Verleih von Schlägern und Trolleys. Gäste können nach Reservierung täglich spielen; ein Handicap-Nachweis wird verlangt. Über die genaue Länge sind sich die Quellen nicht einig, daher besser keine feste Zahl verwenden. Gut für eine kurze Runde in oder bei Kitzbühel."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf en neem je handicapbewijs mee.",
+    "Alleen ijzers en een putter zijn meestal voldoende op een par-3-baan.",
+    "Combineer de ronde met een bezoek aan het centrum van Kitzbühel."
+   ],
+   "en": [
+    "Reserve in advance and bring proof of your handicap.",
+    "Irons and a putter are usually enough on a par-3 course.",
+    "Combine the round with a visit to Kitzbühel town centre."
+   ],
+   "de": [
+    "Reservieren Sie vorab und bringen Sie den Handicap-Nachweis mit.",
+    "Auf einem Par-3-Platz genügen meist Eisen und ein Putter.",
+    "Verbinden Sie die Runde mit einem Besuch im Zentrum von Kitzbühel."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 40 minuten rijden vanaf Niederau naar Kitzbühel; hemelsbreed ca. 23 km.",
+   "en": "About 40 minutes by car from Niederau to Kitzbühel; roughly 23 km as the crow flies.",
+   "de": "Ca. 40 Minuten Fahrt ab Niederau nach Kitzbühel; Luftlinie rund 23 km."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 40 min rijden (ca. 23 km hemelsbreed)",
+    "en": "Approx. 40 min drive (approx. 23 km as the crow flies)",
+    "de": "Ca. 40 Min. Fahrt (ca. 23 km Luftlinie)"
+   },
+   "season": {
+    "nl": "Ca. mei tot oktober",
+    "en": "Approx. May to October",
+    "de": "Ca. Mai bis Oktober"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel, Hahnenkamm",
+   "en": "Kitzbühel, Hahnenkamm",
+   "de": "Kitzbühel, Hahnenkamm"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-rasmushof",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat voor baan is Rasmushof?",
+     "en": "What kind of course is Rasmushof?",
+     "de": "Was für ein Platz ist der Rasmushof?"
+    },
+    "a": {
+     "nl": "Een baan met negen holes die allemaal par 3 zijn.",
+     "en": "A nine-hole course on which every hole is a par 3.",
+     "de": "Ein Neun-Loch-Platz, auf dem jede Bahn ein Par 3 ist."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kunnen gasten spelen?",
+     "en": "Can visitors play?",
+     "de": "Können Gäste spielen?"
+    },
+    "a": {
+     "nl": "Ja, na reservering en met handicapbewijs; informeer vooraf.",
+     "en": "Yes, after booking and with proof of handicap; check in advance.",
+     "de": "Ja, nach Reservierung und mit Handicap-Nachweis; bitte vorab erfragen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g13",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-mittersill-hohe-tauern",
+  "slug_de": "golfclub-mittersill-hohe-tauern",
+  "title": {
+   "nl": "Golfclub Mittersill-Stuhlfelden (Nationalpark Hohe Tauern)",
+   "en": "Mittersill-Stuhlfelden Golf Club (Hohe Tauern National Park)",
+   "de": "Golfclub Mittersill-Stuhlfelden (Nationalpark Hohe Tauern)"
+  },
+  "tagline": {
+   "nl": "Vlakke 18 holes met een eilandgreen voor het terras",
+   "en": "Flat 18 holes with an island green by the terrace",
+   "de": "Flache 18 Löcher mit Inselgrün vor der Terrasse"
+  },
+  "intro": {
+   "nl": "Tussen de Kitzbüheler Alpen en de Hohe Tauern ligt bij Mittersill, in de gemeente Stuhlfelden, een 18-holesbaan van par 70. De baan opende in 1999 en meet vanaf de gele tees 5.720 m, vanaf de rode 5.056 m. Het terrein is vlak en groen, met hooischuren, een paar vijvers en een beekje, en de bergen van het nationaal park vormen de achtergrond.\n\nDe laatste hole is een par 3 met een eilandgreen vlak voor het terras van het clubhuis, waar je het slot van de ronde dus in het zicht van andere gasten speelt. Door de vlakke ligging is de baan ook zonder buggy goed te belopen. Mittersill ligt aan de zuidkant van de Pass Thurn; wie hier speelt, kan er een tocht door het Pinzgau aan koppelen.",
+   "en": "Between the Kitzbühel Alps and the Hohe Tauern, near Mittersill in the municipality of Stuhlfelden, lies an 18-hole par-70 course. It opened in 1999 and measures 5,720 m from the yellow tees and 5,056 m from the red. The terrain is flat and green, with hay barns, a few ponds and a small stream, and the mountains of the national park as a backdrop.\n\nThe last hole is a par 3 with an island green right in front of the clubhouse terrace, so you finish your round in view of other guests. Thanks to the flat ground the course is easy to walk without a buggy. Mittersill lies on the south side of the Pass Thurn, so a round here can be combined with a drive through the Pinzgau.",
+   "de": "Zwischen Kitzbüheler Alpen und Hohen Tauern liegt bei Mittersill, in der Gemeinde Stuhlfelden, ein 18-Loch-Platz mit Par 70. Er wurde 1999 eröffnet und misst von den gelben Abschlägen 5.720 m, von den roten 5.056 m. Das Gelände ist flach und grün, mit Heustadeln, ein paar Teichen und einem Bach, im Hintergrund die Berge des Nationalparks.\n\nDie letzte Bahn ist ein Par 3 mit Inselgrün direkt vor der Clubhausterrasse; die Runde endet also vor den Augen anderer Gäste. Dank des flachen Geländes lässt sich der Platz gut ohne Cart gehen. Mittersill liegt südlich des Passes Thurn, sodass sich eine Runde mit einer Fahrt durch den Pinzgau verbinden lässt."
+  },
+  "tips": {
+   "nl": [
+    "Houd rekening met de eilandgreen op hole 18: kies je club zorgvuldig.",
+    "Je kunt de baan gemakkelijk lopen; een trolley volstaat.",
+    "Combineer de dag met een rit over de Pass Thurn."
+   ],
+   "en": [
+    "Mind the island green on hole 18 and choose your club carefully.",
+    "The course is easy to walk; a trolley is enough.",
+    "Combine the day with a drive over the Pass Thurn."
+   ],
+   "de": [
+    "Beachten Sie das Inselgrün auf Bahn 18 und wählen Sie den Schläger sorgfältig.",
+    "Der Platz lässt sich gut gehen; ein Trolley genügt.",
+    "Verbinden Sie den Tag mit einer Fahrt über den Pass Thurn."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 55 minuten rijden vanaf Niederau, over de Pass Thurn naar Mittersill; hemelsbreed ca. 35 km.",
+   "en": "About 55 minutes by car from Niederau, over the Pass Thurn to Mittersill; roughly 35 km as the crow flies.",
+   "de": "Ca. 55 Minuten Fahrt ab Niederau, über den Pass Thurn nach Mittersill; Luftlinie rund 35 km."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden (ca. 35 km hemelsbreed)",
+    "en": "Approx. 55 min drive (approx. 35 km as the crow flies)",
+    "de": "Ca. 55 Min. Fahrt (ca. 35 km Luftlinie)"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Mittersill (Stuhlfelden), Pinzgau",
+   "en": "Mittersill (Stuhlfelden), Pinzgau",
+   "de": "Mittersill (Stuhlfelden), Pinzgau"
+  },
+  "url": "https://www.salzburgerland.com/de/golfclub-mittersill-stuhlfelden",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is de baan?",
+     "en": "How long is the course?",
+     "de": "Wie lang ist der Platz?"
+    },
+    "a": {
+     "nl": "Par 70; 5.720 m vanaf de gele en 5.056 m vanaf de rode tees.",
+     "en": "Par 70; 5,720 m from the yellow and 5,056 m from the red tees.",
+     "de": "Par 70; 5.720 m von den gelben und 5.056 m von den roten Abschlägen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer opende de baan?",
+     "en": "When did the course open?",
+     "de": "Wann wurde der Platz eröffnet?"
+    },
+    "a": {
+     "nl": "In 1999.",
+     "en": "In 1999.",
+     "de": "1999."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g14",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-zell-am-see-kaprun",
+  "slug_de": "golfclub-zell-am-see-kaprun",
+  "title": {
+   "nl": "Golfclub Zell am See-Kaprun (Schmittenhöhe en Kitzsteinhorn)",
+   "en": "Zell am See-Kaprun Golf Club (Schmittenhöhe and Kitzsteinhorn)",
+   "de": "Golfclub Zell am See-Kaprun (Schmittenhöhe und Kitzsteinhorn)"
+  },
+  "tagline": {
+   "nl": "Twee 18-holesbanen op de vlakte tussen Zell am See en Kaprun",
+   "en": "Two 18-hole courses on the plain between Zell am See and Kaprun",
+   "de": "Zwei 18-Loch-Plätze in der Ebene zwischen Zell am See und Kaprun"
+  },
+  "intro": {
+   "nl": "In de vlakte tussen Zell am See en Kaprun beheert deze club twee 18-holesbanen: Schmittenhöhe en Kitzsteinhorn. Het is een van de grotere golfcomplexen van Oostenrijk. Beide banen liggen in een parkachtig, vlak landschap met meren en rietkragen en zijn geschikt voor verschillende niveaus.\n\nSchmittenhöhe opende in 1984 naar een ontwerp van Donald Harradine en is par 72; vanaf de witte tees meet de baan 6.262 m, vanaf de rode 5.253 m. Over de par en lengte van Kitzsteinhorn lopen de bronnen uiteen, dus vraag dat bij de club na. Het seizoen loopt van april tot november. Wie in Niederau verblijft, kan de rit combineren met een dag aan de Zeller See of een uitstapje naar Kaprun.",
+   "en": "On the plain between Zell am See and Kaprun this club runs two 18-hole courses, Schmittenhöhe and Kitzsteinhorn, making it one of the larger golf complexes in Austria. Both lie in a flat, parkland setting with lakes and reed beds and suit a range of abilities.\n\nSchmittenhöhe opened in 1984 to a design by Donald Harradine and is a par 72; it measures 6,262 m from the white tees and 5,253 m from the red. Sources disagree on par and length for Kitzsteinhorn, so ask the club. The season runs from April to November. If you stay in Niederau, you can combine the drive with a day at the Zeller See or an outing to Kaprun.",
+   "de": "In der Ebene zwischen Zell am See und Kaprun betreibt der Club zwei 18-Loch-Plätze, Schmittenhöhe und Kitzsteinhorn, und ist damit eine der größeren Golfanlagen Österreichs. Beide liegen in flacher, parkartiger Landschaft mit Seen und Schilfgürteln und eignen sich für unterschiedliche Spielstärken.\n\nSchmittenhöhe wurde 1984 nach einem Entwurf von Donald Harradine eröffnet, ist Par 72 und misst von den weißen Abschlägen 6.262 m, von den roten 5.253 m. Zu Par und Länge von Kitzsteinhorn widersprechen sich die Quellen; bitte beim Club nachfragen. Die Saison dauert von April bis November. Wer in Niederau wohnt, kann die Fahrt mit einem Tag am Zeller See oder einem Ausflug nach Kaprun verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Kies de baan bij je niveau; Schmittenhöhe is het best gedocumenteerd.",
+    "Reken op een lange rit en maak er een dag van met de Zeller See.",
+    "Vraag vooraf naar par en afstanden van Kitzsteinhorn."
+   ],
+   "en": [
+    "Choose the course to suit your level; Schmittenhöhe is the better documented one.",
+    "Allow for a long drive and make a day of it with the Zeller See.",
+    "Ask about par and distances for Kitzsteinhorn beforehand."
+   ],
+   "de": [
+    "Wählen Sie den Platz passend zum Niveau; Schmittenhöhe ist am besten dokumentiert.",
+    "Rechnen Sie mit einer langen Fahrt und machen Sie mit dem Zeller See einen Tag daraus.",
+    "Erkundigen Sie sich vorab nach Par und Längen von Kitzsteinhorn."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 70 minuten rijden vanaf Niederau naar Zell am See; hemelsbreed ca. 56 km.",
+   "en": "About 70 minutes by car from Niederau to Zell am See; roughly 56 km as the crow flies.",
+   "de": "Ca. 70 Minuten Fahrt ab Niederau nach Zell am See; Luftlinie rund 56 km."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 70 min rijden (ca. 56 km hemelsbreed)",
+    "en": "Approx. 70 min drive (approx. 56 km as the crow flies)",
+    "de": "Ca. 70 Min. Fahrt (ca. 56 km Luftlinie)"
+   },
+   "season": {
+    "nl": "April tot november",
+    "en": "April to November",
+    "de": "April bis November"
+   }
+  },
+  "location": {
+   "nl": "Zell am See en Kaprun, Pinzgau",
+   "en": "Zell am See and Kaprun, Pinzgau",
+   "de": "Zell am See und Kaprun, Pinzgau"
+  },
+  "url": "https://www.salzburgerland.com/de/golfclub-zell-am-see-kaprun",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel banen heeft de club?",
+     "en": "How many courses does the club have?",
+     "de": "Wie viele Plätze hat der Club?"
+    },
+    "a": {
+     "nl": "Twee 18-holesbanen: Schmittenhöhe en Kitzsteinhorn.",
+     "en": "Two 18-hole courses: Schmittenhöhe and Kitzsteinhorn.",
+     "de": "Zwei 18-Loch-Plätze: Schmittenhöhe und Kitzsteinhorn."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wie ontwierp Schmittenhöhe?",
+     "en": "Who designed Schmittenhöhe?",
+     "de": "Wer hat Schmittenhöhe entworfen?"
+    },
+    "a": {
+     "nl": "Donald Harradine; de baan opende in 1984 (par 72).",
+     "en": "Donald Harradine; it opened in 1984 (par 72).",
+     "de": "Donald Harradine; eröffnet 1984 (Par 72)."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g15",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-gut-brandlhof-saalfelden",
+  "slug_de": "golfclub-gut-brandlhof-saalfelden",
+  "title": {
+   "nl": "Golfclub Gut Brandlhof Saalfelden",
+   "en": "Gut Brandlhof Golf Club, Saalfelden",
+   "de": "Golfclub Gut Brandlhof Saalfelden"
+  },
+  "tagline": {
+   "nl": "Championship-baan waar de Saalach tot zes keer wordt overgespeeld",
+   "en": "A championship course where the Saalach is crossed up to six times",
+   "de": "Championship-Platz mit bis zu sechs Überquerungen der Saalach"
+  },
+  "intro": {
+   "nl": "Gut Brandlhof bij Saalfelden heeft een 18-holes Championship Course van par 72 met uitzicht op het Steinernes Meer. De baan is vlak en kent veel water; de Saalach stroomt erdoorheen en moet, afhankelijk van de afslagplaats, tot zes keer worden overgespeeld. Vanaf de witte tees meet de baan 6.079 m, de gele 5.710 m, de blauwe 5.286 m en de rode 4.987 m.\n\nHet is de baan die het best bij een gemengde groep past: het verschil tussen de kortste en de langste tee is groot genoeg om ieders niveau aan te sluiten. Het terrein hoort bij een hotel met golfaanbod, wat handig is als je een paar dagen in de buurt wilt blijven. Over opening en ontwerper heb ik geen bevestigde gegevens gevonden.",
+   "en": "Gut Brandlhof near Saalfelden has an 18-hole championship course of par 72 with a view of the Steinernes Meer. The ground is flat and watery; the Saalach flows through it and, depending on the tee, has to be crossed up to six times. The course measures 6,079 m from the white tees, 5,710 m from yellow, 5,286 m from blue and 4,987 m from red.\n\nIt is a good fit for a mixed group: the gap between the shortest and longest tee is big enough to match everyone's level. The course belongs to a hotel with golf packages, which is handy if you want to stay nearby for a few days. I found no confirmed details on opening year or designer.",
+   "de": "Gut Brandlhof bei Saalfelden hat einen 18-Loch-Championship-Course mit Par 72 und Blick auf das Steinerne Meer. Das Gelände ist flach und wasserreich; die Saalach durchzieht den Platz und muss je nach Abschlag bis zu sechsmal überspielt werden. Von den weißen Abschlägen misst der Platz 6.079 m, von den gelben 5.710 m, den blauen 5.286 m und den roten 4.987 m.\n\nEr passt gut zu gemischten Gruppen: Der Unterschied zwischen kürzestem und längstem Abschlag ist groß genug, um jedes Niveau abzudecken. Die Anlage gehört zu einem Hotel mit Golfangeboten, praktisch, wenn man ein paar Tage in der Nähe bleiben möchte. Zu Eröffnungsjahr und Architekt fanden sich keine bestätigten Angaben."
+  },
+  "tips": {
+   "nl": [
+    "Kies je afslagplaats bewust: de Saalach komt op de lange tees vaker in het spel.",
+    "Plan een volledige dag; de rit is lang.",
+    "Combineer met Saalfelden of Leogang in de omgeving."
+   ],
+   "en": [
+    "Choose your tee deliberately: the Saalach comes into play more often from the long tees.",
+    "Plan a full day; the drive is long.",
+    "Combine with Saalfelden or Leogang nearby."
+   ],
+   "de": [
+    "Wählen Sie Ihren Abschlag bewusst: Von den langen Tees kommt die Saalach öfter ins Spiel.",
+    "Planen Sie einen ganzen Tag ein; die Anfahrt ist lang.",
+    "Verbinden Sie den Besuch mit Saalfelden oder Leogang."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 75 minuten rijden vanaf Niederau naar Saalfelden; hemelsbreed ca. 57 km.",
+   "en": "About 75 minutes by car from Niederau to Saalfelden; roughly 57 km as the crow flies.",
+   "de": "Ca. 75 Minuten Fahrt ab Niederau nach Saalfelden; Luftlinie rund 57 km."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 75 min rijden (ca. 57 km hemelsbreed)",
+    "en": "Approx. 75 min drive (approx. 57 km as the crow flies)",
+    "de": "Ca. 75 Min. Fahrt (ca. 57 km Luftlinie)"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Saalfelden, Pinzgau",
+   "en": "Saalfelden, Pinzgau",
+   "de": "Saalfelden, Pinzgau"
+  },
+  "url": "https://www.salzburgerland.com/de/golfclub-gut-brandlhof/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is de baan?",
+     "en": "How long is the course?",
+     "de": "Wie lang ist der Platz?"
+    },
+    "a": {
+     "nl": "Par 72; 6.079 m vanaf de witte tees tot 4.987 m vanaf de rode.",
+     "en": "Par 72; from 6,079 m (white) down to 4,987 m (red).",
+     "de": "Par 72; von 6.079 m (weiß) bis 4.987 m (rot)."
+    }
+   },
+   {
+    "q": {
+     "nl": "Welke rivier doorkruist de baan?",
+     "en": "Which river crosses the course?",
+     "de": "Welcher Fluss durchquert den Platz?"
+    },
+    "a": {
+     "nl": "De Saalach, die tot zes keer wordt overgespeeld.",
+     "en": "The Saalach, crossed up to six times.",
+     "de": "Die Saalach, die bis zu sechsmal überspielt wird."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g16",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-urslautal-saalfelden",
+  "slug_de": "golfclub-urslautal-saalfelden",
+  "title": {
+   "nl": "Golfclub Urslautal",
+   "en": "Urslautal Golf Club",
+   "de": "Golfclub Urslautal"
+  },
+  "tagline": {
+   "nl": "18 holes op een hoogvlakte tussen Saalfelden en Maria Alm",
+   "en": "18 holes on a plateau between Saalfelden and Maria Alm",
+   "de": "18 Löcher auf einer Hochebene zwischen Saalfelden und Maria Alm"
+  },
+  "intro": {
+   "nl": "Op een hoogvlakte tussen Saalfelden en Maria Alm, aan de voet van het Steinernes Meer, ligt Golfclub Urslautal. De club werd in 1991 opgericht. De 18 holes (par 71) zijn volgens opgave ontworpen door Keith Preston; het terrein is heuvelachtig met waterpartijen. Vanaf de witte tees meet de baan 5.967 m, vanaf de gele 5.738 m en vanaf de rode 4.933 m.\n\nNaast de grote baan is er een compacte baan van drie holes (twee par 3 en een par 4) die voor gasten openstaat en daarom een laagdrempelige kennismaking met golf is. De driving range heeft 40 afslagplaatsen, waarvan 8 overdekt. Gezien de afstand is dit de verste baan van deze selectie; reken op een volledige uitstapdag in het Pinzgau.",
+   "en": "Urslautal Golf Club lies on a plateau between Saalfelden and Maria Alm, at the foot of the Steinernes Meer. The club was founded in 1991. Its 18 holes (par 71) were reportedly designed by Keith Preston; the terrain is hilly with water hazards. The course measures 5,967 m from the white tees, 5,738 m from yellow and 4,933 m from red.\n\nBeside the main course there is a compact three-hole course (two par 3s and a par 4) open to visitors, which makes for an easy introduction to golf. The driving range has 40 tees, 8 of them covered. Given the distance, this is the furthest course in this selection; plan a full day out in the Pinzgau.",
+   "de": "Auf einer Hochebene zwischen Saalfelden und Maria Alm, am Fuß des Steinernen Meeres, liegt der Golfclub Urslautal. Der Club wurde 1991 gegründet. Die 18 Löcher (Par 71) wurden laut Angaben von Keith Preston gestaltet; das Gelände ist hügelig mit Wasserhindernissen. Von den weißen Abschlägen misst der Platz 5.967 m, von den gelben 5.738 m und von den roten 4.933 m.\n\nNeben dem großen Platz gibt es einen kompakten Drei-Loch-Platz (zwei Par 3 und ein Par 4), der Gästen offensteht und einen niedrigschwelligen Einstieg ins Golfen bietet. Die Driving Range hat 40 Abschläge, 8 davon überdacht. Wegen der Entfernung ist dies der am weitesten entfernte Platz dieser Auswahl; planen Sie einen ganzen Ausflugstag im Pinzgau ein."
+  },
+  "tips": {
+   "nl": [
+    "Wil je golf proberen? Begin met de driehole-baan.",
+    "Gebruik de range, waarvan een deel overdekt is.",
+    "Plan een hele dag; de rit is lang."
+   ],
+   "en": [
+    "Want to try golf? Start with the three-hole course.",
+    "Use the range; part of it is covered.",
+    "Plan a full day; the drive is long."
+   ],
+   "de": [
+    "Golf ausprobieren? Beginnen Sie mit dem Drei-Loch-Platz.",
+    "Nutzen Sie die Range; ein Teil ist überdacht.",
+    "Planen Sie einen ganzen Tag ein; die Anfahrt ist lang."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 80 minuten rijden vanaf Niederau naar Saalfelden/Maria Alm; hemelsbreed ca. 61 km.",
+   "en": "About 80 minutes by car from Niederau to Saalfelden/Maria Alm; roughly 61 km as the crow flies.",
+   "de": "Ca. 80 Minuten Fahrt ab Niederau nach Saalfelden/Maria Alm; Luftlinie rund 61 km."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 80 min rijden (ca. 61 km hemelsbreed)",
+    "en": "Approx. 80 min drive (approx. 61 km as the crow flies)",
+    "de": "Ca. 80 Min. Fahrt (ca. 61 km Luftlinie)"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Saalfelden / Maria Alm, Pinzgau",
+   "en": "Saalfelden / Maria Alm, Pinzgau",
+   "de": "Saalfelden / Maria Alm, Pinzgau"
+  },
+  "url": "https://www.salzburgerland.com/de/golfclub-urslautal",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een kortere baan?",
+     "en": "Is there a shorter course?",
+     "de": "Gibt es einen kürzeren Platz?"
+    },
+    "a": {
+     "nl": "Ja, een compacte baan van drie holes die voor gasten openstaat.",
+     "en": "Yes, a compact three-hole course open to visitors.",
+     "de": "Ja, einen kompakten Drei-Loch-Platz, der Gästen offensteht."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang is de grote baan?",
+     "en": "How long is the main course?",
+     "de": "Wie lang ist der große Platz?"
+    },
+    "a": {
+     "nl": "Par 71; 5.967 m vanaf de witte tees.",
+     "en": "Par 71; 5,967 m from the white tees.",
+     "de": "Par 71; 5.967 m von den weißen Abschlägen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g30",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "jenbach",
+  "slug_en": "golf-landclub-achensee-pertisau",
+  "slug_de": "golf-und-landclub-achensee-pertisau",
+  "title": {
+   "nl": "Golf- & Landclub Achensee (Pertisau)",
+   "en": "Golf & Landclub Achensee, Pertisau",
+   "de": "Golf- & Landclub Achensee in Pertisau"
+  },
+  "tagline": {
+   "nl": "Oudste golfclub van Tirol, op ongeveer 1.000 m aan het Achenmeer",
+   "en": "Tyrol's oldest golf club, at roughly 1,000 m by Lake Achensee",
+   "de": "Ältester Golfclub Tirols auf rund 1.000 m am Achensee"
+  },
+  "intro": {
+   "nl": "De club in Pertisau werd in 1934 opgericht en geldt als de oudste van Tirol. Het is een 18-holesbaan (par 71) op ongeveer 1.000 m hoogte, aan de voet van het Karwendelgebergte. Wie vanuit Niederau een dagtocht naar het Achenmeer plant, kan hier een ronde aan toevoegen.\n\nVolgens de toeristische bronnen is de range overdekt en zijn er een oefenbunker, oefengreens, golfschool, proshop en restaurant. De afslagplaatsen verschillen sterk in lengte: vanaf de witte tees meet de baan volgens een golfportaal ruim 6.100 m, vanaf de rode dames-tees circa 4.950 m. Gasten zijn welkom, maar reserveren van een starttijd is nodig en er wordt een handicapbewijs gevraagd. Het seizoen loopt ruwweg van april tot november.",
+   "en": "The club in Pertisau was founded in 1934 and is regarded as the oldest in Tyrol. It is an 18-hole course (par 71) at about 1,000 m altitude, at the foot of the Karwendel range. If you are planning a day trip from Niederau to Lake Achensee, a round here is an easy addition.\n\nAccording to tourism sources the driving range is covered, and there are a practice bunker, practice greens, a golf school, a pro shop and a restaurant. Tee lengths differ considerably: from the white tees a golf portal gives just over 6,100 m, from the red ladies' tees about 4,950 m. Guests are welcome, but a tee time has to be reserved and proof of handicap is asked for. The season runs roughly from April to November.",
+   "de": "Der Club in Pertisau wurde 1934 gegründet und gilt als der älteste Tirols. Es ist ein 18-Loch-Platz (Par 71) auf etwa 1.000 m Höhe am Fuß des Karwendels. Wer von Niederau aus einen Ausflug zum Achensee plant, kann hier gut eine Runde einbauen.\n\nLaut Tourismusquellen ist die Range überdacht, dazu gibt es einen Übungsbunker, Übungsgrüns, eine Golfschule, einen Proshop und ein Restaurant. Die Abschläge unterscheiden sich deutlich in der Länge: Von den weißen Abschlägen nennt ein Golfportal gut 6.100 m, von den roten Damenabschlägen rund 4.950 m. Gäste sind willkommen, die Startzeit muss aber reserviert werden und ein Handicapnachweis wird verlangt. Die Saison dauert grob von April bis November."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer een starttijd en neem je handicapbewijs mee.",
+    "Op ongeveer 1.000 m kan het ook in de zomer fris zijn; een extra laag is verstandig.",
+    "Combineer de ronde met een boottocht of wandeling aan het Achenmeer."
+   ],
+   "en": [
+    "Book a tee time and bring proof of your handicap.",
+    "At about 1,000 m it can be cool even in summer; an extra layer is sensible.",
+    "Pair the round with a boat trip or a walk by Lake Achensee."
+   ],
+   "de": [
+    "Reservieren Sie eine Startzeit und bringen Sie den Handicapnachweis mit.",
+    "Auf rund 1.000 m kann es auch im Sommer frisch sein; eine zusätzliche Schicht ist ratsam.",
+    "Verbinden Sie die Runde mit einer Schifffahrt oder einem Spaziergang am Achensee."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 50 minuten rijden vanaf Niederau, via het Inntal en Jenbach naar Pertisau aan het Achenmeer; ongeveer 27 km hemelsbreed.",
+   "en": "About 50 minutes by car from Niederau, through the Inn valley and Jenbach to Pertisau on Lake Achensee; roughly 27 km as the crow flies.",
+   "de": "Ca. 50 Minuten Fahrt ab Niederau, durch das Inntal und über Jenbach nach Pertisau am Achensee; rund 27 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 50 min rijden",
+    "en": "Approx. 50 min drive",
+    "de": "Ca. 50 Min. Fahrt"
+   },
+   "season": {
+    "nl": "April tot november",
+    "en": "April to November",
+    "de": "April bis November"
+   }
+  },
+  "location": {
+   "nl": "Pertisau, Achensee",
+   "en": "Pertisau, Achensee",
+   "de": "Pertisau, Achensee"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golf-landclub-achensee-2",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel holes heeft de baan?",
+     "en": "How many holes does the course have?",
+     "de": "Wie viele Löcher hat der Platz?"
+    },
+    "a": {
+     "nl": "18 holes, par 71.",
+     "en": "18 holes, par 71.",
+     "de": "18 Löcher, Par 71."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kunnen gasten spelen?",
+     "en": "Can guests play?",
+     "de": "Können Gäste spielen?"
+    },
+    "a": {
+     "nl": "Ja, met gereserveerde starttijd en handicapbewijs.",
+     "en": "Yes, with a reserved tee time and proof of handicap.",
+     "de": "Ja, mit reservierter Startzeit und Handicapnachweis."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g31",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "",
+  "slug_en": "posthotel-alpengolf-achenkirch",
+  "slug_de": "posthotel-alpengolf-achenkirch",
+  "title": {
+   "nl": "Posthotel Alpengolf Achenkirch",
+   "en": "Posthotel Alpengolf, Achenkirch",
+   "de": "Posthotel Alpengolf Achenkirch"
+  },
+  "tagline": {
+   "nl": "Negen holes op een hoogvlakte aan de rand van het Karwendel",
+   "en": "Nine holes on a high plateau at the edge of the Karwendel",
+   "de": "Neun Löcher auf einem Hochplateau am Rand des Karwendels"
+  },
+  "intro": {
+   "nl": "Alpengolf ligt in Achenkirch, op een plateau boven het kapelletje Annakirchl en grenzend aan het natuurgebied Karwendel. Het is een negenholesbaan van het Posthotel; het par wordt in de bronnen als 32 vermeld. Daarmee is het een compactere optie dan de 18-holesbanen in de omgeving, geschikt voor een korte ronde in de ochtend of de late namiddag.\n\nGasten zijn welkom, maar vooraf reserveren is nodig en een clubpas met handicap wordt gevraagd. Gasten van het hotel krijgen volgens de bronnen vaste starttijden en korting op de greenfee. Het seizoen loopt van ongeveer mei tot oktober of november, afhankelijk van de sneeuw. Omdat de baan hoger ligt en dicht bij het gebergte, is het uitzicht een belangrijk deel van de aantrekkingskracht.",
+   "en": "Alpengolf lies in Achenkirch, on a plateau above the little Annakirchl chapel, bordering the Karwendel nature reserve. It is a nine-hole course run by the Posthotel, and sources give its par as 32. That makes it a more compact choice than the 18-hole courses nearby, suited to a short round in the morning or late afternoon.\n\nGuests are welcome, but booking ahead is required and a club card showing a handicap is asked for. According to the sources, hotel guests get fixed tee times and a reduced green fee. The season runs from about May to October or November, depending on snow. Because the course sits higher and close to the mountains, the views are a large part of its appeal.",
+   "de": "Alpengolf liegt in Achenkirch auf einem Plateau oberhalb der Annakirchl-Kapelle, angrenzend an das Naturschutzgebiet Karwendel. Es ist ein Neun-Loch-Platz des Posthotels, dessen Par in den Quellen mit 32 angegeben wird. Damit ist er kompakter als die 18-Loch-Plätze der Umgebung und eignet sich für eine kurze Runde am Vormittag oder späten Nachmittag.\n\nGäste sind willkommen, eine Anmeldung ist jedoch nötig, und ein Clubausweis mit Handicap wird verlangt. Hotelgäste erhalten laut den Quellen feste Abschlagzeiten und ein ermäßigtes Greenfee. Die Saison dauert etwa von Mai bis Oktober oder November, je nach Schnee. Da der Platz höher und nahe am Gebirge liegt, ist die Aussicht ein großer Teil seines Reizes."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf en neem je clubpas met handicap mee.",
+    "Kijk in het najaar of de baan nog open is; het einde van het seizoen hangt van de sneeuw af.",
+    "Voor een uitgebreidere ronde kun je naar Pertisau, iets verderop."
+   ],
+   "en": [
+    "Book ahead and bring your club card showing a handicap.",
+    "In autumn, check whether the course is still open; the end of the season depends on snow.",
+    "For a longer round, Pertisau is a little further on."
+   ],
+   "de": [
+    "Reservieren Sie vorab und bringen Sie Ihren Clubausweis mit Handicap mit.",
+    "Prüfen Sie im Herbst, ob der Platz noch geöffnet ist; das Saisonende hängt vom Schnee ab.",
+    "Für eine längere Runde liegt Pertisau ein Stück weiter."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 55 minuten rijden vanaf Niederau, via Jenbach en de Achenpass naar Achenkirch; ongeveer 27 km hemelsbreed.",
+   "en": "About 55 minutes by car from Niederau, via Jenbach and the Achenpass to Achenkirch; roughly 27 km as the crow flies.",
+   "de": "Ca. 55 Minuten Fahrt ab Niederau, über Jenbach und den Achenpass nach Achenkirch; rund 27 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "Approx. 55 min drive",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Ca. mei tot oktober/november",
+    "en": "Approx. May to October/November",
+    "de": "Ca. Mai bis Oktober/November"
+   }
+  },
+  "location": {
+   "nl": "Achenkirch, Achensee",
+   "en": "Achenkirch, Achensee",
+   "de": "Achenkirch, Achensee"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/posthotel-alpengolf-1",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is reserveren nodig?",
+     "en": "Is booking required?",
+     "de": "Muss man reservieren?"
+    },
+    "a": {
+     "nl": "Ja, gasten melden zich vooraf aan en tonen een clubpas met handicap.",
+     "en": "Yes, guests register in advance and show a club card with handicap.",
+     "de": "Ja, Gäste melden sich vorab an und zeigen einen Clubausweis mit Handicap."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoeveel holes?",
+     "en": "How many holes?",
+     "de": "Wie viele Löcher?"
+    },
+    "a": {
+     "nl": "Negen holes.",
+     "en": "Nine holes.",
+     "de": "Neun Löcher."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g32",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "innsbruck",
+  "slug_en": "golf-course-innsbruck-igls-rinn",
+  "slug_de": "golfplatz-innsbruck-igls-rinn",
+  "title": {
+   "nl": "Golfclub Innsbruck-Igls, Championship Course Rinn",
+   "en": "Innsbruck-Igls Golf Club, Championship Course Rinn",
+   "de": "Golfclub Innsbruck-Igls, Championship Course Rinn"
+  },
+  "tagline": {
+   "nl": "18 holes aan de hellingen van de Glungezer, in 2024 heropend",
+   "en": "18 holes on the slopes of the Glungezer, reopened in 2024",
+   "de": "18 Löcher an den Hängen des Glungezers, 2024 wiedereröffnet"
+  },
+  "intro": {
+   "nl": "Het kampioenschapsterrein van Golfclub Innsbruck-Igls ligt bij Rinn, op het plateau aan de zuidelijke hellingen van de Glungezer. Na een renovatie van twee jaar werd de 18-holesbaan in 2024 heropend. Het is een par 71; vanaf de witte tees meet de baan rond 6.050 m, en het hoogteverschil bedraagt bijna 250 m.\n\nDe fairways lopen als twee cirkels over het plateau en zijn deels heuvelachtig. Hole 12 heeft volgens een Duitstalige bron een eilandgreen. Gasten doen er goed aan vooraf te reserveren en een handicapbewijs mee te nemen. Het seizoen loopt ongeveer van april tot oktober. Reken op een rit door het Inntal richting Innsbruck: dit is een uitstap voor wie een dag aan golf wil besteden.",
+   "en": "The championship course of Innsbruck-Igls Golf Club lies near Rinn, on the plateau on the southern slopes of the Glungezer. After a two-year renovation the 18-hole course reopened in 2024. It is a par 71; from the white tees it measures around 6,050 m, with an elevation change of nearly 250 m.\n\nThe fairways run across the plateau like two concentric circles and are partly hilly. According to a German-language source, hole 12 has an island green. Guests should expect to book in advance and show proof of handicap. The season runs from about April to October. Expect a drive through the Inn valley towards Innsbruck: this is an outing for those who want to give a whole day to golf.",
+   "de": "Der Championship Course des Golfclubs Innsbruck-Igls liegt bei Rinn, auf dem Plateau an den Südhängen des Glungezers. Nach zwei Jahren Umbau wurde der 18-Loch-Platz 2024 wiedereröffnet. Er ist ein Par 71; von den weißen Abschlägen misst er rund 6.050 m, der Höhenunterschied beträgt knapp 250 m.\n\nDie Fairways ziehen sich wie zwei konzentrische Kreise über das Plateau und sind teils hügelig. Laut einer deutschsprachigen Quelle hat Bahn 12 ein Inselgrün. Gäste sollten vorab reservieren und einen Handicapnachweis mitbringen. Die Saison reicht etwa von April bis Oktober. Rechnen Sie mit einer Fahrt durch das Inntal Richtung Innsbruck: ein Ausflug für alle, die dem Golf einen ganzen Tag widmen wollen."
+  },
+  "tips": {
+   "nl": [
+    "Plan een hele dag; de rit is lang en de baan heeft aanzienlijk hoogteverschil.",
+    "Reserveer vooraf en neem het handicapbewijs mee.",
+    "Kies de tees naar je niveau: de lengtes lopen van circa 5.200 tot 6.050 m."
+   ],
+   "en": [
+    "Plan a full day; the drive is long and the course has considerable elevation change.",
+    "Book ahead and bring proof of handicap.",
+    "Choose tees to suit your level: lengths range from about 5,200 to 6,050 m."
+   ],
+   "de": [
+    "Planen Sie einen ganzen Tag ein; die Anfahrt ist lang und der Platz hat deutliche Höhenunterschiede.",
+    "Reservieren Sie vorab und bringen Sie den Handicapnachweis mit.",
+    "Wählen Sie den Abschlag passend zum Niveau: Die Längen reichen von etwa 5.200 bis 6.050 m."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 55 minuten rijden vanaf Niederau, door het Inntal richting Innsbruck en dan naar Rinn; ongeveer 46 km hemelsbreed.",
+   "en": "About 55 minutes by car from Niederau, through the Inn valley towards Innsbruck and then up to Rinn; roughly 46 km as the crow flies.",
+   "de": "Ca. 55 Minuten Fahrt ab Niederau, durch das Inntal Richtung Innsbruck und dann hinauf nach Rinn; rund 46 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "Approx. 55 min drive",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Ca. april tot oktober",
+    "en": "Approx. April to October",
+    "de": "Ca. April bis Oktober"
+   }
+  },
+  "location": {
+   "nl": "Rinn, bij Innsbruck",
+   "en": "Rinn, near Innsbruck",
+   "de": "Rinn bei Innsbruck"
+  },
+  "url": "https://tyrol.com/activities/sport/golf/all-golf-courses/innsbruck-golf-club-golf-course-rinn-18-holes-1",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het par van de baan?",
+     "en": "What is the par?",
+     "de": "Welches Par hat der Platz?"
+    },
+    "a": {
+     "nl": "Par 71, 18 holes.",
+     "en": "Par 71, 18 holes.",
+     "de": "Par 71, 18 Löcher."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer is de baan opnieuw geopend?",
+     "en": "When did it reopen?",
+     "de": "Wann wurde der Platz wiedereröffnet?"
+    },
+    "a": {
+     "nl": "In 2024, na een renovatie van twee jaar.",
+     "en": "In 2024, after a two-year renovation.",
+     "de": "2024, nach zwei Jahren Umbau."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g33",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "innsbruck",
+  "slug_en": "golf-course-innsbruck-igls-lans",
+  "slug_de": "golfplatz-innsbruck-igls-lans",
+  "title": {
+   "nl": "Golfclub Innsbruck-Igls, Parkland Course Lans",
+   "en": "Innsbruck-Igls Golf Club, Parkland Course Lans",
+   "de": "Golfclub Innsbruck-Igls, Parkland Course Lans"
+  },
+  "tagline": {
+   "nl": "Negen holes in het park bij Lans, geopend in 1956",
+   "en": "Nine parkland holes at Lans, open since 1956",
+   "de": "Neun Parkland-Löcher bei Lans, seit 1956"
+  },
+  "intro": {
+   "nl": "De parkbaan van Golfclub Innsbruck-Igls ligt bij Lans, op ongeveer 870 m hoogte. Ze opende in 1956 en heeft negen holes met par 66. De lengte ligt volgens de bronnen tussen circa 4.100 en 4.600 m, afhankelijk van de afslagplaats. Het terrein is vlak, met waterpartijen: op hole 3 ligt een biotoop en op hole 6 een vijver met fontein.\n\nEen ronde is bij normaal tempo in ruim anderhalf uur gespeeld. Dat maakt de baan handig als je een korte golfpauze wilt, bijvoorbeeld op een dag in of rond Innsbruck. Gasten melden zich vooraf aan en tonen een clubpas met handicap; het niveau van de speler (handicap tot -54) moet kloppen. De baan hoort bij dezelfde club als de kampioenschapsbaan in Rinn.",
+   "en": "The parkland course of Innsbruck-Igls Golf Club lies near Lans, at about 870 m. It opened in 1956 and has nine holes with a par of 66. Sources put the length between roughly 4,100 and 4,600 m, depending on the tee. The terrain is flat with water features: hole 3 has a biotope and hole 6 a pond with a fountain.\n\nA round takes a little over an hour and a half at normal pace. That makes it handy for a short golf break, for example on a day in or around Innsbruck. Guests register in advance and show a club card with handicap; the player's handicap (up to -54) must be in order. The course belongs to the same club as the championship course in Rinn.",
+   "de": "Der Parklandplatz des Golfclubs Innsbruck-Igls liegt bei Lans auf etwa 870 m Höhe. Er wurde 1956 eröffnet und hat neun Löcher mit Par 66. Die Länge liegt laut Quellen je nach Abschlag zwischen rund 4.100 und 4.600 m. Das Gelände ist flach mit Wasserflächen: Auf Bahn 3 liegt ein Biotop, auf Bahn 6 ein Teich mit Fontäne.\n\nEine Runde dauert bei normalem Tempo gut anderthalb Stunden. Damit eignet sich der Platz für eine kurze Golfpause, etwa an einem Tag in oder um Innsbruck. Gäste melden sich vorab an und zeigen einen Clubausweis mit Handicap; das Handicap (bis -54) muss stimmen. Der Platz gehört zum selben Club wie der Championship Course in Rinn."
+  },
+  "tips": {
+   "nl": [
+    "Je speelt de negen holes in ruim anderhalf uur: handig als tussenstop op een Innsbruck-dag.",
+    "Meld je vooraf aan en neem je clubpas met handicap mee.",
+    "Let op hole 6: de fontein in de vijver maakt de afslag lastiger."
+   ],
+   "en": [
+    "Nine holes take a little over an hour and a half: handy as a stop on a day in Innsbruck.",
+    "Register in advance and bring your club card showing a handicap.",
+    "Watch hole 6: the fountain in the pond makes the tee shot trickier."
+   ],
+   "de": [
+    "Die neun Löcher sind in gut anderthalb Stunden gespielt: praktisch als Zwischenstopp bei einem Innsbruck-Tag.",
+    "Melden Sie sich vorab an und bringen Sie Ihren Clubausweis mit Handicap mit.",
+    "Achtung bei Bahn 6: Die Fontäne im Teich erschwert den Abschlag."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau, door het Inntal naar Innsbruck en verder naar Lans; ongeveer 54 km hemelsbreed.",
+   "en": "About 60 minutes by car from Niederau, through the Inn valley to Innsbruck and on to Lans; roughly 54 km as the crow flies.",
+   "de": "Ca. 60 Minuten Fahrt ab Niederau, durch das Inntal nach Innsbruck und weiter nach Lans; rund 54 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 60 min rijden",
+    "en": "Approx. 60 min drive",
+    "de": "Ca. 60 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomerseizoen",
+    "en": "Summer season",
+    "de": "Sommersaison"
+   }
+  },
+  "location": {
+   "nl": "Lans, bij Innsbruck",
+   "en": "Lans, near Innsbruck",
+   "de": "Lans bei Innsbruck"
+  },
+  "url": "https://tyrol.com/things-to-do/sports/golf/a-golfclub-innsbruck-iglslans",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel holes en welk par?",
+     "en": "How many holes and what par?",
+     "de": "Wie viele Löcher und welches Par?"
+    },
+    "a": {
+     "nl": "Negen holes, par 66.",
+     "en": "Nine holes, par 66.",
+     "de": "Neun Löcher, Par 66."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer opende de baan?",
+     "en": "When did the course open?",
+     "de": "Wann wurde der Platz eröffnet?"
+    },
+    "a": {
+     "nl": "In 1956.",
+     "en": "In 1956.",
+     "de": "1956."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g34",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "innsbruck",
+  "slug_en": "olympia-golf-igls",
+  "slug_de": "olympia-golf-igls",
+  "title": {
+   "nl": "Olympia Golf Igls (korte baan)",
+   "en": "Olympia Golf Igls (short course)",
+   "de": "Olympia Golf Igls (Kurzplatz)"
+  },
+  "tagline": {
+   "nl": "Pay-and-play korte baan aan de voet van de Patscherkofel",
+   "en": "Pay-and-play short course below the Patscherkofel",
+   "de": "Pay-and-play-Kurzplatz am Fuß des Patscherkofels"
+  },
+  "intro": {
+   "nl": "Olympia Golf in Igls is een korte negenholesbaan aan de voet van de Patscherkofel, net buiten Innsbruck. Volgens het Tiroolse toeristenbureau is het een pay-and-play-baan: je hebt geen lidmaatschap nodig, wel een aantoonbare handicap tot -54. Zeven holes zijn par 3, twee par 4; samen komen ze op par 58 en circa 2.800 m.\n\nDe korte holes eisen vooral nauwkeurig ijzerspel, en veel waterpartijen en goed beschermde greens maken het spannend. Er zijn een driving range, putting-, pitching- en chippinggreen, een oefenbunker, clubhuis met restaurant en een golfschool met PGA-professionals. De baan is niet bedoeld voor een lang dagprogramma, maar voor een ronde van ongeveer anderhalf uur. Het seizoen loopt grofweg van maart tot november.",
+   "en": "Olympia Golf in Igls is a short nine-hole course at the foot of the Patscherkofel, just outside Innsbruck. According to the Tyrol tourist board it is pay-and-play: no membership needed, but a verifiable handicap up to -54 is required. Seven holes are par 3 and two are par 4, adding up to par 58 and about 2,800 m.\n\nThe short holes call mostly for accurate iron play, and plenty of water and well-protected greens keep it interesting. There are a driving range, putting, pitching and chipping greens, a practice bunker, a clubhouse with restaurant and a golf school with PGA professionals. It is not meant for a long day's programme but for a round of about an hour and a half. The season runs roughly from March to November.",
+   "de": "Olympia Golf in Igls ist ein kurzer Neun-Loch-Platz am Fuß des Patscherkofels, knapp außerhalb von Innsbruck. Laut Tirol Werbung gilt hier Pay and Play: Eine Mitgliedschaft ist nicht nötig, wohl aber ein nachweisbares Handicap bis -54. Sieben Bahnen sind Par 3, zwei Par 4; zusammen ergibt das Par 58 und rund 2.800 m.\n\nAuf den kurzen Bahnen kommt es vor allem auf präzises Eisenspiel an, und viel Wasser sowie gut verteidigte Grüns sorgen für Spannung. Es gibt eine Driving Range, Putting-, Pitching- und Chipping-Grün, einen Übungsbunker, ein Clubhaus mit Restaurant und eine Golfschule mit PGA-Professionals. Der Platz ist nicht für ein langes Tagesprogramm gedacht, sondern für eine Runde von etwa anderthalb Stunden. Die Saison reicht grob von März bis November."
+  },
+  "tips": {
+   "nl": [
+    "Neem je handicapbewijs mee; zonder kom je niet op de baan.",
+    "Een kleine set met ijzers volstaat op deze korte holes.",
+    "Combineer de ronde met een bezoek aan Innsbruck of de Patscherkofelbaan."
+   ],
+   "en": [
+    "Bring proof of handicap; without it you will not be allowed on the course.",
+    "A small set of irons is enough on these short holes.",
+    "Combine the round with a visit to Innsbruck or the Patscherkofel cable car."
+   ],
+   "de": [
+    "Bringen Sie den Handicapnachweis mit; ohne diesen kommt man nicht auf den Platz.",
+    "Auf diesen kurzen Bahnen genügt ein kleines Eisen-Set.",
+    "Verbinden Sie die Runde mit einem Besuch in Innsbruck oder der Patscherkofelbahn."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau, door het Inntal naar Innsbruck-Igls; ongeveer 56 km hemelsbreed.",
+   "en": "About 60 minutes by car from Niederau, through the Inn valley to Innsbruck-Igls; roughly 56 km as the crow flies.",
+   "de": "Ca. 60 Minuten Fahrt ab Niederau, durch das Inntal nach Innsbruck-Igls; rund 56 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 60 min rijden",
+    "en": "Approx. 60 min drive",
+    "de": "Ca. 60 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Ca. maart tot november",
+    "en": "Approx. March to November",
+    "de": "Ca. März bis November"
+   }
+  },
+  "location": {
+   "nl": "Igls, Innsbruck",
+   "en": "Igls, Innsbruck",
+   "de": "Igls, Innsbruck"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/olympia-golfclub-igls-1",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is lidmaatschap nodig?",
+     "en": "Is membership required?",
+     "de": "Ist eine Mitgliedschaft nötig?"
+    },
+    "a": {
+     "nl": "Nee, het is een pay-and-play-baan; wel is een handicap tot -54 vereist.",
+     "en": "No, it is pay-and-play; a handicap up to -54 is required.",
+     "de": "Nein, es ist ein Pay-and-Play-Platz; ein Handicap bis -54 ist erforderlich."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat voor baan is het?",
+     "en": "What kind of course is it?",
+     "de": "Was für ein Platz ist es?"
+    },
+    "a": {
+     "nl": "Een korte baan met negen holes (zeven par 3, twee par 4).",
+     "en": "A short course with nine holes (seven par 3, two par 4).",
+     "de": "Ein Kurzplatz mit neun Löchern (sieben Par 3, zwei Par 4)."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g35",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "",
+  "slug_en": "golf-club-seefeld-wildmoos",
+  "slug_de": "golfclub-seefeld-wildmoos",
+  "title": {
+   "nl": "Golfclub Seefeld-Wildmoos",
+   "en": "Seefeld-Wildmoos Golf Club",
+   "de": "Golfclub Seefeld-Wildmoos"
+  },
+  "tagline": {
+   "nl": "18 holes van Donald Harradine, op het plateau bij Seefeld",
+   "en": "18 holes by Donald Harradine on the Seefeld plateau",
+   "de": "18 Löcher von Donald Harradine auf dem Seefelder Plateau"
+  },
+  "intro": {
+   "nl": "Wildmoos is de 18-holesbaan op het plateau bij Seefeld, bijna 70 km hemelsbreed van Niederau en daarmee de verst afgelegen baan van deze selectie. De baan is ontworpen door Donald Harradine en dateert van eind jaren zestig (de bronnen noemen 1968 of 1969). Het is een par 70; vanaf de gele heren-tees meet ze ruim 5.200 m, vanaf de rode dames-tees circa 4.600 m.\n\nHet is geen lange baan, maar de ligging op het plateau en het uitzicht op de bergen rond Seefeld maken haar populair. Ze past bij wie een golfdag wil combineren met een bezoek aan Seefeld, dat ook buiten het golfseizoen een bekende plaats is. Voor de exacte seizoensdata en toegangsvoorwaarden raadpleeg je de website van de club; die verschillen per jaar.",
+   "en": "Wildmoos is the 18-hole course on the plateau near Seefeld, almost 70 km as the crow flies from Niederau and so the furthest course in this selection. It was designed by Donald Harradine and dates from the late 1960s (sources say 1968 or 1969). It is a par 70; from the yellow men's tees it measures just over 5,200 m, from the red ladies' tees about 4,600 m.\n\nIt is not a long course, but its position on the plateau and the views of the mountains around Seefeld make it popular. It suits anyone who wants to combine a day of golf with a visit to Seefeld, a well-known resort that also draws visitors outside the golf season. For exact season dates and entry requirements, check the club's website; they vary from year to year.",
+   "de": "Wildmoos ist der 18-Loch-Platz auf dem Plateau bei Seefeld, fast 70 km Luftlinie von Niederau entfernt und damit der am weitesten entfernte Platz dieser Auswahl. Er wurde von Donald Harradine gestaltet und stammt aus den späten 1960er-Jahren (die Quellen nennen 1968 oder 1969). Es ist ein Par 70; von den gelben Herrenabschlägen misst er gut 5.200 m, von den roten Damenabschlägen rund 4.600 m.\n\nEr ist kein langer Platz, doch die Lage auf dem Plateau und der Blick auf die Berge rund um Seefeld machen ihn beliebt. Er passt, wenn man einen Golftag mit einem Besuch in Seefeld verbinden möchte, das auch außerhalb der Golfsaison bekannt ist. Genaue Saisondaten und Zugangsbedingungen finden Sie auf der Website des Clubs; sie ändern sich von Jahr zu Jahr."
+  },
+  "tips": {
+   "nl": [
+    "Plan een volle dag; de rit duurt ruim een uur.",
+    "Controleer op de clubsite de seizoensdata en de toegangsvoorwaarden voor gasten.",
+    "Combineer de ronde met een wandeling of een koffie in Seefeld."
+   ],
+   "en": [
+    "Plan a full day; the drive takes over an hour.",
+    "Check the club's website for season dates and guest entry requirements.",
+    "Pair the round with a walk or a coffee in Seefeld."
+   ],
+   "de": [
+    "Planen Sie einen ganzen Tag ein; die Fahrt dauert über eine Stunde.",
+    "Prüfen Sie auf der Clubwebsite Saisondaten und Zugangsbedingungen für Gäste.",
+    "Verbinden Sie die Runde mit einem Spaziergang oder einem Kaffee in Seefeld."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 70 minuten rijden vanaf Niederau, via de A12 door het Inntal en over de Seefelder Sattel; ongeveer 69 km hemelsbreed.",
+   "en": "About 70 minutes by car from Niederau, via the A12 through the Inn valley and over the Seefeld saddle; roughly 69 km as the crow flies.",
+   "de": "Ca. 70 Minuten Fahrt ab Niederau, über die A12 durch das Inntal und über den Seefelder Sattel; rund 69 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 70 min rijden",
+    "en": "Approx. 70 min drive",
+    "de": "Ca. 70 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomerseizoen",
+    "en": "Summer season",
+    "de": "Sommersaison"
+   }
+  },
+  "location": {
+   "nl": "Seefeld in Tirol",
+   "en": "Seefeld in Tirol",
+   "de": "Seefeld in Tirol"
+  },
+  "url": "https://tyrol.com/activities/sport/golf/all-golf-courses/golfclub-seefeld-wildmoos-2",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wie ontwierp de baan?",
+     "en": "Who designed the course?",
+     "de": "Wer hat den Platz entworfen?"
+    },
+    "a": {
+     "nl": "Donald Harradine.",
+     "en": "Donald Harradine.",
+     "de": "Donald Harradine."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoeveel holes en welk par?",
+     "en": "How many holes and what par?",
+     "de": "Wie viele Löcher und welches Par?"
+    },
+    "a": {
+     "nl": "18 holes, par 70.",
+     "en": "18 holes, par 70.",
+     "de": "18 Löcher, Par 70."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g36",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "verified": true,
+  "place": "",
+  "slug_en": "golf-club-seefeld-reith",
+  "slug_de": "golfclub-seefeld-reith",
+  "title": {
+   "nl": "Golfclub Seefeld-Reith",
+   "en": "Seefeld-Reith Golf Club",
+   "de": "Golfclub Seefeld-Reith"
+  },
+  "tagline": {
+   "nl": "Vlakke negenholesbaan bij Seefeld, zonder lidmaatschap te spelen",
+   "en": "A flat nine-hole course near Seefeld, playable without membership",
+   "de": "Flacher Neun-Loch-Platz bei Seefeld, ohne Mitgliedschaft spielbar"
+  },
+  "intro": {
+   "nl": "Seefeld-Reith is een negenholesbaan die in 2006 opende, ongeveer 67 km hemelsbreed van Niederau. Het is een par 70 en de baan is vlak, met waterhindernissen. De lengte is volgens een golfportaal 5.550 m vanaf de witte tees en 4.554 m vanaf de rode dames-tees. Om de negen holes twee keer te spelen krijg je dus een volledige 18-holesronde.\n\nBij de baan hoort een driving range met twaalf overdekte afslagplaatsen, plus chipping-, pitching- en puttinggreens en een oefenbunker. Je kunt er spelen zonder lid te zijn van een club. Het seizoen loopt volgens de brochure van Seefeld van half april tot begin november, afhankelijk van de sneeuw; de openingstijden worden per week op de clubsite gepubliceerd.",
+   "en": "Seefeld-Reith is a nine-hole course that opened in 2006, around 67 km as the crow flies from Niederau. It is a par 70 and the ground is flat with water hazards. According to a golf portal it measures 5,550 m from the white tees and 4,554 m from the red ladies' tees. Playing the nine holes twice therefore gives you a full 18-hole round.\n\nThe course has a driving range with twelve covered tees, plus chipping, pitching and putting greens and a practice bunker. You can play without being a club member. According to the Seefeld brochure the season runs from mid-April to early November, depending on snow; opening times are published week by week on the club's website.",
+   "de": "Seefeld-Reith ist ein Neun-Loch-Platz, der 2006 eröffnet wurde, rund 67 km Luftlinie von Niederau entfernt. Er ist Par 70, das Gelände ist flach und hat Wasserhindernisse. Laut einem Golfportal misst er 5.550 m von den weißen und 4.554 m von den roten Damenabschlägen. Spielt man die neun Löcher zweimal, ergibt das eine volle 18-Loch-Runde.\n\nZur Anlage gehört eine Driving Range mit zwölf überdachten Abschlägen sowie Chipping-, Pitching- und Putting-Grün und ein Übungsbunker. Man kann ohne Clubmitgliedschaft spielen. Laut der Seefelder Broschüre dauert die Saison von Mitte April bis Anfang November, je nach Schnee; die Öffnungszeiten werden wochenweise auf der Clubwebsite bekannt gegeben."
+  },
+  "tips": {
+   "nl": [
+    "Speel de negen holes twee keer voor een volledige ronde.",
+    "Kijk op de clubsite naar de wekelijkse openingstijden voor je vertrekt.",
+    "Gebruik de overdekte range als het regent."
+   ],
+   "en": [
+    "Play the nine holes twice for a full round.",
+    "Check the club's website for weekly opening times before you set off.",
+    "Use the covered range if it rains."
+   ],
+   "de": [
+    "Spielen Sie die neun Löcher zweimal für eine volle Runde.",
+    "Prüfen Sie vor der Abfahrt die wöchentlichen Öffnungszeiten auf der Clubwebsite.",
+    "Nutzen Sie bei Regen die überdachte Range."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 70 minuten rijden vanaf Niederau, via de A12 door het Inntal en over de Seefelder Sattel; ongeveer 67 km hemelsbreed.",
+   "en": "About 70 minutes by car from Niederau, via the A12 through the Inn valley and over the Seefeld saddle; roughly 67 km as the crow flies.",
+   "de": "Ca. 70 Minuten Fahrt ab Niederau, über die A12 durch das Inntal und über den Seefelder Sattel; rund 67 km Luftlinie."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 70 min rijden",
+    "en": "Approx. 70 min drive",
+    "de": "Ca. 70 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Half april tot begin november",
+    "en": "Mid-April to early November",
+    "de": "Mitte April bis Anfang November"
+   }
+  },
+  "location": {
+   "nl": "Seefeld in Tirol (Reith)",
+   "en": "Seefeld in Tirol (Reith)",
+   "de": "Seefeld in Tirol (Reith)"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-seefeld-reith-1",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is lidmaatschap nodig?",
+     "en": "Is membership required?",
+     "de": "Ist eine Mitgliedschaft nötig?"
+    },
+    "a": {
+     "nl": "Nee, je kunt als gast spelen.",
+     "en": "No, you can play as a guest.",
+     "de": "Nein, man kann als Gast spielen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer opende de baan?",
+     "en": "When did the course open?",
+     "de": "Wann wurde der Platz eröffnet?"
+    },
+    "a": {
+     "nl": "In 2006.",
+     "en": "In 2006.",
+     "de": "2006."
+    }
+   }
+  ]
+ },
+ {
+  "id": "g51",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-course-prien-chiemsee",
+  "slug_de": "golfplatz-prien-chiemsee",
+  "title": {
+   "nl": "Chiemsee Golf Club Prien",
+   "en": "Chiemsee Golf Club Prien",
+   "de": "Chiemsee Golf-Club Prien"
+  },
+  "tagline": {
+   "nl": "18 holes met uitzicht op de Chiemgauer Alpen",
+   "en": "18 holes with views of the Chiemgau Alps",
+   "de": "18 Löcher mit Blick auf die Chiemgauer Alpen"
+  },
+  "intro": {
+   "nl": "De Chiemsee Golf Club in Prien-Bauernberg werd in 1961 opgericht, aanvankelijk met negen holes. Sinds 2009 is het een volwaardige 18-holesbaan (par 72) in parklandschap met oude bomen. Vanaf de gele tees meet de baan 5.773 m, vanaf de rode damestees 5.119 m.\n\nHet terrein is deels heuvelachtig en volgens de club veeleisend; vanaf de baan zie je de Chiemgauer Alpen en het Chiemsee. Gasten zijn welkom, maar moeten zich aanmelden en doorgaans een clubpas met geregistreerd handicap tonen. Vanuit Niederau is het een rit door het Inntal en over de A8, geschikt voor een dag met meer dan alleen golf, bijvoorbeeld een bezoek aan het meer.",
+   "en": "The Chiemsee Golf Club in Prien-Bauernberg was founded in 1961, at first with nine holes. Since 2009 it has been a full 18-hole course (par 72) in parkland with mature trees. It measures 5,773 m from the yellow tees and 5,119 m from the red ladies' tees.\n\nThe terrain is partly hilly and described by the club as demanding; from the course you can see the Chiemgau Alps and the Chiemsee. Guests are welcome but need to register and usually show a club card with a registered handicap. From Niederau it is a drive through the Inn valley and along the A8, suited to a day that combines golf with a visit to the lake.",
+   "de": "Der Chiemsee Golf-Club in Prien-Bauernberg wurde 1961 gegründet, zunächst mit neun Löchern. Seit 2009 ist er eine vollwertige 18-Loch-Anlage (Par 72) in Parklandschaft mit altem Baumbestand. Von den gelben Abschlägen misst er 5.773 m, von den roten Damenabschlägen 5.119 m.\n\nDas Gelände ist teils hügelig und laut Club anspruchsvoll; vom Platz sieht man die Chiemgauer Alpen und den Chiemsee. Gäste sind willkommen, müssen sich aber anmelden und in der Regel einen Clubausweis mit eingetragenem Handicap vorlegen. Von Niederau führt die Fahrt durch das Inntal und über die A8, passend für einen Tag, der Golf mit einem Besuch am See verbindet."
+  },
+  "tips": {
+   "nl": [
+    "Meld je vooraf aan en neem je clubpas en handicapbewijs mee.",
+    "Kies de tee die bij je niveau past: de baan heeft meerdere afslagplaatsen van ruim 5.100 tot 5.800 m.",
+    "Combineer de ronde met een uitstapje naar het Chiemsee."
+   ],
+   "en": [
+    "Register in advance and bring your club card and proof of handicap.",
+    "Choose a tee that suits your level: there are several tees from just over 5,100 to 5,800 m.",
+    "Combine the round with a trip to the Chiemsee."
+   ],
+   "de": [
+    "Melden Sie sich vorab an und bringen Sie Clubausweis und Handicapnachweis mit.",
+    "Wählen Sie den Abschlag passend zum Niveau: Es gibt mehrere Tees von gut 5.100 bis 5.800 m.",
+    "Verbinden Sie die Runde mit einem Ausflug an den Chiemsee."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 80 minuten rijden vanaf Niederau (ca. 50 km hemelsbreed), via Kufstein en de A8.",
+   "en": "About 80 minutes by car from Niederau (approx. 50 km as the crow flies), via Kufstein and the A8.",
+   "de": "Ca. 80 Minuten Fahrt ab Niederau (ca. 50 km Luftlinie), über Kufstein und die A8."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 80 min rijden",
+    "en": "Approx. 80 min drive",
+    "de": "Ca. 80 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer (ca. april tot oktober)",
+    "en": "Summer (approx. April to October)",
+    "de": "Sommer (ca. April bis Oktober)"
+   }
+  },
+  "location": {
+   "nl": "Prien am Chiemsee, Bayern",
+   "en": "Prien am Chiemsee, Bavaria",
+   "de": "Prien am Chiemsee, Bayern"
+  },
+  "url": "https://www.cgc-prien.de",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel holes heeft de baan?",
+     "en": "How many holes does the course have?",
+     "de": "Wie viele Löcher hat der Platz?"
+    },
+    "a": {
+     "nl": "18 holes, par 72; sinds 2009 in deze vorm.",
+     "en": "18 holes, par 72; in this form since 2009.",
+     "de": "18 Löcher, Par 72; in dieser Form seit 2009."
+    }
+   },
+   {
+    "q": {
+     "nl": "Mogen gasten spelen?",
+     "en": "Can guests play?",
+     "de": "Dürfen Gäste spielen?"
+    },
+    "a": {
+     "nl": "Ja, na aanmelding; een clubpas met geregistreerd handicap is doorgaans vereist.",
+     "en": "Yes, after registering; a club card with a registered handicap is usually required.",
+     "de": "Ja, nach Anmeldung; ein Clubausweis mit eingetragenem Handicap ist in der Regel erforderlich."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g52",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-ruhpolding",
+  "slug_de": "golfclub-ruhpolding",
+  "title": {
+   "nl": "Golfclub Ruhpolding",
+   "en": "Ruhpolding Golf Club",
+   "de": "Golfclub Ruhpolding"
+  },
+  "tagline": {
+   "nl": "Parkbaan van Thomas Himmel onder de Rauschberg",
+   "en": "A Thomas Himmel parkland course below the Rauschberg",
+   "de": "Parkplatz von Thomas Himmel unter dem Rauschberg"
+  },
+  "intro": {
+   "nl": "De Golfclub Ruhpolding ligt in het dorpsdeel Zell aan de Rauschbergstraße. Het is een 18-holesbaan (par 72) van de Duitse baanarchitect Thomas Himmel. Volgens de toeristische organisatie van Ruhpolding meten de herentees ongeveer 6.004 m. De zwaarste hole is nummer 13, een par 5 van 571 m.\n\nHet terrein is licht heuvelachtig met waterpartijen en loopt van sportief tot uitdagend. Om in te spelen zijn er een driving range, putting- en chippinggreens en een korte baan met drie holes. De speelperiode loopt van ongeveer april tot november. Gasten melden zich vooraf aan en tonen een clubpas met handicap. Vanuit Niederau rijd je er via het Kaiserwinkl heen.",
+   "en": "Golfclub Ruhpolding lies in the Zell district of the village, on Rauschbergstraße. It is an 18-hole course (par 72) by the German architect Thomas Himmel. According to the Ruhpolding tourist board the men's tees measure about 6,004 m. The toughest hole is the 13th, a 571 m par 5.\n\nThe terrain is gently hilly with water hazards and ranges from sporty to demanding. For warming up there is a driving range, putting and chipping greens and a three-hole short course. The season runs from about April to November. Guests register beforehand and show a club card with a handicap. From Niederau you drive there via the Kaiserwinkl.",
+   "de": "Der Golfclub Ruhpolding liegt im Ortsteil Zell an der Rauschbergstraße. Es ist eine 18-Loch-Anlage (Par 72) des Architekten Thomas Himmel. Laut Tourismusinformation Ruhpolding messen die Herrenabschläge etwa 6.004 m. Die schwerste Bahn ist die 13, ein Par 5 über 571 m.\n\nDas Gelände ist leicht hügelig mit Wasserhindernissen und reicht von sportlich bis anspruchsvoll. Zum Einspielen gibt es eine Driving Range, Putting- und Chipping-Grüns sowie einen Drei-Loch-Kurzplatz. Die Saison dauert etwa von April bis November. Gäste melden sich vorab an und legen einen Clubausweis mit Handicap vor. Von Niederau fährt man über den Kaiserwinkl dorthin."
+  },
+  "tips": {
+   "nl": [
+    "Leg bij de par 5 op hole 13 de nadruk op positie, niet op kracht.",
+    "Gebruik de driehole-oefenbaan om je korte spel te testen.",
+    "Combineer de dag met Ruhpolding zelf, bijvoorbeeld de Rauschbergbahn."
+   ],
+   "en": [
+    "On the par 5 at hole 13, play for position rather than power.",
+    "Use the three-hole practice course to test your short game.",
+    "Combine the day with Ruhpolding itself, for example the Rauschberg cable car."
+   ],
+   "de": [
+    "Spielen Sie das Par 5 auf Bahn 13 auf Position statt auf Länge.",
+    "Testen Sie auf dem Drei-Loch-Übungsplatz Ihr kurzes Spiel.",
+    "Verbinden Sie den Tag mit Ruhpolding selbst, etwa der Rauschbergbahn."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 80 minuten rijden vanaf Niederau (ca. 55 km hemelsbreed), via het Kaiserwinkl en Reit im Winkl.",
+   "en": "About 80 minutes by car from Niederau (approx. 55 km as the crow flies), via the Kaiserwinkl and Reit im Winkl.",
+   "de": "Ca. 80 Minuten Fahrt ab Niederau (ca. 55 km Luftlinie), über den Kaiserwinkl und Reit im Winkl."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 80 min rijden",
+    "en": "Approx. 80 min drive",
+    "de": "Ca. 80 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Ca. april tot november",
+    "en": "Approx. April to November",
+    "de": "Ca. April bis November"
+   }
+  },
+  "location": {
+   "nl": "Ruhpolding-Zell, Bayern",
+   "en": "Ruhpolding-Zell, Bavaria",
+   "de": "Ruhpolding-Zell, Bayern"
+  },
+  "url": "https://ruhpolding.de/en/golfclub-ruhpolding",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wie ontwierp de baan?",
+     "en": "Who designed the course?",
+     "de": "Wer hat den Platz entworfen?"
+    },
+    "a": {
+     "nl": "Thomas Himmel; 18 holes, par 72.",
+     "en": "Thomas Himmel; 18 holes, par 72.",
+     "de": "Thomas Himmel; 18 Löcher, Par 72."
+    }
+   },
+   {
+    "q": {
+     "nl": "Zijn er oefenfaciliteiten?",
+     "en": "Are there practice facilities?",
+     "de": "Gibt es Übungsanlagen?"
+    },
+    "a": {
+     "nl": "Ja: een driving range, putting- en chippinggreens en een korte baan met drie holes.",
+     "en": "Yes: a driving range, putting and chipping greens and a three-hole short course.",
+     "de": "Ja: eine Driving Range, Putting- und Chipping-Grüns sowie ein Drei-Loch-Kurzplatz."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g53",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-resort-achental-grassau",
+  "slug_de": "golfresort-achental-grassau",
+  "title": {
+   "nl": "Golf Resort Achental Grassau",
+   "en": "Golf Resort Achental, Grassau",
+   "de": "Golfresort Achental Grassau"
+  },
+  "tagline": {
+   "nl": "Vlakke 18 holes met water en 64 bunkers",
+   "en": "A flat 18-hole course with water and 64 bunkers",
+   "de": "Flache 18 Löcher mit Wasser und 64 Bunkern"
+  },
+  "intro": {
+   "nl": "Aan het resort Das Achental in Grassau grenst een 18-holesbaan (par 72) die in 2013 werd geopend. Ontwerper is Thomas Himmel. Het terrein is vlak en heeft links- en moerasachtige trekken. Vanaf de witte tees meet de baan 5.835 m, vanaf de oranje dameslangsten 4.316 m.\n\nVolgens het resort liggen er waterhindernissen, hoog gras, goed verdedigde greens en 64 deels zeer grote bunkers. Daardoor is de baan geschikt om te lopen maar niet zonder tanden. Een bron noemt de baan vijfsterren-superior volgens de Beierse golfvereniging BVGA (2020). Vanuit Niederau ligt Grassau aan de Beierse kant van de Chiemgauer Alpen, aan de weg richting de Chiemsee.",
+   "en": "Next to the Das Achental resort in Grassau lies an 18-hole course (par 72) that opened in 2013. It was designed by Thomas Himmel. The terrain is flat with links and moorland features. It measures 5,835 m from the white tees and 4,316 m from the shortest ladies' tees.\n\nAccording to the resort the course has water hazards, thick rough, well-guarded greens and 64 bunkers, some of them very large. That makes it easy to walk but not toothless. One source says the course was rated five-star superior by the Bavarian golf body BVGA (2020). From Niederau, Grassau lies on the Bavarian side of the Chiemgau Alps, on the way towards the Chiemsee.",
+   "de": "Neben dem Resort Das Achental in Grassau liegt ein 18-Loch-Platz (Par 72), der 2013 eröffnet wurde. Gestalter ist Thomas Himmel. Das Gelände ist flach mit Links- und Moorcharakter. Von den weißen Abschlägen misst er 5.835 m, von den kürzesten Damenabschlägen 4.316 m.\n\nLaut Resort gibt es Wasserhindernisse, dichtes Rough, gut verteidigte Grüns und 64 teils sehr große Bunker. Der Platz ist damit gut zu gehen, aber nicht ohne Biss. Eine Quelle nennt ihn 5-Sterne-superior nach dem bayerischen Golfverband BVGA (2020). Von Niederau liegt Grassau auf der bayerischen Seite der Chiemgauer Alpen, auf dem Weg zum Chiemsee."
+  },
+  "tips": {
+   "nl": [
+    "Neem bij wind een club meer: op een vlakke baan met water wordt het snel koud en nat.",
+    "Controleer vooraf of de baan voor gasten zonder hotelverblijf open is.",
+    "Ga eventueel na afloop naar de Chiemsee, die niet ver weg ligt."
+   ],
+   "en": [
+    "In wind, take an extra club: on a flat course with water the elements show.",
+    "Check beforehand how guests not staying at the resort can book.",
+    "Afterwards, the Chiemsee is only a short drive away."
+   ],
+   "de": [
+    "Bei Wind lieber einen Schläger mehr: Auf flachem Terrain mit Wasser macht sich das bemerkbar.",
+    "Klären Sie vorab, wie Gäste ohne Hotelaufenthalt buchen können.",
+    "Danach ist der Chiemsee nur eine kurze Fahrt entfernt."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 70 minuten rijden vanaf Niederau (ca. 47 km hemelsbreed), via Kössen en Reit im Winkl of via Kufstein.",
+   "en": "About 70 minutes by car from Niederau (approx. 47 km as the crow flies), via Kössen and Reit im Winkl or via Kufstein.",
+   "de": "Ca. 70 Minuten Fahrt ab Niederau (ca. 47 km Luftlinie), über Kössen und Reit im Winkl oder über Kufstein."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 70 min rijden",
+    "en": "Approx. 70 min drive",
+    "de": "Ca. 70 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Grassau, Chiemgau",
+   "en": "Grassau, Chiemgau",
+   "de": "Grassau, Chiemgau"
+  },
+  "url": "https://www.chiemsee-chiemgau.info/en/golfplatz-golf-resort-achental",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is de baan?",
+     "en": "How long is the course?",
+     "de": "Wie lang ist der Platz?"
+    },
+    "a": {
+     "nl": "5.835 m vanaf de witte tees, par 72.",
+     "en": "5,835 m from the white tees, par 72.",
+     "de": "5.835 m von den weißen Abschlägen, Par 72."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer werd de baan geopend?",
+     "en": "When did it open?",
+     "de": "Wann wurde der Platz eröffnet?"
+    },
+    "a": {
+     "nl": "In 2013, ontworpen door Thomas Himmel.",
+     "en": "In 2013, designed by Thomas Himmel.",
+     "de": "2013, gestaltet von Thomas Himmel."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g54",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-hoeslwang-chiemgau",
+  "slug_de": "golfclub-hoeslwang-chiemgau",
+  "title": {
+   "nl": "Golf Club Höslwang im Chiemgau",
+   "en": "Höslwang Golf Club in the Chiemgau",
+   "de": "Golf Club Höslwang im Chiemgau"
+  },
+  "tagline": {
+   "nl": "Strategisch heuvelspel met uitzicht op de Alpen",
+   "en": "Strategic hill golf with Alpine views",
+   "de": "Strategisches Hügelspiel mit Alpenblick"
+  },
+  "intro": {
+   "nl": "Golf Club Höslwang ligt op een heuvel zo'n tien kilometer van het Chiemsee. De club begon in 1974 met negen holes; de huidige 18-holesbaan werd in 1992 ingewijd. De baan is later herontworpen door Thomas Himmel. Vanaf de witte tees meet de baan 6.190 m (par 72), vanaf de gele 6.025 m.\n\nHet terrein is heuvelachtig met waterhindernissen. Een beschrijving noemt de baan meer strategisch dan lang: wie goed plaatst, scoort beter dan wie alleen ver slaat. Op heldere dagen heb je uitzicht op de Chiemgauer Alpen. De rit vanuit Niederau is lang, dus past dit vooral bij wie de Chiemsee-regio wil combineren met een ronde.",
+   "en": "Höslwang Golf Club sits on a hill about ten kilometres from the Chiemsee. The club began in 1974 with nine holes; the present 18-hole course was inaugurated in 1992. A redesign by Thomas Himmel is credited, though the year is not confirmed. The course measures 6,190 m from the white tees (par 72) and 6,025 m from the yellow.\n\nThe terrain is hilly with water hazards. One description calls the course strategic rather than long: placing the ball well pays more than hitting it far. On clear days you can see the Chiemgau Alps. The drive from Niederau is long, so it suits those who want to combine a round with the Chiemsee region.",
+   "de": "Der Golf Club Höslwang liegt auf einer Anhöhe rund zehn Kilometer vom Chiemsee entfernt. Der Club begann 1974 mit neun Löchern; die heutige 18-Loch-Anlage wurde 1992 eingeweiht. Genannt wird ein Umbau durch Thomas Himmel, dessen Jahr nicht bestätigt ist. Von den weißen Abschlägen misst der Platz 6.190 m (Par 72), von den gelben 6.025 m.\n\nDas Gelände ist hügelig mit Wasserhindernissen. Eine Beschreibung nennt den Platz eher strategisch als lang: Gute Platzierung zahlt sich mehr aus als weite Schläge. An klaren Tagen reicht der Blick auf die Chiemgauer Alpen. Die Anfahrt von Niederau ist lang, daher passt der Platz vor allem, wenn man die Runde mit der Chiemsee-Region verbindet."
+  },
+  "tips": {
+   "nl": [
+    "Speel op positie: de baan is strategisch ingedeeld.",
+    "Verwacht hoogteverschil; een trolley is lastiger dan op vlakke banen.",
+    "Combineer de ronde met een bezoek aan het Chiemsee."
+   ],
+   "en": [
+    "Play for position: the layout rewards strategy.",
+    "Expect elevation changes; a trolley is harder work than on flat courses.",
+    "Combine the round with a visit to the Chiemsee."
+   ],
+   "de": [
+    "Spielen Sie auf Position: Das Layout belohnt Strategie.",
+    "Rechnen Sie mit Höhenunterschieden; ein Trolley ist anstrengender als auf flachen Plätzen.",
+    "Verbinden Sie die Runde mit einem Besuch am Chiemsee."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 85 minuten rijden vanaf Niederau (ca. 57 km hemelsbreed), via Kufstein en de A8.",
+   "en": "About 85 minutes by car from Niederau (approx. 57 km as the crow flies), via Kufstein and the A8.",
+   "de": "Ca. 85 Minuten Fahrt ab Niederau (ca. 57 km Luftlinie), über Kufstein und die A8."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 85 min rijden",
+    "en": "Approx. 85 min drive",
+    "de": "Ca. 85 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Höslwang, Chiemgau",
+   "en": "Höslwang, Chiemgau",
+   "de": "Höslwang, Chiemgau"
+  },
+  "url": "https://www.golfclub-hoeslwang.de",
+  "faq": [
+   {
+    "q": {
+     "nl": "Sinds wanneer bestaat de baan?",
+     "en": "Since when has the course existed?",
+     "de": "Seit wann gibt es den Platz?"
+    },
+    "a": {
+     "nl": "De club is van 1974; de 18-holesbaan werd in 1992 ingewijd.",
+     "en": "The club dates from 1974; the 18-hole course was inaugurated in 1992.",
+     "de": "Der Club besteht seit 1974; der 18-Loch-Platz wurde 1992 eingeweiht."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang is de baan?",
+     "en": "How long is the course?",
+     "de": "Wie lang ist der Platz?"
+    },
+    "a": {
+     "nl": "6.190 m vanaf de witte tees (par 72).",
+     "en": "6,190 m from the white tees (par 72).",
+     "de": "6.190 m von den weißen Abschlägen (Par 72)."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g55",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-gut-ising-chieming",
+  "slug_de": "golfclub-gut-ising-chieming",
+  "title": {
+   "nl": "Golf Club Gut Ising Chieming",
+   "en": "Gut Ising Golf Club, Chieming",
+   "de": "Golf Club Gut Ising Chieming"
+  },
+  "tagline": {
+   "nl": "Negen holes tussen lanen en poloterreinen",
+   "en": "Nine holes between tree avenues and polo fields",
+   "de": "Neun Löcher zwischen Alleen und Poloplätzen"
+  },
+  "intro": {
+   "nl": "Op het landgoed Gut Ising bij Chieming ligt een negenholesbaan die in 1997 werd gesticht en volgens een bron door Thomas Himmel is ontworpen. De baan ligt tussen oude lanen en de aangrenzende poloterreinen en is vlak, met waterhindernissen. De par wordt in bronnen verschillend vermeld (70 of 72), dus neem die informatie vooraf met de club door.\n\nVoor het oefenen is er een driving range met 15 afslagplaatsen (2 overdekt), putting-, pitching- en chippinggreens en een oefenbunker. De speelperiode loopt van april tot oktober. Gasten melden zich vooraf aan en tonen een clubpas met handicap. Het landgoed heeft ook een hotel, zodat de baan goed te combineren is met een verblijf aan het Chiemsee.",
+   "en": "On the Gut Ising estate near Chieming lies a nine-hole course founded in 1997 and, according to one source, designed by Thomas Himmel. It runs between old tree avenues and the neighbouring polo fields and is flat, with water hazards. Sources give different pars (70 or 72), so confirm this with the club beforehand.\n\nFor practice there is a driving range with 15 tees (2 covered), putting, pitching and chipping greens and a practice bunker. The season runs from April to October. Guests register beforehand and show a club card with a handicap. The estate also has a hotel, so the course combines well with a stay by the Chiemsee.",
+   "de": "Auf dem Gut Ising bei Chieming liegt eine 1997 gegründete Neun-Loch-Anlage, die laut einer Quelle von Thomas Himmel gestaltet wurde. Sie verläuft zwischen alten Alleen und den angrenzenden Poloplätzen und ist flach mit Wasserhindernissen. Die Quellen nennen unterschiedliche Pars (70 oder 72); bitte vorab beim Club nachfragen.\n\nZum Üben gibt es eine Driving Range mit 15 Abschlägen (2 überdacht), Putting-, Pitching- und Chipping-Grüns sowie einen Übungsbunker. Die Saison dauert von April bis Oktober. Gäste melden sich vorab an und legen einen Clubausweis mit Handicap vor. Zum Gut gehört auch ein Hotel, daher lässt sich der Platz gut mit einem Aufenthalt am Chiemsee verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Een negenholesronde past goed in een halve dag; speel eventueel twee keer rond.",
+    "Oefen vooraf op de range, deels overdekt.",
+    "Controleer de par en tees vooraf, omdat bronnen verschillen."
+   ],
+   "en": [
+    "Nine holes fit into half a day; play twice round if you want 18.",
+    "Warm up on the range, part of which is covered.",
+    "Check the par and tees beforehand, as sources differ."
+   ],
+   "de": [
+    "Neun Löcher passen in einen halben Tag; spielen Sie ggf. zweimal für 18.",
+    "Spielen Sie sich auf der teils überdachten Range ein.",
+    "Prüfen Sie Par und Abschläge vorab, da die Quellen abweichen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 90 minuten rijden vanaf Niederau (ca. 59 km hemelsbreed), via Kufstein en de A8.",
+   "en": "About 90 minutes by car from Niederau (approx. 59 km as the crow flies), via Kufstein and the A8.",
+   "de": "Ca. 90 Minuten Fahrt ab Niederau (ca. 59 km Luftlinie), über Kufstein und die A8."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 90 min rijden",
+    "en": "Approx. 90 min drive",
+    "de": "Ca. 90 Min. Fahrt"
+   },
+   "season": {
+    "nl": "April tot oktober",
+    "en": "April to October",
+    "de": "April bis Oktober"
+   }
+  },
+  "location": {
+   "nl": "Chieming, Chiemsee",
+   "en": "Chieming, Chiemsee",
+   "de": "Chieming, Chiemsee"
+  },
+  "url": "https://www.gut-ising.de/en/sport-leisure/golfing/golf-course",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel holes heeft de baan?",
+     "en": "How many holes does the course have?",
+     "de": "Wie viele Löcher hat der Platz?"
+    },
+    "a": {
+     "nl": "Negen holes; wie 18 wil spelen gaat twee keer rond.",
+     "en": "Nine holes; for 18 you play the loop twice.",
+     "de": "Neun Löcher; für 18 spielt man die Runde zweimal."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er een driving range?",
+     "en": "Is there a driving range?",
+     "de": "Gibt es eine Driving Range?"
+    },
+    "a": {
+     "nl": "Ja, met 15 afslagplaatsen, waarvan 2 overdekt.",
+     "en": "Yes, with 15 tees, 2 of them covered.",
+     "de": "Ja, mit 15 Abschlägen, davon 2 überdacht."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g56",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-chieming",
+  "slug_de": "golfclub-chieming",
+  "title": {
+   "nl": "Golf-Club Chieming",
+   "en": "Chieming Golf Club",
+   "de": "Golf-Club Chieming"
+  },
+  "tagline": {
+   "nl": "18 holes plus korte openbare par-3-baan",
+   "en": "18 holes plus a short public par-3 course",
+   "de": "18 Löcher plus öffentlicher Par-3-Kurzplatz"
+  },
+  "intro": {
+   "nl": "Golf-Club Chieming heeft een 18-holeskampioenschapsbaan die in golvend terrein ligt en is ontworpen door de Münchense architect Thomas Himmel. Vanaf de witte tees is de baan 6.250 m lang (par 72), vanaf de gele 5.933 m. De dameslengtes liggen rond 5.250 tot 5.500 m.\n\nDaarnaast is er een korte openbare par-3-baan, bruikbaar voor wie geen clubpas heeft of alleen het korte spel wil oefenen; bronnen noemen er zeven of negen holes. De club maakt deel uit van het samenwerkingsverband Golfland Chiemsee-Chiemgau, dat gastgolfers via een gezamenlijke golfkaart bedient. Vanuit Niederau is het een lange rit, dus het is vooral een optie bij een dag aan de Chiemsee.",
+   "en": "Chieming Golf Club has an 18-hole championship course in rolling terrain, designed by the Munich architect Thomas Himmel. It measures 6,250 m from the white tees (par 72) and 5,933 m from the yellow. The ladies' tees are around 5,250 to 5,500 m.\n\nThere is also a short public par-3 course, handy for those without a club card or who just want to practise their short game; sources mention seven or nine holes. The club belongs to the Golfland Chiemsee-Chiemgau partnership, which serves visiting golfers through a shared golf card. From Niederau it is a long drive, so it mainly suits a day at the Chiemsee.",
+   "de": "Der Golf-Club Chieming verfügt über einen 18-Loch-Meisterschaftsplatz in welligem Gelände, gestaltet vom Münchner Architekten Thomas Himmel. Von den weißen Abschlägen misst er 6.250 m (Par 72), von den gelben 5.933 m. Die Damenabschläge liegen bei etwa 5.250 bis 5.500 m.\n\nDazu gibt es einen öffentlichen Par-3-Kurzplatz, praktisch für alle ohne Clubausweis oder zum Üben des kurzen Spiels; die Quellen nennen sieben oder neun Löcher. Der Club gehört zur Kooperation Golfland Chiemsee-Chiemgau, die Gastspieler über eine gemeinsame Golfkarte bedient. Von Niederau ist es eine lange Fahrt, daher passt der Platz vor allem zu einem Tag am Chiemsee."
+  },
+  "tips": {
+   "nl": [
+    "Zonder clubpas kun je de korte par-3-baan proberen.",
+    "Kies de tee naar niveau; er zijn vier afslagplaatsen.",
+    "Informeer naar de gezamenlijke Golfland-kaart als je meerdere banen wilt spelen."
+   ],
+   "en": [
+    "Without a club card you can try the short par-3 course.",
+    "Pick your tee by level; there are four tees.",
+    "Ask about the shared Golfland card if you want to play several courses."
+   ],
+   "de": [
+    "Ohne Clubausweis können Sie den kurzen Par-3-Platz ausprobieren.",
+    "Wählen Sie den Abschlag nach Niveau; es gibt vier Tees.",
+    "Fragen Sie nach der gemeinsamen Golfland-Karte, wenn Sie mehrere Plätze spielen wollen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 95 minuten rijden vanaf Niederau (ca. 61 km hemelsbreed), via Kufstein en de A8.",
+   "en": "About 95 minutes by car from Niederau (approx. 61 km as the crow flies), via Kufstein and the A8.",
+   "de": "Ca. 95 Minuten Fahrt ab Niederau (ca. 61 km Luftlinie), über Kufstein und die A8."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 95 min rijden",
+    "en": "Approx. 95 min drive",
+    "de": "Ca. 95 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Chieming, Chiemsee",
+   "en": "Chieming, Chiemsee",
+   "de": "Chieming, Chiemsee"
+  },
+  "url": "https://www.1golf.eu/club/golf-club-chieming-ev/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er naast de grote baan?",
+     "en": "What is there besides the main course?",
+     "de": "Was gibt es neben dem großen Platz?"
+    },
+    "a": {
+     "nl": "Een korte openbare par-3-baan.",
+     "en": "A short public par-3 course.",
+     "de": "Einen öffentlichen Par-3-Kurzplatz."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang is de 18-holesbaan?",
+     "en": "How long is the 18-hole course?",
+     "de": "Wie lang ist der 18-Loch-Platz?"
+    },
+    "a": {
+     "nl": "6.250 m vanaf de witte tees, par 72.",
+     "en": "6,250 m from the white tees, par 72.",
+     "de": "6.250 m von den weißen Abschlägen, Par 72."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g57",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-obinger-see",
+  "slug_de": "golfclub-am-obinger-see",
+  "title": {
+   "nl": "Golf Club am Obinger See",
+   "en": "Golf Club am Obinger See",
+   "de": "Golf Club am Obinger See"
+  },
+  "tagline": {
+   "nl": "Negen holes in linksstijl, geopend in 2002",
+   "en": "Nine links-style holes, opened in 2002",
+   "de": "Neun Löcher im Linksstil, 2002 eröffnet"
+  },
+  "intro": {
+   "nl": "Het Golf Club am Obinger See ligt bij Obing, in het dorpsdeel Kleinornach, ten noordoosten van de Chiemsee. De baan opende in juni 2002 en is ontworpen door Tony Ristola. Het is een negenholesbaan in linksstijl. Voor een ronde van 18 holes speel je de lus twee keer; vanaf de gele tees is dat 6.014 m (par 72).\n\nDe baan is niet de dichtstbijzijnde vanuit Niederau, maar dankzij het open linkskarakter loont hij voor wie graag wind en vrij zicht op de lucht heeft. De exacte voorwaarden voor gasten (handicap, aanmelding) wisselen; vraag dit vooraf na. Wie de Chiemsee-streek bezoekt, kan er een rustig rondje mee combineren.",
+   "en": "Golf Club am Obinger See lies near Obing, in the Kleinornach district, north-east of the Chiemsee. The course opened in June 2002 and was designed by Tony Ristola. It is a nine-hole links-style layout. For 18 holes you play the loop twice; from the yellow tees that adds up to 6,014 m (par 72).\n\nIt is not the nearest course to Niederau, but its open links character appeals to those who like wind and wide skies. Guest conditions (handicap, registration) vary, so ask beforehand. If you are visiting the Chiemsee area it makes a quiet extra round.",
+   "de": "Der Golf Club am Obinger See liegt bei Obing im Ortsteil Kleinornach, nordöstlich des Chiemsees. Der Platz wurde im Juni 2002 eröffnet und von Tony Ristola gestaltet. Es ist eine Neun-Loch-Anlage im Linksstil. Für 18 Löcher spielt man die Runde zweimal; von den gelben Abschlägen ergibt das 6.014 m (Par 72).\n\nEr ist nicht der nächste Platz zu Niederau, doch sein offener Linkscharakter reizt alle, die Wind und weiten Himmel mögen. Die Bedingungen für Gäste (Handicap, Anmeldung) wechseln; bitte vorab erfragen. Wer die Chiemsee-Region besucht, kann hier eine ruhige zusätzliche Runde spielen."
+  },
+  "tips": {
+   "nl": [
+    "Reken op wind: op een open linksbaan kan die flink doorspelen.",
+    "Voor 18 holes loop je de lus twee keer; plan genoeg tijd.",
+    "Vraag vooraf naar de voorwaarden voor gasten."
+   ],
+   "en": [
+    "Expect wind: on an open links-style course it can matter a lot.",
+    "For 18 holes you play the loop twice; allow enough time.",
+    "Ask beforehand about conditions for guests."
+   ],
+   "de": [
+    "Rechnen Sie mit Wind: Auf einem offenen Linksplatz kann er viel ausmachen.",
+    "Für 18 Löcher spielt man die Runde zweimal; planen Sie genug Zeit ein.",
+    "Fragen Sie vorab nach den Bedingungen für Gäste."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 100 minuten rijden vanaf Niederau (ca. 65 km hemelsbreed), via Kufstein en de A8.",
+   "en": "About 100 minutes by car from Niederau (approx. 65 km as the crow flies), via Kufstein and the A8.",
+   "de": "Ca. 100 Minuten Fahrt ab Niederau (ca. 65 km Luftlinie), über Kufstein und die A8."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 100 min rijden",
+    "en": "Approx. 100 min drive",
+    "de": "Ca. 100 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Obing (Kleinornach), Bayern",
+   "en": "Obing (Kleinornach), Bavaria",
+   "de": "Obing (Kleinornach), Bayern"
+  },
+  "url": "https://www.1golf.eu/club/der-golf-club-am-obinger-see/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel holes heeft de baan?",
+     "en": "How many holes does the course have?",
+     "de": "Wie viele Löcher hat der Platz?"
+    },
+    "a": {
+     "nl": "Negen holes; voor 18 holes speel je twee keer rond.",
+     "en": "Nine holes; for 18 you play twice round.",
+     "de": "Neun Löcher; für 18 spielt man zweimal."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wie ontwierp de baan?",
+     "en": "Who designed the course?",
+     "de": "Wer hat den Platz entworfen?"
+    },
+    "a": {
+     "nl": "Tony Ristola; de baan opende in juni 2002.",
+     "en": "Tony Ristola; the course opened in June 2002.",
+     "de": "Tony Ristola; der Platz wurde im Juni 2002 eröffnet."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g58",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-schloss-maxlrain",
+  "slug_de": "golfclub-schloss-maxlrain",
+  "title": {
+   "nl": "Golf Club Schloß Maxlrain",
+   "en": "Schloss Maxlrain Golf Club",
+   "de": "Golf Club Schloß Maxlrain"
+  },
+  "tagline": {
+   "nl": "Slotpark, 140 hectare en een korte baan voor beginners",
+   "en": "Castle park, 140 hectares and a short course for beginners",
+   "de": "Schlosspark, 140 Hektar und ein Kurzplatz für Einsteiger"
+  },
+  "intro": {
+   "nl": "De Golf Club Schloß Maxlrain bij Tuntenhausen heeft een 18-holesbaan die in 1988 opende, ontworpen door Paul Krings. De baan loopt grotendeels door het kasteelpark uit de 19e eeuw, binnen een terrein van ongeveer 140 hectare. Vanaf de witte tees is de baan 6.370 m (par 72), vanaf de gele 6.090 m.\n\nHet terrein is vlak tot licht heuvelachtig met waterhindernissen en wordt als veeleisend beschreven. Naast de grote baan is er een openbare negenholes korte baan, bedoeld voor beginners. Volgens een bron kost die los per dag; informeer naar de actuele voorwaarden. Vanuit Niederau is het een van de dichtstbijzijnde grote banen aan de Beierse kant.",
+   "en": "Schloß Maxlrain Golf Club near Tuntenhausen has an 18-hole course that opened in 1988, designed by Paul Krings. Most of it runs through the 19th-century castle park, within an estate of about 140 hectares. It measures 6,370 m from the white tees (par 72) and 6,090 m from the yellow.\n\nThe terrain is flat to gently hilly with water hazards and is described as demanding. Alongside the main course there is a public nine-hole short course aimed at beginners. Per one source it is charged by the day; ask about current terms. From Niederau it is one of the nearer large courses on the Bavarian side.",
+   "de": "Der Golf Club Schloß Maxlrain bei Tuntenhausen hat einen 18-Loch-Platz, der 1988 eröffnet und von Paul Krings gestaltet wurde. Der Großteil führt durch den Schlosspark aus dem 19. Jahrhundert auf einem Areal von rund 140 Hektar. Von den weißen Abschlägen misst er 6.370 m (Par 72), von den gelben 6.090 m.\n\nDas Gelände ist flach bis leicht hügelig mit Wasserhindernissen und gilt als anspruchsvoll. Neben dem großen Platz gibt es einen öffentlichen Neun-Loch-Kurzplatz für Einsteiger. Laut einer Quelle wird er tageweise abgerechnet; bitte aktuelle Konditionen erfragen. Von Niederau aus ist er einer der näheren großen Plätze auf bayerischer Seite."
+  },
+  "tips": {
+   "nl": [
+    "Wie begint, kan eerst de korte baan proberen.",
+    "Kies de tee naar niveau: 5.400 tot 6.370 m.",
+    "Wandel na de ronde even door het slotpark."
+   ],
+   "en": [
+    "Beginners can try the short course first.",
+    "Choose the tee by level: 5,400 to 6,370 m.",
+    "Take a stroll through the castle park after your round."
+   ],
+   "de": [
+    "Einsteiger können zuerst den Kurzplatz ausprobieren.",
+    "Wählen Sie den Abschlag nach Niveau: 5.400 bis 6.370 m.",
+    "Spazieren Sie nach der Runde durch den Schlosspark."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 70 minuten rijden vanaf Niederau (ca. 49 km hemelsbreed), via Kufstein, Rosenheim en de A8.",
+   "en": "About 70 minutes by car from Niederau (approx. 49 km as the crow flies), via Kufstein, Rosenheim and the A8.",
+   "de": "Ca. 70 Minuten Fahrt ab Niederau (ca. 49 km Luftlinie), über Kufstein, Rosenheim und die A8."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 70 min rijden",
+    "en": "Approx. 70 min drive",
+    "de": "Ca. 70 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Tuntenhausen (Maxlrain), Bayern",
+   "en": "Tuntenhausen (Maxlrain), Bavaria",
+   "de": "Tuntenhausen (Maxlrain), Bayern"
+  },
+  "url": "https://www.1golf.eu/club/golf-club-schloss-maxlrain-ev",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wie ontwierp de baan?",
+     "en": "Who designed the course?",
+     "de": "Wer hat den Platz entworfen?"
+    },
+    "a": {
+     "nl": "Paul Krings; de baan opende in 1988.",
+     "en": "Paul Krings; the course opened in 1988.",
+     "de": "Paul Krings; der Platz wurde 1988 eröffnet."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er een baan voor beginners?",
+     "en": "Is there a course for beginners?",
+     "de": "Gibt es einen Platz für Einsteiger?"
+    },
+    "a": {
+     "nl": "Ja, een openbare negenholes korte baan.",
+     "en": "Yes, a public nine-hole short course.",
+     "de": "Ja, einen öffentlichen Neun-Loch-Kurzplatz."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g59",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-patting-hochriesblick-riedering",
+  "slug_de": "golfanlage-patting-hochriesblick-riedering",
+  "title": {
+   "nl": "Golfbaan Patting-Hochriesblick",
+   "en": "Patting-Hochriesblick Golf Course",
+   "de": "Golfanlage Patting-Hochriesblick"
+  },
+  "tagline": {
+   "nl": "Twee negenholesbanen, waaronder een die je beide kanten op speelt",
+   "en": "Two nine-hole courses, one playable in both directions",
+   "de": "Zwei Neun-Loch-Plätze, einer in beide Richtungen bespielbar"
+  },
+  "intro": {
+   "nl": "Tussen Chiemsee en Simssee, bij Riedering, ligt Golfbaan Patting-Hochriesblick. De golfbaan werd tussen 2016 en 2019 volledig herbouwd door het architectenteam Hendrick Hilgert en Frank Pont (Infinite Variety). Sinds 2019 zijn er twee negenholesbanen: de Reversible-baan (par 35), die in beide richtingen te spelen is, en de kortere Kampenwand-baan (par 29).\n\nVolgens een bron is de Reversible-baan de enige van zijn soort in Duitsland. De Kampenwand-baan is bedoeld voor een snelle ronde. De golfbaan heeft uitzicht op Kampenwand, Hochries en Wendelstein. Het is een particuliere golfbaan en geen club; de voorwaarden voor gasten kun je het best vooraf nagaan.",
+   "en": "Between the Chiemsee and the Simssee, near Riedering, lies Patting-Hochriesblick golf facility. It was rebuilt between 2016 and 2019 by the architect team of Hendrick Hilgert and Frank Pont (Infinite Variety). Since 2019 there have been two nine-hole courses: the Reversible course (par 35), playable in both directions, and the shorter Kampenwand course (par 29).\n\nAccording to one source the Reversible course is the only one of its kind in Germany. The Kampenwand course suits a quick round. The facility looks out over the Kampenwand, Hochries and Wendelstein mountains. It is a privately run golf facility rather than a club; check conditions for guests beforehand.",
+   "de": "Zwischen Chiemsee und Simssee bei Riedering liegt die Golfanlage Patting-Hochriesblick. Sie wurde von 2016 bis 2019 vom Architektenteam Hendrick Hilgert und Frank Pont (Infinite Variety) komplett neu gebaut. Seit 2019 gibt es zwei Neun-Loch-Plätze: den Reversible-Platz (Par 35), der in beide Richtungen bespielbar ist, und den kürzeren Kampenwand-Platz (Par 29).\n\nLaut einer Quelle ist der Reversible-Platz der einzige seiner Art in Deutschland. Der Kampenwand-Platz eignet sich für eine schnelle Runde. Die Anlage bietet Blick auf Kampenwand, Hochries und Wendelstein. Sie wird privat betrieben und ist kein Club; die Bedingungen für Gäste sollte man vorab klären."
+  },
+  "tips": {
+   "nl": [
+    "Probeer de Reversible-baan in beide richtingen; elke richting speelt anders.",
+    "Heb je weinig tijd? De Kampenwand-baan is zo gespeeld.",
+    "Neem een camera mee voor het uitzicht op Wendelstein en Hochries."
+   ],
+   "en": [
+    "Try the Reversible course in both directions; each plays differently.",
+    "Short on time? The Kampenwand course is quickly played.",
+    "Bring a camera for the views of the Wendelstein and Hochries."
+   ],
+   "de": [
+    "Probieren Sie den Reversible-Platz in beiden Richtungen; jede spielt sich anders.",
+    "Wenig Zeit? Der Kampenwand-Platz ist schnell gespielt.",
+    "Nehmen Sie eine Kamera mit für den Blick auf Wendelstein und Hochries."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 65 minuten rijden vanaf Niederau (ca. 46 km hemelsbreed), via Kufstein en Rosenheim.",
+   "en": "About 65 minutes by car from Niederau (approx. 46 km as the crow flies), via Kufstein and Rosenheim.",
+   "de": "Ca. 65 Minuten Fahrt ab Niederau (ca. 46 km Luftlinie), über Kufstein und Rosenheim."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 65 min rijden",
+    "en": "Approx. 65 min drive",
+    "de": "Ca. 65 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Riedering (Patting), Bayern",
+   "en": "Riedering (Patting), Bavaria",
+   "de": "Riedering (Patting), Bayern"
+  },
+  "url": "https://chiemsee-chiemgau.info/en/golfclub-patting-hochriesblick",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is er bijzonder aan de baan?",
+     "en": "What is special about the course?",
+     "de": "Was ist an der Anlage besonders?"
+    },
+    "a": {
+     "nl": "De Reversible-baan (par 35) kan in beide richtingen worden gespeeld.",
+     "en": "The Reversible course (par 35) can be played in both directions.",
+     "de": "Der Reversible-Platz (Par 35) lässt sich in beide Richtungen spielen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer werd de golfanlage vernieuwd?",
+     "en": "When was the facility rebuilt?",
+     "de": "Wann wurde die Anlage erneuert?"
+    },
+    "a": {
+     "nl": "Tussen 2016 en 2019; sinds 2019 zijn er twee negenholesbanen.",
+     "en": "Between 2016 and 2019; since 2019 there have been two nine-hole courses.",
+     "de": "Zwischen 2016 und 2019; seit 2019 gibt es zwei Neun-Loch-Plätze."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g60",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "city-golf-rosenheim",
+  "slug_de": "city-golf-rosenheim",
+  "title": {
+   "nl": "City Golf Rosenheim",
+   "en": "City Golf Rosenheim",
+   "de": "City Golf Rosenheim"
+  },
+  "tagline": {
+   "nl": "Openbare korte baan met driving range, zonder clubpas",
+   "en": "Public short course with driving range, no membership needed",
+   "de": "Öffentlicher Kurzplatz mit Range, ohne Mitgliedschaft"
+  },
+  "intro": {
+   "nl": "City Golf Rosenheim ligt in het stadsdeel Happing aan de rand van Rosenheim en is openbaar: je kunt er spelen zonder lidmaatschap en zonder golfvaardigheidsbewijs (golfvaardigheidsbewijs). Volgens de eigen site is het een negenholes par-3-baan van ongeveer 930 m; andere bronnen noemen zes holes. Het aantal holes is dus niet eenduidig; vraag het vooraf na.\n\nEr is een driving range met 35 afslagplaatsen, waarvan 7 overdekt, plus putting-, pitching- en chippinggreens en een oefenbunker. De baan is volgens de site het hele jaar open. Het is een goede plek om golf uit te proberen of het korte spel te oefenen, maar geen vol 18-holesrondje. Handig als tussenstop in Rosenheim onderweg van of naar Niederau.",
+   "en": "City Golf Rosenheim is in the Happing district on the edge of Rosenheim and is public: you can play without membership or a Platzreife certificate. According to its own site it is a nine-hole par-3 course of about 930 m; other sources mention six holes. The number of holes is therefore not clear, so ask beforehand.\n\nThere is a driving range with 35 tees, 7 of them covered, plus putting, pitching and chipping greens and a practice bunker. According to the site it is open all year. It is a good place to try golf or practise the short game, but not a full 18-hole round. Handy as a stop in Rosenheim on the way to or from Niederau.",
+   "de": "City Golf Rosenheim liegt im Stadtteil Happing am Rand von Rosenheim und ist öffentlich: Man kann ohne Mitgliedschaft und ohne Platzreife spielen. Laut eigener Website ist es ein Neun-Loch-Par-3-Platz mit rund 930 m; andere Quellen nennen sechs Löcher. Die Lochzahl ist also nicht eindeutig; bitte vorab erfragen.\n\nEs gibt eine Driving Range mit 35 Abschlägen, 7 davon überdacht, dazu Putting-, Pitching- und Chipping-Grüns sowie einen Übungsbunker. Laut Website ist die Anlage ganzjährig geöffnet. Sie eignet sich gut zum Ausprobieren und zum Üben des kurzen Spiels, ist aber keine volle 18-Loch-Runde. Praktisch als Zwischenstopp in Rosenheim auf dem Weg von oder nach Niederau."
+  },
+  "tips": {
+   "nl": [
+    "Ideaal voor een eerste kennismaking: geen clubpas of platzreife (golfvaardigheidsbewijs) nodig.",
+    "Gebruik de range en het korte spel om je swing te testen.",
+    "Vraag vooraf hoeveel holes er nu gespeeld worden."
+   ],
+   "en": [
+    "Ideal for a first taste: no club card or Platzreife needed.",
+    "Use the range and short-game area to test your swing.",
+    "Ask beforehand how many holes are currently played."
+   ],
+   "de": [
+    "Ideal zum Kennenlernen: kein Clubausweis und keine Platzreife nötig.",
+    "Testen Sie Ihren Schwung auf Range und Kurzspielbereich.",
+    "Fragen Sie vorab, wie viele Bahnen aktuell gespielt werden."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau (ca. 48 km hemelsbreed), via Kufstein en de A93.",
+   "en": "About 60 minutes by car from Niederau (approx. 48 km as the crow flies), via Kufstein and the A93.",
+   "de": "Ca. 60 Minuten Fahrt ab Niederau (ca. 48 km Luftlinie), über Kufstein und die A93."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 60 min rijden",
+    "en": "Approx. 60 min drive",
+    "de": "Ca. 60 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Het hele jaar (volgens de baan)",
+    "en": "All year (per the facility)",
+    "de": "Ganzjährig (laut Anlage)"
+   }
+  },
+  "location": {
+   "nl": "Rosenheim-Happing, Bayern",
+   "en": "Rosenheim-Happing, Bavaria",
+   "de": "Rosenheim-Happing, Bayern"
+  },
+  "url": "https://www.1golf.eu/club/city-golf-rosenheim-gmbh/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Heb ik een clubpas nodig?",
+     "en": "Do I need a club card?",
+     "de": "Brauche ich einen Clubausweis?"
+    },
+    "a": {
+     "nl": "Nee, de baan is te spelen zonder lidmaatschap en zonder platzreife (golfvaardigheidsbewijs).",
+     "en": "No, you can play without membership or a Platzreife.",
+     "de": "Nein, der Platz ist ohne Mitgliedschaft und ohne Platzreife bespielbar."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er een driving range?",
+     "en": "Is there a driving range?",
+     "de": "Gibt es eine Driving Range?"
+    },
+    "a": {
+     "nl": "Ja, met 35 afslagplaatsen, waarvan 7 overdekt.",
+     "en": "Yes, with 35 tees, 7 of them covered.",
+     "de": "Ja, mit 35 Abschlägen, davon 7 überdacht."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g61",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-mangfalltal",
+  "slug_de": "golfclub-mangfalltal",
+  "title": {
+   "nl": "Golfclub Mangfalltal",
+   "en": "Mangfalltal Golf Club",
+   "de": "Golfclub Mangfalltal"
+  },
+  "tagline": {
+   "nl": "18 holes rond een boerderij uit de 19e eeuw",
+   "en": "18 holes around a 19th-century farmstead",
+   "de": "18 Löcher rund um einen Hof aus dem 19. Jahrhundert"
+  },
+  "intro": {
+   "nl": "Golfclub Mangfalltal ligt in het Mangfalldal ten zuiden van München en ten westen van Rosenheim. De 18-holesbaan (par 72) opende in 1987 en is van het type weidelandschap met lichte heuvels en waterhindernissen. Vanaf de witte tees meet de baan 6.179 m, vanaf de gele 5.767 m, vanaf de rode damestees 5.142 m.\n\nHet clubhuis zit in een boerderij; volgens de club dateert het gebouw uit 1833 en is het verbouwd. Gasten beschrijven een vlakkere eerste helft en een heuvelachtige, zwaardere tweede helft. Vanaf het terras zie je Wallberg, Brecherspitze en Hirschberg. De baan ligt dichter bij München dan bij Niederau en past bij wie een dag westwaarts wil.",
+   "en": "Mangfalltal Golf Club lies in the Mangfall valley south of Munich and west of Rosenheim. The 18-hole course (par 72) opened in 1987 and is a meadowland layout with gentle hills and water hazards. It measures 6,179 m from the white tees, 5,767 m from the yellow and 5,142 m from the red ladies' tees.\n\nThe clubhouse is in a farmhouse; according to the club the building dates from 1833 and has been converted. Reviewers describe a flatter front nine and a hillier, tougher back nine. From the terrace you can see the Wallberg, Brecherspitze and Hirschberg. The course lies closer to Munich than to Niederau and suits those wanting a day heading west.",
+   "de": "Der Golfclub Mangfalltal liegt im Mangfalltal südlich von München und westlich von Rosenheim. Der 18-Loch-Platz (Par 72) wurde 1987 eröffnet und ist ein Wiesenplatz mit leichten Hügeln und Wasserhindernissen. Von den weißen Abschlägen misst er 6.179 m, von den gelben 5.767 m und von den roten Damenabschlägen 5.142 m.\n\nDas Clubhaus befindet sich in einem Bauernhof; laut Club stammt das Gebäude von 1833 und wurde umgebaut. Gäste beschreiben eine flachere erste und eine hügeligere, anspruchsvollere zweite Hälfte. Von der Terrasse sieht man Wallberg, Brecherspitze und Hirschberg. Der Platz liegt näher an München als an Niederau und passt zu einem Tag Richtung Westen."
+  },
+  "tips": {
+   "nl": [
+    "Houd je energie voor de heuvelachtige tweede negen over.",
+    "Neem tijd voor het terras met uitzicht op de bergen.",
+    "Informeer vooraf naar de voorwaarden voor gasten."
+   ],
+   "en": [
+    "Save energy for the hillier back nine.",
+    "Allow time for the terrace with its mountain views.",
+    "Ask beforehand about conditions for guests."
+   ],
+   "de": [
+    "Sparen Sie Kraft für die hügeligere zweite Neun.",
+    "Nehmen Sie sich Zeit für die Terrasse mit Bergblick.",
+    "Fragen Sie vorab nach den Bedingungen für Gäste."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 75 minuten rijden vanaf Niederau (ca. 50 km hemelsbreed), via Kufstein en de A8.",
+   "en": "About 75 minutes by car from Niederau (approx. 50 km as the crow flies), via Kufstein and the A8.",
+   "de": "Ca. 75 Minuten Fahrt ab Niederau (ca. 50 km Luftlinie), über Kufstein und die A8."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 75 min rijden",
+    "en": "Approx. 75 min drive",
+    "de": "Ca. 75 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Mangfalltal (Bruckmühl), Bayern",
+   "en": "Mangfalltal (Bruckmühl), Bavaria",
+   "de": "Mangfalltal (Bruckmühl), Bayern"
+  },
+  "url": "https://www.1golf.eu/club/golfclub-mangfalltal-ev/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer opende de baan?",
+     "en": "When did the course open?",
+     "de": "Wann wurde der Platz eröffnet?"
+    },
+    "a": {
+     "nl": "In 1987; 18 holes, par 72.",
+     "en": "In 1987; 18 holes, par 72.",
+     "de": "1987; 18 Löcher, Par 72."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang is de baan?",
+     "en": "How long is the course?",
+     "de": "Wie lang ist der Platz?"
+    },
+    "a": {
+     "nl": "6.179 m vanaf de witte tees.",
+     "en": "6,179 m from the white tees.",
+     "de": "6.179 m von den weißen Abschlägen."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g62",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-schloss-elkofen",
+  "slug_de": "golfclub-schloss-elkofen",
+  "title": {
+   "nl": "Golf Club Schloss Elkofen",
+   "en": "Schloss Elkofen Golf Club",
+   "de": "Golf Club Schloss Elkofen"
+  },
+  "tagline": {
+   "nl": "Heuvelachtige 18 holes van Donald Harradine, geopend in 1987",
+   "en": "Hilly 18 holes by Donald Harradine, opened in 1987",
+   "de": "Hügelige 18 Löcher von Donald Harradine, 1987 eröffnet"
+  },
+  "intro": {
+   "nl": "Golf Club Schloss Elkofen bij Grafing, ten oosten van München, heeft een 18-holesbaan die in 1987 opende en is ontworpen door Donald Harradine. De baan is par 71 en volgens een recensent heuvelachtig en uitdagend in strategie, terrein en lengte.\n\nHet is de verst gelegen baan van deze selectie, ongeveer 61 km hemelsbreed van Niederau, en dus vooral interessant als je toch richting München rijdt. De lengtes per tee heb ik niet kunnen bevestigen; raadpleeg de scorekaart van de club. Gasten melden zich vooraf aan.",
+   "en": "Schloss Elkofen Golf Club near Grafing, east of Munich, has an 18-hole course that opened in 1987 and was designed by Donald Harradine. It is a par 71 and, according to one reviewer, hilly and challenging in strategy, terrain and length.\n\nThis is the farthest course in this selection, about 61 km as the crow flies from Niederau, so it is mainly of interest if you are heading towards Munich anyway. I could not confirm the lengths per tee; check the club's scorecard. Guests register beforehand.",
+   "de": "Der Golf Club Schloss Elkofen bei Grafing, östlich von München, hat einen 18-Loch-Platz, der 1987 eröffnet und von Donald Harradine gestaltet wurde. Er ist Par 71 und laut einem Rezensenten hügelig und fordernd in Strategie, Gelände und Länge.\n\nDies ist der am weitesten entfernte Platz dieser Auswahl, etwa 61 km Luftlinie von Niederau, daher vor allem interessant, wenn man ohnehin Richtung München fährt. Die Längen je Abschlag ließen sich nicht bestätigen; bitte die Scorekarte des Clubs prüfen. Gäste melden sich vorab an."
+  },
+  "tips": {
+   "nl": [
+    "Reken op hoogteverschil en plan ruim tijd.",
+    "Vraag de scorekaart op voor de lengtes per tee.",
+    "Meld je als gast vooraf aan."
+   ],
+   "en": [
+    "Expect elevation changes and allow plenty of time.",
+    "Request the scorecard for the tee lengths.",
+    "Register in advance as a guest."
+   ],
+   "de": [
+    "Rechnen Sie mit Höhenunterschieden und planen Sie reichlich Zeit ein.",
+    "Fordern Sie die Scorekarte für die Längen je Abschlag an.",
+    "Melden Sie sich als Gast vorab an."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 85 minuten rijden vanaf Niederau (ca. 61 km hemelsbreed), via Kufstein en de A8.",
+   "en": "About 85 minutes by car from Niederau (approx. 61 km as the crow flies), via Kufstein and the A8.",
+   "de": "Ca. 85 Minuten Fahrt ab Niederau (ca. 61 km Luftlinie), über Kufstein und die A8."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Greenfee varies; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 85 min rijden",
+    "en": "Approx. 85 min drive",
+    "de": "Ca. 85 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Grafing (Elkofen), Bayern",
+   "en": "Grafing (Elkofen), Bavaria",
+   "de": "Grafing (Elkofen), Bayern"
+  },
+  "url": "https://www.1golf.eu/club/golf-club-schloss-elkofen-ev/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wie ontwierp de baan?",
+     "en": "Who designed the course?",
+     "de": "Wer hat den Platz entworfen?"
+    },
+    "a": {
+     "nl": "Donald Harradine; de baan opende in 1987.",
+     "en": "Donald Harradine; it opened in 1987.",
+     "de": "Donald Harradine; der Platz wurde 1987 eröffnet."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is de par?",
+     "en": "What is the par?",
+     "de": "Welches Par hat der Platz?"
+    },
+    "a": {
+     "nl": "Par 71 over 18 holes.",
+     "en": "Par 71 over 18 holes.",
+     "de": "Par 71 auf 18 Löchern."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g72",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-course-bad-wiessee-tegernsee",
+  "slug_de": "golfplatz-bad-wiessee-tegernsee",
+  "title": {
+   "nl": "Tegernseer Golf-Club Bad Wiessee",
+   "en": "Tegernseer Golf-Club Bad Wiessee",
+   "de": "Tegernseer Golf-Club Bad Wiessee"
+  },
+  "tagline": {
+   "nl": "Heuvelachtige 18 holes boven de Tegernsee",
+   "en": "Hilly 18 holes above the Tegernsee",
+   "de": "Hügelige 18 Löcher über dem Tegernsee"
+  },
+  "intro": {
+   "nl": "De Tegernseer Golf-Club ligt op de Rohbognerhof in Bad Wiessee, hoog boven de oostelijke oever van het meer. De club begon in 1958 met zes holes en groeide in 1983 uit tot een volwaardige 18-holesbaan. Het terrein is heuvelachtig, met enkele waterpartijen, en geldt als sportief en vrij veeleisend.\n\nDe baan is par 70. Vanaf de witte afslagplaatsen meet ze ruim 5.500 m, vanaf de damesafslag ongeveer 4.970 m. Dat is korter dan een gemiddelde kampioenschapsbaan, maar de hoogteverschillen maken de ronde zwaarder dan de lengte doet vermoeden. Voor het inslaan is er een driving range met 20 afslagplaatsen en oefengreens. Gasten zijn welkom, maar hebben een clubpas met geregistreerd handicap nodig; wie nog geen handicapbewijs heeft, kan hier dus niet zomaar een ronde spelen. Vanuit Niederau is het een lange rit, dus plan er een hele dag voor.",
+   "en": "The Tegernseer Golf-Club sits on the Rohbognerhof estate in Bad Wiessee, high above the lake's eastern shore. The club started in 1958 with six holes and was extended to a full 18 in 1983. The ground is hilly with a few water hazards, and the course is regarded as sporty and fairly demanding.\n\nIt plays to par 70. From the white tees it measures a little over 5,500 m, and about 4,970 m from the ladies' tee. That is shorter than a typical championship course, but the elevation changes make the round harder than the yardage suggests. A driving range with 20 bays and practice greens are available for warming up. Visitors are welcome, but they need a club card with a registered handicap, so players without a handicap certificate cannot simply turn up for a round. From Niederau it is a long drive, so plan a full day.",
+   "de": "Der Tegernseer Golf-Club liegt auf dem Rohbognerhof in Bad Wiessee, hoch über dem Ostufer des Sees. Der Club begann 1958 mit sechs Löchern und wurde 1983 zu einer vollwertigen 18-Loch-Anlage ausgebaut. Das Gelände ist hügelig und von einigen Wasserhindernissen durchzogen; der Platz gilt als sportlich und recht anspruchsvoll.\n\nGespielt wird Par 70. Von den weißen Abschlägen misst er gut 5.500 m, von den Damenabschlägen rund 4.970 m. Das ist kürzer als ein typischer Meisterschaftsplatz, doch die Höhenunterschiede machen die Runde schwerer, als die Länge vermuten lässt. Zum Einspielen gibt es eine Driving Range mit 20 Abschlägen sowie Übungsgrüns. Gäste sind willkommen, brauchen aber einen Clubausweis mit eingetragenem Handicap; ohne Platzreife ist hier also keine spontane Runde möglich. Von Niederau aus ist es eine lange Fahrt, planen Sie also einen ganzen Tag ein."
+  },
+  "tips": {
+   "nl": [
+    "Neem je clubpas met handicap mee; zonder kom je niet op de baan.",
+    "Reken op hoogteverschillen: een caddie of trolley is geen overbodige luxe.",
+    "Meld je vooraf aan, zeker in het weekend."
+   ],
+   "en": [
+    "Bring your club card with handicap; without it you will not be admitted.",
+    "Expect plenty of elevation change, so a trolley is worth having.",
+    "Book ahead, especially at weekends."
+   ],
+   "de": [
+    "Clubausweis mit Handicap mitbringen; ohne ihn ist kein Spiel möglich.",
+    "Mit vielen Höhenunterschieden rechnen; ein Trolley lohnt sich.",
+    "Vorher anmelden, vor allem am Wochenende."
+   ]
+  },
+  "practical": {
+   "nl": "Hemelsbreed ca. 38 km van Niederau; ca. 1,5 uur met de auto. Vlak bij het Tegernsee.",
+   "en": "About 38 km as the crow flies from Niederau; approx. 1.5 hours by car. Close to Lake Tegernsee.",
+   "de": "Luftlinie ca. 38 km von Niederau; ca. 1,5 Std. Fahrt. Nahe am Tegernsee."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fees vary; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 38 km hemelsbreed, ca. 1,5 uur rijden",
+    "en": "Approx. 38 km straight line, approx. 1.5 hours drive",
+    "de": "Ca. 38 km Luftlinie, ca. 1,5 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Bad Wiessee, Tegernsee, Beieren",
+   "en": "Bad Wiessee, Tegernsee, Bavaria",
+   "de": "Bad Wiessee, Tegernsee, Bayern"
+  },
+  "url": "https://www.tegernseer-golf-club.de",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel holes en welk par?",
+     "en": "How many holes and what par?",
+     "de": "Wie viele Löcher und welches Par?"
+    },
+    "a": {
+     "nl": "18 holes, par 70; de witte afslag meet ruim 5.500 m.",
+     "en": "18 holes, par 70; the white tee measures a little over 5,500 m.",
+     "de": "18 Löcher, Par 70; der weiße Abschlag misst gut 5.500 m."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kunnen gasten spelen?",
+     "en": "Can visitors play?",
+     "de": "Dürfen Gäste spielen?"
+    },
+    "a": {
+     "nl": "Ja, met een clubpas met geregistreerd handicap en bij voorkeur na aanmelding.",
+     "en": "Yes, with a club card showing a registered handicap, preferably after booking.",
+     "de": "Ja, mit Clubausweis und eingetragenem Handicap, am besten nach Anmeldung."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g73",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-course-margarethenhof-tegernsee",
+  "slug_de": "golfplatz-margarethenhof-tegernsee",
+  "title": {
+   "nl": "Margarethenhof Golfclub am Tegernsee",
+   "en": "Margarethenhof Golf Club at Lake Tegernsee",
+   "de": "Margarethenhof Golfclub am Tegernsee"
+  },
+  "tagline": {
+   "nl": "Hooggelegen baan bij het Tegernsee, april tot november",
+   "en": "High-lying course by Lake Tegernsee, April to November",
+   "de": "Hochgelegener Platz am Tegernsee, April bis November"
+  },
+  "intro": {
+   "nl": "Het Margarethenhof ligt bij Marienstein, gemeente Waakirchen, aan de rand van de Beierse Voralpen. De 18 holes opende in 1984 en liggen op grofweg 900 tot 950 m hoogte, waardoor het een van de hoogst gelegen golfbanen van Duitsland is. Het terrein is heuvelachtig en kent waterpartijen; de baan wordt als sportief en uitdagend omschreven.\n\nHet par is 70. De gele afslagplaatsen meten ongeveer 5.080 m, de rode circa 4.330 m. Door de hoogte loopt het seizoen alleen van april tot november. De baan hoort bij een hotel, maar ook gasten van buiten zijn welkom als ze zich vooraf aanmelden. Er is een geldig handicap nodig; informeer naar de actuele voorwaarden. Vanuit Niederau rijd je er via Beieren in ruim anderhalf uur heen, dus combineer het met een dag aan het meer.",
+   "en": "The Margarethenhof lies near Marienstein in the municipality of Waakirchen, on the edge of the Bavarian Pre-Alps. Its 18 holes opened in 1984 and sit at roughly 900 to 950 m above sea level, which makes it one of the highest golf courses in Germany. The land is hilly with water hazards, and the course is described as sporty and challenging.\n\nPar is 70. The yellow tees measure about 5,080 m and the red tees about 4,330 m. Because of the altitude the season only runs from April to November. The course belongs to a hotel, but outside guests are welcome if they register beforehand. A valid handicap is required, so ask about the current conditions. From Niederau it is a little over an hour and a half by car via Bavaria, so combine it with a day by the lake.",
+   "de": "Der Margarethenhof liegt bei Marienstein in der Gemeinde Waakirchen, am Rand der Bayerischen Voralpen. Die 18 Löcher wurden 1984 eröffnet und liegen auf etwa 900 bis 950 m Höhe, damit gehört der Platz zu den höchstgelegenen Golfplätzen Deutschlands. Das Gelände ist hügelig und von Wasserhindernissen durchzogen; der Platz gilt als sportlich und fordernd.\n\nPar ist 70. Die gelben Abschläge messen rund 5.080 m, die roten etwa 4.330 m. Wegen der Höhe läuft die Saison nur von April bis November. Die Anlage gehört zu einem Hotel, doch auch externe Gäste sind willkommen, wenn sie sich vorher anmelden. Ein gültiges Handicap wird verlangt; fragen Sie nach den aktuellen Bedingungen. Von Niederau sind es über Bayern gut anderthalb Stunden Fahrt, verbinden Sie den Besuch also mit einem Tag am See."
+  },
+  "tips": {
+   "nl": [
+    "Meld je vooraf aan; gasten zijn welkom, maar niet zonder reservering.",
+    "Neem een extra laag mee: op deze hoogte kan het frisser zijn dan aan het meer.",
+    "Het seizoen loopt van april tot november; controleer de openstelling in het voor- of najaar."
+   ],
+   "en": [
+    "Register beforehand; visitors are welcome, but not without a booking.",
+    "Pack an extra layer: it can be cooler at this altitude than down at the lake.",
+    "The season runs April to November; check opening in spring and autumn."
+   ],
+   "de": [
+    "Vorher anmelden; Gäste sind willkommen, aber nicht ohne Reservierung.",
+    "Eine zusätzliche Schicht einpacken: Auf dieser Höhe ist es kühler als am See.",
+    "Saison von April bis November; im Frühjahr und Herbst Öffnung prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "Hemelsbreed ca. 46 km van Niederau; ca. 1,5 uur met de auto. ",
+   "en": "About 46 km as the crow flies from Niederau; approx. 1.5 hours by car. ",
+   "de": "Luftlinie ca. 46 km von Niederau; ca. 1,5 Std. Fahrt. "
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fees vary; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 46 km hemelsbreed, ca. 1,5 uur rijden",
+    "en": "Approx. 46 km straight line, approx. 1.5 hours drive",
+    "de": "Ca. 46 km Luftlinie, ca. 1,5 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Marienstein, Waakirchen, Beieren",
+   "en": "Marienstein, Waakirchen, Bavaria",
+   "de": "Marienstein, Waakirchen, Bayern"
+  },
+  "url": "https://www.1golf.eu/club/margarethenhof-golfclub-am-tegernsee/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog ligt de baan?",
+     "en": "How high is the course?",
+     "de": "Wie hoch liegt der Platz?"
+    },
+    "a": {
+     "nl": "Rond 900 tot 950 m; bronnen noemen niet allemaal dezelfde hoogte.",
+     "en": "Around 900 to 950 m; sources do not all give the same figure.",
+     "de": "Rund 900 bis 950 m; die Quellen nennen nicht überall denselben Wert."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat zijn par en lengte?",
+     "en": "What are par and length?",
+     "de": "Wie lauten Par und Länge?"
+    },
+    "a": {
+     "nl": "Par 70; geel ca. 5.080 m, rood ca. 4.330 m.",
+     "en": "Par 70; yellow about 5,080 m, red about 4,330 m.",
+     "de": "Par 70; Gelb ca. 5.080 m, Rot ca. 4.330 m."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g74",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-course-waakirchen-tegernsee",
+  "slug_de": "golfplatz-waakirchen-tegernsee",
+  "title": {
+   "nl": "Golfplatz Waakirchen Tegernsee (Piesenkam)",
+   "en": "Waakirchen Tegernsee Golf Course (Piesenkam)",
+   "de": "Golfplatz Waakirchen-Tegernsee (Piesenkam)"
+  },
+  "tagline": {
+   "nl": "Jonge, vlakke 18 holes bij Piesenkam",
+   "en": "Young, flat 18 holes at Piesenkam",
+   "de": "Junge, flache 18 Löcher bei Piesenkam"
+  },
+  "intro": {
+   "nl": "Bij Piesenkam, een dorpsdeel van Waakirchen, ligt een van de jongere golfbanen in de omgeving van het Tegernsee. De 18 holes werden in 2016 geopend. Anders dan veel banen in de Voralpen is het terrein vrijwel vlak, wat de ronde ook voor minder geoefende spelers goed te lopen maakt.\n\nHet is een par-72-baan: vanaf de gele afslagplaatsen ruim 5.900 m, vanaf de rode ongeveer 5.200 m. Er is een driving range, plus putting-, pitching- en chippinggreen en een oefenbunker. De baan wordt als openbaar aangemerkt, maar reserveren is nodig. Bronnen spreken elkaar tegen over de vraag of een toegangsbewijs of een handicap vereist is; vraag dat dus na voordat je komt. Ook elektrische karretjes voor twee personen zijn te huur. Vanuit Niederau is dit met circa anderhalf uur rijden een van de wat verdere uitstapjes.",
+   "en": "At Piesenkam, a district of Waakirchen, you will find one of the younger courses around Lake Tegernsee. Its 18 holes opened in 2016. Unlike many courses in the Pre-Alps, the terrain is almost flat, which makes the round easy to walk even for less seasoned players.\n\nIt is a par 72: a little under 6,000 m from the yellow tees and about 5,200 m from the red ones. There is a driving range as well as putting, pitching and chipping greens and a practice bunker. The course is listed as public, but booking is required. Sources disagree on whether a proficiency certificate or a handicap is needed, so check before you travel. Two-seater electric carts can be hired. From Niederau it is about an hour and a half by car, so this is one of the more distant outings.",
+   "de": "Bei Piesenkam, einem Ortsteil von Waakirchen, liegt einer der jüngeren Plätze rund um den Tegernsee. Die 18 Löcher wurden 2016 eröffnet. Anders als viele Plätze in den Voralpen ist das Gelände nahezu flach, wodurch sich die Runde auch für weniger geübte Spieler gut laufen lässt.\n\nEs ist ein Par-72-Platz: von den gelben Abschlägen knapp 6.000 m, von den roten rund 5.200 m. Es gibt eine Driving Range sowie Putting-, Pitching- und Chipping-Grün und einen Übungsbunker. Der Platz wird als öffentlich geführt, eine Anmeldung ist aber nötig. Die Quellen widersprechen sich, ob Platzreife oder Handicap verlangt werden; fragen Sie das vor der Anreise nach. Zweisitzige Elektro-Carts lassen sich mieten. Von Niederau sind es rund anderthalb Stunden Fahrt, es ist also einer der weiter entfernten Ausflüge."
+  },
+  "tips": {
+   "nl": [
+    "Reserveer vooraf; zonder aanmelding kom je niet op de baan.",
+    "Vraag naar de toegangsvoorwaarden (handicap- of toegangsbewijs) voor je vertrekt.",
+    "De vlakke baan is geschikt voor wie geen steile hellingen wil lopen."
+   ],
+   "en": [
+    "Reserve ahead; you cannot play without registering.",
+    "Ask about entry conditions (handicap or proficiency certificate) before setting off.",
+    "The flat layout suits anyone who would rather avoid steep slopes."
+   ],
+   "de": [
+    "Vorher reservieren; ohne Anmeldung ist kein Spiel möglich.",
+    "Vor der Abfahrt die Zugangsbedingungen (Handicap oder Platzreife) erfragen.",
+    "Der flache Platz eignet sich für alle, die steile Hänge meiden möchten."
+   ]
+  },
+  "practical": {
+   "nl": "Hemelsbreed ca. 51 km van Niederau; ca. 1,5 uur met de auto. ",
+   "en": "About 51 km as the crow flies from Niederau; approx. 1.5 hours by car. ",
+   "de": "Luftlinie ca. 51 km von Niederau; ca. 1,5 Std. Fahrt. "
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fees vary; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 51 km hemelsbreed, ca. 1,5 uur rijden",
+    "en": "Approx. 51 km straight line, approx. 1.5 hours drive",
+    "de": "Ca. 51 km Luftlinie, ca. 1,5 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Piesenkam, Waakirchen, Beieren",
+   "en": "Piesenkam, Waakirchen, Bavaria",
+   "de": "Piesenkam, Waakirchen, Bayern"
+  },
+  "url": "https://www.1golf.eu/club/golfplatz-waakirchen-tegernsee-besitz-gesellschaft-ggmbh/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wanneer opende de baan?",
+     "en": "When did the course open?",
+     "de": "Wann wurde der Platz eröffnet?"
+    },
+    "a": {
+     "nl": "In 2016.",
+     "en": "In 2016.",
+     "de": "2016."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is de baan heuvelachtig?",
+     "en": "Is the course hilly?",
+     "de": "Ist der Platz hügelig?"
+    },
+    "a": {
+     "nl": "Nee, het terrein is vrijwel vlak.",
+     "en": "No, the terrain is almost flat.",
+     "de": "Nein, das Gelände ist nahezu flach."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g75",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-course-toelz-wackersberg",
+  "slug_de": "golfplatz-toelz-wackersberg",
+  "title": {
+   "nl": "Tölzer Golfclub Wackersberg",
+   "en": "Tölzer Golfclub Wackersberg",
+   "de": "Tölzer Golfclub Wackersberg"
+  },
+  "tagline": {
+   "nl": "Negen holes, achttien mogelijkheden bij Bad Tölz",
+   "en": "Nine holes, eighteen options near Bad Tölz",
+   "de": "Neun Löcher, achtzehn Varianten bei Bad Tölz"
+  },
+  "intro": {
+   "nl": "Het Tölzer Golfclub speelt op Straß in Wackersberg, vlak bij Bad Tölz. De baan bestaat uit negen holes, maar met extra afslagplaatsen kun je er ook achttien spelen. Dat kan op drie manieren: de wat veeleisender eerste negen (holes 1 tot en met 9), de rustiger tweede negen (holes 10 tot en met 18), of de volledige ronde.\n\nHet terrein is heuvelachtig, deels omzoomd door oude bomen, en kent waterpartijen. De ronde van achttien holes is par 71 vanaf de gele afslag en meet daar ruim 5.290 m. Het is geen baan voor een kampioenschap, maar wel een rustige, overzichtelijke keuze als je een korte dag wilt. De sfeer is die van een kleine club. Gasten betalen een greenfee; controleer vooraf of er een clubpas of handicapbewijs vereist is en hoe het onderhoud van de greens ervoor staat, want recente recensies melden wisselende kwaliteit. Vanuit Niederau is het circa 1 uur 45 rijden.",
+   "en": "The Tölzer Golfclub plays at Straß in Wackersberg, close to Bad Tölz. The course has nine holes, but extra tees allow eighteen to be played. There are three ways to do it: the somewhat more demanding first nine (holes 1 to 9), the gentler second nine (holes 10 to 18), or the full round.\n\nThe terrain is hilly, partly lined with old trees, and includes water hazards. The eighteen-hole round is par 71 from the yellow tee, at a little over 5,290 m. This is not a championship layout, but a calm, easy-to-read option for a shorter day. The atmosphere is that of a small club. Visitors pay a green fee; check beforehand whether a club card or handicap certificate is required and what condition the greens are in, as recent reviews report variable quality. From Niederau it is about 1 hour 45 minutes by car.",
+   "de": "Der Tölzer Golfclub spielt auf Straß in Wackersberg, nahe Bad Tölz. Die Anlage hat neun Löcher, doch mit zusätzlichen Abschlägen lassen sich achtzehn spielen. Das geht auf drei Arten: die etwas anspruchsvollere erste Neun (Bahnen 1 bis 9), die gemütlichere zweite Neun (Bahnen 10 bis 18) oder die volle Runde.\n\nDas Gelände ist hügelig, teils von altem Baumbestand gesäumt und von Wasserhindernissen durchzogen. Die 18-Loch-Runde ist von den gelben Abschlägen Par 71 und misst gut 5.290 m. Es ist kein Meisterschaftsplatz, aber eine ruhige, übersichtliche Wahl für einen kürzeren Tag. Die Atmosphäre ist die eines kleinen Clubs. Gäste zahlen Greenfee; erkundigen Sie sich vorab, ob ein Clubausweis oder eine Platzreife verlangt wird und in welchem Zustand die Grüns sind, denn aktuelle Bewertungen berichten von schwankender Qualität. Von Niederau sind es etwa 1 Stunde 45 Minuten Fahrt."
+  },
+  "tips": {
+   "nl": [
+    "Kies zelf: negen holes voor een korte ronde, of achttien met de andere afslagplaatsen.",
+    "Informeer naar de toestand van de greens voor je boekt.",
+    "Combineer met een bezoek aan Bad Tölz, vlak in de buurt."
+   ],
+   "en": [
+    "Choose for yourself: nine holes for a short round, or eighteen using the other tees.",
+    "Ask about the condition of the greens before booking.",
+    "Combine it with a visit to nearby Bad Tölz."
+   ],
+   "de": [
+    "Selbst wählen: neun Löcher für eine kurze Runde oder achtzehn mit den anderen Abschlägen.",
+    "Vor der Buchung nach dem Zustand der Grüns fragen.",
+    "Mit einem Besuch im nahen Bad Tölz verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Hemelsbreed ca. 54 km van Niederau; ca. 1 uur 45 met de auto. ",
+   "en": "About 54 km as the crow flies from Niederau; approx. 1 hour 45 minutes by car. ",
+   "de": "Luftlinie ca. 54 km von Niederau; ca. 1 Std. 45 Min. Fahrt. "
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fees vary; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 54 km hemelsbreed, ca. 1 uur 45 rijden",
+    "en": "Approx. 54 km straight line, approx. 1 hour 45 minutes drive",
+    "de": "Ca. 54 km Luftlinie, ca. 1 Std. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Straß, Wackersberg, bij Bad Tölz",
+   "en": "Straß, Wackersberg, near Bad Tölz",
+   "de": "Straß, Wackersberg, bei Bad Tölz"
+  },
+  "url": "https://www.1golf.eu/club/toelzer-golfclub-ev/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is dit een 9- of 18-holesbaan?",
+     "en": "Is this a 9- or 18-hole course?",
+     "de": "Ist das ein 9- oder 18-Loch-Platz?"
+    },
+    "a": {
+     "nl": "Negen holes, met extra afslagplaatsen waardoor ook achttien holes mogelijk zijn.",
+     "en": "Nine holes, with extra tees that make eighteen possible.",
+     "de": "Neun Löcher, mit zusätzlichen Abschlägen sind auch achtzehn möglich."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is het par?",
+     "en": "What is par?",
+     "de": "Wie lautet das Par?"
+    },
+    "a": {
+     "nl": "Par 71 over achttien holes vanaf de gele afslag (ca. 5.290 m).",
+     "en": "Par 71 over eighteen holes from the yellow tee (about 5,290 m).",
+     "de": "Par 71 über achtzehn Löcher von Gelb (ca. 5.290 m)."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g76",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-isarwinkel-bad-toelz",
+  "slug_de": "golfclub-isarwinkel-bad-toelz",
+  "title": {
+   "nl": "Golfclub Isarwinkel Bad Tölz",
+   "en": "Golfclub Isarwinkel Bad Tölz",
+   "de": "Golfclub Isarwinkel Bad Tölz"
+  },
+  "tagline": {
+   "nl": "Negen holes plus een openbare par-3-baan met zes holes",
+   "en": "Nine holes plus a public six-hole par-3 course",
+   "de": "Neun Löcher plus öffentlicher Par-3-Platz mit sechs Löchern"
+  },
+  "intro": {
+   "nl": "Golfclub Isarwinkel ligt bij Bad Tölz en heeft twee banen. De hoofdbaan telt negen holes en dateert uit 2003; hij is ontworpen door Wolfgang Barth. Het is een par-70-ronde (als je de negen holes twee keer speelt), vanaf de gele afslag ongeveer 2.760 m per negen holes, over licht heuvelachtig terrein met waterpartijen.\n\nVoor beginners is de tweede baan interessanter: de Flint-baan, geopend in 2004, heeft zes par-3-holes en is openbaar. Volgens de aanbieders hoef je hier geen toegangsbewijs of lidmaatschap te hebben, zodat je gewoon kunt beginnen. Dat maakt hem geschikt voor kinderen en gezinnen die voor het eerst met golf kennismaken. Er is een driving range met 20 matten, waarvan zes overdekt. Het seizoen loopt van half maart tot in november. Vanuit Niederau is het ongeveer 1 uur 45 rijden; plan het bij voorkeur met een bezoek aan Bad Tölz.",
+   "en": "Golfclub Isarwinkel lies near Bad Tölz and has two courses. The main course has nine holes and dates from 2003, designed by Wolfgang Barth. Played twice round it is par 70, with the yellow tee measuring about 2,760 m per nine, over gently hilly terrain with water hazards.\n\nFor beginners the second course is more interesting: the Flint course, opened in 2004, has six par-3 holes and is open to the public. According to the providers you need neither a proficiency certificate nor a membership, so you can simply start. That suits children and families trying golf for the first time. There is a driving range with 20 mats, six of them covered. The season runs from mid-March into November. From Niederau it is about 1 hour 45 minutes by car; it combines well with a visit to Bad Tölz.",
+   "de": "Der Golfclub Isarwinkel liegt bei Bad Tölz und hat zwei Plätze. Der Hauptplatz hat neun Löcher und stammt aus dem Jahr 2003; er wurde von Wolfgang Barth entworfen. Zweimal gespielt ergibt er Par 70, von den gelben Abschlägen rund 2.760 m pro Neun, auf leicht hügeligem Gelände mit Wasserhindernissen.\n\nFür Anfänger ist der zweite Platz interessanter: Der Flint-Kurs, 2004 eröffnet, hat sechs Par-3-Bahnen und ist öffentlich. Den Anbietern zufolge braucht man hier weder Platzreife noch Mitgliedschaft und kann einfach loslegen. Das eignet sich für Kinder und Familien, die zum ersten Mal Golf ausprobieren. Es gibt eine Driving Range mit 20 Matten, sechs davon überdacht. Die Saison dauert von Mitte März bis in den November. Von Niederau sind es etwa 1 Stunde 45 Minuten Fahrt; der Besuch lässt sich gut mit Bad Tölz verbinden."
+  },
+  "tips": {
+   "nl": [
+    "De Flint-baan is de laagdrempelige keuze om golf te proberen.",
+    "Op de driving range kun je ook zonder baan oefenen.",
+    "Het seizoen begint pas half maart; controleer de openstelling."
+   ],
+   "en": [
+    "The Flint course is the low-threshold way to try golf.",
+    "The driving range is open for practice even if you do not play a round.",
+    "The season only starts in mid-March; check opening dates."
+   ],
+   "de": [
+    "Der Flint-Kurs ist der niedrigschwellige Einstieg ins Golfen.",
+    "Auf der Driving Range kann man auch ohne Runde üben.",
+    "Die Saison beginnt erst Mitte März; Öffnung prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "Hemelsbreed ca. 52 km van Niederau; ca. 1 uur 45 met de auto. ",
+   "en": "About 52 km as the crow flies from Niederau; approx. 1 hour 45 minutes by car. ",
+   "de": "Luftlinie ca. 52 km von Niederau; ca. 1 Std. 45 Min. Fahrt. "
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fees vary; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 52 km hemelsbreed, ca. 1 uur 45 rijden",
+    "en": "Approx. 52 km straight line, approx. 1 hour 45 minutes drive",
+    "de": "Ca. 52 km Luftlinie, ca. 1 Std. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Bad Tölz, Beieren",
+   "en": "Bad Tölz, Bavaria",
+   "de": "Bad Tölz, Bayern"
+  },
+  "url": "https://www.1golf.eu/club/golfclub-isarwinkel-ev/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Heb ik een toegangsbewijs nodig voor de Flint-baan?",
+     "en": "Do I need a proficiency certificate for the Flint course?",
+     "de": "Brauche ich für den Flint-Kurs eine Platzreife?"
+    },
+    "a": {
+     "nl": "Volgens de aanbieders niet; controleer dat bij reservering.",
+     "en": "Not according to the providers; confirm when booking.",
+     "de": "Laut Anbietern nicht; bitte bei der Buchung bestätigen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoeveel holes heeft de hoofdbaan?",
+     "en": "How many holes does the main course have?",
+     "de": "Wie viele Löcher hat der Hauptplatz?"
+    },
+    "a": {
+     "nl": "Negen; het is een par-70-ronde als je de negen holes twee keer speelt.",
+     "en": "Nine; it is par 70 when the nine are played twice.",
+     "de": "Neun; zweimal gespielt ergibt das Par 70."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g77",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-beuerberg",
+  "slug_de": "golfclub-beuerberg",
+  "title": {
+   "nl": "Golfclub Beuerberg",
+   "en": "Golfclub Beuerberg",
+   "de": "Golfclub Beuerberg"
+  },
+  "tagline": {
+   "nl": "Lange 18 holes van Donald Harradine bij Eurasburg",
+   "en": "Long 18 holes by Donald Harradine near Eurasburg",
+   "de": "Langer 18-Loch-Platz von Donald Harradine bei Eurasburg"
+  },
+  "intro": {
+   "nl": "Golfclub Beuerberg ligt bij Gut Sterz in Beuerberg, gemeente Eurasburg, ten zuiden van de Starnberger See. De baan werd begin jaren tachtig aangelegd (bronnen noemen 1982 of 1983) op initiatief van de Zwitserse ondernemer Urs Zondler, naar een ontwerp van de golfbaanarchitect Donald Harradine. De 18 holes beslaan zo'n 119 hectare.\n\nHet is een lange baan: par 74, vanaf de gele afslagplaatsen 6.262 m. Wie korter wil spelen, heeft keuze uit blauw (5.820 m), rood (5.569 m) en oranje (5.206 m). Door de lengte en het hoge par is dit eerder een baan voor geoefende spelers dan voor een snelle ochtendronde. Gasten kunnen meestal spelen, maar vraag vooraf naar de voorwaarden. Vanuit Niederau is dit met ongeveer twee uur rijden de verst gelegen baan in dit overzicht, dus alleen de moeite als je er een volle dag voor uittrekt.",
+   "en": "Golfclub Beuerberg lies at Gut Sterz in Beuerberg, in the municipality of Eurasburg, south of Lake Starnberg. The course was laid out in the early 1980s (sources give 1982 or 1983) on the initiative of the Swiss entrepreneur Urs Zondler, to a design by the golf architect Donald Harradine. The 18 holes cover about 119 hectares.\n\nIt is a long course: par 74, 6,262 m from the yellow tees. Anyone wanting a shorter round can choose blue (5,820 m), red (5,569 m) or orange (5,206 m). Given the length and the high par, this is a course for experienced players rather than a quick morning round. Visitors can usually play, but ask about the conditions in advance. From Niederau it is roughly two hours by car, the most distant course in this overview, so it is only worth it if you set aside a full day.",
+   "de": "Der Golfclub Beuerberg liegt am Gut Sterz in Beuerberg, Gemeinde Eurasburg, südlich des Starnberger Sees. Der Platz entstand Anfang der 1980er-Jahre (die Quellen nennen 1982 oder 1983) auf Initiative des Schweizer Unternehmers Urs Zondler nach einem Entwurf des Golfarchitekten Donald Harradine. Die 18 Löcher erstrecken sich über etwa 119 Hektar.\n\nEs ist ein langer Platz: Par 74, von den gelben Abschlägen 6.262 m. Wer kürzer spielen möchte, kann Blau (5.820 m), Rot (5.569 m) oder Orange (5.206 m) wählen. Wegen der Länge und des hohen Pars ist er eher etwas für geübte Spieler als für eine schnelle Morgenrunde. Gäste können in der Regel spielen, erfragen Sie die Bedingungen aber vorab. Von Niederau sind es rund zwei Stunden Fahrt, damit ist es der am weitesten entfernte Platz dieser Übersicht und nur mit einem vollen Tag sinnvoll."
+  },
+  "tips": {
+   "nl": [
+    "Kies een kortere afslag als je geen 6.262 m wilt lopen.",
+    "Informeer vooraf naar de toegang voor gasten.",
+    "Plan een volledige dag voor de rit heen en terug."
+   ],
+   "en": [
+    "Pick a shorter tee if you do not want to play 6,262 m.",
+    "Ask in advance about guest access.",
+    "Allow a full day for the drive there and back."
+   ],
+   "de": [
+    "Einen kürzeren Abschlag wählen, wenn man keine 6.262 m spielen will.",
+    "Vorab nach dem Gästezugang fragen.",
+    "Für Hin- und Rückfahrt einen ganzen Tag einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Hemelsbreed ca. 65 km van Niederau; ca. 2 uur met de auto. ",
+   "en": "About 65 km as the crow flies from Niederau; approx. 2 hours by car. ",
+   "de": "Luftlinie ca. 65 km von Niederau; ca. 2 Std. Fahrt. "
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fees vary; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 65 km hemelsbreed, ca. 2 uur rijden",
+    "en": "Approx. 65 km straight line, approx. 2 hours drive",
+    "de": "Ca. 65 km Luftlinie, ca. 2 Std. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Beuerberg, Eurasburg, Beieren",
+   "en": "Beuerberg, Eurasburg, Bavaria",
+   "de": "Beuerberg, Eurasburg, Bayern"
+  },
+  "url": "https://www.1golf.eu/club/golfclub-beuerberg-ev/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wie heeft de baan ontworpen?",
+     "en": "Who designed the course?",
+     "de": "Wer hat den Platz entworfen?"
+    },
+    "a": {
+     "nl": "Donald Harradine, in opdracht van Urs Zondler.",
+     "en": "Donald Harradine, for Urs Zondler.",
+     "de": "Donald Harradine, im Auftrag von Urs Zondler."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang is de baan?",
+     "en": "How long is the course?",
+     "de": "Wie lang ist der Platz?"
+    },
+    "a": {
+     "nl": "Par 74; 6.262 m vanaf de gele afslag.",
+     "en": "Par 74; 6,262 m from the yellow tee.",
+     "de": "Par 74; 6.262 m von Gelb."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g78",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-valley-munich",
+  "slug_de": "golf-valley-muenchen",
+  "title": {
+   "nl": "Golf Valley München",
+   "en": "Golf Valley Munich",
+   "de": "Golf Valley München"
+  },
+  "tagline": {
+   "nl": "27 holes van David Krause, drie lussen van negen",
+   "en": "27 holes by David Krause, three loops of nine",
+   "de": "27 Löcher von David Krause, drei Neunerschleifen"
+  },
+  "intro": {
+   "nl": "Golf Valley ligt bij Holzkirchen, in het heuvelland tussen München en het Tegernsee. De Canadese architect David Krause ontwierp de 27 holes, die in 2009 opengingen. De baan bestaat uit drie lussen van negen holes, zodat je verschillende combinaties van achttien kunt spelen; de standaardronde is par 72.\n\nBehalve de hoofdbaan is er een korte academiebaan van negen holes, bedoeld om te oefenen en te leren. Daarnaast heeft de club een oefencentrum van ongeveer 21 hectare, met een indoorruimte, fitness en een fittingcentrum. Dat maakt Golf Valley het meest uitgebreide complex in dit overzicht. Over de lengte lopen de bronnen uiteen, afhankelijk van de afslagplaats; vraag de scorekaart op voor je kiest. Voor de rit vanuit Niederau, ruim een uur, moet je de A8 richting München nemen, wat in het weekend druk kan zijn.",
+   "en": "Golf Valley lies near Holzkirchen, in the rolling country between Munich and Lake Tegernsee. The Canadian architect David Krause designed the 27 holes, which opened in 2009. The course consists of three loops of nine, so several combinations of eighteen are possible; the standard round is par 72.\n\nBesides the main course there is a short nine-hole academy course for practice and learning. The club also has a practice centre of about 21 hectares with an indoor area, fitness and a fitting centre. That makes Golf Valley the most extensive complex in this overview. Sources differ on the length, depending on the tee, so ask for the scorecard before choosing. The drive from Niederau takes a little over an hour via the A8 towards Munich, which can be busy at weekends.",
+   "de": "Golf Valley liegt bei Holzkirchen, im Hügelland zwischen München und dem Tegernsee. Der kanadische Architekt David Krause entwarf die 27 Löcher, die 2009 eröffnet wurden. Der Platz besteht aus drei Neunerschleifen, sodass sich mehrere 18-Loch-Kombinationen spielen lassen; die Standardrunde ist Par 72.\n\nNeben dem Hauptplatz gibt es einen kurzen 9-Loch-Akademieplatz zum Üben und Lernen. Dazu kommt ein Übungszentrum von rund 21 Hektar mit Indoor-Bereich, Fitness und Fitting-Center. Damit ist Golf Valley die umfangreichste Anlage dieser Übersicht. Bei der Länge gehen die Quellen je nach Abschlag auseinander; lassen Sie sich die Scorekarte geben, bevor Sie wählen. Die Fahrt von Niederau dauert gut eine Stunde über die A8 Richtung München, die am Wochenende voll sein kann."
+  },
+  "tips": {
+   "nl": [
+    "Vraag naar de scorekaart: lengtes verschillen sterk per afslagplaats.",
+    "Op de korte academiebaan kun je zonder druk oefenen.",
+    "Vermijd de A8 op vrijdagmiddag en zondagavond."
+   ],
+   "en": [
+    "Ask for the scorecard: lengths vary a lot by tee.",
+    "The short academy course lets you practise without pressure.",
+    "Avoid the A8 on Friday afternoon and Sunday evening."
+   ],
+   "de": [
+    "Scorekarte erfragen: Die Längen unterscheiden sich je nach Abschlag stark.",
+    "Auf dem kurzen Akademieplatz kann man ohne Druck üben.",
+    "Die A8 am Freitagnachmittag und Sonntagabend meiden."
+   ]
+  },
+  "practical": {
+   "nl": "Hemelsbreed ca. 51 km van Niederau; ca. 1 uur 15 met de auto. ",
+   "en": "About 51 km as the crow flies from Niederau; approx. 1 hour 15 minutes by car. ",
+   "de": "Luftlinie ca. 51 km von Niederau; ca. 1 Std. 15 Min. Fahrt. "
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fees vary; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 51 km hemelsbreed, ca. 1 uur 15 rijden",
+    "en": "Approx. 51 km straight line, approx. 1 hour 15 minutes drive",
+    "de": "Ca. 51 km Luftlinie, ca. 1 Std. 15 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Valley, bij Holzkirchen, Beieren",
+   "en": "Valley, near Holzkirchen, Bavaria",
+   "de": "Valley, bei Holzkirchen, Bayern"
+  },
+  "url": "https://www.golfvalley.de",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoeveel holes heeft Golf Valley?",
+     "en": "How many holes does Golf Valley have?",
+     "de": "Wie viele Löcher hat Golf Valley?"
+    },
+    "a": {
+     "nl": "27 holes in drie lussen van negen, plus een korte negenholes academiebaan.",
+     "en": "27 holes in three loops of nine, plus a short nine-hole academy course.",
+     "de": "27 Löcher in drei Neunerschleifen, dazu ein kurzer 9-Loch-Akademieplatz."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wie ontwierp de baan?",
+     "en": "Who designed it?",
+     "de": "Wer hat den Platz entworfen?"
+    },
+    "a": {
+     "nl": "David Krause, in 2009 geopend.",
+     "en": "David Krause; opened in 2009.",
+     "de": "David Krause; 2009 eröffnet."
+    }
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "g79",
+  "new": true,
+  "theme": "golf",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "golf-club-pfaffing-wasserburger-land",
+  "slug_de": "golfclub-pfaffing-wasserburger-land",
+  "title": {
+   "nl": "Golfclub Pfaffing Wasserburger Land",
+   "en": "Golfclub Pfaffing Wasserburger Land",
+   "de": "Golfclub Pfaffing Wasserburger Land"
+  },
+  "tagline": {
+   "nl": "18 holes par 73 en een negenholesbaan bij Wasserburg",
+   "en": "18 holes par 73 and a nine-hole course near Wasserburg",
+   "de": "18 Löcher Par 73 und ein 9-Loch-Platz bei Wasserburg"
+  },
+  "intro": {
+   "nl": "Pfaffing ligt in de buurt van Wasserburg am Inn, aan de noordkant van het gebied dat nog binnen 75 km van Niederau valt. De club beheert twee banen: een volwaardige baan van achttien holes en een kortere van negen. De grote baan is par 73 en meet vanaf de witte afslagplaatsen ruim 6.170 m; vanaf geel is het ongeveer 6.030 m, vanaf blauw 5.835 m en vanaf rood circa 5.250 m.\n\nDe slope-waarde van 135 vanaf wit wijst op een baan die iets meer vraagt dan gemiddeld. Een bron noemt 1988 als bouwjaar, maar dat is maar één vermelding; informeer bij de club als dat voor je van belang is. De negenholesbaan is een goede keuze als je minder tijd hebt of nog aan het opbouwen bent. Reken vanuit Niederau op ongeveer 1 uur 45 rijden, via Rosenheim. Het is daarmee een uitstap voor een volle dag, bijvoorbeeld samen met een bezoek aan het stadje Wasserburg.",
+   "en": "Pfaffing lies near Wasserburg am Inn, at the northern edge of the area still within 75 km of Niederau. The club runs two courses: a full eighteen-hole course and a shorter nine-hole one. The main course is par 73 and measures a little over 6,170 m from the white tees; about 6,030 m from yellow, 5,835 m from blue and roughly 5,250 m from red.\n\nThe slope rating of 135 from white points to a course that asks a little more than average. One source gives 1988 as the year of construction, but that is a single mention, so ask the club if it matters to you. The nine-hole course is a good choice if you have less time or are still building up. Allow about 1 hour 45 minutes from Niederau, via Rosenheim. That makes it a full-day outing, perhaps combined with a visit to the town of Wasserburg.",
+   "de": "Pfaffing liegt bei Wasserburg am Inn, am nördlichen Rand des Gebiets, das noch innerhalb von 75 km von Niederau liegt. Der Club betreibt zwei Plätze: eine vollwertige 18-Loch-Anlage und einen kürzeren 9-Loch-Platz. Der große Platz ist Par 73 und misst von den weißen Abschlägen gut 6.170 m; von Gelb sind es etwa 6.030 m, von Blau 5.835 m und von Rot rund 5.250 m.\n\nDer Slope von 135 von Weiß deutet auf einen Platz, der etwas mehr verlangt als der Durchschnitt. Eine Quelle nennt 1988 als Baujahr, das ist aber nur eine einzelne Angabe; fragen Sie beim Club nach, falls es Ihnen wichtig ist. Der 9-Loch-Platz ist eine gute Wahl, wenn Sie weniger Zeit haben oder noch aufbauen. Von Niederau rechnen Sie mit etwa 1 Stunde 45 Minuten Fahrt über Rosenheim. Das ist ein Tagesausflug, etwa in Kombination mit einem Besuch der Stadt Wasserburg."
+  },
+  "tips": {
+   "nl": [
+    "Kies de negenholesbaan voor een korte ronde of om te oefenen.",
+    "Combineer met Wasserburg am Inn, een stadje op een lus in de rivier.",
+    "Informeer vooraf naar de voorwaarden voor gasten."
+   ],
+   "en": [
+    "Choose the nine-hole course for a short round or practice.",
+    "Combine it with Wasserburg am Inn, a town on a loop of the river.",
+    "Ask in advance about the conditions for visitors."
+   ],
+   "de": [
+    "Den 9-Loch-Platz für eine kurze Runde oder zum Üben wählen.",
+    "Mit Wasserburg am Inn verbinden, einer Stadt auf einer Flussschleife.",
+    "Vorab die Bedingungen für Gäste erfragen."
+   ]
+  },
+  "practical": {
+   "nl": "Hemelsbreed ca. 67 km van Niederau; ca. 1 uur 45 met de auto. ",
+   "en": "About 67 km as the crow flies from Niederau; approx. 1 hour 45 minutes by car. ",
+   "de": "Luftlinie ca. 67 km von Niederau; ca. 1 Std. 45 Min. Fahrt. "
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Greenfee wisselt; informeer vooraf",
+    "en": "Green fees vary; check in advance",
+    "de": "Greenfee variiert; bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 67 km hemelsbreed, ca. 1 uur 45 rijden",
+    "en": "Approx. 67 km straight line, approx. 1 hour 45 minutes drive",
+    "de": "Ca. 67 km Luftlinie, ca. 1 Std. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Pfaffing, bij Wasserburg am Inn, Beieren",
+   "en": "Pfaffing, near Wasserburg am Inn, Bavaria",
+   "de": "Pfaffing, bei Wasserburg am Inn, Bayern"
+  },
+  "url": "https://www.1golf.eu/club/golfclub-pfaffing-wasserburger-land-ev/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is het par van de grote baan?",
+     "en": "What is par on the main course?",
+     "de": "Wie lautet das Par des großen Platzes?"
+    },
+    "a": {
+     "nl": "Par 73; ca. 6.179 m vanaf wit.",
+     "en": "Par 73; about 6,179 m from white.",
+     "de": "Par 73; ca. 6.179 m von Weiß."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er ook een kortere baan?",
+     "en": "Is there a shorter course?",
+     "de": "Gibt es auch einen kürzeren Platz?"
+    },
+    "a": {
+     "nl": "Ja, een baan van negen holes.",
+     "en": "Yes, a nine-hole course.",
+     "de": "Ja, einen 9-Loch-Platz."
+    }
+   }
+  ],
+  "verified": true
+ }
+]
