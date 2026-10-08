@@ -148,9 +148,9 @@ L = {
 
 HIST = json.load(open(ROOT / "tools" / "data" / "historic_photos.json", encoding="utf-8"))
 HIST_TXT = {"h": t("Geschiedenis in beeld", "History in pictures", "Geschichte in Bildern"),
- "n": t("Oude foto’s en ansichtkaarten uit een Facebookgroep over de Wildschönau; de rechthebbenden zijn ons niet bekend. Ben je maker of rechthebbende en wil je een bronvermelding of verwijdering? Laat het de beheerder van deze site weten.",
-        "Old photos and postcards from a Facebook group about the Wildschönau; the rights holders are not known to us. If you are the photographer or rights holder and want a credit or removal, please tell the site owner.",
-        "Alte Fotos und Ansichtskarten aus einer Facebook-Gruppe zur Wildschönau; die Rechteinhaber sind uns nicht bekannt. Wenn Sie Urheber oder Rechteinhaber sind und eine Namensnennung oder Entfernung wünschen, informieren Sie bitte den Betreiber dieser Seite.")}
+ "n": t("Oude foto’s en ansichtkaarten uit de eigen collectie van de beheerder van deze site.",
+        "Old photos and postcards from the site owner’s own collection.",
+        "Alte Fotos und Ansichtskarten aus der eigenen Sammlung des Betreibers dieser Seite.")}
 
 HOME_ANCHOR = {"geschiedenis": t("geschiedenis", "history", "geschichte"),
                "lanerkoepfl": t("lanerkoepfl", "lanerkoepfl", "lanerkoepfl"),
