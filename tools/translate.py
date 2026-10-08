@@ -769,6 +769,10 @@ T['de'] += [(a, c) for a, b, c in PHOTOPG_PAIRS]
 OBSOLETE |= {p[0] for _n, _v in list(globals().items()) if _n.startswith('PHOTO') and _n.endswith('_PAIRS') and _n != 'PHOTOPG_PAIRS' for p in _v}
 import json as _json
 OBSOLETE |= {'alt="' + _a[0] + '"' for _f, _a, _k, _h in _json.load(open(ROOT / 'tools' / 'photo_catalog.json', encoding='utf-8'))}
+GALMERGE_PAIRS = [('Een greep uit het dal door de seizoenen heen. Alle foto’s staan bij elkaar op één pagina, per seizoen gesorteerd.', 'A selection from the valley through the seasons. All photos are together on a single page, sorted by season.', 'Eine Auswahl aus dem Tal im Wechsel der Jahreszeiten. Alle Fotos sind auf einer Seite gesammelt, nach Jahreszeit sortiert.')]
+T['en'] += [(a, b) for a, b, c in GALMERGE_PAIRS]
+T['de'] += [(a, c) for a, b, c in GALMERGE_PAIRS]
+OBSOLETE |= {'Een greep uit het dal door de seizoenen heen. Tik of klik op een foto om hem groter te bekijken.', 'href="#fotos"'}
 ok = True
 for lang in ("en", "de"):
     html = src
