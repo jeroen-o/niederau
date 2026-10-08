@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Genereert de activiteiten-, thema-, plaats- en regiopagina's (NL/EN/DE) uit tools/data/*.
 Draai via tools/build.sh. Bestanden onder activiteiten/, omgeving/, regio/ en en|de/... nooit los bewerken."""
+import sys as _sys, pathlib as _pl
+_sys.path.insert(0, str(_pl.Path(__file__).parent))
+import searchbar as _sb
 import datetime, glob, html, json, pathlib, shutil
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -360,11 +363,12 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
 <link rel="manifest" href="/site.webmanifest">
 <link rel="stylesheet" href="/assets/style.css">
 <script>
-  (function () {{ var m = new Date().getMonth(); document.documentElement.setAttribute('data-season', (m >= 9 || m <= 2) ? 'winter' : 'summer'); }})();
+  (function () {{ var m = new Date().getMonth(); document.documentElement.classList.add('js'); document.documentElement.setAttribute('data-season', (m >= 9 || m <= 2) ? 'winter' : 'summer'); }})();
 </script>
 </head>
 <body>
 <a class="skip" href="#main">{ui("skip", lang)}</a>
+{_sb.bar(lang)}{_sb.NOSCRIPT}
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="{home(lang)}">
@@ -410,6 +414,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
   </div>
 </footer>
 <script src="/assets/main.js" defer></script>
+<script src="/assets/search.js" defer></script>
 </body>
 </html>
 '''

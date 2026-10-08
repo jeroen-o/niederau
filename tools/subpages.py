@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Genereert de losse pagina 'Markbachjoch' in NL, EN en DE (inclusief SEO/GEO-blok).
 Bron van de tekst staat hier (per taal naast elkaar); draai via tools/build.sh."""
+import sys as _sys
+_sys.path.insert(0, str(__import__("pathlib").Path(__file__).parent))
+import searchbar as _sb
 import datetime, html, json, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -252,12 +255,13 @@ def render(lang):
 <script>
   (function () {{
     var m = new Date().getMonth(), season = (m >= 9 || m <= 2) ? 'winter' : 'summer';
-    document.documentElement.setAttribute('data-season', season);
+    document.documentElement.classList.add('js'); document.documentElement.setAttribute('data-season', season);
   }})();
 </script>
 </head>
 <body>
 <a class="skip" href="#main">{g("skip")}</a>
+{_sb.bar(lang)}{_sb.NOSCRIPT}
 
 <header class="site-header">
   <div class="wrap">
@@ -407,6 +411,7 @@ def render(lang):
   </div>
 </footer>
 <script src="{pre}assets/main.js" defer></script>
+<script src="{pre}assets/search.js" defer></script>
 </body>
 </html>
 '''

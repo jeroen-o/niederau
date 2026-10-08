@@ -53,7 +53,7 @@
    "isPartOf": {
     "@id": "https://niederau.nl/#website"
    },
-   "dateModified": "2026-10-06",
+   "dateModified": "2026-10-08",
    "breadcrumb": {
     "@id": "https://niederau.nl/en/activities/day-trips/berchtesgaden-day-trip/#bc"
    }
@@ -126,11 +126,12 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="stylesheet" href="/assets/style.css">
 <script>
-  (function () { var m = new Date().getMonth(); document.documentElement.setAttribute('data-season', (m >= 9 || m <= 2) ? 'winter' : 'summer'); })();
+  (function () { var m = new Date().getMonth(); document.documentElement.classList.add('js'); document.documentElement.setAttribute('data-season', (m >= 9 || m <= 2) ? 'winter' : 'summer'); })();
 </script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
+<div class="searchbar" role="search"><div class="wrap"><label class="sr-only" for="q">Search the whole site</label><svg class="q-ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m15.5 15.5 5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><input id="q" type="text" enterkeyhint="search" placeholder="Search the whole site…" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="q-res" aria-autocomplete="list"><ul id="q-res" class="q-res" role="listbox" aria-label="Search results" hidden></ul><div id="q-st" class="sr-only" role="status" aria-live="polite"></div></div></div>
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="/en/">
@@ -183,10 +184,11 @@
       </ul>
     </div>
     <p class="credits">Photos: Wildschönau Tourismus, Ski Juwel Alpbachtal Wildschönau, Hotel Wastlhof and own photos.</p>
-    <p class="updated">Last updated: <time datetime="2026-10-06">6 October 2026</time></p>
+    <p class="updated">Last updated: <time datetime="2026-10-08">8 October 2026</time></p>
     <p class="copyright">© <span data-year>2026</span> Niederau.nl · Independent site, not affiliated with official bodies.</p>
   </div>
 </footer>
 <script src="/assets/main.js" defer></script>
+<script src="/assets/search.js" defer></script>
 </body>
 </html>
