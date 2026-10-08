@@ -97,6 +97,14 @@
       if (a) { e.preventDefault(); window.location.href = a.getAttribute('href'); }
     } else if (e.key === 'Escape') { if (!list.hidden) { close(); } else { input.value = ''; } }
   });
+  var sbtn = document.querySelector('.search-btn');
+  if (sbtn) sbtn.addEventListener('click', function () {
+    var mb = document.querySelector('.menu-btn');
+    if (mb && mb.getAttribute('aria-expanded') === 'true') mb.click();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    input.focus({ preventScroll: true });
+    input.select();
+  });
   document.addEventListener('click', function (e) { if (!e.target.closest || !e.target.closest('.searchbar')) close(); });
   document.addEventListener('keydown', function (e) {
     if (e.key === '/' && !/^(INPUT|TEXTAREA|SELECT)$/.test((document.activeElement || {}).tagName || '')) { e.preventDefault(); input.focus(); }
