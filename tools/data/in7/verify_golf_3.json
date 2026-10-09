@@ -1,0 +1,114 @@
+[
+ {
+  "id": "g57",
+  "status": "ok",
+  "official_url": "https://www.dergolfclub.de",
+  "corrections": [],
+  "notes": "Obing-Kleinornach, 9 holes, Tony Ristola, juni 2002, links, 6.014 m par 72 (geel) bevestigd via 1golf.eu en alpen-guide.de. Officiele site volgens clubvermelding dergolfclub.de (niet zelf geopend). Item-url verwijst naar 1golf.eu, geen clubsite."
+ },
+ {
+  "id": "g58",
+  "status": "ok",
+  "official_url": "",
+  "corrections": [],
+  "notes": "Paul Krings, 1988, par 72, ca. 140 ha, kasteelpark 19e eeuw, 18 holes + 9-holes korte baan bevestigd (1golf.eu, golfingrecord, golfers-frontend). Tee-lengtes 6.370/6.090 m niet apart bevestigd. Officiele site niet gevonden in zoekresultaten; item-url is 1golf.eu."
+ },
+ {
+  "id": "g59",
+  "status": "corrected",
+  "official_url": "https://www.golf-patting.de",
+  "corrections": [
+   {
+    "field": "other",
+    "old": "Hendrick Hilgert",
+    "new": "Hendrik Hilgert",
+    "evidence": "golfcoursearchitecture.net en 1golf.eu schrijven Hendrik Hilgert (Infinite Variety)."
+   }
+  ],
+  "notes": "Reversible par 35 (enige in Duitsland), Kampenwand par 29, twee 9-holes sinds 2019, Hilgert/Pont bevestigd. Bouwperiode 2016-2019 niet apart bevestigd (bronnen: 2018/2019). golf-patting.de komt uit 1golf.eu-vermelding. Intro noemt het 'geen club', maar 1golf.eu vermeldt clubpas/handicap voor gasten: voorwaarden vooraf navragen."
+ },
+ {
+  "id": "g60",
+  "status": "ok",
+  "official_url": "https://www.citygolf.de",
+  "corrections": [],
+  "notes": "Moosbachstr. 1, Rosenheim-Happing; 1golf.eu: 9-holes par 3, 930 m, opened 1998; andere bronnen 6 holes (tegenspraak staat al in tekst). Range 35 afslagplaatsen waarvan 7 overdekt bevestigd. citygolf.de uit 1golf.eu-vermelding. Zonder lidmaatschap/platzreife en 'hele jaar open' niet onafhankelijk bevestigd (1golf.eu: range dagelijks open, baan dagelijks 10-18 u)."
+ },
+ {
+  "id": "g61",
+  "status": "corrected",
+  "official_url": "https://www.gc-mangfalltal.de",
+  "corrections": [
+   {
+    "field": "place",
+    "old": "Bruckmühl",
+    "new": "Feldkirchen-Westerham (Oed)",
+    "evidence": "1golf.eu en golfpost.de: adres Oed 1, 83620 Feldkirchen-Westerham; geen bron noemt Bruckmühl als vestigingsplaats."
+   }
+  ],
+  "notes": "Veld place is leeg in de JSON; gebruik Feldkirchen-Westerham (Ortsteil Oed), niet Bruckmühl. 18 holes par 72, geopend 1987, wit 6.179 m, geel 5.767 m, clubhuis 1833 bevestigd. Site gc-mangfalltal.de volgens golfpost.de (niet geopend)."
+ },
+ {
+  "id": "g62",
+  "status": "ok",
+  "official_url": "",
+  "corrections": [],
+  "notes": "Grafing (Oberelkofen), 18 holes, 1987 (GolfPass/GolfAdvisor 1986), Donald Harradine, par 71 geel bevestigd via 1golf.eu en golfingrecord. Officiele domeinnaam niet gevonden (alleen Facebook/Instagram gcschlosselkofen); item-url is 1golf.eu."
+ },
+ {
+  "id": "g72",
+  "status": "ok",
+  "official_url": "https://www.tegernseer-golf-club.de",
+  "corrections": [],
+  "notes": "Rohbognerhof, Bad Wiessee; 6 holes eerst, uitbreiding naar 18 in 1983, par 70, wit 5.576 m, dames ca. 4.973 m bevestigd (1golf.eu, golfpass, golfpost). 1958 als begin vermeld in een review. Driving range met 20 plaatsen niet bevestigd. Hermodellering door Thomas Himmel (2020) niet in tekst."
+ },
+ {
+  "id": "g73",
+  "status": "ok",
+  "official_url": "",
+  "corrections": [],
+  "notes": "Gut Steinberg, Marienstein/Waakirchen; 1984, par 70, geel 5.076 m, rood 4.333 m, apr-nov bevestigd (1golf.eu). Hoogte: 900/950/bijna 1000 m volgens verschillende bronnen; intro hedget goed. Oude hotelbrochure noemt margarethenhof.com, niet bevestigd als actuele clubsite."
+ },
+ {
+  "id": "g74",
+  "status": "ok",
+  "official_url": "",
+  "corrections": [],
+  "notes": "Piesenkam (Waakirchen), 2016, par 72, vlak, geel 5.988 m (golfnow geeft yards: 5.988 yd, dus tegenstrijdig; 1golf.eu m) , range/greens/bunker bevestigd. Officiele domeinnaam niet gevonden."
+ },
+ {
+  "id": "g75",
+  "status": "ok",
+  "official_url": "https://www.toelzer-golfclub.de",
+  "corrections": [],
+  "notes": "Straß, Wackersberg; 9 holes met 18 varianten (A/B), par 71 geel 5.295 m bevestigd (1golf.eu, alpen-guide, golfnow). toelzer-golfclub.de volgens een directory. Straßnummer 124A/128 wisselt."
+ },
+ {
+  "id": "g76",
+  "status": "ok",
+  "official_url": "https://www.gc-isarwinkel.de",
+  "corrections": [],
+  "notes": "Bad Tölz, 9 holes 2003 Wolfgang Barth, Flint 6 par-3 geopend 2004, openbaar zonder platzreife bevestigd (1golf.eu, GolfPass, alpen-guide). 2.760 m per negen en range met 20 matten niet apart bevestigd. gc-isarwinkel.de uit alpen-guide."
+ },
+ {
+  "id": "g77",
+  "status": "unclear",
+  "official_url": "https://www.golfclub-beuerberg.de",
+  "corrections": [],
+  "notes": "18 holes, Donald Harradine, par 74, geel 6.262 m, 1982/1983 bevestigd. Rol van Urs Zondler als initiatiefnemer niet bevestigd: Italiaanse 1golf-pagina noemt Dr. Urs Zondler slechts als eigenaar; Top100 noemt een Zwitserse jurist zonder naam. Advies: 'op initiatief van' schrappen of afzwakken. Domein conflict: golfclub-beuerberg.de vs gc-beuerberg.de."
+ },
+ {
+  "id": "g78",
+  "status": "unclear",
+  "official_url": "",
+  "corrections": [],
+  "notes": "Holzkirchen, 27 holes David Krause, par 72 (A+B) bevestigd; 9-holes Golfpark en 21 ha oefencentrum bevestigd. Openingsjaar 2009 (2 bronnen) tegenover 'Est. 2007' (1 bron): intro stelt 2009 stellig, afzwakken. golfvalley.de niet bevestigd in zoekresultaten (item-url ongecontroleerd)."
+ },
+ {
+  "id": "g79",
+  "status": "ok",
+  "official_url": "",
+  "corrections": [],
+  "notes": "Köckmühle, Pfaffing; 18 holes par 73, wit 6.179 m, geel 6.030 m, slope 135 (clubkaart; aggregatoren 130) en 9-holes kortebaan bevestigd; 1988 onbevestigd, staat al als onzeker. Officiele site niet gevonden."
+ }
+]

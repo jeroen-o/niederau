@@ -70,7 +70,7 @@
    "en": "Walchsee, Kaiserwinkl",
    "de": "Walchsee, Kaiserwinkl"
   },
-  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-walchsee",
+  "url": "https://www.moarhof.at",
   "faq": [
    {
     "q": {
@@ -97,7 +97,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g10",
@@ -170,7 +171,7 @@
    "en": "Kössen, on the border with Reit im Winkl",
    "de": "Kössen, an der Grenze zu Reit im Winkl"
   },
-  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-reit-im-winkl-koessen",
+  "url": "https://www.gcreit.de",
   "faq": [
    {
     "q": {
@@ -197,7 +198,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g11",
@@ -270,7 +272,7 @@
    "en": "Erpfendorf, Kirchdorf in Tirol",
    "de": "Erpfendorf, Kirchdorf in Tirol"
   },
-  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-laerchenhof",
+  "url": "https://www.gcclaerchenhof.com",
   "faq": [
    {
     "q": {
@@ -297,7 +299,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g12",
@@ -370,7 +373,7 @@
    "en": "Kitzbühel, Hahnenkamm",
    "de": "Kitzbühel, Hahnenkamm"
   },
-  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-rasmushof",
+  "url": "https://www.kitzbuehel-golf.com",
   "faq": [
    {
     "q": {
@@ -397,7 +400,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g13",
@@ -470,7 +474,7 @@
    "en": "Mittersill (Stuhlfelden), Pinzgau",
    "de": "Mittersill (Stuhlfelden), Pinzgau"
   },
-  "url": "https://www.salzburgerland.com/de/golfclub-mittersill-stuhlfelden",
+  "url": "https://www.golfclub-nationalpark-hohetauern.at",
   "faq": [
    {
     "q": {
@@ -497,7 +501,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g14",
@@ -520,9 +525,9 @@
    "de": "Zwei 18-Loch-Plätze in der Ebene zwischen Zell am See und Kaprun"
   },
   "intro": {
-   "nl": "In de vlakte tussen Zell am See en Kaprun beheert deze club twee 18-holesbanen: Schmittenhöhe en Kitzsteinhorn. Het is een van de grotere golfcomplexen van Oostenrijk. Beide banen liggen in een parkachtig, vlak landschap met meren en rietkragen en zijn geschikt voor verschillende niveaus.\n\nSchmittenhöhe opende in 1984 naar een ontwerp van Donald Harradine en is par 72; vanaf de witte tees meet de baan 6.262 m, vanaf de rode 5.253 m. Over de par en lengte van Kitzsteinhorn lopen de bronnen uiteen, dus vraag dat bij de club na. Het seizoen loopt van april tot november. Wie in Niederau verblijft, kan de rit combineren met een dag aan de Zeller See of een uitstapje naar Kaprun.",
-   "en": "On the plain between Zell am See and Kaprun this club runs two 18-hole courses, Schmittenhöhe and Kitzsteinhorn, making it one of the larger golf complexes in Austria. Both lie in a flat, parkland setting with lakes and reed beds and suit a range of abilities.\n\nSchmittenhöhe opened in 1984 to a design by Donald Harradine and is a par 72; it measures 6,262 m from the white tees and 5,253 m from the red. Sources disagree on par and length for Kitzsteinhorn, so ask the club. The season runs from April to November. If you stay in Niederau, you can combine the drive with a day at the Zeller See or an outing to Kaprun.",
-   "de": "In der Ebene zwischen Zell am See und Kaprun betreibt der Club zwei 18-Loch-Plätze, Schmittenhöhe und Kitzsteinhorn, und ist damit eine der größeren Golfanlagen Österreichs. Beide liegen in flacher, parkartiger Landschaft mit Seen und Schilfgürteln und eignen sich für unterschiedliche Spielstärken.\n\nSchmittenhöhe wurde 1984 nach einem Entwurf von Donald Harradine eröffnet, ist Par 72 und misst von den weißen Abschlägen 6.262 m, von den roten 5.253 m. Zu Par und Länge von Kitzsteinhorn widersprechen sich die Quellen; bitte beim Club nachfragen. Die Saison dauert von April bis November. Wer in Niederau wohnt, kann die Fahrt mit einem Tag am Zeller See oder einem Ausflug nach Kaprun verbinden."
+   "nl": "In de vlakte tussen Zell am See en Kaprun beheert deze club twee 18-holesbanen: Schmittenhöhe en Kitzsteinhorn. Het is een van de grotere golfcomplexen van Oostenrijk. Beide banen liggen in een parkachtig, vlak landschap met meren en rietkragen en zijn geschikt voor verschillende niveaus.\n\nSchmittenhöhe opende in de jaren tachtig naar een ontwerp van Donald Harradine en is par 72; vanaf de witte tees meet de baan 6.262 m, vanaf de rode 5.253 m. Over de par en lengte van Kitzsteinhorn lopen de bronnen uiteen, dus vraag dat bij de club na. Het seizoen loopt van april tot november. Wie in Niederau verblijft, kan de rit combineren met een dag aan de Zeller See of een uitstapje naar Kaprun.",
+   "en": "On the plain between Zell am See and Kaprun this club runs two 18-hole courses, Schmittenhöhe and Kitzsteinhorn, making it one of the larger golf complexes in Austria. Both lie in a flat, parkland setting with lakes and reed beds and suit a range of abilities.\n\nSchmittenhöhe opened in the 1980s to a design by Donald Harradine and is a par 72; it measures 6,262 m from the white tees and 5,253 m from the red. Sources disagree on par and length for Kitzsteinhorn, so ask the club. The season runs from April to November. If you stay in Niederau, you can combine the drive with a day at the Zeller See or an outing to Kaprun.",
+   "de": "In der Ebene zwischen Zell am See und Kaprun betreibt der Club zwei 18-Loch-Plätze, Schmittenhöhe und Kitzsteinhorn, und ist damit eine der größeren Golfanlagen Österreichs. Beide liegen in flacher, parkartiger Landschaft mit Seen und Schilfgürteln und eignen sich für unterschiedliche Spielstärken.\n\nSchmittenhöhe wurde in den 1980er-Jahren nach einem Entwurf von Donald Harradine eröffnet, ist Par 72 und misst von den weißen Abschlägen 6.262 m, von den roten 5.253 m. Zu Par und Länge von Kitzsteinhorn widersprechen sich die Quellen; bitte beim Club nachfragen. Die Saison dauert von April bis November. Wer in Niederau wohnt, kann die Fahrt mit einem Tag am Zeller See oder einem Ausflug nach Kaprun verbinden."
   },
   "tips": {
    "nl": [
@@ -570,7 +575,7 @@
    "en": "Zell am See and Kaprun, Pinzgau",
    "de": "Zell am See und Kaprun, Pinzgau"
   },
-  "url": "https://www.salzburgerland.com/de/golfclub-zell-am-see-kaprun",
+  "url": "https://www.golf-zellamsee.at",
   "faq": [
    {
     "q": {
@@ -591,13 +596,14 @@
      "de": "Wer hat Schmittenhöhe entworfen?"
     },
     "a": {
-     "nl": "Donald Harradine; de baan opende in 1984 (par 72).",
-     "en": "Donald Harradine; it opened in 1984 (par 72).",
-     "de": "Donald Harradine; eröffnet 1984 (Par 72)."
+     "nl": "Donald Harradine; de baan opende in de jaren tachtig (par 72).",
+     "en": "Donald Harradine; it opened in the 1980s (par 72).",
+     "de": "Donald Harradine; eröffnet in den 1980er-Jahren (Par 72)."
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g15",
@@ -620,9 +626,9 @@
    "de": "Championship-Platz mit bis zu sechs Überquerungen der Saalach"
   },
   "intro": {
-   "nl": "Gut Brandlhof bij Saalfelden heeft een 18-holes Championship Course van par 72 met uitzicht op het Steinernes Meer. De baan is vlak en kent veel water; de Saalach stroomt erdoorheen en moet, afhankelijk van de afslagplaats, tot zes keer worden overgespeeld. Vanaf de witte tees meet de baan 6.079 m, de gele 5.710 m, de blauwe 5.286 m en de rode 4.987 m.\n\nHet is de baan die het best bij een gemengde groep past: het verschil tussen de kortste en de langste tee is groot genoeg om ieders niveau aan te sluiten. Het terrein hoort bij een hotel met golfaanbod, wat handig is als je een paar dagen in de buurt wilt blijven. Over opening en ontwerper heb ik geen bevestigde gegevens gevonden.",
-   "en": "Gut Brandlhof near Saalfelden has an 18-hole championship course of par 72 with a view of the Steinernes Meer. The ground is flat and watery; the Saalach flows through it and, depending on the tee, has to be crossed up to six times. The course measures 6,079 m from the white tees, 5,710 m from yellow, 5,286 m from blue and 4,987 m from red.\n\nIt is a good fit for a mixed group: the gap between the shortest and longest tee is big enough to match everyone's level. The course belongs to a hotel with golf packages, which is handy if you want to stay nearby for a few days. I found no confirmed details on opening year or designer.",
-   "de": "Gut Brandlhof bei Saalfelden hat einen 18-Loch-Championship-Course mit Par 72 und Blick auf das Steinerne Meer. Das Gelände ist flach und wasserreich; die Saalach durchzieht den Platz und muss je nach Abschlag bis zu sechsmal überspielt werden. Von den weißen Abschlägen misst der Platz 6.079 m, von den gelben 5.710 m, den blauen 5.286 m und den roten 4.987 m.\n\nEr passt gut zu gemischten Gruppen: Der Unterschied zwischen kürzestem und längstem Abschlag ist groß genug, um jedes Niveau abzudecken. Die Anlage gehört zu einem Hotel mit Golfangeboten, praktisch, wenn man ein paar Tage in der Nähe bleiben möchte. Zu Eröffnungsjahr und Architekt fanden sich keine bestätigten Angaben."
+   "nl": "Gut Brandlhof bij Saalfelden heeft een 18-holes Championship Course van par 72 met uitzicht op het Steinernes Meer. De baan is vlak en kent veel water; de Saalach stroomt erdoorheen en moet, afhankelijk van de afslagplaats, tot zes keer worden overgespeeld. Vanaf de witte tees meet de baan 6.079 m, de gele 5.710 m, de blauwe 5.286 m en de rode 4.987 m. Het is de baan die het best bij een gemengde groep past: het verschil tussen de kortste en de langste tee is groot genoeg om ieders niveau aan te sluiten. Het terrein hoort bij een hotel met golfaanbod, wat handig is als je een paar dagen in de buurt wilt blijven. De club werd volgens de eigen brochures op 15 mei 1983 opgericht; over de ontwerper heb ik geen bevestigde gegevens gevonden.",
+   "en": "Gut Brandlhof near Saalfelden has an 18-hole championship course of par 72 with a view of the Steinernes Meer. The ground is flat and watery; the Saalach flows through it and, depending on the tee, has to be crossed up to six times. The course measures 6,079 m from the white tees, 5,710 m from yellow, 5,286 m from blue and 4,987 m from red. It is a good fit for a mixed group: the gap between the shortest and longest tee is big enough to match everyone's level. The course belongs to a hotel with golf packages, which is handy if you want to stay nearby for a few days. According to its own brochures the club was founded on 15 May 1983; I found no confirmed details on the designer.",
+   "de": "Gut Brandlhof bei Saalfelden hat einen 18-Loch-Championship-Course mit Par 72 und Blick auf das Steinerne Meer. Das Gelände ist flach und wasserreich; die Saalach durchzieht den Platz und muss je nach Abschlag bis zu sechsmal überspielt werden. Von den weißen Abschlägen misst der Platz 6.079 m, von den gelben 5.710 m, den blauen 5.286 m und den roten 4.987 m. Er passt gut zu gemischten Gruppen: Der Unterschied zwischen kürzestem und längstem Abschlag ist groß genug, um jedes Niveau abzudecken. Die Anlage gehört zu einem Hotel mit Golfangeboten, praktisch, wenn man ein paar Tage in der Nähe bleiben möchte. Laut eigenen Broschüren wurde der Club am 15. Mai 1983 gegründet; zum Architekten fanden sich keine bestätigten Angaben."
   },
   "tips": {
    "nl": [
@@ -670,7 +676,7 @@
    "en": "Saalfelden, Pinzgau",
    "de": "Saalfelden, Pinzgau"
   },
-  "url": "https://www.salzburgerland.com/de/golfclub-gut-brandlhof/",
+  "url": "https://www.brandlhof.com",
   "faq": [
    {
     "q": {
@@ -697,7 +703,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g16",
@@ -770,7 +777,7 @@
    "en": "Saalfelden / Maria Alm, Pinzgau",
    "de": "Saalfelden / Maria Alm, Pinzgau"
   },
-  "url": "https://www.salzburgerland.com/de/golfclub-urslautal",
+  "url": "https://www.golf-urslautal.at",
   "faq": [
    {
     "q": {
@@ -797,7 +804,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g30",
@@ -871,7 +879,7 @@
    "en": "Pertisau, Achensee",
    "de": "Pertisau, Achensee"
   },
-  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golf-landclub-achensee-2",
+  "url": "https://www.golfclub-achensee.at",
   "faq": [
    {
     "q": {
@@ -897,7 +905,8 @@
      "de": "Ja, mit reservierter Startzeit und Handicapnachweis."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g31",
@@ -971,7 +980,7 @@
    "en": "Achenkirch, Achensee",
    "de": "Achenkirch, Achensee"
   },
-  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/posthotel-alpengolf-1",
+  "url": "https://posthotel.at/en/active-holiday/golf",
   "faq": [
    {
     "q": {
@@ -997,7 +1006,8 @@
      "de": "Neun Löcher."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g32",
@@ -1021,9 +1031,9 @@
    "de": "18 Löcher an den Hängen des Glungezers, 2024 wiedereröffnet"
   },
   "intro": {
-   "nl": "Het kampioenschapsterrein van Golfclub Innsbruck-Igls ligt bij Rinn, op het plateau aan de zuidelijke hellingen van de Glungezer. Na een renovatie van twee jaar werd de 18-holesbaan in 2024 heropend. Het is een par 71; vanaf de witte tees meet de baan rond 6.050 m, en het hoogteverschil bedraagt bijna 250 m.\n\nDe fairways lopen als twee cirkels over het plateau en zijn deels heuvelachtig. Hole 12 heeft volgens een Duitstalige bron een eilandgreen. Gasten doen er goed aan vooraf te reserveren en een handicapbewijs mee te nemen. Het seizoen loopt ongeveer van april tot oktober. Reken op een rit door het Inntal richting Innsbruck: dit is een uitstap voor wie een dag aan golf wil besteden.",
-   "en": "The championship course of Innsbruck-Igls Golf Club lies near Rinn, on the plateau on the southern slopes of the Glungezer. After a two-year renovation the 18-hole course reopened in 2024. It is a par 71; from the white tees it measures around 6,050 m, with an elevation change of nearly 250 m.\n\nThe fairways run across the plateau like two concentric circles and are partly hilly. According to a German-language source, hole 12 has an island green. Guests should expect to book in advance and show proof of handicap. The season runs from about April to October. Expect a drive through the Inn valley towards Innsbruck: this is an outing for those who want to give a whole day to golf.",
-   "de": "Der Championship Course des Golfclubs Innsbruck-Igls liegt bei Rinn, auf dem Plateau an den Südhängen des Glungezers. Nach zwei Jahren Umbau wurde der 18-Loch-Platz 2024 wiedereröffnet. Er ist ein Par 71; von den weißen Abschlägen misst er rund 6.050 m, der Höhenunterschied beträgt knapp 250 m.\n\nDie Fairways ziehen sich wie zwei konzentrische Kreise über das Plateau und sind teils hügelig. Laut einer deutschsprachigen Quelle hat Bahn 12 ein Inselgrün. Gäste sollten vorab reservieren und einen Handicapnachweis mitbringen. Die Saison reicht etwa von April bis Oktober. Rechnen Sie mit einer Fahrt durch das Inntal Richtung Innsbruck: ein Ausflug für alle, die dem Golf einen ganzen Tag widmen wollen."
+   "nl": "Het kampioenschapsterrein van Golfclub Innsbruck-Igls ligt bij Rinn, op het plateau aan de zuidelijke hellingen van de Glungezer. De baan is recent gerenoveerd. Het is een par 71; de lengte hangt af van de afslagplaats en ligt tussen ruim 5.800 en 6.200 m. De fairways lopen als twee cirkels over het plateau en zijn deels heuvelachtig. Gasten doen er goed aan vooraf te reserveren en een handicapbewijs mee te nemen. Het seizoen loopt ongeveer van het voorjaar tot in de herfst. Reken op een rit door het Inntal richting Innsbruck: dit is een uitstap voor wie een dag aan golf wil besteden.",
+   "en": "The championship course of Innsbruck-Igls Golf Club lies near Rinn, on the plateau on the southern slopes of the Glungezer. The course has recently been renovated. It is a par 71; the length depends on the tee and lies between roughly 5,800 and 6,200 m. The fairways run across the plateau like two concentric circles and are partly hilly. Guests should expect to book in advance and show proof of handicap. The season runs from about April to October. Expect a drive through the Inn valley towards Innsbruck: this is an outing for those who want to give a whole day to golf.",
+   "de": "Der Championship Course des Golfclubs Innsbruck-Igls liegt bei Rinn, auf dem Plateau an den Südhängen des Glungezers. Der Platz wurde kürzlich renoviert. Er ist ein Par 71; die Länge hängt vom Abschlag ab und liegt zwischen gut 5.800 und 6.200 m. Die Fairways ziehen sich wie zwei konzentrische Kreise über das Plateau und sind teils hügelig. Gäste sollten vorab reservieren und einen Handicapnachweis mitbringen. Die Saison reicht etwa von April bis Oktober. Rechnen Sie mit einer Fahrt durch das Inntal Richtung Innsbruck: ein Ausflug für alle, die dem Golf einen ganzen Tag widmen wollen."
   },
   "tips": {
    "nl": [
@@ -1087,17 +1097,18 @@
    },
    {
     "q": {
-     "nl": "Wanneer is de baan opnieuw geopend?",
-     "en": "When did it reopen?",
-     "de": "Wann wurde der Platz wiedereröffnet?"
+     "nl": "Is de baan recent vernieuwd?",
+     "en": "Has the course been renovated recently?",
+     "de": "Wurde der Platz kürzlich erneuert?"
     },
     "a": {
-     "nl": "In 2024, na een renovatie van twee jaar.",
-     "en": "In 2024, after a two-year renovation.",
-     "de": "2024, nach zwei Jahren Umbau."
+     "nl": "Ja, de baan is recent gerenoveerd; vraag bij de club naar de actuele staat en de speelmogelijkheden.",
+     "en": "Yes, the course has been renovated recently; ask the club about its current state and playing options.",
+     "de": "Ja, der Platz wurde kürzlich renoviert; Zustand und Spielmöglichkeiten bitte beim Club erfragen."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g33",
@@ -1197,7 +1208,8 @@
      "de": "1956."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g34",
@@ -1271,7 +1283,7 @@
    "en": "Igls, Innsbruck",
    "de": "Igls, Innsbruck"
   },
-  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/olympia-golfclub-igls-1",
+  "url": "https://www.olympia-golf.at",
   "faq": [
    {
     "q": {
@@ -1297,7 +1309,8 @@
      "de": "Ein Kurzplatz mit neun Löchern (sieben Par 3, zwei Par 4)."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g35",
@@ -1397,7 +1410,8 @@
      "de": "18 Löcher, Par 70."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g36",
@@ -1471,7 +1485,7 @@
    "en": "Seefeld in Tirol (Reith)",
    "de": "Seefeld in Tirol (Reith)"
   },
-  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-seefeld-reith-1",
+  "url": "https://www.gc-seefeld-reith.at",
   "faq": [
    {
     "q": {
@@ -1497,7 +1511,8 @@
      "de": "2006."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g51",
@@ -1597,7 +1612,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g52",
@@ -1670,7 +1686,7 @@
    "en": "Ruhpolding-Zell, Bavaria",
    "de": "Ruhpolding-Zell, Bayern"
   },
-  "url": "https://ruhpolding.de/en/golfclub-ruhpolding",
+  "url": "https://www.golfclub-ruhpolding.de",
   "faq": [
    {
     "q": {
@@ -1697,7 +1713,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g53",
@@ -1770,7 +1787,7 @@
    "en": "Grassau, Chiemgau",
    "de": "Grassau, Chiemgau"
   },
-  "url": "https://www.chiemsee-chiemgau.info/en/golfplatz-golf-resort-achental",
+  "url": "https://www.golf-resort-achental.com",
   "faq": [
    {
     "q": {
@@ -1797,7 +1814,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g54",
@@ -1897,7 +1915,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g55",
@@ -1970,7 +1989,7 @@
    "en": "Chieming, Chiemsee",
    "de": "Chieming, Chiemsee"
   },
-  "url": "https://www.gut-ising.de/en/sport-leisure/golfing/golf-course",
+  "url": "https://www.gut-ising.de",
   "faq": [
    {
     "q": {
@@ -1997,7 +2016,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g56",
@@ -2020,9 +2040,9 @@
    "de": "18 Löcher plus öffentlicher Par-3-Kurzplatz"
   },
   "intro": {
-   "nl": "Golf-Club Chieming heeft een 18-holeskampioenschapsbaan die in golvend terrein ligt en is ontworpen door de Münchense architect Thomas Himmel. Vanaf de witte tees is de baan 6.250 m lang (par 72), vanaf de gele 5.933 m. De dameslengtes liggen rond 5.250 tot 5.500 m.\n\nDaarnaast is er een korte openbare par-3-baan, bruikbaar voor wie geen clubpas heeft of alleen het korte spel wil oefenen; bronnen noemen er zeven of negen holes. De club maakt deel uit van het samenwerkingsverband Golfland Chiemsee-Chiemgau, dat gastgolfers via een gezamenlijke golfkaart bedient. Vanuit Niederau is het een lange rit, dus het is vooral een optie bij een dag aan de Chiemsee.",
-   "en": "Chieming Golf Club has an 18-hole championship course in rolling terrain, designed by the Munich architect Thomas Himmel. It measures 6,250 m from the white tees (par 72) and 5,933 m from the yellow. The ladies' tees are around 5,250 to 5,500 m.\n\nThere is also a short public par-3 course, handy for those without a club card or who just want to practise their short game; sources mention seven or nine holes. The club belongs to the Golfland Chiemsee-Chiemgau partnership, which serves visiting golfers through a shared golf card. From Niederau it is a long drive, so it mainly suits a day at the Chiemsee.",
-   "de": "Der Golf-Club Chieming verfügt über einen 18-Loch-Meisterschaftsplatz in welligem Gelände, gestaltet vom Münchner Architekten Thomas Himmel. Von den weißen Abschlägen misst er 6.250 m (Par 72), von den gelben 5.933 m. Die Damenabschläge liegen bei etwa 5.250 bis 5.500 m.\n\nDazu gibt es einen öffentlichen Par-3-Kurzplatz, praktisch für alle ohne Clubausweis oder zum Üben des kurzen Spiels; die Quellen nennen sieben oder neun Löcher. Der Club gehört zur Kooperation Golfland Chiemsee-Chiemgau, die Gastspieler über eine gemeinsame Golfkarte bedient. Von Niederau ist es eine lange Fahrt, daher passt der Platz vor allem zu einem Tag am Chiemsee."
+   "nl": "Golf-Club Chieming heeft een 18-holeskampioenschapsbaan die in golvend terrein ligt en is later herontworpen door de Münchense architect Thomas Himmel. Vanaf de witte tees is de baan 6.250 m lang (par 72), vanaf de gele 5.933 m. De dameslengtes liggen rond 5.250 tot 5.500 m.\n\nDaarnaast is er een korte openbare par-3-baan, bruikbaar voor wie geen clubpas heeft of alleen het korte spel wil oefenen; bronnen noemen er zeven of negen holes. De club maakt deel uit van het samenwerkingsverband Golfland Chiemsee-Chiemgau, dat gastgolfers via een gezamenlijke golfkaart bedient. Vanuit Niederau is het een lange rit, dus het is vooral een optie bij een dag aan de Chiemsee.",
+   "en": "Chieming Golf Club has an 18-hole championship course in rolling terrain, later redesigned by the Munich architect Thomas Himmel. It measures 6,250 m from the white tees (par 72) and 5,933 m from the yellow. The ladies' tees are around 5,250 to 5,500 m.\n\nThere is also a short public par-3 course, handy for those without a club card or who just want to practise their short game; sources mention seven or nine holes. The club belongs to the Golfland Chiemsee-Chiemgau partnership, which serves visiting golfers through a shared golf card. From Niederau it is a long drive, so it mainly suits a day at the Chiemsee.",
+   "de": "Der Golf-Club Chieming verfügt über einen 18-Loch-Meisterschaftsplatz in welligem Gelände, später neu gestaltet vom Münchner Architekten Thomas Himmel. Von den weißen Abschlägen misst er 6.250 m (Par 72), von den gelben 5.933 m. Die Damenabschläge liegen bei etwa 5.250 bis 5.500 m.\n\nDazu gibt es einen öffentlichen Par-3-Kurzplatz, praktisch für alle ohne Clubausweis oder zum Üben des kurzen Spiels; die Quellen nennen sieben oder neun Löcher. Der Club gehört zur Kooperation Golfland Chiemsee-Chiemgau, die Gastspieler über eine gemeinsame Golfkarte bedient. Von Niederau ist es eine lange Fahrt, daher passt der Platz vor allem zu einem Tag am Chiemsee."
   },
   "tips": {
    "nl": [
@@ -2070,7 +2090,7 @@
    "en": "Chieming, Chiemsee",
    "de": "Chieming, Chiemsee"
   },
-  "url": "https://www.1golf.eu/club/golf-club-chieming-ev/",
+  "url": "https://www.golfchieming.de",
   "faq": [
    {
     "q": {
@@ -2097,7 +2117,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g57",
@@ -2170,7 +2191,7 @@
    "en": "Obing (Kleinornach), Bavaria",
    "de": "Obing (Kleinornach), Bayern"
   },
-  "url": "https://www.1golf.eu/club/der-golf-club-am-obinger-see/",
+  "url": "https://www.dergolfclub.de",
   "faq": [
    {
     "q": {
@@ -2197,7 +2218,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g58",
@@ -2297,7 +2319,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g59",
@@ -2320,9 +2343,9 @@
    "de": "Zwei Neun-Loch-Plätze, einer in beide Richtungen bespielbar"
   },
   "intro": {
-   "nl": "Tussen Chiemsee en Simssee, bij Riedering, ligt Golfbaan Patting-Hochriesblick. De golfbaan werd tussen 2016 en 2019 volledig herbouwd door het architectenteam Hendrick Hilgert en Frank Pont (Infinite Variety). Sinds 2019 zijn er twee negenholesbanen: de Reversible-baan (par 35), die in beide richtingen te spelen is, en de kortere Kampenwand-baan (par 29).\n\nVolgens een bron is de Reversible-baan de enige van zijn soort in Duitsland. De Kampenwand-baan is bedoeld voor een snelle ronde. De golfbaan heeft uitzicht op Kampenwand, Hochries en Wendelstein. Het is een particuliere golfbaan en geen club; de voorwaarden voor gasten kun je het best vooraf nagaan.",
-   "en": "Between the Chiemsee and the Simssee, near Riedering, lies Patting-Hochriesblick golf facility. It was rebuilt between 2016 and 2019 by the architect team of Hendrick Hilgert and Frank Pont (Infinite Variety). Since 2019 there have been two nine-hole courses: the Reversible course (par 35), playable in both directions, and the shorter Kampenwand course (par 29).\n\nAccording to one source the Reversible course is the only one of its kind in Germany. The Kampenwand course suits a quick round. The facility looks out over the Kampenwand, Hochries and Wendelstein mountains. It is a privately run golf facility rather than a club; check conditions for guests beforehand.",
-   "de": "Zwischen Chiemsee und Simssee bei Riedering liegt die Golfanlage Patting-Hochriesblick. Sie wurde von 2016 bis 2019 vom Architektenteam Hendrick Hilgert und Frank Pont (Infinite Variety) komplett neu gebaut. Seit 2019 gibt es zwei Neun-Loch-Plätze: den Reversible-Platz (Par 35), der in beide Richtungen bespielbar ist, und den kürzeren Kampenwand-Platz (Par 29).\n\nLaut einer Quelle ist der Reversible-Platz der einzige seiner Art in Deutschland. Der Kampenwand-Platz eignet sich für eine schnelle Runde. Die Anlage bietet Blick auf Kampenwand, Hochries und Wendelstein. Sie wird privat betrieben und ist kein Club; die Bedingungen für Gäste sollte man vorab klären."
+   "nl": "Tussen Chiemsee en Simssee, bij Riedering, ligt Golfbaan Patting-Hochriesblick. De golfbaan werd tussen 2016 en 2019 volledig herbouwd door het architectenteam Hendrik Hilgert en Frank Pont (Infinite Variety). Sinds 2019 zijn er twee negenholesbanen: de Reversible-baan (par 35), die in beide richtingen te spelen is, en de kortere Kampenwand-baan (par 29). Volgens een bron is de Reversible-baan de enige van zijn soort in Duitsland. De Kampenwand-baan is bedoeld voor een snelle ronde. De golfbaan heeft uitzicht op Kampenwand, Hochries en Wendelstein. Gasten hebben meestal een clubpas met handicap nodig; de voorwaarden kun je het best vooraf nagaan.",
+   "en": "Between the Chiemsee and the Simssee, near Riedering, lies Patting-Hochriesblick golf facility. It was rebuilt between 2016 and 2019 by the architect team of Hendrik Hilgert and Frank Pont (Infinite Variety). Since 2019 there have been two nine-hole courses: the Reversible course (par 35), playable in both directions, and the shorter Kampenwand course (par 29). According to one source the Reversible course is the only one of its kind in Germany. The Kampenwand course suits a quick round. The facility looks out over the Kampenwand, Hochries and Wendelstein mountains. Guests usually need a club card with a handicap; check the conditions beforehand.",
+   "de": "Zwischen Chiemsee und Simssee bei Riedering liegt die Golfanlage Patting-Hochriesblick. Sie wurde von 2016 bis 2019 vom Architektenteam Hendrik Hilgert und Frank Pont (Infinite Variety) komplett neu gebaut. Seit 2019 gibt es zwei Neun-Loch-Plätze: den Reversible-Platz (Par 35), der in beide Richtungen bespielbar ist, und den kürzeren Kampenwand-Platz (Par 29). Laut einer Quelle ist der Reversible-Platz der einzige seiner Art in Deutschland. Der Kampenwand-Platz eignet sich für eine schnelle Runde. Die Anlage bietet Blick auf Kampenwand, Hochries und Wendelstein. Gäste benötigen in der Regel einen Clubausweis mit Handicap; die Bedingungen sollte man vorab klären."
   },
   "tips": {
    "nl": [
@@ -2370,7 +2393,7 @@
    "en": "Riedering (Patting), Bavaria",
    "de": "Riedering (Patting), Bayern"
   },
-  "url": "https://chiemsee-chiemgau.info/en/golfclub-patting-hochriesblick",
+  "url": "https://www.golf-patting.de",
   "faq": [
    {
     "q": {
@@ -2397,7 +2420,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g60",
@@ -2470,7 +2494,7 @@
    "en": "Rosenheim-Happing, Bavaria",
    "de": "Rosenheim-Happing, Bayern"
   },
-  "url": "https://www.1golf.eu/club/city-golf-rosenheim-gmbh/",
+  "url": "https://www.citygolf.de",
   "faq": [
    {
     "q": {
@@ -2497,7 +2521,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g61",
@@ -2566,11 +2591,11 @@
    }
   },
   "location": {
-   "nl": "Mangfalltal (Bruckmühl), Bayern",
-   "en": "Mangfalltal (Bruckmühl), Bavaria",
-   "de": "Mangfalltal (Bruckmühl), Bayern"
+   "nl": "Feldkirchen-Westerham (Oed), Bayern",
+   "en": "Feldkirchen-Westerham (Oed), Bavaria",
+   "de": "Feldkirchen-Westerham (Oed), Bayern"
   },
-  "url": "https://www.1golf.eu/club/golfclub-mangfalltal-ev/",
+  "url": "https://www.gc-mangfalltal.de",
   "faq": [
    {
     "q": {
@@ -2597,7 +2622,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g62",
@@ -2697,7 +2723,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g72",
@@ -2797,7 +2824,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g73",
@@ -2897,7 +2925,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g74",
@@ -2997,7 +3026,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g75",
@@ -3070,7 +3100,7 @@
    "en": "Straß, Wackersberg, near Bad Tölz",
    "de": "Straß, Wackersberg, bei Bad Tölz"
   },
-  "url": "https://www.1golf.eu/club/toelzer-golfclub-ev/",
+  "url": "https://www.toelzer-golfclub.de",
   "faq": [
    {
     "q": {
@@ -3097,7 +3127,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g76",
@@ -3170,7 +3201,7 @@
    "en": "Bad Tölz, Bavaria",
    "de": "Bad Tölz, Bayern"
   },
-  "url": "https://www.1golf.eu/club/golfclub-isarwinkel-ev/",
+  "url": "https://www.gc-isarwinkel.de",
   "faq": [
    {
     "q": {
@@ -3197,7 +3228,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g77",
@@ -3220,9 +3252,9 @@
    "de": "Langer 18-Loch-Platz von Donald Harradine bei Eurasburg"
   },
   "intro": {
-   "nl": "Golfclub Beuerberg ligt bij Gut Sterz in Beuerberg, gemeente Eurasburg, ten zuiden van de Starnberger See. De baan werd begin jaren tachtig aangelegd (bronnen noemen 1982 of 1983) op initiatief van de Zwitserse ondernemer Urs Zondler, naar een ontwerp van de golfbaanarchitect Donald Harradine. De 18 holes beslaan zo'n 119 hectare.\n\nHet is een lange baan: par 74, vanaf de gele afslagplaatsen 6.262 m. Wie korter wil spelen, heeft keuze uit blauw (5.820 m), rood (5.569 m) en oranje (5.206 m). Door de lengte en het hoge par is dit eerder een baan voor geoefende spelers dan voor een snelle ochtendronde. Gasten kunnen meestal spelen, maar vraag vooraf naar de voorwaarden. Vanuit Niederau is dit met ongeveer twee uur rijden de verst gelegen baan in dit overzicht, dus alleen de moeite als je er een volle dag voor uittrekt.",
-   "en": "Golfclub Beuerberg lies at Gut Sterz in Beuerberg, in the municipality of Eurasburg, south of Lake Starnberg. The course was laid out in the early 1980s (sources give 1982 or 1983) on the initiative of the Swiss entrepreneur Urs Zondler, to a design by the golf architect Donald Harradine. The 18 holes cover about 119 hectares.\n\nIt is a long course: par 74, 6,262 m from the yellow tees. Anyone wanting a shorter round can choose blue (5,820 m), red (5,569 m) or orange (5,206 m). Given the length and the high par, this is a course for experienced players rather than a quick morning round. Visitors can usually play, but ask about the conditions in advance. From Niederau it is roughly two hours by car, the most distant course in this overview, so it is only worth it if you set aside a full day.",
-   "de": "Der Golfclub Beuerberg liegt am Gut Sterz in Beuerberg, Gemeinde Eurasburg, südlich des Starnberger Sees. Der Platz entstand Anfang der 1980er-Jahre (die Quellen nennen 1982 oder 1983) auf Initiative des Schweizer Unternehmers Urs Zondler nach einem Entwurf des Golfarchitekten Donald Harradine. Die 18 Löcher erstrecken sich über etwa 119 Hektar.\n\nEs ist ein langer Platz: Par 74, von den gelben Abschlägen 6.262 m. Wer kürzer spielen möchte, kann Blau (5.820 m), Rot (5.569 m) oder Orange (5.206 m) wählen. Wegen der Länge und des hohen Pars ist er eher etwas für geübte Spieler als für eine schnelle Morgenrunde. Gäste können in der Regel spielen, erfragen Sie die Bedingungen aber vorab. Von Niederau sind es rund zwei Stunden Fahrt, damit ist es der am weitesten entfernte Platz dieser Übersicht und nur mit einem vollen Tag sinnvoll."
+   "nl": "Golfclub Beuerberg ligt bij Gut Sterz in Beuerberg, gemeente Eurasburg, ten zuiden van de Starnberger See. De baan werd begin jaren tachtig aangelegd (bronnen noemen 1982 of 1983) naar een ontwerp van de golfbaanarchitect Donald Harradine. De 18 holes beslaan zo'n 119 hectare.\n\nHet is een lange baan: par 74, vanaf de gele afslagplaatsen 6.262 m. Wie korter wil spelen, heeft keuze uit blauw (5.820 m), rood (5.569 m) en oranje (5.206 m). Door de lengte en het hoge par is dit eerder een baan voor geoefende spelers dan voor een snelle ochtendronde. Gasten kunnen meestal spelen, maar vraag vooraf naar de voorwaarden. Vanuit Niederau is dit met ongeveer twee uur rijden de verst gelegen baan in dit overzicht, dus alleen de moeite als je er een volle dag voor uittrekt.",
+   "en": "Golfclub Beuerberg lies at Gut Sterz in Beuerberg, in the municipality of Eurasburg, south of Lake Starnberg. The course was laid out in the early 1980s (sources give 1982 or 1983) to a design by the golf architect Donald Harradine. The 18 holes cover about 119 hectares.\n\nIt is a long course: par 74, 6,262 m from the yellow tees. Anyone wanting a shorter round can choose blue (5,820 m), red (5,569 m) or orange (5,206 m). Given the length and the high par, this is a course for experienced players rather than a quick morning round. Visitors can usually play, but ask about the conditions in advance. From Niederau it is roughly two hours by car, the most distant course in this overview, so it is only worth it if you set aside a full day.",
+   "de": "Der Golfclub Beuerberg liegt am Gut Sterz in Beuerberg, Gemeinde Eurasburg, südlich des Starnberger Sees. Der Platz entstand Anfang der 1980er-Jahre (die Quellen nennen 1982 oder 1983) nach einem Entwurf des Golfarchitekten Donald Harradine. Die 18 Löcher erstrecken sich über etwa 119 Hektar.\n\nEs ist ein langer Platz: Par 74, von den gelben Abschlägen 6.262 m. Wer kürzer spielen möchte, kann Blau (5.820 m), Rot (5.569 m) oder Orange (5.206 m) wählen. Wegen der Länge und des hohen Pars ist er eher etwas für geübte Spieler als für eine schnelle Morgenrunde. Gäste können in der Regel spielen, erfragen Sie die Bedingungen aber vorab. Von Niederau sind es rund zwei Stunden Fahrt, damit ist es der am weitesten entfernte Platz dieser Übersicht und nur mit einem vollen Tag sinnvoll."
   },
   "tips": {
    "nl": [
@@ -3270,7 +3302,7 @@
    "en": "Beuerberg, Eurasburg, Bavaria",
    "de": "Beuerberg, Eurasburg, Bayern"
   },
-  "url": "https://www.1golf.eu/club/golfclub-beuerberg-ev/",
+  "url": "https://www.golfclub-beuerberg.de",
   "faq": [
    {
     "q": {
@@ -3279,9 +3311,9 @@
      "de": "Wer hat den Platz entworfen?"
     },
     "a": {
-     "nl": "Donald Harradine, in opdracht van Urs Zondler.",
-     "en": "Donald Harradine, for Urs Zondler.",
-     "de": "Donald Harradine, im Auftrag von Urs Zondler."
+     "nl": "Donald Harradine.",
+     "en": "Donald Harradine.",
+     "de": "Donald Harradine."
     }
    },
    {
@@ -3297,7 +3329,8 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g78",
@@ -3320,9 +3353,9 @@
    "de": "27 Löcher von David Krause, drei Neunerschleifen"
   },
   "intro": {
-   "nl": "Golf Valley ligt bij Holzkirchen, in het heuvelland tussen München en het Tegernsee. De Canadese architect David Krause ontwierp de 27 holes, die in 2009 opengingen. De baan bestaat uit drie lussen van negen holes, zodat je verschillende combinaties van achttien kunt spelen; de standaardronde is par 72.\n\nBehalve de hoofdbaan is er een korte academiebaan van negen holes, bedoeld om te oefenen en te leren. Daarnaast heeft de club een oefencentrum van ongeveer 21 hectare, met een indoorruimte, fitness en een fittingcentrum. Dat maakt Golf Valley het meest uitgebreide complex in dit overzicht. Over de lengte lopen de bronnen uiteen, afhankelijk van de afslagplaats; vraag de scorekaart op voor je kiest. Voor de rit vanuit Niederau, ruim een uur, moet je de A8 richting München nemen, wat in het weekend druk kan zijn.",
-   "en": "Golf Valley lies near Holzkirchen, in the rolling country between Munich and Lake Tegernsee. The Canadian architect David Krause designed the 27 holes, which opened in 2009. The course consists of three loops of nine, so several combinations of eighteen are possible; the standard round is par 72.\n\nBesides the main course there is a short nine-hole academy course for practice and learning. The club also has a practice centre of about 21 hectares with an indoor area, fitness and a fitting centre. That makes Golf Valley the most extensive complex in this overview. Sources differ on the length, depending on the tee, so ask for the scorecard before choosing. The drive from Niederau takes a little over an hour via the A8 towards Munich, which can be busy at weekends.",
-   "de": "Golf Valley liegt bei Holzkirchen, im Hügelland zwischen München und dem Tegernsee. Der kanadische Architekt David Krause entwarf die 27 Löcher, die 2009 eröffnet wurden. Der Platz besteht aus drei Neunerschleifen, sodass sich mehrere 18-Loch-Kombinationen spielen lassen; die Standardrunde ist Par 72.\n\nNeben dem Hauptplatz gibt es einen kurzen 9-Loch-Akademieplatz zum Üben und Lernen. Dazu kommt ein Übungszentrum von rund 21 Hektar mit Indoor-Bereich, Fitness und Fitting-Center. Damit ist Golf Valley die umfangreichste Anlage dieser Übersicht. Bei der Länge gehen die Quellen je nach Abschlag auseinander; lassen Sie sich die Scorekarte geben, bevor Sie wählen. Die Fahrt von Niederau dauert gut eine Stunde über die A8 Richtung München, die am Wochenende voll sein kann."
+   "nl": "Golf Valley ligt bij Holzkirchen, in het heuvelland tussen München en het Tegernsee. De Canadese architect David Krause ontwierp de 27 holes, die rond 2009 opengingen. De baan bestaat uit drie lussen van negen holes, zodat je verschillende combinaties van achttien kunt spelen; de standaardronde is par 72.\n\nBehalve de hoofdbaan is er een korte academiebaan van negen holes, bedoeld om te oefenen en te leren. Daarnaast heeft de club een oefencentrum van ongeveer 21 hectare, met een indoorruimte, fitness en een fittingcentrum. Dat maakt Golf Valley het meest uitgebreide complex in dit overzicht. Over de lengte lopen de bronnen uiteen, afhankelijk van de afslagplaats; vraag de scorekaart op voor je kiest. Voor de rit vanuit Niederau, ruim een uur, moet je de A8 richting München nemen, wat in het weekend druk kan zijn.",
+   "en": "Golf Valley lies near Holzkirchen, in the rolling country between Munich and Lake Tegernsee. The Canadian architect David Krause designed the 27 holes, which opened around 2009. The course consists of three loops of nine, so several combinations of eighteen are possible; the standard round is par 72.\n\nBesides the main course there is a short nine-hole academy course for practice and learning. The club also has a practice centre of about 21 hectares with an indoor area, fitness and a fitting centre. That makes Golf Valley the most extensive complex in this overview. Sources differ on the length, depending on the tee, so ask for the scorecard before choosing. The drive from Niederau takes a little over an hour via the A8 towards Munich, which can be busy at weekends.",
+   "de": "Golf Valley liegt bei Holzkirchen, im Hügelland zwischen München und dem Tegernsee. Der kanadische Architekt David Krause entwarf die 27 Löcher, die um 2009 eröffnet wurden. Der Platz besteht aus drei Neunerschleifen, sodass sich mehrere 18-Loch-Kombinationen spielen lassen; die Standardrunde ist Par 72.\n\nNeben dem Hauptplatz gibt es einen kurzen 9-Loch-Akademieplatz zum Üben und Lernen. Dazu kommt ein Übungszentrum von rund 21 Hektar mit Indoor-Bereich, Fitness und Fitting-Center. Damit ist Golf Valley die umfangreichste Anlage dieser Übersicht. Bei der Länge gehen die Quellen je nach Abschlag auseinander; lassen Sie sich die Scorekarte geben, bevor Sie wählen. Die Fahrt von Niederau dauert gut eine Stunde über die A8 Richtung München, die am Wochenende voll sein kann."
   },
   "tips": {
    "nl": [
@@ -3391,13 +3424,14 @@
      "de": "Wer hat den Platz entworfen?"
     },
     "a": {
-     "nl": "David Krause, in 2009 geopend.",
-     "en": "David Krause; opened in 2009.",
-     "de": "David Krause; 2009 eröffnet."
+     "nl": "David Krause, geopend rond 2009.",
+     "en": "David Krause; opened around 2009.",
+     "de": "David Krause; um 2009 eröffnet."
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  },
  {
   "id": "g79",
@@ -3497,6 +3531,7 @@
     }
    }
   ],
-  "verified": true
+  "verified": true,
+  "checked": "2026-10"
  }
 ]
