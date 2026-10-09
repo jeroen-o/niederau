@@ -12,6 +12,7 @@ if _norm != src:
     src = _norm
 # SEO/GEO-blok wordt per taal opnieuw gemaakt door tools/seo.py
 src = re.sub(r"<!-- SEO:START.*?<!-- SEO:END -->\n?", "", src, flags=re.S)
+src = re.sub(r' srcset="[^"]*" sizes="[^"]*"', "", src)
 src = re.sub(r'<script type="application/ld\+json">.*?</script>\n?', "", src, flags=re.S)
 
 # Structurele vervangingen (paden, ankers, taalknoppen) per taal

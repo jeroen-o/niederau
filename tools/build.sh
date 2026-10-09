@@ -3,9 +3,11 @@
 # Altijd draaien na een wijziging aan index.html of tools/data.
 set -e
 cd "$(dirname "$0")/.."
+python3 tools/images.py
 python3 tools/translate.py
 python3 tools/subpages.py
 python3 tools/pages.py
 python3 tools/seo.py
+python3 tools/imgopt.py
 python3 tools/finalize.py
 python3 tools/search.py
