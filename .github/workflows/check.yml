@@ -1,0 +1,30 @@
+# Controleert bij elke pull request en push naar main: reproduceerbare bouw, interne links en afbeeldingen, sitemap, JSON-LD en W3C-validatie.
+name: Controle
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: ImageMagick
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick
+      - name: Site opnieuw bouwen
+        run: ./tools/build.sh
+      - name: Bouw moet reproduceerbaar zijn (alles is gecommit)
+        run: |
+          git diff --stat -- . ':!sitemap.xml' | tail -5
+          git diff --exit-code --quiet -- . ':!sitemap.xml' ':!tools/data/_lastmod.json' || { echo "::error::De gebouwde bestanden wijken af van wat is gecommit. Draai ./tools/build.sh en commit het resultaat."; exit 1; }
+      - name: Interne links, afbeeldingen, sitemap, JSON-LD
+        run: python3 tools/check.py
+      - name: W3C-validatie (vnu)
+        run: |
+          npm install --silent --no-audit --no-fund --prefix /tmp/vnu vnu-jar
+          java -jar /tmp/vnu/node_modules/vnu-jar/build/dist/vnu.jar --skip-non-html --errors-only .

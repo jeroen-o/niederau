@@ -47,6 +47,7 @@ UI = {
  "credits": ("Foto’s: Wildschönau Tourismus, Ski Juwel Alpbachtal Wildschönau, Hotel Wastlhof en eigen foto’s.", "Photos: Wildschönau Tourismus, Ski Juwel Alpbachtal Wildschönau, Hotel Wastlhof and own photos.", "Fotos: Wildschönau Tourismus, Ski Juwel Alpbachtal Wildschönau, Hotel Wastlhof und eigene Fotos."),
  "tips": ("Tips", "Tips", "Tipps"),
  "practical": ("Praktisch", "Practical", "Praktisches"),
+ "checked": ("Gegevens gecontroleerd", "Details checked", "Angaben geprüft"),
  "facts": ("In het kort", "At a glance", "Auf einen Blick"),
  "age": ("Leeftijd", "Age", "Alter"), "duration": ("Duur", "Duration", "Dauer"), "price": ("Kosten", "Cost", "Kosten"),
  "distance": ("Afstand", "Distance", "Entfernung"), "season": ("Seizoen", "Season", "Saison"), "location": ("Locatie", "Location", "Ort"),
@@ -435,6 +436,15 @@ def faq_html(faq, lang):
     ld = {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in items]}
     return f'<section class="alt" aria-labelledby="h-faq"><div class="wrap"><h2 id="h-faq">{ui("faq", lang)}</h2><div class="faq">{h}</div></div></section>', ld
 
+MONTHS = {"nl": ["januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"],
+          "en": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+          "de": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]}
+def checked_html(a, lang):
+    c = a.get("checked")
+    if not c: return ""
+    y, m = c.split("-")[:2]
+    return f'<p class="checked"><span class="chip">{ui("checked", lang)}: {MONTHS[lang][int(m) - 1]} {y}</span></p>'
+
 def card_list(items, lang):
     """items: [(titel, tagline, url, badge)]"""
     out = []
@@ -473,7 +483,7 @@ def build_act(a):
         tips = L(a.get("tips", {}), lang, [])
         tips_h = f'<h2>{ui("tips", lang)}</h2><ul class="check">' + "".join(f"<li>{e(x)}</li>" for x in tips) + "</ul>" if tips else ""
         pr = L(a.get("practical", {}), lang)
-        pr_h = f'<h2>{ui("practical", lang)}</h2><p>{e(pr)}</p>' if pr else ""
+        pr_h = f'<h2>{ui("practical", lang)}</h2><p>{e(pr)}</p>{checked_html(a, lang)}' if pr else ""
         link = f'<p><a href="{e(a["url"])}" rel="noopener" target="_blank">{ui("website", lang)}</a></p>' if a.get("url") else ""
         pl = f'<p>{ui("near", lang)}: <a href="{u_place(p, lang)}">{e(L(p["name"], lang))}</a></p>' if p else ""
         rel = [x for x in acts if x is not a and x["theme"] == a["theme"]]

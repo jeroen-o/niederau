@@ -70,7 +70,7 @@
    "en": "Kitzbühel, Schwarzsee",
    "de": "Kitzbühel, Schwarzsee"
   },
-  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-kitzbuehel-schwarzsee-reith",
+  "url": "https://www.golf-schwarzsee.com",
   "faq": [
    {
     "q": {
@@ -96,7 +96,8 @@
      "de": "Von den weißen Abschlägen 6.104 m (Par 72); der kürzeste Damenabschlag misst 4.850 m."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g2",
@@ -119,9 +120,9 @@
    "de": "Kyle-Phillips-Design mit 116 m Höhenunterschied"
   },
   "intro": {
-   "nl": "Eichenheim bij Kitzbühel-Aurach werd in 2000 aangelegd door de Amerikaanse ontwerper Kyle Phillips. De baan is par 71 en 6.092 m lang, en loopt over een hoogteverschil van 116 m. Met een par 5 van 512 m is dit een sportieve uitdaging voor wie zijn handicap serieus neemt.\n\nHet clubhuis is meer dan een plek om te pinten: er zijn een golflounge, een golfbistro en een restaurant dat in Gault&Millau-gidsen is geroemd. Ook de oefenfaciliteiten zijn ruim, met een driving range van 30 afslagplaatsen (13 overdekt), een oefenbunker en een puttinggreen. Een golfschool maakt de club ook interessant voor wie wat lessen wil. Zo combineer je sport en een goede maaltijd op één plek.",
-   "en": "Eichenheim, near Kitzbühel-Aurach, was laid out in 2000 by the American architect Kyle Phillips. The course is a par 71 of 6,092 m with an elevation change of 116 m. Including a 512 m par 5, it is a sporting test for anyone who takes their handicap seriously.\n\nThe clubhouse offers more than a drink after the round: there is a golf lounge, a golf bistro and a restaurant praised in the Gault&Millau guide. Practice facilities are generous too, with a 30-tee driving range (13 of them covered), a practice bunker and a putting green. A golf school makes the club attractive if you want a few lessons. That way you can combine sport and a good meal in one place.",
-   "de": "Eichenheim bei Kitzbühel-Aurach wurde im Jahr 2000 vom amerikanischen Architekten Kyle Phillips angelegt. Der Platz ist ein Par 71 mit 6.092 m Länge und überwindet 116 m Höhenunterschied. Mit einem 512 m langen Par 5 ist er eine sportliche Aufgabe für alle, die ihr Handicap ernst nehmen.\n\nDas Clubhaus bietet mehr als ein Getränk nach der Runde: Es gibt eine Golflounge, ein Golfbistro und ein im Gault&Millau gelobtes Restaurant. Auch die Übungsanlagen sind großzügig, mit einer Driving Range mit 30 Abschlägen (13 überdacht), einem Übungsbunker und einem Putting Green. Eine Golfschule macht den Club zudem für alle interessant, die ein paar Stunden nehmen möchten. So lassen sich Sport und ein gutes Essen an einem Ort verbinden."
+   "nl": "Eichenheim bij Kitzbühel-Aurach werd rond 2000 aangelegd door de Amerikaanse ontwerper Kyle Phillips. De baan is par 71 en 6.092 m lang. Het clubhuis heeft een golflounge, een golfbistro en een restaurant. Ook de oefenfaciliteiten zijn ruim, met een driving range van 30 afslagplaatsen (13 overdekt), een oefenbunker en een puttinggreen. Een golfschool maakt de club ook interessant voor wie wat lessen wil. Zo combineer je sport en een goede maaltijd op één plek.",
+   "en": "Eichenheim, near Kitzbühel-Aurach, was laid out around 2000 by the American architect Kyle Phillips. The course is par 71 and 6,092 m long. The clubhouse has a golf lounge, a golf bistro and a restaurant. Practice facilities are generous too, with a 30-tee driving range (13 of them covered), a practice bunker and a putting green. A golf school makes the club attractive if you want a few lessons. That way you can combine sport and a good meal in one place.",
+   "de": "Eichenheim bei Kitzbühel-Aurach wurde um das Jahr 2000 vom amerikanischen Architekten Kyle Phillips angelegt. Der Platz ist Par 71 und 6.092 m lang. Das Clubhaus bietet eine Golflounge, ein Golfbistro und ein Restaurant. Auch die Übungsanlagen sind großzügig, mit einer Driving Range mit 30 Abschlägen (13 überdacht), einem Übungsbunker und einem Putting Green. Eine Golfschule macht den Club zudem für alle interessant, die ein paar Stunden nehmen möchten. So lassen sich Sport und ein gutes Essen an einem Ort verbinden."
   },
   "tips": {
    "nl": [
@@ -169,7 +170,7 @@
    "en": "Kitzbühel",
    "de": "Kitzbühel"
   },
-  "url": "https://www.kitzbueheler-alpen.com/de/kam/so/golf/eichenheim.html",
+  "url": "https://www.eichenheim.com",
   "faq": [
    {
     "q": {
@@ -178,9 +179,9 @@
      "de": "Wer hat den Platz entworfen?"
     },
     "a": {
-     "nl": "Kyle Phillips; de baan opende in 2000.",
-     "en": "Kyle Phillips; the course opened in 2000.",
-     "de": "Kyle Phillips; der Platz wurde 2000 eröffnet."
+     "nl": "Kyle Phillips; de baan opende rond 2000.",
+     "en": "Kyle Phillips; the course opened around 2000.",
+     "de": "Kyle Phillips; der Platz wurde um 2000 eröffnet."
     }
    },
    {
@@ -195,7 +196,8 @@
      "de": "Ja, es gibt eine Driving Range mit 30 Abschlägen, ein Putting Green, einen Übungsbunker und eine Golfschule."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g3",
@@ -268,7 +270,7 @@
    "en": "Kitzbühel, Kaps",
    "de": "Kitzbühel, Kaps"
   },
-  "url": "https://www.kitzbueheler-alpen.com/de/kam/so/golf/kitzbuehel.html",
+  "url": "https://www.kitzbuehel-golf.com",
   "faq": [
    {
     "q": {
@@ -294,7 +296,8 @@
      "de": "Die Bahnen 8 und 9 haben Inselgreens in einem See, erreichbar über kleine Brücken."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g4",
@@ -317,9 +320,9 @@
    "de": "Flacher, gut begehbarer 18-Loch-Platz unter der Hohen Salve"
   },
   "intro": {
-   "nl": "Dit is de dichtstbijzijnde 18-holesbaan voor gasten uit Niederau. De baan opende in 2014 en meet 5.882 m (par 72) vanaf de witte tees; de dames spelen vanaf 4.875 m. Het terrein is vlak en dus goed te lopen, een prettige afwisseling na de steile banen elders in de regio.\n\nNoordelijk wordt de baan beschermd door de Hohe Salve, die ook voor het panorama zorgt. Voor de warming-up zijn er 25 afslagplaatsen op de range, waarvan 8 overdekt, plus een puttinggreen, pitching- en chippinggreen en een oefenbunker. Omdat het een van de jongere banen van Tirol is, zijn fairways en greens nog relatief open aangelegd en weinig verwinkeld. Wie met meer niveaus tegelijk speelt, kan de afslagplaatsen goed afstemmen.",
-   "en": "This is the closest 18-hole course for guests staying in Niederau. It opened in 2014 and measures 5,882 m (par 72) from the white tees; the ladies' tees start at 4,875 m. The ground is flat and easy to walk, a welcome change from the steeper courses elsewhere in the region.\n\nThe Hohe Salve shelters the course to the north and provides the backdrop. For warming up there are 25 tees on the range, 8 of them covered, plus a putting green, pitching and chipping greens and a practice bunker. As one of the younger courses in Tyrol, its fairways and greens are laid out in a fairly open, uncomplicated way. Mixed groups can match the tees to each player's level.",
-   "de": "Dies ist der nächstgelegene 18-Loch-Platz für Gäste aus Niederau. Er wurde 2014 eröffnet und misst 5.882 m (Par 72) von den weißen Abschlägen; die Damen starten bei 4.875 m. Das Gelände ist flach und gut zu Fuß zu bewältigen, eine willkommene Abwechslung zu steileren Plätzen der Region.\n\nIm Norden schützt die Hohe Salve den Platz und liefert zugleich die Kulisse. Zum Einspielen gibt es 25 Abschläge auf der Range, 8 davon überdacht, dazu Putting Green, Pitching- und Chipping-Green sowie einen Übungsbunker. Als einer der jüngeren Plätze Tirols ist er recht offen und übersichtlich angelegt. Gemischte Gruppen können die Abschläge gut auf jeden Spieler abstimmen. Gerade für Familien mit unterschiedlich geübten Spielern ist das praktisch."
+   "nl": "Dit is de dichtstbijzijnde 18-holesbaan voor gasten uit Niederau. De baan opende in 2014 en meet 5.882 m (par 72) vanaf de witte tees; de dames spelen vanaf 4.875 m. Het terrein is vlak en dus goed te lopen, een prettige afwisseling na de steile banen elders in de regio. Voor de warming-up zijn er een oefenrange, puttinggreen en chipping- en pitchinggreen. Omdat het een van de jongere banen van Tirol is, zijn fairways en greens nog relatief open aangelegd en weinig verwinkeld. Wie met meer niveaus tegelijk speelt, kan de afslagplaatsen goed afstemmen.",
+   "en": "This is the closest 18-hole course for guests staying in Niederau. It opened in 2014 and measures 5,882 m (par 72) from the white tees; the ladies' tees start at 4,875 m. The ground is flat and easy to walk, a welcome change from the steeper courses elsewhere in the region. For warming up there are a driving range, a putting green and chipping and pitching greens. As one of the younger courses in Tyrol, its fairways and greens are laid out in a fairly open, uncomplicated way. Mixed groups can match the tees to each player's level.",
+   "de": "Dies ist der nächstgelegene 18-Loch-Platz für Gäste aus Niederau. Er wurde 2014 eröffnet und misst 5.882 m (Par 72) von den weißen Abschlägen; die Damen starten bei 4.875 m. Das Gelände ist flach und gut zu Fuß zu bewältigen, eine willkommene Abwechslung zu steileren Plätzen der Region. Zum Einspielen gibt es eine Driving Range, ein Putting Green sowie Chipping- und Pitching-Grün. Als einer der jüngeren Plätze Tirols ist er recht offen und übersichtlich angelegt. Gemischte Gruppen können die Abschläge gut auf jeden Spieler abstimmen. Gerade für Familien mit unterschiedlich geübten Spielern ist das praktisch."
   },
   "tips": {
    "nl": [
@@ -367,7 +370,7 @@
    "en": "Westendorf, Brixental",
    "de": "Westendorf, Brixental"
   },
-  "url": "https://www.kitzbueheler-alpen.com/de/bri/infra/a-z/golfclub-kitzbueheler-alpen-westendorf.html",
+  "url": "https://www.gc-kitzbueheler-alpen.at",
   "faq": [
    {
     "q": {
@@ -393,7 +396,8 @@
      "de": "2014; 5.882 m von den weißen Abschlägen, Par 72."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g5",
@@ -416,9 +420,9 @@
    "de": "27 Löcher in drei Schleifen, April bis November"
   },
   "intro": {
-   "nl": "Het grootste complex binnen bereik van Niederau: 27 holes, ingedeeld in drie lussen die Wilder Kaiser, Ellmau en Tirol heten. Je kunt ze in elke combinatie spelen. De combinatie van Wilder Kaiser en Ellmau is een 18-holesbaan van par 72, tot 6.104 m lang vanaf de witte tees.\n\nDe fairways liggen relatief vlak en de baan heeft een zonnige ligging, waardoor het seizoen van april tot november loopt. Bij de club hoort een driving range met 16 afslagplaatsen, waarvan 8 overdekt. Het uitzicht op de ruwe kalkwanden van het Kaisergebergte is de belangrijkste reden om hier te spelen, al is het ook een prima plek voor wie het liefst drie verschillende negenholesrondes wil kunnen kiezen. Zo kunnen groepen met verschillende niveaus gemakkelijk samen een route kiezen.",
-   "en": "This is the biggest complex within reach of Niederau: 27 holes arranged in three loops called Wilder Kaiser, Ellmau and Tirol, which can be played in any combination. Wilder Kaiser plus Ellmau forms an 18-hole course of par 72, up to 6,104 m from the white tees.\n\nThe fairways are fairly flat and the sunny location allows a long season, from April to November. The club has a driving range with 16 tees, 8 of them covered. The view of the rugged limestone walls of the Kaiser mountains is the main reason to play here, though it is also a good spot if you like having three different nine-hole rounds to choose from. Groups of mixed ability can easily settle on a route together.",
-   "de": "Das größte Areal in Reichweite von Niederau: 27 Löcher in drei Schleifen namens Wilder Kaiser, Ellmau und Tirol, die sich beliebig kombinieren lassen. Wilder Kaiser plus Ellmau ergibt einen 18-Loch-Platz mit Par 72 und bis zu 6.104 m von den weißen Abschlägen.\n\nDie Fairways sind recht flach, und die sonnige Lage erlaubt eine lange Saison von April bis November. Zum Club gehört eine Driving Range mit 16 Abschlägen, 8 davon überdacht. Der Blick auf die zerklüfteten Kalkwände des Kaisergebirges ist der Hauptgrund für eine Runde hier, doch auch wer gern zwischen drei Neun-Loch-Runden wählt, ist hier richtig. So können Gruppen mit unterschiedlichem Niveau leicht gemeinsam eine Route wählen. Das erleichtert die Planung, wenn man mehrere Tage hintereinander spielen möchte."
+   "nl": "Het grootste complex binnen bereik van Niederau: 27 holes, ingedeeld in drie lussen die Wilder Kaiser, Ellmau en Tirol heten. Je kunt ze in elke combinatie spelen. De combinatie van Wilder Kaiser en Ellmau is een 18-holesbaan van par 72, tot 6.104 m lang vanaf de witte tees. De fairways liggen relatief vlak en de baan heeft een zonnige ligging, waardoor het seizoen van april tot november loopt. Bij de club hoort een driving range. Het uitzicht op de ruwe kalkwanden van het Kaisergebergte is de belangrijkste reden om hier te spelen, al is het ook een prima plek voor wie het liefst drie verschillende negenholesrondes wil kunnen kiezen. Zo kunnen groepen met verschillende niveaus gemakkelijk samen een route kiezen.",
+   "en": "This is the biggest complex within reach of Niederau: 27 holes arranged in three loops called Wilder Kaiser, Ellmau and Tirol, which can be played in any combination. Wilder Kaiser plus Ellmau forms an 18-hole course of par 72, up to 6,104 m from the white tees. The fairways are fairly flat and the sunny location allows a long season, from April to November. The club has a driving range. The view of the rugged limestone walls of the Kaiser mountains is the main reason to play here, though it is also a good spot if you like having three different nine-hole rounds to choose from. Groups of mixed ability can easily settle on a route together.",
+   "de": "Das größte Areal in Reichweite von Niederau: 27 Löcher in drei Schleifen namens Wilder Kaiser, Ellmau und Tirol, die sich beliebig kombinieren lassen. Wilder Kaiser plus Ellmau ergibt einen 18-Loch-Platz mit Par 72 und bis zu 6.104 m von den weißen Abschlägen. Die Fairways sind recht flach, und die sonnige Lage erlaubt eine lange Saison von April bis November. Zum Club gehört eine Driving Range. Der Blick auf die zerklüfteten Kalkwände des Kaisergebirges ist der Hauptgrund für eine Runde hier, doch auch wer gern zwischen drei Neun-Loch-Runden wählt, ist hier richtig. So können Gruppen mit unterschiedlichem Niveau leicht gemeinsam eine Route wählen. Das erleichtert die Planung, wenn man mehrere Tage hintereinander spielen möchte."
   },
   "tips": {
    "nl": [
@@ -466,7 +470,7 @@
    "en": "Ellmau, Wilder Kaiser",
    "de": "Ellmau, Wilder Kaiser"
   },
-  "url": "https://www.tirol.at/aktivitaeten/sport/golfen/alle-golfplaetze/golfclub-wilder-kaiser",
+  "url": "https://www.wilder-kaiser.com",
   "faq": [
    {
     "q": {
@@ -492,7 +496,8 @@
      "de": "Etwa von April bis November."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g6",
@@ -515,9 +520,9 @@
    "de": "18 Löcher auf 550 m Höhe, März bis November"
   },
   "intro": {
-   "nl": "In het brede Zillertal, op ca. 550 m hoogte, ligt Golfplatz Zillertal-Uderns: een 18-holesbaan (par 72) op ruim 65 hectare. De lengte hangt af van de afslagplaats en loopt van 4.752 tot 6.027 m. Door de lage ligging begint het seizoen al in maart en duurt het tot in november, langer dan op veel andere banen in de regio.\n\nDe oefenfaciliteiten zijn de uitgebreidste van deze selectie. De range heeft 35 afslagplaatsen, waarvan 18 overdekt, en een Trackman-opstelling voor wie zijn slag laat meten. Daarnaast zijn er een groot chippinggebied, pitching- en puttinggreens en een kleine baan met drie holes waar je het korte spel oefent. Vooral wie nog wil leren spelen, vindt hier veel mogelijkheden. Alles ligt vlak bij elkaar, wat een dag op de baan overzichtelijk houdt.",
-   "en": "In the broad Zillertal valley, at about 550 m, lies Zillertal-Uderns Golf Course: an 18-hole layout (par 72) on more than 65 hectares. Its length depends on the tee and ranges from 4,752 to 6,027 m. Thanks to the low altitude the season starts in March and runs into November, longer than at many courses in the region.\n\nThe practice facilities are the most extensive of this selection. The range has 35 tees, 18 of them covered, plus a Trackman setup for measuring your shots. There is also a large chipping area, pitching and putting greens, and a small three-hole course for short-game work. It is particularly good if you are still learning the game. Everything is close together, which keeps a day at the course straightforward.",
-   "de": "Im breiten Zillertal, auf rund 550 m Höhe, liegt der Golfplatz Zillertal-Uderns: eine 18-Loch-Anlage (Par 72) auf mehr als 65 Hektar. Die Länge hängt vom Abschlag ab und reicht von 4.752 bis 6.027 m. Wegen der tiefen Lage beginnt die Saison schon im März und dauert bis in den November, länger als auf vielen anderen Plätzen der Region.\n\nDie Übungsmöglichkeiten sind die umfangreichsten dieser Auswahl. Die Range hat 35 Abschläge, 18 davon überdacht, plus eine Trackman-Anlage zur Schlagmessung. Hinzu kommen ein großes Chipping-Areal, Pitching- und Putting-Greens sowie ein kleiner Drei-Loch-Kurzplatz. Besonders wer das Spiel noch lernt, findet hier viel Raum. Alles liegt nah beieinander, das macht einen Tag auf der Anlage übersichtlich."
+   "nl": "In het brede Zillertal, op ca. 550 m hoogte, ligt Golfplatz Zillertal-Uderns: een 18-holesbaan (par 72) op ruim 65 hectare. De lengte hangt af van de afslagplaats en loopt van ruim 4.700 tot ongeveer 6.000 m. Door de lage ligging begint het seizoen al in maart en duurt het tot in november, langer dan op veel andere banen in de regio.\n\nDe oefenfaciliteiten zijn de uitgebreidste van deze selectie. De range heeft 35 afslagplaatsen, waarvan 18 overdekt, en een Trackman-opstelling voor wie zijn slag laat meten. Daarnaast zijn er een groot chippinggebied, pitching- en puttinggreens en een kleine baan met drie holes waar je het korte spel oefent. Vooral wie nog wil leren spelen, vindt hier veel mogelijkheden. Alles ligt vlak bij elkaar, wat een dag op de baan overzichtelijk houdt.",
+   "en": "In the broad Zillertal valley, at about 550 m, lies Zillertal-Uderns Golf Course: an 18-hole layout (par 72) on more than 65 hectares. Its length depends on the tee and ranges from roughly 4,700 to 6,000 m. Thanks to the low altitude the season starts in March and runs into November, longer than at many courses in the region.\n\nThe practice facilities are the most extensive of this selection. The range has 35 tees, 18 of them covered, plus a Trackman setup for measuring your shots. There is also a large chipping area, pitching and putting greens, and a small three-hole course for short-game work. It is particularly good if you are still learning the game. Everything is close together, which keeps a day at the course straightforward.",
+   "de": "Im breiten Zillertal, auf rund 550 m Höhe, liegt der Golfplatz Zillertal-Uderns: eine 18-Loch-Anlage (Par 72) auf mehr als 65 Hektar. Die Länge hängt vom Abschlag ab und reicht von gut 4.700 bis rund 6.000 m. Wegen der tiefen Lage beginnt die Saison schon im März und dauert bis in den November, länger als auf vielen anderen Plätzen der Region.\n\nDie Übungsmöglichkeiten sind die umfangreichsten dieser Auswahl. Die Range hat 35 Abschläge, 18 davon überdacht, plus eine Trackman-Anlage zur Schlagmessung. Hinzu kommen ein großes Chipping-Areal, Pitching- und Putting-Greens sowie ein kleiner Drei-Loch-Kurzplatz. Besonders wer das Spiel noch lernt, findet hier viel Raum. Alles liegt nah beieinander, das macht einen Tag auf der Anlage übersichtlich."
   },
   "tips": {
    "nl": [
@@ -565,7 +570,7 @@
    "en": "Uderns, Zillertal",
    "de": "Uderns, Zillertal"
   },
-  "url": "https://www.tyrol.com/activities/sport/golf/all-golf-courses/golfplatz-zillertal",
+  "url": "https://www.golf-zillertal.at",
   "faq": [
    {
     "q": {
@@ -591,7 +596,8 @@
      "de": "Eine Range mit 35 Abschlägen (18 überdacht), Trackman, Chipping-, Pitching- und Putting-Greens sowie ein Drei-Loch-Kurzplatz."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g7",
@@ -614,9 +620,9 @@
    "de": "18 Löcher entlang des Kohlenbachs, unter dem Kaisergebirge"
   },
   "intro": {
-   "nl": "Kaiserwinkl Golf in Kössen is geen negenholesbaan maar een volledige 18-holesbaan van par 72. De baan opende in 1989 en is ontworpen door Donald Harradine. Vanaf de heren-tees meet hij 5.645 m, vanaf de dames-tees 4.884 m.\n\nHet terrein ligt aan weerszijden van de Kohlenbach en is golvend, met oude bomen, het rotsmassief van het Kaisergebergte als achtergrond en meerdere waterpartijen. Sommige fairways zijn smal en de greens liggen goed beschermd, dus precisie telt meer dan lengte. Er is een driving range met oefengebied. Kössen ligt vlak bij de Duitse grens en past goed bij een dagje Kaiserwinkl met meren en wandelpaden. Het contrast met de grotere banen binnen de regio maakt de rit de moeite waard.",
-   "en": "Kaiserwinkl Golf in Kössen is not a nine-hole course but a full 18-hole layout of par 72. It opened in 1989 and was designed by Donald Harradine. It measures 5,645 m from the men's tees and 4,884 m from the ladies' tees.\n\nThe terrain lies on both sides of the Kohlenbach stream and is rolling, with old trees, the rock massif of the Kaiser mountains as a backdrop and several water hazards. Some fairways are narrow and the greens well guarded, so accuracy counts for more than length. There is a driving range with a practice area. Kössen lies close to the German border and suits a day in the Kaiserwinkl with lakes and walking trails. The contrast with the larger courses in the region makes the drive worthwhile.",
-   "de": "Kaiserwinkl Golf in Kössen ist kein Neun-Loch-Platz, sondern eine vollwertige 18-Loch-Anlage mit Par 72. Er wurde 1989 eröffnet und von Donald Harradine gestaltet. Von den Herrenabschlägen misst er 5.645 m, von den Damenabschlägen 4.884 m.\n\nDas Gelände liegt zu beiden Seiten des Kohlenbachs und ist wellig, mit altem Baumbestand, dem Felsmassiv des Kaisergebirges als Kulisse und mehreren Wasserhindernissen. Manche Fairways sind eng und die Grüns gut verteidigt, daher zählt Präzision mehr als Länge. Es gibt eine Driving Range mit Übungsbereich. Kössen liegt nahe der deutschen Grenze und passt gut zu einem Tag im Kaiserwinkl mit Seen und Wanderwegen. Der Kontrast zu den größeren Plätzen der Region macht die Anfahrt lohnend."
+   "nl": "Kaiserwinkl Golf in Kössen is geen negenholesbaan maar een volledige 18-holesbaan van par 72. De baan opende in 1989 en is ontworpen door Donald Harradine. Vanaf de heren-tees meet hij 5.645 m, vanaf de dames-tees 4.884 m.\n\nHet terrein wordt meerdere keren door een beek doorkruist en is golvend, met oude bomen, het rotsmassief van het Kaisergebergte als achtergrond en meerdere waterpartijen. Sommige fairways zijn smal en de greens liggen goed beschermd, dus precisie telt meer dan lengte. Er is een driving range met oefengebied. Kössen ligt vlak bij de Duitse grens en past goed bij een dagje Kaiserwinkl met meren en wandelpaden. Het contrast met de grotere banen binnen de regio maakt de rit de moeite waard.",
+   "en": "Kaiserwinkl Golf in Kössen is not a nine-hole course but a full 18-hole layout of par 72. It opened in 1989 and was designed by Donald Harradine. It measures 5,645 m from the men's tees and 4,884 m from the ladies' tees.\n\nA small stream crosses the terrain several times and it is rolling, with old trees, the rock massif of the Kaiser mountains as a backdrop and several water hazards. Some fairways are narrow and the greens well guarded, so accuracy counts for more than length. There is a driving range with a practice area. Kössen lies close to the German border and suits a day in the Kaiserwinkl with lakes and walking trails. The contrast with the larger courses in the region makes the drive worthwhile.",
+   "de": "Kaiserwinkl Golf in Kössen ist kein Neun-Loch-Platz, sondern eine vollwertige 18-Loch-Anlage mit Par 72. Er wurde 1989 eröffnet und von Donald Harradine gestaltet. Von den Herrenabschlägen misst er 5.645 m, von den Damenabschlägen 4.884 m.\n\nDas Gelände wird mehrfach von einem Bach durchquert und ist wellig, mit altem Baumbestand, dem Felsmassiv des Kaisergebirges als Kulisse und mehreren Wasserhindernissen. Manche Fairways sind eng und die Grüns gut verteidigt, daher zählt Präzision mehr als Länge. Es gibt eine Driving Range mit Übungsbereich. Kössen liegt nahe der deutschen Grenze und passt gut zu einem Tag im Kaiserwinkl mit Seen und Wanderwegen. Der Kontrast zu den größeren Plätzen der Region macht die Anfahrt lohnend."
   },
   "tips": {
    "nl": [
@@ -664,7 +670,7 @@
    "en": "Kössen, Kaiserwinkl",
    "de": "Kössen, Kaiserwinkl"
   },
-  "url": "https://www.kitzbueheler-alpen.com/de/kam/so/golf/kaiserwinkl.html",
+  "url": "https://www.golf-koessen.at",
   "faq": [
    {
     "q": {
@@ -690,7 +696,8 @@
      "de": "Donald Harradine; der Platz wurde 1989 eröffnet."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  },
  {
   "id": "g8",
@@ -763,7 +770,7 @@
    "en": "Ellmau, Wilder Kaiser",
    "de": "Ellmau, Wilder Kaiser"
   },
-  "url": "",
+  "url": "https://www.muehlberghof.at",
   "faq": [
    {
     "q": {
@@ -789,6 +796,7 @@
      "de": "Etwa von Mai bis Mitte Oktober; bitte vorab prüfen."
     }
    }
-  ]
+  ],
+  "checked": "2026-10"
  }
 ]
