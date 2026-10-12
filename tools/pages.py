@@ -1025,6 +1025,8 @@ WEBCAM = {
  ],
 }
 def u_webcam(lang): return f"/{PREFIX[lang]}{WEBCAM['slug'][LANGS.index(lang)]}/"
+SKI_SLUGS = {"kaart": {"nl": "skigebied-niederau-kaart", "en": "ski-area-niederau-map", "de": "skigebiet-niederau-karte"}, "verhuur": {"nl": "skiverhuur-niederau", "en": "ski-rental-niederau", "de": "skiverleih-niederau"}}
+SKI_LABELS = {"kaart": {"nl": "Skigebied Niederau: pistekaart en overzicht", "en": "Niederau ski area: piste map and overview", "de": "Skigebiet Niederau: Pistenplan und Überblick"}, "verhuur": {"nl": "Skiverhuur in Niederau, Oberau en Auffach", "en": "Ski rental in Niederau, Oberau and Auffach", "de": "Skiverleih in Niederau, Oberau und Auffach"}}
 def guide_li(gid, lang):
     g = next(x for x in GUIDES if x["id"] == gid)
     return f'<li><a href="{u_guide(g, lang)}">{e(L(g["title"], lang))}</a></li>'
@@ -1040,7 +1042,7 @@ def build_webcam():
         before = "".join(f'<li><a href="{u}" rel="noopener" target="_blank">{e(l[i])}</a></li>' for l, u in WEBCAM["links"])
         faq = [{"q": {"nl": q[0], "en": q[1], "de": q[2]}, "a": {"nl": a[0], "en": a[1], "de": a[2]}} for q, a in WEBCAM["faq"]]
         faq_s, faq_ld = faq_html(faq, lang)
-        rel = f'<li><a href="/{PREFIX[lang]}markbachjoch/">{ui("n_mb", lang)}</a></li>{guide_li("ski-juwel", lang)}{guide_li("veilig-in-de-bergen", lang)}<li><a href="{u_events(lang)}">{ui("n_events", lang)}</a></li>'
+        rel = f'<li><a href="/{PREFIX[lang]}markbachjoch/">{ui("n_mb", lang)}</a></li>{guide_li("ski-juwel", lang)}<li><a href="/{PREFIX[lang]}{SKI_SLUGS["kaart"][lang]}/">{e(SKI_LABELS["kaart"][lang])}</a></li><li><a href="/{PREFIX[lang]}{SKI_SLUGS["verhuur"][lang]}/">{e(SKI_LABELS["verhuur"][lang])}</a></li>{guide_li("veilig-in-de-bergen", lang)}<li><a href="{u_events(lang)}">{ui("n_events", lang)}</a></li>'
         body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(WEBCAM["tagline"][i])}</p><p>{e(WEBCAM["intro"][i])}</p>{gen_one("niederau-skien-markbachjoch", lang, ' data-only="winter"')}{gen_one("niederau-markbachjochbahn-gondel", lang, ' data-only="summer"')}</div></section>
 <section class="alt"><div class="wrap"><h2>{e(WEBCAM["cams_h"][i])}</h2><div class="grid grid-two">{cards}</div></div></section>
 <section><div class="wrap"><h2>{e(WEBCAM["see_h"][i])}</h2><p>{e(WEBCAM["see_p"][i])}</p><h2>{e(WEBCAM["before_h"][i])}</h2><p>{e(WEBCAM["before_p"][i])}</p><ul class="check">{before}</ul><p>{e(WEBCAM["season_p"][i])}</p></div></section>
