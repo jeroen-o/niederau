@@ -16,9 +16,9 @@
   "de": "Wo du alte Fotos und Ansichtskarten von Niederau und der Wildschönau findest."
  },
  "intro": {
-  "nl": "Oude foto’s laten zien hoe Niederau veranderde van afgelegen boerendal in wintersportdorp. Op deze pagina verzamelen we waar je ze kunt vinden. Beelden uit externe archieven tonen we hier niet zelf: je opent ze bij de bron, waar ook de bronvermelding en de gebruiksvoorwaarden staan.",
-  "en": "Old photos show how Niederau changed from a remote farming valley into a winter sports village. This page collects where you can find them. We do not reproduce images from external archives here: you open them at the source, where the credit and the terms of use are also given.",
-  "de": "Alte Fotos zeigen, wie sich Niederau von einem abgelegenen Bauerntal zum Wintersportort entwickelt hat. Auf dieser Seite sammeln wir, wo du sie findest. Bilder aus externen Archiven zeigen wir hier nicht selbst: Du öffnest sie bei der Quelle, wo auch der Bildnachweis und die Nutzungsbedingungen stehen."
+  "nl": "Oude foto’s laten zien hoe Niederau veranderde van afgelegen boerendal in wintersportdorp. Op deze pagina verzamelen we waar je ze kunt vinden. Beelden uit externe archieven tonen we alleen als de licentie dat toestaat, met bronvermelding; anders open je ze bij de bron, waar ook de gebruiksvoorwaarden staan.",
+  "en": "Old photos show how Niederau changed from a remote farming valley into a winter sports village. This page collects where you can find them. We only show images from external archives when the licence allows it, with credit; otherwise you open them at the source, where the terms of use are also given.",
+  "de": "Alte Fotos zeigen, wie sich Niederau von einem abgelegenen Bauerntal zum Wintersportort entwickelt hat. Auf dieser Seite sammeln wir, wo du sie findest. Bilder aus externen Archiven zeigen wir nur, wenn die Lizenz es erlaubt, mit Quellenangabe; andernfalls öffnest du sie bei der Quelle, wo auch die Nutzungsbedingungen stehen."
  },
  "sections": [
   {
@@ -28,9 +28,9 @@
     "de": "Digitales Archiv volare (Vorarlberger Landesbibliothek)"
    },
    "p": {
-    "nl": "Volare is het digitale archief van de Vorarlberger Landesbibliothek. Zoek je daar op ‘Niederau’, dan vind je volgens de zoekresultaten onder meer historische opnamen uit de Wildschönau, bijvoorbeeld uit de collectie Risch-Lau. De voorwaarden verschillen per object: sommige foto’s hebben een vrije licentie, bij andere moet je eerst de gebruiksvoorwaarden accepteren of is de licentie niet vermeld. Lees bij elke foto de bronvermelding en de licentie voordat je een beeld hergebruikt.",
-    "en": "Volare is the digital archive of the Vorarlberg State Library (Vorarlberger Landesbibliothek). If you search it for ‘Niederau’, the search results show, among other things, historic photographs from the Wildschönau, for example from the Risch-Lau collection. The terms differ per item: some photos carry an open licence, for others you must first accept the terms of use or no licence is stated. Read the credit and the licence for each photo before reusing an image.",
-    "de": "Volare ist das digitale Archiv der Vorarlberger Landesbibliothek. Wer dort nach ‚Niederau‘ sucht, findet laut den Suchergebnissen unter anderem historische Aufnahmen aus der Wildschönau, etwa aus der Sammlung Risch-Lau. Die Bedingungen unterscheiden sich je Objekt: Manche Fotos haben eine freie Lizenz, bei anderen müssen zuerst die Nutzungsbedingungen akzeptiert werden oder die Lizenz ist nicht angegeben. Lies bei jedem Foto Bildnachweis und Lizenz, bevor du ein Bild weiterverwendest."
+    "nl": "Volare is het digitale archief van de Vorarlberger Landesbibliothek. Zoek je daar op ‘Niederau’, dan vind je volgens de zoekresultaten onder meer historische opnamen uit de Wildschönau, bijvoorbeeld uit de collectie Risch-Lau. De voorwaarden verschillen per object: sommige foto’s hebben een vrije licentie, bij andere moet je eerst de gebruiksvoorwaarden accepteren of is de licentie niet vermeld. Lees bij elke foto de bronvermelding en de licentie voordat je een beeld hergebruikt. Een voorbeeld met vrije licentie staat hierboven.",
+    "en": "Volare is the digital archive of the Vorarlberg State Library (Vorarlberger Landesbibliothek). If you search it for ‘Niederau’, the search results show, among other things, historic photographs from the Wildschönau, for example from the Risch-Lau collection. The terms differ per item: some photos carry an open licence, for others you must first accept the terms of use or no licence is stated. Read the credit and the licence for each photo before reusing an image. An example with an open licence is shown above.",
+    "de": "Volare ist das digitale Archiv der Vorarlberger Landesbibliothek. Wer dort nach ‚Niederau‘ sucht, findet laut den Suchergebnissen unter anderem historische Aufnahmen aus der Wildschönau, etwa aus der Sammlung Risch-Lau. Die Bedingungen unterscheiden sich je Objekt: Manche Fotos haben eine freie Lizenz, bei anderen müssen zuerst die Nutzungsbedingungen akzeptiert werden oder die Lizenz ist nicht angegeben. Lies bei jedem Foto Bildnachweis und Lizenz, bevor du ein Bild weiterverwendest. Ein Beispiel mit freier Lizenz ist oben zu sehen."
    },
    "list": [
     {
@@ -107,6 +107,32 @@
     "nl": "Markbachjoch: gondel, hutten en geschiedenis",
     "en": "Markbachjoch: gondola, huts and history",
     "de": "Markbachjoch: Gondel, Hütten und Geschichte"
+   }
+  }
+ ],
+ "photos": [
+  {
+   "file": "niederau-historisch-ansichtkaart-1968-risch-lau",
+   "w": 762,
+   "h": 444,
+   "alt": {
+    "nl": "Zwart-witte ansichtkaart ‘Niederau – Wildschönau’ met vijf winteropnamen: het dorp in het dal, een berghuis op een besneeuwde helling, een stoeltjeslift, de kerk en een uitzicht over het dal",
+    "en": "Black-and-white postcard ‘Niederau – Wildschönau’ with five winter views: the village in the valley, a mountain house on a snowy slope, a chairlift, the church and a view over the valley",
+    "de": "Schwarz-Weiß-Ansichtskarte ‚Niederau – Wildschönau‘ mit fünf Winteransichten: das Dorf im Tal, ein Berghaus am verschneiten Hang, ein Sessellift, die Kirche und ein Blick über das Tal"
+   },
+   "cap": {
+    "nl": "Ansichtkaart ‘Niederau – Wildschönau’, 1968. Foto: Sammlung Risch-Lau, Vorarlberger Landesbibliothek (volare), licentie",
+    "en": "Postcard ‘Niederau – Wildschönau’, 1968. Photo: Sammlung Risch-Lau, Vorarlberger Landesbibliothek (volare), licence",
+    "de": "Ansichtskarte ‚Niederau – Wildschönau‘, 1968. Foto: Sammlung Risch-Lau, Vorarlberger Landesbibliothek (volare), Lizenz"
+   },
+   "lic": "CC BY 4.0",
+   "lic_url": "https://creativecommons.org/licenses/by/4.0/deed.nl",
+   "lic_url_en": "https://creativecommons.org/licenses/by/4.0/",
+   "lic_url_de": "https://creativecommons.org/licenses/by/4.0/deed.de",
+   "note": {
+    "nl": "Uitsnede van een schermafbeelding van de scan; verder niet bewerkt.",
+    "en": "Cropped from a screen image of the scan; otherwise unaltered.",
+    "de": "Ausschnitt aus einem Bildschirmfoto des Scans; ansonsten unverändert."
    }
   }
  ]
