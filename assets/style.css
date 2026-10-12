@@ -180,6 +180,8 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 .site-footer .lang { display: inline-flex; margin-left: 0; }
 .site-footer .lang a { color: #4f4f4f; background: #fff; }
 .site-footer .lang a[aria-current="true"] { color: var(--accent); }
+.legal { grid-column: 1 / -1; font-size: .9rem; margin: 0; }
+.legal a { color: inherit; text-decoration: underline; }
 .copyright { grid-column: 1 / -1; border-top: 1px solid rgba(255,255,255,.12); padding-top: 18px; font-size: .82rem; }
 
 
