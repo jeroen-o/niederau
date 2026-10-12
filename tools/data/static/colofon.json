@@ -1,0 +1,101 @@
+{
+ "id": "colofon",
+ "slug": {
+  "nl": "colofon",
+  "en": "legal-notice",
+  "de": "impressum"
+ },
+ "title": {
+  "nl": "Colofon en contact",
+  "en": "Legal notice and contact",
+  "de": "Impressum und Kontakt"
+ },
+ "tagline": {
+  "nl": "Wie er achter Niederau.nl zit en hoe je contact opneemt.",
+  "en": "Who is behind Niederau.nl and how to get in touch.",
+  "de": "Wer hinter Niederau.nl steht und wie du Kontakt aufnimmst."
+ },
+ "intro": {
+  "nl": "Niederau.nl is een persoonlijke, onafhankelijke gids over Niederau en de Wildschönau in Tirol. Hieronder staan de gegevens van de verantwoordelijke voor deze website.",
+  "en": "Niederau.nl is a personal, independent guide to Niederau and the Wildschönau in Tyrol. Below are the details of the person responsible for this website.",
+  "de": "Niederau.nl ist ein persönlicher, unabhängiger Reiseführer über Niederau und die Wildschönau in Tirol. Nachfolgend stehen die Angaben der für diese Website verantwortlichen Person."
+ },
+ "sections": [
+  {
+   "h": {
+    "nl": "Verantwoordelijke",
+    "en": "Responsible person",
+    "de": "Verantwortlicher"
+   },
+   "p": {
+    "nl": "Jeroen Oversteegen\nDarthuizerberg 1\n3825 BK Amersfoort\nNederland\n\nE-mail: jeroen@oversteegen.nl",
+    "en": "Jeroen Oversteegen\nDarthuizerberg 1\n3825 BK Amersfoort\nThe Netherlands\n\nEmail: jeroen@oversteegen.nl",
+    "de": "Jeroen Oversteegen\nDarthuizerberg 1\n3825 BK Amersfoort\nNiederlande\n\nE-Mail: jeroen@oversteegen.nl"
+   }
+  },
+  {
+   "h": {
+    "nl": "Aard van deze website",
+    "en": "About this website",
+    "de": "Zum Charakter dieser Website"
+   },
+   "p": {
+    "nl": "Deze website is een persoonlijk initiatief en geen officiële informatiebron van een toeristische organisatie, gemeente of liftmaatschappij. Hotel Wastlhof in Niederau is partner van de site. Dat is een persoonlijke aanbeveling; er wordt geen vergoeding betaald of ontvangen.\n\nDe informatie is indicatief en samengesteld uit bronnen die we betrouwbaar achten. Tijden, prijzen en openingsdata veranderen: controleer ze altijd bij de aanbieder. Aan de inhoud kunnen geen rechten worden ontleend.",
+    "en": "This website is a personal initiative and not an official information source of a tourist board, municipality or lift company. Hotel Wastlhof in Niederau is a partner of the site. This is a personal recommendation; no fee is paid or received.\n\nThe information is indicative and compiled from sources we consider reliable. Times, prices and opening dates change: always check them with the provider. No rights can be derived from the content.",
+    "de": "Diese Website ist eine persönliche Initiative und keine offizielle Informationsquelle eines Tourismusverbands, einer Gemeinde oder einer Bergbahn. Das Hotel Wastlhof in Niederau ist Partner der Seite. Das ist eine persönliche Empfehlung; es wird keine Vergütung gezahlt oder erhalten.\n\nDie Informationen sind unverbindlich und aus Quellen zusammengestellt, die wir für verlässlich halten. Zeiten, Preise und Öffnungsdaten ändern sich: Bitte immer beim Anbieter prüfen. Aus dem Inhalt können keine Rechte abgeleitet werden."
+   }
+  },
+  {
+   "h": {
+    "nl": "Teksten, foto’s en vertalingen",
+    "en": "Texts, photos and translations",
+    "de": "Texte, Fotos und Übersetzungen"
+   },
+   "p": {
+    "nl": "De teksten zijn zelf geschreven. De bronvermelding van de foto’s staat onderaan elke pagina; een deel zijn eigen foto’s. Historische foto’s komen uit de Facebookgroep ‘Kufstein in alten Bildern’ en zijn met bronvermelding opgenomen. Heb je bezwaar tegen een foto of tekst, mail dan; de inhoud wordt dan zo snel mogelijk aangepast of verwijderd.\n\nDe Nederlandse, Engelse en Duitse versie zijn door de eigenaar samengesteld. De Franse en Poolse versie zijn machinaal vertaald uit het Engels en niet door moedertaalsprekers nagelezen; er kunnen fouten in staan. Bij verschillen geldt de Nederlandse tekst.",
+    "en": "The texts are written by the owner. Photo credits appear at the bottom of each page; some are the owner’s own photos. Historical photos come from the Facebook group ‘Kufstein in alten Bildern’ and are included with credit. If you object to a photo or text, please email; the content will be adjusted or removed as soon as possible.\n\nThe Dutch, English and German versions were prepared by the owner. The French and Polish versions are machine-translated from English and have not been checked by native speakers; they may contain errors. In case of differences, the Dutch text prevails.",
+    "de": "Die Texte sind selbst verfasst. Die Bildnachweise stehen am Ende jeder Seite; ein Teil sind eigene Fotos. Historische Fotos stammen aus der Facebook-Gruppe ‚Kufstein in alten Bildern‘ und sind mit Quellenangabe aufgenommen. Wenn du gegen ein Foto oder einen Text Einwände hast, schreib bitte eine E-Mail; der Inhalt wird dann so schnell wie möglich angepasst oder entfernt.\n\nDie niederländische, englische und deutsche Fassung wurden vom Betreiber erstellt. Die französische und polnische Fassung sind maschinell aus dem Englischen übersetzt und nicht von Muttersprachlern geprüft; sie können Fehler enthalten. Bei Abweichungen gilt der niederländische Text."
+   }
+  },
+  {
+   "h": {
+    "nl": "Links naar andere websites",
+    "en": "Links to other websites",
+    "de": "Links zu anderen Websites"
+   },
+   "p": {
+    "nl": "Deze site verwijst naar websites van derden, zoals toeristische organisaties, liftmaatschappijen en aanbieders. Voor de inhoud en het privacybeleid van die sites ben ik niet verantwoordelijk.",
+    "en": "This site links to third-party websites, such as tourist boards, lift companies and providers. I am not responsible for the content or the privacy policy of those sites.",
+    "de": "Diese Seite verweist auf Websites Dritter, etwa Tourismusverbände, Bergbahnen und Anbieter. Für Inhalt und Datenschutz dieser Seiten bin ich nicht verantwortlich."
+   }
+  }
+ ],
+ "related": [
+  {
+   "type": "page",
+   "path": {
+    "nl": "privacyverklaring/",
+    "en": "privacy-policy/",
+    "de": "datenschutz/"
+   },
+   "label": {
+    "nl": "Privacyverklaring",
+    "en": "Privacy policy",
+    "de": "Datenschutzerklärung"
+   }
+  },
+  {
+   "type": "page",
+   "path": {
+    "nl": "over/",
+    "en": "about/",
+    "de": "ueber-uns/"
+   },
+   "label": {
+    "nl": "Over deze site",
+    "en": "About this site",
+    "de": "Über diese Seite"
+   }
+  }
+ ]
+}

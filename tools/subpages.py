@@ -179,6 +179,8 @@ def main_nav(lang):
 
 
 ABOUT_URL = {"nl": "/over/", "en": "/en/about/", "de": "/de/ueber-uns/"}
+LEGAL_URL = {"nl": ("/colofon/", "/privacyverklaring/"), "en": ("/en/legal-notice/", "/en/privacy-policy/"), "de": ("/de/impressum/", "/de/datenschutz/")}
+LEGAL_LBL = {"nl": ("Colofon", "Privacyverklaring"), "en": ("Legal notice", "Privacy policy"), "de": ("Impressum", "Datenschutz")}
 WEBCAM_URL = {"nl": "/webcam/", "en": "/en/webcam/", "de": "/de/webcam/"}
 
 def render(lang):
@@ -412,6 +414,7 @@ def render(lang):
     </div>
     <p class="credits">{g("credits")}</p>
     <p class="updated">{g("updated")}: <time datetime="@@LASTMOD@@">@@LASTMOD_H@@</time></p>
+    <p class="legal"><a href="{LEGAL_URL[lang][0]}">{LEGAL_LBL[lang][0]}</a> · <a href="{LEGAL_URL[lang][1]}">{LEGAL_LBL[lang][1]}</a></p>
     <p class="copyright">© <span data-year>{TODAY[:4]}</span> Niederau.nl · {g("copy")}</p>
   </div>
 </footer>

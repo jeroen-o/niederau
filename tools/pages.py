@@ -31,7 +31,7 @@ UI = {
  "events_h": ("Terugkerende evenementen", "Recurring events", "Wiederkehrende Veranstaltungen"),
  "guides_h": ("Handige gidsen", "Useful guides", "Hilfreiche Ratgeber"),
  "n_photos": ("Foto’s", "Photos", "Fotos"),
- "n_webcam": ("Webcam", "Webcam", "Webcam"),
+ "n_webcam": ("Webcam", "Webcam", "Webcam"), "n_legal": ("Colofon", "Legal notice", "Impressum"), "n_privacy": ("Privacyverklaring", "Privacy policy", "Datenschutz"),
  "n_about": ("Over deze site", "About this site", "Über diese Seite"),
  "n_guides": ("Gidsen", "Guides", "Ratgeber"),
  "read_more": ("Lees meer", "Read more", "Mehr lesen"),
@@ -415,6 +415,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
     </div>
     <p class="credits">{ui("credits", lang)}</p>
     <p class="updated">{ui("updated", lang)}: <time datetime="@@LASTMOD@@">@@LASTMOD_H@@</time></p>
+    <p class="legal"><a href="/{PREFIX[lang]}{LEGAL_SLUG[0][LANGS.index(lang)]}/">{ui("n_legal", lang)}</a> · <a href="/{PREFIX[lang]}{LEGAL_SLUG[1][LANGS.index(lang)]}/">{ui("n_privacy", lang)}</a></p>
     <p class="copyright">© <span data-year>{TODAY[:4]}</span> Niederau.nl · {ui("copy", lang)}</p>
   </div>
 </footer>
@@ -1025,6 +1026,7 @@ WEBCAM = {
     "Live-Bilder stammen von den Anbietern; weil wir sie nicht einbetten, bleibt diese Seite schnell und es werden keine Besucherdaten an Dritte weitergegeben. Du öffnest das Bild in einem neuen Tab beim Anbieter.")),
  ],
 }
+LEGAL_SLUG = (("colofon", "legal-notice", "impressum"), ("privacyverklaring", "privacy-policy", "datenschutz"))
 def u_webcam(lang): return f"/{PREFIX[lang]}{WEBCAM['slug'][LANGS.index(lang)]}/"
 SKI_SLUGS = {"kaart": {"nl": "skigebied-niederau-kaart", "en": "ski-area-niederau-map", "de": "skigebiet-niederau-karte"}, "verhuur": {"nl": "skiverhuur-niederau", "en": "ski-rental-niederau", "de": "skiverleih-niederau"}}
 SKI_LABELS = {"kaart": {"nl": "Skigebied Niederau: pistekaart en overzicht", "en": "Niederau ski area: piste map and overview", "de": "Skigebiet Niederau: Pistenplan und Überblick"}, "verhuur": {"nl": "Skiverhuur in Niederau, Oberau en Auffach", "en": "Ski rental in Niederau, Oberau and Auffach", "de": "Skiverleih in Niederau, Oberau und Auffach"}}
@@ -1057,7 +1059,7 @@ def build_webcam():
 
 # ---------- algemene infopagina's uit tools/data/static/*.json ----------
 def _t(d, lang): return d.get(lang) or d.get("nl") or ""
-def _paras(txt): return "".join(f"<p>{e(x)}</p>" for x in txt.split("\n\n") if x.strip())
+def _paras(txt): return "".join(f"<p>{e(x).replace(chr(10), '<br>')}</p>" for x in txt.split("\n\n") if x.strip())
 def build_static():
     for f in sorted((DATA / "static").glob("*.json")):
         d = json.load(open(f, encoding="utf-8"))

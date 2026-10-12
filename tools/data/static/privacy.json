@@ -1,0 +1,112 @@
+{
+ "id": "privacy",
+ "slug": {
+  "nl": "privacyverklaring",
+  "en": "privacy-policy",
+  "de": "datenschutz"
+ },
+ "title": {
+  "nl": "Privacyverklaring",
+  "en": "Privacy policy",
+  "de": "Datenschutzerklärung"
+ },
+ "tagline": {
+  "nl": "Welke gegevens deze website verwerkt: heel weinig.",
+  "en": "What data this website processes: very little.",
+  "de": "Welche Daten diese Website verarbeitet: sehr wenige."
+ },
+ "intro": {
+  "nl": "Niederau.nl is gemaakt zonder tracking. Er worden geen cookies geplaatst, er is geen analysesoftware en er zijn geen advertentienetwerken. Hieronder staat precies wat er wel gebeurt.",
+  "en": "Niederau.nl is built without tracking. No cookies are set, there is no analytics software and no advertising networks. Below is exactly what does happen.",
+  "de": "Niederau.nl wurde ohne Tracking gebaut. Es werden keine Cookies gesetzt, es gibt keine Analysesoftware und keine Werbenetzwerke. Nachfolgend steht genau, was tatsächlich geschieht."
+ },
+ "sections": [
+  {
+   "h": {
+    "nl": "Wie is verantwoordelijk?",
+    "en": "Who is responsible?",
+    "de": "Wer ist verantwortlich?"
+   },
+   "p": {
+    "nl": "Jeroen Oversteegen, Darthuizerberg 1, 3825 BK Amersfoort, Nederland. E-mail: jeroen@oversteegen.nl. Zie ook het colofon.",
+    "en": "Jeroen Oversteegen, Darthuizerberg 1, 3825 BK Amersfoort, The Netherlands. Email: jeroen@oversteegen.nl. See also the legal notice.",
+    "de": "Jeroen Oversteegen, Darthuizerberg 1, 3825 BK Amersfoort, Niederlande. E-Mail: jeroen@oversteegen.nl. Siehe auch das Impressum."
+   }
+  },
+  {
+   "h": {
+    "nl": "Bezoek aan de website",
+    "en": "Visiting the website",
+    "de": "Besuch der Website"
+   },
+   "p": {
+    "nl": "De website gebruikt geen cookies en slaat niets op in je browser. Er worden geen externe lettertypen, scripts, kaarten of video’s geladen. Zoeken op de site gebeurt volledig in je eigen browser; zoektermen worden niet verstuurd of opgeslagen.\n\nDe pagina’s worden uitgeleverd via GitHub Pages (GitHub, Inc., Verenigde Staten). Daarbij kan de hostingpartij technische gegevens zoals je IP-adres verwerken om de pagina te leveren en misbruik te voorkomen. Ik heb daar zelf geen toegang toe en gebruik die gegevens niet. Zie de privacyverklaring van GitHub voor details.",
+    "en": "The website uses no cookies and stores nothing in your browser. No external fonts, scripts, maps or videos are loaded. Searching the site happens entirely in your own browser; search terms are not sent or stored.\n\nThe pages are delivered through GitHub Pages (GitHub, Inc., United States). In doing so, the hosting provider may process technical data such as your IP address to deliver the page and prevent abuse. I have no access to this data and do not use it. See GitHub’s privacy statement for details.",
+    "de": "Die Website verwendet keine Cookies und speichert nichts in deinem Browser. Es werden keine externen Schriftarten, Skripte, Karten oder Videos geladen. Die Suche auf der Seite läuft vollständig in deinem eigenen Browser; Suchbegriffe werden weder gesendet noch gespeichert.\n\nDie Seiten werden über GitHub Pages (GitHub, Inc., USA) ausgeliefert. Dabei kann der Hosting-Anbieter technische Daten wie deine IP-Adresse verarbeiten, um die Seite auszuliefern und Missbrauch zu verhindern. Darauf habe ich keinen Zugriff und nutze diese Daten nicht. Einzelheiten stehen in der Datenschutzerklärung von GitHub."
+   }
+  },
+  {
+   "h": {
+    "nl": "Contact per e-mail",
+    "en": "Contact by email",
+    "de": "Kontakt per E-Mail"
+   },
+   "p": {
+    "nl": "Als je mij mailt, gebruik ik je e-mailadres en je bericht alleen om te antwoorden. Grondslag is mijn gerechtvaardigd belang om vragen te beantwoorden (art. 6 lid 1 sub f AVG). Ik bewaar de e-mail niet langer dan nodig en geef die niet door aan derden.",
+    "en": "If you email me, I use your email address and message only to reply. The legal basis is my legitimate interest in answering questions (Art. 6(1)(f) GDPR). I keep the email no longer than necessary and do not pass it on to third parties.",
+    "de": "Wenn du mir schreibst, nutze ich deine E-Mail-Adresse und deine Nachricht nur, um zu antworten. Rechtsgrundlage ist mein berechtigtes Interesse an der Beantwortung von Anfragen (Art. 6 Abs. 1 lit. f DSGVO). Ich speichere die E-Mail nicht länger als nötig und gebe sie nicht an Dritte weiter."
+   }
+  },
+  {
+   "h": {
+    "nl": "Links naar andere websites",
+    "en": "Links to other websites",
+    "de": "Links zu anderen Websites"
+   },
+   "p": {
+    "nl": "Als je op een link naar een andere website klikt, geldt het privacybeleid van die website. Daarop heb ik geen invloed.",
+    "en": "If you click a link to another website, that website’s privacy policy applies. I have no influence over it.",
+    "de": "Wenn du einen Link zu einer anderen Website anklickst, gilt deren Datenschutzerklärung. Darauf habe ich keinen Einfluss."
+   }
+  },
+  {
+   "h": {
+    "nl": "Jouw rechten",
+    "en": "Your rights",
+    "de": "Deine Rechte"
+   },
+   "p": {
+    "nl": "Je hebt het recht op inzage, rectificatie, verwijdering, beperking van de verwerking, bezwaar en gegevensoverdracht van je persoonsgegevens. Mail daarvoor naar jeroen@oversteegen.nl. Ben je het niet eens met hoe ik met je gegevens omga, dan kun je een klacht indienen bij de Autoriteit Persoonsgegevens (autoriteitpersoonsgegevens.nl).",
+    "en": "You have the right to access, rectify, erase, restrict, object to and port your personal data. Email jeroen@oversteegen.nl for this. If you disagree with how I handle your data, you can lodge a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens, autoriteitpersoonsgegevens.nl).",
+    "de": "Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch und Datenübertragbarkeit deiner personenbezogenen Daten. Schreib dazu an jeroen@oversteegen.nl. Bist du mit meinem Umgang mit deinen Daten nicht einverstanden, kannst du dich bei der niederländischen Datenschutzbehörde (Autoriteit Persoonsgegevens, autoriteitpersoonsgegevens.nl) beschweren."
+   }
+  },
+  {
+   "h": {
+    "nl": "Wijzigingen",
+    "en": "Changes",
+    "de": "Änderungen"
+   },
+   "p": {
+    "nl": "Als de website verandert, bijvoorbeeld door het toevoegen van een nieuwe dienst, pas ik deze verklaring aan. De datum van de laatste wijziging staat onderaan de pagina.",
+    "en": "If the website changes, for example by adding a new service, I will update this statement. The date of the last change is at the bottom of the page.",
+    "de": "Wenn sich die Website ändert, etwa durch einen neuen Dienst, passe ich diese Erklärung an. Das Datum der letzten Änderung steht am Seitenende."
+   }
+  }
+ ],
+ "related": [
+  {
+   "type": "page",
+   "path": {
+    "nl": "colofon/",
+    "en": "legal-notice/",
+    "de": "impressum/"
+   },
+   "label": {
+    "nl": "Colofon en contact",
+    "en": "Legal notice and contact",
+    "de": "Impressum und Kontakt"
+   }
+  }
+ ]
+}
