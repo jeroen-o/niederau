@@ -1,0 +1,113 @@
+{
+ "id": "historische-fotos",
+ "slug": {
+  "nl": "historische-fotos-niederau",
+  "en": "historic-photos-niederau",
+  "de": "historische-fotos-niederau"
+ },
+ "title": {
+  "nl": "Historische foto’s van Niederau: archieven en bronnen",
+  "en": "Historic photos of Niederau: archives and sources",
+  "de": "Historische Fotos von Niederau: Archive und Quellen"
+ },
+ "tagline": {
+  "nl": "Waar je oude foto’s en ansichtkaarten van Niederau en de Wildschönau kunt bekijken.",
+  "en": "Where to find old photos and postcards of Niederau and the Wildschönau.",
+  "de": "Wo du alte Fotos und Ansichtskarten von Niederau und der Wildschönau findest."
+ },
+ "intro": {
+  "nl": "Oude foto’s laten zien hoe Niederau veranderde van afgelegen boerendal in wintersportdorp. Op deze pagina verzamelen we waar je ze kunt vinden. Beelden uit externe archieven tonen we hier niet zelf: je opent ze bij de bron, waar ook de bronvermelding en de gebruiksvoorwaarden staan.",
+  "en": "Old photos show how Niederau changed from a remote farming valley into a winter sports village. This page collects where you can find them. We do not reproduce images from external archives here: you open them at the source, where the credit and the terms of use are also given.",
+  "de": "Alte Fotos zeigen, wie sich Niederau von einem abgelegenen Bauerntal zum Wintersportort entwickelt hat. Auf dieser Seite sammeln wir, wo du sie findest. Bilder aus externen Archiven zeigen wir hier nicht selbst: Du öffnest sie bei der Quelle, wo auch der Bildnachweis und die Nutzungsbedingungen stehen."
+ },
+ "sections": [
+  {
+   "h": {
+    "nl": "Digitaal archief volare (Vorarlberger Landesbibliothek)",
+    "en": "Digital archive volare (Vorarlberg State Library)",
+    "de": "Digitales Archiv volare (Vorarlberger Landesbibliothek)"
+   },
+   "p": {
+    "nl": "Volare is het digitale archief van de Vorarlberger Landesbibliothek. Zoek je daar op ‘Niederau’, dan vind je volgens de zoekresultaten onder meer historische opnamen uit de Wildschönau, bijvoorbeeld uit de collectie Risch-Lau. De voorwaarden verschillen per object: sommige foto’s hebben een vrije licentie, bij andere moet je eerst de gebruiksvoorwaarden accepteren of is de licentie niet vermeld. Lees bij elke foto de bronvermelding en de licentie voordat je een beeld hergebruikt.",
+    "en": "Volare is the digital archive of the Vorarlberg State Library (Vorarlberger Landesbibliothek). If you search it for ‘Niederau’, the search results show, among other things, historic photographs from the Wildschönau, for example from the Risch-Lau collection. The terms differ per item: some photos carry an open licence, for others you must first accept the terms of use or no licence is stated. Read the credit and the licence for each photo before reusing an image.",
+    "de": "Volare ist das digitale Archiv der Vorarlberger Landesbibliothek. Wer dort nach ‚Niederau‘ sucht, findet laut den Suchergebnissen unter anderem historische Aufnahmen aus der Wildschönau, etwa aus der Sammlung Risch-Lau. Die Bedingungen unterscheiden sich je Objekt: Manche Fotos haben eine freie Lizenz, bei anderen müssen zuerst die Nutzungsbedingungen akzeptiert werden oder die Lizenz ist nicht angegeben. Lies bei jedem Foto Bildnachweis und Lizenz, bevor du ein Bild weiterverwendest."
+   },
+   "list": [
+    {
+     "t": {
+      "nl": "Volare: zoekresultaten voor ‘Niederau’",
+      "en": "Volare: search results for ‘Niederau’",
+      "de": "Volare: Suchergebnisse für ‚Niederau‘"
+     },
+     "u": "https://pid.volare.vorarlberg.at/suche/?q=Niederau"
+    }
+   ]
+  },
+  {
+   "h": {
+    "nl": "Facebookgroep ‘Kufstein in alten Bildern’",
+    "en": "Facebook group ‘Kufstein in alten Bildern’",
+    "de": "Facebook-Gruppe ‚Kufstein in alten Bildern‘"
+   },
+   "p": {
+    "nl": "In deze groep delen leden oude foto’s en ansichtkaarten uit Kufstein en omgeving, ook van Niederau en de Wildschönau. Enkele beelden daaruit gebruiken we op deze site, met bronvermelding.",
+    "en": "In this group, members share old photos and postcards from Kufstein and the surrounding area, including Niederau and the Wildschönau. We use a few images from it on this site, with credit.",
+    "de": "In dieser Gruppe teilen Mitglieder alte Fotos und Ansichtskarten aus Kufstein und Umgebung, auch von Niederau und der Wildschönau. Einige Bilder daraus verwenden wir auf dieser Seite, mit Quellenangabe."
+   },
+   "list": [
+    {
+     "t": {
+      "nl": "Zoek in de groep op ‘Niederau’",
+      "en": "Search the group for ‘Niederau’",
+      "de": "In der Gruppe nach ‚Niederau‘ suchen"
+     },
+     "u": "https://www.facebook.com/groups/303360183680431/search/?q=niederau"
+    }
+   ]
+  },
+  {
+   "h": {
+    "nl": "Historische foto’s op deze site",
+    "en": "Historic photos on this site",
+    "de": "Historische Fotos auf dieser Seite"
+   },
+   "p": {
+    "nl": "Een selectie oude foto’s van het dorp, de liften en het Markbachjoch vind je bij de geschiedenis van het Markbachjoch en op de pagina’s over de dorpen in de Wildschönau.",
+    "en": "You will find a selection of old photos of the village, the lifts and the Markbachjoch in the history section of the Markbachjoch page and on the pages about the villages of the Wildschönau.",
+    "de": "Eine Auswahl alter Fotos des Ortes, der Lifte und des Markbachjochs findest du im Geschichtsteil der Markbachjoch-Seite und auf den Seiten zu den Orten der Wildschönau."
+   }
+  },
+  {
+   "h": {
+    "nl": "Foto’s delen of een fout melden",
+    "en": "Share photos or report a mistake",
+    "de": "Fotos teilen oder einen Fehler melden"
+   },
+   "p": {
+    "nl": "Heb je zelf oude foto’s van Niederau en wil je die delen, of zie je een fout in een bijschrift? Mail naar jeroen@oversteegen.nl. Stuur foto’s alleen als je de rechten hebt en alle herkenbare personen ermee akkoord zijn.",
+    "en": "Do you have old photos of Niederau of your own that you would like to share, or do you spot a mistake in a caption? Email jeroen@oversteegen.nl. Only send photos if you hold the rights and all recognisable people agree.",
+    "de": "Hast du selbst alte Fotos von Niederau und möchtest sie teilen, oder siehst du einen Fehler in einer Bildunterschrift? Schreib an jeroen@oversteegen.nl. Schicke Fotos nur, wenn du die Rechte hast und alle erkennbaren Personen einverstanden sind."
+   },
+   "note": {
+    "nl": "Links gaan naar externe websites; voor de inhoud daarvan zijn wij niet verantwoordelijk.",
+    "en": "Links lead to external websites; we are not responsible for their content.",
+    "de": "Die Links führen zu externen Websites; für deren Inhalt sind wir nicht verantwortlich."
+   }
+  }
+ ],
+ "related": [
+  {
+   "type": "page",
+   "path": {
+    "nl": "markbachjoch/#geschiedenis",
+    "en": "markbachjoch/#geschiedenis",
+    "de": "markbachjoch/#geschiedenis"
+   },
+   "label": {
+    "nl": "Markbachjoch: gondel, hutten en geschiedenis",
+    "en": "Markbachjoch: gondola, huts and history",
+    "de": "Markbachjoch: Gondel, Hütten und Geschichte"
+   }
+  }
+ ]
+}

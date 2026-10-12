@@ -807,6 +807,9 @@ T['de'] += [(a, c) for a, b, c in LEGAL_PAIRS]
 STORY_PAIRS = [('          <a class="btn ghost" href="familieverhaal-wastlhof/">Ons familieverhaal</a>', '          <a class="btn ghost" href="family-story-wastlhof/">Our family story</a>', '          <a class="btn ghost" href="familiengeschichte-wastlhof/">Unsere Familiengeschichte</a>')]
 T['en'] += [(a, b) for a, b, c in STORY_PAIRS]
 T['de'] += [(a, c) for a, b, c in STORY_PAIRS]
+HISTFOTO_PAIRS = [('      <p><a href="historische-fotos-niederau/">Historische foto’s: archieven en bronnen →</a></p>', '      <p><a href="historic-photos-niederau/">Historic photos: archives and sources →</a></p>', '      <p><a href="historische-fotos-niederau/">Historische Fotos: Archive und Quellen →</a></p>')]
+T['en'] += [(a, b) for a, b, c in HISTFOTO_PAIRS]
+T['de'] += [(a, c) for a, b, c in HISTFOTO_PAIRS]
 ok = True
 for lang in ("en", "de"):
     html = src
