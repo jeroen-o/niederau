@@ -1,0 +1,560 @@
+[
+ {
+  "id": "h16",
+  "new": true,
+  "theme": "hutten",
+  "season": "both",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "connys-tiroler-wirtshaus-inneralpbach",
+  "slug_de": "connys-tiroler-wirtshaus-inneralpbach",
+  "title": {
+   "nl": "Conny's Tiroler Wirtshaus",
+   "en": "Conny's Tiroler Wirtshaus",
+   "de": "Conny's Tiroler Wirtshaus"
+  },
+  "tagline": {
+   "nl": "Tiroolse herberg in het hart van Inneralpbach",
+   "en": "A Tyrolean inn in the heart of Inneralpbach",
+   "de": "Tiroler Wirtshaus mitten in Inneralpbach"
+  },
+  "intro": {
+   "nl": "Ski Juwel vermeldt Conny's bij de eetgelegenheden van Inneralpbach, het achterste deel van het Alpbachtal. Het is geen berghut op de piste maar een herberg in het dorp, een paar minuten lopen van de liften naar de Wiedersberger Horn. Volgens de officiële beschrijving draait de keuken om streekproducten en gerechten in Tiroolse stijl.\n\nVoor gezinnen is vooral het zonneterras met kinderspeelplaats praktisch: de kinderen kunnen zich vermaken terwijl jullie nog napraten. Conny's biedt ook overnachtingen en zaalruimte voor groepen. Zie het als een adres voor na de skidag of na een wandeling door het dal, minder als pauzeplek halverwege de piste.",
+   "en": "Conny's is listed by Ski Juwel among the places to eat in Inneralpbach, the innermost part of the Alpbach valley. It is not a mountain hut on the slopes but an inn in the village, a few minutes' walk from the lifts up to the Wiedersberger Horn. According to the official description, the kitchen works with regional produce and Tyrolean-style dishes.\n\nFor families the sunny terrace with a children's playground is the practical bit: the little ones can play while the adults linger over the table. Conny's also has rooms and space for groups. Think of it as a choice for after a ski day or a valley walk rather than a stop halfway down the piste.",
+   "de": "Conny's wird von Ski Juwel unter den Einkehrmöglichkeiten in Inneralpbach geführt, dem hintersten Teil des Alpbachtals. Es ist keine Berghütte an der Piste, sondern ein Wirtshaus im Ort, wenige Gehminuten von den Bahnen zum Wiedersberger Horn entfernt. Laut offizieller Beschreibung steht regionale Küche im Tiroler Stil im Mittelpunkt.\n\nFür Familien ist vor allem die Sonnenterrasse mit Kinderspielplatz praktisch: Die Kleinen können spielen, während die Erwachsenen noch sitzen bleiben. Conny's bietet auch Zimmer und Platz für Gruppen. Am besten passt es nach dem Skitag oder einem Spaziergang im Tal, weniger als Pause mitten auf der Piste."
+  },
+  "tips": {
+   "nl": [
+    "Neem de kinderen mee naar het terras: de speelplaats ligt erbij.",
+    "Wil je met een groep komen, vraag dan vooraf naar de zaalruimte.",
+    "Combineer het bezoek met een wandeling door het dal van Inneralpbach."
+   ],
+   "en": [
+    "Bring the children to the terrace: the playground is right there.",
+    "If you come as a group, ask about the function space beforehand.",
+    "Combine a visit with a walk through the Inneralpbach valley."
+   ],
+   "de": [
+    "Nehmt die Kinder mit auf die Terrasse: Der Spielplatz liegt gleich daneben.",
+    "Kommt ihr als Gruppe, fragt vorab nach den Räumlichkeiten.",
+    "Verbindet den Besuch mit einem Spaziergang durch das Tal von Inneralpbach."
+   ]
+  },
+  "practical": {
+   "nl": "Je bereikt Conny's met de auto of de skibus in het centrum van Inneralpbach. Informeer bij de herberg zelf of via de officiële site voor actuele informatie.",
+   "en": "You can reach Conny's by car or ski bus in the centre of Inneralpbach. For current information, ask the inn directly or check the official site.",
+   "de": "Conny's erreicht ihr mit Auto oder Skibus im Zentrum von Inneralpbach. Aktuelle Informationen gibt es direkt beim Haus oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "In Inneralpbach, aan de Alpbachtal-kant van Ski Juwel; vanuit Niederau een rit via Wörgl/Brixlegg of een lange skidag via de Ski Juwel-verbinding (ca., niet exact)",
+    "en": "In Inneralpbach on the Alpbachtal side of Ski Juwel; from Niederau a drive or a long ski day via the Ski Juwel link (approximate)",
+    "de": "In Inneralpbach auf der Alpbachtaler Seite von Ski Juwel; von Niederau per Auto oder als lange Skitour über die Ski-Juwel-Verbindung (ungefähr)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Inneralpbach, Alpbachtal",
+   "en": "Inneralpbach, Alpbachtal",
+   "de": "Inneralpbach, Alpbachtal"
+  },
+  "url": "https://www.alpbachtal.at/en/info-and-service/alpbachtal-a-z/Connys-Original-Tiroler-Wirtshaus_isd_37098",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Conny's een berghut?",
+     "en": "Is Conny's a mountain hut?",
+     "de": "Ist Conny's eine Berghütte?"
+    },
+    "a": {
+     "nl": "Nee, het is een Tiroolse herberg in het dorp Inneralpbach, niet op de piste.",
+     "en": "No, it is a Tyrolean inn in the village of Inneralpbach, not on the slopes.",
+     "de": "Nein, es ist ein Tiroler Wirtshaus im Ort Inneralpbach, nicht an der Piste."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er iets voor kinderen?",
+     "en": "Is there anything for children?",
+     "de": "Gibt es etwas für Kinder?"
+    },
+    "a": {
+     "nl": "Volgens de officiële beschrijving hoort er een kinderspeelplaats bij het zonneterras.",
+     "en": "The official description mentions a children's playground by the sun terrace.",
+     "de": "Laut offizieller Beschreibung gehört ein Kinderspielplatz zur Sonnenterrasse."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h17",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "joes-salettl-inneralpbach",
+  "slug_de": "joes-salettl-inneralpbach",
+  "title": {
+   "nl": "Joe's Salett'l",
+   "en": "Joe's Salett'l",
+   "de": "Joe's Salett'l"
+  },
+  "tagline": {
+   "nl": "Restaurant, café en bar aan het dalstation van de Pöglbahn",
+   "en": "Restaurant, café and bar at the Pöglbahn valley station",
+   "de": "Restaurant, Café und Bar an der Talstation der Pöglbahn"
+  },
+  "intro": {
+   "nl": "Joe's Salett'l staat direct bij het dalstation van de Pöglbahn in Inneralpbach. Het is een combinatie van restaurant, café en bar: een plek om de skidag te beginnen of af te sluiten, op het punt waar de gondel naar de Wiedersberger Horn vertrekt.\n\nVolgens de toeristische pagina van Tirol bereik je het makkelijkst via piste 47, en de skibushalte ligt naast de parkeerplaats van de Pöglbahn. Daardoor is het ook handig voor wie zonder ski's komt: een afspraak met de rest van de familie die zelf gaat skiën. Het lokaal wordt ook genoemd voor feesten en bijeenkomsten.",
+   "en": "Joe's Salett'l stands right by the Pöglbahn valley station in Inneralpbach. It combines restaurant, café and bar, which makes it a spot to start or end a ski day at the point where the gondola to the Wiedersberger Horn departs.\n\nAccording to the Tirol tourism page, the easiest way in is down piste 47, and the ski bus stop is next to the Pöglbahn car park. That also suits anyone arriving without skis, for instance to meet family members who ski. The venue is also mentioned for parties and gatherings.",
+   "de": "Joe's Salett'l liegt direkt an der Talstation der Pöglbahn in Inneralpbach. Es verbindet Restaurant, Café und Bar und eignet sich damit zum Start oder Ausklang des Skitags dort, wo die Gondel zum Wiedersberger Horn abfährt.\n\nLaut der Tourismusseite von Tirol erreicht man es am einfachsten über die Piste 47, die Skibushaltestelle liegt neben dem Parkplatz der Pöglbahn. Das passt auch für alle, die ohne Ski kommen, etwa um sich mit skifahrenden Familienmitgliedern zu treffen. Das Lokal wird außerdem für Feiern und Veranstaltungen genannt."
+  },
+  "tips": {
+   "nl": [
+    "Spreek hier af als de familie zich over verschillende pistes verdeelt: het dalstation is een duidelijk punt.",
+    "Kom je met de skibus, stap uit bij de parkeerplaats van de Pöglbahn.",
+    "Wil je een feestje plannen, vraag dan rechtstreeks bij het lokaal."
+   ],
+   "en": [
+    "Use it as a meeting point if the family splits across different runs: the valley station is easy to find.",
+    "Arriving by ski bus, get off at the Pöglbahn car park.",
+    "If you plan a party, ask the venue directly."
+   ],
+   "de": [
+    "Als Treffpunkt eignet es sich gut, wenn sich die Familie auf verschiedene Pisten verteilt: Die Talstation ist leicht zu finden.",
+    "Mit dem Skibus steigt ihr am Parkplatz der Pöglbahn aus.",
+    "Für eine Feier fragt ihr am besten direkt im Lokal an."
+   ]
+  },
+  "practical": {
+   "nl": "Op de ski via piste 47 of met de skibus naar de parkeerplaats van de Pöglbahn. Vraag voor actuele informatie bij het lokaal of via de officiële site.",
+   "en": "On skis via piste 47 or by ski bus to the Pöglbahn car park. For current information, ask the venue or check the official site.",
+   "de": "Auf Ski über die Piste 47 oder mit dem Skibus zum Parkplatz der Pöglbahn. Aktuelle Informationen beim Lokal oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Aan de Alpbachtal-kant van Ski Juwel; vanuit Niederau een rit of lange skidag via de Ski Juwel-verbinding (ca., niet exact)",
+    "en": "On the Alpbachtal side of Ski Juwel; from Niederau a drive or long ski day via the Ski Juwel link (approximate)",
+    "de": "Auf der Alpbachtaler Seite von Ski Juwel; von Niederau per Auto oder lange Skitour über die Ski-Juwel-Verbindung (ungefähr)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Inneralpbach, Alpbachtal",
+   "en": "Inneralpbach, Alpbachtal",
+   "de": "Inneralpbach, Alpbachtal"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/kulinarik/gastronomie/joes-salettl-3",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt Joe's Salett'l?",
+     "en": "Where is Joe's Salett'l?",
+     "de": "Wo liegt Joe's Salett'l?"
+    },
+    "a": {
+     "nl": "Bij het dalstation van de Pöglbahn in Inneralpbach.",
+     "en": "At the Pöglbahn valley station in Inneralpbach.",
+     "de": "An der Talstation der Pöglbahn in Inneralpbach."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe kom ik er zonder auto?",
+     "en": "How do I get there without a car?",
+     "de": "Wie komme ich ohne Auto hin?"
+    },
+    "a": {
+     "nl": "Er is een skibushalte naast de parkeerplaats van de Pöglbahn.",
+     "en": "There is a ski bus stop next to the Pöglbahn car park.",
+     "de": "Die Skibushaltestelle liegt neben dem Parkplatz der Pöglbahn."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h18",
+  "new": true,
+  "theme": "hutten",
+  "season": "both",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "boeglalm-inneralpbach",
+  "slug_de": "boeglalm-inneralpbach",
+  "title": {
+   "nl": "Böglalm",
+   "en": "Böglalm",
+   "de": "Böglalm"
+  },
+  "tagline": {
+   "nl": "Rustieke alm met een grote pan Kasspatzl boven Inneralpbach",
+   "en": "Rustic alm above Inneralpbach known for its big pan of Kasspatzl",
+   "de": "Urige Alm über Inneralpbach mit der großen Kasspatzl-Pfanne"
+  },
+  "intro": {
+   "nl": "De Böglalm ligt op ongeveer 1.220 m boven Inneralpbach, in de winter aan de piste bij het middenstation van de Pöglbahn. Bekend is de hut om de Alpbacher Kasspatzl, die in een heel grote pan worden bereid. Verder staan er Tiroolse klassiekers als gröstl, schnitzel en knödel op het menu, en soms gegrilde kip.\n\nIn de zomer is het een wandeldoel. De route vanaf de parkeerplaats in Inneralpbach is volgens Alpbachtal Tourismus gemakkelijk en geschikt voor een kinderwagen; reken op ongeveer een uur lopen. De alm biedt ook een alpenontbijt met streekproducten aan.",
+   "en": "The Böglalm sits at about 1,220 m above Inneralpbach and, in winter, on the piste by the middle station of the Pöglbahn. It is known for Alpbacher Kasspatzl, cooked in a very large pan. The menu also lists Tyrolean classics such as Gröstl, schnitzel and dumplings, and sometimes grilled chicken.\n\nIn summer it is a walking destination. According to Alpbachtal Tourism, the route from the car park in Inneralpbach is easy and suitable for a pushchair; allow about an hour on foot. The alm also offers an alpine breakfast with regional produce.",
+   "de": "Die Böglalm liegt auf rund 1.220 m über Inneralpbach, im Winter direkt an der Piste bei der Mittelstation der Pöglbahn. Bekannt ist sie für die Alpbacher Kasspatzl, die in einer sehr großen Pfanne zubereitet werden. Dazu gibt es Tiroler Klassiker wie Gröstl, Schnitzel und Knödel, teils auch gegrilltes Hendl.\n\nIm Sommer ist sie ein Wanderziel. Laut Alpbachtal Tourismus ist der Weg vom Parkplatz in Inneralpbach leicht und kinderwagentauglich; man rechnet mit etwa einer Stunde zu Fuß. Die Alm bietet außerdem ein Almfrühstück mit regionalen Produkten."
+  },
+  "tips": {
+   "nl": [
+    "Wandel je in de zomer, neem dan een kinderwagen gerust mee op de route vanaf Inneralpbach.",
+    "Wil je een bepaald gerecht, informeer dan vooraf bij de hut.",
+    "Combineer de wandeling met een terugweg via de Greiter Höfe, een route die Alpbachtal Tourismus beschrijft."
+   ],
+   "en": [
+    "In summer a pushchair is fine on the route from Inneralpbach.",
+    "If you have a particular dish in mind, ask the hut beforehand.",
+    "Combine the hike with a return via the Greiter farms, a route described by Alpbachtal Tourism."
+   ],
+   "de": [
+    "Im Sommer ist der Weg ab Inneralpbach mit Kinderwagen gut machbar.",
+    "Habt ihr ein bestimmtes Gericht im Sinn, fragt vorher bei der Hütte nach.",
+    "Verbindet die Wanderung mit dem Rückweg über die Greiter Höfe, den Alpbachtal Tourismus beschreibt."
+   ]
+  },
+  "practical": {
+   "nl": "Te voet vanaf de parkeerplaats in Inneralpbach, of op ski via de piste bij het middenstation van de Pöglbahn. Vraag voor actuele informatie bij de hut.",
+   "en": "On foot from the car park in Inneralpbach, or on skis via the piste by the Pöglbahn middle station. For current information ask the hut.",
+   "de": "Zu Fuß ab dem Parkplatz in Inneralpbach oder auf Ski über die Piste bei der Mittelstation der Pöglbahn. Aktuelle Informationen bei der Hütte."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Aan de Alpbachtal-kant van Ski Juwel; vanuit Niederau een rit of lange skidag via de Ski Juwel-verbinding (ca., niet exact)",
+    "en": "On the Alpbachtal side of Ski Juwel; from Niederau a drive or long ski day via the Ski Juwel link (approximate)",
+    "de": "Auf der Alpbachtaler Seite von Ski Juwel; von Niederau per Auto oder lange Skitour über die Ski-Juwel-Verbindung (ungefähr)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Inneralpbach, Alpbachtal",
+   "en": "Inneralpbach, Alpbachtal",
+   "de": "Inneralpbach, Alpbachtal"
+  },
+  "url": "https://www.alpbachtal.at/en/info-and-service/alpbachtal-a-z/Boglalm_isd_39309",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je de Böglalm lopend bereiken?",
+     "en": "Can you walk to the Böglalm?",
+     "de": "Kann man zur Böglalm wandern?"
+    },
+    "a": {
+     "nl": "Ja, vanaf de parkeerplaats in Inneralpbach is het een gemakkelijke wandeling van ongeveer een uur.",
+     "en": "Yes, from the car park in Inneralpbach it is an easy walk of about an hour.",
+     "de": "Ja, vom Parkplatz in Inneralpbach ist es ein leichter Spaziergang von etwa einer Stunde."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar staat de hut om bekend?",
+     "en": "What is the hut known for?",
+     "de": "Wofür ist die Hütte bekannt?"
+    },
+    "a": {
+     "nl": "Voor de Alpbacher Kasspatzl uit een grote pan.",
+     "en": "For Alpbacher Kasspatzl from a large pan.",
+     "de": "Für die Alpbacher Kasspatzl aus der großen Pfanne."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h19",
+  "new": true,
+  "theme": "hutten",
+  "season": "both",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "hornalm-wiedersberger-horn",
+  "slug_de": "hornalm-wiedersberger-horn",
+  "title": {
+   "nl": "Hornalm",
+   "en": "Hornalm",
+   "de": "Hornalm"
+  },
+  "tagline": {
+   "nl": "De hoogste hut van Ski Juwel, bij de Hornbahn 2000",
+   "en": "The highest hut in Ski Juwel, by the Hornbahn 2000",
+   "de": "Die höchste Hütte im Ski Juwel, an der Hornbahn 2000"
+  },
+  "intro": {
+   "nl": "De Hornalm ligt op ongeveer 2.032 m bij het bergstation van de Hornbahn 2000 aan de Wiedersberger Horn. Volgens de toeristische bronnen is dit de hoogste skihut van Ski Juwel en het hoogste punt van het gebied. Binnen zijn er tot ongeveer honderd zitplaatsen.\n\nIn de zomer lopen wandelaars langs de hut op het panoramapad rond de Wiedersberger Horn. Dat maakt de Hornalm een natuurlijke pauzeplek met uitzicht, zonder dat je een lange tocht hoeft te maken als je met de lift omhoog komt. Eén vermelding noemt dat de hut bij zeer slecht weer gesloten kan zijn; informeer daarom ter plekke of via de officiële site.",
+   "en": "The Hornalm stands at about 2,032 m by the top station of the Hornbahn 2000 on the Wiedersberger Horn. Tourism sources describe it as the highest ski hut in Ski Juwel and the highest point of the area. Indoors there is room for roughly a hundred guests.\n\nIn summer walkers pass the hut on the panorama path around the Wiedersberger Horn. That makes it a natural viewpoint stop without a long hike if you ride the lifts up. One listing notes the hut can close in very bad weather, so ask on site or check the official site.",
+   "de": "Die Hornalm liegt auf rund 2.032 m bei der Bergstation der Hornbahn 2000 am Wiedersberger Horn. Laut Tourismusquellen ist sie die höchstgelegene Skihütte im Ski Juwel und der höchste Punkt des Gebiets. Drinnen gibt es Platz für etwa hundert Gäste.\n\nIm Sommer kommen Wanderer auf dem Panoramaweg rund um das Wiedersberger Horn an der Hütte vorbei. So ist sie ein naheliegender Aussichtsstopp, ohne lange Tour, wenn man mit den Bahnen hochfährt. Ein Eintrag weist darauf hin, dass die Hütte bei sehr schlechtem Wetter schließen kann; fragt daher vor Ort oder auf der offiziellen Seite nach."
+  },
+  "tips": {
+   "nl": [
+    "Neem warme kleding mee: op deze hoogte kan het ook in de zomer fris zijn.",
+    "Combineer de hut met de panoramawandeling rond de Wiedersberger Horn.",
+    "Kom je met kinderen, houd de wandelroute dan kort en maak de hut het doel."
+   ],
+   "en": [
+    "Bring warm clothing: it can be cool at this altitude even in summer.",
+    "Combine the hut with the panorama walk around the Wiedersberger Horn.",
+    "With children, keep the walk short and make the hut the goal."
+   ],
+   "de": [
+    "Warme Kleidung mitnehmen: In dieser Höhe kann es auch im Sommer frisch sein.",
+    "Verbindet die Hütte mit der Panoramawanderung rund um das Wiedersberger Horn.",
+    "Mit Kindern die Wanderung kurz halten und die Hütte zum Ziel machen."
+   ]
+  },
+  "practical": {
+   "nl": "Met de Hornbahn 2000 of te voet over het panoramapad; vraag voor actuele informatie bij de hut of via de officiële site.",
+   "en": "By the Hornbahn 2000 or on foot along the panorama path; for current information ask the hut or check the official site.",
+   "de": "Mit der Hornbahn 2000 oder zu Fuß über den Panoramaweg; aktuelle Informationen bei der Hütte oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Direct bij het bergstation van de Hornbahn 2000 in Alpbach; vanuit Niederau via de Ski Juwel-verbinding of per auto naar Alpbach (ca., niet exact).",
+    "en": "Directly by the top station of the Hornbahn 2000 in Alpbach; from Niederau via the Ski Juwel link or by car to Alpbach (approximate).",
+    "de": "Direkt an der Bergstation der Hornbahn 2000 in Alpbach; von Niederau über die Ski-Juwel-Verbindung oder per Auto nach Alpbach (ungefähr)."
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Wiedersberger Horn, Alpbach",
+   "en": "Wiedersberger Horn, Alpbach",
+   "de": "Wiedersberger Horn, Alpbach"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/kulinarik/gastronomie/hornalm",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog ligt de Hornalm?",
+     "en": "How high is the Hornalm?",
+     "de": "Wie hoch liegt die Hornalm?"
+    },
+    "a": {
+     "nl": "Op ongeveer 2.032 m, bij het bergstation van de Hornbahn 2000.",
+     "en": "At about 2,032 m, by the top station of the Hornbahn 2000.",
+     "de": "Auf rund 2.032 m, bei der Bergstation der Hornbahn 2000."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is de hut ook in de zomer bereikbaar?",
+     "en": "Can you reach the hut in summer?",
+     "de": "Ist die Hütte auch im Sommer erreichbar?"
+    },
+    "a": {
+     "nl": "Wandelaars komen er langs op het panoramapad rond de Wiedersberger Horn; informeer ter plekke naar de actuele situatie.",
+     "en": "Walkers pass it on the panorama path around the Wiedersberger Horn; ask on site about the current situation.",
+     "de": "Wanderer kommen auf dem Panoramaweg rund um das Wiedersberger Horn vorbei; vor Ort nach dem aktuellen Stand fragen."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h20",
+  "new": true,
+  "theme": "hutten",
+  "season": "both",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "dauerstoa-alm-wiedersberger-horn",
+  "slug_de": "dauerstoa-alm-wiedersberger-horn",
+  "title": {
+   "nl": "Dauerstoa Alm",
+   "en": "Dauerstoa Alm",
+   "de": "Dauerstoa Alm"
+  },
+  "tagline": {
+   "nl": "Terras en chillzone op 1.840 m",
+   "en": "Terrace and chill zone at 1,840 m",
+   "de": "Terrasse und Chillzone auf 1.840 m"
+  },
+  "intro": {
+   "nl": "De Dauerstoa Alm ligt op ongeveer 1.840 m bij het bergstation van de Wiedersbergerhornbahn. Op de officiële Ski Juwel-pagina ligt hij tussen de bergstations van de Pöglbahn en de Wiedersbergerhornbahn, dus skiërs komen er langs op de verbindende pistes.\n\nDe hut heeft een groot terras, een chillzone en een buitenbar naast het restaurant binnen. In de zomer is het een pauzeplek voor wandelaars rond de Wiedersberger Horn, en vlakbij ligt het avonturenpark Lauserland in het bos, wat het voor gezinnen een logisch uitstapje maakt. De hut wordt geëxploiteerd door een familie uit Alpbach.",
+   "en": "The Dauerstoa Alm sits at about 1,840 m by the top station of the Wiedersbergerhornbahn. On the official Ski Juwel page it is placed between the top stations of the Pöglbahn and the Wiedersbergerhornbahn, so skiers pass it on the connecting runs.\n\nThe hut has a large terrace, a chill zone and an outdoor bar alongside the indoor restaurant. In summer it is a rest stop for walkers around the Wiedersberger Horn, and the Lauserland adventure area in the woods is close by, a natural outing for families. It is run by a family from Alpbach.",
+   "de": "Die Dauerstoa Alm liegt auf rund 1.840 m bei der Bergstation der Wiedersbergerhornbahn. Auf der offiziellen Ski-Juwel-Seite liegt sie zwischen den Bergstationen von Pöglbahn und Wiedersbergerhornbahn, Skifahrer kommen also auf den Verbindungspisten vorbei.\n\nDie Hütte hat eine große Terrasse, eine Chillzone und eine Außenbar neben dem Restaurant im Haus. Im Sommer ist sie Rastplatz für Wanderer rund um das Wiedersberger Horn, und der Erlebnisbereich Lauserland im Wald liegt in der Nähe, ein naheliegendes Ausflugsziel für Familien. Betrieben wird sie von einer Familie aus Alpbach."
+  },
+  "tips": {
+   "nl": [
+    "Combineer een pauze op het terras met een bezoek aan Lauserland.",
+    "Op zonnige dagen is de chillzone een prettige plek om bij te komen.",
+    "Zit je op de Wiedersberger Horn, kijk dan eerst welke hut het dichtst bij je piste ligt."
+   ],
+   "en": [
+    "Pair a break on the terrace with a visit to Lauserland.",
+    "On sunny days the chill zone is a pleasant place to recover.",
+    "When on the Wiedersberger Horn, check which hut is closest to your run first."
+   ],
+   "de": [
+    "Verbindet eine Pause auf der Terrasse mit einem Besuch im Lauserland.",
+    "An sonnigen Tagen ist die Chillzone ein angenehmer Platz zum Verschnaufen.",
+    "Am Wiedersberger Horn lohnt ein Blick, welche Hütte am nächsten an eurer Piste liegt."
+   ]
+  },
+  "practical": {
+   "nl": "Bij het bergstation van de Wiedersbergerhornbahn (Alpbach) of via de pistes en paden eromheen. Vraag voor actuele informatie bij de hut of via de officiële site.",
+   "en": "By the top station of the Wiedersbergerhornbahn (Alpbach) or via the runs and paths around it. For current information ask the hut or check the official site.",
+   "de": "An der Bergstation der Wiedersbergerhornbahn (Alpbach) oder über Pisten und Wege in der Umgebung. Aktuelle Informationen bei der Hütte oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Aan de Alpbachtal-kant van Ski Juwel; vanuit Niederau via de Ski Juwel-verbinding of per auto naar Alpbach (ca., niet exact)",
+    "en": "On the Alpbachtal side of Ski Juwel; from Niederau via the Ski Juwel link or by car to Alpbach (approximate)",
+    "de": "Auf der Alpbachtaler Seite von Ski Juwel; von Niederau über die Ski-Juwel-Verbindung oder per Auto nach Alpbach (ungefähr)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Wiedersberger Horn, Alpbach",
+   "en": "Wiedersberger Horn, Alpbach",
+   "de": "Wiedersberger Horn, Alpbach"
+  },
+  "url": "https://www.skijuwel.com/en/winter/huts-and-restaurants/Dauerstoa-Alm_isd_34070",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat heeft de Dauerstoa Alm te bieden?",
+     "en": "What does the Dauerstoa Alm offer?",
+     "de": "Was bietet die Dauerstoa Alm?"
+    },
+    "a": {
+     "nl": "Een groot terras, een chillzone, een buitenbar en een restaurant binnen.",
+     "en": "A large terrace, a chill zone, an outdoor bar and an indoor restaurant.",
+     "de": "Eine große Terrasse, eine Chillzone, eine Außenbar und ein Restaurant im Haus."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er iets voor kinderen in de buurt?",
+     "en": "Is there anything for children nearby?",
+     "de": "Gibt es etwas für Kinder in der Nähe?"
+    },
+    "a": {
+     "nl": "Ja, het avonturengebied Lauserland ligt in het bos vlakbij.",
+     "en": "Yes, the Lauserland adventure area is close by in the woods.",
+     "de": "Ja, der Erlebnisbereich Lauserland liegt in der Nähe im Wald."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h21",
+  "new": true,
+  "theme": "hutten",
+  "season": "both",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "berggasthof-hornboden-alpbach",
+  "slug_de": "berggasthof-hornboden-alpbach",
+  "title": {
+   "nl": "Berggasthof Hornboden",
+   "en": "Berggasthof Hornboden",
+   "de": "Berggasthof Hornboden"
+  },
+  "tagline": {
+   "nl": "Familiebedrijf met zelfbediening en restaurant onder de Wiedersberger Horn",
+   "en": "Family-run inn with self-service and a restaurant below the Wiedersberger Horn",
+   "de": "Familiengeführter Berggasthof mit Selbstbedienung und Restaurant unter dem Wiedersberger Horn"
+  },
+  "intro": {
+   "nl": "De Berggasthof Hornboden ligt op ongeveer 1.827 m, direct onder het bergstation van de Wiedersbergerhornbahn in Alpbach. De gondel erheen doet er volgens de officiële pagina zo'n kwartier over. Het huis staat aan de piste en heeft op de begane grond een zelfbedieningsgedeelte, boven een restaurant met bediening, en daarnaast een zonneterras.\n\nOp de Ski Juwel-pagina wordt een ontbijt op de berg aangeboden. Een Duitse hutrecensie noemt het prosecco-ontbijt na de eerste afdaling en de gezellige sfeer. Het huis wordt door familie Larch gerund en kan evenementen tot zo'n vijfhonderd personen aan. In de zomer staat er ook een restaurant met terras op de eerste verdieping.",
+   "en": "The Berggasthof Hornboden stands at about 1,827 m directly below the top station of the Wiedersbergerhornbahn in Alpbach. According to the official page, the gondola ride up takes around a quarter of an hour. The house is on the piste, with a self-service area on the ground floor, a waiter-service restaurant upstairs and a sun terrace.\n\nThe Ski Juwel page promotes a breakfast on the mountain, and a German hut review mentions a Prosecco breakfast after the first run and a cosy atmosphere. The house is run by the Larch family and can host events for up to around five hundred people. In summer a restaurant with terrace operates on the first floor.",
+   "de": "Der Berggasthof Hornboden liegt auf rund 1.827 m direkt unterhalb der Bergstation der Wiedersbergerhornbahn in Alpbach. Laut offizieller Seite dauert die Gondelfahrt dorthin etwa eine Viertelstunde. Das Haus steht an der Piste, mit Selbstbedienung im Erdgeschoss, einem Restaurant mit Bedienung im Obergeschoss und einer Sonnenterrasse.\n\nAuf der Ski-Juwel-Seite wird ein Frühstück am Berg beworben, und eine deutsche Hüttentest-Seite lobt das Prosecco-Frühstück nach der ersten Abfahrt und die gemütliche Atmosphäre. Geführt wird das Haus von der Familie Larch, Veranstaltungen sind für bis zu rund fünfhundert Personen möglich. Im Sommer ist ein Restaurant mit Terrasse im ersten Stock in Betrieb."
+  },
+  "tips": {
+   "nl": [
+    "Wil je ontbijten op de berg, informeer dan vooraf hoe dat werkt.",
+    "Heb je haast: kies de zelfbediening beneden; wil je rustig zitten: het restaurant boven.",
+    "Na de lunch kun je direct weer op de piste of kiezen voor de nabije Wiedersberger Horn."
+   ],
+   "en": [
+    "If you fancy breakfast on the mountain, ask in advance how it works.",
+    "In a hurry, use the self-service area downstairs; for a relaxed seat, the restaurant upstairs.",
+    "After lunch you can go straight back onto the piste or head for the nearby Wiedersberger Horn."
+   ],
+   "de": [
+    "Wer am Berg frühstücken möchte, fragt vorher nach dem Ablauf.",
+    "Bei Eile die Selbstbedienung unten nutzen, für einen ruhigen Platz das Restaurant oben.",
+    "Nach dem Essen geht es direkt zurück auf die Piste oder zum nahen Wiedersberger Horn."
+   ]
+  },
+  "practical": {
+   "nl": "Met de Wiedersbergerhornbahn vanuit Alpbach, of op ski via de pistes eromheen. Vraag voor actuele informatie bij het huis of via de officiële site.",
+   "en": "By the Wiedersbergerhornbahn from Alpbach, or on skis via the surrounding runs. For current information ask the house or check the official site.",
+   "de": "Mit der Wiedersbergerhornbahn von Alpbach aus oder auf Ski über die umliegenden Pisten. Aktuelle Informationen beim Haus oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Aan de Alpbachtal-kant van Ski Juwel; vanuit Niederau via de Ski Juwel-verbinding of per auto naar Alpbach (ca., niet exact)",
+    "en": "On the Alpbachtal side of Ski Juwel; from Niederau via the Ski Juwel link or by car to Alpbach (approximate)",
+    "de": "Auf der Alpbachtaler Seite von Ski Juwel; von Niederau über die Ski-Juwel-Verbindung oder per Auto nach Alpbach (ungefähr)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Wiedersberger Horn, Alpbach",
+   "en": "Wiedersberger Horn, Alpbach",
+   "de": "Wiedersberger Horn, Alpbach"
+  },
+  "url": "https://www.skijuwel.com/en/winter/huts-and-restaurants/Berggasthof-Hornboden_isd_40673",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat voor soort hut is de Hornboden?",
+     "en": "What kind of hut is the Hornboden?",
+     "de": "Was für eine Hütte ist der Hornboden?"
+    },
+    "a": {
+     "nl": "Een berggasthof aan de piste met zelfbediening beneden en een restaurant met bediening boven.",
+     "en": "A mountain inn on the piste with self-service downstairs and a waiter-service restaurant upstairs.",
+     "de": "Ein Berggasthof an der Piste mit Selbstbedienung unten und Restaurant mit Bedienung oben."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er een zonneterras?",
+     "en": "Is there a sun terrace?",
+     "de": "Gibt es eine Sonnenterrasse?"
+    },
+    "a": {
+     "nl": "Ja, volgens de officiële beschrijving.",
+     "en": "Yes, according to the official description.",
+     "de": "Ja, laut offizieller Beschreibung."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ }
+]
