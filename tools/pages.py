@@ -772,6 +772,16 @@ GH = {"title": ("Gidsen en praktische tips", "Guides and practical tips", "Ratge
                 "Hier finden Sie vertiefende Ratgeber für Ihren Aufenthalt in Niederau und der Wildschönau: wann man am besten kommt, wie man anreist, was man isst und wie man sicher in die Berge geht. Sie ergänzen die Seiten zu Aktivitäten und Orten.")}
 def u_guide(g, lang): return f"/{PREFIX[lang]}{DIRS['guide'][lang]}/{g['slug'][lang]}/"
 def u_guides(lang): return f"/{PREFIX[lang]}{DIRS['guide'][lang]}/"
+STORY_SLUG = ("familieverhaal-wastlhof", "family-story-wastlhof", "familiengeschichte-wastlhof")
+def album_fig(g, lang):
+    """Foto uit het familiealbum met bijschrift en link naar het familieverhaal (optioneel veld `album` in een gids)."""
+    a = g.get("album")
+    if not a: return ""
+    i = LANGS.index(lang)
+    f, w, h, al, _cp = next(x for x in ABOUT["album"] if x[0] == a["file"])
+    return (f'<figure class="album-fig"><img src="/assets/img/{f}.webp" width="{w}" height="{h}" loading="lazy" alt="{e(al[i])}">'
+            f'<figcaption>{e(L(a["caption"], lang))} <a href="/{PREFIX[lang]}{STORY_SLUG[i]}/">{e(L(a["link"], lang))}</a></figcaption></figure>')
+
 def build_guides():
     if not GUIDES: return
     for g in GUIDES:
@@ -786,7 +796,7 @@ def build_guides():
             faq_s, faq_ld = faq_html(g.get("faq"), lang)
             body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{GH["title"][LANGS.index(lang)]}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(g.get("tagline", {}), lang))}</p>{intro}</div>
-<div>{gen_fig("guide:" + g["id"], lang)}{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
+<div>{gen_fig("guide:" + g["id"], lang)}{album_fig(g, lang)}{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
 <section class="alt"><div class="wrap">{secs}</div></section>{faq_s}'''
             desc = (L(g.get("tagline", {}), lang) + " " + " ".join(paras(L(g.get("intro", {}), lang)))[:170]).strip()[:300]
             ld = [{"@type": "Article", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "headline": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "image": [OG], "mainEntityOfPage": BASE + urls[lang], "author": {"@type": "Organization", "name": "Niederau.nl"}, "publisher": {"@id": f"{BASE}/#website"}},
@@ -886,6 +896,9 @@ ABOUT = {
     "Das Dorf und die Jahreszeiten auf der Startseite, über zweihundert Aktivitäten, Ratgeber zu allem von der besten Reisezeit bis zum Skifahren mit Kindern sowie Seiten zu den Orten und Städten der Umgebung im Brixental, Inntal und Zillertal. Dazu gehört auch ein Kalender mit wiederkehrenden Veranstaltungen.")),
  ],
 }
+ABOUT["story"] = (("Ons familieverhaal", "Our family story", "Unsere Familiengeschichte"),
+                  ("Al meer dan vijftig jaar komen wij in Hotel Wastlhof, in zomer en winter: eerst mijn opa en oma, daarna ons gezin en nu de volgende generatie.", "We have been coming to Hotel Wastlhof for more than fifty years, in summer and winter: first my grandparents, then our family and now the next generation.", "Seit mehr als fünfzig Jahren kommen wir ins Hotel Wastlhof, im Sommer wie im Winter: zuerst meine Großeltern, dann unsere Familie und nun die nächste Generation."),
+                  ("Lees ons familieverhaal", "Read our family story", "Lies unsere Familiengeschichte"))
 def u_about(lang): return f"/{PREFIX[lang]}{ABOUT['slug'][LANGS.index(lang)]}/"
 def build_about():
     urls = {l: u_about(l) for l in LANGS}
@@ -893,6 +906,7 @@ def build_about():
         i = LANGS.index(lang); name = ABOUT["title"][i]
         cr, cr_ld = crumbs(lang, [(name, urls[lang])])
         secs = "".join(f"<h2>{e(h[i])}</h2><p>{e(p[i])}</p>" for h, p in ABOUT["sections"])
+        secs += f'<h2>{e(ABOUT["story"][0][i])}</h2><p>{e(ABOUT["story"][1][i])} <a href="/{PREFIX[lang]}{STORY_SLUG[i]}/">{e(ABOUT["story"][2][i])}</a></p>'
         figs = "".join(f'<figure class="album-fig"><img src="/assets/img/{f}.webp" width="{w}" height="{h}" loading="lazy" alt="{e(al[i])}"><figcaption>{e(cp[i])}</figcaption></figure>' for f, w, h, al, cp in ABOUT["album"])
         body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(ABOUT["tagline"][i])}</p><p>{e(ABOUT["intro"][i])}</p>
 <h2>{e(ABOUT["album_h"][i])}</h2><p>{e(ABOUT["album_p"][i])}</p><div class="album">{figs}</div></div></section>

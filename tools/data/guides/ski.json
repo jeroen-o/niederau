@@ -179,6 +179,19 @@
      "de": "Rodeln auf den Naturrodelbahnen bei Niederau oder Auffach ist eine gute Alternative, ebenso Schwimmen, ein Museum oder ein Dorfspaziergang. Erkundige dich vorab nach Öffnungszeiten und Bahnzustand."
     }
    }
-  ]
+  ],
+  "album": {
+   "file": "familiealbum-kinderen-op-ski-bergen",
+   "caption": {
+    "nl": "Uit het familiealbum: onze kinderen leerden skiën in Niederau, samen met hun opa en oma.",
+    "en": "From the family album: our children learned to ski in Niederau, together with their grandparents.",
+    "de": "Aus dem Familienalbum: Unsere Kinder haben in Niederau Skifahren gelernt, gemeinsam mit ihren Großeltern."
+   },
+   "link": {
+    "nl": "Lees ons familieverhaal",
+    "en": "Read our family story",
+    "de": "Lies unsere Familiengeschichte"
+   }
+  }
  }
 ]
