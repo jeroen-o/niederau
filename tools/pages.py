@@ -896,6 +896,9 @@ ABOUT = {
     "Das Dorf und die Jahreszeiten auf der Startseite, über zweihundert Aktivitäten, Ratgeber zu allem von der besten Reisezeit bis zum Skifahren mit Kindern sowie Seiten zu den Orten und Städten der Umgebung im Brixental, Inntal und Zillertal. Dazu gehört auch ein Kalender mit wiederkehrenden Veranstaltungen.")),
  ],
 }
+ABOUT["story"] = (("Ons familieverhaal", "Our family story", "Unsere Familiengeschichte"),
+                  ("Al meer dan vijftig jaar komen wij in Hotel Wastlhof, in zomer en winter: eerst mijn opa en oma, daarna ons gezin en nu de volgende generatie.", "We have been coming to Hotel Wastlhof for more than fifty years, in summer and winter: first my grandparents, then our family and now the next generation.", "Seit mehr als fünfzig Jahren kommen wir ins Hotel Wastlhof, im Sommer wie im Winter: zuerst meine Großeltern, dann unsere Familie und nun die nächste Generation."),
+                  ("Lees ons familieverhaal", "Read our family story", "Lies unsere Familiengeschichte"))
 def u_about(lang): return f"/{PREFIX[lang]}{ABOUT['slug'][LANGS.index(lang)]}/"
 def build_about():
     urls = {l: u_about(l) for l in LANGS}
@@ -903,6 +906,7 @@ def build_about():
         i = LANGS.index(lang); name = ABOUT["title"][i]
         cr, cr_ld = crumbs(lang, [(name, urls[lang])])
         secs = "".join(f"<h2>{e(h[i])}</h2><p>{e(p[i])}</p>" for h, p in ABOUT["sections"])
+        secs += f'<h2>{e(ABOUT["story"][0][i])}</h2><p>{e(ABOUT["story"][1][i])} <a href="/{PREFIX[lang]}{STORY_SLUG[i]}/">{e(ABOUT["story"][2][i])}</a></p>'
         figs = "".join(f'<figure class="album-fig"><img src="/assets/img/{f}.webp" width="{w}" height="{h}" loading="lazy" alt="{e(al[i])}"><figcaption>{e(cp[i])}</figcaption></figure>' for f, w, h, al, cp in ABOUT["album"])
         body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(ABOUT["tagline"][i])}</p><p>{e(ABOUT["intro"][i])}</p>
 <h2>{e(ABOUT["album_h"][i])}</h2><p>{e(ABOUT["album_p"][i])}</p><div class="album">{figs}</div></div></section>
