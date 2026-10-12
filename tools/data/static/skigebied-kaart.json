@@ -43,6 +43,22 @@
      "links": [
       {
        "l": {
+        "nl": "Ski Juwel: interactieve kaart met liften, pistes, hutten en highlights (Engels)",
+        "en": "Ski Juwel: interactive map with lifts, slopes, huts and highlights (English)",
+        "de": "Ski Juwel: interaktive Karte mit Liften, Pisten, Hütten und Highlights (Englisch)"
+       },
+       "u": "https://map.skijuwel.com/en/"
+      },
+      {
+       "l": {
+        "nl": "Ski Juwel: interactieve kaart met liften, pistes, hutten en highlights (standaardtaal)",
+        "en": "Ski Juwel: interactive map with lifts, slopes, huts and highlights (default language)",
+        "de": "Ski Juwel: interaktive Karte mit Liften, Pisten, Hütten und Highlights (Standardsprache)"
+       },
+       "u": "https://map.skijuwel.com/"
+      },
+      {
+       "l": {
         "nl": "Ski Juwel: openingstijden en seizoen",
         "en": "Ski Juwel: operating times and season",
         "de": "Ski Juwel: Betriebszeiten und Saison"
