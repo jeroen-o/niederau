@@ -1,6 +1,6 @@
 # Niederau.nl
 
-> Independent guide to Niederau, a mountain village at 828 m in the Wildschönau valley (Kitzbühel Alps, Tyrol, Austria). Available in Dutch, English and German. Last updated 2026-10-12.
+> Independent guide to Niederau, a mountain village at 828 m in the Wildschönau valley (Kitzbühel Alps, Tyrol, Austria). Available in Dutch, English, German, French and Polish (the French and Polish versions are machine-translated from English). Last updated 2026-10-12.
 
 ## Key facts
 - Location: Niederau, municipality of Wildschönau, district of Kufstein, Tyrol, Austria (47.4446 N, 12.0789 E), about 15 minutes by road from Wörgl (A12, exit Wörgl-Ost).
@@ -59,7 +59,7 @@
 - Huts and restaurants: Rübezahl-Hütte (panorama inn with sun terrace near the top station), Markbachjochalm (playground, petting zoo), Schnapshütte (snack bar at the valley station), Norderbergalm (about 1,360 m, roughly 30 minutes' walk). Opening times vary by season.
 - Summer: hiking to the Rosskopf (via Halsgatterl) or Feldalphorn, forest-edge walk to Penningdörfl, paragliding take-off below the hut. Winter: wide sunny slopes for beginners and families, steeper north slopes (Hochberg run).
 
-## Activities and places (own pages, NL/EN/DE)
+## Activities and places (own pages, NL/EN/DE/FR/PL)
 - Activity guide by theme (hiking, swimming, skiing, winter fun, cycling, adventure, animals, culture, attractions, day trips, wellness, workshops, golf): https://niederau.nl/en/activities/ (NL https://niederau.nl/activiteiten/, DE https://niederau.nl/de/aktivitaeten/). Each activity has its own page with facts, tips and FAQ. Information is indicative; times and prices change, check with the provider.
 - Places and regions around Niederau (Wildschönau, Alpbachtal, Brixental and Kitzbühel Alps, Kufsteinerland and Wilder Kaiser, Inn valley incl. Innsbruck, Zillertal incl. Mayrhofen and Hintertux): https://niederau.nl/en/nearby/ (NL https://niederau.nl/omgeving/, DE https://niederau.nl/de/umgebung/).
 
@@ -76,4 +76,7 @@
 - [Nederlands](https://niederau.nl/): Niederau en de Wildschönau
 - [English](https://niederau.nl/en/): Niederau and the Wildschönau
 - [Deutsch](https://niederau.nl/de/): Niederau und die Wildschönau
+- [Français](https://niederau.nl/fr/): Niederau et la Wildschönau (traduction automatique de l'anglais)
+- [Polski](https://niederau.nl/pl/): Niederau i Wildschönau (tłumaczenie maszynowe z angielskiego)
+- French and Polish pages mirror the English structure: replace /en/ by /fr/ or /pl/ in any English URL.
 - [Markbachjoch (NL)](https://niederau.nl/markbachjoch/), [Markbachjoch (EN)](https://niederau.nl/en/markbachjoch/), [Markbachjoch (DE)](https://niederau.nl/de/markbachjoch/): lifts, huts, history

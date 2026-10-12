@@ -10,6 +10,7 @@ BASE = "https://niederau.nl"
 errors, warns = [], []
 
 pages = [p for p in ROOT.rglob("index.html") if p.relative_to(ROOT).parts[0] not in ("assets", "tools", ".git", "node_modules")]
+pages = [p for p in pages if 'http-equiv="refresh"' not in p.read_text(encoding="utf-8")]  # redirectpagina's (tools/redirects.py)
 pages.append(ROOT / "404.html") if (ROOT / "404.html").exists() else None
 
 def url_of(p):
@@ -49,7 +50,7 @@ for p in pages:
         elif c.group(1) != BASE + here: errors.append(f"{here}: canonical {c.group(1)} wijkt af")
     t = re.search(r"<title>(.*?)</title>", h, re.S)
     if not t or not t.group(1).strip(): errors.append(f"{here}: lege titel")
-    else: titles[(here.split('/')[1] if here.startswith(('/en/', '/de/')) else 'nl', t.group(1).strip())].append(here)
+    else: titles[(here.split('/')[1] if here.startswith(('/en/', '/de/', '/fr/', '/pl/')) else 'nl', t.group(1).strip())].append(here)
     if p.name == "index.html" and not re.search(r'<meta name="description" content="[^"]{20,}"', h): errors.append(f"{here}: beschrijving ontbreekt of te kort")
     for tag in re.findall(r"<img\b[^>]*>", h):
         if " alt=" not in tag: errors.append(f"{here}: img zonder alt: {tag[:80]}")

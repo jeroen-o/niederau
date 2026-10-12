@@ -163,7 +163,7 @@ if _reg.exists():
 # llms.txt: compacte, feitelijke samenvatting voor AI-zoekmachines (GEO)
 (ROOT / "llms.txt").write_text(f"""# Niederau.nl
 
-> Independent guide to Niederau, a mountain village at 828 m in the Wildschönau valley (Kitzbühel Alps, Tyrol, Austria). Available in Dutch, English and German. Last updated {TODAY}.
+> Independent guide to Niederau, a mountain village at 828 m in the Wildschönau valley (Kitzbühel Alps, Tyrol, Austria). Available in Dutch, English, German, French and Polish (the French and Polish versions are machine-translated from English). Last updated {TODAY}.
 
 ## Key facts
 - Location: Niederau, municipality of Wildschönau, district of Kufstein, Tyrol, Austria ({LAT} N, {LON} E), about 15 minutes by road from Wörgl (A12, exit Wörgl-Ost).
@@ -222,7 +222,7 @@ if _reg.exists():
 - Huts and restaurants: Rübezahl-Hütte (panorama inn with sun terrace near the top station), Markbachjochalm (playground, petting zoo), Schnapshütte (snack bar at the valley station), Norderbergalm (about 1,360 m, roughly 30 minutes' walk). Opening times vary by season.
 - Summer: hiking to the Rosskopf (via Halsgatterl) or Feldalphorn, forest-edge walk to Penningdörfl, paragliding take-off below the hut. Winter: wide sunny slopes for beginners and families, steeper north slopes (Hochberg run).
 
-## Activities and places (own pages, NL/EN/DE)
+## Activities and places (own pages, NL/EN/DE/FR/PL)
 - Activity guide by theme (hiking, swimming, skiing, winter fun, cycling, adventure, animals, culture, attractions, day trips, wellness, workshops, golf): {BASE}/en/activities/ (NL {BASE}/activiteiten/, DE {BASE}/de/aktivitaeten/). Each activity has its own page with facts, tips and FAQ. Information is indicative; times and prices change, check with the provider.
 - Places and regions around Niederau (Wildschönau, Alpbachtal, Brixental and Kitzbühel Alps, Kufsteinerland and Wilder Kaiser, Inn valley incl. Innsbruck, Zillertal incl. Mayrhofen and Hintertux): {BASE}/en/nearby/ (NL {BASE}/omgeving/, DE {BASE}/de/umgebung/).
 
@@ -239,6 +239,9 @@ if _reg.exists():
 - [Nederlands]({BASE}/): Niederau en de Wildschönau
 - [English]({BASE}/en/): Niederau and the Wildschönau
 - [Deutsch]({BASE}/de/): Niederau und die Wildschönau
+- [Français]({BASE}/fr/): Niederau et la Wildschönau (traduction automatique de l'anglais)
+- [Polski]({BASE}/pl/): Niederau i Wildschönau (tłumaczenie maszynowe z angielskiego)
+- French and Polish pages mirror the English structure: replace /en/ by /fr/ or /pl/ in any English URL.
 - [Markbachjoch (NL)]({BASE}/markbachjoch/), [Markbachjoch (EN)]({BASE}/en/markbachjoch/), [Markbachjoch (DE)]({BASE}/de/markbachjoch/): lifts, huts, history
 """, encoding="utf-8")
 print("sitemap.xml en llms.txt bijgewerkt")

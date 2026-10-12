@@ -326,7 +326,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
     locale = {"nl": "nl_NL", "en": "en_GB", "de": "de_DE"}[lang]
     imgurl = f"{BASE}/assets/img/{img}.webp" if img else OG
     ld = json.dumps({"@context": "https://schema.org", "@graph": [
-        {"@type": "WebSite", "@id": f"{BASE}/#website", "url": f"{BASE}/", "name": "Niederau.nl", "inLanguage": ["nl", "en", "de"]}] + ld_graph}, ensure_ascii=False, indent=1)
+        {"@type": "WebSite", "@id": f"{BASE}/#website", "url": f"{BASE}/", "name": "Niederau.nl", "inLanguage": ["nl", "en", "de", "fr", "pl"]}] + ld_graph}, ensure_ascii=False, indent=1)
     tog = f'<button class="season-toggle" type="button" aria-label="{e(ui("toggle_label", lang))}" title="{e(ui("toggle_label", lang))}"><span data-only="winter">{ui("toggle_s", lang)}</span><span data-only="summer">{ui("toggle_w", lang)}</span></button>'
     return f'''<!doctype html>
 <html lang="{lang}">
