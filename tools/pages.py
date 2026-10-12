@@ -1086,6 +1086,10 @@ def build_static():
             if d.get("album"):
                 _i = LANGS.index(lang)
                 img += '<div class="album">' + "".join(f'<figure class="album-fig"><img src="/assets/img/{f}.webp" width="{w}" height="{h}" loading="lazy" alt="{e(al[_i])}"><figcaption>{e(cp[_i])}</figcaption></figure>' for f, w, h, al, cp in ABOUT["album"]) + '</div>'
+            for ph in d.get("photos", []):
+                lu = ph.get("lic_url_" + lang) or ph["lic_url"]
+                img += (f'<figure class="album-fig"><img src="/assets/img/{ph["file"]}.webp" width="{ph["w"]}" height="{ph["h"]}" loading="lazy" decoding="async" alt="{e(_t(ph["alt"], lang))}">'
+                        f'<figcaption>{e(_t(ph["cap"], lang))} <a href="{lu}" rel="license noopener" target="_blank">{e(ph["lic"])}</a>. {e(_t(ph["note"], lang))}</figcaption></figure>')
             if d.get("image_winter") or d.get("image_summer"):
                 if d.get("image_winter"): img += gen_one(d["image_winter"], lang, ' data-only="winter"')
                 if d.get("image_summer"): img += gen_one(d["image_summer"], lang, ' data-only="summer"')
