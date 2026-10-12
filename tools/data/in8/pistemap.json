@@ -1,0 +1,24 @@
+{"facts":[
+{"claim":"Totale pistelengte Ski Juwel Alpbachtal Wildschönau","value":"ca. 113 km (97 km pistes + 16 km skiroutes); andere bronnen noemen 109 of 114 km","source":"tirol.at skigebied-pagina (zoekresultaat, niet geopend); schneehoehen.de; skiresort","confidence":"unclear"},
+{"claim":"Aantal liften Ski Juwel","value":"43-45 (bronnen verschillen; persmap 2022: 45)","source":"zoekresultaten tirol.at / presseportal.de persmap 2022 / hdsports.org","confidence":"unclear"},
+{"claim":"Hoogste en laagste punt liftgebied","value":"830 m tot 2.030 m (Top of Alpbachtal); Wiedersberger Horn 2.128 m is hoogste berg van de regio, niet liftpunt","source":"zoekresultaten (tirol.at-portaal, persmap 2022)","confidence":"unclear"},
+{"claim":"Aantal pistes per moeilijkheid","value":"niet bevestigd","source":"geen betrouwbare bron gevonden","confidence":"unclear"},
+{"claim":"Ontstaan Ski Juwel","value":"Alpbachtal en Wildschönau samengevoegd tot Ski Juwel, verbonden via de Verbindungsbahn Alpbachtal-Wildschönau; jaartal wisselt per bron (2022/23 volgens persmap; één testbericht noemt 2012/13)","source":"zoekresultaten","confidence":"unclear"},
+{"claim":"Seizoen 2026/27","value":"Verbindungsbahn gepland midden dec 2026 tot 4 april 2027; sommige liften open vanaf 4 dec 2026; Reitherkogelbahn tot midden maart 2027. 'Momenteel gepland', kan wijzigen","source":"skijuwel.com/en/winter/operating-times (zoekresultaat-snippet, niet geopend)","confidence":"ok"},
+{"claim":"Gebieden in Ski Juwel","value":"Alpbachtal (Alpbach, Reith i.A.) en Wildschönau (Auffach/Schatzberg, Niederau/Markbachjoch genoemd als onderdeel op skiresort.info/snowplaza). Wiedersbergerhorn: alleen als berg bevestigd, niet als skigebied","source":"snowplaza.nl, skiresort.info (zoekresultaten)","confidence":"unclear"},
+{"claim":"Niederau skigebied Markbachjoch/Lanerköpfl","value":"ca. 24 km pistes + 4 km skiroutes; Markbachjoch ca. 1.500 m, Lanerköpfl 1.621 m; Markbachjochbahn in Niederau","source":"skiresort.info (zoekresultaat)","confidence":"unclear"},
+{"claim":"Verbinding Niederau met rest Ski Juwel","value":"Geen piste- of liftverbinding; alleen per skibus (o.a. naar Schatzbergbahn Auffach, Markbachjochbahn Niederau, Schiesshüttl Oberau; >20 ritten per dag; gratis met Wildschönau Card)","source":"wildschoenau.com/nl/winter/skien-tirol/skibus; skiresort.info (zoekresultaten)","confidence":"ok"},
+{"claim":"Kleinskigebied Roggenboden","value":"Klein gebied in Oberau (ca. 930 m), sleepliftpiste, vooral nachtskiën/nachtrodelen (2025/26: wo en do 19.30-21.00, 7 jan-20 mrt); exploitant Franz Riedmann, Oberau 190; aanmelden verplicht","source":"wildschoenau.com evenement (zoekresultaat); tourispo.de webcam","confidence":"ok"},
+{"claim":"Andere kleine gebieden Wildschönau","value":"Schiesshüttl-lift in Oberau genoemd als skibushalte; verder niet bevestigd (Holzalm alleen MTB-context)","source":"wildschoenau.com skibus (zoekresultaat)","confidence":"unclear"}
+],
+"map_links":[
+{"label":"Ski Juwel openingstijden (officieel)","url":"https://www.skijuwel.com/en/winter/operating-times","type":"official","opened":false},
+{"label":"Ski Juwel Alpbachtal Wildschönau op tirol.at","url":"https://www.tirol.at/aktivitaeten/sport/skifahren/skigebiete/skigebiet-skijuwel-alpbachtal-wildschoenau","type":"official","opened":false},
+{"label":"Skibus Wildschönau (NL)","url":"https://www.wildschoenau.com/nl/winter/skien-tirol/skibus","type":"official","opened":false},
+{"label":"Snowplaza pistekaart Niederau","url":"https://www.snowplaza.nl/oostenrijk/ski-juwel/niederau/pistekaart/","type":"third-party","opened":false},
+{"label":"Snowplaza pistekaart Ski Juwel","url":"https://www.snowplaza.nl/oostenrijk/ski-juwel/pistekaart/","type":"third-party","opened":false},
+{"label":"OnTheSnow pistekaart","url":"https://www.onthesnow.com/tyrol/ski-juwel-alpbachtal-wildschoenau/trailmap.html","type":"third-party","opened":false},
+{"label":"Skiresort.info Markbachjoch/Lanerköpfl","url":"https://www.skiresort.info/ski-resort/markbachjoch-lanerkoepfl-niederau/","type":"third-party","opened":false},
+{"label":"J2Ski pistekaart","url":"https://www.j2ski.com/ski_resorts/austria/Ski_Juwel_Alpbachtal_Wildschonau_Piste_Map.html","type":"third-party","opened":false}
+],
+"notes":"Alle gegevens uit WebSearch-snippets; geen pagina geopend. Exacte URL van de officiële pistekaart/PDF (skijuwel.com) niet gevonden: handmatig controleren. Geen prijzen opgenomen. Cijfers (km, liften) verschillen per bron: voorzichtig formuleren ('ca.'). Roggenboden-info komt van wildschoenau.com-evenement over nachtrodelen, niet van een officiële lijst kleinskigebieden."}

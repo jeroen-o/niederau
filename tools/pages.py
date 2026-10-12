@@ -1052,6 +1052,53 @@ def build_webcam():
         write(urls[lang], shell(lang, "webcam", urls, f"{name} | Niederau.nl", desc, body, ld))
     registry.append(("webcam", urls, None))
 
+# ---------- algemene infopagina's uit tools/data/static/*.json ----------
+def _t(d, lang): return d.get(lang) or d.get("nl") or ""
+def _paras(txt): return "".join(f"<p>{e(x)}</p>" for x in txt.split("\n\n") if x.strip())
+def build_static():
+    for f in sorted((DATA / "static").glob("*.json")):
+        d = json.load(open(f, encoding="utf-8"))
+        if d.get("draft"): continue
+        urls = {l: f"/{PREFIX[l]}{d['slug'][l]}/" for l in LANGS}
+        for lang in LANGS:
+            name = _t(d["title"], lang)
+            cr, cr_ld = crumbs(lang, [(name, urls[lang])])
+            img = ""
+            if d.get("image_winter") or d.get("image_summer"):
+                if d.get("image_winter"): img += gen_one(d["image_winter"], lang, ' data-only="winter"')
+                if d.get("image_summer"): img += gen_one(d["image_summer"], lang, ' data-only="summer"')
+            secs = ""
+            for n, sec in enumerate(d.get("sections", [])):
+                h = f'<h2>{e(_t(sec["h"], lang))}</h2>' if sec.get("h") else ""
+                p = _paras(_t(sec["p"], lang)) if sec.get("p") else ""
+                lst = ""
+                if sec.get("list"):
+                    lst = '<ul class="check">' + "".join("<li>" + (f'<a href="{it["u"]}" rel="noopener" target="_blank">{e(_t(it["t"], lang))}</a>' if it.get("u") else e(_t(it["t"], lang))) + (f' <span class="muted">{e(_t(it["n"], lang))}</span>' if it.get("n") else "") + "</li>" for it in sec["list"]) + "</ul>"
+                cards = ""
+                if sec.get("cards"):
+                    cc = ""
+                    for c in sec["cards"]:
+                        lk = "".join(f'<li><a href="{x["u"]}" rel="noopener" target="_blank">{e(_t(x["l"], lang))}</a></li>' for x in c.get("links", []))
+                        cc += f'<article class="card"><h3>{e(_t(c["h"], lang))}</h3>' + (_paras(_t(c["p"], lang)) if c.get("p") else "") + (f'<ul class="links-plain">{lk}</ul>' if lk else "") + "</article>"
+                    cards = f'<div class="grid grid-two">{cc}</div>'
+                note = f'<p class="note">{e(_t(sec["note"], lang))}</p>' if sec.get("note") else ""
+                alt = " alt" if n % 2 == 0 else ""
+                secs += f'<section class="{alt.strip()}"><div class="wrap">{h}{p}{lst}{cards}{note}</div></section>'
+            faq_s, faq_ld = faq_html(d.get("faq"), lang)
+            rel = ""
+            for r in d.get("related", []):
+                if r["type"] == "guide":
+                    rel += guide_li(r["id"], lang)
+                elif r["type"] == "page":
+                    rel += f'<li><a href="/{PREFIX[lang]}{r["path"][lang]}">{e(_t(r["label"], lang))}</a></li>'
+            rel_s = f'<section class="alt"><div class="wrap"><h2>{ui("overviews", lang)}</h2><ul class="check">{rel}</ul></div></section>' if rel else ""
+            body = f'<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(_t(d["tagline"], lang))}</p>{_paras(_t(d["intro"], lang))}{img}</div></section>{secs}{faq_s}{rel_s}'
+            desc = trim_desc(_t(d["tagline"], lang) + ". " + _t(d["intro"], lang).split("\n\n")[0])
+            ld = [{"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+                  dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
+            write(urls[lang], shell(lang, "static:" + d["id"], urls, f"{name} | Niederau.nl", desc, body, ld))
+        registry.append(("static:" + d["id"], urls, None))
+
 def main():
     # oude uitvoer opruimen (alleen gegenereerde mappen)
     for kind in list(DIRS):
@@ -1064,6 +1111,7 @@ def main():
     build_about()
     build_photos()
     build_webcam()
+    build_static()
     build_events()
     build_event_details()
     build_guides()
