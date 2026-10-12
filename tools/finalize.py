@@ -16,10 +16,14 @@ MONTHS = {
     "nl": ["januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"],
     "en": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
     "de": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+    "fr": ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"],
+    "pl": ["stycznia", "lutego", "marca", "kwietnia", "maja", "czerwca", "lipca", "sierpnia", "września", "października", "listopada", "grudnia"],
 }
 
 def human(d, lang):
     if lang == "en": return f"{d.day} {MONTHS['en'][d.month - 1]} {d.year}"
+    if lang == "fr": return f"{d.day if d.day > 1 else '1er'} {MONTHS['fr'][d.month - 1]} {d.year}"
+    if lang == "pl": return f"{d.day} {MONTHS['pl'][d.month - 1]} {d.year}"
     if lang == "de": return f"{d.day}. {MONTHS['de'][d.month - 1]} {d.year}"
     return f"{d.day} {MONTHS['nl'][d.month - 1]} {d.year}"
 

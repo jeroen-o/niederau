@@ -3,9 +3,11 @@ TXT = {
     "nl": ("Zoek op de hele site", "Zoek op de hele site…", "Zoekresultaten"),
     "en": ("Search the whole site", "Search the whole site…", "Search results"),
     "de": ("Die ganze Website durchsuchen", "Die ganze Website durchsuchen …", "Suchergebnisse"),
+    "fr": ("Rechercher sur tout le site", "Rechercher sur tout le site…", "Résultats de recherche"),
+    "pl": ("Szukaj na całej stronie", "Szukaj na całej stronie…", "Wyniki wyszukiwania"),
 }
 
-FILT = {"nl": "Filter op soort", "en": "Filter by type", "de": "Nach Art filtern"}
+FILT = {"nl": "Filter op soort", "en": "Filter by type", "de": "Nach Art filtern", "fr": "Filtrer par type", "pl": "Filtruj według rodzaju"}
 
 def bar(lang):
     lab, ph, res = TXT[lang]
@@ -17,7 +19,7 @@ def bar(lang):
 
 NOSCRIPT = ''  # zoekbalk is standaard verborgen en verschijnt via html.js (zie CSS)
 
-BTN_LABEL = {"nl": "Zoeken", "en": "Search", "de": "Suchen"}
+BTN_LABEL = {"nl": "Zoeken", "en": "Search", "de": "Suchen", "fr": "Rechercher", "pl": "Szukaj"}
 
 def btn(lang):
     return (f'<button class="search-btn" type="button" aria-label="{BTN_LABEL[lang]}" title="{BTN_LABEL[lang]}" aria-controls="q">'

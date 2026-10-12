@@ -13,6 +13,11 @@ if _norm != src:
 # SEO/GEO-blok wordt per taal opnieuw gemaakt door tools/seo.py
 src = re.sub(r"<!-- SEO:START.*?<!-- SEO:END -->\n?", "", src, flags=re.S)
 src = re.sub(r' srcset="[^"]*" sizes="[^"]*"', "", src)
+# i18n/build_lang.py voegt FR/PL toe aan hreflang en taalkiezer van de NL-startpagina; hier weer terugzetten
+src = re.sub(r'<link rel="alternate" hreflang="(fr|pl)" href="[^"]*">\n', "", src)
+_LANG_OLD = ('<div class="lang" role="group" aria-label="Taal">\n        <a href="./" hreflang="nl" lang="nl" aria-current="true">NL</a>\n'
+             '        <a href="en/" hreflang="en" lang="en">EN</a>\n        <a href="de/" hreflang="de" lang="de">DE</a>\n      </div>')
+src = re.sub(r'<div class="lang" role="group" aria-label="Taal">.*?</div>', lambda m: _LANG_OLD, src, flags=re.S)
 src = re.sub(r'<script type="application/ld\+json">.*?</script>\n?', "", src, flags=re.S)
 
 # Structurele vervangingen (paden, ankers, taalknoppen) per taal
