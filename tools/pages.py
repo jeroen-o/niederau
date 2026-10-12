@@ -31,6 +31,7 @@ UI = {
  "events_h": ("Terugkerende evenementen", "Recurring events", "Wiederkehrende Veranstaltungen"),
  "guides_h": ("Handige gidsen", "Useful guides", "Hilfreiche Ratgeber"),
  "n_photos": ("Foto’s", "Photos", "Fotos"),
+ "n_webcam": ("Webcam", "Webcam", "Webcam"),
  "n_about": ("Over deze site", "About this site", "Über diese Seite"),
  "n_guides": ("Gidsen", "Guides", "Ratgeber"),
  "read_more": ("Lees meer", "Read more", "Mehr lesen"),
@@ -407,6 +408,7 @@ def shell(lang, key, urls, title, desc, body, ld_graph, og_type="article", img=N
         <li><a href="{u_guides(lang)}">{ui("n_guides", lang)}</a></li>
         <li><a href="{u_about(lang)}">{ui("n_about", lang)}</a></li>
         <li><a href="{u_photos(lang)}">{ui("n_photos", lang)}</a></li>
+        <li><a href="{u_webcam(lang)}">{ui("n_webcam", lang)}</a></li>
         <li><a href="/{PREFIX[lang]}markbachjoch/">{ui("n_mb", lang)}</a></li>
       </ul>
     </div>
@@ -956,6 +958,100 @@ def build_photos():
         write(urls[lang], shell(lang, "photos", urls, f"{name} | Niederau.nl", desc, body, ld, img="hotel-wastlhof-niederau-zomer-groot"))
     registry.append(("photos", urls, None))
 
+# ---------- webcampagina ----------
+WEBCAM = {
+ "slug": ("webcam", "webcam", "webcam"),
+ "title": ("Webcam Niederau: live beelden van de pistes en het dorp", "Niederau webcam: live views of the slopes and the village", "Webcam Niederau: Live-Bilder von Pisten und Dorf"),
+ "short": ("Webcam", "Webcam", "Webcam"),
+ "tagline": ("Webcams bij Niederau en in de Wildschönau: waar ze staan en wat je ziet", "Webcams near Niederau and in the Wildschönau: where they are and what you see", "Webcams bei Niederau und in der Wildschönau: wo sie stehen und was man sieht"),
+ "intro": ("Wie naar Niederau gaat, wil vooraf weten hoeveel sneeuw er ligt, of de bergen vrij zijn en hoe druk het is. Een webcam geeft in één blik antwoord. Op deze pagina vind je de bekendste camera’s bij Niederau en in de rest van de Wildschönau, met uitleg over wat je ziet en waar je de beelden opent. We tonen zelf geen live beelden van derden op deze site; je opent ze bij de aanbieder. Zo blijft deze pagina snel en worden er geen gegevens met derden gedeeld.",
+           "Anyone heading to Niederau wants to know beforehand how much snow there is, whether the mountains are clear and how busy it is. A webcam answers that at a glance. On this page you will find the best-known cameras near Niederau and in the rest of the Wildschönau, with an explanation of what you see and where to open the images. We do not show third-party live images on this site; you open them with the provider. That keeps this page fast and shares no data with third parties.",
+           "Wer nach Niederau reist, möchte vorab wissen, wie viel Schnee liegt, ob die Berge frei sind und wie voll es ist. Eine Webcam beantwortet das auf einen Blick. Auf dieser Seite findest du die bekanntesten Kameras bei Niederau und im Rest der Wildschönau, mit Erklärungen, was man sieht und wo man die Bilder öffnet. Wir zeigen auf dieser Seite selbst keine Live-Bilder Dritter; du öffnest sie beim Anbieter. So bleibt diese Seite schnell und es werden keine Daten an Dritte weitergegeben."),
+ "cams_h": ("Welke webcams zijn er?", "Which webcams are there?", "Welche Webcams gibt es?"),
+ "cams": [
+  (("Markbachjoch (boven Niederau)", "Markbachjoch (above Niederau)", "Markbachjoch (oberhalb von Niederau)"),
+   ("De bekendste camera voor Niederau. Volgens lokale bronnen staat hij bij de startplaats van de paragliders op het Markbachjoch en kijkt hij over het ski- en wandelgebied aan de ingang van het dal. Handig om vooraf de sneeuw op de pistes en de bewolking rond de berg te zien.",
+    "The best-known camera for Niederau. According to local sources it stands at the paragliding launch site on the Markbachjoch and looks out over the ski and hiking area at the entrance of the valley. Handy for checking the snow on the slopes and the cloud around the mountain beforehand.",
+    "Die bekannteste Kamera für Niederau. Laut lokalen Quellen steht sie am Startplatz der Gleitschirmflieger auf dem Markbachjoch und blickt über das Ski- und Wandergebiet am Taleingang. Praktisch, um vorab den Schnee auf den Pisten und die Wolken um den Berg zu sehen."),
+   ((("Feratel: Markbachjoch",) * 3, "https://www.feratel.com/en/webcams/austria/tyrol/wildschoenau-markbachjoch"), (("Skiresort.info: Markbachjoch (met archief)", "Skiresort.info: Markbachjoch (with archive)", "Skiresort.info: Markbachjoch (mit Archiv)"), "https://www.skiresort.info/ski-resort/markbachjochlanerkoepfl-niederau/livestream/193/"))),
+  (("Schatzberg (Auffach)", "Schatzberg (Auffach)", "Schatzberg (Auffach)"),
+   ("Bij de Schatzbergbahn staan volgens de overzichten twee camera’s: bij het bergstation en bij de Gernalm. Ze laten zien hoe het bovenin het skigebied aan de kant van Auffach is.",
+    "According to the overviews there are two cameras at the Schatzbergbahn: one at the top station and one at the Gernalm. They show what it is like at the top of the ski area on the Auffach side.",
+    "An der Schatzbergbahn gibt es laut den Übersichten zwei Kameras: an der Bergstation und an der Gernalm. Sie zeigen, wie es oben im Skigebiet auf der Auffacher Seite aussieht."),
+   ((("Overzicht webcams Wildschönau (Tirol.at)", "Overview of webcams Wildschönau (Tirol.at)", "Übersicht Webcams Wildschönau (Tirol.at)"), "https://www.tirol.at/reiseservice/webcams/webcams-wildschoenau"),)),
+  (("Drachental (Oberau)", "Drachental (Oberau)", "Drachental (Oberau)"),
+   ("De camera bij het Drachental Familienpark in het dorpscentrum van Oberau toont het park en het dorp. Handig als je met kinderen een dag naar de alpine coaster wilt.",
+    "The camera at the Drachental family park in the centre of Oberau shows the park and the village. Handy if you plan a day with children at the alpine coaster.",
+    "Die Kamera am Familienpark Drachental im Ortszentrum von Oberau zeigt den Park und das Dorf. Praktisch, wenn du mit Kindern einen Tag an der Alpine Coaster planst."),
+   ((("Feratel: Drachental",) * 3, "https://www.feratel.com/en/webcams/austria/tyrol/wildschoenau-drachental"),)),
+  (("Roggenboden, Wiedersbergerhorn en meer", "Roggenboden, Wiedersbergerhorn and more", "Roggenboden, Wiedersbergerhorn und mehr"),
+   ("Ook het kleine skigebied Roggenboden bij Oberau heeft een camera. In het Ski Juwel-gebied zijn er volgens de overzichten verder camera’s bij het Wiedersbergerhorn en de Reitherkogelbahn, aan de kant van Alpbach en Reith.",
+    "The small ski area Roggenboden near Oberau also has a camera. In the Ski Juwel area the overviews also list cameras at the Wiedersbergerhorn and the Reitherkogelbahn, on the Alpbach and Reith side.",
+    "Auch das kleine Skigebiet Roggenboden bei Oberau hat eine Kamera. Im Skigebiet Ski Juwel gibt es laut den Übersichten außerdem Kameras am Wiedersberger Horn und an der Reitherkogelbahn, auf der Seite von Alpbach und Reith."),
+   ((("Overzicht webcams Wildschönau (Tirol.at)", "Overview of webcams Wildschönau (Tirol.at)", "Übersicht Webcams Wildschönau (Tirol.at)"), "https://www.tirol.at/reiseservice/webcams/webcams-wildschoenau"),)),
+ ],
+ "see_h": ("Wat je ziet, en wat niet", "What you see, and what you don’t", "Was man sieht, und was nicht"),
+ "see_p": ("Een webcam laat één plek zien, op één moment. Het beeld kan een paar minuten tot een uur oud zijn, dus kijk naar het tijdstempel. Een camera op de berg zegt niets over het weer in het dal, en andersom. Buiten het seizoen staan de liften stil en kunnen sommige camera’s een ouder of ander beeld tonen. Op een mistige dag zie je niets: dat is zelf ook informatie.",
+           "A webcam shows one place at one moment. The image can be a few minutes to an hour old, so look at the timestamp. A camera on the mountain says nothing about the weather in the valley, and the other way round. Outside the season the lifts are idle and some cameras may show an older or different image. On a foggy day you see nothing: that is information too.",
+           "Eine Webcam zeigt einen Ort zu einem Zeitpunkt. Das Bild kann einige Minuten bis eine Stunde alt sein, achte also auf den Zeitstempel. Eine Kamera am Berg sagt nichts über das Wetter im Tal aus, und umgekehrt. Außerhalb der Saison stehen die Lifte still, und manche Kameras zeigen ein älteres oder anderes Bild. An einem nebligen Tag sieht man nichts: auch das ist eine Information."),
+ "before_h": ("Voor je vertrekt: webcam, sneeuw, liften en weer", "Before you set off: webcam, snow, lifts and weather", "Vor der Abreise: Webcam, Schnee, Lifte und Wetter"),
+ "before_p": ("Een webcam is maar één stuk van het plaatje. Combineer hem met deze actuele bronnen:", "A webcam is only one piece of the picture. Combine it with these current sources:", "Eine Webcam ist nur ein Teil des Bildes. Kombiniere sie mit diesen aktuellen Quellen:"),
+ "links": [
+  (("Sneeuwhoogtes Wildschönau (Tirol.at)", "Snow depths Wildschönau (Tirol.at)", "Schneehöhen Wildschönau (Tirol.at)"), "https://www.tirol.at/reiseservice/schneehoehen/schneehoehen-wildschoenau"),
+  (("Sneeuwbericht en liftstatus (Bergfex)", "Snow report and lift status (Bergfex)", "Schneebericht und Liftstatus (Bergfex)"), "https://www.bergfex.com/wildschoenau/schneebericht/"),
+  (("Weersverwachting (Geosphere Austria)", "Weather forecast (Geosphere Austria)", "Wettervorhersage (Geosphere Austria)"), "https://www.geosphere.at/de#cut=0&tab=chart&point_id=1956"),
+  (("Lawinerapport Tirol", "Avalanche report Tyrol", "Lawinenlagebericht Tirol"), "https://avalanche.report/")],
+ "season_p": ("Het skiseizoen 2026/27 in Ski Juwel begint volgens de aankondiging op 4 december 2026. Tot dan kunnen de camera’s beelden uit de herfst of van de voorbereidingen tonen.",
+              "According to the announcement the 2026/27 ski season in Ski Juwel starts on 4 December 2026. Until then the cameras may show autumn images or preparations.",
+              "Die Skisaison 2026/27 im Ski Juwel beginnt laut Ankündigung am 4. Dezember 2026. Bis dahin können die Kameras Herbstbilder oder Vorbereitungen zeigen."),
+ "related_h": ("Meer over Niederau en het skigebied", "More about Niederau and the ski area", "Mehr zu Niederau und zum Skigebiet"),
+ "faq": [
+  (("Is er een webcam van Niederau?", "Is there a webcam of Niederau?", "Gibt es eine Webcam von Niederau?"),
+   ("Ja. De bekendste camera staat op het Markbachjoch boven Niederau en kijkt over het ski- en wandelgebied. Daarnaast zijn er camera’s bij het Schatzberg, in het Drachental in Oberau en in het Ski Juwel-gebied.",
+    "Yes. The best-known camera stands on the Markbachjoch above Niederau and looks over the ski and hiking area. There are also cameras at the Schatzberg, in the Drachental in Oberau and in the Ski Juwel area.",
+    "Ja. Die bekannteste Kamera steht auf dem Markbachjoch oberhalb von Niederau und blickt über das Ski- und Wandergebiet. Außerdem gibt es Kameras am Schatzberg, im Drachental in Oberau und im Skigebiet Ski Juwel.")),
+  (("Zie je op de webcam het hele skigebied?", "Do you see the whole ski area on the webcam?", "Sieht man auf der Webcam das ganze Skigebiet?"),
+   ("Nee. Een camera toont één plek. Voor het hele skigebied kijk je ook naar de sneeuwhoogtes en de liftstatus, die per lift en piste kunnen verschillen.",
+    "No. A camera shows one place. For the whole ski area also check the snow depths and lift status, which can differ per lift and slope.",
+    "Nein. Eine Kamera zeigt einen Ort. Für das ganze Skigebiet solltest du auch Schneehöhen und Liftstatus prüfen, die je nach Lift und Piste verschieden sein können.")),
+  (("Waar vind ik de actuele sneeuwhoogte?", "Where do I find the current snow depth?", "Wo finde ich die aktuelle Schneehöhe?"),
+   ("Op de overzichtspagina met sneeuwhoogtes van Tirol.at en in het sneeuwbericht van Bergfex. Beide worden elke dag bijgewerkt in het seizoen; de links staan op deze pagina.",
+    "On the snow-depth overview of Tirol.at and in the Bergfex snow report. Both are updated daily in season; the links are on this page.",
+    "Auf der Schneehöhen-Übersicht von Tirol.at und im Schneebericht von Bergfex. Beide werden in der Saison täglich aktualisiert; die Links stehen auf dieser Seite.")),
+  (("Waarom toont deze site de webcam niet zelf?", "Why doesn’t this site show the webcam itself?", "Warum zeigt diese Seite die Webcam nicht selbst?"),
+   ("Live beelden komen van de aanbieders, en door ze niet in te sluiten blijft deze site snel en worden er geen bezoekersgegevens met derden gedeeld. Je opent het beeld in een nieuw tabblad bij de aanbieder.",
+    "Live images come from the providers, and by not embedding them this site stays fast and shares no visitor data with third parties. You open the image in a new tab with the provider.",
+    "Live-Bilder stammen von den Anbietern; weil wir sie nicht einbetten, bleibt diese Seite schnell und es werden keine Besucherdaten an Dritte weitergegeben. Du öffnest das Bild in einem neuen Tab beim Anbieter.")),
+ ],
+}
+def u_webcam(lang): return f"/{PREFIX[lang]}{WEBCAM['slug'][LANGS.index(lang)]}/"
+def guide_li(gid, lang):
+    g = next(x for x in GUIDES if x["id"] == gid)
+    return f'<li><a href="{u_guide(g, lang)}">{e(L(g["title"], lang))}</a></li>'
+def build_webcam():
+    urls = {l: u_webcam(l) for l in LANGS}
+    for lang in LANGS:
+        i = LANGS.index(lang); name = WEBCAM["title"][i]
+        cr, cr_ld = crumbs(lang, [(name, urls[lang])])
+        cards = ""
+        for (cn, ct, links) in WEBCAM["cams"]:
+            lk = "".join(f'<li><a href="{u}" rel="noopener" target="_blank">{e(l[i])}</a></li>' for l, u in links)
+            cards += f'<article class="card"><h3>{e(cn[i])}</h3><p>{e(ct[i])}</p><ul class="links-plain">{lk}</ul></article>'
+        before = "".join(f'<li><a href="{u}" rel="noopener" target="_blank">{e(l[i])}</a></li>' for l, u in WEBCAM["links"])
+        faq = [{"q": {"nl": q[0], "en": q[1], "de": q[2]}, "a": {"nl": a[0], "en": a[1], "de": a[2]}} for q, a in WEBCAM["faq"]]
+        faq_s, faq_ld = faq_html(faq, lang)
+        rel = f'<li><a href="/{PREFIX[lang]}markbachjoch/">{ui("n_mb", lang)}</a></li>{guide_li("ski-juwel", lang)}{guide_li("veilig-in-de-bergen", lang)}<li><a href="{u_events(lang)}">{ui("n_events", lang)}</a></li>'
+        body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(WEBCAM["tagline"][i])}</p><p>{e(WEBCAM["intro"][i])}</p>{gen_one("niederau-skien-markbachjoch", lang, ' data-only="winter"')}{gen_one("niederau-markbachjochbahn-gondel", lang, ' data-only="summer"')}</div></section>
+<section class="alt"><div class="wrap"><h2>{e(WEBCAM["cams_h"][i])}</h2><div class="grid grid-two">{cards}</div></div></section>
+<section><div class="wrap"><h2>{e(WEBCAM["see_h"][i])}</h2><p>{e(WEBCAM["see_p"][i])}</p><h2>{e(WEBCAM["before_h"][i])}</h2><p>{e(WEBCAM["before_p"][i])}</p><ul class="check">{before}</ul><p>{e(WEBCAM["season_p"][i])}</p></div></section>
+{faq_s}
+<section class="alt"><div class="wrap"><h2>{e(WEBCAM["related_h"][i])}</h2><ul class="check">{rel}</ul></div></section>'''
+        desc = trim_desc(WEBCAM["tagline"][i] + ". " + WEBCAM["intro"][i])
+        ld = [{"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+              dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
+        write(urls[lang], shell(lang, "webcam", urls, f"{name} | Niederau.nl", desc, body, ld))
+    registry.append(("webcam", urls, None))
+
 def main():
     # oude uitvoer opruimen (alleen gegenereerde mappen)
     for kind in list(DIRS):
@@ -967,6 +1063,7 @@ def main():
     for t in themes: build_theme(t)
     build_about()
     build_photos()
+    build_webcam()
     build_events()
     build_event_details()
     build_guides()

@@ -181,6 +181,7 @@ if _reg.exists():
 - Alpbach (~40 min, or on skis via Ski Juwel); Zillertal steam train from Jenbach (~40 min); Swarovski Kristallwelten in Wattens (~45 min); Kitzbühel (~45 min); Achensee (~50 min); Innsbruck with Goldenes Dachl, Nordkettenbahn and Alpenzoo (~1 hour).
 - Monsterroller and MountainCart on the Spieljoch above Fügen (Zillertal, ~50 min from Niederau): guided summer descent of about 6.5 km from the top station to the middle station, from about 10 years depending on height, 2026 prices Monsterroller EUR 20, MountainCart EUR 30 (operator figures, subject to change), advance booking advised (https://niederau.nl/en/activities/adventure/monsterroller-spieljoch-fuegen/).
 - Golf: a page per golf course within 75 km of Niederau (Kitzbühel, Westendorf, Wilder Kaiser, Kaiserwinkl, Zillertal-Uderns, Achensee, Innsbruck-Igls, Seefeld, Pinzgau and the Bavarian Chiemgau), overview at https://niederau.nl/en/activities/golf/. Greenfees are deliberately not listed; check with each club.
+- Webcams: page with the webcams near Niederau and in the Wildschönau (Markbachjoch above Niederau, Schatzberg/Auffach, Drachental/Oberau, Roggenboden, Ski Juwel), where to open the live images, and where to check snow depth, lift status and weather: https://niederau.nl/en/webcam/ (live images are not embedded; the page links to the providers).
 
 ## History
 - 1193–1195: first written mention of the Wildschönau.
