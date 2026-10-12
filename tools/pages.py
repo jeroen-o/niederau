@@ -772,6 +772,16 @@ GH = {"title": ("Gidsen en praktische tips", "Guides and practical tips", "Ratge
                 "Hier finden Sie vertiefende Ratgeber für Ihren Aufenthalt in Niederau und der Wildschönau: wann man am besten kommt, wie man anreist, was man isst und wie man sicher in die Berge geht. Sie ergänzen die Seiten zu Aktivitäten und Orten.")}
 def u_guide(g, lang): return f"/{PREFIX[lang]}{DIRS['guide'][lang]}/{g['slug'][lang]}/"
 def u_guides(lang): return f"/{PREFIX[lang]}{DIRS['guide'][lang]}/"
+STORY_SLUG = ("familieverhaal-wastlhof", "family-story-wastlhof", "familiengeschichte-wastlhof")
+def album_fig(g, lang):
+    """Foto uit het familiealbum met bijschrift en link naar het familieverhaal (optioneel veld `album` in een gids)."""
+    a = g.get("album")
+    if not a: return ""
+    i = LANGS.index(lang)
+    f, w, h, al, _cp = next(x for x in ABOUT["album"] if x[0] == a["file"])
+    return (f'<figure class="album-fig"><img src="/assets/img/{f}.webp" width="{w}" height="{h}" loading="lazy" alt="{e(al[i])}">'
+            f'<figcaption>{e(L(a["caption"], lang))} <a href="/{PREFIX[lang]}{STORY_SLUG[i]}/">{e(L(a["link"], lang))}</a></figcaption></figure>')
+
 def build_guides():
     if not GUIDES: return
     for g in GUIDES:
@@ -786,7 +796,7 @@ def build_guides():
             faq_s, faq_ld = faq_html(g.get("faq"), lang)
             body = f'''<section aria-labelledby="h-top"><div class="wrap split" style="align-items:start">
 <div>{cr}<p class="eyebrow">{GH["title"][LANGS.index(lang)]}</p><h1 id="h-top">{e(name)}</h1><p class="lead">{e(L(g.get("tagline", {}), lang))}</p>{intro}</div>
-<div>{gen_fig("guide:" + g["id"], lang)}{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
+<div>{gen_fig("guide:" + g["id"], lang)}{album_fig(g, lang)}{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
 <section class="alt"><div class="wrap">{secs}</div></section>{faq_s}'''
             desc = (L(g.get("tagline", {}), lang) + " " + " ".join(paras(L(g.get("intro", {}), lang)))[:170]).strip()[:300]
             ld = [{"@type": "Article", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "headline": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "image": [OG], "mainEntityOfPage": BASE + urls[lang], "author": {"@type": "Organization", "name": "Niederau.nl"}, "publisher": {"@id": f"{BASE}/#website"}},
