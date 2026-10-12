@@ -179,6 +179,7 @@ def main_nav(lang):
 
 
 ABOUT_URL = {"nl": "/over/", "en": "/en/about/", "de": "/de/ueber-uns/"}
+WEBCAM_URL = {"nl": "/webcam/", "en": "/en/webcam/", "de": "/de/webcam/"}
 
 def render(lang):
     g = lambda k: L[k][lang]
@@ -405,6 +406,7 @@ def render(lang):
         <li><a href="#liften">{g("n_lifts")}</a></li>
         <li><a href="#eten">{g("n_food")}</a></li>
         <li><a href="#geschiedenis">{g("n_hist")}</a></li>
+        <li><a href="{WEBCAM_URL[lang]}">Webcam</a></li>
         <li><a href="{ABOUT_URL[lang]}">{g("f_over")}</a></li>
       </ul>
     </div>
