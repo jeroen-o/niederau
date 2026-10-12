@@ -2255,6 +2255,10 @@
 "date": "2026-10-12",
 "hash": "6c977545da088a6d3e71e2ad776eb1e41498a28a"
 },
+"de/familiengeschichte-wastlhof/index.html": {
+"date": "2026-10-12",
+"hash": "9d06fe41fa08740d29fd73c26cf25b4658dfc3ae"
+},
 "de/fotos/index.html": {
 "date": "2026-10-12",
 "hash": "266123c0e1f7dda5a5a52505f3624b057a3a0c88"
@@ -2265,7 +2269,7 @@
 },
 "de/index.html": {
 "date": "2026-10-12",
-"hash": "f489ac043652ac358e202f4d2da45b03c99fd231"
+"hash": "3362979cd76ecd5583c28677fb3ff4c912b6e02a"
 },
 "de/markbachjoch/index.html": {
 "date": "2026-10-12",
@@ -3903,6 +3907,10 @@
 "date": "2026-10-12",
 "hash": "0c45d526852e84c739f8d5ce21cb0a07ad4a4282"
 },
+"en/family-story-wastlhof/index.html": {
+"date": "2026-10-12",
+"hash": "0e8e60454cae46958cf63bb59c8af96b693a0f1a"
+},
 "en/guides/a-week-in-niederau-summer/index.html": {
 "date": "2026-10-12",
 "hash": "7e27dddc53dbae097a642b19340850aa9cefacb1"
@@ -3985,7 +3993,7 @@
 },
 "en/index.html": {
 "date": "2026-10-12",
-"hash": "78ac522b50407535bb4ceba746f387f4aabf4109"
+"hash": "c94d52cd6fa46800b9f31e23ad50b60f4468dc7a"
 },
 "en/legal-notice/index.html": {
 "date": "2026-10-12",
@@ -4386,6 +4394,10 @@
 "en/webcam/index.html": {
 "date": "2026-10-12",
 "hash": "542151e7f641c080918d7b85259e1ccdbc23f095"
+},
+"familieverhaal-wastlhof/index.html": {
+"date": "2026-10-12",
+"hash": "6f521cc14b77f7b6b0e30d4575d227ebf5b5154e"
 },
 "fotos/index.html": {
 "date": "2026-10-12",
@@ -5531,6 +5543,10 @@
 "date": "2026-10-12",
 "hash": "4122cae32a053690e2c8123658264493f3cb39a3"
 },
+"fr/family-story-wastlhof/index.html": {
+"date": "2026-10-12",
+"hash": "9b318e9bc535f842376237ec255f9c47614b212e"
+},
 "fr/guides/a-week-in-niederau-summer/index.html": {
 "date": "2026-10-12",
 "hash": "3165cd088d79e2beb5ee3240e82f6da6b60a80cb"
@@ -5613,7 +5629,7 @@
 },
 "fr/index.html": {
 "date": "2026-10-12",
-"hash": "c832e4bda322f18c0d4d86d4c4e628dd7ca98483"
+"hash": "6c55f448775c040a4f502a092606bdf73100fad9"
 },
 "fr/legal-notice/index.html": {
 "date": "2026-10-12",
@@ -6097,7 +6113,7 @@
 },
 "index.html": {
 "date": "2026-10-12",
-"hash": "e81b945ae4723923dc9857ebef1dbdfb52fafdc2"
+"hash": "39cd2bccaa92f568fad2eaaf5c153c277a46b028"
 },
 "markbachjoch/index.html": {
 "date": "2026-10-12",
@@ -7595,6 +7611,10 @@
 "date": "2026-10-12",
 "hash": "dcfd5dcb3f4e7623d335986bed942fe7cc569470"
 },
+"pl/family-story-wastlhof/index.html": {
+"date": "2026-10-12",
+"hash": "aacd0c95fee1b40cdb9f645793817fd8eb504ddd"
+},
 "pl/guides/a-week-in-niederau-summer/index.html": {
 "date": "2026-10-12",
 "hash": "71aeb4598f9079d016b80032dd418c9de16ad63f"
@@ -7677,7 +7697,7 @@
 },
 "pl/index.html": {
 "date": "2026-10-12",
-"hash": "349114deecc0cf6cdd6d22a202ee3df5c935bae2"
+"hash": "818bca2d5ef222b5a8089c00ebd5bb5196210c6d"
 },
 "pl/kamery-niederau/index.html": {
 "date": "2026-10-12",

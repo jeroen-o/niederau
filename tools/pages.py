@@ -1069,6 +1069,9 @@ def build_static():
             name = _t(d["title"], lang)
             cr, cr_ld = crumbs(lang, [(name, urls[lang])])
             img = ""
+            if d.get("album"):
+                _i = LANGS.index(lang)
+                img += '<div class="album">' + "".join(f'<figure class="album-fig"><img src="/assets/img/{f}.webp" width="{w}" height="{h}" loading="lazy" alt="{e(al[_i])}"><figcaption>{e(cp[_i])}</figcaption></figure>' for f, w, h, al, cp in ABOUT["album"]) + '</div>'
             if d.get("image_winter") or d.get("image_summer"):
                 if d.get("image_winter"): img += gen_one(d["image_winter"], lang, ' data-only="winter"')
                 if d.get("image_summer"): img += gen_one(d["image_summer"], lang, ' data-only="summer"')
