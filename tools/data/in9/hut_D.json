@@ -1,0 +1,467 @@
+[
+ {
+  "id": "h22",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "kafner-ast-alpbach",
+  "slug_de": "kafner-ast-alpbach",
+  "title": {
+   "nl": "Kafner Ast",
+   "en": "Kafner Ast",
+   "de": "Kafner Ast"
+  },
+  "tagline": {
+   "nl": "Zelfbediening met zonneterras op de Wiedersbergerhorn",
+   "en": "Self-service hut with a sun terrace on the Wiedersbergerhorn",
+   "de": "Selbstbedienung mit Sonnenterrasse am Wiedersbergerhorn"
+  },
+  "intro": {
+   "nl": "De Kafner Ast is een skihut op ongeveer 1.600 m hoogte aan de Wiedersbergerhorn, bij Alpbach. Je vindt hem langs de piste onder de zesstoelslift Gmah, in het hart van Ski Juwel Alpbachtal Wildschönau. Het is een zelfbedieningsrestaurant: je pakt je eigen eten en drinken en zoekt daarna een plek.\n\nBinnen zijn de gezellige stuben met houten lambrisering, buiten ligt een zonnig terras. Volgens de officiële pagina van Ski Juwel staan er ook zelfgebakken taarten op het aanbod, en is de hut een ontmoetingsplek voor zowel locals als gasten. Een bron van Tirol.at noemt het een familiebedrijf dat onlangs is gerenoveerd. Slaapplaatsen zijn er volgens een overzicht niet; het is een hut voor een pauze overdag.",
+   "en": "The Kafner Ast is a ski hut at roughly 1,600 m on the Wiedersbergerhorn above Alpbach. It stands beside the piste under the Gmah six-seater chairlift, in the middle of the Ski Juwel Alpbachtal Wildschönau area. It works on a self-service basis: you collect your own food and drink and then pick a table.\n\nIndoors there are panelled wooden parlours, and outside is a sunny terrace. According to the official Ski Juwel page, home-baked cakes are on offer and the hut is a meeting point for locals and visitors alike. A Tirol.at article describes it as family-run and recently renovated. One overview lists no beds, so think of it as a daytime stop rather than a place to stay.",
+   "de": "Die Kafner Ast ist eine Skihütte auf rund 1.600 m am Wiedersbergerhorn oberhalb von Alpbach. Sie liegt an der Piste unter dem Sechser-Sessellift Gmah, mitten im Ski Juwel Alpbachtal Wildschönau. Es ist ein Selbstbedienungsbetrieb: Man holt sich Essen und Getränke selbst und sucht sich dann einen Platz.\n\nDrinnen warten holzvertäfelte Stuben, draußen liegt eine sonnige Terrasse. Laut der offiziellen Ski-Juwel-Seite gibt es hausgemachte Kuchen, und die Hütte gilt als Treffpunkt für Einheimische und Gäste. Ein Beitrag auf Tirol.at nennt sie einen Familienbetrieb, der erst kürzlich renoviert wurde. Übernachtungsbetten werden laut einer Übersicht nicht angeboten, es ist also eine Hütte für die Pause zwischendurch."
+  },
+  "tips": {
+   "nl": [
+    "Haal een stuk huisgemaakte taart en zoek een plek op het terras als de zon schijnt.",
+    "De hut ligt aan de piste, dus je kunt tussendoor stoppen zonder je route te veranderen.",
+    "Neem geen overnachting mee in je planning: de hut heeft volgens een overzicht geen bedden."
+   ],
+   "en": [
+    "Try a slice of the home-baked cake and take a seat on the terrace when the sun is out.",
+    "The hut sits right by the piste, so you can stop without changing your route.",
+    "Do not plan an overnight stay: one overview lists no beds."
+   ],
+   "de": [
+    "Probier ein Stück hausgemachten Kuchen und setz dich bei Sonne auf die Terrasse.",
+    "Die Hütte liegt direkt an der Piste, du kannst also ohne Umweg einkehren.",
+    "Plane keine Übernachtung ein: Laut einer Übersicht gibt es keine Betten."
+   ]
+  },
+  "practical": {
+   "nl": "Je bereikt de hut op ski's of snowboard via de piste onder de Gmah-lift, vanaf het dal met de Wiedersbergerhornbahn. Informeer vooraf bij de hut of via de officiële site van Ski Juwel.",
+   "en": "You reach the hut on skis or snowboard via the piste beneath the Gmah lift, riding up from the valley on the Wiedersbergerhornbahn. Check with the hut or the official Ski Juwel site beforehand.",
+   "de": "Man erreicht die Hütte auf Ski oder Snowboard über die Piste unter dem Gmah-Lift, hinauf geht es mit der Wiedersbergerhornbahn. Informiere dich vorab bei der Hütte oder auf der offiziellen Ski-Juwel-Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 35 minuten rijden van Niederau naar Alpbach, daarna met de Wiedersbergerhornbahn omhoog (bij benadering)",
+    "en": "About 35 minutes by car from Niederau to Alpbach, then up by the Wiedersbergerhornbahn (approximate)",
+    "de": "Ca. 35 Autominuten von Niederau nach Alpbach, dann mit der Wiedersbergerhornbahn hinauf (Näherungswert)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Alpbach, Alpbachtal",
+   "en": "Alpbach, Alpbachtal",
+   "de": "Alpbach, Alpbachtal"
+  },
+  "url": "https://www.skijuwel.com/en/winter/huts-and-restaurants/Kafner-Ast_isd_40954",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Kafner Ast een zelfbedieningshut?",
+     "en": "Is the Kafner Ast a self-service hut?",
+     "de": "Ist die Kafner Ast eine Selbstbedienungshütte?"
+    },
+    "a": {
+     "nl": "Ja, volgens de officiële pagina van Ski Juwel werkt de hut met zelfbediening.",
+     "en": "Yes, the official Ski Juwel page describes it as self-service.",
+     "de": "Ja, laut der offiziellen Ski-Juwel-Seite wird hier selbst bedient."
+    }
+   },
+   {
+    "q": {
+     "nl": "Aan welke lift ligt de Kafner Ast?",
+     "en": "Which lift is the Kafner Ast on?",
+     "de": "An welchem Lift liegt die Kafner Ast?"
+    },
+    "a": {
+     "nl": "Aan de piste onder de zesstoelslift Gmah op de Wiedersbergerhorn.",
+     "en": "On the piste beneath the Gmah six-seater chairlift on the Wiedersbergerhorn.",
+     "de": "An der Piste unter dem Sechser-Sessellift Gmah am Wiedersbergerhorn."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h23",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "reith-im-alpbachtal",
+  "slug_en": "juppi-stadl-reith",
+  "slug_de": "juppi-stadl-reith",
+  "title": {
+   "nl": "Juppi Stadl",
+   "en": "Juppi Stadl",
+   "de": "Juppi Stadl"
+  },
+  "tagline": {
+   "nl": "Drankjes en glühwein bij het Juppi-gezinsgebied",
+   "en": "Drinks and mulled wine by the Juppi family area",
+   "de": "Getränke und Glühwein beim Juppi-Familienbereich"
+  },
+  "intro": {
+   "nl": "De Juppi Stadl staat op de Reither Kogel boven Reith im Alpbachtal, bij het gezinsgebied rond mascotte Juppi dat met de Reitherkogelbahn te bereiken is. De naam verwijst naar een Stadl, een houten schuurtje, en dat past bij het karakter: een kleine, informele plek om even te stoppen, geen groot restaurant.\n\nVolgens de toeristische pagina van het Alpbachtal draait het hier om drankjes, zoals tapbier en bubbels, en in de winter ook warme glühwein. Het is daarmee vooral een plek voor een korte pauze terwijl de kinderen in de buurt bezig zijn. Het gezinsgebied Juppi Zauberwald, een wandelroute voor de zomer, begint bij het bergstation van dezelfde lift. Voor een volledige maaltijd kijk je beter naar de hutten verderop.",
+   "en": "The Juppi Stadl stands on the Reither Kogel above Reith im Alpbachtal, close to the family area built around the mascot Juppi, which you reach by the Reitherkogelbahn. The name refers to a Stadl, a wooden barn, and that suits the character: a small, informal place to pause rather than a big restaurant.\n\nAccording to the Alpbachtal tourism listing, it is mainly about drinks, such as draught beer and sparkling wine, with mulled wine in winter. That makes it a stop for a short break while the children are busy nearby. The Juppi Zauberwald, a summer walking trail, starts at the top station of the same lift. For a full meal you are better off with the huts further along.",
+   "de": "Der Juppi Stadl steht am Reither Kogel oberhalb von Reith im Alpbachtal, nahe dem Familienbereich rund um das Maskottchen Juppi, den man mit der Reitherkogelbahn erreicht. Der Name verweist auf einen Stadl, also einen Holzstadel, und das passt: ein kleiner, lockerer Ort für eine Pause und kein großes Restaurant.\n\nLaut dem Eintrag der Alpbachtal-Tourismusseite geht es hier vor allem um Getränke wie Fassbier und Sekt, im Winter auch um Glühwein. Damit ist er eher ein Halt für eine kurze Rast, während die Kinder in der Nähe beschäftigt sind. Der Juppi Zauberwald, ein Wanderweg für den Sommer, beginnt an der Bergstation desselben Lifts. Für eine richtige Mahlzeit sind die Hütten weiter entlang besser geeignet."
+  },
+  "tips": {
+   "nl": [
+    "Combineer de stop met het Juppi-gezinsgebied bij de Reitherkogelbahn.",
+    "Reken op drankjes en een kleine pauze, niet op een uitgebreide maaltijd.",
+    "Zoek je een warm gerecht, kijk dan bij de Almstüberl Gschwendt aan dezelfde familiepiste."
+   ],
+   "en": [
+    "Combine the stop with the Juppi family area at the Reitherkogelbahn.",
+    "Expect drinks and a short break rather than a full meal.",
+    "If you want something hot to eat, look at the Almstüberl Gschwendt on the same family run."
+   ],
+   "de": [
+    "Verbinde die Einkehr mit dem Juppi-Familienbereich an der Reitherkogelbahn.",
+    "Rechne mit Getränken und einer kurzen Pause, nicht mit einem ausgiebigen Essen.",
+    "Für etwas Warmes zu essen bietet sich das Almstüberl Gschwendt an derselben Familienabfahrt an."
+   ]
+  },
+  "practical": {
+   "nl": "Neem de Reitherkogelbahn vanuit Reith im Alpbachtal. Vraag vooraf bij de hut of via de officiële site hoe het ter plekke is.",
+   "en": "Take the Reitherkogelbahn from Reith im Alpbachtal. Ask the hut or check the official site beforehand for the current situation.",
+   "de": "Mit der Reitherkogelbahn ab Reith im Alpbachtal. Informiere dich vorab bei der Hütte oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 30 minuten rijden van Niederau naar het dalstation in Reith, daarna met de lift (bij benadering)",
+    "en": "About 30 minutes by car from Niederau to the valley station in Reith, then by lift (approximate)",
+    "de": "Ca. 30 Autominuten von Niederau zur Talstation in Reith, dann mit dem Lift (Näherungswert)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Reith im Alpbachtal, Alpbachtal",
+   "en": "Reith im Alpbachtal, Alpbachtal",
+   "de": "Reith im Alpbachtal, Alpbachtal"
+  },
+  "url": "https://www.alpbachtal.at/en/info-and-service/alpbachtal-a-z/Juppi-Stadl_isd_33502",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij de Juppi Stadl een volledige maaltijd eten?",
+     "en": "Can you have a full meal at the Juppi Stadl?",
+     "de": "Gibt es im Juppi Stadl ein vollständiges Essen?"
+    },
+    "a": {
+     "nl": "De officiële omschrijving noemt vooral drankjes. Voor een warme maaltijd zijn andere hutten in de buurt geschikter.",
+     "en": "The official description mainly mentions drinks. Other huts nearby are better for a hot meal.",
+     "de": "Die offizielle Beschreibung nennt vor allem Getränke. Für ein warmes Essen eignen sich andere Hütten in der Nähe besser."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe kom je bij de Juppi Stadl?",
+     "en": "How do you get to the Juppi Stadl?",
+     "de": "Wie kommt man zum Juppi Stadl?"
+    },
+    "a": {
+     "nl": "Met de Reitherkogelbahn vanuit Reith im Alpbachtal naar de Reither Kogel.",
+     "en": "By the Reitherkogelbahn from Reith im Alpbachtal up the Reither Kogel.",
+     "de": "Mit der Reitherkogelbahn von Reith im Alpbachtal auf den Reither Kogel."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h24",
+  "new": true,
+  "theme": "hutten",
+  "season": "both",
+  "drop": false,
+  "drop_reason": "",
+  "place": "reith-im-alpbachtal",
+  "slug_en": "liftcafe-heisn-reith",
+  "slug_de": "liftcafe-heisn-reith",
+  "title": {
+   "nl": "Liftcafé Heisn",
+   "en": "Liftcafé Heisn",
+   "de": "Liftcafé Heisn"
+  },
+  "tagline": {
+   "nl": "Restaurant met speelterras bij de Reitherkogelbahn",
+   "en": "Restaurant with a play terrace at the Reitherkogelbahn",
+   "de": "Gasthaus mit Spielterrasse an der Reitherkogelbahn"
+  },
+  "intro": {
+   "nl": "Het Liftcafé Heisn ligt in Reith im Alpbachtal, direct naast het dalstation van de Reitherkogelbahn. Dat maakt het een praktische halte voor je begint of nadat je weer beneden bent. Binnen is plaats voor ongeveer 130 gasten, met nog eens zo'n 60 plekken voor grotere gezelschappen.\n\nDe keuken is traditioneel Tirools. Buiten is een zonnig terras met uitzicht op de bergen en de piste; er is een speelplek voor kinderen en er zijn parkeerplaatsen. De officiële Ski Juwel-pagina vermeldt het ook bij de berghutten voor de zomer, dus het is niet alleen een winterplek. Een vakantieverhuurder in de buurt noemt dat gasten er halfpension kunnen krijgen. Vanuit Niederau is het een rit door het dal, geen hut waar je naartoe skiet.",
+   "en": "The Liftcafé Heisn is in Reith im Alpbachtal, right beside the valley station of the Reitherkogelbahn. That makes it a handy stop before you head up or once you are back down. Inside there is room for about 130 guests, with around 60 more places for larger groups.\n\nThe cooking is traditional Tyrolean. Outside is a sunny terrace with views of the mountains and the piste, a play area for children and car parking. The official Ski Juwel site also lists it among the summer mountain huts, so it is not only a winter address. A nearby holiday-let host mentions that guests can book half board here. From Niederau it is a drive along the valley, not a hut you ski to.",
+   "de": "Das Liftcafé Heisn liegt in Reith im Alpbachtal, direkt neben der Talstation der Reitherkogelbahn. Damit ist es ein praktischer Halt, bevor man hinauffährt oder wenn man wieder unten ist. Drinnen finden etwa 130 Gäste Platz, für größere Gesellschaften kommen rund 60 weitere Plätze dazu.\n\nDie Küche ist traditionell tirolerisch. Draußen gibt es eine sonnige Terrasse mit Blick auf Berge und Piste, einen Spielbereich für Kinder und Parkplätze. Die offizielle Ski-Juwel-Seite führt es auch unter den Berghütten für den Sommer, es ist also nicht nur eine Winteradresse. Ein Ferienvermieter in der Nähe erwähnt, dass hier Halbpension möglich ist. Von Niederau aus fährt man durchs Tal, hierher fährt man nicht mit Ski."
+  },
+  "tips": {
+   "nl": [
+    "Laat de kinderen op de speelplek bij het terras terwijl jullie bijkomen.",
+    "Het is ook geschikt voor een stop met de auto, er is parkeerruimte.",
+    "Reserveer bij een grotere groep vooraf; er zijn aparte plekken voor gezelschappen."
+   ],
+   "en": [
+    "Let the children use the play area by the terrace while you catch your breath.",
+    "It also works as a stop by car, as there is parking.",
+    "For a larger group, book ahead; there are extra places for parties."
+   ],
+   "de": [
+    "Lass die Kinder auf dem Spielplatz an der Terrasse toben, während ihr verschnauft.",
+    "Auch mit dem Auto gut anzufahren, es gibt Parkplätze.",
+    "Bei größeren Gruppen vorab anfragen, es gibt zusätzliche Plätze für Gesellschaften."
+   ]
+  },
+  "practical": {
+   "nl": "Je rijdt naar Reith im Alpbachtal; het café staat bij het dalstation van de Reitherkogelbahn. Informeer vooraf bij de hut of via de officiële site.",
+   "en": "Drive to Reith im Alpbachtal; the café stands at the valley station of the Reitherkogelbahn. Ask the hut or check the official site beforehand.",
+   "de": "Man fährt nach Reith im Alpbachtal, das Café steht an der Talstation der Reitherkogelbahn. Informiere dich vorab bei der Hütte oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 30 minuten rijden van Niederau (bij benadering)",
+    "en": "About 30 minutes by car from Niederau (approximate)",
+    "de": "Ca. 30 Autominuten von Niederau (Näherungswert)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Reith im Alpbachtal, Alpbachtal",
+   "en": "Reith im Alpbachtal, Alpbachtal",
+   "de": "Reith im Alpbachtal, Alpbachtal"
+  },
+  "url": "https://www.skijuwel.com/en/summer/mountain-huts/Liftcafe-Heisn_isd_32457",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een speelplek voor kinderen?",
+     "en": "Is there a play area for children?",
+     "de": "Gibt es einen Spielbereich für Kinder?"
+    },
+    "a": {
+     "nl": "Ja, volgens de beschrijving heeft het terras een speelplek.",
+     "en": "Yes, the description mentions a play area at the terrace.",
+     "de": "Ja, laut Beschreibung gibt es an der Terrasse einen Spielbereich."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar ligt het Liftcafé Heisn?",
+     "en": "Where is the Liftcafé Heisn?",
+     "de": "Wo liegt das Liftcafé Heisn?"
+    },
+    "a": {
+     "nl": "In Reith im Alpbachtal, naast het dalstation van de Reitherkogelbahn.",
+     "en": "In Reith im Alpbachtal, next to the valley station of the Reitherkogelbahn.",
+     "de": "In Reith im Alpbachtal, neben der Talstation der Reitherkogelbahn."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h25",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "liftstueberl-alpbach",
+  "slug_de": "liftstueberl-alpbach",
+  "title": {
+   "nl": "Liftstüberl",
+   "en": "Liftstüberl",
+   "de": "Liftstüberl"
+  },
+  "tagline": {
+   "nl": "Restaurant naast de Wiedersbergerhornbahn",
+   "en": "Restaurant beside the Wiedersbergerhornbahn",
+   "de": "Gasthaus neben der Wiedersbergerhornbahn"
+  },
+  "intro": {
+   "nl": "Het Liftstüberl is een restaurant naast de Wiedersbergerhornbahn in Alpbach, midden in het skigebied Ski Juwel. De naam zegt het al: een stuberl, een gezellig kamertje, vlak bij de lift. Het ligt daardoor handig voor wie in het dal begint of eindigt met skiën.\n\nBetrouwbare details over de kaart of de inrichting zijn beperkt; de toeristische pagina van Tirol noemt vooral de ligging bij de lift. Een vakantiewoning in de omgeving geeft aan dat het restaurant ongeveer 150 m van het huis ligt, met een bushalte van de skibus in de buurt. Wil je zeker weten wat er te eten is, vraag dan ter plekke of kijk op de officiële pagina. Voor gezinnen uit Niederau past het vooral bij een dagje Alpbach.",
+   "en": "The Liftstüberl is a restaurant beside the Wiedersbergerhornbahn in Alpbach, in the middle of the Ski Juwel area. The name says it all: a Stüberl, a cosy little parlour, close to the lift. That makes it handy for anyone starting or finishing a ski day in the valley.\n\nReliable detail about the menu or the interior is limited; the Tirol tourism page mostly points out its position by the lift. A holiday home nearby says the restaurant is about 150 m away, with a ski bus stop close by. If you want to know exactly what is served, ask on the spot or look at the official page. For families from Niederau it fits best into a day out in Alpbach.",
+   "de": "Das Liftstüberl ist ein Gasthaus neben der Wiedersbergerhornbahn in Alpbach, mitten im Skigebiet Ski Juwel. Der Name sagt es schon: eine gemütliche kleine Stube, ganz nah am Lift. Praktisch ist das für alle, die ihren Skitag im Tal beginnen oder beenden.\n\nVerlässliche Angaben zu Speisekarte oder Einrichtung sind begrenzt; die Tirol-Seite hebt vor allem die Lage am Lift hervor. Ein Ferienhaus in der Nähe gibt an, dass das Lokal rund 150 m entfernt liegt, eine Skibus-Haltestelle ist in der Nähe. Wer genau wissen will, was serviert wird, fragt vor Ort nach oder schaut auf die offizielle Seite. Für Familien aus Niederau passt es am besten in einen Ausflugstag nach Alpbach."
+  },
+  "tips": {
+   "nl": [
+    "Combineer het met een dag in Alpbach: de skibus stopt in de buurt.",
+    "Vraag ter plekke naar de kaart voor je een maaltijd inplant.",
+    "Handig als pauze voor of na een rit met de Wiedersbergerhornbahn."
+   ],
+   "en": [
+    "Combine it with a day in Alpbach; a ski bus stops nearby.",
+    "Ask on the spot about the menu before planning a meal.",
+    "A handy break before or after a ride on the Wiedersbergerhornbahn."
+   ],
+   "de": [
+    "Verbinde es mit einem Tag in Alpbach, der Skibus hält in der Nähe.",
+    "Frag vor Ort nach der Speisekarte, bevor du ein Essen einplanst.",
+    "Praktisch für eine Pause vor oder nach einer Fahrt mit der Wiedersbergerhornbahn."
+   ]
+  },
+  "practical": {
+   "nl": "Het restaurant staat bij het dalstation van de Wiedersbergerhornbahn in Alpbach. Informeer vooraf bij de hut of via de officiële site.",
+   "en": "The restaurant is at the valley station of the Wiedersbergerhornbahn in Alpbach. Ask the hut or check the official site beforehand.",
+   "de": "Das Lokal steht an der Talstation der Wiedersbergerhornbahn in Alpbach. Informiere dich vorab bei der Hütte oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 35 minuten rijden van Niederau naar Alpbach (bij benadering)",
+    "en": "About 35 minutes by car from Niederau to Alpbach (approximate)",
+    "de": "Ca. 35 Autominuten von Niederau nach Alpbach (Näherungswert)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Alpbach, Alpbachtal",
+   "en": "Alpbach, Alpbachtal",
+   "de": "Alpbach, Alpbachtal"
+  },
+  "url": "https://www.tyrol.com/activities/food/restaurants/liftstueberl-2",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt het Liftstüberl?",
+     "en": "Where is the Liftstüberl?",
+     "de": "Wo liegt das Liftstüberl?"
+    },
+    "a": {
+     "nl": "Naast de Wiedersbergerhornbahn in Alpbach.",
+     "en": "Beside the Wiedersbergerhornbahn in Alpbach.",
+     "de": "Neben der Wiedersbergerhornbahn in Alpbach."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er een skibus in de buurt?",
+     "en": "Is there a ski bus nearby?",
+     "de": "Gibt es einen Skibus in der Nähe?"
+    },
+    "a": {
+     "nl": "Een verhuurder in de buurt noemt een halte van de skibus vlakbij; controleer de actuele dienstregeling.",
+     "en": "A nearby host mentions a ski bus stop close by; check the current timetable.",
+     "de": "Ein Vermieter in der Nähe nennt eine Skibus-Haltestelle in der Nähe; prüfe den aktuellen Fahrplan."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h26",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "reith-im-alpbachtal",
+  "slug_en": "almstueberl-gschwendt-reith",
+  "slug_de": "almstueberl-gschwendt-reith",
+  "title": {
+   "nl": "Almstüberl Gschwendt",
+   "en": "Almstüberl Gschwendt",
+   "de": "Almstüberl Gschwendt"
+  },
+  "tagline": {
+   "nl": "Tiroolse hut aan de familiepiste van de Reither Kogel",
+   "en": "Tyrolean hut on the Reither Kogel family run",
+   "de": "Tiroler Hütte an der Familienabfahrt am Reither Kogel"
+  },
+  "intro": {
+   "nl": "Het Almstüberl Gschwendt ligt op ongeveer 954 m hoogte in Reith im Alpbachtal, aan de familiepiste van de Reitherkogelbahn. Het is een rustige tussenstop, dus geen hut hoog op de berg: wie met kinderen naar beneden skiet, komt er vanzelf langs. Bronnen noemen het ook een bekende stop bij het avondskiën.\n\nDe keuken is traditioneel Tirools. Bezoekers noemen vooral de zelfgemaakte kaiserschmarrn en de kaasfondue. De hut is bovendien partner van de Alpbachtaler Hüttenjause, een regionaal aanbod van hutten die dezelfde ambachtelijke jause serveren. Voor gezinnen uit Niederau is het een leuke bestemming voor een rit door het dal, gecombineerd met de lift en de familiepiste.",
+   "en": "The Almstüberl Gschwendt stands at about 954 m in Reith im Alpbachtal, on the family run of the Reitherkogelbahn. It is a relaxed mid-slope stop rather than a hut high on the mountain: anyone skiing down with children will pass it naturally. Sources also mention it as a regular stop on night-skiing evenings.\n\nThe cooking is traditional Tyrolean. Visitors single out the home-made Kaiserschmarrn and the cheese fondue. The hut is also a partner in the Alpbachtal Hüttenjause, a regional scheme for huts serving the same traditional snack platter. For families from Niederau it makes a pleasant outing, combining a drive along the valley with the lift and the family run.",
+   "de": "Das Almstüberl Gschwendt liegt auf etwa 954 m in Reith im Alpbachtal, an der Familienabfahrt der Reitherkogelbahn. Es ist ein entspannter Halt auf halber Höhe und keine Hütte hoch am Berg: Wer mit Kindern ins Tal fährt, kommt ganz selbstverständlich vorbei. Quellen nennen es zudem als beliebten Halt an Nachtskilauf-Abenden.\n\nDie Küche ist traditionell tirolerisch. Besucher heben vor allem den hausgemachten Kaiserschmarrn und das Käsefondue hervor. Die Hütte ist außerdem Partner der Alpbachtaler Hüttenjause, eines regionalen Angebots von Hütten mit derselben traditionellen Brettljause. Für Familien aus Niederau ist sie ein schönes Ausflugsziel, bei dem sich die Fahrt durchs Tal mit Lift und Familienabfahrt verbinden lässt."
+  },
+  "tips": {
+   "nl": [
+    "Probeer de kaiserschmarrn of de kaasfondue, waar bezoekers het vaak over hebben.",
+    "Ideaal als pauze tijdens de afdaling met kinderen op de familiepiste.",
+    "Vraag naar de Alpbachtaler Hüttenjause als je een traditioneel hapje zoekt."
+   ],
+   "en": [
+    "Try the Kaiserschmarrn or the cheese fondue that visitors often mention.",
+    "Ideal as a break on the way down with children on the family run.",
+    "Ask about the Alpbachtal Hüttenjause if you want a traditional snack platter."
+   ],
+   "de": [
+    "Probier den Kaiserschmarrn oder das Käsefondue, die Besucher oft erwähnen.",
+    "Ideal als Pause bei der Abfahrt mit Kindern auf der Familienabfahrt.",
+    "Frag nach der Alpbachtaler Hüttenjause, wenn du eine traditionelle Brettljause möchtest."
+   ]
+  },
+  "practical": {
+   "nl": "Je komt er met de Reitherkogelbahn vanuit Reith im Alpbachtal en via de familiepiste. Informeer vooraf bij de hut of via de officiële site.",
+   "en": "You get there with the Reitherkogelbahn from Reith im Alpbachtal and along the family run. Ask the hut or check the official site beforehand.",
+   "de": "Man kommt mit der Reitherkogelbahn ab Reith im Alpbachtal und über die Familienabfahrt hin. Informiere dich vorab bei der Hütte oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 30 minuten rijden van Niederau naar Reith, daarna met de lift (bij benadering)",
+    "en": "About 30 minutes by car from Niederau to Reith, then by lift (approximate)",
+    "de": "Ca. 30 Autominuten von Niederau nach Reith, dann mit dem Lift (Näherungswert)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Reith im Alpbachtal, Alpbachtal",
+   "en": "Reith im Alpbachtal, Alpbachtal",
+   "de": "Reith im Alpbachtal, Alpbachtal"
+  },
+  "url": "https://skijuwel.com/en/summer/mountain-huts/Almstuberl-Gschwendt_isd_36224",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is hier bekend om?",
+     "en": "What is it known for?",
+     "de": "Wofür ist die Hütte bekannt?"
+    },
+    "a": {
+     "nl": "Bezoekers noemen vooral kaiserschmarrn en kaasfondue.",
+     "en": "Visitors mainly mention Kaiserschmarrn and cheese fondue.",
+     "de": "Besucher nennen vor allem Kaiserschmarrn und Käsefondue."
+    }
+   },
+   {
+    "q": {
+     "nl": "Ligt de hut aan een familiepiste?",
+     "en": "Is the hut on a family run?",
+     "de": "Liegt die Hütte an einer Familienabfahrt?"
+    },
+    "a": {
+     "nl": "Ja, aan de familiepiste van de Reitherkogelbahn in Reith im Alpbachtal.",
+     "en": "Yes, on the family run of the Reitherkogelbahn in Reith im Alpbachtal.",
+     "de": "Ja, an der Familienabfahrt der Reitherkogelbahn in Reith im Alpbachtal."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ }
+]

@@ -183,6 +183,7 @@ REGION_PHOTO = {"zillertal": "niederau-zomer-hart-lintjes-stuwmeer", "wildschoen
 
 # thema-afbeeldingen (bestaande eigen/hotelfoto's) met beschrijvende alt
 THEME_IMG = {
+ "hutten": ("niederau-jausenstation-kropfrader-joch-bord", ("Bord van een Jausenstation bij het Kropfraderjoch", "Sign of a Jausenstation at the Kropfraderjoch", "Schild einer Jausenstation am Kropfraderjoch")),
  "golf": ("niederau-zomer-golfbaan-grasvallei-bomen", ("Heuvelachtige golfbaan met een pad tussen bomen onder een blauwe lucht", "Rolling golf course with a path between trees under a blue sky", "Hügeliger Golfplatz mit einem Weg zwischen Bäumen unter blauem Himmel")),
  "wandelen": ("wildschoenau-wandelpad-alm", ("Wandelpad door de weiden naar een alm", "Footpath through the meadows to an alpine hut", "Wanderweg über die Wiesen zu einer Alm")),
  "zwemmen": ("niederau-openluchtzwembad", ("Openluchtzwembad in Niederau", "Open-air pool in Niederau", "Freibad in Niederau")),
@@ -809,7 +810,7 @@ GUIDE_BY_THEME = {"wandelen": ["wandelroutes", "veilig-in-de-bergen", "wanneer-g
  "fietsen": ["fietsroutes", "veilig-in-de-bergen", "zomerweek"], "dieren": ["met-je-hond", "paardrijden", "zomerweek"],
  "cultuur": ["dagtochten", "wildschoenau-card", "wanneer-gaan"], "attracties": ["dagtochten", "wildschoenau-card", "zomerweek"],
  "dagtochten": ["dagtochten", "reizen-naar-niederau", "wildschoenau-card"], "wellness": ["accommodatie-kiezen", "winterweek", "wanneer-gaan"],
- "workshops": ["eten-drinken", "wanneer-gaan"], "avontuur": ["veilig-in-de-bergen", "wildschoenau-card", "zomerweek"], "golf": ["dagtochten", "reizen-naar-niederau", "wanneer-gaan"]}
+ "workshops": ["eten-drinken", "wanneer-gaan"], "avontuur": ["veilig-in-de-bergen", "wildschoenau-card", "zomerweek"], "golf": ["dagtochten", "reizen-naar-niederau", "wanneer-gaan"], "hutten": ["ski-juwel", "eten-drinken", "veilig-in-de-bergen"]}
 PLACE_GUIDES = ["dagtochten", "reizen-naar-niederau", "wanneer-gaan"]
 
 def guides_block(lang, ids):

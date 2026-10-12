@@ -184,6 +184,7 @@ if _reg.exists():
 - Webcams: page with the webcams near Niederau and in the Wildschönau (Markbachjoch above Niederau, Schatzberg/Auffach, Drachental/Oberau, Roggenboden, Ski Juwel), where to open the live images, and where to check snow depth, lift status and weather: https://niederau.nl/en/webcam/ (live images are not embedded; the page links to the providers).
 - Ski area and piste map: overview of the Niederau ski area (Markbachjoch/Lanerköpfl, about 24 km of slopes per skiresort.info) and its relation to Ski Juwel Alpbachtal Wildschönau (no slope or lift link from Niederau; ski bus), links to official pages and third-party piste maps, season 2026/27 planning: https://niederau.nl/en/ski-area-niederau-map/
 - Ski rental: independent, non-exhaustive overview of rental shops in Niederau (Sport Blachfelder, Ski & Board Margreiter), Oberau (Margreiter) and Auffach (Margreiter, Ski Auffach, Skisport Thaler); prices and opening times are deliberately not listed: https://niederau.nl/en/ski-rental-niederau/
+- Mountain and ski huts: one page per hut of the Ski Juwel Alpbachtal Wildschönau ski area (22 huts in the Wildschönau and Alpbachtal, e.g. Rübezahl-Hütte, Kropfraderjochalm, Norderbergalm, Berggasthof Schatzbergalm, Hornalm, Dauerstoa Alm, Berggasthof Hornboden); only huts confirmed by reliable sources, no opening times or prices: {BASE}/en/activities/huts/ (NL {BASE}/activiteiten/hutten/, DE {BASE}/de/aktivitaeten/huetten/). Official Ski Juwel map: https://map.skijuwel.com/en/
 
 ## History
 - 1193–1195: first written mention of the Wildschönau.

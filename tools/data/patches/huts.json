@@ -1,0 +1,2272 @@
+[
+ {
+  "id": "h1",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "ruebezahl-huette-markbachjoch",
+  "slug_de": "ruebezahlhuette-markbachjoch",
+  "title": {
+   "nl": "Rübezahl-Hütte",
+   "en": "Rübezahl-Hütte",
+   "de": "Rübezahl-Hütte"
+  },
+  "tagline": {
+   "nl": "Rustieke berghut vlak bij het bergstation",
+   "en": "A rustic mountain hut near the top station",
+   "de": "Urige Berghütte nahe der Bergstation"
+  },
+  "intro": {
+   "nl": "De Rübezahl-Hütte staat op het Markbachjoch boven Niederau, op ongeveer 1.450 m hoogte en grofweg 150 m van het bergstation van de Markbachjochbahn. Volgens de eigen pagina's en toeristische sites noemt de hut zichzelf de meest rustieke van de Wildschönau. De houten hut ligt midden in het skigebied van Ski Juwel Alpbachtal Wildschönau en is ook een gewone pleisterplaats voor wandelaars op het Markbachjoch.\n\nOp de kaart staat vooral de Kaiserschmarrn, de dikke Tiroolse pannenkoek die je hier met een kop koffie of een warme chocolademelk kunt bestellen. Op bepaalde dagen wordt er livemuziek gespeeld, met gegrilde gerechten erbij. De hut heeft ook overnachtingsmogelijkheden. Wie er met kinderen heen gaat, kan de wandeling van het bergstation kort houden: het laatste stuk is niet lang.",
+   "en": "The Rübezahl-Hütte sits on the Markbachjoch above Niederau, at roughly 1,450 m and about 150 m from the top station of the Markbachjochbahn. According to its own pages and tourism sites, it calls itself the most rustic hut in the Wildschönau. The timber hut stands in the middle of the Ski Juwel Alpbachtal Wildschönau ski area and is also a regular stop for walkers on the Markbachjoch.\n\nThe menu is best known for Kaiserschmarrn, the thick shredded Tyrolean pancake, which goes well with coffee or hot chocolate. Live music is played on certain days, with grilled dishes alongside. The hut also offers rooms to stay in. With children the walk from the top station stays short, since the final stretch is brief.",
+   "de": "Die Rübezahl-Hütte liegt auf dem Markbachjoch oberhalb von Niederau, auf rund 1.450 m und etwa 150 m von der Bergstation der Markbachjochbahn entfernt. Nach den eigenen Seiten und touristischen Portalen bezeichnet sie sich als die urigste Hütte der Wildschönau. Die Holzhütte steht mitten im Skigebiet Ski Juwel Alpbachtal Wildschönau und ist auch für Wanderer am Markbachjoch eine feste Einkehr.\n\nBekannt ist vor allem der Kaiserschmarrn, der sich gut zu Kaffee oder heißer Schokolade bestellen lässt. An bestimmten Tagen spielt Livemusik, dazu gibt es Gegrilltes. Die Hütte bietet auch Übernachtungsmöglichkeiten. Mit Kindern bleibt der Weg von der Bergstation kurz, denn das letzte Stück ist nicht weit."
+  },
+  "tips": {
+   "nl": [
+    "Probeer de Kaiserschmarrn; dat is waar de hut om bekendstaat.",
+    "Combineer het bezoek met een wandeling over het Markbachjoch en loop daarna terug naar de gondel.",
+    "Informeer vooraf bij de hut of via de officiële site naar livemuziek en overnachten."
+   ],
+   "en": [
+    "Try the Kaiserschmarrn, which is what the hut is known for.",
+    "Combine the visit with a walk along the Markbachjoch and return to the gondola afterwards.",
+    "Ask the hut or check the official site beforehand about live music and overnight stays."
+   ],
+   "de": [
+    "Probieren Sie den Kaiserschmarrn, für den die Hütte bekannt ist.",
+    "Verbinden Sie den Besuch mit einer Wanderung über das Markbachjoch und gehen Sie danach zur Gondel zurück.",
+    "Fragen Sie vorab bei der Hütte oder auf der offiziellen Seite nach Livemusik und Übernachtung."
+   ]
+  },
+  "practical": {
+   "nl": "Je komt er via de Markbachjochbahn vanuit Niederau; vanaf het bergstation is het ongeveer 150 m lopen.",
+   "en": "Take the Markbachjochbahn from Niederau; from the top station it is about 150 m on foot.",
+   "de": "Man erreicht sie mit der Markbachjochbahn ab Niederau; von der Bergstation sind es etwa 150 m zu Fuß."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Boven Niederau: gondel plus ca. 150 m lopen",
+    "en": "Above Niederau: gondola plus about 150 m on foot",
+    "de": "Oberhalb von Niederau: Gondel plus ca. 150 m Fußweg"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Markbachjoch, Niederau (Wildschönau)",
+   "en": "Markbachjoch, Niederau (Wildschönau)",
+   "de": "Markbachjoch, Niederau (Wildschönau)"
+  },
+  "url": "https://skijuwel.com/en/summer/mountain-huts/Rubezahl-Hut_isd_89913",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kan ik de Rübezahl-Hütte zonder skiën bereiken?",
+     "en": "Can I reach the Rübezahl-Hütte without skiing?",
+     "de": "Kann ich die Rübezahl-Hütte ohne Skifahren erreichen?"
+    },
+    "a": {
+     "nl": "Ja, de hut is te bereiken met de Markbachjochbahn en een korte wandeling vanaf het bergstation. Informeer bij de hut voor actuele informatie.",
+     "en": "Yes, you reach it by the Markbachjochbahn and a short walk from the top station. Ask the hut for current information.",
+     "de": "Ja, mit der Markbachjochbahn und einem kurzen Fußweg von der Bergstation. Aktuelle Informationen gibt es bei der Hütte."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar staat de hut om bekend?",
+     "en": "What is the hut known for?",
+     "de": "Wofür ist die Hütte bekannt?"
+    },
+    "a": {
+     "nl": "Vooral voor zijn rustieke sfeer en de Kaiserschmarrn.",
+     "en": "Mainly for its rustic atmosphere and the Kaiserschmarrn.",
+     "de": "Vor allem für die urige Atmosphäre und den Kaiserschmarrn."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h2",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": true,
+  "drop_reason": "Naam alleen bevestigd via een routebeschrijving (ca. 1.455 m, onderweg naar het bergstation); geen betrouwbare bron over soort, faciliteiten of eigenaar gevonden. Eerst verifiëren, bijv. via skijuwel.com.",
+  "place": "niederau",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "Markbachjochalm",
+   "en": "Markbachjochalm",
+   "de": "Markbachjochalm"
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "",
+    "en": "",
+    "de": ""
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": [],
+  "verified": false,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h3",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "kropfraderjochalm-markbachjoch",
+  "slug_de": "kropfraderjochalm-markbachjoch",
+  "title": {
+   "nl": "Kropfraderjochalm",
+   "en": "Kropfraderjochalm",
+   "de": "Kropfraderjochalm"
+  },
+  "tagline": {
+   "nl": "Rustige alm op ongeveer 1.500 m",
+   "en": "A quiet alm at around 1,500 m",
+   "de": "Ruhige Alm auf rund 1.500 m"
+  },
+  "intro": {
+   "nl": "De Kropfraderjochalm ligt volgens Tirol.at op ongeveer 1.500 m hoogte, in een rustige omgeving met uitzicht op de bergen. Ski Juwel noemt de alm bij de hutten en restaurants van het skigebied. In de Wildschönau staat een winterwandeling beschreven van het Markbachjoch naar de Kropfraderalm: ruim 1 km, ongeveer een uur lopen.\n\nOp de kaart staan Tiroolse gerechten. Voor gezinnen is dit een rustiger alternatief voor de drukkere hutten vlak bij een bergstation. De bronnen verschillen over details zoals het adres van de uitbater; controleer die dus bij de hut of via de officiële site.",
+   "en": "According to Tirol.at the Kropfraderjochalm lies at about 1,500 m, in a quiet spot with mountain views. Ski Juwel lists it among the huts and restaurants of the ski area. The Wildschönau tourist board describes a winter walk from the Markbachjoch to the Kropfraderalm: a little over 1 km, roughly an hour on foot.\n\nThe menu features Tyrolean dishes. For families it is a calmer alternative to the busier huts right beside a top station. The sources differ on details such as the operator's address, so check those with the hut or on the official site.",
+   "de": "Die Kropfraderjochalm liegt laut Tirol.at auf etwa 1.500 m, ruhig und mit Bergblick. Ski Juwel führt sie bei den Hütten und Restaurants des Skigebiets auf. Der Tourismusverband Wildschönau beschreibt eine Winterwanderung vom Markbachjoch zur Kropfraderalm: gut 1 km, etwa eine Stunde zu Fuß.\n\nAuf der Karte stehen Tiroler Gerichte. Für Familien ist sie eine ruhigere Alternative zu den belebteren Hütten direkt an einer Bergstation. Die Quellen weichen bei Details wie der Adresse des Betreibers voneinander ab; prüfe diese daher bei der Hütte oder auf der offiziellen Seite."
+  },
+  "tips": {
+   "nl": [
+    "Plan de winterwandeling vanaf het Markbachjoch als rustige uitstap van ongeveer een uur.",
+    "Neem warme kleding mee; op deze hoogte is het buiten snel koud.",
+    "Informeer vooraf bij de hut of via de officiële site."
+   ],
+   "en": [
+    "Plan the winter walk from the Markbachjoch as a calm outing of about an hour.",
+    "Bring warm clothing; it cools quickly at this altitude.",
+    "Ask the hut or check the official site beforehand."
+   ],
+   "de": [
+    "Planen Sie die Winterwanderung vom Markbachjoch als ruhigen Ausflug von etwa einer Stunde.",
+    "Warme Kleidung mitnehmen; auf dieser Höhe wird es schnell kühl.",
+    "Fragen Sie vorab bei der Hütte oder auf der offiziellen Seite nach."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Niederau met de Markbachjochbahn en dan lopen of skiën richting de alm.",
+   "en": "From Niederau take the Markbachjochbahn, then walk or ski towards the alm.",
+   "de": "Von Niederau mit der Markbachjochbahn, dann zu Fuß oder auf Ski Richtung Alm."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Bij het Markbachjoch, ca. 1 uur lopen vanaf het bergstation",
+    "en": "Near the Markbachjoch, about an hour's walk from the top station",
+    "de": "Am Markbachjoch, etwa eine Stunde Fußweg ab der Bergstation"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Markbachjoch, Wildschönau",
+   "en": "Markbachjoch, Wildschönau",
+   "de": "Markbachjoch, Wildschönau"
+  },
+  "url": "https://www.skijuwel.com/en/winter/huts-and-restaurants/Kropfraderjochalm_isd_89050",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe lang is de wandeling vanaf het Markbachjoch?",
+     "en": "How long is the walk from the Markbachjoch?",
+     "de": "Wie lang ist die Wanderung vom Markbachjoch?"
+    },
+    "a": {
+     "nl": "Volgens de Wildschönau ongeveer 1,2 km en een uur lopen in de winter.",
+     "en": "According to the Wildschönau tourist board about 1.2 km and an hour on foot in winter.",
+     "de": "Laut Tourismusverband Wildschönau etwa 1,2 km und eine Stunde Gehzeit im Winter."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is de alm geschikt voor gezinnen?",
+     "en": "Is the alm suitable for families?",
+     "de": "Ist die Alm für Familien geeignet?"
+    },
+    "a": {
+     "nl": "Het is een rustige plek; voor kinderen kan de wandeling lang zijn. Informeer ter plaatse.",
+     "en": "It is a quiet spot; the walk may be long for young children. Ask locally.",
+     "de": "Es ist ein ruhiger Ort; für kleine Kinder kann der Weg lang sein. Fragen Sie vor Ort nach."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h4",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": true,
+  "drop_reason": "Alleen 'Restaurant Tennladen' bij de Tennladen-lift in Niederau gevonden (tyrol.com); een 'Stüberl' onder die naam en de status als Ski Juwel-hut zijn niet bevestigd.",
+  "place": "niederau",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "Tennladen Stüberl",
+   "en": "Tennladen Stüberl",
+   "de": "Tennladen Stüberl"
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "",
+    "en": "",
+    "de": ""
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": [],
+  "verified": false,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h5",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "moosa-stadl-schatzberg",
+  "slug_de": "moosa-stadl-schatzberg",
+  "title": {
+   "nl": "Moosa Stadl",
+   "en": "Moosa Stadl",
+   "de": "Moosa Stadl"
+  },
+  "tagline": {
+   "nl": "Kleine apres-skibar bij het bergstation van de Schatzberg",
+   "en": "A small apres-ski bar at the top of the Schatzberg",
+   "de": "Kleine Apres-Ski-Bar an der Schatzberg-Bergstation"
+  },
+  "intro": {
+   "nl": "De Moosa Stadl is een kleine apres-skibar bij het bergstation van de Schatzbergbahn in Auffach, volgens het toeristische portaal van Tirol. De bar hoort bij de Schatzbergalm en speelt zich vooral in de wintermaanden af.\n\nHet is geen plek voor een uitgebreide maaltijd, maar eerder een stop tussen twee afdalingen of aan het einde van de skidag. Het dorp Auffach ligt in het hoogste deel van de Wildschönau, aan de kant van het Schatzberggebied. Voor verblijf in Niederau betekent dat een autorit naar het dalstation, of de skibus. Informeer bij de bar of via de officiële site naar actuele informatie.",
+   "en": "The Moosa Stadl is a small apres-ski bar at the top station of the Schatzbergbahn in Auffach, according to the Tyrol tourism portal. It belongs to the Schatzbergalm and plays its role mainly in the winter months.\n\nIt is not a place for a long sit-down meal but rather a stop between two runs or at the end of a ski day. Auffach lies in the upper part of the Wildschönau, on the Schatzberg side. From Niederau that means a drive or ski bus to the valley station. Ask the bar or check the official site for current information.",
+   "de": "Die Moosa Stadl ist laut dem Tiroler Tourismusportal eine kleine Apres-Ski-Bar an der Bergstation der Schatzbergbahn in Auffach. Sie gehört zur Schatzbergalm und spielt vor allem im Winter eine Rolle.\n\nSie ist kein Ort für ein langes Essen, eher ein Stopp zwischen zwei Abfahrten oder zum Skitagende. Auffach liegt im oberen Teil der Wildschönau, auf der Seite des Schatzbergs. Von Niederau bedeutet das eine Fahrt oder den Skibus zur Talstation. Fragen Sie bei der Bar oder auf der offiziellen Seite nach aktuellen Informationen."
+  },
+  "tips": {
+   "nl": [
+    "Combineer de stop met een dag op de Schatzberg.",
+    "Reis vanuit Niederau met de skibus of de auto naar het dalstation in Auffach.",
+    "Informeer vooraf bij de bar of via de officiële site."
+   ],
+   "en": [
+    "Combine the stop with a day on the Schatzberg.",
+    "From Niederau go by ski bus or car to the valley station in Auffach.",
+    "Ask the bar or check the official site beforehand."
+   ],
+   "de": [
+    "Verbinden Sie den Stopp mit einem Tag am Schatzberg.",
+    "Von Niederau mit Skibus oder Auto zur Talstation in Auffach.",
+    "Fragen Sie vorab bei der Bar oder auf der offiziellen Seite nach."
+   ]
+  },
+  "practical": {
+   "nl": "Met de Schatzbergbahn vanuit Auffach tot het bergstation.",
+   "en": "Take the Schatzbergbahn from Auffach to the top station.",
+   "de": "Mit der Schatzbergbahn ab Auffach bis zur Bergstation."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Vanuit Niederau: rit of skibus naar Auffach plus gondel",
+    "en": "From Niederau: drive or ski bus to Auffach, then the gondola",
+    "de": "Ab Niederau: Fahrt oder Skibus nach Auffach plus Gondel"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Schatzberg, Auffach (Wildschönau)",
+   "en": "Schatzberg, Auffach (Wildschönau)",
+   "de": "Schatzberg, Auffach (Wildschönau)"
+  },
+  "url": "https://www.tyrol.com/activities/food/restaurants/moosa-stadl",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Moosa Stadl een restaurant?",
+     "en": "Is the Moosa Stadl a restaurant?",
+     "de": "Ist die Moosa Stadl ein Restaurant?"
+    },
+    "a": {
+     "nl": "Het wordt beschreven als een kleine apres-skibar, niet als een volledig restaurant.",
+     "en": "It is described as a small apres-ski bar, not a full restaurant.",
+     "de": "Sie wird als kleine Apres-Ski-Bar beschrieben, nicht als vollwertiges Restaurant."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar ligt hij?",
+     "en": "Where is it?",
+     "de": "Wo liegt sie?"
+    },
+    "a": {
+     "nl": "Bij het bergstation van de Schatzbergbahn in Auffach.",
+     "en": "At the top station of the Schatzbergbahn in Auffach.",
+     "de": "An der Bergstation der Schatzbergbahn in Auffach."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h6",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "norderbergalm-markbachjoch",
+  "slug_de": "norderbergalm-markbachjoch",
+  "title": {
+   "nl": "Norderbergalm",
+   "en": "Norderbergalm",
+   "de": "Norderbergalm"
+  },
+  "tagline": {
+   "nl": "Genusshütte op een halfuurtje van het Markbachjoch",
+   "en": "A gourmet hut half an hour from the Markbachjoch",
+   "de": "Genusshütte eine halbe Stunde vom Markbachjoch"
+  },
+  "intro": {
+   "nl": "De Norderbergalm ligt op ongeveer 1.360 m hoogte, rond een half uur lopen van het bergstation Markbachjoch via een bosweg die licht bergaf loopt. Op bergwandelsites wordt de hoogte soms anders opgegeven (tot 1.500 m), dus lees dat als een globale indicatie. Vanuit Niederau is het ongeveer anderhalf uur klimmen.\n\nDe hut staat bekend om Tiroolse specialiteiten en zelfgebakken taart; de Kaiserschmarrn krijgt veel lof. In de zomer is er op donderdag een fietsavond, in de winter een skitour-avond. Een mooie route voor gezinnen is gondel omhoog, naar de alm lopen en weer terug naar het bergstation. Controleer vooraf bij de hut of via de officiële site wat er actueel mogelijk is.",
+   "en": "The Norderbergalm lies at about 1,360 m, around half an hour on foot from the Markbachjoch top station along a forest track that runs gently downhill. Hiking sites sometimes give a different altitude (up to 1,500 m), so take it as a rough figure. From Niederau it is about an hour and a half uphill.\n\nThe hut is known for Tyrolean specialities and home-baked cakes, and reviewers praise the Kaiserschmarrn. There is a cycling evening on Thursdays in summer and a ski-touring evening in winter. A nice family route is the gondola up, a walk to the alm and back to the top station. Ask the hut or check the official site for what is currently possible.",
+   "de": "Die Norderbergalm liegt auf rund 1.360 m, etwa eine halbe Stunde zu Fuß von der Bergstation Markbachjoch entfernt, über einen leicht abfallenden Forstweg. Wanderportale nennen teils andere Höhen (bis 1.500 m); das ist also ein ungefährer Wert. Von Niederau sind es zu Fuß etwa eineinhalb Stunden bergauf.\n\nDie Hütte ist für Tiroler Spezialitäten und selbst gebackene Kuchen bekannt, der Kaiserschmarrn wird oft gelobt. Im Sommer gibt es donnerstags einen Radlerabend, im Winter einen Skitourenabend. Eine schöne Familienrunde ist mit der Gondel hinauf, zur Alm gehen und zurück zur Bergstation. Fragen Sie bei der Hütte oder auf der offiziellen Seite nach aktuellen Möglichkeiten."
+  },
+  "tips": {
+   "nl": [
+    "Neem de gondel omhoog en loop naar de alm; terug is het stijgen, dus reken op wat extra tijd.",
+    "Probeer de zelfgebakken taart of de Kaiserschmarrn.",
+    "Informeer vooraf over de fiets- en skitour-avonden."
+   ],
+   "en": [
+    "Take the gondola up and walk to the alm; the way back climbs, so allow extra time.",
+    "Try the home-baked cake or the Kaiserschmarrn.",
+    "Ask in advance about the cycling and ski-touring evenings."
+   ],
+   "de": [
+    "Mit der Gondel hinauf und zur Alm gehen; zurück geht es bergauf, planen Sie etwas mehr Zeit ein.",
+    "Probieren Sie den selbst gebackenen Kuchen oder den Kaiserschmarrn.",
+    "Fragen Sie vorab nach den Radler- und Skitourenabenden."
+   ]
+  },
+  "practical": {
+   "nl": "Met de Markbachjochbahn tot het bergstation en dan ca. 30 minuten lopen, of in ca. 1,5 uur vanuit Niederau.",
+   "en": "Take the Markbachjochbahn to the top station and walk about 30 minutes, or climb from Niederau in about 1.5 hours.",
+   "de": "Mit der Markbachjochbahn zur Bergstation, dann ca. 30 Minuten Fußweg, oder in ca. 1,5 Stunden von Niederau."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 30 minuten lopen vanaf het bergstation Markbachjoch",
+    "en": "About 30 minutes on foot from the Markbachjoch top station",
+    "de": "Ca. 30 Minuten Fußweg von der Bergstation Markbachjoch"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Norderberg, Wildschönau (bij Niederau)",
+   "en": "Norderberg, Wildschönau (near Niederau)",
+   "de": "Norderberg, Wildschönau (bei Niederau)"
+  },
+  "url": "https://skijuwel.com/en/summer/mountain-huts/Norderberg-Alm_isd_88564",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe ver is het van het bergstation?",
+     "en": "How far is it from the top station?",
+     "de": "Wie weit ist es von der Bergstation?"
+    },
+    "a": {
+     "nl": "Ongeveer een half uur lopen volgens bergwandelbronnen.",
+     "en": "About half an hour on foot according to hiking sources.",
+     "de": "Etwa eine halbe Stunde zu Fuß laut Wanderquellen."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar is de hut bekend om?",
+     "en": "What is it known for?",
+     "de": "Wofür ist sie bekannt?"
+    },
+    "a": {
+     "nl": "Tiroolse specialiteiten, zelfgebakken taart en Kaiserschmarrn.",
+     "en": "Tyrolean specialities, home-baked cake and Kaiserschmarrn.",
+     "de": "Tiroler Spezialitäten, selbst gebackener Kuchen und Kaiserschmarrn."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h7",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": true,
+  "drop_reason": "Talhof is een aparthotel (Roggenboden, Oberau), geen hut van Ski Juwel; geen hutinformatie gevonden.",
+  "place": "oberau",
+  "slug_en": "",
+  "slug_de": "",
+  "title": {
+   "nl": "Talhof",
+   "en": "Talhof",
+   "de": "Talhof"
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "",
+    "en": "",
+    "de": ""
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": [],
+  "verified": false,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h8",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "wurmegg-hochleger-schatzberg",
+  "slug_de": "wurmegg-hochleger-schatzberg",
+  "title": {
+   "nl": "Wurmegg Hochleger",
+   "en": "Wurmegg Hochleger",
+   "de": "Wurmegg Hochleger"
+  },
+  "tagline": {
+   "nl": "Skihut naast de verbindingslift Alpbach-Wildschönau",
+   "en": "Ski hut beside the Alpbach-Wildschönau link lift",
+   "de": "Skihütte an der Verbindungsbahn Alpbach-Wildschönau"
+  },
+  "intro": {
+   "nl": "Het Wurmegg Hochleger staat op ongeveer 1.500 m, naast de verbindingslift tussen Alpbach en de Wildschönau op de Schatzberg. Vanuit Inneralpbach rijd je met die lift omhoog en vind je de hut links van het bergstation. Vanuit Auffach ski je met de Schatzbergbahn en piste 6 naar de Hahnkopf-stoeltjeslift (S2), die je bij de hut brengt.\n\nVolgens de beschrijvingen serveert de hut Tiroolse specialiteiten, met binnen plek voor ongeveer 70 gasten en op het terras voor ongeveer 85. Het uitzicht reikt over de Wildschönau en de omliggende bergen. Het adres van de uitbater staat onder Alpbach, dus de hut ligt op de grens van beide dalen.",
+   "en": "The Wurmegg Hochleger stands at about 1,500 m, next to the link lift between Alpbach and the Wildschönau on the Schatzberg. From Inneralpbach you ride that lift up and find the hut to the left of the top station. From Auffach you ski via the Schatzbergbahn and run 6 to the Hahnkopf chairlift (S2), which brings you to the hut.\n\nAccording to the descriptions the hut serves Tyrolean specialities, with room for about 70 guests inside and about 85 on the terrace. The view stretches across the Wildschönau and the surrounding mountains. The operator's address is listed under Alpbach, so the hut sits on the border of both valleys.",
+   "de": "Das Wurmegg Hochleger steht auf rund 1.500 m, neben der Verbindungsbahn zwischen Alpbach und der Wildschönau am Schatzberg. Von Inneralpbach fährt man mit dieser Bahn hinauf und findet die Hütte links der Bergstation. Von Auffach fährt man mit der Schatzbergbahn und Piste 6 zum Hahnkopf-Sessellift (S2), der zur Hütte führt.\n\nLaut den Beschreibungen gibt es Tiroler Spezialitäten, innen Platz für rund 70 Gäste und auf der Terrasse für etwa 85. Der Blick reicht über die Wildschönau und die umliegenden Berge. Die Adresse des Betreibers steht unter Alpbach, die Hütte liegt also an der Grenze beider Täler."
+  },
+  "tips": {
+   "nl": [
+    "Vanuit Auffach: Schatzbergbahn, piste 6 en de Hahnkopf-lift (S2).",
+    "Het terras biedt ruimte voor zo'n 85 gasten, maar kan toch druk zijn.",
+    "Informeer vooraf bij de hut of via de officiële site."
+   ],
+   "en": [
+    "From Auffach: Schatzbergbahn, run 6 and the Hahnkopf lift (S2).",
+    "The terrace holds around 85 guests but can still be busy.",
+    "Ask the hut or check the official site beforehand."
+   ],
+   "de": [
+    "Ab Auffach: Schatzbergbahn, Piste 6 und Hahnkopf-Lift (S2).",
+    "Die Terrasse bietet Platz für rund 85 Gäste, kann aber trotzdem voll sein.",
+    "Fragen Sie vorab bei der Hütte oder auf der offiziellen Seite nach."
+   ]
+  },
+  "practical": {
+   "nl": "Vanuit Auffach per Schatzbergbahn en lift S2, of vanuit Inneralpbach met de verbindingslift.",
+   "en": "From Auffach via the Schatzbergbahn and lift S2, or from Inneralpbach by the link lift.",
+   "de": "Ab Auffach mit Schatzbergbahn und Lift S2, oder ab Inneralpbach mit der Verbindungsbahn."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Vanuit Niederau: rit of skibus naar Auffach plus liften",
+    "en": "From Niederau: drive or ski bus to Auffach, then lifts",
+    "de": "Ab Niederau: Fahrt oder Skibus nach Auffach plus Lifte"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Schatzberg, tussen Auffach en Alpbach",
+   "en": "Schatzberg, between Auffach and Alpbach",
+   "de": "Schatzberg, zwischen Auffach und Alpbach"
+  },
+  "url": "https://www.skijuwel.com/en/info-service/ski-juwel-a-z/Wurmegg-Hochleger_isd_90132",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe kom ik er vanuit Auffach?",
+     "en": "How do I get there from Auffach?",
+     "de": "Wie komme ich von Auffach dorthin?"
+    },
+    "a": {
+     "nl": "Met de Schatzbergbahn, piste 6 en de Hahnkopf-lift S2.",
+     "en": "Via the Schatzbergbahn, run 6 and the Hahnkopf lift S2.",
+     "de": "Mit der Schatzbergbahn, Piste 6 und dem Hahnkopf-Lift S2."
+    }
+   },
+   {
+    "q": {
+     "nl": "Heeft de hut een terras?",
+     "en": "Does the hut have a terrace?",
+     "de": "Hat die Hütte eine Terrasse?"
+    },
+    "a": {
+     "nl": "Ja, volgens de beschrijvingen voor ongeveer 85 gasten.",
+     "en": "Yes, according to the descriptions for about 85 guests.",
+     "de": "Ja, laut Beschreibung für rund 85 Gäste."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h9",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "koglmoos-mountain-restaurant-schatzberg",
+  "slug_de": "berghaus-koglmoos-schatzberg",
+  "title": {
+   "nl": "Berghaus Koglmoos (Schatzberg)",
+   "en": "Berghaus Koglmoos (Schatzberg)",
+   "de": "Berghaus Koglmoos (Schatzberg)"
+  },
+  "tagline": {
+   "nl": "Panoramaterras bij het middenstation van de Schatzbergbahn",
+   "en": "A panoramic terrace at the Schatzbergbahn mid station",
+   "de": "Panoramaterrasse an der Mittelstation der Schatzbergbahn"
+  },
+  "intro": {
+   "nl": "Berghaus Koglmoos staat op zo'n 1.300 meter hoogte bij het middenstation van de Schatzbergbahn, boven Auffach. Het is een bergrestaurant met regionale keuken en een groot terras met uitzicht op de Kitzbüheler Alpen. Wie met de gondel omhoog komt, stapt hier uit zonder verder te hoeven klimmen.\n\nVoor gezinnen is de plek handig omdat er in de buurt een kinderspeelplaats met water ligt, volgens de beschrijving van een zomerwandeling vanaf de Schatzberg. In de winter ligt het huis aan de piste en vlak bij een klein oefenliftje voor beginners. Het is ook een tussenstop op wandelroutes tussen Mühltal, Bernau en Auffach.",
+   "en": "Berghaus Koglmoos sits at roughly 1,300 metres next to the mid station of the Schatzbergbahn above Auffach. It is a mountain restaurant serving regional food, with a large terrace looking out over the Kitzbühel Alps. Arriving by gondola, you get off right at the door and do not need to climb any further.\n\nFamilies will find it practical because a children's playground with a water feature is nearby, according to a summer walking-route description from the Schatzberg. In winter the house stands by the piste, close to a small practice lift for beginners. It is also a stopping point on walking routes between Mühltal, Bernau and Auffach.",
+   "de": "Das Berghaus Koglmoos liegt auf rund 1.300 Metern direkt an der Mittelstation der Schatzbergbahn oberhalb von Auffach. Es ist ein Bergrestaurant mit regionaler Küche und einer großen Terrasse mit Blick über die Kitzbüheler Alpen. Wer mit der Gondel kommt, steigt praktisch vor der Tür aus und muss nicht weiter aufsteigen.\n\nFür Familien ist der Ort praktisch, denn laut der Beschreibung einer Sommerwanderung vom Schatzberg gibt es in der Nähe einen Kinderspielplatz mit Wasserspiel. Im Winter steht das Haus an der Piste, nahe einem kleinen Übungslift für Anfänger. Außerdem ist es eine Einkehrmöglichkeit auf Wanderwegen zwischen Mühltal, Bernau und Auffach."
+  },
+  "tips": {
+   "nl": [
+    "Neem de gondel naar het middenstation en wandel in de zomer vanaf de Schatzberg naar Koglmoos (ca. 6 km) in plaats van helemaal te liften.",
+    "Combineer een bezoek met de speelplek in de buurt als je met jonge kinderen reist.",
+    "Informeer vooraf bij de hut of via de officiële Ski Juwel-site naar actuele informatie."
+   ],
+   "en": [
+    "Take the gondola to the mid station, or in summer walk down from the Schatzberg to Koglmoos (about 6 km) rather than riding the whole way.",
+    "Combine your visit with the nearby play area if you travel with young children.",
+    "Check with the hut or the official Ski Juwel site for current information before you go."
+   ],
+   "de": [
+    "Fahren Sie mit der Gondel zur Mittelstation oder wandern Sie im Sommer vom Schatzberg nach Koglmoos (ca. 6 km), statt die ganze Strecke zu fahren.",
+    "Verbinden Sie den Besuch mit dem nahen Spielplatz, wenn Sie mit kleinen Kindern unterwegs sind.",
+    "Aktuelle Informationen erhalten Sie direkt bei der Hütte oder auf der offiziellen Ski-Juwel-Seite."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Auffach met de Schatzbergbahn naar het middenstation; ook te voet bereikbaar, bijvoorbeeld vanuit Mühltal via Bernau of in de zomer vanaf de top.",
+   "en": "From Auffach take the Schatzbergbahn to the mid station; it can also be reached on foot, for example from Mühltal via Bernau or in summer from the summit.",
+   "de": "Von Auffach mit der Schatzbergbahn zur Mittelstation; auch zu Fuß erreichbar, etwa von Mühltal über Bernau oder im Sommer vom Gipfel."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 20 minuten rijden van Niederau naar het dalstation in Auffach, daarna de gondel",
+    "en": "About 20 minutes by car from Niederau to the valley station in Auffach, then the gondola",
+    "de": "Ca. 20 Minuten Fahrt von Niederau zur Talstation in Auffach, dann die Gondel"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "https://www.skijuwel.com/en/summer/mountain-huts/Koglmoos-Mountain-Restaurant_isd_88992",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt Berghaus Koglmoos?",
+     "en": "Where is Berghaus Koglmoos?",
+     "de": "Wo liegt das Berghaus Koglmoos?"
+    },
+    "a": {
+     "nl": "Bij het middenstation van de Schatzbergbahn, op ongeveer 1.300 meter boven Auffach.",
+     "en": "At the mid station of the Schatzbergbahn, at around 1,300 metres above Auffach.",
+     "de": "An der Mittelstation der Schatzbergbahn, auf etwa 1.300 Metern oberhalb von Auffach."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je er met kinderen terecht?",
+     "en": "Is it suitable for children?",
+     "de": "Ist es für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, in de buurt ligt volgens een routebeschrijving een speelplek, en een klein oefenliftje voor beginners.",
+     "en": "Yes, a route description mentions a play area nearby, and there is a small practice lift for beginners.",
+     "de": "Ja, laut einer Routenbeschreibung gibt es in der Nähe einen Spielplatz sowie einen kleinen Übungslift für Anfänger."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h10",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "gipfoehit-schatzberg",
+  "slug_de": "gipfoehit-schatzberg-huette",
+  "title": {
+   "nl": "Gipföhit (Schatzberg)",
+   "en": "Gipföhit (Schatzberg)",
+   "de": "Gipföhit (Schatzberg)"
+  },
+  "tagline": {
+   "nl": "Hut vlak onder de top van de Schatzberg",
+   "en": "A hut just below the Schatzberg summit",
+   "de": "Hütte knapp unterhalb des Schatzberg-Gipfels"
+  },
+  "intro": {
+   "nl": "De Gipföhit ligt hoog op de Schatzberg, boven Auffach. De schrijfwijze verschilt per bron (Gipfö Hit, Giphöhit), maar het gaat steeds om dezelfde hut. Vanaf het bergstation van de Schatzbergbahn loop je er volgens de tourbeschrijvingen in ongeveer een half uur naartoe.\n\nDe hut komt terug in verschillende wandel- en skitourroutes, onder meer een rondwandeling van zo'n vier kilometer langs de Schatzbergalm en de top (hoogste punt 1.882 m). De keuken serveert regionale gerechten. Het is een plek voor wie na een stuk lopen een pauze wil, minder voor wie gewoon naast de piste een snelle kop koffie zoekt.",
+   "en": "The Gipföhit stands high on the Schatzberg above Auffach. The spelling varies between sources (Gipfö Hit, Giphöhit), but they all refer to the same hut. According to the route descriptions it is about half an hour on foot from the top station of the Schatzbergbahn.\n\nThe hut features in several hiking and ski-touring routes, including a circular walk of around four kilometres past the Schatzbergalm and the summit area (highest point 1,882 m). The kitchen serves regional dishes. It suits people who want a break after a stretch on foot, rather than a quick coffee right beside the piste.",
+   "de": "Die Gipföhit liegt hoch am Schatzberg oberhalb von Auffach. Die Schreibweise schwankt je nach Quelle (Gipfö Hit, Giphöhit), gemeint ist aber immer dieselbe Hütte. Laut den Tourenbeschreibungen geht man von der Bergstation der Schatzbergbahn etwa eine halbe Stunde dorthin.\n\nDie Hütte taucht in mehreren Wander- und Skitourenrouten auf, darunter eine Rundwanderung von rund vier Kilometern an der Schatzbergalm und dem Gipfelbereich vorbei (höchster Punkt 1.882 m). In der Küche gibt es regionale Gerichte. Sie passt für alle, die nach einem Fußmarsch einkehren möchten, weniger für einen schnellen Kaffee direkt an der Piste."
+  },
+  "tips": {
+   "nl": [
+    "Plan een rondwandeling vanaf het bergstation en zet de hut als pauzepunt in.",
+    "Draag stevige schoenen: de weg erheen loopt omhoog en ligt op grote hoogte.",
+    "Vraag vooraf bij de hut of via de officiële site naar actuele informatie."
+   ],
+   "en": [
+    "Plan a circular walk from the top station and use the hut as a rest stop.",
+    "Wear sturdy shoes: the way there climbs and lies at altitude.",
+    "Ask the hut or check the official site for current information beforehand."
+   ],
+   "de": [
+    "Planen Sie eine Rundwanderung ab der Bergstation und nutzen Sie die Hütte als Rastpunkt.",
+    "Festes Schuhwerk ist ratsam: Der Weg führt bergauf und liegt in der Höhe.",
+    "Aktuelle Informationen erfragen Sie vorab bei der Hütte oder auf der offiziellen Seite."
+   ]
+  },
+  "practical": {
+   "nl": "Met de Schatzbergbahn naar het bergstation en daarna ca. een half uur lopen volgens tourbeschrijvingen.",
+   "en": "Take the Schatzbergbahn to the top station, then walk about half an hour according to route descriptions.",
+   "de": "Mit der Schatzbergbahn zur Bergstation, danach laut Tourenbeschreibungen etwa eine halbe Stunde zu Fuß."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 20 minuten rijden van Niederau naar het dalstation in Auffach, daarna gondel en ca. 30 minuten lopen",
+    "en": "About 20 minutes by car from Niederau to the valley station in Auffach, then the gondola and about 30 minutes on foot",
+    "de": "Ca. 20 Minuten Fahrt von Niederau zur Talstation in Auffach, dann Gondel und ca. 30 Minuten zu Fuß"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Schatzberg, Auffach (Wildschönau)",
+   "en": "Schatzberg, Auffach (Wildschönau)",
+   "de": "Schatzberg, Auffach (Wildschönau)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe heet deze hut precies?",
+     "en": "What is the hut's exact name?",
+     "de": "Wie schreibt sich der Name genau?"
+    },
+    "a": {
+     "nl": "Bronnen schrijven Gipföhit, Gipfö Hit of Giphöhit; het gaat om dezelfde hut op de Schatzberg.",
+     "en": "Sources write Gipföhit, Gipfö Hit or Giphöhit; it is the same hut on the Schatzberg.",
+     "de": "Quellen schreiben Gipföhit, Gipfö Hit oder Giphöhit; gemeint ist dieselbe Hütte am Schatzberg."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang loop je vanaf de lift?",
+     "en": "How long is the walk from the lift?",
+     "de": "Wie lange geht man von der Bahn?"
+    },
+    "a": {
+     "nl": "Volgens tourbeschrijvingen ongeveer een half uur vanaf het bergstation.",
+     "en": "Route descriptions give roughly half an hour from the top station.",
+     "de": "Laut Tourenbeschreibungen etwa eine halbe Stunde ab der Bergstation."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h11",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "schatzbergalm-mountain-inn",
+  "slug_de": "berggasthof-schatzbergalm",
+  "title": {
+   "nl": "Berggasthof Schatzbergalm",
+   "en": "Berggasthof Schatzbergalm",
+   "de": "Berggasthof Schatzbergalm"
+  },
+  "tagline": {
+   "nl": "Berggasthof direct bij het bergstation van de Schatzbergbahn",
+   "en": "Mountain inn right at the Schatzbergbahn top station",
+   "de": "Berggasthof direkt an der Bergstation der Schatzbergbahn"
+  },
+  "intro": {
+   "nl": "De Schatzbergalm is een berggasthof op ongeveer 1.800 meter, direct naast het bergstation van de Schatzbergbahn boven Auffach. Het huis wordt volgens de eigen informatie al ruim 45 jaar door de familie Klingler gerund en serveert Tiroolse gerechten. Er zijn ook overnachtingskamers, en er is een zonneterras.\n\nDe ligging maakt de alm tot een logisch beginpunt: in de winter loopt de piste langs het huis, in de zomer starten hier wandel- en mountainbikeroutes. Dat het gasthof meteen bij de lift ligt, is vooral prettig voor gezinnen met kleine kinderen, omdat je geen extra stuk hoeft te lopen. Wie verder wil, kan doorlopen naar de Gipföhit of de top.",
+   "en": "The Schatzbergalm is a mountain inn at roughly 1,800 metres, right beside the top station of the Schatzbergbahn above Auffach. According to its own information the Klingler family has run it for more than 45 years, serving Tyrolean dishes. It also has guest rooms and a sunny terrace.\n\nIts position makes it a natural starting point: in winter the piste runs past the house, and in summer walking and mountain-bike routes begin here. Being right by the lift is especially handy for families with small children, since there is no extra walk. If you want to go further, you can continue to the Gipföhit or the summit.",
+   "de": "Die Schatzbergalm ist ein Berggasthof auf rund 1.800 Metern, direkt neben der Bergstation der Schatzbergbahn oberhalb von Auffach. Nach eigenen Angaben führt die Familie Klingler das Haus seit über 45 Jahren und serviert Tiroler Gerichte. Es gibt außerdem Gästezimmer und eine Sonnenterrasse.\n\nDie Lage macht die Alm zu einem naheliegenden Ausgangspunkt: Im Winter führt die Piste am Haus vorbei, im Sommer beginnen hier Wander- und Mountainbikerouten. Die Nähe zur Bahn ist besonders für Familien mit kleinen Kindern praktisch, weil kein zusätzlicher Fußweg nötig ist. Wer weiter möchte, kann zur Gipföhit oder zum Gipfel gehen."
+  },
+  "tips": {
+   "nl": [
+    "Gebruik de alm als startpunt voor een korte wandeling naar de Gipföhit.",
+    "Wil je overnachten, informeer dan vooraf rechtstreeks bij het gasthof naar de kamers.",
+    "Controleer actuele informatie bij de hut of op de officiële site."
+   ],
+   "en": [
+    "Use the inn as a starting point for a short walk to the Gipföhit.",
+    "If you want to stay overnight, ask the inn directly about its rooms.",
+    "Check current information with the hut or on the official site."
+   ],
+   "de": [
+    "Nutzen Sie die Alm als Ausgangspunkt für einen kurzen Spaziergang zur Gipföhit.",
+    "Wenn Sie übernachten möchten, fragen Sie direkt beim Gasthof nach den Zimmern.",
+    "Aktuelle Informationen erhalten Sie bei der Hütte oder auf der offiziellen Seite."
+   ]
+  },
+  "practical": {
+   "nl": "Met de Schatzbergbahn vanaf Auffach tot het bergstation; het gasthof ligt er direct naast.",
+   "en": "Take the Schatzbergbahn from Auffach to the top station; the inn stands right next to it.",
+   "de": "Mit der Schatzbergbahn von Auffach zur Bergstation; der Gasthof liegt direkt daneben."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 20 minuten rijden van Niederau naar het dalstation in Auffach, daarna de gondel",
+    "en": "About 20 minutes by car from Niederau to the valley station in Auffach, then the gondola",
+    "de": "Ca. 20 Minuten Fahrt von Niederau zur Talstation in Auffach, dann die Gondel"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "https://www.wildschoenau.com/en/plan-and-book-holiday/book-accommodation/Berggasthof-Schatzbergalm-inn-Wildschonau-Auffach_ad-87533",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij de Schatzbergalm overnachten?",
+     "en": "Can you stay overnight at the Schatzbergalm?",
+     "de": "Kann man auf der Schatzbergalm übernachten?"
+    },
+    "a": {
+     "nl": "Ja, volgens de vermelding op wildschoenau.com heeft het gasthof gastenkamers.",
+     "en": "Yes, the wildschoenau.com listing says the inn has guest rooms.",
+     "de": "Ja, laut Eintrag auf wildschoenau.com hat der Gasthof Gästezimmer."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar ligt de alm precies?",
+     "en": "Where exactly is the inn?",
+     "de": "Wo genau liegt die Alm?"
+    },
+    "a": {
+     "nl": "Direct bij het bergstation van de Schatzbergbahn, op ongeveer 1.800 m.",
+     "en": "Right at the top station of the Schatzbergbahn, at about 1,800 m.",
+     "de": "Direkt an der Bergstation der Schatzbergbahn, auf etwa 1.800 m."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h12",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": true,
+  "drop_reason": "Alleen vermeldingen zonder duidelijke eigen bron gevonden (Apple Maps: 'Schirmbar Schatzbergbahn Mittelstation'; skiresort.info: 'Schirmbar Koglmoos'). Waarschijnlijk dezelfde plek als de Koglmoos Ski-Bar (h13), niet los te onderscheiden; samengevoegd met h13.",
+  "place": "auffach",
+  "slug_en": "schirmbar-schatzberg",
+  "slug_de": "schirmbar-schatzberg",
+  "title": {
+   "nl": "Schirmbar Schatzberg",
+   "en": "Schirmbar Schatzberg",
+   "de": "Schirmbar Schatzberg"
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "",
+    "en": "",
+    "de": ""
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": [],
+  "verified": false,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h13",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "koglmoos-ski-bar-schatzberg",
+  "slug_de": "koglmoos-skibar-schatzberg",
+  "title": {
+   "nl": "Koglmoos Ski-Bar",
+   "en": "Koglmoos Ski Bar",
+   "de": "Koglmoos Skibar"
+  },
+  "tagline": {
+   "nl": "Apres-skibar direct aan de piste bij het middenstation",
+   "en": "Après-ski bar right on the piste at the mid station",
+   "de": "Après-Ski-Bar direkt an der Piste bei der Mittelstation"
+  },
+  "intro": {
+   "nl": "De Koglmoos Ski-Bar ligt bij het middenstation van de Schatzbergbahn, vlak naast Berghaus Koglmoos en direct aan de piste. Volgens de vermelding van de toeristische organisatie van de Wildschönau is het een ontmoetingsplek voor skiërs en liefhebbers van apres-ski. Andere bronnen noemen hem ook Schneebar of Schirmbar Koglmoos; de naam wisselt dus per bron.\n\nEen eigen keuken lijkt er niet te zijn: het eten laat je over aan het naastgelegen Berghaus. Het is een plek voor een drankje onderweg, op de laatste afdaling naar Auffach. Skiresort.info beschrijft de sfeer meestal als ontspannen, met hier en daar een langere middag in het hoogseizoen en in weekenden.",
+   "en": "The Koglmoos Ski Bar stands at the mid station of the Schatzbergbahn, next to Berghaus Koglmoos and right on the piste. The Wildschönau tourist board's listing describes it as a meeting place for skiers and après-ski fans. Other sources also call it Schneebar or Schirmbar Koglmoos, so the name varies from source to source.\n\nIt does not appear to have a kitchen of its own: food is left to the neighbouring Berghaus. It is a spot for a drink along the way, on the final run down to Auffach. Skiresort.info describes the mood as mostly relaxed, with the occasional longer afternoon in peak season and at weekends.",
+   "de": "Die Koglmoos Skibar liegt an der Mittelstation der Schatzbergbahn, direkt neben dem Berghaus Koglmoos und unmittelbar an der Piste. Laut dem Eintrag des Tourismusverbands Wildschönau ist sie ein Treffpunkt für Skifahrer und Après-Ski-Fans. Andere Quellen nennen sie auch Schneebar oder Schirmbar Koglmoos, der Name variiert also je nach Quelle.\n\nEine eigene Küche scheint es nicht zu geben: Das Essen überlässt man dem benachbarten Berghaus. Sie ist ein Ort für ein Getränk zwischendurch, auf der letzten Abfahrt nach Auffach. Skiresort.info beschreibt die Stimmung meist als entspannt, mit gelegentlich längeren Nachmittagen in der Hochsaison und an Wochenenden."
+  },
+  "tips": {
+   "nl": [
+    "Combineer met een lunch in het naastgelegen Berghaus Koglmoos.",
+    "Plan de laatste afdaling naar Auffach vóór het donker wordt.",
+    "Informeer vooraf bij de hut of via de officiële site naar actuele informatie."
+   ],
+   "en": [
+    "Pair it with lunch at the neighbouring Berghaus Koglmoos.",
+    "Plan the last run down to Auffach before it gets dark.",
+    "Check with the hut or the official site for current information."
+   ],
+   "de": [
+    "Verbinden Sie den Besuch mit einem Mittagessen im benachbarten Berghaus Koglmoos.",
+    "Planen Sie die letzte Abfahrt nach Auffach, bevor es dunkel wird.",
+    "Aktuelle Informationen erhalten Sie bei der Hütte oder auf der offiziellen Seite."
+   ]
+  },
+  "practical": {
+   "nl": "Met de Schatzbergbahn naar het middenstation, of skiënd vanaf de berg; de bar ligt aan de piste.",
+   "en": "Take the Schatzbergbahn to the mid station, or ski down from the mountain; the bar sits on the piste.",
+   "de": "Mit der Schatzbergbahn zur Mittelstation oder auf Skiern vom Berg; die Bar liegt an der Piste."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 20 minuten rijden van Niederau naar het dalstation in Auffach, daarna de gondel",
+    "en": "About 20 minutes by car from Niederau to the valley station in Auffach, then the gondola",
+    "de": "Ca. 20 Minuten Fahrt von Niederau zur Talstation in Auffach, dann die Gondel"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "https://www.wildschoenau.com/en/info-service/wildschoenau-a-z/Koglmoos-Ski-Bar_isd_89593",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er eten bij de Koglmoos Ski-Bar?",
+     "en": "Is food served at the Koglmoos Ski Bar?",
+     "de": "Gibt es Essen an der Koglmoos Skibar?"
+    },
+    "a": {
+     "nl": "Volgens een bron serveert de bar zelf geen eten; het naastgelegen Berghaus Koglmoos heeft wel een keuken.",
+     "en": "One source says the bar itself serves no food; the neighbouring Berghaus Koglmoos has a kitchen.",
+     "de": "Laut einer Quelle gibt es an der Bar selbst kein Essen; das benachbarte Berghaus Koglmoos hat eine Küche."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is dit dezelfde als de Schirmbar?",
+     "en": "Is this the same as the Schirmbar?",
+     "de": "Ist das dasselbe wie die Schirmbar?"
+    },
+    "a": {
+     "nl": "Waarschijnlijk wel: verschillende bronnen gebruiken Skibar, Schneebar en Schirmbar Koglmoos voor de bar bij het middenstation.",
+     "en": "Probably: different sources use Ski Bar, Schneebar and Schirmbar Koglmoos for the bar at the mid station.",
+     "de": "Wahrscheinlich ja: Verschiedene Quellen verwenden Skibar, Schneebar und Schirmbar Koglmoos für die Bar an der Mittelstation."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h14",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "bobos-heustadl-niederau",
+  "slug_de": "bobos-heustadl-niederau",
+  "title": {
+   "nl": "Bobo's Heustadl",
+   "en": "Bobo's Heustadl",
+   "de": "Bobo's Heustadl"
+  },
+  "tagline": {
+   "nl": "Biergarten in het dorp, met uitzicht op de bergen",
+   "en": "A beer garden in the village with mountain views",
+   "de": "Biergarten im Ort mit Bergblick"
+  },
+  "intro": {
+   "nl": "Bobo's Heustadl is geen berghut maar een biergarten in het dorp Niederau, aan de Dorfstraße. Ski Juwel noemt het in de lijst van horeca bij het skigebied. Beschrijvingen op toeristische sites noemen een gezellige, ontspannen sfeer met uitzicht op de bergen.\n\nVolgens de vermeldingen is er een ruime keuze aan bier en wijn, aangevuld met regionale gerechten en gegrild eten; één bron noemt ook cocktails. De ligging midden in het dorp maakt het een makkelijke plek voor wie na een dag in de bergen niet meer hoger hoeft. Precies omdat Niederau zelf je uitvalsbasis is, loop je er vaak zonder auto naartoe.",
+   "en": "Bobo's Heustadl is not a mountain hut but a beer garden in the village of Niederau, on the Dorfstraße. Ski Juwel lists it among the eateries connected to the ski area. Descriptions on tourism sites mention a relaxed, friendly atmosphere with views of the mountains.\n\nAccording to the listings there is a wide choice of beer and wine, plus regional dishes and grilled food; one source also mentions cocktails. Its position in the middle of the village makes it an easy stop for anyone who does not want to climb any higher after a day in the mountains. Since Niederau is your base anyway, you can often walk there without the car.",
+   "de": "Bobo's Heustadl ist keine Berghütte, sondern ein Biergarten im Ort Niederau, an der Dorfstraße. Ski Juwel führt ihn unter den Gastronomiebetrieben rund um das Skigebiet. Beschreibungen auf Tourismusseiten erwähnen eine entspannte, gemütliche Atmosphäre mit Blick auf die Berge.\n\nLaut den Einträgen gibt es eine große Auswahl an Bier und Wein, dazu regionale Gerichte und Gegrilltes; eine Quelle erwähnt auch Cocktails. Die Lage mitten im Ort macht ihn zu einem einfachen Stopp für alle, die nach einem Tag in den Bergen nicht mehr höher hinauf möchten. Da Niederau ohnehin Ihr Standort ist, gehen Sie oft ohne Auto hin."
+  },
+  "tips": {
+   "nl": [
+    "Handig voor een rustige avond in het dorp na een dag in de bergen.",
+    "Loop erheen vanaf je verblijf in Niederau in plaats van de auto te pakken.",
+    "Informeer vooraf bij de zaak of via de officiële site naar actuele informatie."
+   ],
+   "en": [
+    "Handy for a calm evening in the village after a day in the mountains.",
+    "Walk there from your Niederau accommodation instead of taking the car.",
+    "Check with the venue or the official site for current information."
+   ],
+   "de": [
+    "Praktisch für einen ruhigen Abend im Ort nach einem Tag in den Bergen.",
+    "Gehen Sie von Ihrer Unterkunft in Niederau zu Fuß hin, statt das Auto zu nehmen.",
+    "Aktuelle Informationen erhalten Sie beim Betrieb oder auf der offiziellen Seite."
+   ]
+  },
+  "practical": {
+   "nl": "Midden in Niederau, aan de Dorfstraße; vanuit het dorp meestal te voet bereikbaar.",
+   "en": "In the middle of Niederau, on the Dorfstraße; usually reachable on foot from within the village.",
+   "de": "Mitten in Niederau an der Dorfstraße; aus dem Ort meist zu Fuß erreichbar."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "In Niederau zelf; meestal te voet vanuit het dorp",
+    "en": "In Niederau itself; usually on foot from within the village",
+    "de": "In Niederau selbst; meist zu Fuß aus dem Ort"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
+  "url": "https://www.tyrol.com/activities/food/restaurants/bobos-heustadl",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Bobo's Heustadl een berghut?",
+     "en": "Is Bobo's Heustadl a mountain hut?",
+     "de": "Ist Bobo's Heustadl eine Berghütte?"
+    },
+    "a": {
+     "nl": "Nee, het is een biergarten in het dorp Niederau.",
+     "en": "No, it is a beer garden in the village of Niederau.",
+     "de": "Nein, es ist ein Biergarten im Ort Niederau."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat kun je er verwachten?",
+     "en": "What can you expect there?",
+     "de": "Was erwartet man dort?"
+    },
+    "a": {
+     "nl": "Volgens de vermeldingen bier, wijn, regionale gerechten en gegrild eten, met uitzicht op de bergen.",
+     "en": "The listings mention beer, wine, regional dishes and grilled food, with mountain views.",
+     "de": "Laut den Einträgen Bier, Wein, regionale Gerichte und Gegrilltes, mit Bergblick."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h15",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "stadl-bar-oberau",
+  "slug_de": "stadl-bar-oberau",
+  "title": {
+   "nl": "Stadl Bar Oberau",
+   "en": "Stadl Bar Oberau",
+   "de": "Stadl Bar Oberau"
+  },
+  "tagline": {
+   "nl": "Gezellige bar direct aan de piste in Oberau",
+   "en": "A cosy bar right by the slope in Oberau",
+   "de": "Gemütliche Bar direkt an der Piste in Oberau"
+  },
+  "intro": {
+   "nl": "De Stadl Bar staat in Oberau, het dorp tussen Niederau en Auffach, en is volgens de vermelding van de Wildschönau-toeristenorganisatie een gezellige bar direct aan de piste. Het is een apres-skiplek voor de wintermaanden. De contactgegevens in de vermelding verwijzen naar Hotel Tirolerhof in Oberau, dus het is aannemelijk dat het hotel de bar beheert; de vermelding zegt dat zelf niet met zoveel woorden.\n\nOberau is rustiger dan Niederau en vooral bekend bij langlaufers. De Stadl Bar past daarbij: geen hoge berghut, maar een plek in het dal waar je na het skiën kunt aanschuiven zonder nog te hoeven liften. Veel meer details staan er niet bij, dus bel of vraag ter plekke naar het aanbod.",
+   "en": "The Stadl Bar is in Oberau, the village between Niederau and Auffach, and the Wildschönau tourist board lists it as a cosy bar directly by the slope. It is an après-ski spot for the winter months. The contact details in the listing point to Hotel Tirolerhof in Oberau, so the hotel plausibly runs the bar, although the listing does not say so outright.\n\nOberau is quieter than Niederau and especially known among cross-country skiers. The Stadl Bar fits that picture: not a high mountain hut, but a valley spot where you can drop in after skiing without taking another lift. The listing gives little more detail, so ask on the spot about what is on offer.",
+   "de": "Die Stadl Bar liegt in Oberau, dem Ort zwischen Niederau und Auffach, und wird vom Tourismusverband Wildschönau als gemütliche Bar direkt an der Piste geführt. Sie ist ein Après-Ski-Ort für die Wintermonate. Die Kontaktdaten im Eintrag verweisen auf das Hotel Tirolerhof in Oberau, der Betrieb durch das Hotel ist also naheliegend, wird im Eintrag aber nicht ausdrücklich gesagt.\n\nOberau ist ruhiger als Niederau und vor allem bei Langläufern bekannt. Die Stadl Bar passt dazu: keine hochgelegene Berghütte, sondern ein Platz im Tal, an dem man nach dem Skifahren einkehren kann, ohne noch einmal liften zu müssen. Mehr Details nennt der Eintrag kaum, fragen Sie daher vor Ort nach dem Angebot."
+  },
+  "tips": {
+   "nl": [
+    "Combineer met een dag skiën of langlaufen in en rond Oberau.",
+    "Neem de auto of skibus van Niederau naar Oberau; het dorp ligt dichtbij.",
+    "Informeer vooraf bij de bar of via de officiële site naar actuele informatie."
+   ],
+   "en": [
+    "Combine it with a day of skiing or cross-country skiing in and around Oberau.",
+    "Take the car or ski bus from Niederau to Oberau; the village is close by.",
+    "Check with the bar or the official site for current information."
+   ],
+   "de": [
+    "Verbinden Sie den Besuch mit einem Ski- oder Langlauftag in und um Oberau.",
+    "Fahren Sie mit Auto oder Skibus von Niederau nach Oberau; der Ort liegt nah.",
+    "Aktuelle Informationen erhalten Sie bei der Bar oder auf der offiziellen Seite."
+   ]
+  },
+  "practical": {
+   "nl": "In Oberau, direct aan de piste; vanuit Niederau een korte rit.",
+   "en": "In Oberau, right by the slope; a short ride from Niederau.",
+   "de": "In Oberau, direkt an der Piste; von Niederau aus eine kurze Fahrt."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Oberau ligt vlak bij Niederau, ca. 5 minuten rijden",
+    "en": "Oberau is close to Niederau, about 5 minutes by car",
+    "de": "Oberau liegt nahe bei Niederau, ca. 5 Minuten Fahrt"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
+  "url": "https://www.wildschoenau.com/de/region-orte/a-z/stadl-bar_az_12677",
+  "faq": [
+   {
+    "q": {
+     "nl": "Ligt de Stadl Bar bij Niederau?",
+     "en": "Is the Stadl Bar in Niederau?",
+     "de": "Liegt die Stadl Bar in Niederau?"
+    },
+    "a": {
+     "nl": "Nee, in Oberau, het dorp ernaast.",
+     "en": "No, it is in Oberau, the neighbouring village.",
+     "de": "Nein, sie liegt in Oberau, dem Nachbarort."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is het een berghut?",
+     "en": "Is it a mountain hut?",
+     "de": "Ist es eine Berghütte?"
+    },
+    "a": {
+     "nl": "Nee, het is een bar in het dal, aan de piste.",
+     "en": "No, it is a bar in the valley, by the slope.",
+     "de": "Nein, es ist eine Bar im Tal, an der Piste."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h16",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "connys-tiroler-wirtshaus-inneralpbach",
+  "slug_de": "connys-tiroler-wirtshaus-inneralpbach",
+  "title": {
+   "nl": "Conny's Tiroler Wirtshaus",
+   "en": "Conny's Tiroler Wirtshaus",
+   "de": "Conny's Tiroler Wirtshaus"
+  },
+  "tagline": {
+   "nl": "Tiroolse herberg in het hart van Inneralpbach",
+   "en": "A Tyrolean inn in the heart of Inneralpbach",
+   "de": "Tiroler Wirtshaus mitten in Inneralpbach"
+  },
+  "intro": {
+   "nl": "Ski Juwel vermeldt Conny's bij de eetgelegenheden van Inneralpbach, het achterste deel van het Alpbachtal. Het is geen berghut op de piste maar een herberg in het dorp, een paar minuten lopen van de liften naar de Wiedersberger Horn. Volgens de officiële beschrijving draait de keuken om streekproducten en gerechten in Tiroolse stijl.\n\nVoor gezinnen is vooral het zonneterras met kinderspeelplaats praktisch: de kinderen kunnen zich vermaken terwijl jullie nog napraten. Conny's biedt ook overnachtingen en zaalruimte voor groepen. Zie het als een adres voor na de skidag of na een wandeling door het dal, minder als pauzeplek halverwege de piste.",
+   "en": "Conny's is listed by Ski Juwel among the places to eat in Inneralpbach, the innermost part of the Alpbach valley. It is not a mountain hut on the slopes but an inn in the village, a few minutes' walk from the lifts up to the Wiedersberger Horn. According to the official description, the kitchen works with regional produce and Tyrolean-style dishes.\n\nFor families the sunny terrace with a children's playground is the practical bit: the little ones can play while the adults linger over the table. Conny's also has rooms and space for groups. Think of it as a choice for after a ski day or a valley walk rather than a stop halfway down the piste.",
+   "de": "Conny's wird von Ski Juwel unter den Einkehrmöglichkeiten in Inneralpbach geführt, dem hintersten Teil des Alpbachtals. Es ist keine Berghütte an der Piste, sondern ein Wirtshaus im Ort, wenige Gehminuten von den Bahnen zum Wiedersberger Horn entfernt. Laut offizieller Beschreibung steht regionale Küche im Tiroler Stil im Mittelpunkt.\n\nFür Familien ist vor allem die Sonnenterrasse mit Kinderspielplatz praktisch: Die Kleinen können spielen, während die Erwachsenen noch sitzen bleiben. Conny's bietet auch Zimmer und Platz für Gruppen. Am besten passt es nach dem Skitag oder einem Spaziergang im Tal, weniger als Pause mitten auf der Piste."
+  },
+  "tips": {
+   "nl": [
+    "Neem de kinderen mee naar het terras: de speelplaats ligt erbij.",
+    "Wil je met een groep komen, vraag dan vooraf naar de zaalruimte.",
+    "Combineer het bezoek met een wandeling door het dal van Inneralpbach."
+   ],
+   "en": [
+    "Bring the children to the terrace: the playground is right there.",
+    "If you come as a group, ask about the function space beforehand.",
+    "Combine a visit with a walk through the Inneralpbach valley."
+   ],
+   "de": [
+    "Nehmt die Kinder mit auf die Terrasse: Der Spielplatz liegt gleich daneben.",
+    "Kommt ihr als Gruppe, fragt vorab nach den Räumlichkeiten.",
+    "Verbindet den Besuch mit einem Spaziergang durch das Tal von Inneralpbach."
+   ]
+  },
+  "practical": {
+   "nl": "Je bereikt Conny's met de auto of de skibus in het centrum van Inneralpbach. Informeer bij de herberg zelf of via de officiële site voor actuele informatie.",
+   "en": "You can reach Conny's by car or ski bus in the centre of Inneralpbach. For current information, ask the inn directly or check the official site.",
+   "de": "Conny's erreicht ihr mit Auto oder Skibus im Zentrum von Inneralpbach. Aktuelle Informationen gibt es direkt beim Haus oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "In Inneralpbach, aan de Alpbachtal-kant van Ski Juwel; vanuit Niederau een rit via Wörgl/Brixlegg of een lange skidag via de Ski Juwel-verbinding (ca., niet exact)",
+    "en": "In Inneralpbach on the Alpbachtal side of Ski Juwel; from Niederau a drive or a long ski day via the Ski Juwel link (approximate)",
+    "de": "In Inneralpbach auf der Alpbachtaler Seite von Ski Juwel; von Niederau per Auto oder als lange Skitour über die Ski-Juwel-Verbindung (ungefähr)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Inneralpbach, Alpbachtal",
+   "en": "Inneralpbach, Alpbachtal",
+   "de": "Inneralpbach, Alpbachtal"
+  },
+  "url": "https://www.alpbachtal.at/en/info-and-service/alpbachtal-a-z/Connys-Original-Tiroler-Wirtshaus_isd_37098",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Conny's een berghut?",
+     "en": "Is Conny's a mountain hut?",
+     "de": "Ist Conny's eine Berghütte?"
+    },
+    "a": {
+     "nl": "Nee, het is een Tiroolse herberg in het dorp Inneralpbach, niet op de piste.",
+     "en": "No, it is a Tyrolean inn in the village of Inneralpbach, not on the slopes.",
+     "de": "Nein, es ist ein Tiroler Wirtshaus im Ort Inneralpbach, nicht an der Piste."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er iets voor kinderen?",
+     "en": "Is there anything for children?",
+     "de": "Gibt es etwas für Kinder?"
+    },
+    "a": {
+     "nl": "Volgens de officiële beschrijving hoort er een kinderspeelplaats bij het zonneterras.",
+     "en": "The official description mentions a children's playground by the sun terrace.",
+     "de": "Laut offizieller Beschreibung gehört ein Kinderspielplatz zur Sonnenterrasse."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h17",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "joes-salettl-inneralpbach",
+  "slug_de": "joes-salettl-inneralpbach",
+  "title": {
+   "nl": "Joe's Salett'l",
+   "en": "Joe's Salett'l",
+   "de": "Joe's Salett'l"
+  },
+  "tagline": {
+   "nl": "Restaurant, café en bar aan het dalstation van de Pöglbahn",
+   "en": "Restaurant, café and bar at the Pöglbahn valley station",
+   "de": "Restaurant, Café und Bar an der Talstation der Pöglbahn"
+  },
+  "intro": {
+   "nl": "Joe's Salett'l staat direct bij het dalstation van de Pöglbahn in Inneralpbach. Het is een combinatie van restaurant, café en bar: een plek om de skidag te beginnen of af te sluiten, op het punt waar de gondel naar de Wiedersberger Horn vertrekt.\n\nVolgens de toeristische pagina van Tirol bereik je het makkelijkst via piste 47, en de skibushalte ligt naast de parkeerplaats van de Pöglbahn. Daardoor is het ook handig voor wie zonder ski's komt: een afspraak met de rest van de familie die zelf gaat skiën. Het lokaal wordt ook genoemd voor feesten en bijeenkomsten.",
+   "en": "Joe's Salett'l stands right by the Pöglbahn valley station in Inneralpbach. It combines restaurant, café and bar, which makes it a spot to start or end a ski day at the point where the gondola to the Wiedersberger Horn departs.\n\nAccording to the Tirol tourism page, the easiest way in is down piste 47, and the ski bus stop is next to the Pöglbahn car park. That also suits anyone arriving without skis, for instance to meet family members who ski. The venue is also mentioned for parties and gatherings.",
+   "de": "Joe's Salett'l liegt direkt an der Talstation der Pöglbahn in Inneralpbach. Es verbindet Restaurant, Café und Bar und eignet sich damit zum Start oder Ausklang des Skitags dort, wo die Gondel zum Wiedersberger Horn abfährt.\n\nLaut der Tourismusseite von Tirol erreicht man es am einfachsten über die Piste 47, die Skibushaltestelle liegt neben dem Parkplatz der Pöglbahn. Das passt auch für alle, die ohne Ski kommen, etwa um sich mit skifahrenden Familienmitgliedern zu treffen. Das Lokal wird außerdem für Feiern und Veranstaltungen genannt."
+  },
+  "tips": {
+   "nl": [
+    "Spreek hier af als de familie zich over verschillende pistes verdeelt: het dalstation is een duidelijk punt.",
+    "Kom je met de skibus, stap uit bij de parkeerplaats van de Pöglbahn.",
+    "Wil je een feestje plannen, vraag dan rechtstreeks bij het lokaal."
+   ],
+   "en": [
+    "Use it as a meeting point if the family splits across different runs: the valley station is easy to find.",
+    "Arriving by ski bus, get off at the Pöglbahn car park.",
+    "If you plan a party, ask the venue directly."
+   ],
+   "de": [
+    "Als Treffpunkt eignet es sich gut, wenn sich die Familie auf verschiedene Pisten verteilt: Die Talstation ist leicht zu finden.",
+    "Mit dem Skibus steigt ihr am Parkplatz der Pöglbahn aus.",
+    "Für eine Feier fragt ihr am besten direkt im Lokal an."
+   ]
+  },
+  "practical": {
+   "nl": "Op de ski via piste 47 of met de skibus naar de parkeerplaats van de Pöglbahn. Vraag voor actuele informatie bij het lokaal of via de officiële site.",
+   "en": "On skis via piste 47 or by ski bus to the Pöglbahn car park. For current information, ask the venue or check the official site.",
+   "de": "Auf Ski über die Piste 47 oder mit dem Skibus zum Parkplatz der Pöglbahn. Aktuelle Informationen beim Lokal oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Aan de Alpbachtal-kant van Ski Juwel; vanuit Niederau een rit of lange skidag via de Ski Juwel-verbinding (ca., niet exact)",
+    "en": "On the Alpbachtal side of Ski Juwel; from Niederau a drive or long ski day via the Ski Juwel link (approximate)",
+    "de": "Auf der Alpbachtaler Seite von Ski Juwel; von Niederau per Auto oder lange Skitour über die Ski-Juwel-Verbindung (ungefähr)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Inneralpbach, Alpbachtal",
+   "en": "Inneralpbach, Alpbachtal",
+   "de": "Inneralpbach, Alpbachtal"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/kulinarik/gastronomie/joes-salettl-3",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt Joe's Salett'l?",
+     "en": "Where is Joe's Salett'l?",
+     "de": "Wo liegt Joe's Salett'l?"
+    },
+    "a": {
+     "nl": "Bij het dalstation van de Pöglbahn in Inneralpbach.",
+     "en": "At the Pöglbahn valley station in Inneralpbach.",
+     "de": "An der Talstation der Pöglbahn in Inneralpbach."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe kom ik er zonder auto?",
+     "en": "How do I get there without a car?",
+     "de": "Wie komme ich ohne Auto hin?"
+    },
+    "a": {
+     "nl": "Er is een skibushalte naast de parkeerplaats van de Pöglbahn.",
+     "en": "There is a ski bus stop next to the Pöglbahn car park.",
+     "de": "Die Skibushaltestelle liegt neben dem Parkplatz der Pöglbahn."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h18",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "boeglalm-inneralpbach",
+  "slug_de": "boeglalm-inneralpbach",
+  "title": {
+   "nl": "Böglalm",
+   "en": "Böglalm",
+   "de": "Böglalm"
+  },
+  "tagline": {
+   "nl": "Rustieke alm met een grote pan Kasspatzl boven Inneralpbach",
+   "en": "Rustic alm above Inneralpbach known for its big pan of Kasspatzl",
+   "de": "Urige Alm über Inneralpbach mit der großen Kasspatzl-Pfanne"
+  },
+  "intro": {
+   "nl": "De Böglalm ligt op ongeveer 1.220 m boven Inneralpbach, in de winter aan de piste bij het middenstation van de Pöglbahn. Bekend is de hut om de Alpbacher Kasspatzl, die in een heel grote pan worden bereid. Verder staan er Tiroolse klassiekers als gröstl, schnitzel en knödel op het menu, en soms gegrilde kip.\n\nIn de zomer is het een wandeldoel. De route vanaf de parkeerplaats in Inneralpbach is volgens Alpbachtal Tourismus gemakkelijk en geschikt voor een kinderwagen; reken op ongeveer een uur lopen. De alm biedt ook een alpenontbijt met streekproducten aan.",
+   "en": "The Böglalm sits at about 1,220 m above Inneralpbach and, in winter, on the piste by the middle station of the Pöglbahn. It is known for Alpbacher Kasspatzl, cooked in a very large pan. The menu also lists Tyrolean classics such as Gröstl, schnitzel and dumplings, and sometimes grilled chicken.\n\nIn summer it is a walking destination. According to Alpbachtal Tourism, the route from the car park in Inneralpbach is easy and suitable for a pushchair; allow about an hour on foot. The alm also offers an alpine breakfast with regional produce.",
+   "de": "Die Böglalm liegt auf rund 1.220 m über Inneralpbach, im Winter direkt an der Piste bei der Mittelstation der Pöglbahn. Bekannt ist sie für die Alpbacher Kasspatzl, die in einer sehr großen Pfanne zubereitet werden. Dazu gibt es Tiroler Klassiker wie Gröstl, Schnitzel und Knödel, teils auch gegrilltes Hendl.\n\nIm Sommer ist sie ein Wanderziel. Laut Alpbachtal Tourismus ist der Weg vom Parkplatz in Inneralpbach leicht und kinderwagentauglich; man rechnet mit etwa einer Stunde zu Fuß. Die Alm bietet außerdem ein Almfrühstück mit regionalen Produkten."
+  },
+  "tips": {
+   "nl": [
+    "Wandel je in de zomer, neem dan een kinderwagen gerust mee op de route vanaf Inneralpbach.",
+    "Wil je een bepaald gerecht, informeer dan vooraf bij de hut.",
+    "Combineer de wandeling met een terugweg via de Greiter Höfe, een route die Alpbachtal Tourismus beschrijft."
+   ],
+   "en": [
+    "In summer a pushchair is fine on the route from Inneralpbach.",
+    "If you have a particular dish in mind, ask the hut beforehand.",
+    "Combine the hike with a return via the Greiter farms, a route described by Alpbachtal Tourism."
+   ],
+   "de": [
+    "Im Sommer ist der Weg ab Inneralpbach mit Kinderwagen gut machbar.",
+    "Habt ihr ein bestimmtes Gericht im Sinn, fragt vorher bei der Hütte nach.",
+    "Verbindet die Wanderung mit dem Rückweg über die Greiter Höfe, den Alpbachtal Tourismus beschreibt."
+   ]
+  },
+  "practical": {
+   "nl": "Te voet vanaf de parkeerplaats in Inneralpbach, of op ski via de piste bij het middenstation van de Pöglbahn. Vraag voor actuele informatie bij de hut.",
+   "en": "On foot from the car park in Inneralpbach, or on skis via the piste by the Pöglbahn middle station. For current information ask the hut.",
+   "de": "Zu Fuß ab dem Parkplatz in Inneralpbach oder auf Ski über die Piste bei der Mittelstation der Pöglbahn. Aktuelle Informationen bei der Hütte."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Aan de Alpbachtal-kant van Ski Juwel; vanuit Niederau een rit of lange skidag via de Ski Juwel-verbinding (ca., niet exact)",
+    "en": "On the Alpbachtal side of Ski Juwel; from Niederau a drive or long ski day via the Ski Juwel link (approximate)",
+    "de": "Auf der Alpbachtaler Seite von Ski Juwel; von Niederau per Auto oder lange Skitour über die Ski-Juwel-Verbindung (ungefähr)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Inneralpbach, Alpbachtal",
+   "en": "Inneralpbach, Alpbachtal",
+   "de": "Inneralpbach, Alpbachtal"
+  },
+  "url": "https://www.alpbachtal.at/en/info-and-service/alpbachtal-a-z/Boglalm_isd_39309",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je de Böglalm lopend bereiken?",
+     "en": "Can you walk to the Böglalm?",
+     "de": "Kann man zur Böglalm wandern?"
+    },
+    "a": {
+     "nl": "Ja, vanaf de parkeerplaats in Inneralpbach is het een gemakkelijke wandeling van ongeveer een uur.",
+     "en": "Yes, from the car park in Inneralpbach it is an easy walk of about an hour.",
+     "de": "Ja, vom Parkplatz in Inneralpbach ist es ein leichter Spaziergang von etwa einer Stunde."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar staat de hut om bekend?",
+     "en": "What is the hut known for?",
+     "de": "Wofür ist die Hütte bekannt?"
+    },
+    "a": {
+     "nl": "Voor de Alpbacher Kasspatzl uit een grote pan.",
+     "en": "For Alpbacher Kasspatzl from a large pan.",
+     "de": "Für die Alpbacher Kasspatzl aus der großen Pfanne."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h19",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "hornalm-wiedersberger-horn",
+  "slug_de": "hornalm-wiedersberger-horn",
+  "title": {
+   "nl": "Hornalm",
+   "en": "Hornalm",
+   "de": "Hornalm"
+  },
+  "tagline": {
+   "nl": "De hoogste hut van Ski Juwel, bij de Hornbahn 2000",
+   "en": "The highest hut in Ski Juwel, by the Hornbahn 2000",
+   "de": "Die höchste Hütte im Ski Juwel, an der Hornbahn 2000"
+  },
+  "intro": {
+   "nl": "De Hornalm ligt op ongeveer 2.032 m bij het bergstation van de Hornbahn 2000 aan de Wiedersberger Horn. Volgens de toeristische bronnen is dit de hoogste skihut van Ski Juwel en het hoogste punt van het gebied. Binnen zijn er tot ongeveer honderd zitplaatsen.\n\nIn de zomer lopen wandelaars langs de hut op het panoramapad rond de Wiedersberger Horn. Dat maakt de Hornalm een natuurlijke pauzeplek met uitzicht, zonder dat je een lange tocht hoeft te maken als je met de lift omhoog komt.",
+   "en": "The Hornalm stands at about 2,032 m by the top station of the Hornbahn 2000 on the Wiedersberger Horn. Tourism sources describe it as the highest ski hut in Ski Juwel and the highest point of the area. Indoors there is room for roughly a hundred guests.\n\nIn summer walkers pass the hut on the panorama path around the Wiedersberger Horn. That makes it a natural viewpoint stop without a long hike if you ride the lifts up.",
+   "de": "Die Hornalm liegt auf rund 2.032 m bei der Bergstation der Hornbahn 2000 am Wiedersberger Horn. Laut Tourismusquellen ist sie die höchstgelegene Skihütte im Ski Juwel und der höchste Punkt des Gebiets. Drinnen gibt es Platz für etwa hundert Gäste.\n\nIm Sommer kommen Wanderer auf dem Panoramaweg rund um das Wiedersberger Horn an der Hütte vorbei. So ist sie ein naheliegender Aussichtsstopp, ohne lange Tour, wenn man mit den Bahnen hochfährt."
+  },
+  "tips": {
+   "nl": [
+    "Neem warme kleding mee: op deze hoogte kan het ook in de zomer fris zijn.",
+    "Combineer de hut met de panoramawandeling rond de Wiedersberger Horn.",
+    "Kom je met kinderen, houd de wandelroute dan kort en maak de hut het doel."
+   ],
+   "en": [
+    "Bring warm clothing: it can be cool at this altitude even in summer.",
+    "Combine the hut with the panorama walk around the Wiedersberger Horn.",
+    "With children, keep the walk short and make the hut the goal."
+   ],
+   "de": [
+    "Warme Kleidung mitnehmen: In dieser Höhe kann es auch im Sommer frisch sein.",
+    "Verbindet die Hütte mit der Panoramawanderung rund um das Wiedersberger Horn.",
+    "Mit Kindern die Wanderung kurz halten und die Hütte zum Ziel machen."
+   ]
+  },
+  "practical": {
+   "nl": "Met de Hornbahn 2000 of te voet over het panoramapad; vraag voor actuele informatie bij de hut of via de officiële site.",
+   "en": "By the Hornbahn 2000 or on foot along the panorama path; for current information ask the hut or check the official site.",
+   "de": "Mit der Hornbahn 2000 oder zu Fuß über den Panoramaweg; aktuelle Informationen bei der Hütte oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Direct bij het bergstation van de Hornbahn 2000 in Alpbach; vanuit Niederau via de Ski Juwel-verbinding of per auto naar Alpbach (ca., niet exact).",
+    "en": "Directly by the top station of the Hornbahn 2000 in Alpbach; from Niederau via the Ski Juwel link or by car to Alpbach (approximate).",
+    "de": "Direkt an der Bergstation der Hornbahn 2000 in Alpbach; von Niederau über die Ski-Juwel-Verbindung oder per Auto nach Alpbach (ungefähr)."
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Wiedersberger Horn, Alpbach",
+   "en": "Wiedersberger Horn, Alpbach",
+   "de": "Wiedersberger Horn, Alpbach"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/kulinarik/gastronomie/hornalm",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog ligt de Hornalm?",
+     "en": "How high is the Hornalm?",
+     "de": "Wie hoch liegt die Hornalm?"
+    },
+    "a": {
+     "nl": "Op ongeveer 2.032 m, bij het bergstation van de Hornbahn 2000.",
+     "en": "At about 2,032 m, by the top station of the Hornbahn 2000.",
+     "de": "Auf rund 2.032 m, bei der Bergstation der Hornbahn 2000."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is de hut ook in de zomer bereikbaar?",
+     "en": "Can you reach the hut in summer?",
+     "de": "Ist die Hütte auch im Sommer erreichbar?"
+    },
+    "a": {
+     "nl": "Wandelaars komen er langs op het panoramapad rond de Wiedersberger Horn; informeer ter plekke naar de actuele situatie.",
+     "en": "Walkers pass it on the panorama path around the Wiedersberger Horn; ask on site about the current situation.",
+     "de": "Wanderer kommen auf dem Panoramaweg rund um das Wiedersberger Horn vorbei; vor Ort nach dem aktuellen Stand fragen."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h20",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "dauerstoa-alm-wiedersberger-horn",
+  "slug_de": "dauerstoa-alm-wiedersberger-horn",
+  "title": {
+   "nl": "Dauerstoa Alm",
+   "en": "Dauerstoa Alm",
+   "de": "Dauerstoa Alm"
+  },
+  "tagline": {
+   "nl": "Terras en chillzone op 1.840 m",
+   "en": "Terrace and chill zone at 1,840 m",
+   "de": "Terrasse und Chillzone auf 1.840 m"
+  },
+  "intro": {
+   "nl": "De Dauerstoa Alm ligt op ongeveer 1.840 m bij het bergstation van de Wiedersbergerhornbahn. Op de officiële Ski Juwel-pagina ligt hij tussen de bergstations van de Pöglbahn en de Wiedersbergerhornbahn, dus skiërs komen er langs op de verbindende pistes.\n\nDe hut heeft een groot terras, een chillzone en een buitenbar naast het restaurant binnen. In de zomer is het een pauzeplek voor wandelaars rond de Wiedersberger Horn, en vlakbij ligt het avonturenpark Lauserland in het bos, wat het voor gezinnen een logisch uitstapje maakt. De hut wordt geëxploiteerd door een familie uit Alpbach.",
+   "en": "The Dauerstoa Alm sits at about 1,840 m by the top station of the Wiedersbergerhornbahn. On the official Ski Juwel page it is placed between the top stations of the Pöglbahn and the Wiedersbergerhornbahn, so skiers pass it on the connecting runs.\n\nThe hut has a large terrace, a chill zone and an outdoor bar alongside the indoor restaurant. In summer it is a rest stop for walkers around the Wiedersberger Horn, and the Lauserland adventure area in the woods is close by, a natural outing for families. It is run by a family from Alpbach.",
+   "de": "Die Dauerstoa Alm liegt auf rund 1.840 m bei der Bergstation der Wiedersbergerhornbahn. Auf der offiziellen Ski-Juwel-Seite liegt sie zwischen den Bergstationen von Pöglbahn und Wiedersbergerhornbahn, Skifahrer kommen also auf den Verbindungspisten vorbei.\n\nDie Hütte hat eine große Terrasse, eine Chillzone und eine Außenbar neben dem Restaurant im Haus. Im Sommer ist sie Rastplatz für Wanderer rund um das Wiedersberger Horn, und der Erlebnisbereich Lauserland im Wald liegt in der Nähe, ein naheliegendes Ausflugsziel für Familien. Betrieben wird sie von einer Familie aus Alpbach."
+  },
+  "tips": {
+   "nl": [
+    "Combineer een pauze op het terras met een bezoek aan Lauserland.",
+    "Op zonnige dagen is de chillzone een prettige plek om bij te komen.",
+    "Zit je op de Wiedersberger Horn, kijk dan eerst welke hut het dichtst bij je piste ligt."
+   ],
+   "en": [
+    "Pair a break on the terrace with a visit to Lauserland.",
+    "On sunny days the chill zone is a pleasant place to recover.",
+    "When on the Wiedersberger Horn, check which hut is closest to your run first."
+   ],
+   "de": [
+    "Verbindet eine Pause auf der Terrasse mit einem Besuch im Lauserland.",
+    "An sonnigen Tagen ist die Chillzone ein angenehmer Platz zum Verschnaufen.",
+    "Am Wiedersberger Horn lohnt ein Blick, welche Hütte am nächsten an eurer Piste liegt."
+   ]
+  },
+  "practical": {
+   "nl": "Bij het bergstation van de Wiedersbergerhornbahn (Alpbach) of via de pistes en paden eromheen. Vraag voor actuele informatie bij de hut of via de officiële site.",
+   "en": "By the top station of the Wiedersbergerhornbahn (Alpbach) or via the runs and paths around it. For current information ask the hut or check the official site.",
+   "de": "An der Bergstation der Wiedersbergerhornbahn (Alpbach) oder über Pisten und Wege in der Umgebung. Aktuelle Informationen bei der Hütte oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Aan de Alpbachtal-kant van Ski Juwel; vanuit Niederau via de Ski Juwel-verbinding of per auto naar Alpbach (ca., niet exact)",
+    "en": "On the Alpbachtal side of Ski Juwel; from Niederau via the Ski Juwel link or by car to Alpbach (approximate)",
+    "de": "Auf der Alpbachtaler Seite von Ski Juwel; von Niederau über die Ski-Juwel-Verbindung oder per Auto nach Alpbach (ungefähr)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Wiedersberger Horn, Alpbach",
+   "en": "Wiedersberger Horn, Alpbach",
+   "de": "Wiedersberger Horn, Alpbach"
+  },
+  "url": "https://www.skijuwel.com/en/winter/huts-and-restaurants/Dauerstoa-Alm_isd_34070",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat heeft de Dauerstoa Alm te bieden?",
+     "en": "What does the Dauerstoa Alm offer?",
+     "de": "Was bietet die Dauerstoa Alm?"
+    },
+    "a": {
+     "nl": "Een groot terras, een chillzone, een buitenbar en een restaurant binnen.",
+     "en": "A large terrace, a chill zone, an outdoor bar and an indoor restaurant.",
+     "de": "Eine große Terrasse, eine Chillzone, eine Außenbar und ein Restaurant im Haus."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er iets voor kinderen in de buurt?",
+     "en": "Is there anything for children nearby?",
+     "de": "Gibt es etwas für Kinder in der Nähe?"
+    },
+    "a": {
+     "nl": "Ja, het avonturengebied Lauserland ligt in het bos vlakbij.",
+     "en": "Yes, the Lauserland adventure area is close by in the woods.",
+     "de": "Ja, der Erlebnisbereich Lauserland liegt in der Nähe im Wald."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h21",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "berggasthof-hornboden-alpbach",
+  "slug_de": "berggasthof-hornboden-alpbach",
+  "title": {
+   "nl": "Berggasthof Hornboden",
+   "en": "Berggasthof Hornboden",
+   "de": "Berggasthof Hornboden"
+  },
+  "tagline": {
+   "nl": "Familiebedrijf met zelfbediening en restaurant onder de Wiedersberger Horn",
+   "en": "Family-run inn with self-service and a restaurant below the Wiedersberger Horn",
+   "de": "Familiengeführter Berggasthof mit Selbstbedienung und Restaurant unter dem Wiedersberger Horn"
+  },
+  "intro": {
+   "nl": "De Berggasthof Hornboden ligt op ongeveer 1.827 m, direct onder het bergstation van de Wiedersbergerhornbahn in Alpbach. De gondel erheen doet er volgens de officiële pagina zo'n kwartier over. Het huis staat aan de piste en heeft op de begane grond een zelfbedieningsgedeelte, boven een restaurant met bediening, en daarnaast een zonneterras.\n\nOp de Ski Juwel-pagina wordt een ontbijt op de berg aangeboden. Een Duitse hutrecensie noemt het prosecco-ontbijt na de eerste afdaling en de gezellige sfeer. Het huis wordt door familie Larch gerund en kan evenementen tot zo'n vijfhonderd personen aan. Op de eerste verdieping is een restaurant met terras.",
+   "en": "The Berggasthof Hornboden stands at about 1,827 m directly below the top station of the Wiedersbergerhornbahn in Alpbach. According to the official page, the gondola ride up takes around a quarter of an hour. The house is on the piste, with a self-service area on the ground floor, a waiter-service restaurant upstairs and a sun terrace.\n\nThe Ski Juwel page promotes a breakfast on the mountain, and a German hut review mentions a Prosecco breakfast after the first run and a cosy atmosphere. The house is run by the Larch family and can host events for up to around five hundred people. On the first floor there is a restaurant with a terrace.",
+   "de": "Der Berggasthof Hornboden liegt auf rund 1.827 m direkt unterhalb der Bergstation der Wiedersbergerhornbahn in Alpbach. Laut offizieller Seite dauert die Gondelfahrt dorthin etwa eine Viertelstunde. Das Haus steht an der Piste, mit Selbstbedienung im Erdgeschoss, einem Restaurant mit Bedienung im Obergeschoss und einer Sonnenterrasse.\n\nAuf der Ski-Juwel-Seite wird ein Frühstück am Berg beworben, und eine deutsche Hüttentest-Seite lobt das Prosecco-Frühstück nach der ersten Abfahrt und die gemütliche Atmosphäre. Geführt wird das Haus von der Familie Larch, Veranstaltungen sind für bis zu rund fünfhundert Personen möglich. Im ersten Stock gibt es ein Restaurant mit Terrasse."
+  },
+  "tips": {
+   "nl": [
+    "Wil je ontbijten op de berg, informeer dan vooraf hoe dat werkt.",
+    "Heb je haast: kies de zelfbediening beneden; wil je rustig zitten: het restaurant boven.",
+    "Na de lunch kun je direct weer op de piste of kiezen voor de nabije Wiedersberger Horn."
+   ],
+   "en": [
+    "If you fancy breakfast on the mountain, ask in advance how it works.",
+    "In a hurry, use the self-service area downstairs; for a relaxed seat, the restaurant upstairs.",
+    "After lunch you can go straight back onto the piste or head for the nearby Wiedersberger Horn."
+   ],
+   "de": [
+    "Wer am Berg frühstücken möchte, fragt vorher nach dem Ablauf.",
+    "Bei Eile die Selbstbedienung unten nutzen, für einen ruhigen Platz das Restaurant oben.",
+    "Nach dem Essen geht es direkt zurück auf die Piste oder zum nahen Wiedersberger Horn."
+   ]
+  },
+  "practical": {
+   "nl": "Met de Wiedersbergerhornbahn vanuit Alpbach, of op ski via de pistes eromheen. Vraag voor actuele informatie bij het huis of via de officiële site.",
+   "en": "By the Wiedersbergerhornbahn from Alpbach, or on skis via the surrounding runs. For current information ask the house or check the official site.",
+   "de": "Mit der Wiedersbergerhornbahn von Alpbach aus oder auf Ski über die umliegenden Pisten. Aktuelle Informationen beim Haus oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Aan de Alpbachtal-kant van Ski Juwel; vanuit Niederau via de Ski Juwel-verbinding of per auto naar Alpbach (ca., niet exact)",
+    "en": "On the Alpbachtal side of Ski Juwel; from Niederau via the Ski Juwel link or by car to Alpbach (approximate)",
+    "de": "Auf der Alpbachtaler Seite von Ski Juwel; von Niederau über die Ski-Juwel-Verbindung oder per Auto nach Alpbach (ungefähr)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Wiedersberger Horn, Alpbach",
+   "en": "Wiedersberger Horn, Alpbach",
+   "de": "Wiedersberger Horn, Alpbach"
+  },
+  "url": "https://www.skijuwel.com/en/winter/huts-and-restaurants/Berggasthof-Hornboden_isd_40673",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat voor soort hut is de Hornboden?",
+     "en": "What kind of hut is the Hornboden?",
+     "de": "Was für eine Hütte ist der Hornboden?"
+    },
+    "a": {
+     "nl": "Een berggasthof aan de piste met zelfbediening beneden en een restaurant met bediening boven.",
+     "en": "A mountain inn on the piste with self-service downstairs and a waiter-service restaurant upstairs.",
+     "de": "Ein Berggasthof an der Piste mit Selbstbedienung unten und Restaurant mit Bedienung oben."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er een zonneterras?",
+     "en": "Is there a sun terrace?",
+     "de": "Gibt es eine Sonnenterrasse?"
+    },
+    "a": {
+     "nl": "Ja, volgens de officiële beschrijving.",
+     "en": "Yes, according to the official description.",
+     "de": "Ja, laut offizieller Beschreibung."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h22",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "kafner-ast-alpbach",
+  "slug_de": "kafner-ast-alpbach",
+  "title": {
+   "nl": "Kafner Ast",
+   "en": "Kafner Ast",
+   "de": "Kafner Ast"
+  },
+  "tagline": {
+   "nl": "Zelfbediening met zonneterras op de Wiedersbergerhorn",
+   "en": "Self-service hut with a sun terrace on the Wiedersbergerhorn",
+   "de": "Selbstbedienung mit Sonnenterrasse am Wiedersbergerhorn"
+  },
+  "intro": {
+   "nl": "De Kafner Ast is een skihut op ongeveer 1.600 m hoogte aan de Wiedersbergerhorn, bij Alpbach. Je vindt hem langs de piste onder de zesstoelslift Gmah, in het hart van Ski Juwel Alpbachtal Wildschönau. Het is een zelfbedieningsrestaurant: je pakt je eigen eten en drinken en zoekt daarna een plek.\n\nBinnen zijn de gezellige stuben met houten lambrisering, buiten ligt een zonnig terras. Volgens de officiële pagina van Ski Juwel staan er ook zelfgebakken taarten op het aanbod, en is de hut een ontmoetingsplek voor zowel locals als gasten. Een bron van Tirol.at noemt het een familiebedrijf dat onlangs is gerenoveerd. Slaapplaatsen zijn er volgens een overzicht niet; het is een hut voor een pauze overdag.",
+   "en": "The Kafner Ast is a ski hut at roughly 1,600 m on the Wiedersbergerhorn above Alpbach. It stands beside the piste under the Gmah six-seater chairlift, in the middle of the Ski Juwel Alpbachtal Wildschönau area. It works on a self-service basis: you collect your own food and drink and then pick a table.\n\nIndoors there are panelled wooden parlours, and outside is a sunny terrace. According to the official Ski Juwel page, home-baked cakes are on offer and the hut is a meeting point for locals and visitors alike. A Tirol.at article describes it as family-run and recently renovated. One overview lists no beds, so think of it as a daytime stop rather than a place to stay.",
+   "de": "Die Kafner Ast ist eine Skihütte auf rund 1.600 m am Wiedersbergerhorn oberhalb von Alpbach. Sie liegt an der Piste unter dem Sechser-Sessellift Gmah, mitten im Ski Juwel Alpbachtal Wildschönau. Es ist ein Selbstbedienungsbetrieb: Man holt sich Essen und Getränke selbst und sucht sich dann einen Platz.\n\nDrinnen warten holzvertäfelte Stuben, draußen liegt eine sonnige Terrasse. Laut der offiziellen Ski-Juwel-Seite gibt es hausgemachte Kuchen, und die Hütte gilt als Treffpunkt für Einheimische und Gäste. Ein Beitrag auf Tirol.at nennt sie einen Familienbetrieb, der erst kürzlich renoviert wurde. Übernachtungsbetten werden laut einer Übersicht nicht angeboten, es ist also eine Hütte für die Pause zwischendurch."
+  },
+  "tips": {
+   "nl": [
+    "Haal een stuk huisgemaakte taart en zoek een plek op het terras als de zon schijnt.",
+    "De hut ligt aan de piste, dus je kunt tussendoor stoppen zonder je route te veranderen.",
+    "Neem geen overnachting mee in je planning: de hut heeft volgens een overzicht geen bedden."
+   ],
+   "en": [
+    "Try a slice of the home-baked cake and take a seat on the terrace when the sun is out.",
+    "The hut sits right by the piste, so you can stop without changing your route.",
+    "Do not plan an overnight stay: one overview lists no beds."
+   ],
+   "de": [
+    "Probier ein Stück hausgemachten Kuchen und setz dich bei Sonne auf die Terrasse.",
+    "Die Hütte liegt direkt an der Piste, du kannst also ohne Umweg einkehren.",
+    "Plane keine Übernachtung ein: Laut einer Übersicht gibt es keine Betten."
+   ]
+  },
+  "practical": {
+   "nl": "Je bereikt de hut op ski's of snowboard via de piste onder de Gmah-lift, vanaf het dal met de Wiedersbergerhornbahn. Informeer vooraf bij de hut of via de officiële site van Ski Juwel.",
+   "en": "You reach the hut on skis or snowboard via the piste beneath the Gmah lift, riding up from the valley on the Wiedersbergerhornbahn. Check with the hut or the official Ski Juwel site beforehand.",
+   "de": "Man erreicht die Hütte auf Ski oder Snowboard über die Piste unter dem Gmah-Lift, hinauf geht es mit der Wiedersbergerhornbahn. Informiere dich vorab bei der Hütte oder auf der offiziellen Ski-Juwel-Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 35 minuten rijden van Niederau naar Alpbach, daarna met de Wiedersbergerhornbahn omhoog (bij benadering)",
+    "en": "About 35 minutes by car from Niederau to Alpbach, then up by the Wiedersbergerhornbahn (approximate)",
+    "de": "Ca. 35 Autominuten von Niederau nach Alpbach, dann mit der Wiedersbergerhornbahn hinauf (Näherungswert)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Alpbach, Alpbachtal",
+   "en": "Alpbach, Alpbachtal",
+   "de": "Alpbach, Alpbachtal"
+  },
+  "url": "https://www.skijuwel.com/en/winter/huts-and-restaurants/Kafner-Ast_isd_40954",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Kafner Ast een zelfbedieningshut?",
+     "en": "Is the Kafner Ast a self-service hut?",
+     "de": "Ist die Kafner Ast eine Selbstbedienungshütte?"
+    },
+    "a": {
+     "nl": "Ja, volgens de officiële pagina van Ski Juwel werkt de hut met zelfbediening.",
+     "en": "Yes, the official Ski Juwel page describes it as self-service.",
+     "de": "Ja, laut der offiziellen Ski-Juwel-Seite wird hier selbst bedient."
+    }
+   },
+   {
+    "q": {
+     "nl": "Aan welke lift ligt de Kafner Ast?",
+     "en": "Which lift is the Kafner Ast on?",
+     "de": "An welchem Lift liegt die Kafner Ast?"
+    },
+    "a": {
+     "nl": "Aan de piste onder de zesstoelslift Gmah op de Wiedersbergerhorn.",
+     "en": "On the piste beneath the Gmah six-seater chairlift on the Wiedersbergerhorn.",
+     "de": "An der Piste unter dem Sechser-Sessellift Gmah am Wiedersbergerhorn."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h23",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "reith-im-alpbachtal",
+  "slug_en": "juppi-stadl-reith",
+  "slug_de": "juppi-stadl-reith",
+  "title": {
+   "nl": "Juppi Stadl",
+   "en": "Juppi Stadl",
+   "de": "Juppi Stadl"
+  },
+  "tagline": {
+   "nl": "Drankjes en glühwein bij het Juppi-gezinsgebied",
+   "en": "Drinks and mulled wine by the Juppi family area",
+   "de": "Getränke und Glühwein beim Juppi-Familienbereich"
+  },
+  "intro": {
+   "nl": "De Juppi Stadl staat op de Reither Kogel boven Reith im Alpbachtal, bij het gezinsgebied rond mascotte Juppi dat met de Reitherkogelbahn te bereiken is. De naam verwijst naar een Stadl, een houten schuurtje, en dat past bij het karakter: een kleine, informele plek om even te stoppen, geen groot restaurant.\n\nVolgens de toeristische pagina van het Alpbachtal draait het hier om drankjes, zoals tapbier en bubbels, en in de winter ook warme glühwein. Het is daarmee vooral een plek voor een korte pauze terwijl de kinderen in de buurt bezig zijn. Het gezinsgebied Juppi Zauberwald, een wandelroute voor de zomer, begint bij het bergstation van dezelfde lift. Voor een volledige maaltijd kijk je beter naar de hutten verderop.",
+   "en": "The Juppi Stadl stands on the Reither Kogel above Reith im Alpbachtal, close to the family area built around the mascot Juppi, which you reach by the Reitherkogelbahn. The name refers to a Stadl, a wooden barn, and that suits the character: a small, informal place to pause rather than a big restaurant.\n\nAccording to the Alpbachtal tourism listing, it is mainly about drinks, such as draught beer and sparkling wine, with mulled wine in winter. That makes it a stop for a short break while the children are busy nearby. The Juppi Zauberwald, a summer walking trail, starts at the top station of the same lift. For a full meal you are better off with the huts further along.",
+   "de": "Der Juppi Stadl steht am Reither Kogel oberhalb von Reith im Alpbachtal, nahe dem Familienbereich rund um das Maskottchen Juppi, den man mit der Reitherkogelbahn erreicht. Der Name verweist auf einen Stadl, also einen Holzstadel, und das passt: ein kleiner, lockerer Ort für eine Pause und kein großes Restaurant.\n\nLaut dem Eintrag der Alpbachtal-Tourismusseite geht es hier vor allem um Getränke wie Fassbier und Sekt, im Winter auch um Glühwein. Damit ist er eher ein Halt für eine kurze Rast, während die Kinder in der Nähe beschäftigt sind. Der Juppi Zauberwald, ein Wanderweg für den Sommer, beginnt an der Bergstation desselben Lifts. Für eine richtige Mahlzeit sind die Hütten weiter entlang besser geeignet."
+  },
+  "tips": {
+   "nl": [
+    "Combineer de stop met het Juppi-gezinsgebied bij de Reitherkogelbahn.",
+    "Reken op drankjes en een kleine pauze, niet op een uitgebreide maaltijd.",
+    "Zoek je een warm gerecht, kijk dan bij de Almstüberl Gschwendt aan dezelfde familiepiste."
+   ],
+   "en": [
+    "Combine the stop with the Juppi family area at the Reitherkogelbahn.",
+    "Expect drinks and a short break rather than a full meal.",
+    "If you want something hot to eat, look at the Almstüberl Gschwendt on the same family run."
+   ],
+   "de": [
+    "Verbinde die Einkehr mit dem Juppi-Familienbereich an der Reitherkogelbahn.",
+    "Rechne mit Getränken und einer kurzen Pause, nicht mit einem ausgiebigen Essen.",
+    "Für etwas Warmes zu essen bietet sich das Almstüberl Gschwendt an derselben Familienabfahrt an."
+   ]
+  },
+  "practical": {
+   "nl": "Neem de Reitherkogelbahn vanuit Reith im Alpbachtal. Vraag vooraf bij de hut of via de officiële site hoe het ter plekke is.",
+   "en": "Take the Reitherkogelbahn from Reith im Alpbachtal. Ask the hut or check the official site beforehand for the current situation.",
+   "de": "Mit der Reitherkogelbahn ab Reith im Alpbachtal. Informiere dich vorab bei der Hütte oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 30 minuten rijden van Niederau naar het dalstation in Reith, daarna met de lift (bij benadering)",
+    "en": "About 30 minutes by car from Niederau to the valley station in Reith, then by lift (approximate)",
+    "de": "Ca. 30 Autominuten von Niederau zur Talstation in Reith, dann mit dem Lift (Näherungswert)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Reith im Alpbachtal, Alpbachtal",
+   "en": "Reith im Alpbachtal, Alpbachtal",
+   "de": "Reith im Alpbachtal, Alpbachtal"
+  },
+  "url": "https://www.alpbachtal.at/en/info-and-service/alpbachtal-a-z/Juppi-Stadl_isd_33502",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij de Juppi Stadl een volledige maaltijd eten?",
+     "en": "Can you have a full meal at the Juppi Stadl?",
+     "de": "Gibt es im Juppi Stadl ein vollständiges Essen?"
+    },
+    "a": {
+     "nl": "De officiële omschrijving noemt vooral drankjes. Voor een warme maaltijd zijn andere hutten in de buurt geschikter.",
+     "en": "The official description mainly mentions drinks. Other huts nearby are better for a hot meal.",
+     "de": "Die offizielle Beschreibung nennt vor allem Getränke. Für ein warmes Essen eignen sich andere Hütten in der Nähe besser."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe kom je bij de Juppi Stadl?",
+     "en": "How do you get to the Juppi Stadl?",
+     "de": "Wie kommt man zum Juppi Stadl?"
+    },
+    "a": {
+     "nl": "Met de Reitherkogelbahn vanuit Reith im Alpbachtal naar de Reither Kogel.",
+     "en": "By the Reitherkogelbahn from Reith im Alpbachtal up the Reither Kogel.",
+     "de": "Mit der Reitherkogelbahn von Reith im Alpbachtal auf den Reither Kogel."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h24",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "reith-im-alpbachtal",
+  "slug_en": "liftcafe-heisn-reith",
+  "slug_de": "liftcafe-heisn-reith",
+  "title": {
+   "nl": "Liftcafé Heisn",
+   "en": "Liftcafé Heisn",
+   "de": "Liftcafé Heisn"
+  },
+  "tagline": {
+   "nl": "Restaurant met speelterras bij de Reitherkogelbahn",
+   "en": "Restaurant with a play terrace at the Reitherkogelbahn",
+   "de": "Gasthaus mit Spielterrasse an der Reitherkogelbahn"
+  },
+  "intro": {
+   "nl": "Het Liftcafé Heisn ligt in Reith im Alpbachtal, direct naast het dalstation van de Reitherkogelbahn. Dat maakt het een praktische halte voor je begint of nadat je weer beneden bent. Binnen is plaats voor ongeveer 130 gasten, met nog eens zo'n 60 plekken voor grotere gezelschappen.\n\nDe keuken is traditioneel Tirools. Buiten is een zonnig terras met uitzicht op de bergen en de piste; er is een speelplek voor kinderen en er zijn parkeerplaatsen. De officiële Ski Juwel-pagina vermeldt het ook bij de berghutten voor de zomer, dus het is niet alleen een winterplek. Een vakantieverhuurder in de buurt noemt dat gasten er halfpension kunnen krijgen. Vanuit Niederau is het een rit door het dal, geen hut waar je naartoe skiet.",
+   "en": "The Liftcafé Heisn is in Reith im Alpbachtal, right beside the valley station of the Reitherkogelbahn. That makes it a handy stop before you head up or once you are back down. Inside there is room for about 130 guests, with around 60 more places for larger groups.\n\nThe cooking is traditional Tyrolean. Outside is a sunny terrace with views of the mountains and the piste, a play area for children and car parking. The official Ski Juwel site also lists it among the summer mountain huts, so it is not only a winter address. A nearby holiday-let host mentions that guests can book half board here. From Niederau it is a drive along the valley, not a hut you ski to.",
+   "de": "Das Liftcafé Heisn liegt in Reith im Alpbachtal, direkt neben der Talstation der Reitherkogelbahn. Damit ist es ein praktischer Halt, bevor man hinauffährt oder wenn man wieder unten ist. Drinnen finden etwa 130 Gäste Platz, für größere Gesellschaften kommen rund 60 weitere Plätze dazu.\n\nDie Küche ist traditionell tirolerisch. Draußen gibt es eine sonnige Terrasse mit Blick auf Berge und Piste, einen Spielbereich für Kinder und Parkplätze. Die offizielle Ski-Juwel-Seite führt es auch unter den Berghütten für den Sommer, es ist also nicht nur eine Winteradresse. Ein Ferienvermieter in der Nähe erwähnt, dass hier Halbpension möglich ist. Von Niederau aus fährt man durchs Tal, hierher fährt man nicht mit Ski."
+  },
+  "tips": {
+   "nl": [
+    "Laat de kinderen op de speelplek bij het terras terwijl jullie bijkomen.",
+    "Het is ook geschikt voor een stop met de auto, er is parkeerruimte.",
+    "Reserveer bij een grotere groep vooraf; er zijn aparte plekken voor gezelschappen."
+   ],
+   "en": [
+    "Let the children use the play area by the terrace while you catch your breath.",
+    "It also works as a stop by car, as there is parking.",
+    "For a larger group, book ahead; there are extra places for parties."
+   ],
+   "de": [
+    "Lass die Kinder auf dem Spielplatz an der Terrasse toben, während ihr verschnauft.",
+    "Auch mit dem Auto gut anzufahren, es gibt Parkplätze.",
+    "Bei größeren Gruppen vorab anfragen, es gibt zusätzliche Plätze für Gesellschaften."
+   ]
+  },
+  "practical": {
+   "nl": "Je rijdt naar Reith im Alpbachtal; het café staat bij het dalstation van de Reitherkogelbahn. Informeer vooraf bij de hut of via de officiële site.",
+   "en": "Drive to Reith im Alpbachtal; the café stands at the valley station of the Reitherkogelbahn. Ask the hut or check the official site beforehand.",
+   "de": "Man fährt nach Reith im Alpbachtal, das Café steht an der Talstation der Reitherkogelbahn. Informiere dich vorab bei der Hütte oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 30 minuten rijden van Niederau (bij benadering)",
+    "en": "About 30 minutes by car from Niederau (approximate)",
+    "de": "Ca. 30 Autominuten von Niederau (Näherungswert)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Reith im Alpbachtal, Alpbachtal",
+   "en": "Reith im Alpbachtal, Alpbachtal",
+   "de": "Reith im Alpbachtal, Alpbachtal"
+  },
+  "url": "https://www.skijuwel.com/en/summer/mountain-huts/Liftcafe-Heisn_isd_32457",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een speelplek voor kinderen?",
+     "en": "Is there a play area for children?",
+     "de": "Gibt es einen Spielbereich für Kinder?"
+    },
+    "a": {
+     "nl": "Ja, volgens de beschrijving heeft het terras een speelplek.",
+     "en": "Yes, the description mentions a play area at the terrace.",
+     "de": "Ja, laut Beschreibung gibt es an der Terrasse einen Spielbereich."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar ligt het Liftcafé Heisn?",
+     "en": "Where is the Liftcafé Heisn?",
+     "de": "Wo liegt das Liftcafé Heisn?"
+    },
+    "a": {
+     "nl": "In Reith im Alpbachtal, naast het dalstation van de Reitherkogelbahn.",
+     "en": "In Reith im Alpbachtal, next to the valley station of the Reitherkogelbahn.",
+     "de": "In Reith im Alpbachtal, neben der Talstation der Reitherkogelbahn."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h25",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "alpbach",
+  "slug_en": "liftstueberl-alpbach",
+  "slug_de": "liftstueberl-alpbach",
+  "title": {
+   "nl": "Liftstüberl",
+   "en": "Liftstüberl",
+   "de": "Liftstüberl"
+  },
+  "tagline": {
+   "nl": "Restaurant naast de Wiedersbergerhornbahn",
+   "en": "Restaurant beside the Wiedersbergerhornbahn",
+   "de": "Gasthaus neben der Wiedersbergerhornbahn"
+  },
+  "intro": {
+   "nl": "Het Liftstüberl is een restaurant naast de Wiedersbergerhornbahn in Alpbach, midden in het skigebied Ski Juwel. De naam zegt het al: een stuberl, een gezellig kamertje, vlak bij de lift. Het ligt daardoor handig voor wie in het dal begint of eindigt met skiën.\n\nBetrouwbare details over de kaart of de inrichting zijn beperkt; de toeristische pagina van Tirol noemt vooral de ligging bij de lift. Een vakantiewoning in de omgeving geeft aan dat het restaurant ongeveer 150 m van het huis ligt, met een bushalte van de skibus in de buurt. Wil je zeker weten wat er te eten is, vraag dan ter plekke of kijk op de officiële pagina. Voor gezinnen uit Niederau past het vooral bij een dagje Alpbach.",
+   "en": "The Liftstüberl is a restaurant beside the Wiedersbergerhornbahn in Alpbach, in the middle of the Ski Juwel area. The name says it all: a Stüberl, a cosy little parlour, close to the lift. That makes it handy for anyone starting or finishing a ski day in the valley.\n\nReliable detail about the menu or the interior is limited; the Tirol tourism page mostly points out its position by the lift. A holiday home nearby says the restaurant is about 150 m away, with a ski bus stop close by. If you want to know exactly what is served, ask on the spot or look at the official page. For families from Niederau it fits best into a day out in Alpbach.",
+   "de": "Das Liftstüberl ist ein Gasthaus neben der Wiedersbergerhornbahn in Alpbach, mitten im Skigebiet Ski Juwel. Der Name sagt es schon: eine gemütliche kleine Stube, ganz nah am Lift. Praktisch ist das für alle, die ihren Skitag im Tal beginnen oder beenden.\n\nVerlässliche Angaben zu Speisekarte oder Einrichtung sind begrenzt; die Tirol-Seite hebt vor allem die Lage am Lift hervor. Ein Ferienhaus in der Nähe gibt an, dass das Lokal rund 150 m entfernt liegt, eine Skibus-Haltestelle ist in der Nähe. Wer genau wissen will, was serviert wird, fragt vor Ort nach oder schaut auf die offizielle Seite. Für Familien aus Niederau passt es am besten in einen Ausflugstag nach Alpbach."
+  },
+  "tips": {
+   "nl": [
+    "Combineer het met een dag in Alpbach: de skibus stopt in de buurt.",
+    "Vraag ter plekke naar de kaart voor je een maaltijd inplant.",
+    "Handig als pauze voor of na een rit met de Wiedersbergerhornbahn."
+   ],
+   "en": [
+    "Combine it with a day in Alpbach; a ski bus stops nearby.",
+    "Ask on the spot about the menu before planning a meal.",
+    "A handy break before or after a ride on the Wiedersbergerhornbahn."
+   ],
+   "de": [
+    "Verbinde es mit einem Tag in Alpbach, der Skibus hält in der Nähe.",
+    "Frag vor Ort nach der Speisekarte, bevor du ein Essen einplanst.",
+    "Praktisch für eine Pause vor oder nach einer Fahrt mit der Wiedersbergerhornbahn."
+   ]
+  },
+  "practical": {
+   "nl": "Het restaurant staat bij het dalstation van de Wiedersbergerhornbahn in Alpbach. Informeer vooraf bij de hut of via de officiële site.",
+   "en": "The restaurant is at the valley station of the Wiedersbergerhornbahn in Alpbach. Ask the hut or check the official site beforehand.",
+   "de": "Das Lokal steht an der Talstation der Wiedersbergerhornbahn in Alpbach. Informiere dich vorab bei der Hütte oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 35 minuten rijden van Niederau naar Alpbach (bij benadering)",
+    "en": "About 35 minutes by car from Niederau to Alpbach (approximate)",
+    "de": "Ca. 35 Autominuten von Niederau nach Alpbach (Näherungswert)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Alpbach, Alpbachtal",
+   "en": "Alpbach, Alpbachtal",
+   "de": "Alpbach, Alpbachtal"
+  },
+  "url": "https://www.tyrol.com/activities/food/restaurants/liftstueberl-2",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt het Liftstüberl?",
+     "en": "Where is the Liftstüberl?",
+     "de": "Wo liegt das Liftstüberl?"
+    },
+    "a": {
+     "nl": "Naast de Wiedersbergerhornbahn in Alpbach.",
+     "en": "Beside the Wiedersbergerhornbahn in Alpbach.",
+     "de": "Neben der Wiedersbergerhornbahn in Alpbach."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er een skibus in de buurt?",
+     "en": "Is there a ski bus nearby?",
+     "de": "Gibt es einen Skibus in der Nähe?"
+    },
+    "a": {
+     "nl": "Een verhuurder in de buurt noemt een halte van de skibus vlakbij; controleer de actuele dienstregeling.",
+     "en": "A nearby host mentions a ski bus stop close by; check the current timetable.",
+     "de": "Ein Vermieter in der Nähe nennt eine Skibus-Haltestelle in der Nähe; prüfe den aktuellen Fahrplan."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h26",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "reith-im-alpbachtal",
+  "slug_en": "almstueberl-gschwendt-reith",
+  "slug_de": "almstueberl-gschwendt-reith",
+  "title": {
+   "nl": "Almstüberl Gschwendt",
+   "en": "Almstüberl Gschwendt",
+   "de": "Almstüberl Gschwendt"
+  },
+  "tagline": {
+   "nl": "Tiroolse hut aan de familiepiste van de Reither Kogel",
+   "en": "Tyrolean hut on the Reither Kogel family run",
+   "de": "Tiroler Hütte an der Familienabfahrt am Reither Kogel"
+  },
+  "intro": {
+   "nl": "Het Almstüberl Gschwendt ligt op ongeveer 954 m hoogte in Reith im Alpbachtal, aan de familiepiste van de Reitherkogelbahn. Het is een rustige tussenstop, dus geen hut hoog op de berg: wie met kinderen naar beneden skiet, komt er vanzelf langs. Bronnen noemen het ook een bekende stop bij het avondskiën.\n\nDe keuken is traditioneel Tirools. Bezoekers noemen vooral de zelfgemaakte kaiserschmarrn en de kaasfondue. De hut is bovendien partner van de Alpbachtaler Hüttenjause, een regionaal aanbod van hutten die dezelfde ambachtelijke jause serveren. Voor gezinnen uit Niederau is het een leuke bestemming voor een rit door het dal, gecombineerd met de lift en de familiepiste.",
+   "en": "The Almstüberl Gschwendt stands at about 954 m in Reith im Alpbachtal, on the family run of the Reitherkogelbahn. It is a relaxed mid-slope stop rather than a hut high on the mountain: anyone skiing down with children will pass it naturally. Sources also mention it as a regular stop on night-skiing evenings.\n\nThe cooking is traditional Tyrolean. Visitors single out the home-made Kaiserschmarrn and the cheese fondue. The hut is also a partner in the Alpbachtal Hüttenjause, a regional scheme for huts serving the same traditional snack platter. For families from Niederau it makes a pleasant outing, combining a drive along the valley with the lift and the family run.",
+   "de": "Das Almstüberl Gschwendt liegt auf etwa 954 m in Reith im Alpbachtal, an der Familienabfahrt der Reitherkogelbahn. Es ist ein entspannter Halt auf halber Höhe und keine Hütte hoch am Berg: Wer mit Kindern ins Tal fährt, kommt ganz selbstverständlich vorbei. Quellen nennen es zudem als beliebten Halt an Nachtskilauf-Abenden.\n\nDie Küche ist traditionell tirolerisch. Besucher heben vor allem den hausgemachten Kaiserschmarrn und das Käsefondue hervor. Die Hütte ist außerdem Partner der Alpbachtaler Hüttenjause, eines regionalen Angebots von Hütten mit derselben traditionellen Brettljause. Für Familien aus Niederau ist sie ein schönes Ausflugsziel, bei dem sich die Fahrt durchs Tal mit Lift und Familienabfahrt verbinden lässt."
+  },
+  "tips": {
+   "nl": [
+    "Probeer de kaiserschmarrn of de kaasfondue, waar bezoekers het vaak over hebben.",
+    "Ideaal als pauze tijdens de afdaling met kinderen op de familiepiste.",
+    "Vraag naar de Alpbachtaler Hüttenjause als je een traditioneel hapje zoekt."
+   ],
+   "en": [
+    "Try the Kaiserschmarrn or the cheese fondue that visitors often mention.",
+    "Ideal as a break on the way down with children on the family run.",
+    "Ask about the Alpbachtal Hüttenjause if you want a traditional snack platter."
+   ],
+   "de": [
+    "Probier den Kaiserschmarrn oder das Käsefondue, die Besucher oft erwähnen.",
+    "Ideal als Pause bei der Abfahrt mit Kindern auf der Familienabfahrt.",
+    "Frag nach der Alpbachtaler Hüttenjause, wenn du eine traditionelle Brettljause möchtest."
+   ]
+  },
+  "practical": {
+   "nl": "Je komt er met de Reitherkogelbahn vanuit Reith im Alpbachtal en via de familiepiste. Informeer vooraf bij de hut of via de officiële site.",
+   "en": "You get there with the Reitherkogelbahn from Reith im Alpbachtal and along the family run. Ask the hut or check the official site beforehand.",
+   "de": "Man kommt mit der Reitherkogelbahn ab Reith im Alpbachtal und über die Familienabfahrt hin. Informiere dich vorab bei der Hütte oder auf der offiziellen Seite."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 30 minuten rijden van Niederau naar Reith, daarna met de lift (bij benadering)",
+    "en": "About 30 minutes by car from Niederau to Reith, then by lift (approximate)",
+    "de": "Ca. 30 Autominuten von Niederau nach Reith, dann mit dem Lift (Näherungswert)"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Reith im Alpbachtal, Alpbachtal",
+   "en": "Reith im Alpbachtal, Alpbachtal",
+   "de": "Reith im Alpbachtal, Alpbachtal"
+  },
+  "url": "https://skijuwel.com/en/summer/mountain-huts/Almstuberl-Gschwendt_isd_36224",
+  "faq": [
+   {
+    "q": {
+     "nl": "Wat is hier bekend om?",
+     "en": "What is it known for?",
+     "de": "Wofür ist die Hütte bekannt?"
+    },
+    "a": {
+     "nl": "Bezoekers noemen vooral kaiserschmarrn en kaasfondue.",
+     "en": "Visitors mainly mention Kaiserschmarrn and cheese fondue.",
+     "de": "Besucher nennen vor allem Kaiserschmarrn und Käsefondue."
+    }
+   },
+   {
+    "q": {
+     "nl": "Ligt de hut aan een familiepiste?",
+     "en": "Is the hut on a family run?",
+     "de": "Liegt die Hütte an einer Familienabfahrt?"
+    },
+    "a": {
+     "nl": "Ja, aan de familiepiste van de Reitherkogelbahn in Reith im Alpbachtal.",
+     "en": "Yes, on the family run of the Reitherkogelbahn in Reith im Alpbachtal.",
+     "de": "Ja, an der Familienabfahrt der Reitherkogelbahn in Reith im Alpbachtal."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ }
+]

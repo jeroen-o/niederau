@@ -1,0 +1,93 @@
+[
+ {
+  "kind": "theme",
+  "theme": "hutten",
+  "slug_nl": "hutten",
+  "slug_en": "huts",
+  "slug_de": "huetten",
+  "title": {
+   "nl": "Berghutten en skihutten bij Ski Juwel",
+   "en": "Mountain huts and ski huts around Ski Juwel",
+   "de": "Berghütten und Skihütten bei Ski Juwel"
+  },
+  "tagline": {
+   "nl": "Van de Rübezahl-Hütte tot de Hornalm: de hutten van Wildschönau en Alpbachtal, elk met een eigen pagina.",
+   "en": "From the Rübezahl-Hütte to the Hornalm: the huts of the Wildschönau and Alpbachtal, each with its own page.",
+   "de": "Von der Rübezahl-Hütte bis zur Hornalm: die Hütten der Wildschönau und des Alpbachtals, jede mit einer eigenen Seite."
+  },
+  "intro": {
+   "nl": "Het skigebied Ski Juwel Alpbachtal Wildschönau telt tientallen hutten, alms en bars langs de pistes. Sommige staan direct bij een bergstation, andere liggen een stuk lopen verderop, en een paar zijn eigenlijk dorpsrestaurants die de officiële kaart er ook bij rekent. Op deze pagina's vind je de hutten die we kunnen onderbouwen, per hut een eigen pagina met ligging, sfeer en praktische tips.\n\nDe officiële interactieve kaart van Ski Juwel laat per regio zien welke hutten er zijn; je vindt die via de pistekaart-pagina. Wat een hut precies serveert, wisselt per jaar en per eigenaar. Vraag daarom ter plekke of bij de hut zelf naar het actuele aanbod.\n\nWe beschrijven alleen wat we via betrouwbare bronnen hebben kunnen controleren. Hutten waarover we te weinig zeker weten, laten we voorlopig weg.",
+   "en": "The Ski Juwel Alpbachtal Wildschönau ski area has dozens of huts, alms and bars along its slopes. Some stand right at a top station, others are a walk further on, and a few are really village restaurants that the official map lists as well. These pages cover the huts we can back up, each with its own page on location, atmosphere and practical tips.\n\nThe official interactive Ski Juwel map shows the huts per region; you can find it via the piste map page. What a hut serves exactly changes by year and by owner, so ask on site or at the hut itself about the current offer.\n\nWe only describe what we have been able to check with reliable sources. Huts we are not sure enough about are left out for now.",
+   "de": "Das Skigebiet Ski Juwel Alpbachtal Wildschönau hat dutzende Hütten, Almen und Bars entlang der Pisten. Manche stehen direkt an einer Bergstation, andere liegen ein Stück Fußweg entfernt, und einige sind eigentlich Dorfgasthäuser, die die offizielle Karte mitführt. Auf diesen Seiten findest du die Hütten, die wir belegen können, jeweils mit einer eigenen Seite zu Lage, Atmosphäre und praktischen Tipps.\n\nDie offizielle interaktive Karte von Ski Juwel zeigt die Hütten nach Region; du findest sie über die Seite zum Pistenplan. Was eine Hütte genau serviert, wechselt je nach Jahr und Betreiber. Frag daher vor Ort oder bei der Hütte selbst nach dem aktuellen Angebot.\n\nWir beschreiben nur, was wir über verlässliche Quellen prüfen konnten. Hütten, bei denen wir uns nicht sicher genug sind, lassen wir vorerst weg."
+  },
+  "sections": [
+   {
+    "h": {
+     "nl": "Hutten bij het bergstation en langs de piste",
+     "en": "Huts at the top station and along the slopes",
+     "de": "Hütten an der Bergstation und an der Piste"
+    },
+    "p": {
+     "nl": "Wie met kinderen of beginners skiet, kiest vaak een hut die direct bij een lift of een brede piste ligt. Rond het Markbachjoch en op de Schatzberg liggen meerdere hutten dichtbij de bergstations. In het Alpbachtal vind je zelfbediening en terrassen bij de Wiedersbergerhornbahn en de Reitherkogelbahn.",
+     "en": "Anyone skiing with children or beginners often picks a hut right at a lift or beside a wide slope. Around the Markbachjoch and on the Schatzberg several huts sit close to the top stations. In the Alpbachtal you find self-service huts and terraces at the Wiedersbergerhornbahn and the Reitherkogelbahn.",
+     "de": "Wer mit Kindern oder als Anfänger Ski fährt, wählt oft eine Hütte direkt an einem Lift oder neben einer breiten Piste. Rund um das Markbachjoch und am Schatzberg liegen mehrere Hütten nahe der Bergstationen. Im Alpbachtal gibt es Selbstbedienung und Terrassen an der Wiedersbergerhornbahn und der Reitherkogelbahn."
+    }
+   },
+   {
+    "h": {
+     "nl": "Ook te voet of in de zomer",
+     "en": "Also on foot or in summer",
+     "de": "Auch zu Fuß oder im Sommer"
+    },
+    "p": {
+     "nl": "Een aantal hutten is ook buiten het skiseizoen een wandelbestemming. Bij elke pagina staat een korte aanwijzing hoe je er komt. Neem altijd rekening met weer en conditie, en lees ons advies over veiligheid in de bergen.",
+     "en": "Some huts are also a walking destination outside the ski season. Each page has a short note on how to get there. Always allow for weather and fitness, and read our advice on safety in the mountains.",
+     "de": "Einige Hütten sind auch außerhalb der Skisaison ein Wanderziel. Auf jeder Seite steht ein kurzer Hinweis zur Anreise. Berücksichtige immer Wetter und Kondition und lies unseren Ratgeber zur Sicherheit in den Bergen."
+    }
+   }
+  ],
+  "tips": {
+   "nl": [
+    "Combineer een hutstop met een rustige piste of wandeling.",
+    "Neem contant geld of een pinpas mee, voor het geval betalen niet overal evenveel opties heeft.",
+    "Vraag naar kindergerechten en naar plek op het terras bij mooi weer."
+   ],
+   "en": [
+    "Combine a hut stop with a quiet slope or walk.",
+    "Bring cash and a bank card in case payment options differ from hut to hut.",
+    "Ask about children's dishes and about a seat on the terrace in fine weather."
+   ],
+   "de": [
+    "Verbinde eine Hüttenpause mit einer ruhigen Piste oder einer Wanderung.",
+    "Nimm Bargeld und eine Karte mit, falls die Zahlungsmöglichkeiten nicht überall gleich sind.",
+    "Frag nach Kindergerichten und nach einem Platz auf der Terrasse bei schönem Wetter."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "nl": "Zijn alle hutten van Ski Juwel hier beschreven?",
+     "en": "Are all Ski Juwel huts described here?",
+     "de": "Sind hier alle Hütten von Ski Juwel beschrieben?"
+    },
+    "a": {
+     "nl": "Nee. We nemen alleen hutten op die we met betrouwbare bronnen konden controleren; de officiële kaart van Ski Juwel is leidend voor het volledige overzicht.",
+     "en": "No. We only include huts that we could check with reliable sources; the official Ski Juwel map is the authority for the full overview.",
+     "de": "Nein. Wir nehmen nur Hütten auf, die wir mit verlässlichen Quellen prüfen konnten; für die vollständige Übersicht ist die offizielle Karte von Ski Juwel maßgeblich."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat is de beste hut voor gezinnen met kinderen?",
+     "en": "Which hut is best for families with children?",
+     "de": "Welche Hütte ist für Familien mit Kindern am besten?"
+    },
+    "a": {
+     "nl": "Dat hangt af van de leeftijd en het niveau. Kijk naar hutten die bij een lift of brede piste liggen en lees de tips op de afzonderlijke pagina's.",
+     "en": "That depends on age and level. Look at huts next to a lift or a wide slope and read the tips on the individual pages.",
+     "de": "Das hängt von Alter und Niveau ab. Achte auf Hütten an einem Lift oder an einer breiten Piste und lies die Tipps auf den einzelnen Seiten."
+    }
+   }
+  ]
+ }
+]

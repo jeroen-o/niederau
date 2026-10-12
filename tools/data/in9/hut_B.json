@@ -1,0 +1,616 @@
+[
+ {
+  "id": "h9",
+  "new": true,
+  "theme": "hutten",
+  "season": "both",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "koglmoos-mountain-restaurant-schatzberg",
+  "slug_de": "berghaus-koglmoos-schatzberg",
+  "title": {
+   "nl": "Berghaus Koglmoos (Schatzberg)",
+   "en": "Berghaus Koglmoos (Schatzberg)",
+   "de": "Berghaus Koglmoos (Schatzberg)"
+  },
+  "tagline": {
+   "nl": "Panoramaterras bij het middenstation van de Schatzbergbahn",
+   "en": "A panoramic terrace at the Schatzbergbahn mid station",
+   "de": "Panoramaterrasse an der Mittelstation der Schatzbergbahn"
+  },
+  "intro": {
+   "nl": "Berghaus Koglmoos staat op zo'n 1.300 meter hoogte bij het middenstation van de Schatzbergbahn, boven Auffach. Het is een bergrestaurant met regionale keuken en een groot terras met uitzicht op de Kitzbüheler Alpen. Wie met de gondel omhoog komt, stapt hier uit zonder verder te hoeven klimmen.\n\nVoor gezinnen is de plek handig omdat er in de buurt een kinderspeelplaats met water ligt, volgens de beschrijving van een zomerwandeling vanaf de Schatzberg. In de winter ligt het huis aan de piste en vlak bij een klein oefenliftje voor beginners. Het is ook een tussenstop op wandelroutes tussen Mühltal, Bernau en Auffach.",
+   "en": "Berghaus Koglmoos sits at roughly 1,300 metres next to the mid station of the Schatzbergbahn above Auffach. It is a mountain restaurant serving regional food, with a large terrace looking out over the Kitzbühel Alps. Arriving by gondola, you get off right at the door and do not need to climb any further.\n\nFamilies will find it practical because a children's playground with a water feature is nearby, according to a summer walking-route description from the Schatzberg. In winter the house stands by the piste, close to a small practice lift for beginners. It is also a stopping point on walking routes between Mühltal, Bernau and Auffach.",
+   "de": "Das Berghaus Koglmoos liegt auf rund 1.300 Metern direkt an der Mittelstation der Schatzbergbahn oberhalb von Auffach. Es ist ein Bergrestaurant mit regionaler Küche und einer großen Terrasse mit Blick über die Kitzbüheler Alpen. Wer mit der Gondel kommt, steigt praktisch vor der Tür aus und muss nicht weiter aufsteigen.\n\nFür Familien ist der Ort praktisch, denn laut der Beschreibung einer Sommerwanderung vom Schatzberg gibt es in der Nähe einen Kinderspielplatz mit Wasserspiel. Im Winter steht das Haus an der Piste, nahe einem kleinen Übungslift für Anfänger. Außerdem ist es eine Einkehrmöglichkeit auf Wanderwegen zwischen Mühltal, Bernau und Auffach."
+  },
+  "tips": {
+   "nl": [
+    "Neem de gondel naar het middenstation en wandel in de zomer vanaf de Schatzberg naar Koglmoos (ca. 6 km) in plaats van helemaal te liften.",
+    "Combineer een bezoek met de speelplek in de buurt als je met jonge kinderen reist.",
+    "Informeer vooraf bij de hut of via de officiële Ski Juwel-site naar actuele informatie."
+   ],
+   "en": [
+    "Take the gondola to the mid station, or in summer walk down from the Schatzberg to Koglmoos (about 6 km) rather than riding the whole way.",
+    "Combine your visit with the nearby play area if you travel with young children.",
+    "Check with the hut or the official Ski Juwel site for current information before you go."
+   ],
+   "de": [
+    "Fahren Sie mit der Gondel zur Mittelstation oder wandern Sie im Sommer vom Schatzberg nach Koglmoos (ca. 6 km), statt die ganze Strecke zu fahren.",
+    "Verbinden Sie den Besuch mit dem nahen Spielplatz, wenn Sie mit kleinen Kindern unterwegs sind.",
+    "Aktuelle Informationen erhalten Sie direkt bei der Hütte oder auf der offiziellen Ski-Juwel-Seite."
+   ]
+  },
+  "practical": {
+   "nl": "Vanaf Auffach met de Schatzbergbahn naar het middenstation; ook te voet bereikbaar, bijvoorbeeld vanuit Mühltal via Bernau of in de zomer vanaf de top.",
+   "en": "From Auffach take the Schatzbergbahn to the mid station; it can also be reached on foot, for example from Mühltal via Bernau or in summer from the summit.",
+   "de": "Von Auffach mit der Schatzbergbahn zur Mittelstation; auch zu Fuß erreichbar, etwa von Mühltal über Bernau oder im Sommer vom Gipfel."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 20 minuten rijden van Niederau naar het dalstation in Auffach, daarna de gondel",
+    "en": "About 20 minutes by car from Niederau to the valley station in Auffach, then the gondola",
+    "de": "Ca. 20 Minuten Fahrt von Niederau zur Talstation in Auffach, dann die Gondel"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "https://www.skijuwel.com/en/summer/mountain-huts/Koglmoos-Mountain-Restaurant_isd_88992",
+  "faq": [
+   {
+    "q": {
+     "nl": "Waar ligt Berghaus Koglmoos?",
+     "en": "Where is Berghaus Koglmoos?",
+     "de": "Wo liegt das Berghaus Koglmoos?"
+    },
+    "a": {
+     "nl": "Bij het middenstation van de Schatzbergbahn, op ongeveer 1.300 meter boven Auffach.",
+     "en": "At the mid station of the Schatzbergbahn, at around 1,300 metres above Auffach.",
+     "de": "An der Mittelstation der Schatzbergbahn, auf etwa 1.300 Metern oberhalb von Auffach."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je er met kinderen terecht?",
+     "en": "Is it suitable for children?",
+     "de": "Ist es für Kinder geeignet?"
+    },
+    "a": {
+     "nl": "Ja, in de buurt ligt volgens een routebeschrijving een speelplek, en een klein oefenliftje voor beginners.",
+     "en": "Yes, a route description mentions a play area nearby, and there is a small practice lift for beginners.",
+     "de": "Ja, laut einer Routenbeschreibung gibt es in der Nähe einen Spielplatz sowie einen kleinen Übungslift für Anfänger."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h10",
+  "new": true,
+  "theme": "hutten",
+  "season": "both",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "gipfoehit-schatzberg",
+  "slug_de": "gipfoehit-schatzberg-huette",
+  "title": {
+   "nl": "Gipföhit (Schatzberg)",
+   "en": "Gipföhit (Schatzberg)",
+   "de": "Gipföhit (Schatzberg)"
+  },
+  "tagline": {
+   "nl": "Hut vlak onder de top van de Schatzberg",
+   "en": "A hut just below the Schatzberg summit",
+   "de": "Hütte knapp unterhalb des Schatzberg-Gipfels"
+  },
+  "intro": {
+   "nl": "De Gipföhit ligt hoog op de Schatzberg, boven Auffach. De schrijfwijze verschilt per bron (Gipfö Hit, Giphöhit), maar het gaat steeds om dezelfde hut. Vanaf het bergstation van de Schatzbergbahn loop je er volgens de tourbeschrijvingen in ongeveer een half uur naartoe.\n\nDe hut komt terug in verschillende wandel- en skitourroutes, onder meer een rondwandeling van zo'n vier kilometer langs de Schatzbergalm en de top (hoogste punt 1.882 m). De keuken serveert regionale gerechten. Het is een plek voor wie na een stuk lopen een pauze wil, minder voor wie gewoon naast de piste een snelle kop koffie zoekt.",
+   "en": "The Gipföhit stands high on the Schatzberg above Auffach. The spelling varies between sources (Gipfö Hit, Giphöhit), but they all refer to the same hut. According to the route descriptions it is about half an hour on foot from the top station of the Schatzbergbahn.\n\nThe hut features in several hiking and ski-touring routes, including a circular walk of around four kilometres past the Schatzbergalm and the summit area (highest point 1,882 m). The kitchen serves regional dishes. It suits people who want a break after a stretch on foot, rather than a quick coffee right beside the piste.",
+   "de": "Die Gipföhit liegt hoch am Schatzberg oberhalb von Auffach. Die Schreibweise schwankt je nach Quelle (Gipfö Hit, Giphöhit), gemeint ist aber immer dieselbe Hütte. Laut den Tourenbeschreibungen geht man von der Bergstation der Schatzbergbahn etwa eine halbe Stunde dorthin.\n\nDie Hütte taucht in mehreren Wander- und Skitourenrouten auf, darunter eine Rundwanderung von rund vier Kilometern an der Schatzbergalm und dem Gipfelbereich vorbei (höchster Punkt 1.882 m). In der Küche gibt es regionale Gerichte. Sie passt für alle, die nach einem Fußmarsch einkehren möchten, weniger für einen schnellen Kaffee direkt an der Piste."
+  },
+  "tips": {
+   "nl": [
+    "Plan een rondwandeling vanaf het bergstation en zet de hut als pauzepunt in.",
+    "Draag stevige schoenen: de weg erheen loopt omhoog en ligt op grote hoogte.",
+    "Vraag vooraf bij de hut of via de officiële site naar actuele informatie."
+   ],
+   "en": [
+    "Plan a circular walk from the top station and use the hut as a rest stop.",
+    "Wear sturdy shoes: the way there climbs and lies at altitude.",
+    "Ask the hut or check the official site for current information beforehand."
+   ],
+   "de": [
+    "Planen Sie eine Rundwanderung ab der Bergstation und nutzen Sie die Hütte als Rastpunkt.",
+    "Festes Schuhwerk ist ratsam: Der Weg führt bergauf und liegt in der Höhe.",
+    "Aktuelle Informationen erfragen Sie vorab bei der Hütte oder auf der offiziellen Seite."
+   ]
+  },
+  "practical": {
+   "nl": "Met de Schatzbergbahn naar het bergstation en daarna ca. een half uur lopen volgens tourbeschrijvingen.",
+   "en": "Take the Schatzbergbahn to the top station, then walk about half an hour according to route descriptions.",
+   "de": "Mit der Schatzbergbahn zur Bergstation, danach laut Tourenbeschreibungen etwa eine halbe Stunde zu Fuß."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 20 minuten rijden van Niederau naar het dalstation in Auffach, daarna gondel en ca. 30 minuten lopen",
+    "en": "About 20 minutes by car from Niederau to the valley station in Auffach, then the gondola and about 30 minutes on foot",
+    "de": "Ca. 20 Minuten Fahrt von Niederau zur Talstation in Auffach, dann Gondel und ca. 30 Minuten zu Fuß"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Schatzberg, Auffach (Wildschönau)",
+   "en": "Schatzberg, Auffach (Wildschönau)",
+   "de": "Schatzberg, Auffach (Wildschönau)"
+  },
+  "url": "",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe heet deze hut precies?",
+     "en": "What is the hut's exact name?",
+     "de": "Wie schreibt sich der Name genau?"
+    },
+    "a": {
+     "nl": "Bronnen schrijven Gipföhit, Gipfö Hit of Giphöhit; het gaat om dezelfde hut op de Schatzberg.",
+     "en": "Sources write Gipföhit, Gipfö Hit or Giphöhit; it is the same hut on the Schatzberg.",
+     "de": "Quellen schreiben Gipföhit, Gipfö Hit oder Giphöhit; gemeint ist dieselbe Hütte am Schatzberg."
+    }
+   },
+   {
+    "q": {
+     "nl": "Hoe lang loop je vanaf de lift?",
+     "en": "How long is the walk from the lift?",
+     "de": "Wie lange geht man von der Bahn?"
+    },
+    "a": {
+     "nl": "Volgens tourbeschrijvingen ongeveer een half uur vanaf het bergstation.",
+     "en": "Route descriptions give roughly half an hour from the top station.",
+     "de": "Laut Tourenbeschreibungen etwa eine halbe Stunde ab der Bergstation."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h11",
+  "new": true,
+  "theme": "hutten",
+  "season": "both",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "schatzbergalm-mountain-inn",
+  "slug_de": "berggasthof-schatzbergalm",
+  "title": {
+   "nl": "Berggasthof Schatzbergalm",
+   "en": "Berggasthof Schatzbergalm",
+   "de": "Berggasthof Schatzbergalm"
+  },
+  "tagline": {
+   "nl": "Berggasthof direct bij het bergstation van de Schatzbergbahn",
+   "en": "Mountain inn right at the Schatzbergbahn top station",
+   "de": "Berggasthof direkt an der Bergstation der Schatzbergbahn"
+  },
+  "intro": {
+   "nl": "De Schatzbergalm is een berggasthof op ongeveer 1.800 meter, direct naast het bergstation van de Schatzbergbahn boven Auffach. Het huis wordt volgens de eigen informatie al ruim 45 jaar door de familie Klingler gerund en serveert Tiroolse gerechten. Er zijn ook overnachtingskamers, en er is een zonneterras.\n\nDe ligging maakt de alm tot een logisch beginpunt: in de winter loopt de piste langs het huis, in de zomer starten hier wandel- en mountainbikeroutes. Dat het gasthof meteen bij de lift ligt, is vooral prettig voor gezinnen met kleine kinderen, omdat je geen extra stuk hoeft te lopen. Wie verder wil, kan doorlopen naar de Gipföhit of de top.",
+   "en": "The Schatzbergalm is a mountain inn at roughly 1,800 metres, right beside the top station of the Schatzbergbahn above Auffach. According to its own information the Klingler family has run it for more than 45 years, serving Tyrolean dishes. It also has guest rooms and a sunny terrace.\n\nIts position makes it a natural starting point: in winter the piste runs past the house, and in summer walking and mountain-bike routes begin here. Being right by the lift is especially handy for families with small children, since there is no extra walk. If you want to go further, you can continue to the Gipföhit or the summit.",
+   "de": "Die Schatzbergalm ist ein Berggasthof auf rund 1.800 Metern, direkt neben der Bergstation der Schatzbergbahn oberhalb von Auffach. Nach eigenen Angaben führt die Familie Klingler das Haus seit über 45 Jahren und serviert Tiroler Gerichte. Es gibt außerdem Gästezimmer und eine Sonnenterrasse.\n\nDie Lage macht die Alm zu einem naheliegenden Ausgangspunkt: Im Winter führt die Piste am Haus vorbei, im Sommer beginnen hier Wander- und Mountainbikerouten. Die Nähe zur Bahn ist besonders für Familien mit kleinen Kindern praktisch, weil kein zusätzlicher Fußweg nötig ist. Wer weiter möchte, kann zur Gipföhit oder zum Gipfel gehen."
+  },
+  "tips": {
+   "nl": [
+    "Gebruik de alm als startpunt voor een korte wandeling naar de Gipföhit.",
+    "Wil je overnachten, informeer dan vooraf rechtstreeks bij het gasthof naar de kamers.",
+    "Controleer actuele informatie bij de hut of op de officiële site."
+   ],
+   "en": [
+    "Use the inn as a starting point for a short walk to the Gipföhit.",
+    "If you want to stay overnight, ask the inn directly about its rooms.",
+    "Check current information with the hut or on the official site."
+   ],
+   "de": [
+    "Nutzen Sie die Alm als Ausgangspunkt für einen kurzen Spaziergang zur Gipföhit.",
+    "Wenn Sie übernachten möchten, fragen Sie direkt beim Gasthof nach den Zimmern.",
+    "Aktuelle Informationen erhalten Sie bei der Hütte oder auf der offiziellen Seite."
+   ]
+  },
+  "practical": {
+   "nl": "Met de Schatzbergbahn vanaf Auffach tot het bergstation; het gasthof ligt er direct naast.",
+   "en": "Take the Schatzbergbahn from Auffach to the top station; the inn stands right next to it.",
+   "de": "Mit der Schatzbergbahn von Auffach zur Bergstation; der Gasthof liegt direkt daneben."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 20 minuten rijden van Niederau naar het dalstation in Auffach, daarna de gondel",
+    "en": "About 20 minutes by car from Niederau to the valley station in Auffach, then the gondola",
+    "de": "Ca. 20 Minuten Fahrt von Niederau zur Talstation in Auffach, dann die Gondel"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "https://www.wildschoenau.com/en/plan-and-book-holiday/book-accommodation/Berggasthof-Schatzbergalm-inn-Wildschonau-Auffach_ad-87533",
+  "faq": [
+   {
+    "q": {
+     "nl": "Kun je bij de Schatzbergalm overnachten?",
+     "en": "Can you stay overnight at the Schatzbergalm?",
+     "de": "Kann man auf der Schatzbergalm übernachten?"
+    },
+    "a": {
+     "nl": "Ja, volgens de vermelding op wildschoenau.com heeft het gasthof gastenkamers.",
+     "en": "Yes, the wildschoenau.com listing says the inn has guest rooms.",
+     "de": "Ja, laut Eintrag auf wildschoenau.com hat der Gasthof Gästezimmer."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar ligt de alm precies?",
+     "en": "Where exactly is the inn?",
+     "de": "Wo genau liegt die Alm?"
+    },
+    "a": {
+     "nl": "Direct bij het bergstation van de Schatzbergbahn, op ongeveer 1.800 m.",
+     "en": "Right at the top station of the Schatzbergbahn, at about 1,800 m.",
+     "de": "Direkt an der Bergstation der Schatzbergbahn, auf etwa 1.800 m."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h12",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": true,
+  "drop_reason": "Alleen vermeldingen zonder duidelijke eigen bron gevonden (Apple Maps: 'Schirmbar Schatzbergbahn Mittelstation'; skiresort.info: 'Schirmbar Koglmoos'). Waarschijnlijk dezelfde plek als de Koglmoos Ski-Bar (h13), niet los te onderscheiden; samengevoegd met h13.",
+  "place": "auffach",
+  "slug_en": "schirmbar-schatzberg",
+  "slug_de": "schirmbar-schatzberg",
+  "title": {
+   "nl": "Schirmbar Schatzberg",
+   "en": "Schirmbar Schatzberg",
+   "de": "Schirmbar Schatzberg"
+  },
+  "tagline": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "intro": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "tips": {
+   "nl": [],
+   "en": [],
+   "de": []
+  },
+  "practical": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "",
+    "en": "",
+    "de": ""
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "",
+   "en": "",
+   "de": ""
+  },
+  "url": "",
+  "faq": [],
+  "verified": false,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h13",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "auffach",
+  "slug_en": "koglmoos-ski-bar-schatzberg",
+  "slug_de": "koglmoos-skibar-schatzberg",
+  "title": {
+   "nl": "Koglmoos Ski-Bar",
+   "en": "Koglmoos Ski Bar",
+   "de": "Koglmoos Skibar"
+  },
+  "tagline": {
+   "nl": "Apres-skibar direct aan de piste bij het middenstation",
+   "en": "Après-ski bar right on the piste at the mid station",
+   "de": "Après-Ski-Bar direkt an der Piste bei der Mittelstation"
+  },
+  "intro": {
+   "nl": "De Koglmoos Ski-Bar ligt bij het middenstation van de Schatzbergbahn, vlak naast Berghaus Koglmoos en direct aan de piste. Volgens de vermelding van de toeristische organisatie van de Wildschönau is het een ontmoetingsplek voor skiërs en liefhebbers van apres-ski. Andere bronnen noemen hem ook Schneebar of Schirmbar Koglmoos; de naam wisselt dus per bron.\n\nEen eigen keuken lijkt er niet te zijn: het eten laat je over aan het naastgelegen Berghaus. Het is een plek voor een drankje onderweg, op de laatste afdaling naar Auffach. Skiresort.info beschrijft de sfeer meestal als ontspannen, met hier en daar een langere middag in het hoogseizoen en in weekenden.",
+   "en": "The Koglmoos Ski Bar stands at the mid station of the Schatzbergbahn, next to Berghaus Koglmoos and right on the piste. The Wildschönau tourist board's listing describes it as a meeting place for skiers and après-ski fans. Other sources also call it Schneebar or Schirmbar Koglmoos, so the name varies from source to source.\n\nIt does not appear to have a kitchen of its own: food is left to the neighbouring Berghaus. It is a spot for a drink along the way, on the final run down to Auffach. Skiresort.info describes the mood as mostly relaxed, with the occasional longer afternoon in peak season and at weekends.",
+   "de": "Die Koglmoos Skibar liegt an der Mittelstation der Schatzbergbahn, direkt neben dem Berghaus Koglmoos und unmittelbar an der Piste. Laut dem Eintrag des Tourismusverbands Wildschönau ist sie ein Treffpunkt für Skifahrer und Après-Ski-Fans. Andere Quellen nennen sie auch Schneebar oder Schirmbar Koglmoos, der Name variiert also je nach Quelle.\n\nEine eigene Küche scheint es nicht zu geben: Das Essen überlässt man dem benachbarten Berghaus. Sie ist ein Ort für ein Getränk zwischendurch, auf der letzten Abfahrt nach Auffach. Skiresort.info beschreibt die Stimmung meist als entspannt, mit gelegentlich längeren Nachmittagen in der Hochsaison und an Wochenenden."
+  },
+  "tips": {
+   "nl": [
+    "Combineer met een lunch in het naastgelegen Berghaus Koglmoos.",
+    "Plan de laatste afdaling naar Auffach vóór het donker wordt.",
+    "Informeer vooraf bij de hut of via de officiële site naar actuele informatie."
+   ],
+   "en": [
+    "Pair it with lunch at the neighbouring Berghaus Koglmoos.",
+    "Plan the last run down to Auffach before it gets dark.",
+    "Check with the hut or the official site for current information."
+   ],
+   "de": [
+    "Verbinden Sie den Besuch mit einem Mittagessen im benachbarten Berghaus Koglmoos.",
+    "Planen Sie die letzte Abfahrt nach Auffach, bevor es dunkel wird.",
+    "Aktuelle Informationen erhalten Sie bei der Hütte oder auf der offiziellen Seite."
+   ]
+  },
+  "practical": {
+   "nl": "Met de Schatzbergbahn naar het middenstation, of skiënd vanaf de berg; de bar ligt aan de piste.",
+   "en": "Take the Schatzbergbahn to the mid station, or ski down from the mountain; the bar sits on the piste.",
+   "de": "Mit der Schatzbergbahn zur Mittelstation oder auf Skiern vom Berg; die Bar liegt an der Piste."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Ca. 20 minuten rijden van Niederau naar het dalstation in Auffach, daarna de gondel",
+    "en": "About 20 minutes by car from Niederau to the valley station in Auffach, then the gondola",
+    "de": "Ca. 20 Minuten Fahrt von Niederau zur Talstation in Auffach, dann die Gondel"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Auffach, Wildschönau",
+   "en": "Auffach, Wildschönau",
+   "de": "Auffach, Wildschönau"
+  },
+  "url": "https://www.wildschoenau.com/en/info-service/wildschoenau-a-z/Koglmoos-Ski-Bar_isd_89593",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er eten bij de Koglmoos Ski-Bar?",
+     "en": "Is food served at the Koglmoos Ski Bar?",
+     "de": "Gibt es Essen an der Koglmoos Skibar?"
+    },
+    "a": {
+     "nl": "Volgens een bron serveert de bar zelf geen eten; het naastgelegen Berghaus Koglmoos heeft wel een keuken.",
+     "en": "One source says the bar itself serves no food; the neighbouring Berghaus Koglmoos has a kitchen.",
+     "de": "Laut einer Quelle gibt es an der Bar selbst kein Essen; das benachbarte Berghaus Koglmoos hat eine Küche."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is dit dezelfde als de Schirmbar?",
+     "en": "Is this the same as the Schirmbar?",
+     "de": "Ist das dasselbe wie die Schirmbar?"
+    },
+    "a": {
+     "nl": "Waarschijnlijk wel: verschillende bronnen gebruiken Skibar, Schneebar en Schirmbar Koglmoos voor de bar bij het middenstation.",
+     "en": "Probably: different sources use Ski Bar, Schneebar and Schirmbar Koglmoos for the bar at the mid station.",
+     "de": "Wahrscheinlich ja: Verschiedene Quellen verwenden Skibar, Schneebar und Schirmbar Koglmoos für die Bar an der Mittelstation."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h14",
+  "new": true,
+  "theme": "hutten",
+  "season": "both",
+  "drop": false,
+  "drop_reason": "",
+  "place": "niederau",
+  "slug_en": "bobos-heustadl-niederau",
+  "slug_de": "bobos-heustadl-niederau",
+  "title": {
+   "nl": "Bobo's Heustadl",
+   "en": "Bobo's Heustadl",
+   "de": "Bobo's Heustadl"
+  },
+  "tagline": {
+   "nl": "Biergarten in het dorp, met uitzicht op de bergen",
+   "en": "A beer garden in the village with mountain views",
+   "de": "Biergarten im Ort mit Bergblick"
+  },
+  "intro": {
+   "nl": "Bobo's Heustadl is geen berghut maar een biergarten in het dorp Niederau, aan de Dorfstraße. Ski Juwel noemt het in de lijst van horeca bij het skigebied. Beschrijvingen op toeristische sites noemen een gezellige, ontspannen sfeer met uitzicht op de bergen.\n\nVolgens de vermeldingen is er een ruime keuze aan bier en wijn, aangevuld met regionale gerechten en gegrild eten; één bron noemt ook cocktails. De ligging midden in het dorp maakt het een makkelijke plek voor wie na een dag in de bergen niet meer hoger hoeft. Precies omdat Niederau zelf je uitvalsbasis is, loop je er vaak zonder auto naartoe.",
+   "en": "Bobo's Heustadl is not a mountain hut but a beer garden in the village of Niederau, on the Dorfstraße. Ski Juwel lists it among the eateries connected to the ski area. Descriptions on tourism sites mention a relaxed, friendly atmosphere with views of the mountains.\n\nAccording to the listings there is a wide choice of beer and wine, plus regional dishes and grilled food; one source also mentions cocktails. Its position in the middle of the village makes it an easy stop for anyone who does not want to climb any higher after a day in the mountains. Since Niederau is your base anyway, you can often walk there without the car.",
+   "de": "Bobo's Heustadl ist keine Berghütte, sondern ein Biergarten im Ort Niederau, an der Dorfstraße. Ski Juwel führt ihn unter den Gastronomiebetrieben rund um das Skigebiet. Beschreibungen auf Tourismusseiten erwähnen eine entspannte, gemütliche Atmosphäre mit Blick auf die Berge.\n\nLaut den Einträgen gibt es eine große Auswahl an Bier und Wein, dazu regionale Gerichte und Gegrilltes; eine Quelle erwähnt auch Cocktails. Die Lage mitten im Ort macht ihn zu einem einfachen Stopp für alle, die nach einem Tag in den Bergen nicht mehr höher hinauf möchten. Da Niederau ohnehin Ihr Standort ist, gehen Sie oft ohne Auto hin."
+  },
+  "tips": {
+   "nl": [
+    "Handig voor een rustige avond in het dorp na een dag in de bergen.",
+    "Loop erheen vanaf je verblijf in Niederau in plaats van de auto te pakken.",
+    "Informeer vooraf bij de zaak of via de officiële site naar actuele informatie."
+   ],
+   "en": [
+    "Handy for a calm evening in the village after a day in the mountains.",
+    "Walk there from your Niederau accommodation instead of taking the car.",
+    "Check with the venue or the official site for current information."
+   ],
+   "de": [
+    "Praktisch für einen ruhigen Abend im Ort nach einem Tag in den Bergen.",
+    "Gehen Sie von Ihrer Unterkunft in Niederau zu Fuß hin, statt das Auto zu nehmen.",
+    "Aktuelle Informationen erhalten Sie beim Betrieb oder auf der offiziellen Seite."
+   ]
+  },
+  "practical": {
+   "nl": "Midden in Niederau, aan de Dorfstraße; vanuit het dorp meestal te voet bereikbaar.",
+   "en": "In the middle of Niederau, on the Dorfstraße; usually reachable on foot from within the village.",
+   "de": "Mitten in Niederau an der Dorfstraße; aus dem Ort meist zu Fuß erreichbar."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "In Niederau zelf; meestal te voet vanuit het dorp",
+    "en": "In Niederau itself; usually on foot from within the village",
+    "de": "In Niederau selbst; meist zu Fuß aus dem Ort"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Niederau, Wildschönau",
+   "en": "Niederau, Wildschönau",
+   "de": "Niederau, Wildschönau"
+  },
+  "url": "https://www.tyrol.com/activities/food/restaurants/bobos-heustadl",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is Bobo's Heustadl een berghut?",
+     "en": "Is Bobo's Heustadl a mountain hut?",
+     "de": "Ist Bobo's Heustadl eine Berghütte?"
+    },
+    "a": {
+     "nl": "Nee, het is een biergarten in het dorp Niederau.",
+     "en": "No, it is a beer garden in the village of Niederau.",
+     "de": "Nein, es ist ein Biergarten im Ort Niederau."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wat kun je er verwachten?",
+     "en": "What can you expect there?",
+     "de": "Was erwartet man dort?"
+    },
+    "a": {
+     "nl": "Volgens de vermeldingen bier, wijn, regionale gerechten en gegrild eten, met uitzicht op de bergen.",
+     "en": "The listings mention beer, wine, regional dishes and grilled food, with mountain views.",
+     "de": "Laut den Einträgen Bier, Wein, regionale Gerichte und Gegrilltes, mit Bergblick."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "h15",
+  "new": true,
+  "theme": "hutten",
+  "season": "winter",
+  "drop": false,
+  "drop_reason": "",
+  "place": "oberau",
+  "slug_en": "stadl-bar-oberau",
+  "slug_de": "stadl-bar-oberau",
+  "title": {
+   "nl": "Stadl Bar Oberau",
+   "en": "Stadl Bar Oberau",
+   "de": "Stadl Bar Oberau"
+  },
+  "tagline": {
+   "nl": "Gezellige bar direct aan de piste in Oberau",
+   "en": "A cosy bar right by the slope in Oberau",
+   "de": "Gemütliche Bar direkt an der Piste in Oberau"
+  },
+  "intro": {
+   "nl": "De Stadl Bar staat in Oberau, het dorp tussen Niederau en Auffach, en is volgens de vermelding van de Wildschönau-toeristenorganisatie een gezellige bar direct aan de piste. Het is een apres-skiplek voor de wintermaanden. De contactgegevens in de vermelding verwijzen naar Hotel Tirolerhof in Oberau, dus het is aannemelijk dat het hotel de bar beheert; de vermelding zegt dat zelf niet met zoveel woorden.\n\nOberau is rustiger dan Niederau en vooral bekend bij langlaufers. De Stadl Bar past daarbij: geen hoge berghut, maar een plek in het dal waar je na het skiën kunt aanschuiven zonder nog te hoeven liften. Veel meer details staan er niet bij, dus bel of vraag ter plekke naar het aanbod.",
+   "en": "The Stadl Bar is in Oberau, the village between Niederau and Auffach, and the Wildschönau tourist board lists it as a cosy bar directly by the slope. It is an après-ski spot for the winter months. The contact details in the listing point to Hotel Tirolerhof in Oberau, so the hotel plausibly runs the bar, although the listing does not say so outright.\n\nOberau is quieter than Niederau and especially known among cross-country skiers. The Stadl Bar fits that picture: not a high mountain hut, but a valley spot where you can drop in after skiing without taking another lift. The listing gives little more detail, so ask on the spot about what is on offer.",
+   "de": "Die Stadl Bar liegt in Oberau, dem Ort zwischen Niederau und Auffach, und wird vom Tourismusverband Wildschönau als gemütliche Bar direkt an der Piste geführt. Sie ist ein Après-Ski-Ort für die Wintermonate. Die Kontaktdaten im Eintrag verweisen auf das Hotel Tirolerhof in Oberau, der Betrieb durch das Hotel ist also naheliegend, wird im Eintrag aber nicht ausdrücklich gesagt.\n\nOberau ist ruhiger als Niederau und vor allem bei Langläufern bekannt. Die Stadl Bar passt dazu: keine hochgelegene Berghütte, sondern ein Platz im Tal, an dem man nach dem Skifahren einkehren kann, ohne noch einmal liften zu müssen. Mehr Details nennt der Eintrag kaum, fragen Sie daher vor Ort nach dem Angebot."
+  },
+  "tips": {
+   "nl": [
+    "Combineer met een dag skiën of langlaufen in en rond Oberau.",
+    "Neem de auto of skibus van Niederau naar Oberau; het dorp ligt dichtbij.",
+    "Informeer vooraf bij de bar of via de officiële site naar actuele informatie."
+   ],
+   "en": [
+    "Combine it with a day of skiing or cross-country skiing in and around Oberau.",
+    "Take the car or ski bus from Niederau to Oberau; the village is close by.",
+    "Check with the bar or the official site for current information."
+   ],
+   "de": [
+    "Verbinden Sie den Besuch mit einem Ski- oder Langlauftag in und um Oberau.",
+    "Fahren Sie mit Auto oder Skibus von Niederau nach Oberau; der Ort liegt nah.",
+    "Aktuelle Informationen erhalten Sie bei der Bar oder auf der offiziellen Seite."
+   ]
+  },
+  "practical": {
+   "nl": "In Oberau, direct aan de piste; vanuit Niederau een korte rit.",
+   "en": "In Oberau, right by the slope; a short ride from Niederau.",
+   "de": "In Oberau, direkt an der Piste; von Niederau aus eine kurze Fahrt."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {},
+   "distance": {
+    "nl": "Oberau ligt vlak bij Niederau, ca. 5 minuten rijden",
+    "en": "Oberau is close to Niederau, about 5 minutes by car",
+    "de": "Oberau liegt nahe bei Niederau, ca. 5 Minuten Fahrt"
+   },
+   "season": {}
+  },
+  "location": {
+   "nl": "Oberau, Wildschönau",
+   "en": "Oberau, Wildschönau",
+   "de": "Oberau, Wildschönau"
+  },
+  "url": "https://www.wildschoenau.com/de/region-orte/a-z/stadl-bar_az_12677",
+  "faq": [
+   {
+    "q": {
+     "nl": "Ligt de Stadl Bar bij Niederau?",
+     "en": "Is the Stadl Bar in Niederau?",
+     "de": "Liegt die Stadl Bar in Niederau?"
+    },
+    "a": {
+     "nl": "Nee, in Oberau, het dorp ernaast.",
+     "en": "No, it is in Oberau, the neighbouring village.",
+     "de": "Nein, sie liegt in Oberau, dem Nachbarort."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is het een berghut?",
+     "en": "Is it a mountain hut?",
+     "de": "Ist es eine Berghütte?"
+    },
+    "a": {
+     "nl": "Nee, het is een bar in het dal, aan de piste.",
+     "en": "No, it is a bar in the valley, by the slope.",
+     "de": "Nein, es ist eine Bar im Tal, an der Piste."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ }
+]
