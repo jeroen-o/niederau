@@ -1,0 +1,274 @@
+{
+ "id": "skigebied-kaart",
+ "slug": {
+  "nl": "skigebied-niederau-kaart",
+  "en": "ski-area-niederau-map",
+  "de": "skigebiet-niederau-karte"
+ },
+ "title": {
+  "nl": "Skigebied Niederau: pistekaart en overzicht van Markbachjoch en Ski Juwel",
+  "en": "Niederau ski area: piste map and overview of the Markbachjoch and Ski Juwel",
+  "de": "Skigebiet Niederau: Pistenplan und Überblick über Markbachjoch und Ski Juwel"
+ },
+ "tagline": {
+  "nl": "Waar vind je de pistekaart van Niederau en hoe hangt het skigebied samen met Ski Juwel?",
+  "en": "Where to find the Niederau piste map and how the ski area fits with Ski Juwel",
+  "de": "Wo findest du den Pistenplan von Niederau und wie hängt das Skigebiet mit dem Ski Juwel zusammen?"
+ },
+ "intro": {
+  "nl": "Niederau heeft een eigen, overzichtelijk skigebied op het Markbachjoch en de Lanerköpfl. Het is gemakkelijk te leren kennen: brede pistes boven het dorp, een gondel vanuit de dorpskern en een rustige oefenhelling voor beginners. Volgens skiresort.info gaat het om ongeveer 24 km pistes en 4 km skiroutes.\n\nNiederau wordt in de overzichten gerekend tot het grotere skigebied Ski Juwel Alpbachtal Wildschönau. Dat is veel groter, maar niet vanuit Niederau te bereiken via een piste of lift: je reist ertussen per skibus. Op deze pagina vind je de officiële pagina’s en de pistekaarten van betrouwbare aanbieders, en wat je ervan moet weten voor je gaat.",
+  "en": "Niederau has its own clear ski area on the Markbachjoch and the Lanerköpfl. It is easy to get to know: wide slopes above the village, a gondola from the village centre and a quiet practice slope for beginners. According to skiresort.info it comes to about 24 km of slopes and 4 km of ski routes.\n\nIn the overviews Niederau is counted as part of the larger Ski Juwel Alpbachtal Wildschönau ski area. That is much bigger, but it cannot be reached from Niederau by slope or lift: you travel between them by ski bus. On this page you will find the official pages and the piste maps of reliable providers, and what to know before you go.",
+  "de": "Niederau hat ein eigenes, übersichtliches Skigebiet am Markbachjoch und am Lanerköpfl. Es ist leicht kennenzulernen: breite Pisten über dem Dorf, eine Gondel aus dem Ortskern und ein ruhiger Übungshang für Anfänger. Laut skiresort.info sind es etwa 24 km Pisten und 4 km Skirouten.\n\nIn den Übersichten wird Niederau zum größeren Skigebiet Ski Juwel Alpbachtal Wildschönau gezählt. Das ist deutlich größer, von Niederau aber nicht per Piste oder Lift erreichbar: Dazwischen fährst du mit dem Skibus. Auf dieser Seite findest du die offiziellen Seiten und die Pistenpläne verlässlicher Anbieter und was du vor der Fahrt wissen solltest."
+ },
+ "image_winter": "niederau-skien-markbachjoch",
+ "sections": [
+  {
+   "h": {
+    "nl": "Pistekaarten bekijken",
+    "en": "View piste maps",
+    "de": "Pistenpläne ansehen"
+   },
+   "p": {
+    "nl": "De officiële pistekaart van Ski Juwel is een eigen product van de liftmaatschappij. We tonen hem hier niet na; open hem bij de bron. Hieronder staan de pagina’s van de organisatie en de kaarten van derden, die de pistes op een kaart tonen.",
+    "en": "The official Ski Juwel piste map is the lift company’s own product. We do not reproduce it here; open it at the source. Below are the organisation’s pages and third-party maps that show the slopes on a map.",
+    "de": "Der offizielle Pistenplan des Ski Juwel ist ein eigenes Produkt der Bergbahn. Wir bilden ihn hier nicht nach; öffne ihn bei der Quelle. Unten stehen die Seiten der Organisation und die Karten Dritter, die die Pisten auf einer Karte zeigen."
+   },
+   "cards": [
+    {
+     "h": {
+      "nl": "Officiële bronnen",
+      "en": "Official sources",
+      "de": "Offizielle Quellen"
+     },
+     "links": [
+      {
+       "l": {
+        "nl": "Ski Juwel: openingstijden en seizoen",
+        "en": "Ski Juwel: operating times and season",
+        "de": "Ski Juwel: Betriebszeiten und Saison"
+       },
+       "u": "https://www.skijuwel.com/en/winter/operating-times"
+      },
+      {
+       "l": {
+        "nl": "Skigebied Ski Juwel op Tirol.at",
+        "en": "Ski area Ski Juwel on Tirol.at",
+        "de": "Skigebiet Ski Juwel auf Tirol.at"
+       },
+       "u": "https://www.tirol.at/aktivitaeten/sport/skifahren/skigebiete/skigebiet-skijuwel-alpbachtal-wildschoenau"
+      },
+      {
+       "l": {
+        "nl": "Skibus Wildschönau (Wildschönau Tourismus)",
+        "en": "Ski bus Wildschönau (Wildschönau Tourismus)",
+        "de": "Skibus Wildschönau (Wildschönau Tourismus)"
+       },
+       "u": "https://www.wildschoenau.com/nl/winter/skien-tirol/skibus"
+      }
+     ]
+    },
+    {
+     "h": {
+      "nl": "Pistekaarten van derden",
+      "en": "Third-party piste maps",
+      "de": "Pistenpläne von Dritten"
+     },
+     "links": [
+      {
+       "l": {
+        "nl": "Snowplaza: pistekaart Niederau",
+        "en": "Snowplaza: Niederau piste map",
+        "de": "Snowplaza: Pistenplan Niederau"
+       },
+       "u": "https://www.snowplaza.nl/oostenrijk/ski-juwel/niederau/pistekaart/"
+      },
+      {
+       "l": {
+        "nl": "Snowplaza: pistekaart Ski Juwel",
+        "en": "Snowplaza: Ski Juwel piste map",
+        "de": "Snowplaza: Pistenplan Ski Juwel"
+       },
+       "u": "https://www.snowplaza.nl/oostenrijk/ski-juwel/pistekaart/"
+      },
+      {
+       "l": {
+        "nl": "OnTheSnow: pistekaart",
+        "en": "OnTheSnow: trail map",
+        "de": "OnTheSnow: Pistenplan"
+       },
+       "u": "https://www.onthesnow.com/tyrol/ski-juwel-alpbachtal-wildschoenau/trailmap.html"
+      },
+      {
+       "l": {
+        "nl": "Skiresort.info: Markbachjoch en Lanerköpfl",
+        "en": "Skiresort.info: Markbachjoch and Lanerköpfl",
+        "de": "Skiresort.info: Markbachjoch und Lanerköpfl"
+       },
+       "u": "https://www.skiresort.info/ski-resort/markbachjoch-lanerkoepfl-niederau/"
+      },
+      {
+       "l": {
+        "nl": "J2Ski: pistekaart Ski Juwel",
+        "en": "J2Ski: Ski Juwel piste map",
+        "de": "J2Ski: Pistenplan Ski Juwel"
+       },
+       "u": "https://www.j2ski.com/ski_resorts/austria/Ski_Juwel_Alpbachtal_Wildschonau_Piste_Map.html"
+      }
+     ]
+    }
+   ],
+   "note": {
+    "nl": "De kaarten van derden zijn niet altijd even actueel. Controleer liftstatus en geopende pistes op de dag zelf.",
+    "en": "Third-party maps are not always up to date. Check lift status and open slopes on the day itself.",
+    "de": "Die Karten Dritter sind nicht immer aktuell. Prüfe Liftstatus und geöffnete Pisten am Tag selbst."
+   }
+  },
+  {
+   "h": {
+    "nl": "Het skigebied van Niederau",
+    "en": "The ski area of Niederau",
+    "de": "Das Skigebiet von Niederau"
+   },
+   "p": {
+    "nl": "Het gebied rond de Markbachjochbahn en de Lanerköpfl is het skigebied van het dorp zelf. De gondel vertrekt in Niederau en brengt je op het Markbachjoch; van daaruit lopen de pistes terug naar het dorp. Voor beginners is er een oefengebied bij de Lanerköpfl (vraag ter plaatse naar de actuele situatie van de oefenlift). Meer over de berg, de liften en de hutten lees je op de pagina over het Markbachjoch.",
+    "en": "The area around the Markbachjochbahn and the Lanerköpfl is the village’s own ski area. The gondola leaves from Niederau and takes you up the Markbachjoch; from there the slopes run back to the village. For beginners there is a practice area at the Lanerköpfl (ask locally about the current state of the practice lift). You can read more about the mountain, the lifts and the huts on the Markbachjoch page.",
+    "de": "Das Gebiet rund um die Markbachjochbahn und den Lanerköpfl ist das Skigebiet des Dorfes selbst. Die Gondel fährt in Niederau ab und bringt dich aufs Markbachjoch; von dort laufen die Pisten zurück ins Dorf. Für Anfänger gibt es ein Übungsgebiet am Lanerköpfl (die aktuelle Lage des Übungslifts bitte vor Ort erfragen). Mehr zu Berg, Liften und Hütten liest du auf der Seite zum Markbachjoch."
+   }
+  },
+  {
+   "h": {
+    "nl": "Ski Juwel: het grotere geheel",
+    "en": "Ski Juwel: the bigger picture",
+    "de": "Ski Juwel: das größere Ganze"
+   },
+   "p": {
+    "nl": "Ski Juwel Alpbachtal Wildschönau is het grotere skigebied waar de Wildschönau bij hoort. De bronnen noemen ongeveer 113 km pistes en skiroutes (andere bronnen 109 tot 114 km) en 43 tot 45 liften; de aantallen verschillen per bron. De verbinding tussen Alpbach en de Wildschönau loopt via de Verbindungsbahn. Niederau ligt niet aan dat netwerk: tussen Niederau, Auffach en Oberau rijden skibussen, volgens Wildschönau Tourismus meer dan twintig ritten per dag.",
+    "en": "Ski Juwel Alpbachtal Wildschönau is the larger ski area the Wildschönau belongs to. Sources give about 113 km of slopes and ski routes (other sources 109 to 114 km) and 43 to 45 lifts; the numbers differ by source. The link between Alpbach and the Wildschönau runs via the Verbindungsbahn. Niederau is not on that network: ski buses run between Niederau, Auffach and Oberau, according to Wildschönau Tourismus more than twenty trips a day.",
+    "de": "Ski Juwel Alpbachtal Wildschönau ist das größere Skigebiet, zu dem die Wildschönau gehört. Die Quellen nennen rund 113 km Pisten und Skirouten (andere Quellen 109 bis 114 km) und 43 bis 45 Lifte; die Zahlen unterscheiden sich je nach Quelle. Die Verbindung zwischen Alpbach und der Wildschönau läuft über die Verbindungsbahn. Niederau liegt nicht an diesem Netz: Zwischen Niederau, Auffach und Oberau fahren Skibusse, laut Wildschönau Tourismus mehr als zwanzig Fahrten am Tag."
+   }
+  },
+  {
+   "h": {
+    "nl": "Seizoen 2026/27",
+    "en": "Season 2026/27",
+    "de": "Saison 2026/27"
+   },
+   "p": {
+    "nl": "Volgens de pagina met openingstijden van Ski Juwel openen sommige liften op 4 december 2026. De Verbindungsbahn draait volgens de huidige planning van half december 2026 tot 4 april 2027, de Reitherkogelbahn tot half maart. Dit is gepland en kan nog wijzigen; controleer de actuele gegevens bij Ski Juwel.",
+    "en": "According to the Ski Juwel operating-times page some lifts open on 4 December 2026. The Verbindungsbahn runs, according to current planning, from mid-December 2026 to 4 April 2027, the Reitherkogelbahn until mid-March. This is planned and may still change; check the current details with Ski Juwel.",
+    "de": "Laut der Betriebszeiten-Seite des Ski Juwel öffnen einige Lifte am 4. Dezember 2026. Die Verbindungsbahn fährt nach aktueller Planung von Mitte Dezember 2026 bis 4. April 2027, die Reitherkogelbahn bis Mitte März. Das ist geplant und kann sich noch ändern; aktuelle Angaben bitte beim Ski Juwel prüfen."
+   }
+  },
+  {
+   "h": {
+    "nl": "Skiën in de avond: Roggenboden",
+    "en": "Skiing in the evening: Roggenboden",
+    "de": "Skifahren am Abend: Roggenboden"
+   },
+   "p": {
+    "nl": "In Oberau ligt het kleine skigebied Roggenboden met een sleeplift, vooral bekend om het nachtskiën en nachtrodelen. In het seizoen 2025/26 was dat op woensdag en donderdag van 19.30 tot 21.00 uur, van 7 januari tot 20 maart, met verplichte aanmelding. Controleer de data voor 2026/27 vooraf.",
+    "en": "In Oberau lies the small ski area Roggenboden with a drag lift, best known for night skiing and night tobogganing. In the 2025/26 season that was on Wednesdays and Thursdays from 7.30 to 9 pm, from 7 January to 20 March, with registration required. Check the dates for 2026/27 beforehand.",
+    "de": "In Oberau liegt das kleine Skigebiet Roggenboden mit einem Schlepplift, vor allem bekannt für Nachtskilauf und Nachtrodeln. In der Saison 2025/26 fand das mittwochs und donnerstags von 19.30 bis 21 Uhr statt, vom 7. Januar bis 20. März, mit verpflichtender Anmeldung. Die Termine für 2026/27 bitte vorab prüfen."
+   }
+  }
+ ],
+ "faq": [
+  {
+   "q": {
+    "nl": "Waar vind ik de pistekaart van Niederau?",
+    "en": "Where do I find the Niederau piste map?",
+    "de": "Wo finde ich den Pistenplan von Niederau?"
+   },
+   "a": {
+    "nl": "Op deze pagina staan de officiële pagina’s en de pistekaarten van Snowplaza, OnTheSnow, Skiresort.info en J2Ski. De officiële kaart van Ski Juwel open je bij de liftmaatschappij zelf.",
+    "en": "On this page are the official pages and the piste maps of Snowplaza, OnTheSnow, Skiresort.info and J2Ski. You open the official Ski Juwel map with the lift company itself.",
+    "de": "Auf dieser Seite stehen die offiziellen Seiten und die Pistenpläne von Snowplaza, OnTheSnow, Skiresort.info und J2Ski. Den offiziellen Ski-Juwel-Plan öffnest du bei der Bergbahn selbst."
+   }
+  },
+  {
+   "q": {
+    "nl": "Is Niederau verbonden met de rest van Ski Juwel?",
+    "en": "Is Niederau connected to the rest of Ski Juwel?",
+    "de": "Ist Niederau mit dem Rest des Ski Juwel verbunden?"
+   },
+   "a": {
+    "nl": "Niet via een piste of lift. Het Markbachjoch heeft een eigen gebied; naar Auffach (Schatzberg) en Oberau reis je per skibus.",
+    "en": "Not by a slope or lift. The Markbachjoch has its own area; you travel to Auffach (Schatzberg) and Oberau by ski bus.",
+    "de": "Nicht per Piste oder Lift. Das Markbachjoch hat ein eigenes Gebiet; nach Auffach (Schatzberg) und Oberau fährst du mit dem Skibus."
+   }
+  },
+  {
+   "q": {
+    "nl": "Hoe groot is het skigebied van Niederau?",
+    "en": "How big is the Niederau ski area?",
+    "de": "Wie groß ist das Skigebiet von Niederau?"
+   },
+   "a": {
+    "nl": "Volgens skiresort.info ongeveer 24 km pistes en 4 km skiroutes. Bronnen verschillen, dus beschouw dit als een indicatie.",
+    "en": "According to skiresort.info about 24 km of slopes and 4 km of ski routes. Sources differ, so treat this as an indication.",
+    "de": "Laut skiresort.info etwa 24 km Pisten und 4 km Skirouten. Die Quellen unterscheiden sich, nimm das also als Richtwert."
+   }
+  },
+  {
+   "q": {
+    "nl": "Wanneer begint het skiseizoen 2026/27?",
+    "en": "When does the 2026/27 ski season start?",
+    "de": "Wann beginnt die Skisaison 2026/27?"
+   },
+   "a": {
+    "nl": "Volgens Ski Juwel openen sommige liften op 4 december 2026 en loopt het seizoen tot 4 april 2027. Dit is gepland en kan wijzigen.",
+    "en": "According to Ski Juwel some lifts open on 4 December 2026 and the season runs until 4 April 2027. This is planned and may change.",
+    "de": "Laut Ski Juwel öffnen einige Lifte am 4. Dezember 2026, die Saison läuft bis 4. April 2027. Das ist geplant und kann sich ändern."
+   }
+  }
+ ],
+ "related": [
+  {
+   "type": "page",
+   "path": {
+    "nl": "markbachjoch/",
+    "en": "markbachjoch/",
+    "de": "markbachjoch/"
+   },
+   "label": {
+    "nl": "Markbachjoch: gondel, hutten en geschiedenis",
+    "en": "Markbachjoch: gondola, huts and history",
+    "de": "Markbachjoch: Gondel, Hütten und Geschichte"
+   }
+  },
+  {
+   "type": "page",
+   "path": {
+    "nl": "webcam/",
+    "en": "webcam/",
+    "de": "webcam/"
+   },
+   "label": {
+    "nl": "Webcam Niederau",
+    "en": "Niederau webcam",
+    "de": "Webcam Niederau"
+   }
+  },
+  {
+   "type": "page",
+   "path": {
+    "nl": "skiverhuur-niederau/",
+    "en": "ski-rental-niederau/",
+    "de": "skiverleih-niederau/"
+   },
+   "label": {
+    "nl": "Skiverhuur in Niederau, Oberau en Auffach",
+    "en": "Ski rental in Niederau, Oberau and Auffach",
+    "de": "Skiverleih in Niederau, Oberau und Auffach"
+   }
+  },
+  {
+   "type": "guide",
+   "id": "ski-juwel"
+  },
+  {
+   "type": "guide",
+   "id": "skien-met-kinderen"
+  }
+ ]
+}

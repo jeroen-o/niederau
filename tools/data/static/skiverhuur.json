@@ -1,0 +1,231 @@
+{
+ "id": "skiverhuur",
+ "slug": {
+  "nl": "skiverhuur-niederau",
+  "en": "ski-rental-niederau",
+  "de": "skiverleih-niederau"
+ },
+ "title": {
+  "nl": "Skiverhuur in Niederau, Oberau en Auffach: waar huur je ski’s?",
+  "en": "Ski rental in Niederau, Oberau and Auffach: where to rent skis",
+  "de": "Skiverleih in Niederau, Oberau und Auffach: wo du Ski mieten kannst"
+ },
+ "tagline": {
+  "nl": "Skiverhuur, snowboards en langlaufski’s in de Wildschönau: wie, waar en waar je op let",
+  "en": "Ski, snowboard and cross-country ski rental in the Wildschönau: who, where and what to look out for",
+  "de": "Skiverleih, Snowboards und Langlaufski in der Wildschönau: wer, wo und worauf du achten solltest"
+ },
+ "intro": {
+  "nl": "Wie met de trein of het vliegtuig naar Niederau reist, neemt zelden zijn eigen ski’s mee. Gelukkig is huren in de Wildschönau eenvoudig: veel verhuurders zitten vlak bij de dalstations van de liften en in het dorpscentrum. Op deze pagina vind je de verhuurders die in openbare bronnen genoemd worden, per dorp, met wat je er volgens die bronnen kunt huren.\n\nDit is een onafhankelijke, niet-uitputtende lijst. De vermelding is geen aanbeveling en er is geen vergoeding voor betaald. Controleer adres, tijden, prijzen en reserveren altijd bij de verhuurder zelf.",
+  "en": "Anyone travelling to Niederau by train or plane rarely brings their own skis. Fortunately renting in the Wildschönau is easy: many rental shops are close to the valley stations of the lifts and in the village centre. On this page you will find the rental shops named in public sources, by village, with what you can rent there according to those sources.\n\nThis is an independent, non-exhaustive list. A listing is not a recommendation and nothing was paid for it. Always check address, times, prices and booking with the rental shop itself.",
+  "de": "Wer mit Zug oder Flugzeug nach Niederau reist, bringt selten eigene Ski mit. Zum Glück ist das Mieten in der Wildschönau einfach: Viele Verleihe liegen nahe den Talstationen der Lifte und im Ortskern. Auf dieser Seite findest du die in öffentlichen Quellen genannten Verleihe, nach Dorf geordnet, mit dem, was man dort laut diesen Quellen mieten kann.\n\nDies ist eine unabhängige, nicht vollständige Liste. Eine Nennung ist keine Empfehlung, und es wurde nichts dafür bezahlt. Adresse, Zeiten, Preise und Buchung bitte immer beim Verleih selbst prüfen."
+ },
+ "image_winter": "niederau-skien-piste-oefenlift-hut",
+ "sections": [
+  {
+   "h": {
+    "nl": "Verhuur per dorp",
+    "en": "Rental by village",
+    "de": "Verleih nach Dorf"
+   },
+   "cards": [
+    {
+     "h": {
+      "nl": "Niederau",
+      "en": "Niederau",
+      "de": "Niederau"
+     },
+     "p": {
+      "nl": "Sport Blachfelder zit in het dorpscentrum, in Hotel Austria. Volgens de bronnen verhuren ze ski’s, snowboards en toerski’s, en ook sleeën en fietsen. Ski & Board Margreiter zit bij het parkeerterrein en de lift van het Markbachjoch en verhuurt ski’s, snowboards, langlaufski’s, sleeën, snowblades, schoenen en helmen.",
+      "en": "Sport Blachfelder is in the village centre, in Hotel Austria. According to the sources they rent skis, snowboards and touring skis, as well as sleds and bikes. Ski & Board Margreiter is by the car park and lift of the Markbachjoch and rents skis, snowboards, cross-country skis, sleds, snowblades, boots and helmets.",
+      "de": "Sport Blachfelder liegt im Ortskern, im Hotel Austria. Laut den Quellen verleihen sie Ski, Snowboards und Tourenski sowie Schlitten und Fahrräder. Ski & Board Margreiter liegt am Parkplatz und Lift des Markbachjochs und verleiht Ski, Snowboards, Langlaufski, Schlitten, Snowblades, Schuhe und Helme."
+     },
+     "links": [
+      {
+       "l": {
+        "nl": "Website Sport Blachfelder",
+        "en": "Sport Blachfelder website",
+        "de": "Website Sport Blachfelder"
+       },
+       "u": "https://www.sportblachfelder.at"
+      }
+     ]
+    },
+    {
+     "h": {
+      "nl": "Oberau",
+      "en": "Oberau",
+      "de": "Oberau"
+     },
+     "p": {
+      "nl": "In Oberau heeft Ski & Board Margreiter ook een vestiging; volgens de bronnen verhuurt men er ski’s, snowboards en langlaufski’s.",
+      "en": "In Oberau Ski & Board Margreiter also has a branch; according to the sources it rents skis, snowboards and cross-country skis.",
+      "de": "In Oberau hat Ski & Board Margreiter ebenfalls eine Filiale; laut den Quellen verleiht man dort Ski, Snowboards und Langlaufski."
+     }
+    },
+    {
+     "h": {
+      "nl": "Auffach",
+      "en": "Auffach",
+      "de": "Auffach"
+     },
+     "p": {
+      "nl": "Bij het dalstation van de Schatzbergbahn zit Ski & Board Margreiter, met verhuur, skiservice en een ski- en schoendepot. Ski Auffach, aan het einde van de piste, combineert verhuur, skiservice, een winkel en een skischool. Skisport Thaler is een familiebedrijf met sportartikelen en winterverhuur.",
+      "en": "At the valley station of the Schatzbergbahn is Ski & Board Margreiter, with rental, ski service and a ski and boot depot. Ski Auffach, at the end of the slope, combines rental, ski service, a shop and a ski school. Skisport Thaler is a family business with sports goods and winter rental.",
+      "de": "An der Talstation der Schatzbergbahn liegt Ski & Board Margreiter, mit Verleih, Skiservice und einem Ski- und Schuhdepot. Ski Auffach, am Ende der Piste, verbindet Verleih, Skiservice, ein Geschäft und eine Skischule. Skisport Thaler ist ein Familienbetrieb mit Sportartikeln und Winterverleih."
+     }
+    },
+    {
+     "h": {
+      "nl": "Thierbach en Mühltal",
+      "en": "Thierbach and Mühltal",
+      "de": "Thierbach und Mühltal"
+     },
+     "p": {
+      "nl": "In Thierbach en Mühltal vonden we geen eigen verhuurder. Gasten reizen met de skibus naar Auffach of Niederau.",
+      "en": "In Thierbach and Mühltal we found no rental shop of its own. Guests take the ski bus to Auffach or Niederau.",
+      "de": "In Thierbach und Mühltal haben wir keinen eigenen Verleih gefunden. Gäste fahren mit dem Skibus nach Auffach oder Niederau."
+     }
+    }
+   ]
+  },
+  {
+   "h": {
+    "nl": "Tips voor het huren",
+    "en": "Tips for renting",
+    "de": "Tipps zum Mieten"
+   },
+   "list": [
+    {
+     "t": {
+      "nl": "Reserveer vooraf als dat kan. Margreiter en Sport Blachfelder vermelden online boeken; in de schoolvakanties is het druk.",
+      "en": "Book ahead if you can. Margreiter and Sport Blachfelder mention online booking; it is busy in school holidays.",
+      "de": "Reserviere vorab, wenn möglich. Margreiter und Sport Blachfelder nennen Online-Buchung; in den Schulferien ist viel los."
+     }
+    },
+    {
+     "t": {
+      "nl": "Vraag naar een skidepot als je niet elke dag je spullen mee naar je accommodatie wilt nemen. Margreiter in Auffach noemt een ski- en schoendepot.",
+      "en": "Ask about a ski depot if you do not want to carry your gear to your accommodation every day. Margreiter in Auffach mentions a ski and boot depot.",
+      "de": "Frag nach einem Skidepot, wenn du die Ausrüstung nicht jeden Tag zur Unterkunft tragen willst. Margreiter in Auffach nennt ein Ski- und Schuhdepot."
+     }
+    },
+    {
+     "t": {
+      "nl": "Neem lengte, gewicht en schoenmaat mee en vraag bij kinderen naar een helm. Laat de afstelling van de bindingen altijd door de verhuurder doen.",
+      "en": "Bring height, weight and shoe size, and ask about a helmet for children. Always let the rental shop set the bindings.",
+      "de": "Bring Größe, Gewicht und Schuhgröße mit und frag bei Kindern nach einem Helm. Lass die Bindungen immer vom Verleih einstellen."
+     }
+    },
+    {
+     "t": {
+      "nl": "Kies een verhuurder dicht bij de lift die je gebruikt. Veel verhuurders liggen vlak bij de dalstations; dat scheelt sjouwen.",
+      "en": "Choose a rental shop close to the lift you use. Many are right by the valley stations, which saves carrying.",
+      "de": "Wähle einen Verleih nahe dem Lift, den du nutzt. Viele liegen direkt an den Talstationen, das spart Schlepperei."
+     }
+    },
+    {
+     "t": {
+      "nl": "Huur en skipas zijn twee aparte dingen: de skipas is niet bij de verhuur inbegrepen.",
+      "en": "Rental and a ski pass are two separate things: the ski pass is not included in the rental.",
+      "de": "Verleih und Skipass sind zwei getrennte Dinge: Der Skipass ist nicht im Verleih enthalten."
+     }
+    }
+   ],
+   "note": {
+    "nl": "Prijzen, openingstijden en voorwaarden wisselen per seizoen en zijn bewust niet vermeld.",
+    "en": "Prices, opening times and conditions change each season and are deliberately not listed.",
+    "de": "Preise, Öffnungszeiten und Bedingungen wechseln jede Saison und sind bewusst nicht genannt."
+   }
+  },
+  {
+   "h": {
+    "nl": "Wildschönau Card en huurkorting",
+    "en": "Wildschönau Card and rental discount",
+    "de": "Wildschönau Card und Leihrabatt"
+   },
+   "p": {
+    "nl": "Volgens de vermeldingen van Wildschönau Tourismus krijg je met de Wildschönau Card bij verschillende verhuurders (onder andere Blachfelder, Margreiter, Thaler en Ski Auffach) zeven dagen huren voor de prijs van zes, en soms is sneeuwschoenenverhuur inbegrepen. De kaart krijg je bij deelnemende accommodaties. Controleer de actuele voorwaarden bij de verhuurder en je accommodatie.",
+    "en": "According to the listings of Wildschönau Tourismus the Wildschönau Card gives you seven days of rental for the price of six at several rental shops (including Blachfelder, Margreiter, Thaler and Ski Auffach), and snowshoe rental is sometimes included. You get the card from participating accommodations. Check the current conditions with the rental shop and your accommodation.",
+    "de": "Laut den Einträgen der Wildschönau Tourismus gibt es mit der Wildschönau Card bei mehreren Verleihen (unter anderem Blachfelder, Margreiter, Thaler und Ski Auffach) sieben Tage zum Preis von sechs, teils ist der Schneeschuhverleih inbegriffen. Die Karte erhältst du bei teilnehmenden Unterkünften. Aktuelle Bedingungen bitte beim Verleih und bei deiner Unterkunft prüfen."
+   }
+  }
+ ],
+ "faq": [
+  {
+   "q": {
+    "nl": "Waar kan ik in Niederau ski’s huren?",
+    "en": "Where can I rent skis in Niederau?",
+    "de": "Wo kann ich in Niederau Ski mieten?"
+   },
+   "a": {
+    "nl": "In het dorpscentrum bij Sport Blachfelder (in Hotel Austria) en bij het Markbachjoch bij Ski & Board Margreiter.",
+    "en": "In the village centre at Sport Blachfelder (in Hotel Austria) and at the Markbachjoch at Ski & Board Margreiter.",
+    "de": "Im Ortskern bei Sport Blachfelder (im Hotel Austria) und am Markbachjoch bei Ski & Board Margreiter."
+   }
+  },
+  {
+   "q": {
+    "nl": "Kan ik in Oberau of Auffach ski’s huren?",
+    "en": "Can I rent skis in Oberau or Auffach?",
+    "de": "Kann ich in Oberau oder Auffach Ski mieten?"
+   },
+   "a": {
+    "nl": "Ja. In Oberau heeft Margreiter een vestiging. In Auffach zijn Margreiter bij het dalstation van de Schatzbergbahn, Ski Auffach en Skisport Thaler.",
+    "en": "Yes. In Oberau Margreiter has a branch. In Auffach there are Margreiter at the valley station of the Schatzbergbahn, Ski Auffach and Skisport Thaler.",
+    "de": "Ja. In Oberau hat Margreiter eine Filiale. In Auffach gibt es Margreiter an der Talstation der Schatzbergbahn, Ski Auffach und Skisport Thaler."
+   }
+  },
+  {
+   "q": {
+    "nl": "Kan ik ook langlaufski’s of sneeuwschoenen huren?",
+    "en": "Can I also rent cross-country skis or snowshoes?",
+    "de": "Kann ich auch Langlaufski oder Schneeschuhe mieten?"
+   },
+   "a": {
+    "nl": "Volgens de bronnen verhuurt Margreiter langlaufski’s. Sneeuwschoenenverhuur wordt bij meerdere verhuurders genoemd; vraag het vooraf na.",
+    "en": "According to the sources Margreiter rents cross-country skis. Snowshoe rental is mentioned at several shops; ask beforehand.",
+    "de": "Laut den Quellen verleiht Margreiter Langlaufski. Schneeschuhverleih wird bei mehreren Verleihen genannt; frag vorab nach."
+   }
+  },
+  {
+   "q": {
+    "nl": "Is de skipas bij de verhuur inbegrepen?",
+    "en": "Is the ski pass included in the rental?",
+    "de": "Ist der Skipass im Verleih enthalten?"
+   },
+   "a": {
+    "nl": "Nee. Huur en skipas zijn aparte aankopen. Informeer bij Ski Juwel of je accommodatie naar de skipas.",
+    "en": "No. Rental and ski pass are separate purchases. Ask Ski Juwel or your accommodation about the ski pass.",
+    "de": "Nein. Verleih und Skipass sind getrennte Käufe. Frag beim Ski Juwel oder deiner Unterkunft nach dem Skipass."
+   }
+  }
+ ],
+ "related": [
+  {
+   "type": "page",
+   "path": {
+    "nl": "skigebied-niederau-kaart/",
+    "en": "ski-area-niederau-map/",
+    "de": "skigebiet-niederau-karte/"
+   },
+   "label": {
+    "nl": "Skigebied Niederau: pistekaart en overzicht",
+    "en": "Niederau ski area: piste map and overview",
+    "de": "Skigebiet Niederau: Pistenplan und Überblick"
+   }
+  },
+  {
+   "type": "guide",
+   "id": "skien-met-kinderen"
+  },
+  {
+   "type": "guide",
+   "id": "wildschoenau-card"
+  },
+  {
+   "type": "guide",
+   "id": "ski-juwel"
+  }
+ ]
+}

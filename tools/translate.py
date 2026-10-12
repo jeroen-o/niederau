@@ -793,6 +793,9 @@ OBSOLETE |= set(['<p>Wil je je eigen paard meenemen? Niet elke manege of boerder
 WEBCAM_PAIRS = [('          <li><a href="webcam/">Webcam Niederau<small>Waar de camera’s staan en wat je ziet</small></a></li>', '          <li><a href="webcam/">Niederau webcam<small>Where the cameras are and what you see</small></a></li>', '          <li><a href="webcam/">Webcam Niederau<small>Wo die Kameras stehen und was man sieht</small></a></li>')]
 T['en'] += [(a, b) for a, b, c in WEBCAM_PAIRS]
 T['de'] += [(a, c) for a, b, c in WEBCAM_PAIRS]
+SKIPAGES_PAIRS = [('          <li><a href="skigebied-niederau-kaart/">Skigebied en pistekaart<small>Markbachjoch, Ski Juwel en waar je de kaart vindt</small></a></li>', '          <li><a href="ski-area-niederau-map/">Ski area and piste map<small>Markbachjoch, Ski Juwel and where to find the map</small></a></li>', '          <li><a href="skigebiet-niederau-karte/">Skigebiet und Pistenplan<small>Markbachjoch, Ski Juwel und wo du den Plan findest</small></a></li>'), ('          <li><a href="skiverhuur-niederau/">Skiverhuur<small>Verhuurders in Niederau, Oberau en Auffach</small></a></li>', '          <li><a href="ski-rental-niederau/">Ski rental<small>Rental shops in Niederau, Oberau and Auffach</small></a></li>', '          <li><a href="skiverleih-niederau/">Skiverleih<small>Verleihe in Niederau, Oberau und Auffach</small></a></li>')]
+T['en'] += [(a, b) for a, b, c in SKIPAGES_PAIRS]
+T['de'] += [(a, c) for a, b, c in SKIPAGES_PAIRS]
 ok = True
 for lang in ("en", "de"):
     html = src

@@ -2069,7 +2069,7 @@
 },
 "de/index.html": {
 "date": "2026-10-12",
-"hash": "ad74e5ff78294fb342ffbfffa5a4acd395d456ac"
+"hash": "89d6239b85f060a73081ce05f2a3850e91574343"
 },
 "de/markbachjoch/index.html": {
 "date": "2026-10-12",
@@ -2178,6 +2178,14 @@
 "de/region/zillertal/index.html": {
 "date": "2026-10-12",
 "hash": "96c3045479ffd4b69474502338e1fd5e9406c9df"
+},
+"de/skigebiet-niederau-karte/index.html": {
+"date": "2026-10-12",
+"hash": "655457a2459aef4d28b1241569bced2a2070812a"
+},
+"de/skiverleih-niederau/index.html": {
+"date": "2026-10-12",
+"hash": "6d729394d14c8366589609e9a5a5cbddc0042435"
 },
 "de/ueber-uns/index.html": {
 "date": "2026-10-12",
@@ -2557,7 +2565,7 @@
 },
 "de/webcam/index.html": {
 "date": "2026-10-12",
-"hash": "c9e5c5363ce1cbc981da7716f284807b6b25381e"
+"hash": "bfd22a3cd9ea68d2893a787c8c18fe75c9d7b2cc"
 },
 "en/about/index.html": {
 "date": "2026-10-12",
@@ -3689,7 +3697,7 @@
 },
 "en/index.html": {
 "date": "2026-10-12",
-"hash": "3314ffcf70cfe9bbbe484d63fe33a450960e36cc"
+"hash": "ce1ae64e593daa7a8fbb68f8f6ee8332fd8ffeab"
 },
 "en/markbachjoch/index.html": {
 "date": "2026-10-12",
@@ -4071,9 +4079,17 @@
 "date": "2026-10-12",
 "hash": "74b4fc422eebe03c83041f8283a81fb8bcac27a0"
 },
+"en/ski-area-niederau-map/index.html": {
+"date": "2026-10-12",
+"hash": "c57870f56ccda7528871eae39575e031f014614c"
+},
+"en/ski-rental-niederau/index.html": {
+"date": "2026-10-12",
+"hash": "14fae0532819c098c3b7bcd2b40951077bf91b1b"
+},
 "en/webcam/index.html": {
 "date": "2026-10-12",
-"hash": "251a498796f7591c3985898cfd9022cc0aa5c9fe"
+"hash": "0c1b5798b4f3d3ce7a4a6c9988d16ec816bda8d9"
 },
 "fotos/index.html": {
 "date": "2026-10-12",
@@ -4161,7 +4177,7 @@
 },
 "index.html": {
 "date": "2026-10-12",
-"hash": "f88ba6647997463f18218f1bc1a3e171705ac0cd"
+"hash": "a87405e2a025c0dbe650682c00fee9f4d3785c2d"
 },
 "markbachjoch/index.html": {
 "date": "2026-10-12",
@@ -4543,8 +4559,16 @@
 "date": "2026-10-12",
 "hash": "2f46999ce33ae69368ff842c889b1996d7012dfd"
 },
+"skigebied-niederau-kaart/index.html": {
+"date": "2026-10-12",
+"hash": "4f3836f00d2aa19154b1f7a73de30d4c8c8f699f"
+},
+"skiverhuur-niederau/index.html": {
+"date": "2026-10-12",
+"hash": "f0f06d98088d8faa37a6a459e087ce51f73ae6c0"
+},
 "webcam/index.html": {
 "date": "2026-10-12",
-"hash": "c5d1e43a9785c2e8c15ffb243fae100313a0b872"
+"hash": "12d66203381970bf375fba6ed5f97d606b8a7794"
 }
 }
