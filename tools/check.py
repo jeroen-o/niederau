@@ -43,6 +43,11 @@ for p in pages:
     ids = set(re.findall(r'\bid="([^"]+)"', h))
     for a in re.findall(r'href="#([^"]+)"', h):
         if a and a not in ids and a != "top": warns.append(f"{here}: anker #{a} bestaat niet")
+    # spelling: NL en DE schrijven "Tirol", alleen EN/FR/PL "Tyrol"
+    if not here.startswith(("/en/", "/fr/", "/pl/")):
+        _txt = re.sub(r"<(script|style)\b.*?</\1>", " ", h, flags=re.S)
+        _txt = re.sub(r"<[^>]+>", " ", _txt)
+        if "Tyrol" in _txt: warns.append(f"{here}: 'Tyrol' in NL/DE-tekst; schrijf 'Tirol'")
     # 3. canonical, titel, beschrijving, alt
     c = re.search(r'<link rel="canonical" href="([^"]+)"', h)
     if p.name == "index.html":
