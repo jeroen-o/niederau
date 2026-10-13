@@ -285,6 +285,19 @@
   {
    "type": "guide",
    "id": "skien-met-kinderen"
+  },
+  {
+   "type": "page",
+   "path": {
+    "nl": "wat-kost-een-skipas-niederau",
+    "en": "ski-pass-prices-niederau",
+    "de": "skipass-preise-niederau"
+   },
+   "label": {
+    "nl": "Wat kost een skipas in Niederau? Richtprijzen",
+    "en": "What does a ski pass cost in Niederau? Indicative prices",
+    "de": "Was kostet ein Skipass in Niederau? Richtpreise"
+   }
   }
  ]
 }
