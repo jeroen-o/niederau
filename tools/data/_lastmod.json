@@ -2267,6 +2267,10 @@
 "date": "2026-10-12",
 "hash": "3d8abd985f19a2616456fa56c483af560413910a"
 },
+"de/hotel-an-der-piste-wildschoenau/index.html": {
+"date": "2026-10-13",
+"hash": "d1d5b7f1451f1673c97c376f481ad0057035bbdb"
+},
 "de/impressum/index.html": {
 "date": "2026-10-12",
 "hash": "64f5af62567331b1a246539b2aaf297c52f1934f"
@@ -2384,8 +2388,12 @@
 "hash": "cf985e0217f7bc4130b1a1e91e9d5bd2a013e80c"
 },
 "de/skigebiet-niederau-karte/index.html": {
-"date": "2026-10-12",
-"hash": "b946f3204ef36b6b1b560b04a2e0078dbf5dd729"
+"date": "2026-10-13",
+"hash": "e6e05c09ed99f8dba9fe2b255a8ee7244006c826"
+},
+"de/skipass-preise-niederau/index.html": {
+"date": "2026-10-13",
+"hash": "8e2264fe10d3da717ef17da4da074fd376539073"
 },
 "de/skiverleih-niederau/index.html": {
 "date": "2026-10-12",
@@ -3999,6 +4007,10 @@
 "date": "2026-10-12",
 "hash": "ee9cbb3d938055065375b2f157481dc9420ada02"
 },
+"en/hotel-on-the-slopes-wildschonau/index.html": {
+"date": "2026-10-13",
+"hash": "1812e4d43874384c7f8d7b95f12e9c489cfe2c54"
+},
 "en/index.html": {
 "date": "2026-10-12",
 "hash": "b57bf25a4b3dc0f6fc7ee35a26fe6a3d509a7655"
@@ -4392,8 +4404,12 @@
 "hash": "329632ddad492bf16fcad7c7261bce142e7b0c42"
 },
 "en/ski-area-niederau-map/index.html": {
-"date": "2026-10-12",
-"hash": "f53ec572c027ac4f1a5e9932501c8ddb5fc24ce8"
+"date": "2026-10-13",
+"hash": "5138c25b31316af440052e52f6b0a2a1cbf8f49d"
+},
+"en/ski-pass-prices-niederau/index.html": {
+"date": "2026-10-13",
+"hash": "d2ff452d05baa668360aa48d0bd9cb127bb12e4d"
 },
 "en/ski-rental-niederau/index.html": {
 "date": "2026-10-12",
@@ -5639,6 +5655,10 @@
 "date": "2026-10-12",
 "hash": "54e0defa80ddb1d2fc750127e3dee9712497fca9"
 },
+"fr/hotel-on-the-slopes-wildschonau/index.html": {
+"date": "2026-10-13",
+"hash": "3d212b3025b14cf70b8e01d0ec09aae27de3f8f6"
+},
 "fr/index.html": {
 "date": "2026-10-12",
 "hash": "e70d1ac2742a0ad660dd758e11b939cbd8a5dfca"
@@ -5648,7 +5668,7 @@
 "hash": "fadccf9838ff4d2f83d894b3aa625c775385f9cd"
 },
 "fr/location-ski-niederau/index.html": {
-"date": "2026-10-12",
+"date": "2026-10-13",
 "hash": "f35c0710f70d9b8d75cc238b3e4c23f7614cfa5e"
 },
 "fr/markbachjoch/index.html": {
@@ -6008,8 +6028,8 @@
 "hash": "ea819e29e400c1788908e6092b81ca57cde3714f"
 },
 "fr/plan-des-pistes-niederau/index.html": {
-"date": "2026-10-12",
-"hash": "3a02c2e042f3765817ebd3b489a1de974aa0ebba"
+"date": "2026-10-13",
+"hash": "4544064468457a6ff6fd9b6f0ccd8408c7087064"
 },
 "fr/privacy-policy/index.html": {
 "date": "2026-10-12",
@@ -6039,8 +6059,12 @@
 "date": "2026-10-12",
 "hash": "b150248dbf66104b5ae58685369507276efc56ea"
 },
+"fr/ski-pass-prices-niederau/index.html": {
+"date": "2026-10-13",
+"hash": "85788e821eb068dc822e699022f9f765e98565fe"
+},
 "fr/webcam-niederau/index.html": {
-"date": "2026-10-12",
+"date": "2026-10-13",
 "hash": "576629ddf4452e3be4ee19c08b4eb8c3d5f9ffe5"
 },
 "gids/accommodatie-kiezen/index.html": {
@@ -6122,6 +6146,10 @@
 "gids/zwemmen-en-meren/index.html": {
 "date": "2026-10-12",
 "hash": "24821e983544cdb8080319e4e969b59baa4fe6bf"
+},
+"het-hotel-aan-de-piste-in-wildschonau/index.html": {
+"date": "2026-10-13",
+"hash": "b6293bf878d180616eaae367402191a5ac49a308"
 },
 "historische-fotos-niederau/index.html": {
 "date": "2026-10-12",
@@ -7715,12 +7743,16 @@
 "date": "2026-10-12",
 "hash": "ffa64feee1bd54687a5f72652f499e00cb48b6b0"
 },
+"pl/hotel-on-the-slopes-wildschonau/index.html": {
+"date": "2026-10-13",
+"hash": "efc75a31590a3e42c18600a4c6e1f3924916343d"
+},
 "pl/index.html": {
 "date": "2026-10-12",
 "hash": "1359c915a946d038bab76ddd89ed5b673eab594c"
 },
 "pl/kamery-niederau/index.html": {
-"date": "2026-10-12",
+"date": "2026-10-13",
 "hash": "806db757522f29aaa4f0ea239be828e97a2ba36b"
 },
 "pl/legal-notice/index.html": {
@@ -7728,8 +7760,8 @@
 "hash": "ab224011281539110e1bb800fd4bf59c8e929b9a"
 },
 "pl/mapa-tras-niederau/index.html": {
-"date": "2026-10-12",
-"hash": "3672c327a2da201dc4d20cf0c54eeb9a731c6c88"
+"date": "2026-10-13",
+"hash": "e321d70c91ee16757130cc56290cf85f842864c1"
 },
 "pl/markbachjoch/index.html": {
 "date": "2026-10-12",
@@ -8115,8 +8147,12 @@
 "date": "2026-10-12",
 "hash": "d3f995b1b31eeea74996c80ab6410ba625b2ce04"
 },
+"pl/ski-pass-prices-niederau/index.html": {
+"date": "2026-10-13",
+"hash": "e94d37ac1edbd385bf226e62923e50a95e1e696b"
+},
 "pl/wypozyczalnia-nart-niederau/index.html": {
-"date": "2026-10-12",
+"date": "2026-10-13",
 "hash": "b998336a980b0b02b15d3e6d86218d39cb673b56"
 },
 "privacyverklaring/index.html": {
@@ -8148,12 +8184,16 @@
 "hash": "538f0821bcc84623d02d982c99048aebe0cc5769"
 },
 "skigebied-niederau-kaart/index.html": {
-"date": "2026-10-12",
-"hash": "92a1c502d9e081253fa2e4182d56ca35b21df0cb"
+"date": "2026-10-13",
+"hash": "ee5f4662dcedfc856f55befee839d1de346c87e2"
 },
 "skiverhuur-niederau/index.html": {
 "date": "2026-10-12",
 "hash": "1368c595dda11e6e8a57af5f47b9c2faa64c6645"
+},
+"wat-kost-een-skipas-niederau/index.html": {
+"date": "2026-10-13",
+"hash": "1ac023a3dc82604c48b4164809622424d360d0e2"
 },
 "webcam/index.html": {
 "date": "2026-10-12",
