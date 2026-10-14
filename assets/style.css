@@ -60,7 +60,7 @@ p { margin: 0 0 1em; }
 .nav { margin-left: auto; display: flex; align-items: center; gap: 4px; }
 .nav a { text-decoration: none; color: var(--ink-soft); padding: 8px 7px; font-size: .88rem; white-space: nowrap; }
 .nav a:hover { color: var(--ink-strong); }
-.lang { display: flex; gap: 6px; margin-left: 10px; }
+.lang { display: flex; flex-wrap: wrap; gap: 6px; margin-left: 10px; }
 .lang a { padding: 3px 11px; border-radius: 999px; font-size: .7rem; font-weight: 600; text-decoration: none; color: var(--ink-soft); background: var(--card); }
 .lang a[aria-current="true"] { color: var(--accent); font-weight: 800; }
 .menu-btn { display: none; margin-left: auto; background: var(--card); border: 0; border-radius: 999px; padding: 6px 10px; color: var(--ink); font: inherit; cursor: pointer; }
@@ -236,7 +236,7 @@ details p { margin: 12px 0 0; color: var(--ink-soft); }
 /* ---------- Mobiel: grotere tikdoelen (min. 40–48 px) ---------- */
 @media (max-width: 1400px) {
   .lang { gap: 8px; }
-  .lang a { padding: 10px 16px; font-size: .8rem; }
+  .lang a { padding: 9px 12px; font-size: .8rem; }
   .season-toggle { padding: 10px 18px; font-size: .8rem; }
   .site-footer li { margin-bottom: 0; }
   .site-footer li a { display: inline-block; padding: 8px 0; }

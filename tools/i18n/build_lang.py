@@ -10,18 +10,34 @@ from units import extract, apply_unit, dump
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 D = ROOT / "tools" / "data" / "i18n"
-NEW = ("fr", "pl")
+NEW = ("fr", "pl", "es", "it", "sv", "no", "fi", "da")
 SITE = "https://niederau.nl"
-LOCALE = {"fr": "fr_FR", "pl": "pl_PL"}
-LABEL = {"nl": "NL", "en": "EN", "de": "DE", "fr": "FR", "pl": "PL"}
-ORDER = ("nl", "en", "de", "fr", "pl")
-OGLOC = {"nl": "nl_NL", "en": "en_GB", "de": "de_DE", "fr": "fr_FR", "pl": "pl_PL"}
+LOCALE = {"fr": "fr_FR", "pl": "pl_PL", "es": "es_ES", "it": "it_IT", "sv": "sv_SE", "no": "nb_NO", "fi": "fi_FI", "da": "da_DK"}
+LABEL = {"nl": "NL", "en": "EN", "de": "DE", "fr": "FR", "pl": "PL", "es": "ES", "it": "IT", "sv": "SV", "no": "NO", "fi": "FI", "da": "DA"}
+ORDER = ("nl", "en", "de", "fr", "pl", "es", "it", "sv", "no", "fi", "da")
+OGLOC = {"nl": "nl_NL", "en": "en_GB", "de": "de_DE", "fr": "fr_FR", "pl": "pl_PL", "es": "es_ES", "it": "it_IT", "sv": "sv_SE", "no": "nb_NO", "fi": "fi_FI", "da": "da_DK"}
 # Zoekvriendelijke slugs per taal voor de pagina's die op zoekopdrachten als "location de ski niederau" mikken
 SLUG = {
-    "fr": {"ski-rental-niederau": "location-ski-niederau", "ski-area-niederau-map": "plan-des-pistes-niederau", "webcam": "webcam-niederau"},
-    "pl": {"ski-rental-niederau": "wypozyczalnia-nart-niederau", "ski-area-niederau-map": "mapa-tras-niederau", "webcam": "kamery-niederau"},
+    "fr": {"ski-rental-niederau": "location-ski-niederau", "ski-area-niederau-map": "plan-des-pistes-niederau", "webcam": "webcam-niederau",
+           "hotel-on-the-slopes-wildschonau": "hotel-aux-pieds-des-pistes-wildschonau", "ski-pass-prices-niederau": "prix-forfait-ski-niederau"},
+    "pl": {"ski-rental-niederau": "wypozyczalnia-nart-niederau", "ski-area-niederau-map": "mapa-tras-niederau", "webcam": "kamery-niederau",
+           "hotel-on-the-slopes-wildschonau": "hotel-przy-stoku-wildschonau", "ski-pass-prices-niederau": "cennik-karnetow-niederau"},
+    "es": {"ski-rental-niederau": "alquiler-esqui-niederau", "ski-area-niederau-map": "mapa-pistas-niederau", "webcam": "webcam-niederau",
+           "hotel-on-the-slopes-wildschonau": "hotel-a-pie-de-pista-wildschonau", "ski-pass-prices-niederau": "precio-forfait-niederau"},
+    "it": {"ski-rental-niederau": "noleggio-sci-niederau", "ski-area-niederau-map": "mappa-piste-niederau", "webcam": "webcam-niederau",
+           "hotel-on-the-slopes-wildschonau": "hotel-sulle-piste-wildschonau", "ski-pass-prices-niederau": "prezzo-skipass-niederau"},
+    "sv": {"ski-rental-niederau": "skiduthyrning-niederau", "ski-area-niederau-map": "pistkarta-niederau", "webcam": "webbkamera-niederau",
+           "hotel-on-the-slopes-wildschonau": "hotell-vid-pisten-wildschonau", "ski-pass-prices-niederau": "skidpass-pris-niederau"},
+    "no": {"ski-rental-niederau": "skiutleie-niederau", "ski-area-niederau-map": "pistekart-niederau", "webcam": "webkamera-niederau",
+           "hotel-on-the-slopes-wildschonau": "hotell-ved-bakken-wildschonau", "ski-pass-prices-niederau": "skipass-pris-niederau"},
+    "fi": {"ski-rental-niederau": "hiihtovalineiden-vuokraus-niederau", "ski-area-niederau-map": "rinnekartta-niederau", "webcam": "verkkokamera-niederau",
+           "hotel-on-the-slopes-wildschonau": "hotelli-rinteen-vieressa-wildschonau", "ski-pass-prices-niederau": "hissilipun-hinta-niederau"},
+    "da": {"ski-rental-niederau": "skiudleje-niederau", "ski-area-niederau-map": "pistekort-niederau", "webcam": "webcam-niederau",
+           "hotel-on-the-slopes-wildschonau": "hotel-ved-pisten-wildschonau", "ski-pass-prices-niederau": "skipas-pris-niederau"},
 }
-PLACENAME = {"fr": "Niederau, Wildschönau, Tyrol, Autriche", "pl": "Niederau, Wildschönau, Tyrol, Austria"}
+PLACENAME = {"fr": "Niederau, Wildschönau, Tyrol, Autriche", "pl": "Niederau, Wildschönau, Tyrol, Austria", "es": "Niederau, Wildschönau, Tirol, Austria",
+             "it": "Niederau, Wildschönau, Tirolo, Austria", "sv": "Niederau, Wildschönau, Tyrolen, Österrike", "no": "Niederau, Wildschönau, Tirol, Østerrike",
+             "fi": "Niederau, Wildschönau, Tirol, Itävalta", "da": "Niederau, Wildschönau, Tyrol, Østrig"}
 
 def locpath(p, l):
     """/en/<segment>/... -> /<l>/<lokale slug>/..."""
@@ -137,9 +153,15 @@ def main():
             html = html.replace('content="en_GB"', f'content="{LOCALE[l]}"')
             html = re.sub(r'("inLanguage": ?)"en"', lambda m: m.group(1) + f'"{l}"', html)
             html = html.replace(f"{SITE}{p}", f"{SITE}{lp}")
-            if p == "/en/":  # relatieve links op de startpagina volgen de lokale slugs
-                for a, b in SLUG.get(l, {}).items():
-                    html = html.replace(f'href="{a}/', f'href="{b}/')
+            if p == "/en/":  # relatieve links op de startpagina: lokale pagina als die bestaat, anders de Engelse
+                def rel(m):
+                    ref = m.group(1)
+                    if re.match(r"(/|#|[a-z]+:|\.)", ref) or not ref: return m.group(0)
+                    path, sep, frag = ref.partition("#")
+                    q = "/en/" + path
+                    tgt = locpath(q, l) if q in soups[l] else q
+                    return f'href="{tgt}{sep}{frag}"'
+                html = re.sub(r'href="([^"]*)"', rel, html)
             html = trim_meta(html)
             if l in PLACENAME: html = html.replace('name="geo.placename" content="Niederau, Wildschönau, Tyrol, Austria"', f'name="geo.placename" content="{PLACENAME[l]}"')
             html = retarget(html, l)
@@ -178,7 +200,7 @@ def main():
     s = s.replace("".join(blocks), "".join(out))
     sm.write_text(s, encoding="utf-8")
     tot = len(en_pages)
-    print("i18n:", ", ".join(f"{l}: {n_new[l]}/{tot} pagina's" for l in NEW))
+    print("i18n:", ", ".join(f"{l}: {n_new[l]}/{tot}" for l in NEW))
 
 if __name__ == "__main__":
     main()

@@ -5,9 +5,15 @@ TXT = {
     "de": ("Die ganze Website durchsuchen", "Die ganze Website durchsuchen …", "Suchergebnisse"),
     "fr": ("Rechercher sur tout le site", "Rechercher sur tout le site…", "Résultats de recherche"),
     "pl": ("Szukaj na całej stronie", "Szukaj na całej stronie…", "Wyniki wyszukiwania"),
+    "es": ("Buscar en todo el sitio", "Buscar en todo el sitio…", "Resultados de búsqueda"),
+    "it": ("Cerca in tutto il sito", "Cerca in tutto il sito…", "Risultati della ricerca"),
+    "sv": ("Sök på hela webbplatsen", "Sök på hela webbplatsen…", "Sökresultat"),
+    "no": ("Søk på hele nettstedet", "Søk på hele nettstedet…", "Søkeresultater"),
+    "fi": ("Hae koko sivustolta", "Hae koko sivustolta…", "Hakutulokset"),
+    "da": ("Søg på hele webstedet", "Søg på hele webstedet…", "Søgeresultater"),
 }
 
-FILT = {"nl": "Filter op soort", "en": "Filter by type", "de": "Nach Art filtern", "fr": "Filtrer par type", "pl": "Filtruj według rodzaju"}
+FILT = {"nl": "Filter op soort", "en": "Filter by type", "de": "Nach Art filtern", "fr": "Filtrer par type", "pl": "Filtruj według rodzaju", "es": "Filtrar por tipo", "it": "Filtra per tipo", "sv": "Filtrera efter typ", "no": "Filtrer etter type", "fi": "Suodata tyypin mukaan", "da": "Filtrer efter type"}
 
 def bar(lang):
     lab, ph, res = TXT[lang]
@@ -19,7 +25,7 @@ def bar(lang):
 
 NOSCRIPT = ''  # zoekbalk is standaard verborgen en verschijnt via html.js (zie CSS)
 
-BTN_LABEL = {"nl": "Zoeken", "en": "Search", "de": "Suchen", "fr": "Rechercher", "pl": "Szukaj"}
+BTN_LABEL = {"nl": "Zoeken", "en": "Search", "de": "Suchen", "fr": "Rechercher", "pl": "Szukaj", "es": "Buscar", "it": "Cerca", "sv": "Sök", "no": "Søk", "fi": "Hae", "da": "Søg"}
 
 def btn(lang):
     return (f'<button class="search-btn" type="button" aria-label="{BTN_LABEL[lang]}" title="{BTN_LABEL[lang]}" aria-controls="q">'

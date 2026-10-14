@@ -44,7 +44,7 @@ for p in pages:
     for a in re.findall(r'href="#([^"]+)"', h):
         if a and a not in ids and a != "top": warns.append(f"{here}: anker #{a} bestaat niet")
     # spelling: NL en DE schrijven "Tirol", alleen EN/FR/PL "Tyrol"
-    if not here.startswith(("/en/", "/fr/", "/pl/")):
+    if not here.startswith(("/en/", "/fr/", "/pl/", "/es/", "/it/", "/sv/", "/no/", "/fi/", "/da/")):
         _txt = re.sub(r"<(script|style)\b.*?</\1>", " ", h, flags=re.S)
         _txt = re.sub(r"<[^>]+>", " ", _txt)
         if "Tyrol" in _txt: warns.append(f"{here}: 'Tyrol' in NL/DE-tekst; schrijf 'Tirol'")
@@ -55,7 +55,7 @@ for p in pages:
         elif c.group(1) != BASE + here: errors.append(f"{here}: canonical {c.group(1)} wijkt af")
     t = re.search(r"<title>(.*?)</title>", h, re.S)
     if not t or not t.group(1).strip(): errors.append(f"{here}: lege titel")
-    else: titles[(here.split('/')[1] if here.startswith(('/en/', '/de/', '/fr/', '/pl/')) else 'nl', t.group(1).strip())].append(here)
+    else: titles[(here.split('/')[1] if here.startswith(('/en/', '/de/', '/fr/', '/pl/', '/es/', '/it/', '/sv/', '/no/', '/fi/', '/da/')) else 'nl', t.group(1).strip())].append(here)
     if p.name == "index.html" and not re.search(r'<meta name="description" content="[^"]{20,}"', h): errors.append(f"{here}: beschrijving ontbreekt of te kort")
     for tag in re.findall(r"<img\b[^>]*>", h):
         if " alt=" not in tag: errors.append(f"{here}: img zonder alt: {tag[:80]}")
