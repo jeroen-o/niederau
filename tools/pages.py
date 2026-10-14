@@ -152,7 +152,7 @@ def gen_pool(season):
             if w < 700 or w > 2.2 * hh: continue
             pools["winter" if any(k in f for k in GEN_WINTER) else "summer"].append(f)
         _POOLS.update(pools)
-    return _POOLS[season]
+    return _POOLS["summer" if season == "both" else season]
 _DIMS = {}
 def img_dims(f):
     if f not in _DIMS:
@@ -162,6 +162,7 @@ def img_dims(f):
     return _DIMS[f]
 def gen_pick(key, season):
     """Rondloop over alle geschikte foto's, zodat zoveel mogelijk eigen foto's gebruikt worden; per pagina vast (alle talen gelijk)."""
+    season = "summer" if season == "both" else season
     k = (key, season)
     if k not in _PICKED:
         pool = gen_pool(season)

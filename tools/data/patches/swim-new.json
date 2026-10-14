@@ -1,0 +1,709 @@
+[
+ {
+  "id": "z1",
+  "new": true,
+  "theme": "zwemmen",
+  "season": "both",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kitzbuehel",
+  "slug_en": "aquarena-kitzbuehel-indoor-pool",
+  "slug_de": "aquarena-kitzbuehel-hallenbad",
+  "title": {
+   "nl": "Badezentrum Aquarena Kitzbühel",
+   "en": "Aquarena Spa and Indoor Pool Kitzbühel",
+   "de": "Badezentrum Aquarena Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Overdekt zwemmen en sauna, ook als het weer tegenvalt",
+   "en": "Indoor swimming and sauna for days when the weather lets you down",
+   "de": "Hallenbad und Sauna für Tage mit schlechtem Wetter"
+  },
+  "intro": {
+   "nl": "De Aquarena is het overdekte badcentrum van Kitzbühel, aan de rand van het centrum. Het bad heeft een sportbad van 25 meter, een apart peuterbad, glijbanen en een waterval. Daarnaast is er een saunagedeelte met onder meer een hammam en een stoombad.\n\nVoor een gezin uit Niederau is dit een goed alternatief op een regendag, of na een dag skiën wanneer je de benen wilt laten uitrusten. Combineer het bezoek met een wandeling door de oude binnenstad van Kitzbühel, die op loopafstand ligt. De openingstijden verschillen per bron en per seizoen, dus controleer die voor vertrek.",
+   "en": "The Aquarena is Kitzbühel's covered swimming and spa centre, on the edge of the town centre. It has a 25-metre sports pool, a separate toddler pool, slides and a waterfall. A sauna area adds, among other things, a hammam and a steam bath.\n\nFor a family staying in Niederau it is a sensible fallback on a rainy day, or after a day on skis when tired legs want a rest. You can combine the visit with a stroll through the old town of Kitzbühel, which is within walking distance. Opening hours differ between sources and seasons, so check them before you set off.",
+   "de": "Die Aquarena ist das Hallenbad- und Wellnesszentrum von Kitzbühel, am Rand des Ortskerns. Es gibt ein 25-Meter-Sportbecken, ein eigenes Kleinkinderbecken, Rutschen und einen Wasserfall. Im Saunabereich finden sich unter anderem ein Hammam und ein Dampfbad.\n\nFür Familien aus Niederau ist das eine gute Option an Regentagen oder nach einem Skitag, wenn die Beine Erholung brauchen. Der Besuch lässt sich mit einem Spaziergang durch die Kitzbüheler Altstadt verbinden, die zu Fuß erreichbar ist. Die Öffnungszeiten weichen je nach Quelle und Saison ab, bitte vorab prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Neem zwemkleding en een slot voor de kluisjes mee.",
+    "Combineer met een bezoek aan de binnenstad van Kitzbühel.",
+    "Controleer de actuele openingstijden op de officiële pagina."
+   ],
+   "en": [
+    "Bring swimwear and a lock for the lockers.",
+    "Combine the visit with Kitzbühel's town centre.",
+    "Check current opening hours on the official page."
+   ],
+   "de": [
+    "Badesachen und ein Schloss für die Spinde mitbringen.",
+    "Den Besuch mit dem Kitzbüheler Ortskern verbinden.",
+    "Aktuelle Öffnungszeiten auf der offiziellen Seite prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 35 minuten rijden vanaf Niederau, via Hopfgarten en Kirchberg naar Kitzbühel.",
+   "en": "About 35 minutes by car from Niederau, via Hopfgarten and Kirchberg to Kitzbühel.",
+   "de": "Ca. 35 Minuten Fahrt ab Niederau, über Hopfgarten und Kirchberg nach Kitzbühel."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Informeer vooraf naar toegangsprijzen",
+    "en": "Check admission prices in advance",
+    "de": "Eintrittspreise bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 35 min rijden",
+    "en": "Approx. 35 min drive",
+    "de": "Ca. 35 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Het hele jaar",
+    "en": "Year-round",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "Kitzbühel, Klostergasse",
+   "en": "Kitzbühel, Klostergasse",
+   "de": "Kitzbühel, Klostergasse"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/bri/infra/a-z/badezentrum-aquarena.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is de Aquarena overdekt?",
+     "en": "Is the Aquarena indoors?",
+     "de": "Ist die Aquarena ein Hallenbad?"
+    },
+    "a": {
+     "nl": "Ja, het is een overdekt bad met sauna.",
+     "en": "Yes, it is an indoor pool with a sauna area.",
+     "de": "Ja, es ist ein Hallenbad mit Saunabereich."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er een peuterbad?",
+     "en": "Is there a toddler pool?",
+     "de": "Gibt es ein Kleinkinderbecken?"
+    },
+    "a": {
+     "nl": "Ja, er is een apart peuterbad.",
+     "en": "Yes, there is a separate toddler pool.",
+     "de": "Ja, es gibt ein eigenes Kleinkinderbecken."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "z2",
+  "new": true,
+  "theme": "zwemmen",
+  "season": "both",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "panorama-badewelt-st-johann",
+  "slug_de": "panorama-badewelt-st-johann",
+  "title": {
+   "nl": "Panorama Badewelt St. Johann in Tirol",
+   "en": "Panorama Badewelt St. Johann in Tirol",
+   "de": "Panorama Badewelt St. Johann in Tirol"
+  },
+  "tagline": {
+   "nl": "Binnen- en buitenbad met glijbanen en saunawereld",
+   "en": "Indoor and outdoor pools with slides and a sauna world",
+   "de": "Hallen- und Freibad mit Rutschen und Saunawelt"
+  },
+  "intro": {
+   "nl": "De Panorama Badewelt in St. Johann in Tirol combineert een binnenbad, een buitenbad in de zomer en een aparte saunawereld. Binnen zijn een sportbad van 25 meter en een kinder- en gezinsgedeelte met glijbanen te vinden. Buiten zijn er in het zomerseizoen meerdere bassins, waaronder een sportbad.\n\nDe bronnen verschillen over details zoals lengtes van baden en glijbanen, daarom noemen we hier alleen de hoofdlijnen. Met de gastenkaart van St. Johann is er korting. Vanuit Niederau is het een flinke rit, maar op een natte dag is het een van de grotere zwemuitjes in de buurt, en je kunt er een halve dag doorbrengen.",
+   "en": "The Panorama Badewelt in St. Johann in Tirol combines an indoor pool, an outdoor pool in summer and a separate sauna world. Indoors you will find a 25-metre sports pool and a children's and family area with slides. Outdoors there are several basins during the summer season, including a sports pool.\n\nSources differ on details such as the lengths of pools and slides, so we stick to the broad picture here. A guest card from St. Johann gives a discount. From Niederau it is a fair drive, but on a wet day it is one of the larger swimming outings nearby and easily fills half a day.",
+   "de": "Die Panorama Badewelt in St. Johann in Tirol vereint ein Hallenbad, im Sommer ein Freibad und eine eigene Saunawelt. Drinnen gibt es ein 25-Meter-Sportbecken sowie einen Kinder- und Familienbereich mit Rutschen. Draußen stehen in der Sommersaison mehrere Becken bereit, darunter ein Sportbecken.\n\nDie Quellen weichen bei Details wie Becken- und Rutschenlängen voneinander ab, deshalb bleiben wir hier bei den Eckdaten. Mit der Gästekarte von St. Johann gibt es Ermäßigung. Ab Niederau ist es eine ordentliche Fahrt, doch an Regentagen zählt es zu den größeren Bade-Ausflügen der Gegend und füllt leicht einen halben Tag."
+  },
+  "tips": {
+   "nl": [
+    "Kies een regendag voor een bezoek.",
+    "Vraag naar korting met de gastenkaart.",
+    "Reken op een halve dag als je ook de sauna wilt gebruiken."
+   ],
+   "en": [
+    "Pick a rainy day for a visit.",
+    "Ask about the discount with the guest card.",
+    "Allow half a day if you also want the sauna."
+   ],
+   "de": [
+    "Einen Regentag für den Besuch wählen.",
+    "Nach der Ermäßigung mit der Gästekarte fragen.",
+    "Einen halben Tag einplanen, wenn Sie auch die Sauna nutzen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 45 minuten rijden vanaf Niederau, via Kirchberg en Kitzbühel naar St. Johann.",
+   "en": "About 45 minutes by car from Niederau, via Kirchberg and Kitzbühel to St. Johann.",
+   "de": "Ca. 45 Minuten Fahrt ab Niederau, über Kirchberg und Kitzbühel nach St. Johann."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Informeer vooraf naar toegangsprijzen",
+    "en": "Check admission prices in advance",
+    "de": "Eintrittspreise bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 45 min rijden",
+    "en": "Approx. 45 min drive",
+    "de": "Ca. 45 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Het hele jaar",
+    "en": "Year-round",
+    "de": "Ganzjährig"
+   }
+  },
+  "location": {
+   "nl": "St. Johann in Tirol",
+   "en": "St. Johann in Tirol",
+   "de": "St. Johann in Tirol"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/stjo/infra/a-z/panorama-badewelt.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er ook een buitenbad?",
+     "en": "Is there an outdoor pool too?",
+     "de": "Gibt es auch ein Freibad?"
+    },
+    "a": {
+     "nl": "Ja, in de zomer is het buitenbad geopend.",
+     "en": "Yes, the outdoor pool opens in summer.",
+     "de": "Ja, im Sommer ist das Freibad geöffnet."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is er een sauna?",
+     "en": "Is there a sauna?",
+     "de": "Gibt es eine Sauna?"
+    },
+    "a": {
+     "nl": "Ja, er is een aparte saunawereld.",
+     "en": "Yes, there is a separate sauna world.",
+     "de": "Ja, es gibt eine eigene Saunawelt."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "z3",
+  "new": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "kirchberg-in-tirol",
+  "slug_en": "bathing-lake-kirchberg",
+  "slug_de": "badesee-kirchberg",
+  "title": {
+   "nl": "Badesee Kirchberg",
+   "en": "Kirchberg Bathing Lake",
+   "de": "Badesee Kirchberg"
+  },
+  "tagline": {
+   "nl": "Zwemmeer met springtoren en glijbanen vlak bij het dorp",
+   "en": "Bathing lake with a jump tower and slides near the village",
+   "de": "Badesee mit Sprungturm und Rutschen nahe dem Ort"
+  },
+  "intro": {
+   "nl": "Het Badesee Kirchberg ligt op ongeveer vijf minuten lopen van het dorp. Het meer is circa 13.000 vierkante meter groot en heeft een springtoren, een golfglijbaan van ongeveer 25 meter breed en een waterglijbaan van circa 50 meter. Parkeren bij het meer is gratis.\n\nHet seizoen loopt ruwweg van mei tot september en kan door het weer korter of langer uitvallen. Voor gezinnen met kinderen die graag springen en glijden is dit een van de leukere keuzes in het Brixental. Kijk voor het seizoen en de waterkwaliteit vooraf op de pagina van de toeristische organisatie.",
+   "en": "The Kirchberg bathing lake is about a five-minute walk from the village. The lake covers roughly 13,000 square metres and has a jump tower, a wave slide around 25 metres wide and a water slide of about 50 metres. Parking at the lake is free.\n\nThe season runs roughly from May to September and can be shorter or longer depending on the weather. For families with children who like to jump and slide, it is one of the more fun choices in the Brixental. Check the season and water quality on the tourist board page beforehand.",
+   "de": "Der Badesee Kirchberg liegt etwa fünf Gehminuten vom Ortskern entfernt. Der See misst rund 13.000 Quadratmeter und bietet einen Sprungturm, eine etwa 25 Meter breite Wellenrutsche und eine Wasserrutsche von circa 50 Metern. Das Parken am See ist kostenlos.\n\nDie Saison reicht grob von Mai bis September und kann je nach Wetter kürzer oder länger ausfallen. Für Familien mit Kindern, die gern springen und rutschen, ist er eine der unterhaltsameren Adressen im Brixental. Saison und Wasserqualität bitte vorab beim Tourismusverband prüfen."
+  },
+  "tips": {
+   "nl": [
+    "Neem badschoenen mee; de oever kan stenig zijn.",
+    "Combineer met een bezoek aan het dorp.",
+    "Check seizoen en weer voor vertrek."
+   ],
+   "en": [
+    "Bring water shoes; the shore may be stony.",
+    "Combine with a visit to the village.",
+    "Check season and weather before you leave."
+   ],
+   "de": [
+    "Badeschuhe mitnehmen; das Ufer kann steinig sein.",
+    "Mit einem Ortsbesuch verbinden.",
+    "Saison und Wetter vor der Abfahrt prüfen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 25 minuten rijden vanaf Niederau, via Hopfgarten naar Kirchberg.",
+   "en": "About 25 minutes by car from Niederau, via Hopfgarten to Kirchberg.",
+   "de": "Ca. 25 Minuten Fahrt ab Niederau, über Hopfgarten nach Kirchberg."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Informeer vooraf naar toegangsprijzen",
+    "en": "Check admission prices in advance",
+    "de": "Eintrittspreise bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min drive",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kirchberg in Tirol",
+   "en": "Kirchberg in Tirol",
+   "de": "Kirchberg in Tirol"
+  },
+  "url": "https://www.tirol.tl/de/freizeit-aktiv/thermen-wasserwelten/badesee-kirchberg/",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is parkeren gratis?",
+     "en": "Is parking free?",
+     "de": "Ist das Parken kostenlos?"
+    },
+    "a": {
+     "nl": "Volgens de bronnen wel.",
+     "en": "According to the sources, yes.",
+     "de": "Laut den Quellen ja."
+    }
+   },
+   {
+    "q": {
+     "nl": "Wanneer is het meer open?",
+     "en": "When is the lake open?",
+     "de": "Wann ist der See geöffnet?"
+    },
+    "a": {
+     "nl": "Ruwweg mei tot september, afhankelijk van het weer.",
+     "en": "Roughly May to September, depending on the weather.",
+     "de": "Grob Mai bis September, wetterabhängig."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "z4",
+  "new": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "itter",
+  "slug_en": "outdoor-pool-itter",
+  "slug_de": "freibad-itter",
+  "title": {
+   "nl": "Freibad Itter",
+   "en": "Itter Outdoor Pool",
+   "de": "Freibad Itter"
+  },
+  "tagline": {
+   "nl": "Rustig dorpsbad met kinderbad en glijbaan",
+   "en": "Quiet village pool with a children's pool and slide",
+   "de": "Ruhiges Dorfbad mit Kinderbecken und Rutsche"
+  },
+  "intro": {
+   "nl": "Het Freibad Itter is een klein, rustig openluchtbad in het dorp Itter, tussen Hopfgarten en Söll. Naast het zwembad is er een apart kinderbad met glijbaan. Het is geen groot waterpark, maar juist daardoor een prettige plek voor een rustige zwemmiddag met jonge kinderen.\n\nVolgens de toeristische organisatie van de regio Hohe Salve kunnen gasten met de gastenkaart in de zomer vaak gratis of met korting naar binnen; vraag daar bij je verblijf naar. Het bad is alleen in de zomer open, en de precieze data hangen van het weer af.",
+   "en": "The Itter outdoor pool is a small, quiet open-air pool in the village of Itter, between Hopfgarten and Söll. Besides the swimming pool there is a separate children's pool with a slide. It is not a big water park, which is exactly why it suits a calm afternoon with young children.\n\nAccording to the Hohe Salve tourist board, guests with the guest card can often enter free of charge or at a reduction in summer; ask at your accommodation. The pool is open in summer only, and exact dates depend on the weather.",
+   "de": "Das Freibad Itter ist ein kleines, ruhiges Freibad im Ort Itter, zwischen Hopfgarten und Söll. Neben dem Schwimmbecken gibt es ein eigenes Kinderbecken mit Rutsche. Ein großer Wasserpark ist es nicht, gerade deshalb eignet es sich für einen entspannten Nachmittag mit kleinen Kindern.\n\nLaut Tourismusverband Hohe Salve kommen Gäste mit Gästekarte im Sommer oft kostenlos oder ermäßigt hinein; fragen Sie bei Ihrer Unterkunft nach. Das Bad ist nur im Sommer geöffnet, die genauen Termine hängen vom Wetter ab."
+  },
+  "tips": {
+   "nl": [
+    "Vraag bij je verblijf naar de gastenkaart.",
+    "Ideaal voor jonge kinderen.",
+    "Controleer vooraf of het bad open is."
+   ],
+   "en": [
+    "Ask at your accommodation about the guest card.",
+    "Well suited to young children.",
+    "Check beforehand that the pool is open."
+   ],
+   "de": [
+    "Bei der Unterkunft nach der Gästekarte fragen.",
+    "Gut für kleine Kinder geeignet.",
+    "Vorab prüfen, ob das Bad geöffnet ist."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 25 minuten rijden vanaf Niederau, richting Itter in het Brixental.",
+   "en": "About 25 minutes by car from Niederau, towards Itter in the Brixental.",
+   "de": "Ca. 25 Minuten Fahrt ab Niederau, Richtung Itter im Brixental."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Informeer vooraf naar toegangsprijzen",
+    "en": "Check admission prices in advance",
+    "de": "Eintrittspreise bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min drive",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Itter, Brixental",
+   "en": "Itter, Brixental",
+   "de": "Itter, Brixental"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/hosa/so/baden/urlaub.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een kinderbad?",
+     "en": "Is there a children's pool?",
+     "de": "Gibt es ein Kinderbecken?"
+    },
+    "a": {
+     "nl": "Ja, met een glijbaan.",
+     "en": "Yes, with a slide.",
+     "de": "Ja, mit Rutsche."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is het bad het hele jaar open?",
+     "en": "Is the pool open all year?",
+     "de": "Ist das Bad ganzjährig geöffnet?"
+    },
+    "a": {
+     "nl": "Nee, alleen in de zomer.",
+     "en": "No, in summer only.",
+     "de": "Nein, nur im Sommer."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "z5",
+  "new": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "moor-beach-pool-kirchbichl",
+  "slug_de": "moorstrandbad-kirchbichl",
+  "title": {
+   "nl": "Moorstrandbad Kirchbichl",
+   "en": "Moorstrandbad Kirchbichl (Moor Lake Beach)",
+   "de": "Moorstrandbad Kirchbichl"
+  },
+  "tagline": {
+   "nl": "Een van de oudste zwemplekken van Tirol, aan een veenmeer",
+   "en": "One of Tirol's oldest bathing spots, on a moor lake",
+   "de": "Eines der ältesten Bäder Tirols, an einem Moorsee"
+  },
+  "intro": {
+   "nl": "Het Moorstrandbad in Kirchbichl is een zwemmeer met veenwater en geldt volgens toeristische bronnen als een van de oudste openluchtbaden van Tirol; de zwemlocatie bestaat sinds 1933/34. Het officiële zwemwaterprofiel geeft een oppervlakte van circa 1,1 hectare en een diepte van maximaal ongeveer 3,7 meter.\n\nRond het meer liggen speelvelden, een beachvolleybalveld en een speeltuin, en er is een afgeschermd gedeelte voor niet-zwemmers. De kleedhokjes en het restaurant zijn in 2022/23 vernieuwd. Honden zijn niet toegestaan. Vanuit Niederau ligt het dicht bij Wörgl, dus het is goed te combineren met een ander uitstapje in het Inntal.",
+   "en": "The Moorstrandbad in Kirchbichl is a swimming lake with moor water and, according to tourist sources, one of the oldest open-air baths in Tirol; the bathing site has existed since 1933/34. The official bathing-water profile gives an area of about 1.1 hectares and a maximum depth of roughly 3.7 metres.\n\nAround the lake there are playing fields, a beach volleyball court and a playground, plus a fenced area for non-swimmers. The changing cabins and restaurant were renovated in 2022/23. Dogs are not allowed. From Niederau it lies close to Wörgl, so it combines easily with another outing in the Inn valley.",
+   "de": "Das Moorstrandbad in Kirchbichl ist ein Badesee mit Moorwasser und gilt laut Tourismusquellen als eines der ältesten Freibäder Tirols; die Badestelle besteht seit 1933/34. Das offizielle Badegewässerprofil nennt eine Fläche von rund 1,1 Hektar und eine maximale Tiefe von etwa 3,7 Metern.\n\nRund um den See gibt es Spielfelder, einen Beachvolleyballplatz und einen Spielplatz sowie einen abgetrennten Bereich für Nichtschwimmer. Umkleiden und Restaurant wurden 2022/23 erneuert. Hunde sind nicht erlaubt. Ab Niederau liegt es nahe Wörgl und lässt sich gut mit einem weiteren Ausflug im Inntal verbinden."
+  },
+  "tips": {
+   "nl": [
+    "Honden mogen niet mee naar het water.",
+    "Neem zonnebrand mee; er is weinig schaduw te verwachten.",
+    "Combineer met een bezoek aan Wörgl."
+   ],
+   "en": [
+    "Dogs are not allowed at the water.",
+    "Bring sun protection.",
+    "Combine with a visit to Wörgl."
+   ],
+   "de": [
+    "Hunde sind am Badegewässer nicht erlaubt.",
+    "Sonnenschutz mitnehmen.",
+    "Mit einem Besuch in Wörgl verbinden."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 25 minuten rijden vanaf Niederau, via Wörgl naar Kirchbichl.",
+   "en": "About 25 minutes by car from Niederau, via Wörgl to Kirchbichl.",
+   "de": "Ca. 25 Minuten Fahrt ab Niederau, über Wörgl nach Kirchbichl."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Informeer vooraf naar toegangsprijzen",
+    "en": "Check admission prices in advance",
+    "de": "Eintrittspreise bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 25 min rijden",
+    "en": "Approx. 25 min drive",
+    "de": "Ca. 25 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Kirchbichl, Inntal",
+   "en": "Kirchbichl, Inn valley",
+   "de": "Kirchbichl, Inntal"
+  },
+  "url": "https://www.tirol.at/aktivitaeten/ausflugsziele/pois/badesee-moorstrandbad",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is het water veenwater?",
+     "en": "Is it moor water?",
+     "de": "Ist es Moorwasser?"
+    },
+    "a": {
+     "nl": "Ja, het is een veenmeer.",
+     "en": "Yes, it is a moor lake.",
+     "de": "Ja, es ist ein Moorsee."
+    }
+   },
+   {
+    "q": {
+     "nl": "Mogen honden mee?",
+     "en": "Are dogs allowed?",
+     "de": "Sind Hunde erlaubt?"
+    },
+    "a": {
+     "nl": "Nee, niet bij het zwemwater.",
+     "en": "No, not at the bathing water.",
+     "de": "Nein, nicht am Badegewässer."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "z6",
+  "new": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "lauchsee-fieberbrunn",
+  "slug_de": "lauchsee-fieberbrunn",
+  "title": {
+   "nl": "Lauchsee bij Fieberbrunn",
+   "en": "Lauchsee near Fieberbrunn",
+   "de": "Lauchsee bei Fieberbrunn"
+  },
+  "tagline": {
+   "nl": "Ondiep veenmeer dat snel opwarmt",
+   "en": "Shallow moor lake that warms up quickly",
+   "de": "Flacher Moorsee, der sich schnell erwärmt"
+  },
+  "intro": {
+   "nl": "De Lauchsee bij Fieberbrunn in het Pillerseetal is een veenmeer. Het meer is slechts ongeveer vier meter diep en warmt daardoor snel op; het geldt als de warmste zwemplek van het dal. Toeristische bronnen noemen watertemperaturen van rond 22 tot 24 graden op zomerse dagen, maar die schommelen per jaar.\n\nBij het meer zijn gratis parkeerplaatsen, een terras met eten en drinken en de mogelijkheid tot suppen. Toegang is opgenomen in de gastenkaart van het Pillerseetal. Honden zijn niet toegestaan in de openbare baden. Vanuit Niederau is het een rit van ruim een uur heen, dus plan er een dagje van.",
+   "en": "The Lauchsee near Fieberbrunn in the Pillerseetal is a moor lake. It is only about four metres deep and therefore warms up quickly; it is regarded as the warmest bathing spot of the valley. Tourist sources mention water temperatures of around 22 to 24 degrees on summer days, but these vary by year.\n\nAt the lake there is free parking, a terrace serving food and drinks, and the option to stand-up paddle. Entry is included in the Pillerseetal guest card. Dogs are not allowed in the public baths. From Niederau it is a drive of a little under an hour, so plan it as a day out.",
+   "de": "Der Lauchsee bei Fieberbrunn im Pillerseetal ist ein Moorsee. Er ist nur etwa vier Meter tief und erwärmt sich daher schnell; er gilt als der wärmste Badeplatz des Tals. Tourismusquellen nennen an Sommertagen Wassertemperaturen von rund 22 bis 24 Grad, die jedoch je nach Jahr schwanken.\n\nAm See gibt es kostenlose Parkplätze, eine Terrasse mit Gastronomie und die Möglichkeit zum Stand-up-Paddling. Der Eintritt ist in der Gästekarte des Pillerseetals enthalten. Hunde sind in den öffentlichen Bädern nicht erlaubt. Ab Niederau dauert die Fahrt knapp eine Stunde, planen Sie also einen Tagesausflug ein."
+  },
+  "tips": {
+   "nl": [
+    "Neem een suppboard of huur er een.",
+    "Parkeren is bij het meer.",
+    "Combineer met het Pillersee."
+   ],
+   "en": [
+    "Bring or rent a stand-up paddle board.",
+    "Parking is at the lake.",
+    "Combine with the Pillersee."
+   ],
+   "de": [
+    "Ein SUP-Board mitbringen oder mieten.",
+    "Parken ist am See möglich.",
+    "Mit dem Pillersee kombinieren."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 55 minuten rijden vanaf Niederau, via Kitzbühel en St. Johann naar Fieberbrunn.",
+   "en": "About 55 minutes by car from Niederau, via Kitzbühel and St. Johann to Fieberbrunn.",
+   "de": "Ca. 55 Minuten Fahrt ab Niederau, über Kitzbühel und St. Johann nach Fieberbrunn."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Informeer vooraf naar toegangsprijzen",
+    "en": "Check admission prices in advance",
+    "de": "Eintrittspreise bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 55 min rijden",
+    "en": "Approx. 55 min drive",
+    "de": "Ca. 55 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Fieberbrunn, Pillerseetal",
+   "en": "Fieberbrunn, Pillerseetal",
+   "de": "Fieberbrunn, Pillerseetal"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/pital/so/baden/lauchsee.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe diep is het meer?",
+     "en": "How deep is the lake?",
+     "de": "Wie tief ist der See?"
+    },
+    "a": {
+     "nl": "Ongeveer vier meter.",
+     "en": "About four metres.",
+     "de": "Etwa vier Meter."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is de toegang inbegrepen in de gastenkaart?",
+     "en": "Is entry included in the guest card?",
+     "de": "Ist der Eintritt in der Gästekarte enthalten?"
+    },
+    "a": {
+     "nl": "Volgens de toeristische bron wel; controleer dit vooraf.",
+     "en": "According to the tourist source yes; check beforehand.",
+     "de": "Laut Tourismusquelle ja; bitte vorab prüfen."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ },
+ {
+  "id": "z7",
+  "new": true,
+  "theme": "zwemmen",
+  "season": "summer",
+  "drop": false,
+  "drop_reason": "",
+  "place": "",
+  "slug_en": "bathing-lake-waidring",
+  "slug_de": "badesee-waidring",
+  "title": {
+   "nl": "Badesee en Freibad Waidring",
+   "en": "Waidring Bathing Lake and Outdoor Pool",
+   "de": "Badesee und Freibad Waidring"
+  },
+  "tagline": {
+   "nl": "Zwemmeer met openluchtbad aan de voet van de Steinplatte",
+   "en": "Bathing lake with an outdoor pool below the Steinplatte",
+   "de": "Badesee mit Freibad am Fuß der Steinplatte"
+  },
+  "intro": {
+   "nl": "Waidring ligt aan de voet van de Steinplatte, in het noorden van de Kitzbüheler Alpen. Volgens de toeristische organisatie is daar een zwemmeer te vinden dat gecombineerd is met een openluchtzwembad. Dat maakt de plek handig voor gezelschappen die verschillend over water denken: wie liever in een bad zwemt, heeft die keuze naast het meer.\n\nDe bronnen geven alleen globale details, daarom raden we aan vooraf de pagina van de toeristische organisatie te raadplegen voor actuele informatie. Vanuit Niederau is het een flinke rit, dus plan een dagje uit en combineer het met een wandeling of een bezoek aan het Pillerseetal.",
+   "en": "Waidring lies at the foot of the Steinplatte, in the north of the Kitzbühel Alps. According to the tourist board, there is a bathing lake combined with an outdoor swimming pool. That makes it practical for groups with different ideas about water: anyone who prefers a pool has that option next to the lake.\n\nThe sources give only broad details, so we advise consulting the tourist board page beforehand for current information. From Niederau it is a long drive, so plan a day out and combine it with a walk or a visit to the Pillerseetal.",
+   "de": "Waidring liegt am Fuß der Steinplatte, im Norden der Kitzbüheler Alpen. Laut Tourismusverband gibt es dort einen Badesee, der mit einem Freibad kombiniert ist. Das ist praktisch für Gruppen mit unterschiedlichen Vorlieben: Wer lieber im Becken schwimmt, hat diese Möglichkeit neben dem See.\n\nDie Quellen nennen nur grobe Angaben, daher empfehlen wir, vorab die Seite des Tourismusverbands für aktuelle Informationen zu prüfen. Ab Niederau ist es eine längere Fahrt, planen Sie also einen Tagesausflug und verbinden Sie ihn mit einer Wanderung oder einem Besuch im Pillerseetal."
+  },
+  "tips": {
+   "nl": [
+    "Check de actuele informatie vooraf.",
+    "Combineer met een wandeling bij de Steinplatte.",
+    "Plan er een volledige dag voor."
+   ],
+   "en": [
+    "Check current information beforehand.",
+    "Combine with a walk near the Steinplatte.",
+    "Plan a full day."
+   ],
+   "de": [
+    "Aktuelle Informationen vorab prüfen.",
+    "Mit einer Wanderung an der Steinplatte kombinieren.",
+    "Einen ganzen Tag einplanen."
+   ]
+  },
+  "practical": {
+   "nl": "Ca. 60 minuten rijden vanaf Niederau, via Kitzbühel en St. Johann naar Waidring.",
+   "en": "About 60 minutes by car from Niederau, via Kitzbühel and St. Johann to Waidring.",
+   "de": "Ca. 60 Minuten Fahrt ab Niederau, über Kitzbühel und St. Johann nach Waidring."
+  },
+  "facts": {
+   "age": {},
+   "duration": {},
+   "price": {
+    "nl": "Informeer vooraf naar toegangsprijzen",
+    "en": "Check admission prices in advance",
+    "de": "Eintrittspreise bitte vorab erfragen"
+   },
+   "distance": {
+    "nl": "Ca. 60 min rijden",
+    "en": "Approx. 60 min drive",
+    "de": "Ca. 60 Min. Fahrt"
+   },
+   "season": {
+    "nl": "Zomer",
+    "en": "Summer",
+    "de": "Sommer"
+   }
+  },
+  "location": {
+   "nl": "Waidring",
+   "en": "Waidring",
+   "de": "Waidring"
+  },
+  "url": "https://www.kitzbueheler-alpen.com/de/waidring/sommer/baden.html",
+  "faq": [
+   {
+    "q": {
+     "nl": "Is er een openluchtbad?",
+     "en": "Is there an outdoor pool?",
+     "de": "Gibt es ein Freibad?"
+    },
+    "a": {
+     "nl": "Ja, naast het zwemmeer.",
+     "en": "Yes, next to the lake.",
+     "de": "Ja, neben dem See."
+    }
+   },
+   {
+    "q": {
+     "nl": "Waar ligt Waidring?",
+     "en": "Where is Waidring?",
+     "de": "Wo liegt Waidring?"
+    },
+    "a": {
+     "nl": "Aan de voet van de Steinplatte.",
+     "en": "At the foot of the Steinplatte.",
+     "de": "Am Fuß der Steinplatte."
+    }
+   }
+  ],
+  "verified": true,
+  "checked": "2026-10"
+ }
+]
