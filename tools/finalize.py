@@ -17,12 +17,21 @@ MONTHS = {
     "en": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
     "de": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
     "fr": ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"],
+    "es": ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"],
+    "it": ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"],
+    "sv": ["januari", "februari", "mars", "april", "maj", "juni", "juli", "augusti", "september", "oktober", "november", "december"],
+    "no": ["januar", "februar", "mars", "april", "mai", "juni", "juli", "august", "september", "oktober", "november", "desember"],
+    "fi": ["tammikuuta", "helmikuuta", "maaliskuuta", "huhtikuuta", "toukokuuta", "kesäkuuta", "heinäkuuta", "elokuuta", "syyskuuta", "lokakuuta", "marraskuuta", "joulukuuta"],
+    "da": ["januar", "februar", "marts", "april", "maj", "juni", "juli", "august", "september", "oktober", "november", "december"],
     "pl": ["stycznia", "lutego", "marca", "kwietnia", "maja", "czerwca", "lipca", "sierpnia", "września", "października", "listopada", "grudnia"],
 }
 
 def human(d, lang):
     if lang == "en": return f"{d.day} {MONTHS['en'][d.month - 1]} {d.year}"
     if lang == "fr": return f"{d.day if d.day > 1 else '1er'} {MONTHS['fr'][d.month - 1]} {d.year}"
+    if lang == "es": return f"{d.day} de {MONTHS['es'][d.month - 1]} de {d.year}"
+    if lang in ("it", "sv"): return f"{d.day} {MONTHS[lang][d.month - 1]} {d.year}"
+    if lang in ("no", "da", "fi"): return f"{d.day}. {MONTHS[lang][d.month - 1]} {d.year}"
     if lang == "pl": return f"{d.day} {MONTHS['pl'][d.month - 1]} {d.year}"
     if lang == "de": return f"{d.day}. {MONTHS['de'][d.month - 1]} {d.year}"
     return f"{d.day} {MONTHS['nl'][d.month - 1]} {d.year}"

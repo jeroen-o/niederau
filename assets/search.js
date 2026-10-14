@@ -19,7 +19,19 @@
     fr: { all: 'Tout', none: 'Aucun résultat pour', n1: 'résultat', nn: 'résultats', more: 'Plus de résultats : affinez votre recherche',
       kinds: { act: 'Activité', place: 'Lieu', region: 'Région', guide: 'Guide', event: 'Agenda', other: 'Page', home: 'Accueil', 'act-hub': 'Aperçu', 'place-hub': 'Aperçu', 'region-hub': 'Aperçu', 'guide-hub': 'Aperçu', 'event-hub': 'Aperçu' } },
     pl: { all: 'Wszystko', none: 'Brak wyników dla', n1: 'wynik', nn: 'wyników', more: 'Więcej wyników: zawęź wyszukiwanie',
-      kinds: { act: 'Atrakcja', place: 'Miejscowość', region: 'Region', guide: 'Poradnik', event: 'Wydarzenie', other: 'Strona', home: 'Start', 'act-hub': 'Przegląd', 'place-hub': 'Przegląd', 'region-hub': 'Przegląd', 'guide-hub': 'Przegląd', 'event-hub': 'Przegląd' } }
+      kinds: { act: 'Atrakcja', place: 'Miejscowość', region: 'Region', guide: 'Poradnik', event: 'Wydarzenie', other: 'Strona', home: 'Start', 'act-hub': 'Przegląd', 'place-hub': 'Przegląd', 'region-hub': 'Przegląd', 'guide-hub': 'Przegląd', 'event-hub': 'Przegląd' } },
+    es: { all: 'Todo', none: 'Sin resultados para', n1: 'resultado', nn: 'resultados', more: 'Más resultados: afina tu búsqueda',
+      kinds: { act: 'Actividad', place: 'Lugar', region: 'Región', guide: 'Guía', event: 'Agenda', other: 'Página', home: 'Inicio', 'act-hub': 'Resumen', 'place-hub': 'Resumen', 'region-hub': 'Resumen', 'guide-hub': 'Resumen', 'event-hub': 'Resumen' } },
+    it: { all: 'Tutto', none: 'Nessun risultato per', n1: 'risultato', nn: 'risultati', more: 'Altri risultati: affina la ricerca',
+      kinds: { act: 'Attività', place: 'Luogo', region: 'Regione', guide: 'Guida', event: 'Eventi', other: 'Pagina', home: 'Home', 'act-hub': 'Panoramica', 'place-hub': 'Panoramica', 'region-hub': 'Panoramica', 'guide-hub': 'Panoramica', 'event-hub': 'Panoramica' } },
+    sv: { all: 'Allt', none: 'Inga resultat för', n1: 'resultat', nn: 'resultat', more: 'Fler resultat: förfina sökningen',
+      kinds: { act: 'Aktivitet', place: 'Plats', region: 'Region', guide: 'Guide', event: 'Evenemang', other: 'Sida', home: 'Start', 'act-hub': 'Översikt', 'place-hub': 'Översikt', 'region-hub': 'Översikt', 'guide-hub': 'Översikt', 'event-hub': 'Översikt' } },
+    no: { all: 'Alt', none: 'Ingen resultater for', n1: 'resultat', nn: 'resultater', more: 'Flere resultater: avgrens søket',
+      kinds: { act: 'Aktivitet', place: 'Sted', region: 'Region', guide: 'Guide', event: 'Arrangement', other: 'Side', home: 'Hjem', 'act-hub': 'Oversikt', 'place-hub': 'Oversikt', 'region-hub': 'Oversikt', 'guide-hub': 'Oversikt', 'event-hub': 'Oversikt' } },
+    fi: { all: 'Kaikki', none: 'Ei tuloksia haulle', n1: 'tulos', nn: 'tulosta', more: 'Lisää tuloksia: tarkenna hakua',
+      kinds: { act: 'Aktiviteetti', place: 'Paikka', region: 'Alue', guide: 'Opas', event: 'Tapahtuma', other: 'Sivu', home: 'Etusivu', 'act-hub': 'Yleiskatsaus', 'place-hub': 'Yleiskatsaus', 'region-hub': 'Yleiskatsaus', 'guide-hub': 'Yleiskatsaus', 'event-hub': 'Yleiskatsaus' } },
+    da: { all: 'Alt', none: 'Ingen resultater for', n1: 'resultat', nn: 'resultater', more: 'Flere resultater: indsnævr søgningen',
+      kinds: { act: 'Aktivitet', place: 'Sted', region: 'Region', guide: 'Guide', event: 'Begivenhed', other: 'Side', home: 'Forside', 'act-hub': 'Oversigt', 'place-hub': 'Oversigt', 'region-hub': 'Oversigt', 'guide-hub': 'Oversigt', 'event-hub': 'Oversigt' } }
   }[lang] || null;
   if (!L) L = { all: 'Alles', none: 'Geen resultaten voor', n1: 'resultaat', nn: 'resultaten', more: '', kinds: {} };
   var scriptSrc = (document.currentScript && document.currentScript.src) || '';
