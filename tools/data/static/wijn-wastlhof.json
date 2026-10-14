@@ -1,0 +1,240 @@
+{
+ "id": "wijn-wastlhof",
+ "slug": {
+  "nl": "wijn-wastlhof-sommelier-stefan",
+  "en": "wine-wastlhof-sommelier-stefan",
+  "de": "wein-wastlhof-sommelier-stefan"
+ },
+ "title": {
+  "nl": "Wijn in Hotel Wastlhof: sommelier Stefan en de wijnkelder",
+  "en": "Wine at Hotel Wastlhof: sommelier Stefan and the wine cellar",
+  "de": "Wein im Hotel Wastlhof: Sommelier Stefan und der Weinkeller"
+ },
+ "tagline": {
+  "nl": "Een glas wijn na een dag in de bergen: Stefan, sommelier van Hotel Wastlhof in Niederau, schenkt het in en vertelt erbij.",
+  "en": "A glass of wine after a day in the mountains: Stefan, sommelier at Hotel Wastlhof in Niederau, pours it and tells you about it.",
+  "de": "Ein Glas Wein nach einem Tag in den Bergen: Stefan, Sommelier im Hotel Wastlhof in Niederau, schenkt es ein und erzählt dazu."
+ },
+ "intro": {
+  "nl": "Na een dag op de piste of in de bergen hoort er voor veel gasten een goed glas wijn bij het diner. In Hotel Wastlhof, ons partnerhotel in Niederau, is daarvoor een sommelier: Stefan. Hij heeft een opleiding tot sommelier gevolgd en adviseert gasten bij de wijnen die bij de keuken van het huis passen.\n\nHet hotel heeft een eigen wijnkelder, met houten rekken, liggende flessen en een lange tafel waar je kunt zitten en proeven. Op deze pagina lees je wat je kunt verwachten en hoe je een afspraak maakt.",
+  "en": "After a day on the slopes or in the mountains, many guests like a good glass of wine with dinner. Hotel Wastlhof, our partner hotel in Niederau, has a sommelier for that: Stefan. He has completed sommelier training and advises guests on the wines that suit the kitchen of the house.\n\nThe hotel has its own wine cellar, with wooden racks, bottles lying on their sides and a long table where you can sit and taste. On this page you can read what to expect and how to make an appointment.",
+  "de": "Nach einem Tag auf der Piste oder in den Bergen gehört für viele Gäste ein gutes Glas Wein zum Abendessen. Im Hotel Wastlhof, unserem Partnerhotel in Niederau, gibt es dafür einen Sommelier: Stefan. Er hat eine Ausbildung zum Sommelier absolviert und berät die Gäste zu den Weinen, die zur Küche des Hauses passen.\n\nDas Hotel hat einen eigenen Weinkeller mit Holzregalen, liegenden Flaschen und einem langen Tisch, an dem man sitzen und verkosten kann. Auf dieser Seite lesen Sie, was Sie erwartet und wie Sie einen Termin vereinbaren."
+ },
+ "figures": [
+  {
+   "file": "wijnkelder-wastlhof",
+   "w": 374,
+   "h": 187,
+   "alt": {
+    "nl": "Wijnkelder van Hotel Wastlhof met houten rekken, liggende flessen en een gedekte tafel met glazen en kaarsen",
+    "en": "Wine cellar of Hotel Wastlhof with wooden racks, bottles lying down and a laid table with glasses and candles",
+    "de": "Weinkeller des Hotels Wastlhof mit Holzregalen, liegenden Flaschen und einem gedeckten Tisch mit Gläsern und Kerzen"
+   },
+   "cap": {
+    "nl": "De wijnkelder van Hotel Wastlhof",
+    "en": "The wine cellar of Hotel Wastlhof",
+    "de": "Der Weinkeller des Hotels Wastlhof"
+   }
+  }
+ ],
+ "sections": [
+  {
+   "h": {
+    "nl": "De sommelier: Stefan",
+    "en": "The sommelier: Stefan",
+    "de": "Der Sommelier: Stefan"
+   },
+   "p": {
+    "nl": "Een sommelier is de wijnspecialist van een restaurant of hotel. Stefan heeft daar een opleiding voor gevolgd. Hij kent de wijnen in de kelder, weet bij welk gerecht ze passen en helpt je bij het kiezen, ook als je weinig van wijn weet.\n\nHet gaat daarbij niet om dure flessen, maar om een wijn die bij jou en bij je bord past. Vraag gerust om een advies: bij een stoofgerecht kies je iets anders dan bij vis of een licht voorgerecht.",
+    "en": "A sommelier is the wine specialist of a restaurant or hotel. Stefan has trained for this. He knows the wines in the cellar, knows which dishes they suit and helps you choose, even if you know little about wine.\n\nIt is not about expensive bottles but about a wine that suits you and your plate. Do ask for advice: with a stew you choose something different than with fish or a light starter.",
+    "de": "Ein Sommelier ist der Weinfachmann eines Restaurants oder Hotels. Stefan hat dafür eine Ausbildung absolviert. Er kennt die Weine im Keller, weiß, zu welchen Gerichten sie passen, und hilft bei der Auswahl, auch wenn Sie wenig über Wein wissen.\n\nEs geht dabei nicht um teure Flaschen, sondern um einen Wein, der zu Ihnen und zu Ihrem Teller passt. Fragen Sie ruhig nach einer Empfehlung: Zu einem Schmorgericht wählt man etwas anderes als zu Fisch oder einer leichten Vorspeise."
+   }
+  },
+  {
+   "h": {
+    "nl": "De wijnkelder",
+    "en": "The wine cellar",
+    "de": "Der Weinkeller"
+   },
+   "p": {
+    "nl": "De wijnkelder van het hotel is een sfeervolle ruimte met houten rekken waarin de flessen liggen, een eikenhouten vat en een lange tafel met stoelen, glazen en kaarsen. Zo kun je tussen de wijnen zitten en proeven in plaats van aan een gewone restauranttafel.\n\nWelke wijnen er op dit moment liggen, wisselt. Vraag het hotel naar de actuele wijnkaart of naar de mogelijkheden voor een proeverij.",
+    "en": "The hotel's wine cellar is an atmospheric room with wooden racks holding the bottles on their sides, an oak barrel and a long table with chairs, glasses and candles. This way you can sit and taste among the wines instead of at an ordinary restaurant table.\n\nWhich wines are in the cellar at the moment changes. Ask the hotel for the current wine list or for the options for a tasting.",
+    "de": "Der Weinkeller des Hotels ist ein stimmungsvoller Raum mit Holzregalen, in denen die Flaschen liegen, einem Eichenfass und einem langen Tisch mit Stühlen, Gläsern und Kerzen. So sitzt und verkostet man zwischen den Weinen statt an einem gewöhnlichen Restauranttisch.\n\nWelche Weine gerade im Keller liegen, wechselt. Fragen Sie das Hotel nach der aktuellen Weinkarte oder nach den Möglichkeiten für eine Verkostung."
+   }
+  },
+  {
+   "h": {
+    "nl": "Het wijnaanbod: vooral Oostenrijks",
+    "en": "The wine offer: mostly Austrian",
+    "de": "Das Weinangebot: vor allem österreichisch"
+   },
+   "p": {
+    "nl": "Voor een Tiroler hotel ligt dat voor de hand: de wijnkaart van het Wastlhof heeft veel Oostenrijkse wijnen. Het hotel kiest de selectie zelf en proeft regelmatig nieuwe wijnen om de kaart aan te vullen. De Oostenrijkse wijnen zijn in de breedte te vinden, van lichte witte wijnen tot krachtige rode.\n\nWie wil weten wat er op de kaart staat, vindt hieronder een overzicht van de soorten. Prijzen en actuele flessen staan op de wijnkaart van het hotel zelf.",
+    "en": "For a Tyrolean hotel it is the obvious choice: the Wastlhof wine list has plenty of Austrian wines. The hotel makes its own selection and regularly tastes new wines to add to the list. The Austrian wines cover a wide range, from light white wines to powerful reds.\n\nIf you want to know what is on the list, you will find an overview of the types below. Prices and the current bottles are on the hotel's own wine list.",
+    "de": "Für ein Tiroler Hotel liegt das nahe: Die Weinkarte des Wastlhofs führt viele österreichische Weine. Das Hotel trifft die Auswahl selbst und verkostet regelmäßig neue Weine, um die Karte zu ergänzen. Die österreichischen Weine decken eine große Bandbreite ab, von leichten Weißweinen bis zu kräftigen Rotweinen.\n\nWer wissen möchte, was auf der Karte steht, findet unten einen Überblick über die Sorten. Preise und die aktuellen Flaschen stehen auf der Weinkarte des Hotels selbst."
+   },
+   "list": [
+    {
+     "t": {
+      "nl": "Weißwein: Grüner Veltliner, Riesling, Sauvignon Blanc, Gelber Muskateller, Chardonnay, Weißburgunder, Gewürztraminer, Gemischter Satz en Roter Veltliner",
+      "en": "White wine: Grüner Veltliner, Riesling, Sauvignon Blanc, Gelber Muskateller, Chardonnay, Weißburgunder, Gewürztraminer, Gemischter Satz and Roter Veltliner",
+      "de": "Weißwein: Grüner Veltliner, Riesling, Sauvignon Blanc, Gelber Muskateller, Chardonnay, Weißburgunder, Gewürztraminer, Gemischter Satz und Roter Veltliner"
+     }
+    },
+    {
+     "t": {
+      "nl": "Rosé: onder meer van Zweigelt en Cabernet Sauvignon",
+      "en": "Rosé: including Zweigelt and Cabernet Sauvignon",
+      "de": "Rosé: unter anderem aus Zweigelt und Cabernet Sauvignon"
+     }
+    },
+    {
+     "t": {
+      "nl": "Rode wijn: Zweigelt, Blaufränkisch, St. Laurent, Pinot Noir, Merlot, Cabernet Sauvignon en cuvées",
+      "en": "Red wine: Zweigelt, Blaufränkisch, St. Laurent, Pinot Noir, Merlot, Cabernet Sauvignon and cuvées",
+      "de": "Rotwein: Zweigelt, Blaufränkisch, St. Laurent, Pinot Noir, Merlot, Cabernet Sauvignon und Cuvées"
+     }
+    },
+    {
+     "t": {
+      "nl": "Wijnstreken: onder meer Kremstal, Weinviertel, Wachau, Kamptal, Südsteiermark, Vulkanland, Leithaberg, Carnuntum, Neusiedlersee, Mittelburgenland en Thermenregion",
+      "en": "Wine regions: including Kremstal, Weinviertel, Wachau, Kamptal, Südsteiermark, Vulkanland, Leithaberg, Carnuntum, Neusiedlersee, Mittelburgenland and Thermenregion",
+      "de": "Weinregionen: unter anderem Kremstal, Weinviertel, Wachau, Kamptal, Südsteiermark, Vulkanland, Leithaberg, Carnuntum, Neusiedlersee, Mittelburgenland und Thermenregion"
+     }
+    },
+    {
+     "t": {
+      "nl": "Internationaal: onder meer wijnen uit Duitsland (Moezel), Zuid-Tirol, Toscane, Apulië, Spanje, Chili, Frankrijk en Argentinië",
+      "en": "International: including wines from Germany (Mosel), South Tyrol, Tuscany, Apulia, Spain, Chile, France and Argentina",
+      "de": "International: unter anderem Weine aus Deutschland (Mosel), Südtirol, der Toskana, Apulien, Spanien, Chile, Frankreich und Argentinien"
+     }
+    },
+    {
+     "t": {
+      "nl": "Zoete wijnen en port, als afsluiter van het diner",
+      "en": "Sweet wines and port, to finish dinner",
+      "de": "Süßweine und Portwein zum Abschluss des Abendessens"
+     }
+    },
+    {
+     "t": {
+      "nl": "Mousserende wijn: Sekt, Secco en champagne",
+      "en": "Sparkling wine: Sekt, Secco and champagne",
+      "de": "Schaumwein: Sekt, Secco und Champagner"
+     }
+    }
+   ],
+   "note": {
+    "nl": "De kaart wisselt en kan afwijken van dit overzicht. Vraag het hotel naar de actuele wijnkaart.",
+    "en": "The list changes and may differ from this overview. Ask the hotel for the current wine list.",
+    "de": "Die Karte wechselt und kann von diesem Überblick abweichen. Fragen Sie das Hotel nach der aktuellen Weinkarte."
+   }
+  },
+  {
+   "h": {
+    "nl": "Een afspraak maken om te genieten",
+    "en": "Make an appointment to enjoy it",
+    "de": "Einen Termin zum Genießen vereinbaren"
+   },
+   "p": {
+    "nl": "Wil je de wijnen van Stefan proeven? Neem vooraf contact op met Hotel Wastlhof en maak een afspraak, zodat er tijd en plek voor je is. Op de wijnpagina van het hotel vind je meer informatie en de contactgegevens.\n\nHotel Wastlhof is een partner van deze site; de eigenaar komt er al meer dan vijftig jaar en beveelt het hotel persoonlijk aan, zonder vergoeding.",
+    "en": "Would you like to taste Stefan's wines? Contact Hotel Wastlhof in advance and make an appointment, so there is time and a place for you. On the hotel's wine page you will find more information and the contact details.\n\nHotel Wastlhof is a partner of this site; the owner has been coming here for more than fifty years and recommends the hotel personally, without compensation.",
+    "de": "Möchten Sie Stefans Weine probieren? Nehmen Sie vorab Kontakt mit dem Hotel Wastlhof auf und vereinbaren Sie einen Termin, damit Zeit und Platz für Sie da sind. Auf der Weinseite des Hotels finden Sie mehr Informationen und die Kontaktdaten.\n\nDas Hotel Wastlhof ist Partner dieser Seite; der Betreiber kommt seit mehr als fünfzig Jahren hierher und empfiehlt das Hotel persönlich, ohne Vergütung."
+   },
+   "note": {
+    "nl": "Geniet met mate. Alcohol is niet geschikt voor kinderen, zwangere vrouwen of wie nog moet rijden.",
+    "en": "Enjoy in moderation. Alcohol is not suitable for children, pregnant women or anyone who still has to drive.",
+    "de": "Genießen Sie in Maßen. Alkohol ist nicht für Kinder, Schwangere oder Personen geeignet, die noch fahren müssen."
+   },
+   "list": [
+    {
+     "u": "https://www.hotelwastlhof.at/nl/genot/wijn",
+     "t": {
+      "nl": "Wijnpagina van Hotel Wastlhof",
+      "en": "Wine page of Hotel Wastlhof",
+      "de": "Weinseite des Hotels Wastlhof"
+     }
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": {
+    "nl": "Heeft Hotel Wastlhof een sommelier?",
+    "en": "Does Hotel Wastlhof have a sommelier?",
+    "de": "Hat das Hotel Wastlhof einen Sommelier?"
+   },
+   "a": {
+    "nl": "Ja. Stefan is sommelier van Hotel Wastlhof in Niederau en heeft een opleiding tot sommelier gevolgd.",
+    "en": "Yes. Stefan is the sommelier of Hotel Wastlhof in Niederau and has completed sommelier training.",
+    "de": "Ja. Stefan ist Sommelier im Hotel Wastlhof in Niederau und hat eine Ausbildung zum Sommelier absolviert."
+   }
+  },
+  {
+   "q": {
+    "nl": "Heeft het hotel een eigen wijnkelder?",
+    "en": "Does the hotel have its own wine cellar?",
+    "de": "Hat das Hotel einen eigenen Weinkeller?"
+   },
+   "a": {
+    "nl": "Ja. In de wijnkelder liggen de flessen in houten rekken en staat een lange tafel om te zitten en te proeven.",
+    "en": "Yes. In the wine cellar the bottles lie in wooden racks and there is a long table to sit and taste.",
+    "de": "Ja. Im Weinkeller liegen die Flaschen in Holzregalen und es steht ein langer Tisch zum Sitzen und Verkosten bereit."
+   }
+  },
+  {
+   "q": {
+    "nl": "Hoe maak ik een afspraak voor een wijnproeverij?",
+    "en": "How do I arrange a wine tasting?",
+    "de": "Wie vereinbare ich eine Weinverkostung?"
+   },
+   "a": {
+    "nl": "Neem vooraf contact op met Hotel Wastlhof via de wijnpagina van het hotel en vraag naar de mogelijkheden.",
+    "en": "Contact Hotel Wastlhof in advance via the hotel's wine page and ask about the options.",
+    "de": "Nehmen Sie vorab über die Weinseite des Hotels Kontakt mit dem Hotel Wastlhof auf und fragen Sie nach den Möglichkeiten."
+   }
+  },
+  {
+   "q": {
+    "nl": "Welke wijnen heeft Hotel Wastlhof?",
+    "en": "Which wines does Hotel Wastlhof have?",
+    "de": "Welche Weine hat das Hotel Wastlhof?"
+   },
+   "a": {
+    "nl": "Vooral Oostenrijkse wijnen, zoals Grüner Veltliner, Riesling, Zweigelt en Blaufränkisch, aangevuld met internationale wijnen, zoete wijnen en mousserende wijn. De kaart wisselt; vraag het hotel naar de actuele wijnkaart.",
+    "en": "Mostly Austrian wines, such as Grüner Veltliner, Riesling, Zweigelt and Blaufränkisch, complemented by international wines, sweet wines and sparkling wine. The list changes; ask the hotel for the current wine list.",
+    "de": "Vor allem österreichische Weine wie Grüner Veltliner, Riesling, Zweigelt und Blaufränkisch, ergänzt durch internationale Weine, Süßweine und Schaumwein. Die Karte wechselt; fragen Sie das Hotel nach der aktuellen Weinkarte."
+   }
+  }
+ ],
+ "related": [
+  {
+   "type": "page",
+   "path": {
+    "nl": "het-hotel-aan-de-piste-in-wildschonau/",
+    "en": "hotel-on-the-slopes-wildschonau/",
+    "de": "hotel-an-der-piste-wildschoenau/"
+   },
+   "label": {
+    "nl": "Het hotel aan de piste in Wildschönau",
+    "en": "The hotel by the slopes in the Wildschönau",
+    "de": "Das Hotel an der Piste in der Wildschönau"
+   }
+  },
+  {
+   "type": "page",
+   "path": {
+    "nl": "familieverhaal-wastlhof/",
+    "en": "family-story-wastlhof/",
+    "de": "familiengeschichte-wastlhof/"
+   },
+   "label": {
+    "nl": "Ons familieverhaal: meer dan 50 jaar Wastlhof",
+    "en": "Our family story: more than 50 years at the Wastlhof",
+    "de": "Unsere Familiengeschichte: mehr als 50 Jahre Wastlhof"
+   }
+  }
+ ],
+ "about_hotel": true
+}

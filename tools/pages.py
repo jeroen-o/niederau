@@ -855,7 +855,7 @@ def build_event_details():
 <div>{gen_fig("event:" + d["id"], lang)}{tips_h}<p class="note">{ui("check", lang)}</p></div></div></section>
 <section class="alt"><div class="wrap">{secs}</div></section>{faq_s}{guides_block(lang, ["wanneer-gaan", "reizen-naar-niederau", "wildschoenau-card"])}'''
             desc = (L(d.get("tagline", {}), lang) + " " + " ".join(paras(L(d.get("intro", {}), lang)))[:170]).strip()
-            ld = [{"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": trim_desc(desc), "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
+            ld = [{"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": trim_desc(desc), "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}, **({"about": {"@id": f"{BASE}/#hotel-wastlhof"}, "mentions": {"@type": "Person", "name": "Stefan", "jobTitle": "Sommelier", "worksFor": {"@id": f"{BASE}/#hotel-wastlhof"}}} if d.get("about_hotel") else {})},
                   dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
             write(urls[lang], shell(lang, "event:" + d["id"], urls, f"{name} | Niederau.nl", desc, body, ld))
         registry.append(("event:" + d["id"], urls, None))
@@ -1091,6 +1091,8 @@ def build_static():
                 lu = ph.get("lic_url_" + lang) or ph["lic_url"]
                 img += (f'<figure class="album-fig"><img src="/assets/img/{ph["file"]}.webp" width="{ph["w"]}" height="{ph["h"]}" loading="lazy" decoding="async" alt="{e(_t(ph["alt"], lang))}">'
                         f'<figcaption>{e(_t(ph["cap"], lang))} <a href="{lu}" rel="license noopener" target="_blank">{e(ph["lic"])}</a>. {e(_t(ph["note"], lang))}</figcaption></figure>')
+            for fg in d.get("figures", []):
+                img += f'<figure class="album-fig"><img src="/assets/img/{fg["file"]}.webp" width="{fg["w"]}" height="{fg["h"]}" loading="lazy" decoding="async" alt="{e(_t(fg["alt"], lang))}"><figcaption>{e(_t(fg["cap"], lang))}</figcaption></figure>'
             if d.get("image_winter") or d.get("image_summer"):
                 if d.get("image_winter"): img += gen_one(d["image_winter"], lang, ' data-only="winter"')
                 if d.get("image_summer"): img += gen_one(d["image_summer"], lang, ' data-only="summer"')
@@ -1120,7 +1122,7 @@ def build_static():
                     rel += f'<li><a href="/{PREFIX[lang]}{r["path"][lang]}">{e(_t(r["label"], lang))}</a></li>'
             rel_s = f'<section class="alt"><div class="wrap"><h2>{ui("overviews", lang)}</h2><ul class="check">{rel}</ul></div></section>' if rel else ""
             body = f'<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(_t(d["tagline"], lang))}</p>{_paras(_t(d["intro"], lang))}{img}</div></section>{secs}{faq_s}{rel_s}'
-            desc = trim_desc(_t(d["tagline"], lang) + ". " + _t(d["intro"], lang).split("\n\n")[0])
+            desc = trim_desc(_t(d["tagline"], lang).rstrip(".") + ". " + _t(d["intro"], lang).split("\n\n")[0])
             ld = [{"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
                   dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
             write(urls[lang], shell(lang, "static:" + d["id"], urls, f"{name} | Niederau.nl", desc, body, ld))
