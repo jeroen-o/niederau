@@ -1,0 +1,14 @@
+# Taak: artikelen (gidsen) over sport en bergtoppen rond Niederau (Niederau.nl)
+
+Lees eerst `tools/data/GUIDE_TASK.md` en `tools/data/SPEC.md` (schema, eigen woorden, alleen bevestigde feiten, voorzichtig bij onzekerheid). Je schrijft gidsartikelen als JSON-lijst in je eigen outputbestand (`tools/data/guides/<naam>.json`, lijst met 1 of meer gidsen). Raak geen andere bestanden aan, geen git, geen build. WebSearch (`mode: "standard"`), geen WebFetch (werkt niet); wees zuinig: ca. 6-8 zoekopdrachten per artikel.
+
+## Schema afwijkingen/aanvullingen
+- Per gids: `id`, `slug{nl,en,de}` (kleine letters, ascii, koppeltekens, uniek), `title`, `tagline` (max ~100 tekens), `intro` (2-3 alinea's, 150-220 woorden), `sections` (6-9 kopjes met 70-120 woorden elk), `tips` (4-5), `faq` (3-4 vragen), alles in `nl`, `en`, `de` met dezelfde inhoud.
+- Tekst voor gezinnen/reizigers die in Niederau (Wildschönau, Tirol, 828 m) verblijven; geef waar bekend de afstand/rijtijd vanaf Niederau (bij benadering).
+- SEO: zet in `title` en `intro` de zoektermen natuurlijk (bijv. "toerskiën Niederau", "wandelen Schatzberg"); eerste alinea beantwoordt direct de kernvraag.
+- **Nederlands: altijd "Tirol", nooit "Tyrol"**; Engels "Tyrol"; Duits "Tirol". Nederlandse getalnotatie (1.896 m, 2,5 km).
+- Geen prijzen, geen telefoonnummers/e-mail, geen openingstijden of -status van hutten/liften/bedrijven, geen sneeuwgaranties. Veiligheid: bij toerskiën, sneeuwschoenwandelen en alpine routes altijd het lawinebulletin Tirol (lawine.tirol.gv.at) noemen, dat de gids niet vervangt voor wie de route niet kent, en dat het geen routebeschrijving is om blind te volgen. Moeilijkheid alleen noemen als bevestigd.
+- Alleen sporten/activiteiten noemen die voor de berg/plek bevestigd zijn (wandelen, fietsen, mountainbiken, klimmen/klettersteig, toerskiën, sneeuwschoenwandelen, rodelen, skiën, paragliden…). Laat secties weg waarvoor geen bevestiging is, liever 6 goede dan 9 magere secties.
+- Voor bergen: hoogte (m, alleen als bevestigd; geef bij afwijkende bronnen "ca."), ligging, hoe je er komt (lift/bergbaan/wandelparkeerplaats), zomer (wandelen, fietsen, mountainbiken, klimmen), winter (skiën, toerskiën, sneeuwschoenen, rodelen), hutten/horeca (alleen naam en aard, geen openingstijden), en veiligheid. Kopjes bijvoorbeeld: "Over de berg", "Zomer: wandelen", "Zomer: fietsen en mountainbiken", "Zomer: klimmen en klettersteig", "Winter: skiën en toerskiën", "Winter: sneeuwschoenen en rodelen", "Hutten en horeca", "Zo kom je er", "Veiligheid"; kies wat past.
+- Als een berg niet bestaat of je kunt hem niet bevestigen: laat hem weg en meld dat. Mag je op basis van bevestigde bronnen een geschikte vervanger kiezen binnen ca. 40 km van Niederau, doe dat en meld het.
+- Valideer: `python3 -c "import json;json.load(open(PAD))"`. Rapporteer in max 5 regels: ids, titels, wat je liet vallen.

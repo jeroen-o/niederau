@@ -1,0 +1,512 @@
+[
+ {
+  "id": "berg-hohe-salve",
+  "slug": {
+   "nl": "hohe-salve-wandelen-en-skien",
+   "en": "hohe-salve-hiking-and-skiing",
+   "de": "hohe-salve-wandern-und-skifahren"
+  },
+  "title": {
+   "nl": "Hohe Salve vanuit Niederau: wandelen en skiën bij Hopfgarten",
+   "en": "Hohe Salve from Niederau: hiking and skiing near Hopfgarten",
+   "de": "Hohe Salve ab Niederau: Wandern und Skifahren bei Hopfgarten"
+  },
+  "tagline": {
+   "nl": "Gondel, panoramawandeling en een bedevaartskerkje op 1.829 m, ca. 35 minuten rijden van Niederau.",
+   "en": "Gondola, panoramic walks and a pilgrimage chapel at 1,829 m, about 35 minutes by car from Niederau.",
+   "de": "Gondel, Panoramawege und eine Wallfahrtskirche auf 1.829 m, rund 35 Minuten Fahrt ab Niederau."
+  },
+  "intro": {
+   "nl": "De Hohe Salve (ca. 1.829 m) is een van de bekendste uitkijkbergen van de Kitzbüheler Alpen en de makkelijkste manier om vanuit Niederau een echte toppendag te maken. Je rijdt in ca. 35 minuten naar Hopfgarten im Brixental, stapt daar in de gondel en staat na een rit van ongeveer twintig minuten boven. Wie wil wandelen op de Hohe Salve of de bergtop wil bekijken zonder een stevige klim, is hier op het juiste adres.\n\nBoven heb je een panorama van 360 graden over de Kitzbüheler Alpen, de Zillertaler Alpen en de Hohe Tauern; bij helder weer zijn in de verte de Großglockner en de Großvenediger te zien. Op de top staat het Salvenkirchlein, dat wordt beschreven als de hoogstgelegen bedevaartskerk van Oostenrijk.\n\nIn deze gids lees je hoe je er komt, welke wandelingen er vertrekken, wat de berg in de winter betekent in verband met de SkiWelt en waar je aan moet denken voor je op pad gaat. Hoogtes verschillen per bron met een meter; de lift en horeca hebben eigen seizoenen, dus controleer die altijd vooraf.",
+   "en": "The Hohe Salve (about 1,829 m) is one of the best-known viewpoint mountains in the Kitzbühel Alps and the easiest way to turn a day from Niederau into a proper mountain outing. You drive to Hopfgarten im Brixental in about 35 minutes, board the gondola and reach the top after a ride of roughly twenty minutes. If you want to hike on the Hohe Salve or simply see a mountain summit without a hard climb, this is the place.\n\nUp top you get a 360-degree panorama over the Kitzbühel Alps, the Zillertal Alps and the Hohe Tauern; on a clear day the Großglockner and Großvenediger can be seen in the distance. The summit is crowned by the Salvenkirchlein, described as the highest-lying pilgrimage church in Austria.\n\nThis guide explains how to get there, which walks start from the mountain, what it means in winter in connection with the SkiWelt, and what to bear in mind before you set off. Sources differ on the height by a metre; lifts and mountain restaurants have their own seasons, so always check in advance.",
+   "de": "Die Hohe Salve (rund 1.829 m) zählt zu den bekanntesten Aussichtsbergen der Kitzbüheler Alpen und ist der einfachste Weg, von Niederau aus einen richtigen Bergtag zu erleben. Du fährst in etwa 35 Minuten nach Hopfgarten im Brixental, steigst in die Gondel und bist nach rund zwanzig Minuten oben. Wer auf der Hohe Salve wandern oder einen Gipfel ohne harten Aufstieg erleben möchte, ist hier richtig.\n\nOben erwartet dich ein 360-Grad-Panorama über die Kitzbüheler Alpen, die Zillertaler Alpen und die Hohen Tauern; bei klarer Sicht sind in der Ferne Großglockner und Großvenediger zu erkennen. Auf dem Gipfel steht das Salvenkirchlein, das als höchstgelegene Wallfahrtskirche Österreichs beschrieben wird.\n\nDieser Ratgeber erklärt die Anreise, welche Wanderungen vom Berg aus starten, was der Berg im Winter im Zusammenhang mit der SkiWelt bedeutet und was du vor dem Aufbruch bedenken solltest. Die Höhenangaben weichen je nach Quelle um einen Meter ab; Bahnen und Berggasthöfe haben eigene Saisonzeiten, prüfe sie daher vorab."
+  },
+  "sections": [
+   {
+    "h": {
+     "nl": "Over de berg",
+     "en": "About the mountain",
+     "de": "Der Berg"
+    },
+    "p": {
+     "nl": "De Hohe Salve (ca. 1.829 m, sommige bronnen noemen 1.828 m) ligt boven Hopfgarten im Brixental en Itter, aan de rand van de Kitzbüheler Alpen. De berg is kenmerkend door zijn vrijstaande ligging, waardoor het uitzicht in alle richtingen open is: richting de Wilde Kaiser, de Zillertaler Alpen en de Hohe Tauern. Ook vanuit Söll en de omgeving van de Wilder Kaiser komt de berg in beeld. Voor Niederau is het een goede dagtocht: ongeveer 30 tot 35 minuten rijden, afhankelijk van het verkeer en de route via Wörgl.",
+     "en": "The Hohe Salve (about 1,829 m, some sources say 1,828 m) rises above Hopfgarten im Brixental and Itter, on the edge of the Kitzbühel Alps. It stands fairly free, so the views are open in every direction: towards the Wilder Kaiser, the Zillertal Alps and the Hohe Tauern. The mountain is also visible from Söll and the Wilder Kaiser area. From Niederau it makes a good day trip: roughly 30 to 35 minutes by car, depending on traffic and the route via Wörgl.",
+     "de": "Die Hohe Salve (rund 1.829 m, manche Quellen nennen 1.828 m) erhebt sich über Hopfgarten im Brixental und Itter am Rand der Kitzbüheler Alpen. Sie steht recht frei, sodass die Aussicht in alle Richtungen offen ist: zum Wilden Kaiser, zu den Zillertaler Alpen und zu den Hohen Tauern. Auch von Söll und aus dem Gebiet des Wilden Kaisers ist der Berg gut zu sehen. Ab Niederau ist er ein guter Tagesausflug: ungefähr 30 bis 35 Minuten Fahrt, je nach Verkehr und Route über Wörgl."
+    }
+   },
+   {
+    "h": {
+     "nl": "Zo kom je er",
+     "en": "Getting there",
+     "de": "Anreise"
+    },
+    "p": {
+     "nl": "Vanuit Hopfgarten brengen twee moderne gondelsecties je naar boven; samen overbruggen ze ruim 1.000 hoogtemeters in ongeveer twintig minuten. Er is ook een gondelverbinding vanuit Söll, wat handig is als je de andere kant van de berg wilt verkennen. Zo kun je omhoog en omlaag via verschillende dalen, mits je terugkomt bij je auto. De zomerlift draait in een vast seizoen, bij het schrijven van deze gids liep dat van half mei tot eind oktober, maar controleer de actuele dienstregeling en de laatste afdaling altijd bij de liftexploitant.",
+     "en": "From Hopfgarten two modern gondola stages carry you up, together covering well over 1,000 vertical metres in about twenty minutes. There is also a gondola link from Söll, handy if you want to explore the other side of the mountain, though you then need a way back to your car. The summer lift runs in a fixed season, from mid-May to late October at the time of writing, but always check the current timetable and the last descent with the lift operator.",
+     "de": "Ab Hopfgarten bringen dich zwei moderne Gondelabschnitte nach oben; zusammen überwinden sie gut 1.000 Höhenmeter in rund zwanzig Minuten. Auch von Söll aus gibt es eine Gondelverbindung, praktisch, wenn du die andere Bergseite erkunden willst, solange du wieder zum Auto zurückkommst. Die Sommerbahn fährt in einer festen Saison, zum Zeitpunkt dieses Textes von Mitte Mai bis Ende Oktober; prüfe aber Fahrplan und letzte Talfahrt immer beim Bahnbetreiber."
+    }
+   },
+   {
+    "h": {
+     "nl": "Zomer: wandelen",
+     "en": "Summer: hiking",
+     "de": "Sommer: Wandern"
+    },
+    "p": {
+     "nl": "De berg is vooral populair voor wandelingen waarbij de lift het zware werk doet. Een bekende rondwandeling loopt vanaf de top langs de Alpengasthof Rigi en de Kraftalm naar het Hexenwasser-gebied, waarna je met de gondel terugkeert. Het Hexenwasser is ook bereikbaar vanuit Söll en Itter. Andere doelen in de omgeving zijn het stuwmeer op de Hohe Salve en de Salvensee. Wie liever stevig klimt, kan vanuit Hopfgarten te voet omhoog: beschreven rondes zijn ca. 14 km met ongeveer 1.000 hoogtemeters. Kies de route op basis van je conditie en het weer.",
+     "en": "The mountain is popular for walks in which the lift does the hard work. A well-known circuit leads from the top past the Alpengasthof Rigi and the Kraftalm to the Hexenwasser area, after which you return by gondola. The Hexenwasser can also be reached from Söll and Itter. Other targets nearby are the reservoir on the Hohe Salve and the Salvensee. If you prefer a real climb, you can walk up from Hopfgarten: described loops cover about 14 km with roughly 1,000 metres of ascent. Choose your route according to fitness and weather.",
+     "de": "Der Berg ist vor allem bei Wanderungen beliebt, bei denen die Bahn die schwere Arbeit übernimmt. Eine bekannte Runde führt vom Gipfel am Alpengasthof Rigi und an der Kraftalm vorbei ins Hexenwasser-Gebiet, danach geht es mit der Gondel zurück. Das Hexenwasser erreicht man auch von Söll und Itter aus. Weitere Ziele in der Nähe sind der Speichersee an der Hohen Salve und der Salvensee. Wer lieber richtig aufsteigt, kann ab Hopfgarten zu Fuß hinauf: Beschriebene Runden haben rund 14 km mit etwa 1.000 Höhenmetern. Wähle die Route nach Kondition und Wetter."
+    }
+   },
+   {
+    "h": {
+     "nl": "Salvenkirchlein en uitzicht",
+     "en": "The Salvenkirchlein and the view",
+     "de": "Salvenkirchlein und Aussicht"
+    },
+    "p": {
+     "nl": "Op de top staat het Salvenkirchlein, gewijd aan Johannes de Doper. Het wordt omschreven als de hoogstgelegen bedevaartskerk van Oostenrijk en is zelfs voor wie niet gelovig is een mooi doel: klein, eenvoudig en met een prachtig decor. Het uitzicht is het hoofdgerecht. Bij goed zicht zie je de Wilde Kaiser, de toppen van de Zillertaler Alpen en de Hohe Tauern, met in de verte de Großglockner en de Großvenediger. Ga bij onzeker weer liever een andere dag, want in de wolken is er weinig te zien.",
+     "en": "On the summit stands the Salvenkirchlein, dedicated to John the Baptist. It is described as the highest-lying pilgrimage church in Austria and is a lovely goal even for non-believers: small, simple and with a magnificent backdrop. The view is the main attraction. In good visibility you can see the Wilder Kaiser, the peaks of the Zillertal Alps and the Hohe Tauern, with the Großglockner and Großvenediger far in the distance. If the weather is uncertain, pick another day, as there is little to see in cloud.",
+     "de": "Auf dem Gipfel steht das Salvenkirchlein, Johannes dem Täufer geweiht. Es gilt als höchstgelegene Wallfahrtskirche Österreichs und ist auch für Nichtgläubige ein schönes Ziel: klein, schlicht und mit großartiger Kulisse. Die Aussicht ist das Hauptereignis. Bei guter Sicht erkennst du den Wilden Kaiser, die Gipfel der Zillertaler Alpen und die Hohen Tauern, in der Ferne Großglockner und Großvenediger. Bei unsicherem Wetter wählst du besser einen anderen Tag, denn in den Wolken ist wenig zu sehen."
+    }
+   },
+   {
+    "h": {
+     "nl": "Winter: skiën",
+     "en": "Winter: skiing",
+     "de": "Winter: Skifahren"
+    },
+    "p": {
+     "nl": "Hopfgarten en Itter vormen een directe toegang tot de SkiWelt Wilder Kaiser-Brixental, een van de grotere skigebieden van Tirol; bronnen noemen ca. 275 tot 284 km piste, afhankelijk van de telling. De Hohe Salve hoort bij dit gebied. Voor welke pistes, liften en verbindingen er in een bepaald seizoen open zijn, kijk je op de actuele pistekaart van de SkiWelt. Voor andere wintersporten op de berg zelf, zoals toerskiën of sneeuwschoenwandelen, hebben we geen bevestigde informatie; vraag ter plekke of bij het toeristenbureau van Hopfgarten.",
+     "en": "Hopfgarten and Itter give direct access to the SkiWelt Wilder Kaiser-Brixental, one of the larger ski areas in Tyrol; sources quote about 275 to 284 km of pistes, depending on how it is counted. The Hohe Salve belongs to this area. For which pistes, lifts and connections are open in a given season, consult the current SkiWelt piste map. For other winter sports on the mountain itself, such as ski touring or snowshoeing, we have no confirmed information; ask locally or at the Hopfgarten tourist office.",
+     "de": "Hopfgarten und Itter bieten einen direkten Einstieg in die SkiWelt Wilder Kaiser-Brixental, eines der größeren Skigebiete Tirols; die Quellen nennen je nach Zählweise rund 275 bis 284 Pistenkilometer. Die Hohe Salve gehört zu diesem Gebiet. Welche Pisten, Lifte und Verbindungen in einer Saison geöffnet sind, zeigt der aktuelle Pistenplan der SkiWelt. Zu weiteren Wintersportarten am Berg selbst, etwa Skitouren oder Schneeschuhwandern, liegen uns keine bestätigten Informationen vor; frage vor Ort oder beim Tourismusbüro Hopfgarten nach."
+    }
+   },
+   {
+    "h": {
+     "nl": "Hutten en horeca",
+     "en": "Mountain huts and refreshments",
+     "de": "Hütten und Einkehr"
+    },
+    "p": {
+     "nl": "Langs de wandelroutes liggen berghutten en gasthöfe, waaronder de Alpengasthof Rigi en de Kraftalm. Op de berg zelf vind je ook horeca bij de top- en tussenstations. Het aanbod en de dagen waarop het open is veranderen per seizoen en weer; plan daarom niet op één bepaalde hut en neem zelf water en een extra laag kleding mee. Vooral met kinderen is een rustpauze met een kop chocolademelk of een hapje een goed moment om de tocht te splitsen, maar controleer vooraf of de hut openstaat.",
+     "en": "Along the walking routes you will find mountain huts and inns, including the Alpengasthof Rigi and the Kraftalm. The mountain also has catering at the summit and intermediate stations. What is on offer and on which days it is open changes with the season and weather, so do not plan around one particular hut, and carry your own water and an extra layer. With children in particular, a break with a cup of hot chocolate or a snack is a good way to split the walk, but check beforehand that the hut is open.",
+     "de": "Entlang der Wanderwege liegen Berghütten und Gasthöfe, darunter der Alpengasthof Rigi und die Kraftalm. Auch an der Berg- und den Mittelstationen gibt es Einkehrmöglichkeiten. Angebot und Öffnungstage ändern sich mit Saison und Wetter; plane daher nicht mit einer bestimmten Hütte und nimm Wasser und eine zusätzliche Schicht mit. Gerade mit Kindern ist eine Pause mit heißem Kakao oder einer Brotzeit ein guter Moment, die Tour zu teilen; prüfe aber vorher, ob die Hütte offen hat."
+    }
+   },
+   {
+    "h": {
+     "nl": "Veiligheid",
+     "en": "Safety",
+     "de": "Sicherheit"
+    },
+    "p": {
+     "nl": "Ook op een berg met een lift blijft het hooggebergte. Het weer kan snel omslaan, met onweer in de zomermiddag als bekend risico; begin vroeg en houd de laatste afdaling met de gondel in de gaten. Draag stevige schoenen en let bij natte of afgekoelde paden op. Wie in de winter buiten de gemarkeerde pistes gaat, moet het lawinebulletin Tirol (lawine.tirol.gv.at) raadplegen. Deze gids is geen routebeschrijving om blind te volgen en vervangt geen lokale kennis of een gids.",
+     "en": "A mountain with a lift is still high ground. Weather can turn quickly, with afternoon thunderstorms a known summer risk; start early and keep an eye on the last gondola down. Wear sturdy shoes and take care on wet or cold paths. In winter, anyone leaving the marked pistes should consult the Tyrol avalanche bulletin (lawine.tirol.gv.at). This guide is not a route description to follow blindly and does not replace local knowledge or a mountain guide.",
+     "de": "Auch ein Berg mit Bahn bleibt Hochgebirge. Das Wetter kann schnell umschlagen, nachmittägliche Sommergewitter sind ein bekanntes Risiko; starte früh und behalte die letzte Talfahrt der Gondel im Blick. Trage feste Schuhe und sei auf nassen oder kalten Wegen vorsichtig. Wer im Winter die markierten Pisten verlässt, sollte den Lawinenlagebericht Tirol (lawine.tirol.gv.at) prüfen. Dieser Ratgeber ist keine Routenbeschreibung zum blinden Nachgehen und ersetzt weder Ortskenntnis noch einen Bergführer."
+    }
+   }
+  ],
+  "tips": {
+   "nl": [
+    "Rijd vroeg naar Hopfgarten: dan heb je het beste zicht en ben je voor de middagbuien weer beneden.",
+    "Plan de laatste gondel naar beneden in je dag; ga liever een uur eerder terug dan te laat.",
+    "Neem een extra laag en een regenjas mee; boven is het merkbaar koeler dan in het dal.",
+    "Kies bij onzeker weer een andere dag: de berg is vooral het uitzicht waard.",
+    "Controleer seizoen en dienstregeling van gondel en hutten voor vertrek."
+   ],
+   "en": [
+    "Drive to Hopfgarten early: visibility is best and you will be back down before afternoon showers.",
+    "Build the last gondola down into your day; head back an hour early rather than too late.",
+    "Pack an extra layer and a rain jacket; it is noticeably cooler at the top than in the valley.",
+    "If the weather is uncertain, pick another day: the mountain is mainly worth it for the view.",
+    "Check the season and timetable of the gondola and huts before you leave."
+   ],
+   "de": [
+    "Fahre früh nach Hopfgarten: Dann ist die Sicht am besten und du bist vor den Nachmittagsschauern wieder unten.",
+    "Plane die letzte Gondel ins Tal fest ein; lieber eine Stunde früher zurück als zu spät.",
+    "Nimm eine zusätzliche Schicht und eine Regenjacke mit; oben ist es deutlich kühler als im Tal.",
+    "Bei unsicherem Wetter wähle einen anderen Tag: Der Berg lohnt sich vor allem wegen der Aussicht.",
+    "Prüfe vor der Abfahrt Saison und Fahrplan von Gondel und Hütten."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog is de Hohe Salve en hoe kom je erop?",
+     "en": "How high is the Hohe Salve and how do you get up?",
+     "de": "Wie hoch ist die Hohe Salve und wie kommt man hinauf?"
+    },
+    "a": {
+     "nl": "De top ligt op ca. 1.829 m (sommige bronnen geven 1.828 m). Je kunt met de gondel vanuit Hopfgarten of Söll omhoog, of te voet vanuit het dal. Vanuit Niederau rijd je ca. 35 minuten naar Hopfgarten.",
+     "en": "The summit is at about 1,829 m (some sources give 1,828 m). You can go up by gondola from Hopfgarten or Söll, or on foot from the valley. From Niederau it is about 35 minutes by car to Hopfgarten.",
+     "de": "Der Gipfel liegt bei rund 1.829 m (manche Quellen nennen 1.828 m). Du kannst mit der Gondel ab Hopfgarten oder Söll hinauffahren oder zu Fuß aus dem Tal aufsteigen. Ab Niederau sind es etwa 35 Minuten Fahrt nach Hopfgarten."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is de Hohe Salve geschikt voor gezinnen?",
+     "en": "Is the Hohe Salve suitable for families?",
+     "de": "Ist die Hohe Salve für Familien geeignet?"
+    },
+    "a": {
+     "nl": "Doordat de gondel het zware klimwerk doet, is het een populaire dag voor gezinnen. Kies een route die bij de leeftijd en het uithoudingsvermogen van de kinderen past en plan de laatste afdaling in.",
+     "en": "Because the gondola does the hard climbing, it is a popular day out for families. Choose a route that suits the children's age and stamina, and plan around the last descent.",
+     "de": "Da die Gondel die harte Steigarbeit übernimmt, ist der Berg ein beliebtes Ziel für Familien. Wähle eine Route, die zu Alter und Ausdauer der Kinder passt, und plane die letzte Talfahrt ein."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je op de Hohe Salve skiën?",
+     "en": "Can you ski on the Hohe Salve?",
+     "de": "Kann man auf der Hohen Salve Ski fahren?"
+    },
+    "a": {
+     "nl": "De berg hoort bij het gebied van de SkiWelt Wilder Kaiser-Brixental, met toegang vanuit Hopfgarten en Itter. Welke pistes open zijn, zie je op de actuele pistekaart.",
+     "en": "The mountain belongs to the SkiWelt Wilder Kaiser-Brixental area, with access from Hopfgarten and Itter. The current piste map shows which runs are open.",
+     "de": "Der Berg gehört zum Gebiet der SkiWelt Wilder Kaiser-Brixental mit Zugang von Hopfgarten und Itter. Welche Pisten geöffnet sind, zeigt der aktuelle Pistenplan."
+    }
+   }
+  ]
+ },
+ {
+  "id": "berg-kitzbueheler-horn",
+  "slug": {
+   "nl": "kitzbueheler-horn-wandelen-en-skien",
+   "en": "kitzbueheler-horn-hiking-and-skiing",
+   "de": "kitzbueheler-horn-wandern-und-skifahren"
+  },
+  "title": {
+   "nl": "Kitzbüheler Horn: wandelen en skiën boven Kitzbühel",
+   "en": "Kitzbüheler Horn: hiking and skiing above Kitzbühel",
+   "de": "Kitzbüheler Horn: Wandern und Skifahren über Kitzbühel"
+  },
+  "tagline": {
+   "nl": "Alpenbloementuin, Höhenweg en gezinsskigebied op ca. 2.000 m, ca. 1 uur van Niederau.",
+   "en": "Flower garden, high trail and family ski area at about 2,000 m, 1 hour from Niederau.",
+   "de": "Alpenblumengarten, Höhenweg und Familienskigebiet auf rund 2.000 m, 1 Stunde ab Niederau."
+  },
+  "intro": {
+   "nl": "Het Kitzbüheler Horn is de berg boven Kitzbühel aan de oostkant van het stadje, met een top op ca. 2.000 m (bronnen noemen 1.987, 1.992 en 1.996 m). Vanuit Niederau rijd je er in ca. 1 uur naartoe, waarna je met de Hornbahn en de Horngipfelbahn naar boven gaat. Wie wil wandelen op het Kitzbüheler Horn, een alpenbloementuin wil zien of op een gezinsvriendelijk skigebied zoekt, vindt hier genoeg.\n\nIn de zomer loopt de bekende Horn-Gipfel-Höhenweg over de bergkam, tussen Gipfelhaus en Alpenhaus ligt de Alpenblumengarten en er is een klettersteig voor wie ervaring heeft. In de winter staat het Horn bekend als het skigebied voor gezinnen en groepen, tegenover de meer veeleisende Hahnenkamm met de Streif aan de westkant van Kitzbühel.\n\nDeze gids loopt langs de mogelijkheden, van de rit omhoog tot toerskiën, en benoemt waar je op moet letten. Controleer liften, pistes en horeca altijd voor vertrek; wij geven geen openingstijden of prijzen.",
+   "en": "The Kitzbüheler Horn is the mountain above Kitzbühel on the east side of the town, with a summit at about 2,000 m (sources give 1,987, 1,992 and 1,996 m). From Niederau it is about 1 hour by car, after which the Hornbahn and the Horngipfelbahn take you up. If you want to hike on the Kitzbüheler Horn, see an alpine flower garden or look for a family-friendly ski area, you will find plenty here.\n\nIn summer the well-known Horn-Gipfel-Höhenweg follows the ridge, the Alpenblumengarten lies between the Gipfelhaus and Alpenhaus, and there is a via ferrata for those with experience. In winter the Horn is known as the ski area for families and groups, in contrast to the more demanding Hahnenkamm with the Streif on the west side of Kitzbühel.\n\nThis guide walks through the options, from the ride up to ski touring, and says what to watch out for. Always check lifts, pistes and mountain restaurants before you leave; we give no opening times or prices.",
+   "de": "Das Kitzbüheler Horn ist der Berg über Kitzbühel auf der Ostseite der Stadt, mit einem Gipfel auf rund 2.000 m (die Quellen nennen 1.987, 1.992 und 1.996 m). Von Niederau sind es etwa 1 Stunde Fahrt, danach geht es mit der Hornbahn und der Horngipfelbahn nach oben. Wer am Kitzbüheler Horn wandern, einen Alpenblumengarten sehen oder ein familienfreundliches Skigebiet sucht, findet hier viel.\n\nIm Sommer verläuft der bekannte Horn-Gipfel-Höhenweg über den Kamm, zwischen Gipfelhaus und Alpenhaus liegt der Alpenblumengarten, und für Erfahrene gibt es einen Klettersteig. Im Winter gilt das Horn als Skigebiet für Familien und Gruppen, im Gegensatz zum anspruchsvolleren Hahnenkamm mit der Streif auf der Westseite von Kitzbühel.\n\nDieser Ratgeber geht die Möglichkeiten durch, von der Auffahrt bis zur Skitour, und nennt, worauf du achten solltest. Prüfe Bahnen, Pisten und Einkehr vor der Abfahrt; Öffnungszeiten oder Preise nennen wir nicht."
+  },
+  "sections": [
+   {
+    "h": {
+     "nl": "Over de berg",
+     "en": "About the mountain",
+     "de": "Der Berg"
+    },
+    "p": {
+     "nl": "Het Kitzbüheler Horn ligt in de Kitzbüheler Alpen, ten oosten van het centrum van Kitzbühel. De top ligt op ca. 2.000 m; de bronnen lopen een paar meter uiteen (1.987, 1.992 en 1.996 m), dus noem het een bergtop van ongeveer 2.000 m. Op de top staat een zendmast. Het gebied rond Kitzbühel is bekend om zijn skisport, maar het Horn is ook in de zomer een geliefd doel voor wandelaars. Vanaf Niederau is het ca. 1 uur rijden, afhankelijk van verkeer en route.",
+     "en": "The Kitzbüheler Horn lies in the Kitzbühel Alps, east of the centre of Kitzbühel. The summit is at about 2,000 m; sources differ by a few metres (1,987, 1,992 and 1,996 m), so think of it as a peak of roughly 2,000 m. A transmitter mast stands on the top. The Kitzbühel area is known for ski sport, but the Horn is also a popular summer target for hikers. From Niederau it is about 1 hour by car, depending on traffic and route.",
+     "de": "Das Kitzbüheler Horn liegt in den Kitzbüheler Alpen östlich des Stadtzentrums von Kitzbühel. Der Gipfel liegt bei rund 2.000 m; die Quellen weichen um wenige Meter ab (1.987, 1.992 und 1.996 m), man kann also von einem Gipfel um die 2.000 m sprechen. Auf dem Gipfel steht ein Sendemast. Die Region Kitzbühel ist für den Skisport bekannt, doch auch im Sommer ist das Horn ein beliebtes Wanderziel. Ab Niederau sind es etwa 1 Stunde Fahrt, je nach Verkehr und Route."
+    }
+   },
+   {
+    "h": {
+     "nl": "Zo kom je er",
+     "en": "Getting there",
+     "de": "Anreise"
+    },
+    "p": {
+     "nl": "Met de Hornbahn I en de Horngipfelbahn kom je vanuit Kitzbühel omhoog tot vlak bij de top. Een tweede mogelijkheid is de Harschbichlbahn vanuit St. Johann in Tirol, met het bergstation bij Harschbichl; dat is een goed alternatief voor wie vanuit die kant komt. Parkeren en instappen doe je in het dal; informeer vooraf naar de zomer- en wintersdienstregeling, want bergbanen hebben onderhoudsperioden en wisselende seizoenen. Wij noemen daarom geen tijden.",
+     "en": "The Hornbahn I and the Horngipfelbahn take you up from Kitzbühel to close to the summit. A second option is the Harschbichlbahn from St. Johann in Tirol, with its top station at Harschbichl, a good alternative if you approach from that side. You park and board in the valley; ask about the summer and winter timetable beforehand, as cable cars have maintenance periods and changing seasons. We therefore give no times.",
+     "de": "Mit der Hornbahn I und der Horngipfelbahn gelangst du von Kitzbühel bis nahe an den Gipfel. Eine zweite Möglichkeit ist die Harschbichlbahn ab St. Johann in Tirol mit der Bergstation am Harschbichl, eine gute Alternative, wenn du von dieser Seite kommst. Parken und Einsteigen erfolgen im Tal; erkundige dich vorab nach dem Sommer- und Winterfahrplan, denn Bergbahnen haben Revisionszeiten und wechselnde Saisonen. Wir nennen deshalb keine Zeiten."
+    }
+   },
+   {
+    "h": {
+     "nl": "Zomer: wandelen",
+     "en": "Summer: hiking",
+     "de": "Sommer: Wandern"
+    },
+    "p": {
+     "nl": "De bekendste route is de Horn-Gipfel-Höhenweg. Die loopt via de Ludwig-Scheiber-Steig, die op het smalste stuk met een staalkabel is beveiligd; de tocht wordt als middelzwaar beschreven en vraagt trittsicherheid (stevige pas). Een andere wandeling leidt naar de Hornköpflsee. De wandelingen zijn bergwandelingen, geen wandeling door het dal: houd rekening met hoogteverschil, steile stukken en weerswisselingen, en kies een route die past bij je ervaring en bij de leeftijd van kinderen.",
+     "en": "The best-known route is the Horn-Gipfel-Höhenweg. It runs via the Ludwig-Scheiber-Steig, which is secured with a steel cable at its narrowest point; the tour is described as moderately difficult and requires sure-footedness. Another walk leads to the Hornköpflsee. These are mountain walks, not valley strolls: allow for height gain, steep sections and changing weather, and choose a route that matches your experience and the children's ages.",
+     "de": "Die bekannteste Route ist der Horn-Gipfel-Höhenweg. Er führt über den Ludwig-Scheiber-Steig, der an der schmalsten Stelle mit einem Stahlseil gesichert ist; die Tour wird als mittelschwer beschrieben und verlangt Trittsicherheit. Eine weitere Wanderung führt zum Hornköpflsee. Es sind Bergwanderungen, keine Talspaziergänge: Rechne mit Höhenunterschied, steilen Abschnitten und Wetterwechseln und wähle eine Route, die zu deiner Erfahrung und dem Alter der Kinder passt."
+    }
+   },
+   {
+    "h": {
+     "nl": "Alpenbloementuin",
+     "en": "Alpine flower garden",
+     "de": "Alpenblumengarten"
+    },
+    "p": {
+     "nl": "Tussen het Gipfelhaus en het Alpenhaus ligt de Alpenblumengarten, die in meerdere bronnen als aanrader wordt genoemd. Volgens Bergwelten staan er meer dan 400 soorten alpenbloemen uit de hele wereld. Het is een rustig, kort wandelgedeelte dat ook met kinderen of minder geoefende wandelaars goed te doen is, zeker als je de lift gebruikt. De bloei hangt af van het seizoen en het weer; wie voor de bloemen komt, kiest meestal de late lente of de zomer.",
+     "en": "Between the Gipfelhaus and the Alpenhaus lies the Alpenblumengarten, recommended in several sources. According to Bergwelten it holds more than 400 species of alpine flowers from around the world. It is a calm, short stretch of walking that suits children and less experienced hikers, especially if you use the lift. Flowering depends on season and weather; those who come for the flowers usually pick late spring or summer.",
+     "de": "Zwischen Gipfelhaus und Alpenhaus liegt der Alpenblumengarten, den mehrere Quellen empfehlen. Nach Angaben von Bergwelten wachsen dort mehr als 400 Alpenblumenarten aus aller Welt. Es ist ein ruhiges, kurzes Wegstück, das auch mit Kindern und weniger geübten Wanderern gut machbar ist, besonders mit Bahnunterstützung. Die Blüte hängt von Jahreszeit und Wetter ab; wer wegen der Blumen kommt, wählt meist Spätfrühling oder Sommer."
+    }
+   },
+   {
+    "h": {
+     "nl": "Zomer: klettersteig",
+     "en": "Summer: via ferrata",
+     "de": "Sommer: Klettersteig"
+    },
+    "p": {
+     "nl": "Voor ervaren bergsporters is er een klettersteig op het Kitzbüheler Horn. Een tourbeschrijving noemt hem als aparte route; over de moeilijkheid hebben we hier geen bevestigde gegevens, dus ga er niet van uit dat hij licht is. Je hebt klimset (helm, gordel, klettersteigset), ervaring en goed weer nodig. Zonder ervaring huur je liever een bergsporter of gids in. Voor gezinnen zijn de wandelroutes en de alpenbloementuin de logischer keuze.",
+     "en": "For experienced mountain sports enthusiasts there is a via ferrata on the Kitzbüheler Horn. A route description lists it as a separate tour; we have no confirmed information on its difficulty here, so do not assume it is easy. You need a climbing set (helmet, harness, via ferrata set), experience and good weather. Without experience, hire a mountain guide. For families the walking routes and the flower garden are the more sensible choice.",
+     "de": "Für erfahrene Bergsportler gibt es am Kitzbüheler Horn einen Klettersteig. Eine Tourenbeschreibung führt ihn als eigene Route; zur Schwierigkeit haben wir hier keine bestätigten Angaben, gehe also nicht davon aus, dass er leicht ist. Du brauchst Klettersteigausrüstung (Helm, Gurt, Klettersteigset), Erfahrung und gutes Wetter. Ohne Erfahrung buchst du besser einen Bergführer. Für Familien sind die Wanderwege und der Alpenblumengarten die sinnvollere Wahl."
+    }
+   },
+   {
+    "h": {
+     "nl": "Winter: skiën",
+     "en": "Winter: skiing",
+     "de": "Winter: Skifahren"
+    },
+    "p": {
+     "nl": "Het skigebied Kitzbüheler Horn ligt aan de oostkant van Kitzbühel en wordt door de toeristische organisatie van Kitzbühel beschreven als bijzonder geschikt voor gezinnen en groepen. Volgens een skigebiedsprofiel gaat het om ca. 17 km piste, met circa tien liften en een hoogteverschil van ca. 770 tot 2.000 m; de winterseizoen loopt ruwweg van half december tot begin april. De Hahnenkamm met de Streif aan de westkant is meer iets voor gevorderde skiërs. Controleer de actuele pistekaart.",
+     "en": "The Kitzbüheler Horn ski area lies on the east side of Kitzbühel and is described by the Kitzbühel tourist board as particularly suitable for families and groups. According to a ski area profile it has about 17 km of pistes, around ten lifts and a vertical range of roughly 770 to 2,000 m; the winter season runs roughly from mid-December to early April. The Hahnenkamm with the Streif on the west side is more for advanced skiers. Check the current piste map.",
+     "de": "Das Skigebiet Kitzbüheler Horn liegt auf der Ostseite von Kitzbühel und wird vom Tourismusverband Kitzbühel als besonders geeignet für Familien und Gruppen beschrieben. Laut einem Skigebietsprofil sind es rund 17 Pistenkilometer, etwa zehn Lifte und ein Höhenbereich von ca. 770 bis 2.000 m; die Wintersaison reicht grob von Mitte Dezember bis Anfang April. Der Hahnenkamm mit der Streif auf der Westseite ist eher etwas für fortgeschrittene Skifahrer. Prüfe den aktuellen Pistenplan."
+    }
+   },
+   {
+    "h": {
+     "nl": "Winter: toerskiën",
+     "en": "Winter: ski touring",
+     "de": "Winter: Skitouren"
+    },
+    "p": {
+     "nl": "Skitouren naar de top zijn mogelijk maar zeker geen beginnersroute. Een tourbeschrijving noemt een zelden gemaakte tocht van ca. 1.350 hoogtemeters en ongeveer vier uur stijgen, met een spectaculair sleutelstuk: de traverse van de Hofer-Schneid. Dit is alpien terrein waar alleen ervaren toerskiërs met lawinekennis en uitrusting terechtkunnen. Er zijn mildere toerskiopties in de omgeving, zoals het Wiedersbergerhorn, maar ook daar bepaalt de sneeuwsituatie of het verantwoord is.",
+     "en": "Ski tours to the summit are possible but certainly not a beginner route. A tour description lists a rarely done route of about 1,350 metres of ascent and roughly four hours uphill, with a spectacular crux: the traverse of the Hofer-Schneid. This is alpine terrain for experienced ski tourers with avalanche knowledge and equipment only. There are milder options nearby, such as the Wiedersbergerhorn, but even there the snow conditions decide whether it is sensible.",
+     "de": "Skitouren zum Gipfel sind möglich, aber keineswegs eine Einsteigerroute. Eine Tourenbeschreibung nennt eine selten gegangene Tour mit rund 1.350 Höhenmetern und etwa vier Stunden Aufstieg, mit einer spektakulären Schlüsselstelle: der Querung der Hofer-Schneid. Das ist alpines Gelände nur für erfahrene Tourengeher mit Lawinenkenntnis und Ausrüstung. In der Umgebung gibt es mildere Optionen wie das Wiedersbergerhorn, doch auch dort entscheidet die Schneelage, ob es vertretbar ist."
+    }
+   },
+   {
+    "h": {
+     "nl": "Veiligheid",
+     "en": "Safety",
+     "de": "Sicherheit"
+    },
+    "p": {
+     "nl": "Raadpleeg voor toerskiën of elke tocht buiten de pistes altijd het lawinebulletin Tirol (lawine.tirol.gv.at) en neem lawinepieper, schep en sonde mee. Deze gids is geen routebeschrijving om blind te volgen en vervangt geen lokale kennis of een berggids. In de zomer is het weer in de bergen wisselvallig, met onweer in de middag; bij de Höhenweg en de klettersteig zijn trittsicherheit en een vroege start belangrijk. Draai om als het weer verslechtert.",
+     "en": "For ski touring or any trip off the pistes, always consult the Tyrol avalanche bulletin (lawine.tirol.gv.at) and carry a transceiver, shovel and probe. This guide is not a route description to follow blindly and does not replace local knowledge or a mountain guide. In summer the weather in the mountains is changeable, with afternoon thunderstorms; on the Höhenweg and the via ferrata sure-footedness and an early start matter. Turn back if the weather worsens.",
+     "de": "Konsultiere für Skitouren und jede Tour abseits der Pisten immer den Lawinenlagebericht Tirol (lawine.tirol.gv.at) und nimm LVS-Gerät, Schaufel und Sonde mit. Dieser Ratgeber ist keine Routenbeschreibung zum blinden Nachgehen und ersetzt weder Ortskenntnis noch einen Bergführer. Im Sommer ist das Wetter in den Bergen wechselhaft, mit Nachmittagsgewittern; auf dem Höhenweg und am Klettersteig sind Trittsicherheit und ein früher Start wichtig. Kehre um, wenn sich das Wetter verschlechtert."
+    }
+   }
+  ],
+  "tips": {
+   "nl": [
+    "Plan voor Niederau ca. 1 uur rijden en begin vroeg om parkeren en wachtrijen voor te zijn.",
+    "Combineer de lift met de Alpenblumengarten als je met jonge kinderen gaat.",
+    "Laat de Horn-Gipfel-Höhenweg en de klettersteig over aan wie trittsicher is en ervaring heeft.",
+    "Kies in de winter het Horn voor een rustiger gezinsdag en de Hahnenkamm voor gevorderde skiërs.",
+    "Controleer lift, pistes en horeca voor vertrek; tijden en seizoenen wijzigen."
+   ],
+   "en": [
+    "Allow about 1 hour from Niederau and start early to beat parking and queues.",
+    "Combine the lift with the Alpenblumengarten if you are travelling with young children.",
+    "Leave the Horn-Gipfel-Höhenweg and the via ferrata to those who are sure-footed and experienced.",
+    "In winter choose the Horn for a calmer family day and the Hahnenkamm for advanced skiers.",
+    "Check lifts, pistes and mountain restaurants before you leave; times and seasons change."
+   ],
+   "de": [
+    "Plane ab Niederau etwa 1 Stunde Fahrt ein und starte früh, um Parkplatzsuche und Warteschlangen zu umgehen.",
+    "Verbinde die Bahnfahrt mit dem Alpenblumengarten, wenn du mit kleinen Kindern unterwegs bist.",
+    "Überlasse den Horn-Gipfel-Höhenweg und den Klettersteig Trittsicheren und Erfahrenen.",
+    "Wähle im Winter das Horn für einen ruhigeren Familientag und den Hahnenkamm für Fortgeschrittene.",
+    "Prüfe Bahnen, Pisten und Einkehr vor der Abfahrt; Zeiten und Saisonen ändern sich."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog is het Kitzbüheler Horn?",
+     "en": "How high is the Kitzbüheler Horn?",
+     "de": "Wie hoch ist das Kitzbüheler Horn?"
+    },
+    "a": {
+     "nl": "De top ligt op ca. 2.000 m; bronnen noemen 1.987, 1.992 of 1.996 m. Vanuit Niederau is het ca. 1 uur rijden naar Kitzbühel.",
+     "en": "The summit is at about 2,000 m; sources quote 1,987, 1,992 or 1,996 m. From Niederau it is about 1 hour by car to Kitzbühel.",
+     "de": "Der Gipfel liegt bei rund 2.000 m; Quellen nennen 1.987, 1.992 oder 1.996 m. Ab Niederau sind es etwa 1 Stunde Fahrt nach Kitzbühel."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is het Kitzbüheler Horn geschikt voor gezinnen?",
+     "en": "Is the Kitzbüheler Horn suitable for families?",
+     "de": "Ist das Kitzbüheler Horn für Familien geeignet?"
+    },
+    "a": {
+     "nl": "In de winter wordt het skigebied door de toeristische organisatie van Kitzbühel als geschikt voor gezinnen en groepen beschreven. In de zomer zijn de alpenbloementuin en korte wandelingen goed te doen; de Höhenweg en klettersteig vragen ervaring.",
+     "en": "In winter the ski area is described by the Kitzbühel tourist board as suitable for families and groups. In summer the flower garden and short walks are easy to manage; the Höhenweg and via ferrata require experience.",
+     "de": "Im Winter wird das Skigebiet vom Tourismusverband Kitzbühel als geeignet für Familien und Gruppen beschrieben. Im Sommer sind der Alpenblumengarten und kurze Wanderungen gut machbar; Höhenweg und Klettersteig verlangen Erfahrung."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je het Kitzbüheler Horn beklimmen met toerski's?",
+     "en": "Can you ski tour up the Kitzbüheler Horn?",
+     "de": "Kann man das Kitzbüheler Horn mit Tourenski besteigen?"
+    },
+    "a": {
+     "nl": "Ja, maar het is een alpiene tocht voor ervaren toerskiërs (ca. 1.350 hoogtemeters). Raadpleeg het lawinebulletin Tirol en ga bij twijfel met een berggids.",
+     "en": "Yes, but it is an alpine tour for experienced ski tourers (about 1,350 metres of ascent). Consult the Tyrol avalanche bulletin and go with a mountain guide if in doubt.",
+     "de": "Ja, aber es ist eine alpine Tour für erfahrene Tourengeher (rund 1.350 Höhenmeter). Konsultiere den Lawinenlagebericht Tirol und geh im Zweifel mit einem Bergführer."
+    }
+   }
+  ]
+ },
+ {
+  "id": "berg-kellerjoch",
+  "slug": {
+   "nl": "kellerjoch-wandelen-en-toerskien",
+   "en": "kellerjoch-hiking-and-ski-touring",
+   "de": "kellerjoch-wandern-und-skitour"
+  },
+  "title": {
+   "nl": "Kellerjoch bij Schwaz: wandelen en toerskiën in het Inntal",
+   "en": "Kellerjoch near Schwaz: hiking and ski touring in the Inn Valley",
+   "de": "Kellerjoch bei Schwaz: Wandern und Skitour im Inntal"
+  },
+  "tagline": {
+   "nl": "Berg van Schwaz op 2.344 m met bergbaan, hut en toerskiroutes, ca. 45 minuten vanaf Niederau.",
+   "en": "Schwaz's mountain at 2,344 m with cable car, hut and ski tour routes, about 45 minutes from Niederau.",
+   "de": "Hausberg von Schwaz auf 2.344 m mit Bergbahn, Hütte und Skitouren, ca. 45 Minuten ab Niederau."
+  },
+  "intro": {
+   "nl": "Het Kellerjoch (2.344 m) is de huisberg van Schwaz in de Tuxer Alpen, aan de noordkant van het Inntal. Het is een stevigere bergdag dan de liftgebonden toppen in de buurt van Niederau, maar goed te combineren: je rijdt in ca. 45 minuten via het Inntal naar Schwaz en kunt vanaf de bergbaan op weg. Wie wil wandelen op het Kellerjoch, of een toerski-tocht zoekt dicht bij Niederau, vindt hier een bekend doel.\n\nIn de zomer loopt er een klassieke rondtocht vanaf de Loassattel over de Kuhmesser (2.246 m) naar de top, en kun je overnachten of pauzeren bij de Kellerjochhütte (2.237 m). In de winter is het berg- en toerskigebied met zijn skipiste en tochten naar de hut en de top een geliefde bestemming voor ervaren toerskiërs.\n\nDeze gids geeft een eerste indruk: ligging, de rit omhoog, zomer- en winterroutes, de hut en vooral de veiligheid. Het is geen routebeschrijving. Check altijd de actuele omstandigheden en het lawinebulletin, en informeer vooraf naar bergbaan en hut; we noemen geen tijden of prijzen.",
+   "en": "The Kellerjoch (2,344 m) is the home mountain of Schwaz in the Tux Alps, on the north side of the Inn Valley. It is a more serious mountain day than the lift-served peaks near Niederau, yet easy to combine: you drive in about 45 minutes through the Inn Valley to Schwaz and can set off from the cable car. If you want to hike the Kellerjoch, or look for a ski tour close to Niederau, this is a well-known goal.\n\nIn summer a classic circuit leads from the Loassattel over the Kuhmesser (2,246 m) to the summit, and you can rest or stay overnight at the Kellerjochhütte (2,237 m). In winter the mountain with its small ski piste and tours to the hut and summit is a favourite for experienced ski tourers.\n\nThis guide gives a first impression: location, the ride up, summer and winter routes, the hut and above all safety. It is not a route description. Always check current conditions and the avalanche bulletin, and ask in advance about the cable car and hut; we give no times or prices.",
+   "de": "Das Kellerjoch (2.344 m) ist der Hausberg von Schwaz in den Tuxer Alpen, auf der Nordseite des Inntals. Es ist ein ernsterer Bergtag als die bahnerschlossenen Gipfel rund um Niederau, lässt sich aber gut kombinieren: Du fährst in etwa 45 Minuten durchs Inntal nach Schwaz und kannst von der Bergbahn aus starten. Wer auf das Kellerjoch wandern oder eine Skitour nahe Niederau sucht, findet hier ein bekanntes Ziel.\n\nIm Sommer führt eine klassische Runde vom Loassattel über den Kuhmesser (2.246 m) zum Gipfel, und an der Kellerjochhütte (2.237 m) kannst du rasten oder übernachten. Im Winter ist der Berg mit seiner kleinen Skipiste und den Touren zur Hütte und zum Gipfel ein Favorit erfahrener Tourengeher.\n\nDieser Ratgeber vermittelt einen ersten Eindruck: Lage, Auffahrt, Sommer- und Winterrouten, Hütte und vor allem Sicherheit. Er ist keine Routenbeschreibung. Prüfe stets die aktuellen Verhältnisse und den Lawinenlagebericht und erkundige dich vorab nach Bergbahn und Hütte; Zeiten oder Preise nennen wir nicht."
+  },
+  "sections": [
+   {
+    "h": {
+     "nl": "Over de berg",
+     "en": "About the mountain",
+     "de": "Der Berg"
+    },
+    "p": {
+     "nl": "Het Kellerjoch (2.344 m) is een prominent uitzichtpunt in de Tuxer Alpen en de lokale berg van Schwaz (ca. 545 m). Op de top staat volgens bronnen een kapel in plaats van een gewoon kruis; het kruis dat vaak in verhalen voorkomt, staat op de nabije Kuhmesser (2.246 m). Schwaz, Vomp en Pill in het Inntal zijn de kortste uitgangspunten. Vanaf Niederau rijd je ca. 45 minuten naar het Inntal, afhankelijk van verkeer en route. De hoogte van 2.344 m komt in de meeste bronnen terug.",
+     "en": "The Kellerjoch (2,344 m) is a prominent viewpoint in the Tux Alps and the local mountain of Schwaz (about 545 m). According to sources, the summit carries a chapel instead of an ordinary cross; the cross often mentioned in accounts stands on the nearby Kuhmesser (2,246 m). Schwaz, Vomp and Pill in the Inn Valley are the shortest starting points. From Niederau it is about 45 minutes by car to the Inn Valley, depending on traffic and route. The height of 2,344 m appears in most sources.",
+     "de": "Das Kellerjoch (2.344 m) ist ein markanter Aussichtspunkt in den Tuxer Alpen und der Hausberg von Schwaz (ca. 545 m). Laut Quellen trägt der Gipfel eine Kapelle statt eines gewöhnlichen Kreuzes; das in Berichten oft genannte Kreuz steht auf dem nahen Kuhmesser (2.246 m). Schwaz, Vomp und Pill im Inntal sind die kürzesten Ausgangspunkte. Ab Niederau sind es ca. 45 Minuten Fahrt ins Inntal, je nach Verkehr und Route. Die Höhe von 2.344 m erscheint in den meisten Quellen."
+    }
+   },
+   {
+    "h": {
+     "nl": "Zo kom je er",
+     "en": "Getting there",
+     "de": "Anreise"
+    },
+    "p": {
+     "nl": "Een gangbare start is de Kellerjochbahn bij Schwaz-Pill; de route via de bergstraat over de Pillberg leidt naar het parkeerterrein bij Grafenast en de bergbaan die tot het Hecherhaus (1.887 m) rijdt. Wie wil, kan ook zonder lift vanuit het dal omhoog, maar dat is een lange klim. Bergbanen hebben eigen seizoenen en onderhoudsperioden; informeer vooraf of de baan rijdt, zeker in de winter waarin het Hecherhaus volgens een bron wel open kan zijn.",
+     "en": "A common start is the Kellerjochbahn at Schwaz-Pill; the route via the mountain road over the Pillberg leads to the car park at Grafenast and the cable car that reaches the Hecherhaus (1,887 m). You can also climb from the valley without the lift, but that is a long ascent. Cable cars have their own seasons and maintenance periods; ask beforehand whether it is running, especially in winter, when according to one source the Hecherhaus can be open.",
+     "de": "Ein üblicher Start ist die Kellerjochbahn bei Schwaz-Pill; die Route über die Bergstraße über den Pillberg führt zum Parkplatz in Grafenast und zur Bahn, die bis zum Hecherhaus (1.887 m) fährt. Man kann auch ohne Bahn aus dem Tal aufsteigen, das ist aber ein langer Aufstieg. Bergbahnen haben eigene Saisonen und Revisionszeiten; erkundige dich vorab, ob sie fährt, besonders im Winter, wenn laut einer Quelle das Hecherhaus geöffnet sein kann."
+    }
+   },
+   {
+    "h": {
+     "nl": "Zomer: wandelen",
+     "en": "Summer: hiking",
+     "de": "Sommer: Wandern"
+    },
+    "p": {
+     "nl": "Een klassieke zomertocht is de rondwandeling vanaf de Loassattel via de Kuhmesser naar het Kellerjoch. Een tourverslag noemt ca. 2,5 uur stijgen, 8,1 km en ongeveer 750 hoogtemeters. Het laatste stuk over de kam vraagt trittsicherheit en is deels met kabel beveiligd. Er is ook een bike-and-hikeroute naar het Kellerjoch. Dit is serieuze bergwandelen, geen vlakke wandeling: schat je conditie realistisch in en neem water, een extra laag en regenkleding mee.",
+     "en": "A classic summer tour is the circuit from the Loassattel via the Kuhmesser to the Kellerjoch. A tour report mentions about 2.5 hours of ascent, 8.1 km and roughly 750 metres of climbing. The final section along the ridge requires sure-footedness and is partly protected by cable. There is also a bike-and-hike route to the Kellerjoch. This is serious mountain walking, not a flat stroll: judge your fitness realistically and carry water, an extra layer and rain gear.",
+     "de": "Eine klassische Sommertour ist die Runde vom Loassattel über den Kuhmesser zum Kellerjoch. Ein Tourenbericht nennt etwa 2,5 Stunden Aufstieg, 8,1 km und rund 750 Höhenmeter. Der letzte Abschnitt über den Grat verlangt Trittsicherheit und ist teilweise mit Seil gesichert. Es gibt auch eine Bike-&-Hike-Route zum Kellerjoch. Das ist ernsthaftes Bergwandern, kein flacher Spaziergang: Schätze deine Kondition realistisch ein und nimm Wasser, eine zusätzliche Schicht und Regenkleidung mit."
+    }
+   },
+   {
+    "h": {
+     "nl": "Kellerjochhütte",
+     "en": "Kellerjochhütte",
+     "de": "Kellerjochhütte"
+    },
+    "p": {
+     "nl": "De Kellerjochhütte ligt op 2.237 m en is eigendom van de ÖAV-sectie Schwaz. Vanaf de bergstation of het Hecherhaus kost de aanloop ongeveer een uur. De hut is volgens bronnen bemand van Pinksteren tot oktober, al zijn de vermelde seizoenen niet overal gelijk (andere bron: juni tot september); informeer dus altijd vooraf. Daarnaast heeft de hut een verwarmbare winterruimte. Het Hecherhaus (1.887 m) is een tussenstop voor een versnapering of als startpunt. We noemen geen openingstijden of prijzen.",
+     "en": "The Kellerjochhütte stands at 2,237 m and belongs to the ÖAV section Schwaz. From the top station or the Hecherhaus the approach takes about an hour. According to sources the hut is staffed from Pentecost to October, although the stated seasons are not the same everywhere (another source says June to September), so always ask in advance. The hut also has a heatable winter room. The Hecherhaus (1,887 m) is a stop for refreshments or a starting point. We give no opening times or prices.",
+     "de": "Die Kellerjochhütte steht auf 2.237 m und gehört der ÖAV-Sektion Schwaz. Von der Bergstation oder dem Hecherhaus dauert der Zustieg etwa eine Stunde. Laut Quellen ist die Hütte von Pfingsten bis Oktober bewirtschaftet, wobei die genannten Zeiträume nicht überall gleich sind (eine andere Quelle nennt Juni bis September); frage daher immer vorab nach. Zudem hat die Hütte einen beheizbaren Winterraum. Das Hecherhaus (1.887 m) ist Station für eine Einkehr oder Ausgangspunkt. Öffnungszeiten oder Preise nennen wir nicht."
+    }
+   },
+   {
+    "h": {
+     "nl": "Winter: skiën en toerskiën",
+     "en": "Winter: skiing and ski touring",
+     "de": "Winter: Skifahren und Skitour"
+    },
+    "p": {
+     "nl": "In het onderste deel van de berg ligt een klein skigebied dat vanaf de Kellerjochbahn wordt bediend. Voor toerskiërs is het Kellerjoch een bekend doel. Een veelgenoemde route start bij het parkeerterrein in Grafenast, volgt de piste naar het Hecherhaus en gaat verder naar de Arbeser; een bron noemt ca. 2 uur en 5 km. Een rustiger variant begint bij de Pirchneraste via de Proxenalm, in open terrein, en vraagt stabiele omstandigheden, vooral bij de afdaling. Welke route verantwoord is, hangt van de sneeuwsituatie af.",
+     "en": "On the lower part of the mountain there is a small ski area served from the Kellerjochbahn. For ski tourers the Kellerjoch is a well-known goal. A frequently mentioned route starts at the car park in Grafenast, follows the piste to the Hecherhaus and continues to the Arbeser; one source gives about 2 hours and 5 km. A quieter variant begins at the Pirchneraste via the Proxenalm, in open terrain, and calls for stable conditions, especially on the descent. Which route is sensible depends on the snow situation.",
+     "de": "Im unteren Teil des Berges liegt ein kleines Skigebiet, das von der Kellerjochbahn aus bedient wird. Für Tourengeher ist das Kellerjoch ein bekanntes Ziel. Eine häufig genannte Route startet am Parkplatz in Grafenast, folgt der Piste zum Hecherhaus und führt weiter zum Arbeser; eine Quelle nennt etwa 2 Stunden und 5 km. Eine ruhigere Variante beginnt an der Pirchneraste über die Proxenalm, im freien Gelände, und verlangt stabile Verhältnisse, besonders bei der Abfahrt. Welche Route vertretbar ist, hängt von der Schneelage ab."
+    }
+   },
+   {
+    "h": {
+     "nl": "Veiligheid",
+     "en": "Safety",
+     "de": "Sicherheit"
+    },
+    "p": {
+     "nl": "Raadpleeg voor elke toerskitocht of tocht buiten de piste het lawinebulletin Tirol (lawine.tirol.gv.at) en neem lawinepieper, schep en sonde mee, plus kennis om ze te gebruiken. Deze gids is geen routebeschrijving om blind te volgen en vervangt geen lokale kennis of berggids. In de zomer vraagt het kamstuk naar de top trittsicherheit, en weer en onweer bepalen of je doorgaat. Vertrek vroeg, meld je plannen aan iemand en keer om als de omstandigheden verslechteren.",
+     "en": "For any ski tour or trip off the piste, consult the Tyrol avalanche bulletin (lawine.tirol.gv.at) and carry a transceiver, shovel and probe, plus the knowledge to use them. This guide is not a route description to follow blindly and does not replace local knowledge or a mountain guide. In summer the ridge section to the summit requires sure-footedness, and weather and thunderstorms decide whether you carry on. Set off early, tell someone your plans and turn back if conditions worsen.",
+     "de": "Konsultiere für jede Skitour und jede Tour abseits der Piste den Lawinenlagebericht Tirol (lawine.tirol.gv.at) und nimm LVS-Gerät, Schaufel und Sonde mit, dazu das Wissen, sie zu benutzen. Dieser Ratgeber ist keine Routenbeschreibung zum blinden Nachgehen und ersetzt weder Ortskenntnis noch einen Bergführer. Im Sommer verlangt der Gratabschnitt zum Gipfel Trittsicherheit, und Wetter und Gewitter entscheiden, ob du weitergehst. Starte früh, sage jemandem Bescheid und kehre um, wenn sich die Verhältnisse verschlechtern."
+    }
+   }
+  ],
+  "tips": {
+   "nl": [
+    "Plan voor Niederau ca. 45 minuten rijden; begin vroeg, zeker in de zomer vanwege onweer.",
+    "Kies als gezin eerder de rustige route naar het Hecherhaus dan de topbeklimming.",
+    "Informeer vooraf naar bergbaan, Hecherhaus en Kellerjochhütte; seizoenen verschillen per bron.",
+    "Controleer in de winter altijd het lawinebulletin Tirol en kies de route op basis van de sneeuwsituatie.",
+    "Neem extra kleding, water en een warme laag mee; boven is het merkbaar kouder."
+   ],
+   "en": [
+    "Allow about 45 minutes from Niederau; start early, especially in summer because of thunderstorms.",
+    "As a family, choose the calmer route to the Hecherhaus rather than the summit climb.",
+    "Ask in advance about the cable car, the Hecherhaus and the Kellerjochhütte; seasons differ by source.",
+    "In winter always check the Tyrol avalanche bulletin and pick your route according to the snow situation.",
+    "Carry extra clothing, water and a warm layer; it is noticeably colder at the top."
+   ],
+   "de": [
+    "Plane ab Niederau ca. 45 Minuten Fahrt ein; starte früh, besonders im Sommer wegen Gewittern.",
+    "Wähle als Familie eher die ruhige Route zum Hecherhaus als den Gipfelaufstieg.",
+    "Erkundige dich vorab nach Bergbahn, Hecherhaus und Kellerjochhütte; die Saisonzeiten unterscheiden sich je nach Quelle.",
+    "Prüfe im Winter immer den Lawinenlagebericht Tirol und wähle die Route nach der Schneelage.",
+    "Nimm zusätzliche Kleidung, Wasser und eine warme Schicht mit; oben ist es deutlich kälter."
+   ]
+  },
+  "faq": [
+   {
+    "q": {
+     "nl": "Hoe hoog is het Kellerjoch en waar ligt het?",
+     "en": "How high is the Kellerjoch and where is it?",
+     "de": "Wie hoch ist das Kellerjoch und wo liegt es?"
+    },
+    "a": {
+     "nl": "Het Kellerjoch is 2.344 m hoog en ligt in de Tuxer Alpen boven Schwaz in het Inntal. Vanaf Niederau is het ca. 45 minuten rijden.",
+     "en": "The Kellerjoch is 2,344 m high and lies in the Tux Alps above Schwaz in the Inn Valley. From Niederau it is about 45 minutes by car.",
+     "de": "Das Kellerjoch ist 2.344 m hoch und liegt in den Tuxer Alpen oberhalb von Schwaz im Inntal. Ab Niederau sind es etwa 45 Minuten Fahrt."
+    }
+   },
+   {
+    "q": {
+     "nl": "Kun je met de lift naar het Kellerjoch?",
+     "en": "Can you take a lift up the Kellerjoch?",
+     "de": "Kann man mit der Bahn aufs Kellerjoch fahren?"
+    },
+    "a": {
+     "nl": "De Kellerjochbahn brengt je tot het Hecherhaus (1.887 m); de top bereik je daarna te voet. Informeer vooraf of de baan rijdt.",
+     "en": "The Kellerjochbahn takes you to the Hecherhaus (1,887 m); you then reach the summit on foot. Ask beforehand whether it is running.",
+     "de": "Die Kellerjochbahn bringt dich bis zum Hecherhaus (1.887 m); den Gipfel erreichst du dann zu Fuß. Erkundige dich vorab, ob sie fährt."
+    }
+   },
+   {
+    "q": {
+     "nl": "Is het Kellerjoch geschikt voor toerskiën?",
+     "en": "Is the Kellerjoch suitable for ski touring?",
+     "de": "Eignet sich das Kellerjoch für Skitouren?"
+    },
+    "a": {
+     "nl": "Ja, het is een bekende toerskibestemming, maar alleen voor ervaren toerskiërs met lawinekennis en uitrusting. Raadpleeg altijd het lawinebulletin Tirol.",
+     "en": "Yes, it is a well-known ski touring destination, but only for experienced ski tourers with avalanche knowledge and equipment. Always consult the Tyrol avalanche bulletin.",
+     "de": "Ja, es ist ein bekanntes Skitourenziel, aber nur für erfahrene Tourengeher mit Lawinenkenntnis und Ausrüstung. Konsultiere immer den Lawinenlagebericht Tirol."
+    }
+   }
+  ]
+ }
+]
