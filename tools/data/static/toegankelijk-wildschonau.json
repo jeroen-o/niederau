@@ -1,0 +1,166 @@
+{
+ "id": "toegankelijk-wildschonau",
+ "slug": {
+  "nl": "toegankelijk-wildschonau",
+  "en": "accessible-wildschonau",
+  "de": "barrierefrei-wildschoenau"
+ },
+ "title": {
+  "nl": "Toegankelijke vakantie in de Wildschönau",
+  "en": "Accessible holiday in the Wildschönau",
+  "de": "Barrierefreier Urlaub in der Wildschönau"
+ },
+ "tagline": {
+  "nl": "Rolstoel of beperkte mobiliteit? Wat het toeristenbureau meldt over toegankelijke accommodaties, restaurants en uitstapjes.",
+  "en": "Wheelchair or limited mobility? What the tourist board reports on accessible accommodation, restaurants and excursions.",
+  "de": "Rollstuhl oder eingeschränkte Mobilität? Was der Tourismusverband zu barrierefreien Unterkünften, Restaurants und Ausflugszielen meldet."
+ },
+ "intro": {
+  "nl": "Het toeristenbureau van de Wildschönau heeft de informatie voor gasten met een beperking gebundeld. Op deze pagina staat een samenvatting in eigen woorden. Het is een overzicht, geen garantie: de toegankelijkheid van een plek hangt af van jouw situatie, dus bel altijd vooraf met de aanbieder.\n\nWie met een rolstoel reist, let op de breedte van deuren en liften, drempels, toiletten en het hoogteverschil bij de ingang. Vraag naar concrete maten in plaats van alleen ‘toegankelijk’.",
+  "en": "The Wildschönau tourist board has bundled the information for guests with a disability. This page gives a summary in our own words. It is an overview, not a guarantee: how accessible a place is depends on your situation, so always call the provider beforehand.\n\nIf you travel in a wheelchair, check the width of doors and lifts, thresholds, toilets and the height difference at the entrance. Ask for concrete measurements instead of just ‘accessible’.",
+  "de": "Der Tourismusverband Wildschönau hat die Informationen für Gäste mit Behinderung gebündelt. Diese Seite fasst sie in eigenen Worten zusammen. Es ist ein Überblick, keine Garantie: Wie barrierefrei ein Ort ist, hängt von deiner Situation ab, also rufe immer vorher beim Anbieter an.\n\nWer mit dem Rollstuhl reist, achtet auf die Breite von Türen und Aufzügen, Schwellen, Toiletten und den Höhenunterschied am Eingang. Frage nach konkreten Maßen statt nur nach ‚barrierefrei‘."
+ },
+ "sections": [
+  {
+   "h": {
+    "nl": "Aankomst met de trein",
+    "en": "Arriving by train",
+    "de": "Anreise mit der Bahn"
+   },
+   "p": {
+    "nl": "De ÖBB en Deutsche Bahn bieden via hun mobiliteitsservice hulp aan reizigers met beperkte mobiliteit. Na een aanmelding vooraf helpt personeel bij het in- en uitstappen en bij het overstappen. Meld je ruim voor vertrek aan.",
+    "en": "ÖBB and Deutsche Bahn offer help for travellers with reduced mobility through their mobility service. After registering in advance, staff help with boarding, getting off and changing trains. Register well before departure.",
+    "de": "Die ÖBB und die Deutsche Bahn bieten über ihren Mobilitätsservice Hilfe für Reisende mit eingeschränkter Mobilität an. Nach vorheriger Anmeldung hilft das Personal beim Ein- und Aussteigen sowie beim Umsteigen. Melde dich rechtzeitig vor der Abreise an."
+   }
+  },
+  {
+   "h": {
+    "nl": "Accommodaties en restaurants",
+    "en": "Accommodation and restaurants",
+    "de": "Unterkünfte und Restaurants"
+   },
+   "p": {
+    "nl": "Het toeristenbureau noemt twee barrièrevrije accommodaties met een inspectierapport: Apparthotel Talhof en Hotel Sonnschein. Als barrièrevrije restaurants worden genoemd: Dorferwirt, Hotel Bergkristall, Restaurant Tirolerhof, Markbachjoch Alm, Norderbergalm, Restaurant Drachenherz en Restaurant Talhof.",
+    "en": "The tourist board names two barrier-free accommodations with an inspection report: Apparthotel Talhof and Hotel Sonnschein. Named as barrier-free restaurants are: Dorferwirt, Hotel Bergkristall, Restaurant Tirolerhof, Markbachjoch Alm, Norderbergalm, Restaurant Drachenherz and Restaurant Talhof.",
+    "de": "Der Tourismusverband nennt zwei barrierefreie Unterkünfte mit Prüfbericht: Apparthotel Talhof und Hotel Sonnschein. Als barrierefreie Restaurants werden genannt: Dorferwirt, Hotel Bergkristall, Restaurant Tirolerhof, Markbachjoch Alm, Norderbergalm, Restaurant Drachenherz und Restaurant Talhof."
+   }
+  },
+  {
+   "h": {
+    "nl": "Uitstapjes",
+    "en": "Excursions",
+    "de": "Ausflugsziele"
+   },
+   "list": [
+    {
+     "t": {
+      "nl": "Auenweg in Niederau: een gezinswandeling langs een beekje met een speeltuin halverwege; de start ligt bij het wandelbord onder de Markbachjochbahn",
+      "en": "Auenweg in Niederau: a family walk along a small stream with a playground halfway; it starts at the hiking board below the Markbachjoch gondola",
+      "de": "Auenweg in Niederau: ein Familienspaziergang entlang eines Bächleins mit Spielplatz auf halber Strecke; Start an der Wandertafel unter der Markbachjochbahn"
+     }
+    },
+    {
+     "t": {
+      "nl": "Familiepark Drachental in Oberau: het hele jaar open; sinds juli 2025 is er een schommel die met een rolstoel bereikbaar is",
+      "en": "Drachental family park in Oberau: open all year; since July 2025 there is a swing that can be used with a wheelchair",
+      "de": "Familienpark Drachental in Oberau: ganzjährig geöffnet; seit Juli 2025 gibt es eine Schaukel, die mit dem Rollstuhl genutzt werden kann"
+     }
+    },
+    {
+     "t": {
+      "nl": "Franziskusweg: een bezinningspad tussen Niederau en Oberau met negen bronzen stations van beeldhouwer Hubert Flörl",
+      "en": "St Francis Path: a path of reflection between Niederau and Oberau with nine bronze stations by sculptor Hubert Flörl",
+      "de": "Franziskusweg: ein Besinnungsweg zwischen Niederau und Oberau mit neun Bronzestationen des Bildhauers Hubert Flörl"
+     }
+    },
+    {
+     "t": {
+      "nl": "Buitenbad Wildschönau tussen Oberau en Niederau: drie baden, een ligweide en een speeltuin",
+      "en": "Wildschönau open-air pool between Oberau and Niederau: three pools, a sunbathing lawn and a playground",
+      "de": "Freischwimmbad Wildschönau zwischen Oberau und Niederau: drei Becken, eine Liegewiese und ein Spielplatz"
+     }
+    },
+    {
+     "t": {
+      "nl": "Kundler Klamm: de klammwandeling is licht en geschikt voor het hele gezin",
+      "en": "Kundler Klamm: the gorge walk is easy and suitable for the whole family",
+      "de": "Kundler Klamm: Die Klammwanderung ist leicht und für die ganze Familie geeignet"
+     }
+    },
+    {
+     "t": {
+      "nl": "Schatzbergbahn in Auffach: maximale rolstoelbreedte 80 cm, instap op perronhoogte, toiletten bij dal- en bergstation, lift in het dalstation en een helling bij het bergstation",
+      "en": "Schatzberg cable car in Auffach: maximum wheelchair width 80 cm, entrance at platform level, toilets at the bottom and top stations, a lift at the bottom station and a ramp at the top station",
+      "de": "Schatzbergbahn in Auffach: maximale Rollstuhlbreite 80 cm, Einstieg auf Bahnsteighöhe, Toiletten an Tal- und Bergstation, Aufzug an der Talstation und Rampe an der Bergstation"
+     }
+    }
+   ],
+   "note": {
+    "nl": "Bron: toeristenbureau Wildschönau. Controleer maten en voorzieningen vooraf bij de aanbieder.",
+    "en": "Source: Wildschönau tourist board. Check measurements and facilities with the provider beforehand.",
+    "de": "Quelle: Tourismusverband Wildschönau. Prüfe Maße und Ausstattung vorab beim Anbieter."
+   }
+  },
+  {
+   "h": {
+    "nl": "Openbare gebouwen",
+    "en": "Public buildings",
+    "de": "Öffentliche Gebäude"
+   },
+   "p": {
+    "nl": "Het toeristenbureau meldt dat het kantoor bij het zwembad in Oberau en het gemeentekantoor in Oberau toegankelijk zijn, inclusief toiletten.",
+    "en": "The tourist board reports that the tourist office at the pool in Oberau and the municipal office in Oberau are accessible, including toilets.",
+    "de": "Der Tourismusverband meldet, dass das Büro am Schwimmbad in Oberau und das Gemeindeamt in Oberau barrierefrei zugänglich sind, einschließlich Toiletten."
+   }
+  }
+ ],
+ "faq": [
+  {
+   "q": {
+    "nl": "Zijn er barrièrevrije hotels in de Wildschönau?",
+    "en": "Are there barrier-free hotels in the Wildschönau?",
+    "de": "Gibt es barrierefreie Hotels in der Wildschönau?"
+   },
+   "a": {
+    "nl": "Het toeristenbureau noemt Apparthotel Talhof en Hotel Sonnschein met een inspectierapport. Vraag vooraf naar de precieze maten.",
+    "en": "The tourist board names Apparthotel Talhof and Hotel Sonnschein with an inspection report. Ask for the exact measurements beforehand.",
+    "de": "Der Tourismusverband nennt Apparthotel Talhof und Hotel Sonnschein mit Prüfbericht. Frage vorab nach den genauen Maßen."
+   }
+  },
+  {
+   "q": {
+    "nl": "Kan ik met een rolstoel de Schatzbergbahn gebruiken?",
+    "en": "Can I use the Schatzberg cable car with a wheelchair?",
+    "de": "Kann ich die Schatzbergbahn mit dem Rollstuhl nutzen?"
+   },
+   "a": {
+    "nl": "Volgens het toeristenbureau wel, tot een rolstoelbreedte van 80 cm, met instap op perronhoogte en toiletten bij beide stations.",
+    "en": "According to the tourist board yes, up to a wheelchair width of 80 cm, with entrance at platform level and toilets at both stations.",
+    "de": "Laut Tourismusverband ja, bis zu einer Rollstuhlbreite von 80 cm, mit Einstieg auf Bahnsteighöhe und Toiletten an beiden Stationen."
+   }
+  }
+ ],
+ "related": [
+  {
+   "type": "guide",
+   "id": "reizen-naar-niederau"
+  },
+  {
+   "type": "guide",
+   "id": "accommodatie-kiezen"
+  },
+  {
+   "type": "page",
+   "path": {
+    "nl": "het-hotel-aan-de-piste-in-wildschonau/",
+    "en": "hotel-on-the-slopes-wildschonau/",
+    "de": "hotel-an-der-piste-wildschoenau/"
+   },
+   "label": {
+    "nl": "Het hotel aan de piste in Wildschönau",
+    "en": "The hotel by the slopes in the Wildschönau",
+    "de": "Das Hotel an der Piste in der Wildschönau"
+   }
+  }
+ ]
+}
