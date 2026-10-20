@@ -1,0 +1,142 @@
+{
+ "id": "skischolen-niederau",
+ "slug": {
+  "nl": "skischolen-niederau",
+  "en": "ski-schools-niederau",
+  "de": "skischulen-niederau"
+ },
+ "title": {
+  "nl": "Skischolen in Niederau en Oberau",
+  "en": "Ski schools in Niederau and Oberau",
+  "de": "Skischulen in Niederau und Oberau"
+ },
+ "tagline": {
+  "nl": "Skiles in de Wildschönau: de skischolen in Niederau en Oberau en waar je op let bij het kiezen.",
+  "en": "Ski lessons in the Wildschönau: the ski schools in Niederau and Oberau and what to look for when choosing.",
+  "de": "Skiunterricht in der Wildschönau: die Skischulen in Niederau und Oberau und worauf man bei der Wahl achten sollte."
+ },
+ "intro": {
+  "nl": "Wie in Niederau leert skiën of zijn techniek wil verbeteren, kan kiezen uit meerdere skischolen in het dal. Op deze pagina staan de scholen die het toeristenbureau van de Wildschönau in zijn regio-overzicht noemt in Niederau en Oberau. Het is geen volledige lijst en geen advertentie: ook in Auffach en in het aangrenzende Alpbachtal zijn skischolen.\n\nPrijzen, groepsgroottes en lestijden verschillen per school en per seizoen. Die staan hier daarom bewust niet; vraag ze rechtstreeks aan de skischool.",
+  "en": "Anyone learning to ski in Niederau, or wanting to improve their technique, can choose from several ski schools in the valley. This page lists the schools that the Wildschönau tourist board names in its regional overview for Niederau and Oberau. It is not a complete list and not an advertisement: there are also ski schools in Auffach and in the neighbouring Alpbachtal.\n\nPrices, group sizes and lesson times differ per school and per season. They are deliberately not given here; ask the ski school directly.",
+  "de": "Wer in Niederau Skifahren lernt oder seine Technik verbessern möchte, kann zwischen mehreren Skischulen im Tal wählen. Auf dieser Seite stehen die Schulen, die der Tourismusverband Wildschönau in seinem Regionsüberblick für Niederau und Oberau nennt. Es ist keine vollständige Liste und keine Werbung: Auch in Auffach und im benachbarten Alpbachtal gibt es Skischulen.\n\nPreise, Gruppengrößen und Unterrichtszeiten unterscheiden sich je nach Schule und Saison. Sie stehen hier bewusst nicht; frage direkt bei der Skischule nach."
+ },
+ "sections": [
+  {
+   "h": {
+    "nl": "De skischolen",
+    "en": "The ski schools",
+    "de": "Die Skischulen"
+   },
+   "list": [
+    {
+     "t": {
+      "nl": "1. Skischule Wildschönau (Niederau): een skischool met traditie die veilig en professioneel skiën leert",
+      "en": "1st Ski School Wildschönau (Niederau): a ski school with tradition that teaches skiing safely and professionally",
+      "de": "1. Skischule Wildschönau (Niederau): eine Skischule mit Tradition, die sicheres und professionelles Skifahren vermittelt"
+     }
+    },
+    {
+     "t": {
+      "nl": "Active Skischool Niederau: lessen voor alle leeftijden",
+      "en": "Active Ski School Niederau: lessons for all age groups",
+      "de": "Active Skischule Niederau: Unterricht für alle Altersgruppen"
+     }
+    },
+    {
+     "t": {
+      "nl": "Alpin skischool (Oberau): professionele skilessen",
+      "en": "Alpin ski school (Oberau): professional ski lessons",
+      "de": "Alpin Skischule (Oberau): professioneller Skiunterricht"
+     }
+    }
+   ],
+   "note": {
+    "nl": "Bron: regio-overzicht van het toeristenbureau Wildschönau. De namen kunnen in de praktijk iets anders gespeld worden.",
+    "en": "Source: regional overview of the Wildschönau tourist board. The names may be spelled slightly differently in practice.",
+    "de": "Quelle: Regionsüberblick des Tourismusverbands Wildschönau. Die Namen können in der Praxis leicht anders geschrieben werden."
+   }
+  },
+  {
+   "h": {
+    "nl": "Waar let je op bij het kiezen?",
+    "en": "What to look for when choosing",
+    "de": "Worauf man bei der Wahl achten sollte"
+   },
+   "p": {
+    "nl": "Boek in het hoogseizoen, rond kerst en in de voorjaarsvakantie, ruim van tevoren, want dan zijn groepen snel vol. Vraag welke taal de leraar spreekt en hoe groot de groepen zijn, zeker voor kinderen. Een groepsles is vaak voldoende voor beginners; een privéles loont als je snel vooruit wilt of als je kind bang is.\n\nVraag ook waar de les begint en eindigt, hoe de lunchpauze is geregeld en of een helm bij de les hoort of apart moet worden gehuurd. Voor kinderen is een helm op de piste sterk aan te raden.",
+    "en": "Book well in advance in high season, around Christmas and in the spring holidays, because groups fill up quickly. Ask which language the instructor speaks and how large the groups are, especially for children. A group lesson is often enough for beginners; a private lesson pays off if you want to progress quickly or if your child is nervous.\n\nAlso ask where the lesson starts and ends, how the lunch break is arranged and whether a helmet comes with the lesson or has to be rented separately. For children a helmet on the slope is strongly recommended.",
+    "de": "Buche in der Hochsaison, um Weihnachten und in den Frühjahrsferien, rechtzeitig, denn die Gruppen sind schnell voll. Frage, welche Sprache der Lehrer spricht und wie groß die Gruppen sind, besonders bei Kindern. Für Anfänger genügt oft ein Gruppenkurs; eine Privatstunde lohnt sich, wenn du schnell vorankommen willst oder dein Kind ängstlich ist.\n\nFrage auch, wo der Unterricht beginnt und endet, wie die Mittagspause geregelt ist und ob ein Helm zum Kurs gehört oder separat gemietet werden muss. Für Kinder wird ein Helm auf der Piste dringend empfohlen."
+   }
+  },
+  {
+   "h": {
+    "nl": "Dichtbij de piste",
+    "en": "Close to the slopes",
+    "de": "Nah an der Piste"
+   },
+   "p": {
+    "nl": "In Niederau begint het skigebied bij de Markbachjochbahn en bij de lift op de Lanerköpfl. Wie in Hotel Wastlhof logeert, staat direct aan de piste met de sleeplift voor de deur en kan daar de eerste meters oefenen. Over de skischool zelf maak je zelf afspraken.",
+    "en": "In Niederau the ski area starts at the Markbachjoch gondola and at the lift on the Lanerköpfl. Guests at Hotel Wastlhof are right by the slope with the drag lift in front of the door and can practise their first metres there. You make arrangements with a ski school yourself.",
+    "de": "In Niederau beginnt das Skigebiet bei der Markbachjochbahn und beim Lift am Lanerköpfl. Wer im Hotel Wastlhof wohnt, steht direkt an der Piste mit dem Schlepplift vor der Tür und kann dort die ersten Meter üben. Mit einer Skischule triffst du selbst Absprachen."
+   }
+  }
+ ],
+ "faq": [
+  {
+   "q": {
+    "nl": "Welke skischolen zijn er in Niederau?",
+    "en": "Which ski schools are there in Niederau?",
+    "de": "Welche Skischulen gibt es in Niederau?"
+   },
+   "a": {
+    "nl": "Het toeristenbureau noemt in Niederau onder meer de 1. Skischule Wildschönau en de Active Skischool. In Oberau is de Alpin skischool.",
+    "en": "The tourist board lists the 1st Ski School Wildschönau and the Active Ski School in Niederau, among others. In Oberau there is the Alpin ski school.",
+    "de": "Der Tourismusverband nennt in Niederau unter anderem die 1. Skischule Wildschönau und die Active Skischule. In Oberau gibt es die Alpin Skischule."
+   }
+  },
+  {
+   "q": {
+    "nl": "Wat kost een skiles?",
+    "en": "What does a ski lesson cost?",
+    "de": "Was kostet ein Skikurs?"
+   },
+   "a": {
+    "nl": "De prijzen verschillen per school en seizoen en staan daarom niet op deze pagina. Vraag ze rechtstreeks aan de skischool.",
+    "en": "Prices differ per school and season and are therefore not on this page. Ask the ski school directly.",
+    "de": "Die Preise unterscheiden sich je nach Schule und Saison und stehen deshalb nicht auf dieser Seite. Frage direkt bei der Skischule nach."
+   }
+  }
+ ],
+ "related": [
+  {
+   "type": "guide",
+   "id": "skien-met-kinderen"
+  },
+  {
+   "type": "page",
+   "path": {
+    "nl": "skigebied-niederau-kaart/",
+    "en": "ski-area-niederau-map/",
+    "de": "skigebiet-niederau-karte/"
+   },
+   "label": {
+    "nl": "Skigebied Niederau: pistekaart en overzicht",
+    "en": "Niederau ski area: piste map and overview",
+    "de": "Skigebiet Niederau: Pistenplan und Überblick"
+   }
+  },
+  {
+   "type": "page",
+   "path": {
+    "nl": "het-hotel-aan-de-piste-in-wildschonau/",
+    "en": "hotel-on-the-slopes-wildschonau/",
+    "de": "hotel-an-der-piste-wildschoenau/"
+   },
+   "label": {
+    "nl": "Het hotel aan de piste in Wildschönau",
+    "en": "The hotel by the slopes in the Wildschönau",
+    "de": "Das Hotel an der Piste in der Wildschönau"
+   }
+  }
+ ]
+}

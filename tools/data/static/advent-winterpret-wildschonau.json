@@ -1,0 +1,126 @@
+{
+ "id": "advent-winterpret-wildschonau",
+ "slug": {
+  "nl": "advent-winterpret-wildschonau",
+  "en": "advent-winter-fun-wildschonau",
+  "de": "advent-winterfreuden-wildschoenau"
+ },
+ "title": {
+  "nl": "Advent, paardenslee en winterpret in de Wildschönau",
+  "en": "Advent, sleigh rides and winter fun in the Wildschönau",
+  "de": "Advent, Pferdeschlitten und Winterfreuden in der Wildschönau"
+ },
+ "tagline": {
+  "nl": "Rustig advent, kribbenroute en een rit met de paardenslee: winter in de Wildschönau zonder ski’s.",
+  "en": "A quiet Advent, a nativity trail and a horse-drawn sleigh ride: winter in the Wildschönau without skis.",
+  "de": "Ein ruhiger Advent, ein Krippenweg und eine Pferdeschlittenfahrt: Winter in der Wildschönau ohne Ski."
+ },
+ "intro": {
+  "nl": "De Wildschönau is in de adventstijd geen drukke winkelstraat, maar een rustig dal. Het toeristenbureau beschrijft de advent als een tijd van stilte in plaats van drukte, met onder meer een gezinsadvent in het Drachental en activiteiten in de dorpen. Daarnaast zijn er in de winter genoeg dingen te doen voor wie niet skiet.",
+  "en": "In Advent the Wildschönau is not a busy shopping street but a quiet valley. The tourist board describes Advent as a time of calm rather than bustle, with among other things a family Advent in the Drachental and activities in the villages. In winter there is also plenty to do for those who do not ski.",
+  "de": "In der Adventszeit ist die Wildschönau keine belebte Einkaufsstraße, sondern ein ruhiges Tal. Der Tourismusverband beschreibt den Advent als Zeit der Stille statt des Trubels, mit unter anderem einem Familienadvent im Drachental und Veranstaltungen in den Dörfern. Außerdem gibt es im Winter genug zu tun für alle, die nicht Ski fahren."
+ },
+ "sections": [
+  {
+   "h": {
+    "nl": "De kribbenroute langs de Franziskusweg",
+    "en": "The nativity trail along the St Francis Path",
+    "de": "Der Krippenweg entlang des Franziskusweges"
+   },
+   "p": {
+    "nl": "Tijdens de advent staan langs de Franziskusweg elf vitrines met kerststallen. In totaal zijn vijftien kerststallen te zien tijdens een rustige wandeling. De eerste staat bij het Bergbauernmuseum z’Bach; de overige staan op regelmatige afstand in de richting van Oberau.",
+    "en": "During Advent, eleven display cases with nativity scenes stand along the St Francis Path. In total fifteen nativity scenes can be seen on a leisurely walk. The first is at the Bergbauernmuseum z’Bach; the others stand at regular intervals in the direction of Oberau.",
+    "de": "Im Advent stehen entlang des Franziskusweges elf Schaukästen mit Krippen. Insgesamt sind fünfzehn Krippen bei einem gemütlichen Spaziergang zu sehen. Die erste steht beim Bergbauernmuseum z’Bach; die übrigen stehen in regelmäßigen Abständen in Richtung Oberau."
+   }
+  },
+  {
+   "h": {
+    "nl": "Een rit met de paardenslee",
+    "en": "A horse-drawn sleigh ride",
+    "de": "Eine Fahrt mit dem Pferdeschlitten"
+   },
+   "p": {
+    "nl": "Het toeristenbureau noemt meerdere aanbieders van paardenslee-ritten. Met de Hintersalcher-sleeën rijd je van Auffach naar de Schönanger Alm. De ritten van Ossi Hausberger beginnen bij de Foisching-hut in Niederau en gaan langs het hertenpark naar een houten hut in het bos. Verder noemt het toeristenbureau de Penningdörfl-rit in het Brixental en de sleeën van Lehenbauer. Onderweg wordt soms een borrel geschonken. Reserveer vooraf, want de beschikbaarheid hangt van sneeuw en seizoen af.",
+    "en": "The tourist board names several providers of horse-drawn sleigh rides. With the Hintersalcher sleighs you travel from Auffach to the Schönanger Alm. The Ossi Hausberger rides start at the Foisching hut in Niederau and pass the deer park to a wooden cabin in the forest. The tourist board also names the Penningdörfl ride in the Brixen Valley and the Lehenbauer sleighs. A schnapps may be served along the way. Book in advance, because availability depends on snow and season.",
+    "de": "Der Tourismusverband nennt mehrere Anbieter von Pferdeschlittenfahrten. Mit den Hintersalcher-Schlitten fährst du von Auffach zur Schönanger Alm. Die Fahrten von Ossi Hausberger beginnen an der Foisching-Hütte in Niederau und führen am Wildpark vorbei zu einer Holzhütte im Wald. Außerdem nennt der Tourismusverband die Penningdörfl-Fahrt im Brixental und die Schlitten von Lehenbauer. Unterwegs wird manchmal ein Schnaps gereicht. Reserviere vorab, denn die Verfügbarkeit hängt von Schnee und Saison ab."
+   }
+  },
+  {
+   "h": {
+    "nl": "Rodelen, ook ’s avonds",
+    "en": "Tobogganing, also in the evening",
+    "de": "Rodeln, auch am Abend"
+   },
+   "p": {
+    "nl": "De Lanerköpfl-rodelbaan loopt langs de Gseng- en Lahner-alm naar Niederau. Op de Roggenboden in Oberau brengt een sleeplift je in het donker bij verlichting naar boven, waarna je naar beneden rodelt. Kinderrodels zijn bij de verhuurders in het dorp te huur. Meer over de banen lees je in de rodelgids.",
+    "en": "The Lanerköpfl toboggan run leads past the Gseng and Lahner alpine pastures to Niederau. On the Roggenboden in Oberau a drag lift takes you up in the dark under floodlights, after which you toboggan down. Children’s toboggans can be rented from the rental shops in the village. You can read more about the runs in the toboggan guide.",
+    "de": "Die Rodelbahn am Lanerköpfl führt an der Gseng- und Lahner-Alm vorbei nach Niederau. Auf dem Roggenboden in Oberau bringt dich ein Schlepplift im Dunkeln bei Flutlicht nach oben, danach rodelst du hinunter. Kinderrodel können bei den Verleihern im Ort gemietet werden. Mehr über die Bahnen liest du im Rodelführer."
+   }
+  },
+  {
+   "h": {
+    "nl": "Winterwandelen en sneeuwschoenen",
+    "en": "Winter walking and snowshoeing",
+    "de": "Winterwandern und Schneeschuhwandern"
+   },
+   "p": {
+    "nl": "Op geruimde winterpaden loop je door het dal; rond de Schönanger Alm ligt onder meer de rondwandeling Talschluss. Voor sneeuwschoenen noemt het toeristenbureau onder meer Thierbach, Schönanger en de Hösljoch. Er zijn ook begeleide winterwandelingen, overdag en ’s avonds. Wie op pad gaat buiten de gebaande paden, controleert vooraf het lawinebulletin.",
+    "en": "On cleared winter paths you walk through the valley; around the Schönanger Alm there is, among others, the Talschluss circular walk. For snowshoeing the tourist board names Thierbach, Schönanger and the Hösljoch, among others. There are also guided winter walks, by day and in the evening. If you leave the beaten tracks, check the avalanche bulletin beforehand.",
+    "de": "Auf geräumten Winterwegen wanderst du durch das Tal; rund um die Schönanger Alm liegt unter anderem der Rundweg Talschluss. Für Schneeschuhwanderungen nennt der Tourismusverband unter anderem Thierbach, Schönanger und das Hösljoch. Es gibt auch geführte Winterwanderungen, tagsüber und abends. Wer abseits der gebahnten Wege unterwegs ist, prüft vorab den Lawinenlagebericht."
+   }
+  }
+ ],
+ "faq": [
+  {
+   "q": {
+    "nl": "Is de Wildschönau rustig in de advent?",
+    "en": "Is the Wildschönau quiet in Advent?",
+    "de": "Ist die Wildschönau im Advent ruhig?"
+   },
+   "a": {
+    "nl": "Het toeristenbureau beschrijft de advent als een tijd van rust, met onder meer een gezinsadvent in het Drachental en de kribbenroute langs de Franziskusweg.",
+    "en": "The tourist board describes Advent as a time of calm, with among other things a family Advent in the Drachental and the nativity trail along the St Francis Path.",
+    "de": "Der Tourismusverband beschreibt den Advent als Zeit der Ruhe, mit unter anderem einem Familienadvent im Drachental und dem Krippenweg entlang des Franziskusweges."
+   }
+  },
+  {
+   "q": {
+    "nl": "Kun je in de Wildschönau ’s avonds rodelen?",
+    "en": "Can you toboggan in the evening in the Wildschönau?",
+    "de": "Kann man in der Wildschönau abends rodeln?"
+   },
+   "a": {
+    "nl": "Ja, op de Roggenboden in Oberau brengt een sleeplift je bij verlichting naar boven. Check de openingsdagen vooraf.",
+    "en": "Yes, on the Roggenboden in Oberau a drag lift takes you up under floodlights. Check the opening days beforehand.",
+    "de": "Ja, auf dem Roggenboden in Oberau bringt dich ein Schlepplift bei Flutlicht nach oben. Prüfe die Öffnungstage vorab."
+   }
+  }
+ ],
+ "related": [
+  {
+   "type": "guide",
+   "id": "rodelen"
+  },
+  {
+   "type": "guide",
+   "id": "langlaufen-winterwandelen"
+  },
+  {
+   "type": "guide",
+   "id": "veilig-in-de-bergen"
+  },
+  {
+   "type": "page",
+   "path": {
+    "nl": "het-hotel-aan-de-piste-in-wildschonau/",
+    "en": "hotel-on-the-slopes-wildschonau/",
+    "de": "hotel-an-der-piste-wildschoenau/"
+   },
+   "label": {
+    "nl": "Het hotel aan de piste in Wildschönau",
+    "en": "The hotel by the slopes in the Wildschönau",
+    "de": "Das Hotel an der Piste in der Wildschönau"
+   }
+  }
+ ]
+}

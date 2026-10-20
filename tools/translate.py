@@ -810,6 +810,10 @@ T['de'] += [(a, c) for a, b, c in STORY_PAIRS]
 HISTFOTO_PAIRS = [('      <p><a href="historische-fotos-niederau/">Historische foto’s: archieven en bronnen →</a></p>', '      <p><a href="historic-photos-niederau/">Historic photos: archives and sources →</a></p>', '      <p><a href="historische-fotos-niederau/">Historische Fotos: Archive und Quellen →</a></p>')]
 T['en'] += [(a, b) for a, b, c in HISTFOTO_PAIRS]
 T['de'] += [(a, c) for a, b, c in HISTFOTO_PAIRS]
+
+NEWPAGES_PAIRS = [('          <li><a href="skischolen-niederau/">Skischolen<small>Skiles in Niederau en Oberau</small></a></li>', '          <li><a href="ski-schools-niederau/">Ski schools<small>Ski lessons in Niederau and Oberau</small></a></li>', '          <li><a href="skischulen-niederau/">Skischulen<small>Skiunterricht in Niederau und Oberau</small></a></li>'), ('          <li><a href="advent-winterpret-wildschonau/">Advent en winterpret<small>Kribbenroute, paardenslee en rodelen</small></a></li>', '          <li><a href="advent-winter-fun-wildschonau/">Advent and winter fun<small>Nativity trail, sleigh rides and tobogganing</small></a></li>', '          <li><a href="advent-winterfreuden-wildschoenau/">Advent und Winterfreuden<small>Krippenweg, Pferdeschlitten und Rodeln</small></a></li>'), ('          <li><a href="toegankelijk-wildschonau/">Toegankelijk reizen<small>Rolstoel en beperkte mobiliteit in de Wildschönau</small></a></li>', '          <li><a href="accessible-wildschonau/">Accessible travel<small>Wheelchair and limited mobility in the Wildschönau</small></a></li>', '          <li><a href="barrierefrei-wildschoenau/">Barrierefrei reisen<small>Rollstuhl und eingeschränkte Mobilität in der Wildschönau</small></a></li>')]
+T['en'] += [(a, b) for a, b, c in NEWPAGES_PAIRS]
+T['de'] += [(a, c) for a, b, c in NEWPAGES_PAIRS]
 ok = True
 for lang in ("en", "de"):
     html = src
