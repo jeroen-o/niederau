@@ -76,7 +76,7 @@ locs = re.findall(r"<loc>([^<]+)</loc>", sm)
 for u in locs:
     path = urlparse(u).path
     if not target_exists(ROOT, path): errors.append(f"sitemap: {u} bestaat niet")
-indexable = {BASE + url_of(p) for p in pages if p.name == "index.html"}
+indexable = {BASE + url_of(p) for p in pages if p.name == "index.html" and 'name="robots" content="noindex' not in p.read_text(encoding="utf-8")[:4000]}
 missing = indexable - set(locs)
 if missing: warns.append(f"{len(missing)} pagina's niet in de sitemap, bijv. {sorted(missing)[:2]}")
 

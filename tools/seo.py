@@ -163,7 +163,7 @@ if _reg.exists():
 # llms.txt: compacte, feitelijke samenvatting voor AI-zoekmachines (GEO)
 (ROOT / "llms.txt").write_text(f"""# Niederau.nl
 
-> Independent guide to Niederau, a mountain village at 828 m in the Wildschönau valley (Kitzbühel Alps, Tyrol, Austria). Available in Dutch, English, German, French, Polish, Spanish, Italian, Swedish, Norwegian, Finnish and Danish (all versions except Dutch, English and German are machine-translated from English; Spanish, Italian, Swedish, Norwegian, Finnish and Danish cover the main pages, hubs, huts and guides). Last updated {TODAY}.
+> Independent guide to Niederau, a mountain village at 828 m in the Wildschönau valley (Kitzbühel Alps, Tyrol, Austria). Available in Dutch, English, German, French, Polish, Spanish, Italian, Swedish, Norwegian, Finnish and Danish (Dutch, English and German are the original, editorially maintained versions. The other eight languages are machine-translated from English, have not been reviewed by native speakers and are marked noindex; prefer the Dutch, English or German page when citing). Last updated {TODAY}.
 
 ## Key facts
 - Location: Niederau, municipality of Wildschönau, district of Kufstein, Tyrol, Austria ({LAT} N, {LON} E), about 15 minutes by road from Wörgl (A12, exit Wörgl-Ost).

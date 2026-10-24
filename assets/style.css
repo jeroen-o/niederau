@@ -351,3 +351,15 @@ html.js .search-btn { display: inline-flex; }
 .links-plain { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 6px; }
 .links-plain a::after { content: " ↗"; font-size: .85em; }
 .wrap > .fig-gen img { max-height: 440px; width: 100%; object-fit: cover; }
+
+/* tabellen (weer- en klimaatpagina) */
+.tbl-wrap { overflow-x: auto; margin: 1.2rem 0; border: 1px solid var(--line); border-radius: var(--radius); }
+.tbl { border-collapse: collapse; width: 100%; min-width: 34rem; font-size: .95rem; }
+.tbl caption { text-align: left; font-size: .85rem; color: var(--ink-soft); padding: .7rem .8rem 0; }
+.tbl th, .tbl td { padding: .5rem .8rem; border-bottom: 1px solid var(--line); text-align: right; }
+.tbl th:first-child, .tbl td:first-child { text-align: left; }
+.tbl thead th { color: var(--ink-strong); border-bottom-width: 2px; white-space: nowrap; font-weight: 600; }
+.tbl tbody tr:nth-child(odd) { background: var(--bg-alt); }
+.tbl tbody tr:last-child th, .tbl tbody tr:last-child td { border-bottom: 0; }
+
+.mt-note { margin: 0; padding: .55rem 1rem; background: var(--bg-alt); color: var(--ink-soft); font-size: .85rem; text-align: center; border-bottom: 1px solid var(--line); }

@@ -25,7 +25,7 @@ def entry(path, lang):
     d = re.search(r'<meta name="description" content="([^"]*)"', h)
     desc = html.unescape(d.group(1)) if d else ""
     c = re.search(r'<link rel="canonical" href="https://niederau\.nl([^"]*)"', h)
-    if not c or "noindex" in h[:3000] and 'name="robots" content="noindex' in h: return None
+    if not c or "Doorverwijzing" in h[:600] and 'name="robots" content="noindex' in h: return None
     url = c.group(1)
     mm = re.search(r"<main\b.*?</main>", h, re.S)
     body = mm.group(0) if mm else h

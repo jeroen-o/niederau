@@ -6,6 +6,7 @@ import pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 REDIRECTS = {
     "/winter/webcams/": "/webcam/",
+    "/winter/ski-verhuur/": "/skiverhuur-niederau/",
 }
 
 TPL = """<!doctype html>

@@ -11,6 +11,21 @@ from units import extract, apply_unit, dump
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 D = ROOT / "tools" / "data" / "i18n"
 NEW = ("fr", "pl", "es", "it", "sv", "no", "fi", "da")
+# Alleen deze talen worden geïndexeerd (hreflang, sitemap). De machinevertaalde talen (NEW) blijven bereikbaar via de taalkiezer,
+# maar staan op noindex tot ze redactioneel zijn nagekeken en Search Console (Domain-property) laat zien welke taal verkeer oplevert.
+# Terugdraaien: zet INDEX_ALL = True.
+INDEX_ALL = False
+INDEXED = ("nl", "en", "de")
+MT_NOTE = {
+    "fr": "Cette page est une traduction automatique du texte original (néerlandais, anglais ou allemand) et n’a pas été relue par un locuteur natif. En cas de doute, la version originale fait foi.",
+    "pl": "Ta strona jest tłumaczeniem maszynowym oryginału (niderlandzkiego, angielskiego lub niemieckiego) i nie została sprawdzona przez native speakera. W razie wątpliwości obowiązuje wersja oryginalna.",
+    "es": "Esta página es una traducción automática del texto original (neerlandés, inglés o alemán) y no ha sido revisada por un hablante nativo. En caso de duda, prevalece la versión original.",
+    "it": "Questa pagina è una traduzione automatica del testo originale (olandese, inglese o tedesco) e non è stata rivista da un madrelingua. In caso di dubbio fa fede la versione originale.",
+    "sv": "Den här sidan är en maskinöversättning av originaltexten (nederländska, engelska eller tyska) och har inte granskats av en person med språket som modersmål. Vid tveksamhet gäller originalversionen.",
+    "no": "Denne siden er en maskinoversettelse av originalteksten (nederlandsk, engelsk eller tysk) og er ikke gjennomgått av en morsmålsbruker. Ved tvil gjelder originalversjonen.",
+    "fi": "Tämä sivu on alkuperäisen tekstin (hollanti, englanti tai saksa) konekäännös, jota äidinkielinen puhuja ei ole tarkistanut. Epäselvissä tapauksissa alkuperäinen versio on ensisijainen.",
+    "da": "Denne side er en maskinoversættelse af den originale tekst (nederlandsk, engelsk eller tysk) og er ikke gennemgået af en modersmålstalende. Ved tvivl gælder den originale version.",
+}
 SITE = "https://niederau.nl"
 LOCALE = {"fr": "fr_FR", "pl": "pl_PL", "es": "es_ES", "it": "it_IT", "sv": "sv_SE", "no": "nb_NO", "fi": "fi_FI", "da": "da_DK"}
 LABEL = {"nl": "NL", "en": "EN", "de": "DE", "fr": "FR", "pl": "PL", "es": "ES", "it": "IT", "sv": "SV", "no": "NO", "fi": "FI", "da": "DA"}
@@ -118,7 +133,7 @@ def main():
         return "".join(a)
 
     def hreflangs(g):
-        out = [f'<link rel="alternate" hreflang="{lg}" href="{SITE}{g[lg]}">' for lg in ORDER if lg in g]
+        out = [f'<link rel="alternate" hreflang="{lg}" href="{SITE}{g[lg]}">' for lg in ORDER if lg in g and (INDEX_ALL or lg in INDEXED)]
         out.append(f'<link rel="alternate" hreflang="x-default" href="{SITE}{g["nl"]}">')
         return "\n".join(out)
 
@@ -134,9 +149,10 @@ def main():
 
     def fix_head(html, g, cur):
         html = re.sub(r'<link rel="alternate" hreflang="[^"]+" href="[^"]*">\n?', "", html)
-        html = re.sub(r'(<link rel="canonical" href="[^"]*">)', lambda m: m.group(1) + "\n" + hreflangs(g), html, 1)
+        if INDEX_ALL or cur in INDEXED:  # noindex-pagina's krijgen geen hreflang
+            html = re.sub(r'(<link rel="canonical" href="[^"]*">)', lambda m: m.group(1) + "\n" + hreflangs(g), html, 1)
         html = re.sub(r'<meta property="og:locale:alternate" content="[^"]*">\n?', "", html)
-        alt = "".join(f'<meta property="og:locale:alternate" content="{OGLOC[lg]}">\n' for lg in ORDER if lg in g and lg != cur)
+        alt = "".join(f'<meta property="og:locale:alternate" content="{OGLOC[lg]}">\n' for lg in ORDER if lg in g and lg != cur and (INDEX_ALL or lg in INDEXED))
         html = re.sub(r'(<meta property="og:locale" content="[^"]*">\n?)', lambda m: m.group(1).rstrip("\n") + "\n" + alt.rstrip("\n") + "\n", html, 1)
         html = re.sub(r'<div class="lang" role="group" aria-label="([^"]*)">.*?</div>',
                       lambda m: f'<div class="lang" role="group" aria-label="{m.group(1)}">{switcher(g, cur)}</div>', html, flags=re.S)
@@ -163,6 +179,9 @@ def main():
                     return f'href="{tgt}{sep}{frag}"'
                 html = re.sub(r'href="([^"]*)"', rel, html)
             html = trim_meta(html)
+            if not INDEX_ALL:
+                html = html.replace('<meta name="robots" content="index, follow, max-image-preview:large">', '<meta name="robots" content="noindex, follow">', 1)
+                html = re.sub(r'(<main id="main">\s*)', lambda m: m.group(1) + f'<p class="mt-note" role="note">{MT_NOTE[l]}</p>\n    ', html, 1)
             if l in PLACENAME: html = html.replace('name="geo.placename" content="Niederau, Wildschönau, Tyrol, Austria"', f'name="geo.placename" content="{PLACENAME[l]}"')
             html = retarget(html, l)
             g = groups[of_page[p]]
@@ -187,13 +206,13 @@ def main():
         loc = re.search(r"<loc>https://niederau\.nl([^<]*)</loc>", b).group(1)
         g = groups.get(of_page.get(loc, ""), None)
         if g:
-            alts = "\n".join(f'    <xhtml:link rel="alternate" hreflang="{lg}" href="{SITE}{g[lg]}"/>' for lg in ORDER if lg in g)
+            alts = "\n".join(f'    <xhtml:link rel="alternate" hreflang="{lg}" href="{SITE}{g[lg]}"/>' for lg in ORDER if lg in g and (INDEX_ALL or lg in INDEXED))
             alts += f'\n    <xhtml:link rel="alternate" hreflang="x-default" href="{SITE}{g["nl"]}"/>'
             multi = "\n    <xhtml:link" in b
             new = alts if multi else alts.replace("\n    ", "").replace("    <xhtml", "<xhtml")
             b = re.sub(r'(\s*<xhtml:link rel="alternate"[^>]*/>)+', lambda m: ("\n" if multi else "") + new, b, 1)
         out.append(b)
-        if g and loc == g.get("en"):
+        if g and loc == g.get("en") and INDEX_ALL:
             for l in NEW:
                 if l in g:
                     out.append(b.replace(f"<loc>{SITE}{loc}</loc>", f"<loc>{SITE}{g[l]}</loc>"))
