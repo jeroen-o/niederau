@@ -75,8 +75,8 @@ def build(lang, cfg, page):
          "containedInPlace": {"@type": "AdministrativeArea", "name": "Wildschönau",
                               "containedInPlace": {"@type": "AdministrativeArea", "name": "Tirol"}},
          "touristType": ["Wintersport", "Hiking", "Families"],
-         "includesAttraction": [{"@type": "TouristAttraction", "name": n} for n in
-                                ("Markbachjoch", "Lanerköpfl", "Ski Juwel Alpbachtal Wildschönau", "Kundler Klamm", "Rodelbahn Lanerköpfl", "Drachental", "Bergbauernmuseum z'Bach")]},
+         "includesAttraction": [dict({"@type": "TouristAttraction", "name": n}, **({"url": cfg["url"] + _u} if (_u := {"Markbachjoch": "markbachjoch/", "Lanerköpfl": "lanerkoepfl-niederau/"}.get(n)) else {}))
+                                for n in ("Markbachjoch", "Lanerköpfl", "Ski Juwel Alpbachtal Wildschönau", "Kundler Klamm", "Rodelbahn Lanerköpfl", "Drachental", "Bergbauernmuseum z'Bach")]},
         {"@type": "ItemList", "name": "Wildschönau",
          "itemListElement": [{"@type": "ListItem", "position": i + 1,
                               "item": {"@type": "Place", "name": n, "description": d}}

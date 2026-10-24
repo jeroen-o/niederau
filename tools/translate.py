@@ -817,12 +817,17 @@ T['de'] += [(a, c) for a, b, c in NEWPAGES_PAIRS]
 WEER_PAIRS = [('          <li><a href="weer-niederau/">Weer en sneeuw per maand<small>Klimaat, sneeuwstatistiek en liftdata 2026/27</small></a></li>', '          <li><a href="weather-niederau/">Weather and snow by month<small>Climate, snow statistics and lift dates 2026/27</small></a></li>', '          <li><a href="wetter-niederau/">Wetter und Schnee pro Monat<small>Klima, Schneestatistik und Liftzeiten 2026/27</small></a></li>')]
 T['en'] += [(a, b) for a, b, c in WEER_PAIRS]
 T['de'] += [(a, c) for a, b, c in WEER_PAIRS]
+# Homepage gesplitst: lange secties staan nu op eigen pagina's (Lanerköpfl, geschiedenis, dal); wat daaruit verdween is geen fout
+SPLIT_PAIRS = [('      <p><a href="lanerkoepfl-niederau/">Alles over het Lanerköpfl: lift, afdaling en rodelbaan →</a></p>', '      <p><a href="lanerkoepfl-niederau/">All about the Lanerköpfl: lift, descent and toboggan run →</a></p>', '      <p><a href="lanerkoepfl-niederau/">Alles über das Lanerköpfl: Lift, Abfahrt und Rodelbahn →</a></p>'), ('      <p><a href="geschiedenis-niederau/">De hele geschiedenis in een tijdlijn →</a></p>', '      <p><a href="history-niederau/">The full history in a timeline →</a></p>', '      <p><a href="geschichte-niederau/">Die ganze Geschichte als Zeitleiste →</a></p>'), ('    <p style="margin-top:22px"><a href="wildschonau-dal/">Meer over het dal: de dorpen, Krautinger en de Tiroolse keuken →</a></p>', '    <p style="margin-top:22px"><a href="wildschonau-valley/">More about the valley: the villages, Krautinger and Tyrolean food →</a></p>', '    <p style="margin-top:22px"><a href="wildschoenau-tal/">Mehr über das Tal: die Dörfer, Krautinger und die Tiroler Küche →</a></p>'), ('      <p><a href="gids/reizen-naar-niederau/">Alle reisinformatie: vignet, winterbanden, trein en bus →</a></p>', '      <p><a href="guides/getting-to-niederau/">All travel information: vignette, winter tyres, train and bus →</a></p>', '      <p><a href="ratgeber/anreise-nach-niederau/">Alle Reiseinfos: Vignette, Winterreifen, Bahn und Bus →</a></p>')]
+T['en'] += [(a, b) for a, b, c in SPLIT_PAIRS]
+T['de'] += [(a, c) for a, b, c in SPLIT_PAIRS]
+_REMOVED = (ROOT / 'tools' / 'data' / 'home_removed_nl.txt').read_text(encoding='utf-8')
 ok = True
 for lang in ("en", "de"):
     html = src
     for old, new in structural(lang) + T[lang]:
         if old not in html:
-            if old in OBSOLETE:
+            if old in OBSOLETE or old in _REMOVED:
                 continue
             print(f"[{lang}] NIET GEVONDEN: {old[:90]}")
             ok = False

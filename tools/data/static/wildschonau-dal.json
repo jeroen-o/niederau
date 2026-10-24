@@ -1,0 +1,87 @@
+{
+ "id": "wildschonau-dal",
+ "slug": {
+  "nl": "wildschonau-dal",
+  "en": "wildschonau-valley",
+  "de": "wildschoenau-tal"
+ },
+ "title": {
+  "nl": "De Wildschönau: vier dorpen, Krautinger en de Tiroolse keuken",
+  "en": "The Wildschönau: four villages, Krautinger and Tyrolean food",
+  "de": "Die Wildschönau: vier Dörfer, Krautinger und die Tiroler Küche"
+ },
+ "tagline": {
+  "nl": "Eén dal, vier dorpen: Niederau, Oberau, Auffach en Thierbach, met de schnaps van het dal en wat je er eet.",
+  "en": "One valley, four villages: Niederau, Oberau, Auffach and Thierbach, with the valley’s schnapps and what to eat there.",
+  "de": "Ein Tal, vier Dörfer: Niederau, Oberau, Auffach und Thierbach, mit dem Schnaps des Tals und dem, was man dort isst."
+ },
+ "desc": {
+  "nl": "De Wildschönau in een notendop: de vier kerkdorpen met hoogte en karakter, Krautinger, de schnaps van het dal, en de Tiroolse keuken.",
+  "en": "The Wildschönau in a nutshell: the four church villages with altitude and character, Krautinger, the valley’s schnapps, and Tyrolean cuisine.",
+  "de": "Die Wildschönau in Kürze: die vier Kirchdörfer mit Höhe und Charakter, Krautinger, der Schnaps des Tals, und die Tiroler Küche."
+ },
+ "intro": {
+  "nl": "De Wildschönau is een hoogdal in de Kitzbüheler Alpen. Niederau is het dorp waar deze site over gaat, maar het dal bestaat uit meer: hieronder de vier dorpen, de Krautinger en de keuken.",
+  "en": "The Wildschönau is a high valley in the Kitzbühel Alps. Niederau is the village this site is about, but the valley is more than that: below are the four villages, the Krautinger and the food.",
+  "de": "Die Wildschönau ist ein Hochtal in den Kitzbüheler Alpen. Niederau ist das Dorf, um das es auf dieser Website geht, doch das Tal ist mehr: Unten stehen die vier Dörfer, der Krautinger und die Küche."
+ },
+ "sections": [
+  {
+   "html": {
+    "nl": "\n<div class=\"section-head\">\n<p class=\"eyebrow\">De Wildschönau</p>\n<h2 id=\"h-wild\">Eén dal, vier dorpen</h2>\n<p>Het hoogdal Wildschönau ligt in de Kitzbüheler Alpen en staat bekend als een zonnige en sneeuwzekere bestemming. Mede dankzij de vriendelijke uitstraling won het dal de eerste prijs van de ADAC – de Duitse ANWB – in de categorie “Klein &amp; Fein”.</p>\n<p>De Wildschönau bestaat uit de vier kerkdorpen Niederau, Oberau, Auffach en Thierbach, plus het gehucht Mühltal. Het dal is bij uitstek geschikt voor ontspannen skiën midden in een prachtige bergwereld. De regio is altijd goed bereikbaar, ligt niet ver van Kufstein en biedt naast traditionele wintersport ook een veelzijdig zomeraanbod.</p>\n</div>\n<div class=\"grid grid-4\">\n<article class=\"card has-img village here\">\n<img alt=\"Niederau in de winter met de sleeplift aan de rand van het dorp\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/niederau-wildschoenau-pistes-liften-winter.webp\" width=\"800\"/>\n<span class=\"alt-badge\">828 m</span>\n<h3>Niederau</h3>\n<p>Het eerste en meest toeristische dorp, met de gondel naar het Markbachjoch en het grootste aanbod aan accommodatie.</p>\n</article>\n<article class=\"card has-img village\">\n<img alt=\"Winterlandschap bij Oberau in de Wildschönau\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/oberau-wildschoenau-winter.webp\" width=\"800\"/>\n<span class=\"alt-badge\">± 940 m</span>\n<h3>Oberau</h3>\n<p>Het bestuurlijke hart van het dal, met de grote parochiekerk en een brede, zonnige vlakte.</p>\n</article>\n<article class=\"card has-img village\">\n<img alt=\"Fietsers op een weg door de weiden bij Auffach\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/auffach-wildschoenau-e-bike.webp\" width=\"800\"/>\n<span class=\"alt-badge\">± 870 m</span>\n<h3>Auffach</h3>\n<p>Achter in het dal, aan de voet van de Schatzberg en de verbinding met het Alpbachtal.</p>\n</article>\n<article class=\"card has-img village\">\n<img alt=\"Sneeuwschoenwandelaars in de zon bij Thierbach\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/thierbach-wildschoenau-sneeuwschoenwandelen.webp\" width=\"800\"/>\n<span class=\"alt-badge\">± 1.150 m</span>\n<h3>Thierbach</h3>\n<p>Het kleinste en hoogst gelegen dorp, rustig en met weids uitzicht over het Inndal.</p>\n</article>\n</div>\n<div class=\"grid grid-2\" style=\"margin-top:22px\">\n<article class=\"card has-img\">\n<img alt=\"Fles Wildschönauer Krautinger met twee glaasjes op een houten balustrade\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/wildschoenauer-krautinger.webp\" width=\"800\"/>\n<h3>Krautinger – de schnaps van het dal</h3>\n<p>De Wildschönau staat bekend om <em>Krautinger</em>, een stevige brandewijn gestookt van witte knollen (stoppelknollen). Volgens de overlevering kregen de boeren van het dal het recht om hem te stoken al in de tijd van keizerin Maria Theresia. Alleen een beperkt aantal boerderijen mag hem nog maken – proeven doe je op de boerderij zelf.</p>\n</article>\n<article class=\"card has-img\">\n<img alt=\"Kaiserschmarrn met poedersuiker en vruchtencompote\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/tiroler-kaiserschmarrn.webp\" width=\"800\"/>\n<h3>Tiroolse keuken</h3>\n<ul class=\"check\">\n<li><strong>Kaiserschmarrn</strong> – gescheurde pannenkoek met poedersuiker en appelmoes</li>\n<li><strong>Kaspressknödel</strong> – kaasknoedels, in soep of met salade</li>\n<li><strong>Tiroler Gröstl</strong> – gebakken aardappel, spek en ui met een ei</li>\n<li><strong>Speckknödel</strong> en verse <strong>almkaas</strong></li>\n</ul>\n</article>\n</div>\n",
+    "en": "\n<div class=\"section-head\">\n<p class=\"eyebrow\">The Wildschönau</p>\n<h2 id=\"h-wild\">One valley, four villages</h2>\n<p>The Wildschönau high valley lies in the Kitzbühel Alps and is known as a sunny, snow-sure destination. Thanks in part to its friendly character, the valley won first prize from the ADAC – Germany’s largest motoring club – in the “Klein &amp; Fein” (small and fine) category.</p>\n<p>The Wildschönau is made up of four church villages – Niederau, Oberau, Auffach and Thierbach – plus the hamlet of Mühltal. The valley is ideal for relaxed skiing amid a magnificent mountain landscape. Always easy to reach and not far from Kufstein, it offers a varied summer programme as well as traditional winter sports.</p>\n</div>\n<div class=\"grid grid-4\">\n<article class=\"card has-img village here\">\n<img alt=\"Niederau in winter with the drag lift on the edge of the village\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/niederau-wildschoenau-pistes-liften-winter.webp\" width=\"800\"/>\n<span class=\"alt-badge\">828 m</span>\n<h3>Niederau</h3>\n<p>The first and most visited village, with the gondola to the Markbachjoch and the widest choice of accommodation.</p>\n</article>\n<article class=\"card has-img village\">\n<img alt=\"Winter landscape near Oberau in the Wildschönau\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/oberau-wildschoenau-winter.webp\" width=\"800\"/>\n<span class=\"alt-badge\">± 940 m</span>\n<h3>Oberau</h3>\n<p>The administrative heart of the valley, with the large parish church and a wide, sunny plateau.</p>\n</article>\n<article class=\"card has-img village\">\n<img alt=\"Cyclists on a road through the meadows near Auffach\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/auffach-wildschoenau-e-bike.webp\" width=\"800\"/>\n<span class=\"alt-badge\">± 870 m</span>\n<h3>Auffach</h3>\n<p>At the far end of the valley, at the foot of the Schatzberg and the link to the Alpbach valley.</p>\n</article>\n<article class=\"card has-img village\">\n<img alt=\"Snowshoe hikers in the sun near Thierbach\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/thierbach-wildschoenau-sneeuwschoenwandelen.webp\" width=\"800\"/>\n<span class=\"alt-badge\">± 1,150 m</span>\n<h3>Thierbach</h3>\n<p>The smallest and highest village, quiet and with sweeping views over the Inn valley.</p>\n</article>\n</div>\n<div class=\"grid grid-2\" style=\"margin-top:22px\">\n<article class=\"card has-img\">\n<img alt=\"Bottle of Wildschönauer Krautinger with two glasses on a wooden railing\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/wildschoenauer-krautinger.webp\" width=\"800\"/>\n<h3>Krautinger – the valley’s own schnapps</h3>\n<p>The Wildschönau is known for <em>Krautinger</em>, a strong spirit distilled from white turnips. According to tradition, the valley’s farmers were granted the right to distil it as far back as Empress Maria Theresa. Only a limited number of farms may still make it – you taste it at the farm itself.</p>\n</article>\n<article class=\"card has-img\">\n<img alt=\"Kaiserschmarrn with icing sugar and fruit compote\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/tiroler-kaiserschmarrn.webp\" width=\"800\"/>\n<h3>Tyrolean cooking</h3>\n<ul class=\"check\">\n<li><strong>Kaiserschmarrn</strong> – shredded pancake with icing sugar and apple sauce</li>\n<li><strong>Kaspressknödel</strong> – cheese dumplings, in soup or with salad</li>\n<li><strong>Tiroler Gröstl</strong> – fried potatoes, bacon and onion topped with an egg</li>\n<li><strong>Speckknödel</strong> and fresh <strong>alpine cheese</strong></li>\n</ul>\n</article>\n</div>\n",
+    "de": "\n<div class=\"section-head\">\n<p class=\"eyebrow\">Die Wildschönau</p>\n<h2 id=\"h-wild\">Ein Tal, vier Dörfer</h2>\n<p>Das Hochtal Wildschönau liegt in den Kitzbüheler Alpen und gilt als sonniges und schneesicheres Urlaubsziel. Nicht zuletzt dank seiner freundlichen Ausstrahlung erhielt das Tal den ersten Preis des ADAC in der Kategorie „Klein &amp; Fein“.</p>\n<p>Die Wildschönau besteht aus den vier Kirchdörfern Niederau, Oberau, Auffach und Thierbach sowie dem Weiler Mühltal. Das Tal eignet sich besonders für entspanntes Skifahren inmitten einer herrlichen Bergwelt. Die stets gut erreichbare Urlaubsregion liegt nicht weit von Kufstein und bietet neben dem klassischen Wintersport auch ein vielseitiges Sommerangebot.</p>\n</div>\n<div class=\"grid grid-4\">\n<article class=\"card has-img village here\">\n<img alt=\"Niederau im Winter mit dem Schlepplift am Ortsrand\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/niederau-wildschoenau-pistes-liften-winter.webp\" width=\"800\"/>\n<span class=\"alt-badge\">828 m</span>\n<h3>Niederau</h3>\n<p>Das erste und touristischste Dorf, mit der Gondel zum Markbachjoch und dem größten Angebot an Unterkünften.</p>\n</article>\n<article class=\"card has-img village\">\n<img alt=\"Winterlandschaft bei Oberau in der Wildschönau\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/oberau-wildschoenau-winter.webp\" width=\"800\"/>\n<span class=\"alt-badge\">± 940 m</span>\n<h3>Oberau</h3>\n<p>Das Verwaltungszentrum des Tals, mit der großen Pfarrkirche und einem weiten, sonnigen Plateau.</p>\n</article>\n<article class=\"card has-img village\">\n<img alt=\"Radfahrer auf einem Weg durch die Wiesen bei Auffach\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/auffach-wildschoenau-e-bike.webp\" width=\"800\"/>\n<span class=\"alt-badge\">± 870 m</span>\n<h3>Auffach</h3>\n<p>Hinten im Tal, am Fuß des Schatzbergs und der Verbindung ins Alpbachtal.</p>\n</article>\n<article class=\"card has-img village\">\n<img alt=\"Schneeschuhwanderer in der Sonne bei Thierbach\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/thierbach-wildschoenau-sneeuwschoenwandelen.webp\" width=\"800\"/>\n<span class=\"alt-badge\">± 1.150 m</span>\n<h3>Thierbach</h3>\n<p>Das kleinste und höchstgelegene Dorf, ruhig und mit weitem Blick über das Inntal.</p>\n</article>\n</div>\n<div class=\"grid grid-2\" style=\"margin-top:22px\">\n<article class=\"card has-img\">\n<img alt=\"Flasche Wildschönauer Krautinger mit zwei Gläsern auf einem Holzgeländer\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/wildschoenauer-krautinger.webp\" width=\"800\"/>\n<h3>Krautinger – der Schnaps des Tals</h3>\n<p>Die Wildschönau ist bekannt für den <em>Krautinger</em>, einen kräftigen Schnaps aus weißen Rüben (Stoppelrüben). Der Überlieferung nach erhielten die Bauern des Tals das Brennrecht schon zur Zeit Kaiserin Maria Theresias. Nur noch eine begrenzte Zahl von Höfen darf ihn brennen – verkostet wird direkt am Hof.</p>\n</article>\n<article class=\"card has-img\">\n<img alt=\"Kaiserschmarrn mit Staubzucker und Fruchtkompott\" class=\"card-img\" height=\"450\" loading=\"lazy\" src=\"/assets/img/tiroler-kaiserschmarrn.webp\" width=\"800\"/>\n<h3>Tiroler Küche</h3>\n<ul class=\"check\">\n<li><strong>Kaiserschmarrn</strong> – zerrissener Pfannkuchen mit Staubzucker und Apfelmus</li>\n<li><strong>Kaspressknödel</strong> – Käseknödel, in der Suppe oder mit Salat</li>\n<li><strong>Tiroler Gröstl</strong> – Bratkartoffeln mit Speck und Zwiebeln, mit Spiegelei</li>\n<li><strong>Speckknödel</strong> und frischer <strong>Almkäse</strong></li>\n</ul>\n</article>\n</div>\n"
+   }
+  }
+ ],
+ "faq": [
+  {
+   "q": {
+    "nl": "Uit welke dorpen bestaat de Wildschönau?",
+    "en": "Which villages make up the Wildschönau?",
+    "de": "Aus welchen Dörfern besteht die Wildschönau?"
+   },
+   "a": {
+    "nl": "Uit de vier kerkdorpen Niederau, Oberau, Auffach en Thierbach, plus het gehucht Mühltal.",
+    "en": "From the four church villages Niederau, Oberau, Auffach and Thierbach, plus the hamlet of Mühltal.",
+    "de": "Aus den vier Kirchdörfern Niederau, Oberau, Auffach und Thierbach sowie dem Weiler Mühltal."
+   }
+  },
+  {
+   "q": {
+    "nl": "Wat is Krautinger?",
+    "en": "What is Krautinger?",
+    "de": "Was ist Krautinger?"
+   },
+   "a": {
+    "nl": "Een stevige brandewijn van witte knollen (stoppelknollen), gestookt op een beperkt aantal boerderijen in de Wildschönau.",
+    "en": "A strong schnapps made from white turnips, distilled on a limited number of farms in the Wildschönau.",
+    "de": "Ein kräftiger Schnaps aus weißen Rüben (Stoppelrüben), gebrannt auf einer begrenzten Zahl von Höfen in der Wildschönau."
+   }
+  }
+ ],
+ "related": [
+  {
+   "type": "guide",
+   "id": "dorpen-vergelijken"
+  },
+  {
+   "type": "guide",
+   "id": "eten-drinken"
+  },
+  {
+   "type": "page",
+   "path": {
+    "nl": "weer-niederau/",
+    "en": "weather-niederau/",
+    "de": "wetter-niederau/"
+   },
+   "label": {
+    "nl": "Weer en sneeuw per maand",
+    "en": "Weather and snow by month",
+    "de": "Wetter und Schnee pro Monat"
+   }
+  }
+ ],
+ "checked": "2026-10"
+}
