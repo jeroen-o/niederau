@@ -1112,7 +1112,8 @@ def build_static():
                     _hm = _re.search(r'<h2 id="([^"]+)"', _t(sec["html"], lang))
                     _al = f' aria-labelledby="{_hm.group(1)}"' if _hm else ""
                     _cls = "alt" if n % 2 == 0 else ""
-                    secs += f'<section class="{_cls}"{_al}><div class="wrap">{_t(sec["html"], lang)}</div></section>'
+                    _raw = _re.sub(r"\s*/>", ">", _t(sec["html"], lang))
+                    secs += f'<section class="{_cls}"{_al}><div class="wrap">{_raw}</div></section>'
                     continue
                 h = f'<h2>{e(_t(sec["h"], lang))}</h2>' if sec.get("h") else ""
                 p = _paras(_t(sec["p"], lang)) if sec.get("p") else ""

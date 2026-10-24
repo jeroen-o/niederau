@@ -1,0 +1,105 @@
+{
+ "id": "geschiedenis",
+ "slug": {
+  "nl": "geschiedenis-niederau",
+  "en": "history-niederau",
+  "de": "geschichte-niederau"
+ },
+ "title": {
+  "nl": "Geschiedenis van Niederau en de Wildschönau",
+  "en": "History of Niederau and the Wildschönau",
+  "de": "Geschichte von Niederau und der Wildschönau"
+ },
+ "tagline": {
+  "nl": "Van boeren- en mijnwerkersdal tot wintersportdorp: de eerste stoeltjeslift van Tirol, Krautinger en meer.",
+  "en": "From farming and mining valley to ski village: the first chairlift in Tyrol, Krautinger and more.",
+  "de": "Vom Bauern- und Bergbautal zum Wintersportort: der erste Sessellift Tirols, Krautinger und mehr."
+ },
+ "desc": {
+  "nl": "De geschiedenis van Niederau en de Wildschönau in een tijdlijn, van de eerste vermelding in 1193 tot de eerste stoeltjeslift van Tirol in 1947 en de Markbachjochbahn.",
+  "en": "The history of Niederau and the Wildschönau in a timeline, from the first mention in 1193 to Tyrol’s first chairlift in 1947 and the Markbachjochbahn.",
+  "de": "Die Geschichte von Niederau und der Wildschönau als Zeitleiste, von der ersten Erwähnung 1193 bis zum ersten Sessellift Tirols 1947 und der Markbachjochbahn."
+ },
+ "intro": {
+  "nl": "Niederau lijkt een gewoon wintersportdorp, maar het dal heeft een lange geschiedenis. Hieronder staat de tijdlijn, met de eerste stoeltjeslift van Tirol als keerpunt.",
+  "en": "Niederau looks like an ordinary ski village, but the valley has a long history. Below is the timeline, with the first chairlift in Tyrol as the turning point.",
+  "de": "Niederau wirkt wie ein gewöhnlicher Wintersportort, doch das Tal hat eine lange Geschichte. Unten steht die Zeitleiste mit dem ersten Sessellift Tirols als Wendepunkt."
+ },
+ "sections": [
+  {
+   "html": {
+    "nl": "<div class=\"split\" style=\"align-items:start\">\n<div>\n<p class=\"eyebrow\">Geschiedenis</p>\n<h2 id=\"h-hist\">Van boerendal tot wintersportdorp</h2>\n<p>Niederau ligt in de Wildschönau, een hoogdal in Tirol (Oostenrijk). Eeuwenlang was het een afgelegen dal van boeren en mijnwerkers. Pas in de twintigste eeuw kwamen de eerste toeristen – en in 1947 begon in Niederau met de eerste stoeltjeslift van Tirol het wintersporttijdperk van het dal.</p>\n<p>Die lift was een kunststuk: ingenieur Sepp Hochmuth bouwde hem vlak na de Tweede Wereldoorlog, volgens de overlevering met motoren en aandrijfwielen van tanks die bij het station van Wörgl waren achtergelaten. Op 14 januari 1947 ging hij open, van Niederau naar het Markbachjoch.</p>\n<p><a href=\"/markbachjoch/\">Alles over het Markbachjoch: liften, hutten en geschiedenis →</a></p>\n<p><a href=\"/historische-fotos-niederau/\">Historische foto’s: archieven en bronnen →</a></p>\n<img alt=\"Gondel van de Markbachjochbahn boven Niederau met uitzicht over de Alpen\" class=\"side-img\" height=\"667\" loading=\"lazy\" src=\"/assets/img/niederau-markbachjochbahn-gondel.webp\" width=\"1000\"/>\n</div>\n<ol class=\"timeline\">\n<li><span class=\"when\">1193–1195</span><br/>Eerste schriftelijke vermelding van de Wildschönau.</li>\n<li><span class=\"when\">16e eeuw</span><br/>Mijnbouw: op de hellingen van de Gratlspitz bij Thierbach wordt zilver- en kopererts gewonnen.</li>\n<li><span class=\"when\">18e eeuw</span><br/>Keizerin Maria Theresia verleent 51 boeren in het dal het stookrecht voor Krautinger. Vandaag stoken er nog zo’n vijftien.</li>\n<li><span class=\"when\">1811</span><br/>De Wildschönau wordt een zelfstandige gemeente.</li>\n<li><span class=\"when\">Begin 20e eeuw</span><br/>Een weg door de Kundler Klamm verbindt het dal met het Inndal; de overdekte houten brug dateert van 1913/14. Het huidige wandelpad volgt die oude weg.</li>\n<li><span class=\"when\">14 januari 1947</span><br/>De eerste stoeltjeslift van Tirol opent in Niederau, naar het Markbachjoch. Het begin van het toerisme in het dal.</li>\n<li><span class=\"when\">1995</span><br/>Een gondelbaan voor acht personen vervangt de oude stoeltjeslift: de huidige Markbachjochbahn.</li>\n<li><span class=\"when\">2008/09</span><br/>Op het Lanerköpfl vervangt een snelle vierpersoons stoeltjeslift met kap de oude eenpersoons stoeltjeslift.</li>\n<li><span class=\"when\">2022</span><br/>De bergbaan in Niederau viert haar 75-jarig jubileum.</li>\n</ol>\n</div>",
+    "en": "<div class=\"split\" style=\"align-items:start\">\n<div>\n<p class=\"eyebrow\">History</p>\n<h2 id=\"h-hist\">From farming valley to ski village</h2>\n<p>Niederau lies in the Wildschönau, a high valley in Tyrol (Austria). For centuries it was a remote valley of farmers and miners. The first tourists only arrived in the twentieth century – and in 1947 the valley’s winter sports era began in Niederau with the first chairlift in Tyrol.</p>\n<p>That lift was quite a feat: engineer Sepp Hochmuth built it just after the Second World War, according to local lore using engines and drive wheels from tanks abandoned at Wörgl station. It opened on 14 January 1947, running from Niederau up to the Markbachjoch.</p>\n<p><a href=\"/en/markbachjoch/\">Everything about the Markbachjoch: lifts, huts and history →</a></p>\n<p><a href=\"/en/historic-photos-niederau/\">Historic photos: archives and sources →</a></p>\n<img alt=\"Markbachjochbahn gondola above Niederau with views over the Alps\" class=\"side-img\" height=\"667\" loading=\"lazy\" src=\"/assets/img/niederau-markbachjochbahn-gondel.webp\" width=\"1000\"/>\n</div>\n<ol class=\"timeline\">\n<li><span class=\"when\">1193–1195</span><br/>First written mention of the Wildschönau.</li>\n<li><span class=\"when\">16th century</span><br/>Mining: silver and copper ore is extracted on the slopes of the Gratlspitz near Thierbach.</li>\n<li><span class=\"when\">18th century</span><br/>Empress Maria Theresa gives 51 farmers in the valley the right to distil Krautinger. Some fifteen still do so today.</li>\n<li><span class=\"when\">1811</span><br/>The Wildschönau becomes an independent municipality.</li>\n<li><span class=\"when\">Early 20th century</span><br/>A road through the Kundler Klamm links the valley with the Inn valley; the covered wooden bridge dates from 1913/14. Today’s footpath follows that old road.</li>\n<li><span class=\"when\">14 January 1947</span><br/>Tyrol’s first chairlift opens in Niederau, up to the Markbachjoch. The start of tourism in the valley.</li>\n<li><span class=\"when\">1995</span><br/>An eight-seater gondola replaces the old chairlift: today’s Markbachjochbahn.</li>\n<li><span class=\"when\">2008/09</span><br/>On the Lanerköpfl a fast four-seater chairlift with bubble replaces the old single chairlift.</li>\n<li><span class=\"when\">2022</span><br/>The mountain railway in Niederau celebrates its 75th anniversary.</li>\n</ol>\n</div>",
+    "de": "<div class=\"split\" style=\"align-items:start\">\n<div>\n<p class=\"eyebrow\">Geschichte</p>\n<h2 id=\"h-hist\">Vom Bauerntal zum Skidorf</h2>\n<p>Niederau liegt in der Wildschönau, einem Hochtal in Tirol (Österreich). Jahrhundertelang war es ein abgelegenes Tal der Bauern und Bergknappen. Erst im 20. Jahrhundert kamen die ersten Gäste – und 1947 begann in Niederau mit dem ersten Sessellift Tirols das Wintersportzeitalter des Tals.</p>\n<p>Dieser Lift war ein Kunststück: Ing. Sepp Hochmuth baute ihn kurz nach dem Zweiten Weltkrieg, der Überlieferung nach mit Motoren und Antriebsrädern von Panzern, die am Bahnhof Wörgl zurückgelassen worden waren. Am 14. Jänner 1947 wurde er eröffnet, von Niederau hinauf zum Markbachjoch.</p>\n<p><a href=\"/de/markbachjoch/\">Alles über das Markbachjoch: Lifte, Hütten und Geschichte →</a></p>\n<p><a href=\"/de/historische-fotos-niederau/\">Historische Fotos: Archive und Quellen →</a></p>\n<img alt=\"Gondel der Markbachjochbahn über Niederau mit Blick über die Alpen\" class=\"side-img\" height=\"667\" loading=\"lazy\" src=\"/assets/img/niederau-markbachjochbahn-gondel.webp\" width=\"1000\"/>\n</div>\n<ol class=\"timeline\">\n<li><span class=\"when\">1193–1195</span><br/>Erste urkundliche Erwähnung der Wildschönau.</li>\n<li><span class=\"when\">16. Jahrhundert</span><br/>Bergbau: An den Hängen der Gratlspitz bei Thierbach werden Silber- und Kupfererze abgebaut.</li>\n<li><span class=\"when\">18. Jahrhundert</span><br/>Kaiserin Maria Theresia gibt 51 Bauern im Tal das Brennrecht für Krautinger. Heute brennen noch etwa fünfzehn.</li>\n<li><span class=\"when\">1811</span><br/>Die Wildschönau wird eine eigenständige Gemeinde.</li>\n<li><span class=\"when\">Anfang 20. Jahrhundert</span><br/>Eine Straße durch die Kundler Klamm verbindet das Tal mit dem Inntal; die überdachte Holzbrücke stammt von 1913/14. Der heutige Wanderweg folgt dieser alten Straße.</li>\n<li><span class=\"when\">14. Jänner 1947</span><br/>In Niederau eröffnet der erste Sessellift Tirols, hinauf zum Markbachjoch. Der Beginn des Tourismus im Tal.</li>\n<li><span class=\"when\">1995</span><br/>Eine Achter-Gondelbahn ersetzt den alten Sessellift: die heutige Markbachjochbahn.</li>\n<li><span class=\"when\">2008/09</span><br/>Am Lanerköpfl ersetzt eine kuppelbare Vierersesselbahn mit Haube den alten Einersessellift.</li>\n<li><span class=\"when\">2022</span><br/>Die Bergbahn in Niederau feiert ihr 75-jähriges Jubiläum.</li>\n</ol>\n</div>"
+   }
+  }
+ ],
+ "faq": [
+  {
+   "q": {
+    "nl": "Wanneer opende de eerste stoeltjeslift van Tirol?",
+    "en": "When did Tyrol’s first chairlift open?",
+    "de": "Wann wurde der erste Sessellift Tirols eröffnet?"
+   },
+   "a": {
+    "nl": "Op 14 januari 1947 in Niederau, van het dorp naar het Markbachjoch. Ingenieur Sepp Hochmuth bouwde hem.",
+    "en": "On 14 January 1947 in Niederau, from the village to the Markbachjoch. Engineer Sepp Hochmuth built it.",
+    "de": "Am 14. Jänner 1947 in Niederau, vom Dorf zum Markbachjoch. Ingenieur Sepp Hochmuth baute ihn."
+   }
+  },
+  {
+   "q": {
+    "nl": "Wanneer werd de Wildschönau voor het eerst genoemd?",
+    "en": "When was the Wildschönau first mentioned?",
+    "de": "Wann wurde die Wildschönau erstmals erwähnt?"
+   },
+   "a": {
+    "nl": "Tussen 1193 en 1195, in een schriftelijke bron.",
+    "en": "Between 1193 and 1195, in a written source.",
+    "de": "Zwischen 1193 und 1195 in einer schriftlichen Quelle."
+   }
+  }
+ ],
+ "related": [
+  {
+   "type": "page",
+   "path": {
+    "nl": "markbachjoch/",
+    "en": "markbachjoch/",
+    "de": "markbachjoch/"
+   },
+   "label": {
+    "nl": "Alles over het Markbachjoch",
+    "en": "All about the Markbachjoch",
+    "de": "Alles über das Markbachjoch"
+   }
+  },
+  {
+   "type": "page",
+   "path": {
+    "nl": "historische-fotos-niederau/",
+    "en": "historic-photos-niederau/",
+    "de": "historische-fotos-niederau/"
+   },
+   "label": {
+    "nl": "Historische foto’s: archieven en bronnen",
+    "en": "Historic photos: archives and sources",
+    "de": "Historische Fotos: Archive und Quellen"
+   }
+  },
+  {
+   "type": "page",
+   "path": {
+    "nl": "familieverhaal-wastlhof/",
+    "en": "family-story-wastlhof/",
+    "de": "familiengeschichte-wastlhof/"
+   },
+   "label": {
+    "nl": "Ons familieverhaal: meer dan 50 jaar Wastlhof",
+    "en": "Our family story: more than 50 years at the Wastlhof",
+    "de": "Unsere Familiengeschichte: mehr als 50 Jahre Wastlhof"
+   }
+  }
+ ],
+ "checked": "2026-10"
+}

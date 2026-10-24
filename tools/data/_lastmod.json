@@ -2499,13 +2499,21 @@
 "date": "2026-10-24",
 "hash": "02ab2af0a6cd193efb1463f3a6112d9ec0cdad9f"
 },
+"da/history-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "ca7100c283198f006172bca9b5671f6b42a29ea7"
+},
 "da/hotel-ved-pisten-wildschonau/index.html": {
 "date": "2026-10-24",
 "hash": "cc5fd3eae40640948280f7ce0a177f191ce5fd83"
 },
 "da/index.html": {
 "date": "2026-10-24",
-"hash": "239218df03fc72f9df4f59909dca2afac58f8f17"
+"hash": "57e32785ee1237ac1d6de3403b10e2d276552ccc"
+},
+"da/lanerkoepfl-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "70b82c34087fbf0e41534e41d4c0d532871acca2"
 },
 "da/legal-notice/index.html": {
 "date": "2026-10-24",
@@ -2918,6 +2926,10 @@
 "da/webcam-niederau/index.html": {
 "date": "2026-10-24",
 "hash": "61f7af71aaa7a783198e4276e24a221ebd8e76f5"
+},
+"da/wildschonau-valley/index.html": {
+"date": "2026-10-24",
+"hash": "a5ece7d5e122596cea99df3c25ccfb4f9c0b2e25"
 },
 "da/wine-wastlhof-sommelier-stefan/index.html": {
 "date": "2026-10-24",
@@ -4083,6 +4095,10 @@
 "date": "2026-10-24",
 "hash": "6aa6fd8826934435d83248b62cf66b8efa360f9b"
 },
+"de/geschichte-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "44185525e229a79baa4ac40d9924e17fb76d329b"
+},
 "de/historische-fotos-niederau/index.html": {
 "date": "2026-10-24",
 "hash": "fe3e8daf53b7396eb300d9f68c18f9129b7b97a4"
@@ -4097,7 +4113,11 @@
 },
 "de/index.html": {
 "date": "2026-10-24",
-"hash": "11db8afb268f739d19929d9c9585d8c02b278b4c"
+"hash": "63367cd2139708607afe9eb9b8c855b35304e20e"
+},
+"de/lanerkoepfl-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "3bda2c9c0106648d5c322af8f917ff61fda4d904"
 },
 "de/markbachjoch/index.html": {
 "date": "2026-10-24",
@@ -4674,6 +4694,10 @@
 "de/wetter-niederau/index.html": {
 "date": "2026-10-24",
 "hash": "c1c16ea1f2b7ea8f5053278847a5c305e2196c1a"
+},
+"de/wildschoenau-tal/index.html": {
+"date": "2026-10-24",
+"hash": "36ddda6a234947052c316160f2da9ff21c8bc63f"
 },
 "en/about/index.html": {
 "date": "2026-10-24",
@@ -6003,13 +6027,21 @@
 "date": "2026-10-24",
 "hash": "83410995053f1134ca87a7a69404aa7c70b7f43e"
 },
+"en/history-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "bac3306ee74389fef505f8f3e57bbd425597acbc"
+},
 "en/hotel-on-the-slopes-wildschonau/index.html": {
 "date": "2026-10-24",
 "hash": "11e3965c19a2d090eb06f5c48a37bf9cb4e3cf58"
 },
 "en/index.html": {
 "date": "2026-10-24",
-"hash": "348f01be0f88e7fc55813b05b96a1bdc7f08869c"
+"hash": "3ef16587221db05b5fb32539bfed08f7d67b49e4"
+},
+"en/lanerkoepfl-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "0a68c801875cf4b524dda63d854753491b532018"
 },
 "en/legal-notice/index.html": {
 "date": "2026-10-24",
@@ -6422,6 +6454,10 @@
 "en/webcam/index.html": {
 "date": "2026-10-24",
 "hash": "f4e9385945fb4b6cda7e3c7098300245ff924867"
+},
+"en/wildschonau-valley/index.html": {
+"date": "2026-10-24",
+"hash": "81e158973117d70fe030502067d7a6868fa385ff"
 },
 "en/wine-wastlhof-sommelier-stefan/index.html": {
 "date": "2026-10-24",
@@ -7759,13 +7795,21 @@
 "date": "2026-10-24",
 "hash": "109e5bdd127f0ccd5ef74d590ce0873efda77ab4"
 },
+"es/history-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "2ad56025622d0a147b7d507e6a51a62c3944aed6"
+},
 "es/hotel-a-pie-de-pista-wildschonau/index.html": {
 "date": "2026-10-24",
 "hash": "a50900a868cf726fa2ea9867ca5839429dc1f027"
 },
 "es/index.html": {
 "date": "2026-10-24",
-"hash": "a1cad8564eb859700723375f34997f2df3d94878"
+"hash": "6282c0e40ca4ccc5cab32bec20a6bc6776934de7"
+},
+"es/lanerkoepfl-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "be990be8fdbdec94b5903a17ba6f98b2b40ca065"
 },
 "es/legal-notice/index.html": {
 "date": "2026-10-24",
@@ -8174,6 +8218,10 @@
 "es/webcam-niederau/index.html": {
 "date": "2026-10-24",
 "hash": "808b800e54c61068b6ef32a97f462dd6baec6bdc"
+},
+"es/wildschonau-valley/index.html": {
+"date": "2026-10-24",
+"hash": "5b0bf9e0d49fa5a10d5725a9cbe78925afde205a"
 },
 "es/wine-wastlhof-sommelier-stefan/index.html": {
 "date": "2026-10-24",
@@ -9519,13 +9567,21 @@
 "date": "2026-10-24",
 "hash": "1c00699f0ff42c068a7a6073082fa181dd0442de"
 },
+"fi/history-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "710583c1b42535deb28d4fe0f8e7eb7edab46d36"
+},
 "fi/hotelli-rinteen-vieressa-wildschonau/index.html": {
 "date": "2026-10-24",
 "hash": "8b5531b88ea381e837cdbfd660589b7bb8df0f7e"
 },
 "fi/index.html": {
 "date": "2026-10-24",
-"hash": "7ceb8a4fcd84fdf4442dbcf177fd3e7c9b17b643"
+"hash": "522aaa24cc8215334368c3b437deb0268ae61af6"
+},
+"fi/lanerkoepfl-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "ae85c183f017513f1d8980ba29f0321d412c4053"
 },
 "fi/legal-notice/index.html": {
 "date": "2026-10-24",
@@ -9930,6 +9986,10 @@
 "fi/weather-niederau/index.html": {
 "date": "2026-10-24",
 "hash": "b177a11f351419a45e540cb50afe17a458bf5090"
+},
+"fi/wildschonau-valley/index.html": {
+"date": "2026-10-24",
+"hash": "e42fd18b62091b1867c8836c91e38e5ec2c82093"
 },
 "fi/wine-wastlhof-sommelier-stefan/index.html": {
 "date": "2026-10-24",
@@ -11267,13 +11327,21 @@
 "date": "2026-10-24",
 "hash": "3e288ab6ad935c396bc77bace3e7f578eab8dd9f"
 },
+"fr/history-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "46067a25172ea91acabcd7d35e0a7f9ef4a9f973"
+},
 "fr/hotel-aux-pieds-des-pistes-wildschonau/index.html": {
 "date": "2026-10-24",
 "hash": "b6b715a1e8000c7cdcf97d79a0188a946b8824c3"
 },
 "fr/index.html": {
 "date": "2026-10-24",
-"hash": "1b030f621a814552be9617751295da38661e5c9c"
+"hash": "b8ddc7171c32cb22ca9102208b4eae60d671115a"
+},
+"fr/lanerkoepfl-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "1ed3f22cbd6b36d7256b087549622f82cbc78f25"
 },
 "fr/legal-notice/index.html": {
 "date": "2026-10-24",
@@ -11687,9 +11755,17 @@
 "date": "2026-10-24",
 "hash": "c0dd6dccc01472364d3c2b4eb9e46da20fbe533a"
 },
+"fr/wildschonau-valley/index.html": {
+"date": "2026-10-24",
+"hash": "29a3f8c5e0fd370b633ab17e402e35a21fd8c53e"
+},
 "fr/wine-wastlhof-sommelier-stefan/index.html": {
 "date": "2026-10-24",
 "hash": "e7d86a97111bf631d30f3b6b940c0ac87be40ab7"
+},
+"geschiedenis-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "d1f38b004e9188ccabbb7c2e1b7c2c315d3b0772"
 },
 "gids/accommodatie-kiezen/index.html": {
 "date": "2026-10-24",
@@ -11845,7 +11921,7 @@
 },
 "index.html": {
 "date": "2026-10-24",
-"hash": "a11366bbc0ea9a5bd47f33749bb32b8bf7d51bf7"
+"hash": "ccd0a9086b66008d51fe5a73cbc46d7ea8e4c7cf"
 },
 "it/about/index.html": {
 "date": "2026-10-24",
@@ -13175,13 +13251,21 @@
 "date": "2026-10-24",
 "hash": "c2180fa564c0eaedc6c4e326b74e325c6bd7c7dd"
 },
+"it/history-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "c44a1fe073d861562455d59b9d77ebe199c8d5cb"
+},
 "it/hotel-sulle-piste-wildschonau/index.html": {
 "date": "2026-10-24",
 "hash": "e21e0aa33379b47387ac06244904736c44fc13d0"
 },
 "it/index.html": {
 "date": "2026-10-24",
-"hash": "8e1e4ab41d6970ef0c4fb7efe7b02f98a9c37682"
+"hash": "1a2bb0e7c487b915de0a40b3790d97f4f2d4f62f"
+},
+"it/lanerkoepfl-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "c01a5277d7c3c2d426bc8961e721cdd70fe25434"
 },
 "it/legal-notice/index.html": {
 "date": "2026-10-24",
@@ -13595,9 +13679,17 @@
 "date": "2026-10-24",
 "hash": "a22b73fd037046c5d6ff86d0539a4ff4a5b9c1ee"
 },
+"it/wildschonau-valley/index.html": {
+"date": "2026-10-24",
+"hash": "52f9f7ff1f6322d82fe63f306739e038035c6078"
+},
 "it/wine-wastlhof-sommelier-stefan/index.html": {
 "date": "2026-10-24",
 "hash": "5aca59cc059413920094ef8260a12064ab9eadce"
+},
+"lanerkoepfl-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "b92e574b22dd87b03b50ec771f33de1ac9d14b3c"
 },
 "markbachjoch/index.html": {
 "date": "2026-10-24",
@@ -14931,13 +15023,21 @@
 "date": "2026-10-24",
 "hash": "de118fcfeca5d7a2c99de67203595ab63c0d96ba"
 },
+"no/history-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "c51693e8bd3c2874c42aeff66e866856d490f051"
+},
 "no/hotell-ved-bakken-wildschonau/index.html": {
 "date": "2026-10-24",
 "hash": "47cf181dcc26e78e95c3aa69b7ed782cb9759a01"
 },
 "no/index.html": {
 "date": "2026-10-24",
-"hash": "3b8a4bc9d84b717ea1d589d323977deb55e67b77"
+"hash": "8e042cd2f2caa3599f0798303e5603b1403dc626"
+},
+"no/lanerkoepfl-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "1262722addc8d6d7287c38285bf99d4172a07861"
 },
 "no/legal-notice/index.html": {
 "date": "2026-10-24",
@@ -15350,6 +15450,10 @@
 "no/webkamera-niederau/index.html": {
 "date": "2026-10-24",
 "hash": "3f93a17dac09f4955181427bffeae5250bba6c94"
+},
+"no/wildschonau-valley/index.html": {
+"date": "2026-10-24",
+"hash": "862f8d36979f4c0d87d5d55c1168a1da59effb77"
 },
 "no/wine-wastlhof-sommelier-stefan/index.html": {
 "date": "2026-10-24",
@@ -17039,17 +17143,25 @@
 "date": "2026-10-24",
 "hash": "30b7180490f2354dbafae625eaefd1423c9e7324"
 },
+"pl/history-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "30aaecaedad56fa28ac27f2b7b5cb0de60835755"
+},
 "pl/hotel-przy-stoku-wildschonau/index.html": {
 "date": "2026-10-24",
 "hash": "292f6516d9539070751787e0f28176f4e6c4a597"
 },
 "pl/index.html": {
 "date": "2026-10-24",
-"hash": "339aa7f8bacb4d5cf0fe0feb075b9b397b71b48f"
+"hash": "2c5cf011f3466dcffd0c1bb0f60290bee78828f5"
 },
 "pl/kamery-niederau/index.html": {
 "date": "2026-10-24",
 "hash": "f944ef045b106d401538ffeb2e811086c63d8410"
+},
+"pl/lanerkoepfl-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "946b57fa0248fb032e7c5339d973ee5d9cf554f4"
 },
 "pl/legal-notice/index.html": {
 "date": "2026-10-24",
@@ -17450,6 +17562,10 @@
 "pl/weather-niederau/index.html": {
 "date": "2026-10-24",
 "hash": "0d01159a311bfb04c6ac767489563f1a40f1ee8b"
+},
+"pl/wildschonau-valley/index.html": {
+"date": "2026-10-24",
+"hash": "c5b3629cd4c0c44afd50b84020316cd975bad72f"
 },
 "pl/wine-wastlhof-sommelier-stefan/index.html": {
 "date": "2026-10-24",
@@ -18827,13 +18943,21 @@
 "date": "2026-10-24",
 "hash": "18d38b6146b97b94d638f533df639b767bfa4dee"
 },
+"sv/history-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "f836b2295a7a498a20a86e251ec0c004ed677295"
+},
 "sv/hotell-vid-pisten-wildschonau/index.html": {
 "date": "2026-10-24",
 "hash": "1974d7e2c04f5b3683e67f40dba772a41557f5ef"
 },
 "sv/index.html": {
 "date": "2026-10-24",
-"hash": "29c989ee980770285607d363438cce2e16ecbdc4"
+"hash": "85b71eaa11f1c357f551393f171204e6ed3942c2"
+},
+"sv/lanerkoepfl-niederau/index.html": {
+"date": "2026-10-24",
+"hash": "7809b419aeaa5a3cae4c2802e818661cfb8f8137"
 },
 "sv/legal-notice/index.html": {
 "date": "2026-10-24",
@@ -19247,6 +19371,10 @@
 "date": "2026-10-24",
 "hash": "a84ad7146972d934b256151ebecbfd4e870d44a7"
 },
+"sv/wildschonau-valley/index.html": {
+"date": "2026-10-24",
+"hash": "2f2ef89ad3099ce2c2a12b44f3a5c0499b50ae2d"
+},
 "sv/wine-wastlhof-sommelier-stefan/index.html": {
 "date": "2026-10-24",
 "hash": "1951f6d05c0d40c6076cd1295aa4b358af9f4a1f"
@@ -19270,5 +19398,9 @@
 "wijn-wastlhof-sommelier-stefan/index.html": {
 "date": "2026-10-24",
 "hash": "d2de7040dbbadbd6c0c58a1234b45f22cd843fd3"
+},
+"wildschonau-dal/index.html": {
+"date": "2026-10-24",
+"hash": "c11d26988b6e78d44b5428d7e2b7988c229a179d"
 }
 }
