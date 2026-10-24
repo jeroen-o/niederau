@@ -95,14 +95,14 @@
   },
   {
    "h": {
-    "nl": "Ingesloten externe inhoud (webcam en weerkaart)",
-    "en": "Embedded external content (webcam and weather map)",
-    "de": "Eingebettete externe Inhalte (Webcam und Wetterkarte)"
+    "nl": "Ingesloten externe inhoud (weerkaart)",
+    "en": "Embedded external content (weather map)",
+    "de": "Eingebettete externe Inhalte (Wetterkarte)"
    },
    "p": {
-    "nl": "Op de webcampagina kun je met een klik beelden van Bergfex en een weerkaart van Windy laden. Pas na je klik maakt je browser verbinding met die aanbieder. Die ontvangt dan je IP-adres en kan cookies plaatsen of gegevens verwerken volgens het eigen privacybeleid. Wij slaan hierover niets op. Klik je niet, dan wordt er niets gedeeld.",
-    "en": "On the webcam page you can load images from Bergfex and a weather map from Windy with a click. Only after your click does your browser connect to that provider. The provider then receives your IP address and may set cookies or process data under its own privacy policy. We store nothing about this. If you do not click, nothing is shared.",
-    "de": "Auf der Webcam-Seite kannst du per Klick Bilder von Bergfex und eine Wetterkarte von Windy laden. Erst nach deinem Klick verbindet sich dein Browser mit dem jeweiligen Anbieter. Dieser erhält dann deine IP-Adresse und kann Cookies setzen oder Daten nach seiner eigenen Datenschutzerklärung verarbeiten. Wir speichern dazu nichts. Wenn du nicht klickst, wird nichts weitergegeben."
+    "nl": "Op de webcampagina kun je met een klik een weerkaart van Windy laden. Pas na je klik maakt je browser verbinding met Windy. Die ontvangt dan je IP-adres en kan cookies plaatsen of gegevens verwerken volgens het eigen privacybeleid. Wij slaan hierover niets op. Klik je niet, dan wordt er niets gedeeld. De link naar de webcams van Bergfex opent een externe pagina in een nieuw tabblad.",
+    "en": "On the webcam page you can load a weather map from Windy with a click. Only after your click does your browser connect to Windy. Windy then receives your IP address and may set cookies or process data under its own privacy policy. We store nothing about this. If you do not click, nothing is shared. The link to the Bergfex webcams opens an external page in a new tab.",
+    "de": "Auf der Webcam-Seite kannst du per Klick eine Wetterkarte von Windy laden. Erst nach deinem Klick verbindet sich dein Browser mit Windy. Windy erhält dann deine IP-Adresse und kann Cookies setzen oder Daten nach seiner eigenen Datenschutzerklärung verarbeiten. Wir speichern dazu nichts. Wenn du nicht klickst, wird nichts weitergegeben. Der Link zu den Bergfex-Webcams öffnet eine externe Seite in einem neuen Tab."
    }
   }
  ],

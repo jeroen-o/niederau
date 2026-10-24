@@ -1048,24 +1048,28 @@ SKI_LABELS = {"kaart": {"nl": "Skigebied Niederau: pistekaart en overzicht", "en
 def guide_li(gid, lang):
     g = next(x for x in GUIDES if x["id"] == gid)
     return f'<li><a href="{u_guide(g, lang)}">{e(L(g["title"], lang))}</a></li>'
-EMBEDS = [  # (titel, src, hoogte, aanbieder, link-label, link)
-    ({"nl": "Webcams Wildschönau via Bergfex", "en": "Wildschönau webcams via Bergfex", "de": "Webcams Wildschönau über Bergfex"},
-     "https://nl.bergfex.com/wildschoenau/webcams/c5213/", 600, "Bergfex", "https://nl.bergfex.com/wildschoenau/webcams/c5213/"),
+EMBEDS = [  # (titel, src, hoogte, aanbieder, link-label, link); alleen aanbieders die insluiten toestaan
     ({"nl": "Weerkaart Niederau via Windy", "en": "Weather map Niederau via Windy", "de": "Wetterkarte Niederau über Windy"},
      "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=%C2%B0C&metricWind=km/h&zoom=9&lat=47.4446&lon=12.0789&detail=true&detailLat=47.4446&detailLon=12.0789&marker=true&message=true",
      450, "Windy", "https://www.windy.com/47.445/12.079?47.445,12.079,10"),
 ]
+WEBCAM_LINK = {"h": {"nl": "Alle webcams op Bergfex", "en": "All webcams on Bergfex", "de": "Alle Webcams bei Bergfex"},
+               "p": {"nl": "Bergfex toont de webcams van de Wildschönau op een eigen pagina. Die opent in een nieuw tabblad.", "en": "Bergfex shows the Wildschönau webcams on its own page. It opens in a new tab.", "de": "Bergfex zeigt die Webcams der Wildschönau auf einer eigenen Seite. Sie öffnet sich in einem neuen Tab."},
+               "a": {"nl": "Open de webcams bij Bergfex", "en": "Open the webcams at Bergfex", "de": "Webcams bei Bergfex öffnen"},
+               "u": "https://nl.bergfex.com/wildschoenau/webcams/c5213/"}
 EMBED_UI = {
     "h": {"nl": "Live kijken", "en": "Watch live", "de": "Live ansehen"},
-    "p": {"nl": "Deze beelden laad je pas na een klik. Dan maakt je browser verbinding met de aanbieder (Bergfex of Windy), die je IP-adres ontvangt en cookies kan plaatsen. Zolang je niet klikt, wordt er niets gedeeld. Zie onze privacyverklaring.",
-          "en": "These views only load after you click. Your browser then connects to the provider (Bergfex or Windy), which receives your IP address and may set cookies. Nothing is shared as long as you do not click. See our privacy policy.",
-          "de": "Diese Ansichten werden erst nach einem Klick geladen. Dann verbindet sich dein Browser mit dem Anbieter (Bergfex oder Windy), der deine IP-Adresse erhält und Cookies setzen kann. Solange du nicht klickst, wird nichts weitergegeben. Siehe unsere Datenschutzerklärung."},
-    "btn": {"nl": "Toon live beeld", "en": "Show live view", "de": "Live-Bild anzeigen"},
-    "open": {"nl": "Opent het beeld niet? Open het bij", "en": "Does it not open? Open it at", "de": "Öffnet sich das Bild nicht? Öffne es bei"},
+    "p": {"nl": "De weerkaart hieronder laad je pas na een klik. Dan maakt je browser verbinding met Windy, dat je IP-adres ontvangt en cookies kan plaatsen. Zolang je niet klikt, wordt er niets gedeeld. Zie onze privacyverklaring.",
+          "en": "The weather map below only loads after you click. Your browser then connects to Windy, which receives your IP address and may set cookies. Nothing is shared as long as you do not click. See our privacy policy.",
+          "de": "Die Wetterkarte unten wird erst nach einem Klick geladen. Dann verbindet sich dein Browser mit Windy, das deine IP-Adresse erhält und Cookies setzen kann. Solange du nicht klickst, wird nichts weitergegeben. Siehe unsere Datenschutzerklärung."},
+    "btn": {"nl": "Toon weerkaart", "en": "Show weather map", "de": "Wetterkarte anzeigen"},
+    "open": {"nl": "Opent de kaart niet? Open hem bij", "en": "Does the map not open? Open it at", "de": "Öffnet sich die Karte nicht? Öffne sie bei"},
 }
 def embeds_html(lang):
     k = lambda key: EMBED_UI[key][lang if lang in EMBED_UI[key] else "nl"]
-    cards = ""
+    cards = (f'<article class="card embed-card"><h3>{e(WEBCAM_LINK["h"][lang if lang in WEBCAM_LINK["h"] else "nl"])}</h3>'
+             f'<p>{e(WEBCAM_LINK["p"][lang if lang in WEBCAM_LINK["p"] else "nl"])}</p>'
+             f'<p><a class="btn" href="{WEBCAM_LINK["u"]}" rel="noopener" target="_blank">{e(WEBCAM_LINK["a"][lang if lang in WEBCAM_LINK["a"] else "nl"])}</a></p></article>')
     for title, src, h, prov, link in EMBEDS:
         t = title.get(lang) or title["nl"]
         cards += (f'<article class="card embed-card"><h3>{e(t)}</h3><div class="embed-box" style="min-height:{min(h, 240)}px">'
