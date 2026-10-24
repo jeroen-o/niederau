@@ -978,7 +978,7 @@ def build_photos():
 # ---------- webcampagina ----------
 WEBCAM = {
  "slug": ("webcam", "webcam", "webcam"),
- "title": ("Webcam Niederau: live beelden van de pistes en het dorp", "Niederau webcam: live views of the slopes and the village", "Webcam Niederau: Live-Bilder von Pisten und Dorf"),
+ "title": ("Webcams Niederau: links naar live beelden van pistes en dorp", "Niederau webcams: links to live views of the slopes and the village", "Webcams Niederau: Links zu Live-Bildern von Pisten und Dorf"),
  "short": ("Webcam", "Webcam", "Webcam"),
  "tagline": ("Webcams bij Niederau en in de Wildschönau: waar ze staan en wat je ziet", "Webcams near Niederau and in the Wildschönau: where they are and what you see", "Webcams bei Niederau und in der Wildschönau: wo sie stehen und was man sieht"),
  "intro": ("Wie naar Niederau gaat, wil vooraf weten hoeveel sneeuw er ligt, of de bergen vrij zijn en hoe druk het is. Een webcam geeft in één blik antwoord. Op deze pagina vind je de bekendste camera’s bij Niederau en in de rest van de Wildschönau, met uitleg over wat je ziet en waar je de beelden opent. We tonen zelf geen live beelden van derden op deze site; je opent ze bij de aanbieder. Zo blijft deze pagina snel en worden er geen gegevens met derden gedeeld.",
@@ -1074,6 +1074,16 @@ def build_webcam():
 
 # ---------- algemene infopagina's uit tools/data/static/*.json ----------
 def _t(d, lang): return d.get(lang) or d.get("nl") or ""
+def _shops_ld(d, lang, url):
+    """ItemList met SportingGoodsStore per verhuurder (alleen bij static-pagina's met 'shops')."""
+    if not d.get("shops"): return []
+    items = []
+    for i, s in enumerate(d["shops"], 1):
+        items.append({"@type": "ListItem", "position": i, "item": {"@type": "SportingGoodsStore", "name": s["name"],
+            "address": {"@type": "PostalAddress", "streetAddress": s["street"], "postalCode": s["zip"], "addressLocality": s["loc"], "addressRegion": "Tirol", "addressCountry": "AT"},
+            "telephone": s["tel"], "url": s["url"], "areaServed": "Wildschönau, Tirol"}})
+    return [{"@type": "ItemList", "@id": BASE + url + "#shops", "name": _t(d["shops_name"], lang), "itemListElement": items}]
+
 def _paras(txt): return "".join(f"<p>{e(x).replace(chr(10), '<br>')}</p>" for x in txt.split("\n\n") if x.strip())
 def build_static():
     for f in sorted((DATA / "static").glob("*.json")):
@@ -1092,12 +1102,18 @@ def build_static():
                 img += (f'<figure class="album-fig"><img src="/assets/img/{ph["file"]}.webp" width="{ph["w"]}" height="{ph["h"]}" loading="lazy" decoding="async" alt="{e(_t(ph["alt"], lang))}">'
                         f'<figcaption>{e(_t(ph["cap"], lang))} <a href="{lu}" rel="license noopener" target="_blank">{e(ph["lic"])}</a>. {e(_t(ph["note"], lang))}</figcaption></figure>')
             for fg in d.get("figures", []):
-                img += f'<figure class="album-fig"><img src="/assets/img/{fg["file"]}.webp" width="{fg["w"]}" height="{fg["h"]}" loading="lazy" decoding="async" alt="{e(_t(fg["alt"], lang))}"><figcaption>{e(_t(fg["cap"], lang))}</figcaption></figure>'
+                img += f'<figure class="album-fig"{" data-only=" + chr(34) + fg["only"] + chr(34) if fg.get("only") else ""}><img src="/assets/img/{fg["file"]}.webp" width="{fg["w"]}" height="{fg["h"]}" loading="lazy" decoding="async" alt="{e(_t(fg["alt"], lang))}"><figcaption>{e(_t(fg["cap"], lang))}</figcaption></figure>'
             if d.get("image_winter") or d.get("image_summer"):
                 if d.get("image_winter"): img += gen_one(d["image_winter"], lang, ' data-only="winter"')
                 if d.get("image_summer"): img += gen_one(d["image_summer"], lang, ' data-only="summer"')
             secs = ""
             for n, sec in enumerate(d.get("sections", [])):
+                if sec.get("html"):
+                    _hm = _re.search(r'<h2 id="([^"]+)"', _t(sec["html"], lang))
+                    _al = f' aria-labelledby="{_hm.group(1)}"' if _hm else ""
+                    _cls = "alt" if n % 2 == 0 else ""
+                    secs += f'<section class="{_cls}"{_al}><div class="wrap">{_t(sec["html"], lang)}</div></section>'
+                    continue
                 h = f'<h2>{e(_t(sec["h"], lang))}</h2>' if sec.get("h") else ""
                 p = _paras(_t(sec["p"], lang)) if sec.get("p") else ""
                 lst = ""
@@ -1122,9 +1138,9 @@ def build_static():
                     rel += f'<li><a href="/{PREFIX[lang]}{r["path"][lang]}">{e(_t(r["label"], lang))}</a></li>'
             rel_s = f'<section class="alt"><div class="wrap"><h2>{ui("overviews", lang)}</h2><ul class="check">{rel}</ul></div></section>' if rel else ""
             body = f'<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(_t(d["tagline"], lang))}</p>{_paras(_t(d["intro"], lang))}{img}</div></section>{secs}{faq_s}{rel_s}'
-            desc = trim_desc(_t(d["tagline"], lang).rstrip(".") + ". " + _t(d["intro"], lang).split("\n\n")[0])
+            desc = _t(d["desc"], lang) if d.get("desc") else trim_desc(_t(d["tagline"], lang).rstrip(".") + ". " + _t(d["intro"], lang).split("\n\n")[0])
             ld = [{"@type": "WebPage", "@id": BASE + urls[lang] + "#webpage", "url": BASE + urls[lang], "name": name, "description": desc, "inLanguage": lang, "isPartOf": {"@id": f"{BASE}/#website"}, "dateModified": "@@LASTMOD@@", "breadcrumb": {"@id": BASE + urls[lang] + "#bc"}},
-                  dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else [])
+                  dict(cr_ld, **{"@id": BASE + urls[lang] + "#bc"})] + ([dict(faq_ld, **{"@id": BASE + urls[lang] + "#faq"})] if faq_ld else []) + _shops_ld(d, lang, urls[lang])
             write(urls[lang], shell(lang, "static:" + d["id"], urls, f"{name} | Niederau.nl", desc, body, ld))
         registry.append(("static:" + d["id"], urls, None))
 

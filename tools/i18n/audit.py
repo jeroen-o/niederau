@@ -41,8 +41,13 @@ for rel, h in pages.items():
     c = re.search(r'<link rel="canonical" href="https://niederau\.nl([^"]*)"', h)
     if not c or c.group(1) != u: bad(l, "canonical", rel)
     alts = dict((a, b) for a, b in re.findall(r'<link rel="alternate" hreflang="([\w-]+)" href="https://niederau\.nl([^"]*)">', h))
-    if "x-default" not in alts: bad(l, "geen x-default", rel)
-    if alts.get(l) != u: bad(l, "hreflang zelf", rel)
+    noidx = 'name="robots" content="noindex' in h
+    if noidx:
+        if alts: bad(l, "noindex-pagina met hreflang", rel)
+        if 'class="mt-note"' not in h: bad(l, "geen machinevertaling-melding", rel)
+        alts = {}
+    if not noidx and "x-default" not in alts: bad(l, "geen x-default", rel)
+    if not noidx and alts.get(l) != u: bad(l, "hreflang zelf", rel)
     for lg, tu in alts.items():
         if lg == "x-default": continue
         tr = by_url.get(tu)
@@ -51,7 +56,7 @@ for rel, h in pages.items():
         if back.get(l) != u: bad(l, "hreflang niet wederkerig", rel)
     if 'property="og:locale"' not in h: bad(l, "geen og:locale", rel)
     n_alt = len(re.findall(r'og:locale:alternate', h))
-    if n_alt != len(alts) - 2: bad(l, "og:locale:alternate aantal", rel)
+    if not noidx and n_alt != len(alts) - 2: bad(l, "og:locale:alternate aantal", rel)
     for k in ("geo.region", "geo.placename", "geo.position", "ICBM"):
         if f'name="{k}"' not in h: bad(l, "geen " + k, rel)
     if "og:image" not in h: bad(l, "geen og:image", rel)
@@ -62,7 +67,8 @@ for rel, h in pages.items():
         except Exception: bad(l, "JSON-LD ongeldig", rel); continue
         langs_in = set(re.findall(r'"inLanguage": ?"([\w-]+)"', s))
         if langs_in and langs_in - {l, "nb" if l == "no" else l}: bad(l, "inLanguage ≠ taal", rel)
-    if u not in sm_urls: bad(l, "niet in sitemap", rel)
+    if not noidx and u not in sm_urls: bad(l, "niet in sitemap", rel)
+    if noidx and u in sm_urls: bad(l, "noindex-pagina staat in sitemap", rel)
     sw = re.search(r'<div class="lang"[^>]*>(.*?)</div>', h, re.S)
     if not sw or 'aria-current="true"' not in sw.group(1): bad(l, "taalkiezer", rel)
 print(f"{'taal':5}{'pagina':>7}  problemen")

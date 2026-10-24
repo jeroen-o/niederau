@@ -6,226 +6,217 @@
   "de": "skiverleih-niederau"
  },
  "title": {
-  "nl": "Skiverhuur in Niederau, Oberau en Auffach: waar huur je ski’s?",
-  "en": "Ski rental in Niederau, Oberau and Auffach: where to rent skis",
-  "de": "Skiverleih in Niederau, Oberau und Auffach: wo du Ski mieten kannst"
+  "nl": "Skiverhuur Niederau: alle verhuurders met adres en telefoon",
+  "en": "Ski rental Niederau: every rental shop with address and phone",
+  "de": "Skiverleih Niederau: alle Verleiher mit Adresse und Telefon"
  },
  "tagline": {
-  "nl": "Skiverhuur, snowboards en langlaufski’s in de Wildschönau: wie, waar en waar je op let",
-  "en": "Ski, snowboard and cross-country ski rental in the Wildschönau: who, where and what to look out for",
-  "de": "Skiverleih, Snowboards und Langlaufski in der Wildschönau: wer, wo und worauf du achten solltest"
+  "nl": "Ski's, snowboards, langlaufski's en rodels huren in Niederau, Oberau en Auffach",
+  "en": "Hiring skis, snowboards, cross-country skis and sledges in Niederau, Oberau and Auffach",
+  "de": "Ski, Snowboards, Langlaufski und Rodeln ausleihen in Niederau, Oberau und Auffach"
+ },
+ "desc": {
+  "nl": "Ski's, snowboards en rodels huren in Niederau, Oberau en Auffach. Alle verhuurders met adres, telefoonnummer, openingstijden en de korting via de Wildschönau Card.",
+  "en": "Hire skis, snowboards and sledges in Niederau, Oberau and Auffach. Every rental shop with address, phone number, opening hours and the Wildschönau Card discount.",
+  "de": "Ski, Snowboards und Rodeln ausleihen in Niederau, Oberau und Auffach. Alle Verleiher mit Adresse, Telefonnummer, Öffnungszeiten und dem Rabatt über die Wildschönau Card."
  },
  "intro": {
-  "nl": "Wie met de trein of het vliegtuig naar Niederau reist, neemt zelden zijn eigen ski’s mee. Gelukkig is huren in de Wildschönau eenvoudig: veel verhuurders zitten vlak bij de dalstations van de liften en in het dorpscentrum. Op deze pagina vind je de verhuurders die in openbare bronnen genoemd worden, per dorp, met wat je er volgens die bronnen kunt huren.\n\nDit is een onafhankelijke, niet-uitputtende lijst. De vermelding is geen aanbeveling en er is geen vergoeding voor betaald. Controleer adres, tijden, prijzen en reserveren altijd bij de verhuurder zelf.",
-  "en": "Anyone travelling to Niederau by train or plane rarely brings their own skis. Fortunately renting in the Wildschönau is easy: many rental shops are close to the valley stations of the lifts and in the village centre. On this page you will find the rental shops named in public sources, by village, with what you can rent there according to those sources.\n\nThis is an independent, non-exhaustive list. A listing is not a recommendation and nothing was paid for it. Always check address, times, prices and booking with the rental shop itself.",
-  "de": "Wer mit Zug oder Flugzeug nach Niederau reist, bringt selten eigene Ski mit. Zum Glück ist das Mieten in der Wildschönau einfach: Viele Verleihe liegen nahe den Talstationen der Lifte und im Ortskern. Auf dieser Seite findest du die in öffentlichen Quellen genannten Verleihe, nach Dorf geordnet, mit dem, was man dort laut diesen Quellen mieten kann.\n\nDies ist eine unabhängige, nicht vollständige Liste. Eine Nennung ist keine Empfehlung, und es wurde nichts dafür bezahlt. Adresse, Zeiten, Preise und Buchung bitte immer beim Verleih selbst prüfen."
+  "nl": "Wie met de trein of het vliegtuig naar Niederau reist, neemt zelden eigen ski's mee. Huren in de Wildschönau is eenvoudig: de verhuurders zitten in de dorpskernen en bij de dalstations van de liften, op loopafstand van de meeste hotels en appartementen. Hieronder staan ze per dorp, met adres, telefoonnummer en wat er volgens openbare bronnen te huur is.\n\nDit is een onafhankelijke, niet-uitputtende lijst. De vermelding is geen aanbeveling en er is geen vergoeding voor betaald. Adres, openingstijden en tarieven zijn overgenomen uit de officiële regiobronnen van Wildschönau Tourismus en Ski Juwel en kunnen wijzigen: controleer ze vóór je komt bij de verhuurder zelf.",
+  "en": "Anyone travelling to Niederau by train or plane rarely brings their own skis. Hiring in the Wildschönau is straightforward: the shops sit in the village centres and at the lift base stations, within walking distance of most hotels and apartments. Below they are listed village by village, with address, phone number and what public sources say they rent out.\n\nThis is an independent and non-exhaustive list. A listing is not a recommendation and no payment was made for it. Addresses, opening hours and rates are taken from the official regional sources of Wildschönau Tourismus and Ski Juwel and are subject to change: check them with the shop before you travel.",
+  "de": "Wer mit der Bahn oder dem Flugzeug nach Niederau reist, nimmt selten eigene Ski mit. Leihen ist in der Wildschönau unkompliziert: Die Verleiher liegen in den Dorfzentren und an den Talstationen der Lifte, in Gehweite der meisten Hotels und Appartements. Unten stehen sie nach Dorf geordnet, mit Adresse, Telefonnummer und dem, was laut öffentlichen Quellen zu leihen ist.\n\nDies ist eine unabhängige, nicht abschließende Liste. Eine Nennung ist keine Empfehlung, und es wurde dafür keine Vergütung bezahlt. Adressen, Öffnungszeiten und Tarife stammen aus den offiziellen Regionsquellen von Wildschönau Tourismus und Ski Juwel und können sich ändern: Prüfen Sie sie vor der Anreise beim Verleiher selbst."
  },
- "image_winter": "niederau-skien-piste-oefenlift-hut",
+ "figures": [
+  {
+   "file": "niederau-skien-piste-oefenlift-hut",
+   "w": 1200,
+   "h": 800,
+   "only": "winter",
+   "alt": {
+    "nl": "Skiër op een brede, rustige piste met een lifthut en sneeuwkanonnen",
+    "en": "Skier on a wide, quiet piste with a lift hut and snow cannons",
+    "de": "Skifahrer auf einer breiten, ruhigen Piste mit Lifthütte und Schneekanonen"
+   },
+   "cap": {
+    "nl": "De pistes van Niederau liggen vlak boven het dorp, dus je loopt met gehuurd materiaal zo naar de lift.",
+    "en": "Niederau's slopes start just above the village, so you can walk to the lift with your hired gear.",
+    "de": "Die Pisten von Niederau beginnen direkt über dem Dorf, der Weg zum Lift ist mit Leihmaterial kurz."
+   }
+  }
+ ],
  "sections": [
   {
-   "h": {
-    "nl": "Verhuur per dorp",
-    "en": "Rental by village",
-    "de": "Verleih nach Dorf"
-   },
-   "cards": [
-    {
-     "h": {
-      "nl": "Niederau",
-      "en": "Niederau",
-      "de": "Niederau"
-     },
-     "p": {
-      "nl": "Sport Blachfelder zit in het dorpscentrum, in Hotel Austria. Volgens de bronnen verhuren ze ski’s, snowboards en toerski’s, en ook sleeën en fietsen. Ski & Board Margreiter zit bij het parkeerterrein en de lift van het Markbachjoch en verhuurt ski’s, snowboards, langlaufski’s, sleeën, snowblades, schoenen en helmen.",
-      "en": "Sport Blachfelder is in the village centre, in Hotel Austria. According to the sources they rent skis, snowboards and touring skis, as well as sleds and bikes. Ski & Board Margreiter is by the car park and lift of the Markbachjoch and rents skis, snowboards, cross-country skis, sleds, snowblades, boots and helmets.",
-      "de": "Sport Blachfelder liegt im Ortskern, im Hotel Austria. Laut den Quellen verleihen sie Ski, Snowboards und Tourenski sowie Schlitten und Fahrräder. Ski & Board Margreiter liegt am Parkplatz und Lift des Markbachjochs und verleiht Ski, Snowboards, Langlaufski, Schlitten, Snowblades, Schuhe und Helme."
-     },
-     "links": [
-      {
-       "l": {
-        "nl": "Website Sport Blachfelder",
-        "en": "Sport Blachfelder website",
-        "de": "Website Sport Blachfelder"
-       },
-       "u": "https://www.sportblachfelder.at"
-      }
-     ]
-    },
-    {
-     "h": {
-      "nl": "Oberau",
-      "en": "Oberau",
-      "de": "Oberau"
-     },
-     "p": {
-      "nl": "In Oberau heeft Ski & Board Margreiter ook een vestiging; volgens de bronnen verhuurt men er ski’s, snowboards en langlaufski’s.",
-      "en": "In Oberau Ski & Board Margreiter also has a branch; according to the sources it rents skis, snowboards and cross-country skis.",
-      "de": "In Oberau hat Ski & Board Margreiter ebenfalls eine Filiale; laut den Quellen verleiht man dort Ski, Snowboards und Langlaufski."
-     }
-    },
-    {
-     "h": {
-      "nl": "Auffach",
-      "en": "Auffach",
-      "de": "Auffach"
-     },
-     "p": {
-      "nl": "Bij het dalstation van de Schatzbergbahn zit Ski & Board Margreiter, met verhuur, skiservice en een ski- en schoendepot. Ski Auffach, aan het einde van de piste, combineert verhuur, skiservice, een winkel en een skischool. Skisport Thaler is een familiebedrijf met sportartikelen en winterverhuur.",
-      "en": "At the valley station of the Schatzbergbahn is Ski & Board Margreiter, with rental, ski service and a ski and boot depot. Ski Auffach, at the end of the slope, combines rental, ski service, a shop and a ski school. Skisport Thaler is a family business with sports goods and winter rental.",
-      "de": "An der Talstation der Schatzbergbahn liegt Ski & Board Margreiter, mit Verleih, Skiservice und einem Ski- und Schuhdepot. Ski Auffach, am Ende der Piste, verbindet Verleih, Skiservice, ein Geschäft und eine Skischule. Skisport Thaler ist ein Familienbetrieb mit Sportartikeln und Winterverleih."
-     }
-    },
-    {
-     "h": {
-      "nl": "Thierbach en Mühltal",
-      "en": "Thierbach and Mühltal",
-      "de": "Thierbach und Mühltal"
-     },
-     "p": {
-      "nl": "In Thierbach en Mühltal vonden we geen eigen verhuurder. Gasten reizen met de skibus naar Auffach of Niederau.",
-      "en": "In Thierbach and Mühltal we found no rental shop of its own. Guests take the ski bus to Auffach or Niederau.",
-      "de": "In Thierbach und Mühltal haben wir keinen eigenen Verleih gefunden. Gäste fahren mit dem Skibus nach Auffach oder Niederau."
-     }
-    }
-   ]
-  },
-  {
-   "h": {
-    "nl": "Tips voor het huren",
-    "en": "Tips for renting",
-    "de": "Tipps zum Mieten"
-   },
-   "list": [
-    {
-     "t": {
-      "nl": "Reserveer vooraf als dat kan. Margreiter en Sport Blachfelder vermelden online boeken; in de schoolvakanties is het druk.",
-      "en": "Book ahead if you can. Margreiter and Sport Blachfelder mention online booking; it is busy in school holidays.",
-      "de": "Reserviere vorab, wenn möglich. Margreiter und Sport Blachfelder nennen Online-Buchung; in den Schulferien ist viel los."
-     }
-    },
-    {
-     "t": {
-      "nl": "Vraag naar een skidepot als je niet elke dag je spullen mee naar je accommodatie wilt nemen. Margreiter in Auffach noemt een ski- en schoendepot.",
-      "en": "Ask about a ski depot if you do not want to carry your gear to your accommodation every day. Margreiter in Auffach mentions a ski and boot depot.",
-      "de": "Frag nach einem Skidepot, wenn du die Ausrüstung nicht jeden Tag zur Unterkunft tragen willst. Margreiter in Auffach nennt ein Ski- und Schuhdepot."
-     }
-    },
-    {
-     "t": {
-      "nl": "Neem lengte, gewicht en schoenmaat mee en vraag bij kinderen naar een helm. Laat de afstelling van de bindingen altijd door de verhuurder doen.",
-      "en": "Bring height, weight and shoe size, and ask about a helmet for children. Always let the rental shop set the bindings.",
-      "de": "Bring Größe, Gewicht und Schuhgröße mit und frag bei Kindern nach einem Helm. Lass die Bindungen immer vom Verleih einstellen."
-     }
-    },
-    {
-     "t": {
-      "nl": "Kies een verhuurder dicht bij de lift die je gebruikt. Veel verhuurders liggen vlak bij de dalstations; dat scheelt sjouwen.",
-      "en": "Choose a rental shop close to the lift you use. Many are right by the valley stations, which saves carrying.",
-      "de": "Wähle einen Verleih nahe dem Lift, den du nutzt. Viele liegen direkt an den Talstationen, das spart Schlepperei."
-     }
-    },
-    {
-     "t": {
-      "nl": "Huur en skipas zijn twee aparte dingen: de skipas is niet bij de verhuur inbegrepen.",
-      "en": "Rental and a ski pass are two separate things: the ski pass is not included in the rental.",
-      "de": "Verleih und Skipass sind zwei getrennte Dinge: Der Skipass ist nicht im Verleih enthalten."
-     }
-    }
-   ],
-   "note": {
-    "nl": "Prijzen, openingstijden en voorwaarden wisselen per seizoen en zijn bewust niet vermeld.",
-    "en": "Prices, opening times and conditions change each season and are deliberately not listed.",
-    "de": "Preise, Öffnungszeiten und Bedingungen wechseln jede Saison und sind bewusst nicht genannt."
+   "html": {
+    "nl": "\n<h2 id=\"h-niederau\">Skiverhuur in Niederau</h2>\n<div class=\"grid grid-two\">\n<article class=\"card\" id=\"blachfelder\">\n<h3>Sport Blachfelder</h3>\n<p>In het dorpscentrum van Niederau, bij Hotel Austria. Verhuur van ski’s, snowboards, rodels, toerskimateriaal en fietsen, voor winter en zomer.</p>\n<ul class=\"links-plain\">\n<li><strong>Adres:</strong> Dorfstraße 123, 6314 Wildschönau (Niederau) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Dorfstra%C3%9Fe%20123%2C%206314%20Wildsch%C3%B6nau%20%28Niederau%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Op de kaart</a></li>\n<li><strong>Telefoon:</strong> <a href=\"tel:+435339818858\">+43 5339 818858</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.sportblachfelder.at\" rel=\"nofollow noopener\" target=\"_blank\">eigen website</a></li>\n<li><strong>Openingstijden:</strong> Ma t/m za 08.30–12.00 en 14.00–18.00 uur</li>\n<li><strong>Prijzen:</strong> op aanvraag</li>\n</ul>\n</article>\n<article class=\"card\" id=\"margreiter-niederau\">\n<h3>Ski &amp; Board Margreiter Niederau</h3>\n<p>Verhuur van ski’s, snowboards, langlaufski’s, rodels, schoenen, helmen en snowblades. Dezelfde onderneming heeft ook vestigingen in Oberau en Auffach en is partner van de Happy Ski School Wildschönau.</p>\n<ul class=\"links-plain\">\n<li><strong>Adres:</strong> Niederau 102, 6314 Wildschönau (Niederau) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Niederau%20102%2C%206314%20Wildsch%C3%B6nau%20%28Niederau%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Op de kaart</a></li>\n<li><strong>Telefoon:</strong> <a href=\"tel:+4353392324\">+43 5339 2324</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.ski-margreiter.at\" rel=\"nofollow noopener\" target=\"_blank\">eigen website</a></li>\n<li><strong>Openingstijden:</strong> Alleen in het winterseizoen; tijden op aanvraag</li>\n<li><strong>Prijzen:</strong> op aanvraag</li>\n</ul>\n</article>\n</div>\n",
+    "en": "\n<h2 id=\"h-niederau\">Ski rental in Niederau</h2>\n<div class=\"grid grid-two\">\n<article class=\"card\" id=\"blachfelder\">\n<h3>Sport Blachfelder</h3>\n<p>In the centre of Niederau, at Hotel Austria. Rents skis, snowboards, sledges, ski touring equipment and bikes, for winter and summer.</p>\n<ul class=\"links-plain\">\n<li><strong>Address:</strong> Dorfstraße 123, 6314 Wildschönau (Niederau) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Dorfstra%C3%9Fe%20123%2C%206314%20Wildsch%C3%B6nau%20%28Niederau%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Show on map</a></li>\n<li><strong>Phone:</strong> <a href=\"tel:+435339818858\">+43 5339 818858</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.sportblachfelder.at\" rel=\"nofollow noopener\" target=\"_blank\">own website</a></li>\n<li><strong>Opening hours:</strong> Mon–Sat 8.30 a.m.–12 noon and 2–6 p.m.</li>\n<li><strong>Prices:</strong> on request</li>\n</ul>\n</article>\n<article class=\"card\" id=\"margreiter-niederau\">\n<h3>Ski &amp; Board Margreiter Niederau</h3>\n<p>Rents skis, snowboards, cross-country skis, sledges, boots, helmets and snow blades. The same company has branches in Oberau and Auffach and is a partner of the Happy Ski School Wildschönau.</p>\n<ul class=\"links-plain\">\n<li><strong>Address:</strong> Niederau 102, 6314 Wildschönau (Niederau) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Niederau%20102%2C%206314%20Wildsch%C3%B6nau%20%28Niederau%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Show on map</a></li>\n<li><strong>Phone:</strong> <a href=\"tel:+4353392324\">+43 5339 2324</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.ski-margreiter.at\" rel=\"nofollow noopener\" target=\"_blank\">own website</a></li>\n<li><strong>Opening hours:</strong> Winter season only; times on request</li>\n<li><strong>Prices:</strong> on request</li>\n</ul>\n</article>\n</div>\n",
+    "de": "\n<h2 id=\"h-niederau\">Skiverleih in Niederau</h2>\n<div class=\"grid grid-two\">\n<article class=\"card\" id=\"blachfelder\">\n<h3>Sport Blachfelder</h3>\n<p>Im Dorfzentrum von Niederau, beim Hotel Austria. Verleih von Ski, Snowboards, Rodeln, Tourenausrüstung und Fahrrädern, für Winter und Sommer.</p>\n<ul class=\"links-plain\">\n<li><strong>Adresse:</strong> Dorfstraße 123, 6314 Wildschönau (Niederau) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Dorfstra%C3%9Fe%20123%2C%206314%20Wildsch%C3%B6nau%20%28Niederau%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Auf der Karte</a></li>\n<li><strong>Telefon:</strong> <a href=\"tel:+435339818858\">+43 5339 818858</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.sportblachfelder.at\" rel=\"nofollow noopener\" target=\"_blank\">eigene Website</a></li>\n<li><strong>Öffnungszeiten:</strong> Mo–Sa 8.30–12.00 und 14.00–18.00 Uhr</li>\n<li><strong>Preise:</strong> auf Anfrage</li>\n</ul>\n</article>\n<article class=\"card\" id=\"margreiter-niederau\">\n<h3>Ski &amp; Board Margreiter Niederau</h3>\n<p>Verleih von Ski, Snowboards, Langlaufski, Rodeln, Schuhen, Helmen und Snowblades. Dasselbe Unternehmen hat auch Filialen in Oberau und Auffach und ist Partner der Happy Skischule Wildschönau.</p>\n<ul class=\"links-plain\">\n<li><strong>Adresse:</strong> Niederau 102, 6314 Wildschönau (Niederau) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Niederau%20102%2C%206314%20Wildsch%C3%B6nau%20%28Niederau%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Auf der Karte</a></li>\n<li><strong>Telefon:</strong> <a href=\"tel:+4353392324\">+43 5339 2324</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.ski-margreiter.at\" rel=\"nofollow noopener\" target=\"_blank\">eigene Website</a></li>\n<li><strong>Öffnungszeiten:</strong> Nur in der Wintersaison; Zeiten auf Anfrage</li>\n<li><strong>Preise:</strong> auf Anfrage</li>\n</ul>\n</article>\n</div>\n"
    }
   },
   {
-   "h": {
-    "nl": "Wildschönau Card en huurkorting",
-    "en": "Wildschönau Card and rental discount",
-    "de": "Wildschönau Card und Leihrabatt"
-   },
-   "p": {
-    "nl": "Volgens de vermeldingen van Wildschönau Tourismus krijg je met de Wildschönau Card bij verschillende verhuurders (onder andere Blachfelder, Margreiter, Thaler en Ski Auffach) zeven dagen huren voor de prijs van zes, en soms is sneeuwschoenenverhuur inbegrepen. De kaart krijg je bij deelnemende accommodaties. Controleer de actuele voorwaarden bij de verhuurder en je accommodatie.",
-    "en": "According to the listings of Wildschönau Tourismus the Wildschönau Card gives you seven days of rental for the price of six at several rental shops (including Blachfelder, Margreiter, Thaler and Ski Auffach), and snowshoe rental is sometimes included. You get the card from participating accommodations. Check the current conditions with the rental shop and your accommodation.",
-    "de": "Laut den Einträgen der Wildschönau Tourismus gibt es mit der Wildschönau Card bei mehreren Verleihen (unter anderem Blachfelder, Margreiter, Thaler und Ski Auffach) sieben Tage zum Preis von sechs, teils ist der Schneeschuhverleih inbegriffen. Die Karte erhältst du bei teilnehmenden Unterkünften. Aktuelle Bedingungen bitte beim Verleih und bei deiner Unterkunft prüfen."
+   "html": {
+    "nl": "\n<h2 id=\"h-oberau\">Skiverhuur in Oberau</h2>\n<div class=\"grid grid-two\">\n<article class=\"card\" id=\"margreiter-oberau\">\n<h3>Ski &amp; Board Margreiter Oberau</h3>\n<p>De vestiging in Oberau van dezelfde verhuurder, met hetzelfde aanbod als in Niederau.</p>\n<ul class=\"links-plain\">\n<li><strong>Adres:</strong> Oberau 174, 6311 Wildschönau (Oberau) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Oberau%20174%2C%206311%20Wildsch%C3%B6nau%20%28Oberau%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Op de kaart</a></li>\n<li><strong>Telefoon:</strong> <a href=\"tel:+436765405060\">+43 676 5405060</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.ski-margreiter.at\" rel=\"nofollow noopener\" target=\"_blank\">eigen website</a></li>\n<li><strong>Openingstijden:</strong> Alleen in het winterseizoen; tijden op aanvraag</li>\n<li><strong>Prijzen:</strong> op aanvraag</li>\n</ul>\n</article>\n</div>\n<p class=\"note\">In Oberau liggen de oefenliften en de Riedmannliften bij Roggenboden. Voor de grote pistes neem je de skibus naar Niederau of Auffach.</p>\n",
+    "en": "\n<h2 id=\"h-oberau\">Ski rental in Oberau</h2>\n<div class=\"grid grid-two\">\n<article class=\"card\" id=\"margreiter-oberau\">\n<h3>Ski &amp; Board Margreiter Oberau</h3>\n<p>The Oberau branch of the same rental company, with the same range as in Niederau.</p>\n<ul class=\"links-plain\">\n<li><strong>Address:</strong> Oberau 174, 6311 Wildschönau (Oberau) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Oberau%20174%2C%206311%20Wildsch%C3%B6nau%20%28Oberau%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Show on map</a></li>\n<li><strong>Phone:</strong> <a href=\"tel:+436765405060\">+43 676 5405060</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.ski-margreiter.at\" rel=\"nofollow noopener\" target=\"_blank\">own website</a></li>\n<li><strong>Opening hours:</strong> Winter season only; times on request</li>\n<li><strong>Prices:</strong> on request</li>\n</ul>\n</article>\n</div>\n<p class=\"note\">Oberau has the training lifts and the Riedmann lifts at Roggenboden. For the main slopes, take the ski bus to Niederau or Auffach.</p>\n",
+    "de": "\n<h2 id=\"h-oberau\">Skiverleih in Oberau</h2>\n<div class=\"grid grid-two\">\n<article class=\"card\" id=\"margreiter-oberau\">\n<h3>Ski &amp; Board Margreiter Oberau</h3>\n<p>Die Filiale in Oberau desselben Verleihers, mit demselben Angebot wie in Niederau.</p>\n<ul class=\"links-plain\">\n<li><strong>Adresse:</strong> Oberau 174, 6311 Wildschönau (Oberau) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Oberau%20174%2C%206311%20Wildsch%C3%B6nau%20%28Oberau%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Auf der Karte</a></li>\n<li><strong>Telefon:</strong> <a href=\"tel:+436765405060\">+43 676 5405060</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.ski-margreiter.at\" rel=\"nofollow noopener\" target=\"_blank\">eigene Website</a></li>\n<li><strong>Öffnungszeiten:</strong> Nur in der Wintersaison; Zeiten auf Anfrage</li>\n<li><strong>Preise:</strong> auf Anfrage</li>\n</ul>\n</article>\n</div>\n<p class=\"note\">In Oberau liegen die Übungslifte und die Riedmannlifte bei Roggenboden. Für die großen Pisten nimmt man den Skibus nach Niederau oder Auffach.</p>\n"
+   }
+  },
+  {
+   "html": {
+    "nl": "\n<h2 id=\"h-auffach\">Skiverhuur in Auffach</h2>\n<div class=\"grid grid-two\">\n<article class=\"card\" id=\"margreiter-auffach\">\n<h3>Ski &amp; Board Margreiter Auffach</h3>\n<p>De vestiging in Auffach-Dorf van dezelfde verhuurder, met hetzelfde aanbod als in Niederau.</p>\n<ul class=\"links-plain\">\n<li><strong>Adres:</strong> Auffach-Dorf, 6313 Wildschönau (Auffach) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Auffach-Dorf%2C%206313%20Wildsch%C3%B6nau%20%28Auffach%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Op de kaart</a></li>\n<li><strong>Telefoon:</strong> <a href=\"tel:+4353392426\">+43 5339 2426</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.ski-margreiter.at\" rel=\"nofollow noopener\" target=\"_blank\">eigen website</a></li>\n<li><strong>Openingstijden:</strong> Alleen in het winterseizoen; tijden op aanvraag</li>\n<li><strong>Prijzen:</strong> op aanvraag</li>\n</ul>\n</article>\n<article class=\"card\" id=\"ski-auffach\">\n<h3>Ski Auffach</h3>\n<p>Skischool, verhuurstation, skiservice en winkel aan het einde van de piste. Opvallend is de 3D-voetscan om skischoenen goed te laten passen.</p>\n<ul class=\"links-plain\">\n<li><strong>Adres:</strong> Dorf, Auffach 6, 6313 Wildschönau (Auffach) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Dorf%2C%20Auffach%206%2C%206313%20Wildsch%C3%B6nau%20%28Auffach%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Op de kaart</a></li>\n<li><strong>Telefoon:</strong> <a href=\"tel:+43533921703\">+43 5339 21703</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.ski-auffach.at\" rel=\"nofollow noopener\" target=\"_blank\">eigen website</a></li>\n<li><strong>Openingstijden:</strong> Alleen winterbedrijf; tijden op aanvraag</li>\n<li><strong>Prijzen:</strong> op aanvraag</li>\n</ul>\n</article>\n<article class=\"card\" id=\"thaler\">\n<h3>Skisport Thaler</h3>\n<p>Familiebedrijf met meer dan dertig jaar ervaring: sportartikelen, in de winter ook skikleding en verhuur.</p>\n<ul class=\"links-plain\">\n<li><strong>Adres:</strong> Dorf 156, 6313 Wildschönau (Auffach) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Dorf%20156%2C%206313%20Wildsch%C3%B6nau%20%28Auffach%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Op de kaart</a></li>\n<li><strong>Telefoon:</strong> <a href=\"tel:+4353398843\">+43 5339 8843</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.thaler-sport.at\" rel=\"nofollow noopener\" target=\"_blank\">eigen website</a></li>\n<li><strong>Openingstijden:</strong> Ma t/m za 08.30–12.00 uur; winteruren op aanvraag</li>\n<li><strong>Prijzen:</strong> op aanvraag</li>\n</ul>\n</article>\n</div>\n",
+    "en": "\n<h2 id=\"h-auffach\">Ski rental in Auffach</h2>\n<div class=\"grid grid-two\">\n<article class=\"card\" id=\"margreiter-auffach\">\n<h3>Ski &amp; Board Margreiter Auffach</h3>\n<p>The branch in Auffach-Dorf of the same rental company, with the same range as in Niederau.</p>\n<ul class=\"links-plain\">\n<li><strong>Address:</strong> Auffach-Dorf, 6313 Wildschönau (Auffach) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Auffach-Dorf%2C%206313%20Wildsch%C3%B6nau%20%28Auffach%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Show on map</a></li>\n<li><strong>Phone:</strong> <a href=\"tel:+4353392426\">+43 5339 2426</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.ski-margreiter.at\" rel=\"nofollow noopener\" target=\"_blank\">own website</a></li>\n<li><strong>Opening hours:</strong> Winter season only; times on request</li>\n<li><strong>Prices:</strong> on request</li>\n</ul>\n</article>\n<article class=\"card\" id=\"ski-auffach\">\n<h3>Ski Auffach</h3>\n<p>Ski school, rental station, ski service and shop at the end of the piste. A standout feature is the 3D foot scan for a good ski boot fit.</p>\n<ul class=\"links-plain\">\n<li><strong>Address:</strong> Dorf, Auffach 6, 6313 Wildschönau (Auffach) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Dorf%2C%20Auffach%206%2C%206313%20Wildsch%C3%B6nau%20%28Auffach%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Show on map</a></li>\n<li><strong>Phone:</strong> <a href=\"tel:+43533921703\">+43 5339 21703</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.ski-auffach.at\" rel=\"nofollow noopener\" target=\"_blank\">own website</a></li>\n<li><strong>Opening hours:</strong> Winter operation only; times on request</li>\n<li><strong>Prices:</strong> on request</li>\n</ul>\n</article>\n<article class=\"card\" id=\"thaler\">\n<h3>Skisport Thaler</h3>\n<p>Family business with more than thirty years of experience: sporting goods, and in winter ski clothing and rental.</p>\n<ul class=\"links-plain\">\n<li><strong>Address:</strong> Dorf 156, 6313 Wildschönau (Auffach) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Dorf%20156%2C%206313%20Wildsch%C3%B6nau%20%28Auffach%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Show on map</a></li>\n<li><strong>Phone:</strong> <a href=\"tel:+4353398843\">+43 5339 8843</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.thaler-sport.at\" rel=\"nofollow noopener\" target=\"_blank\">own website</a></li>\n<li><strong>Opening hours:</strong> Mon–Sat 8.30 a.m.–12 noon; winter hours on request</li>\n<li><strong>Prices:</strong> on request</li>\n</ul>\n</article>\n</div>\n",
+    "de": "\n<h2 id=\"h-auffach\">Skiverleih in Auffach</h2>\n<div class=\"grid grid-two\">\n<article class=\"card\" id=\"margreiter-auffach\">\n<h3>Ski &amp; Board Margreiter Auffach</h3>\n<p>Die Filiale in Auffach-Dorf desselben Verleihers, mit demselben Angebot wie in Niederau.</p>\n<ul class=\"links-plain\">\n<li><strong>Adresse:</strong> Auffach-Dorf, 6313 Wildschönau (Auffach) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Auffach-Dorf%2C%206313%20Wildsch%C3%B6nau%20%28Auffach%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Auf der Karte</a></li>\n<li><strong>Telefon:</strong> <a href=\"tel:+4353392426\">+43 5339 2426</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.ski-margreiter.at\" rel=\"nofollow noopener\" target=\"_blank\">eigene Website</a></li>\n<li><strong>Öffnungszeiten:</strong> Nur in der Wintersaison; Zeiten auf Anfrage</li>\n<li><strong>Preise:</strong> auf Anfrage</li>\n</ul>\n</article>\n<article class=\"card\" id=\"ski-auffach\">\n<h3>Ski Auffach</h3>\n<p>Skischule, Verleihstation, Skiservice und Shop am Pistenende. Besonders ist der 3D-Fußscan für die gute Passform der Skischuhe.</p>\n<ul class=\"links-plain\">\n<li><strong>Adresse:</strong> Dorf, Auffach 6, 6313 Wildschönau (Auffach) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Dorf%2C%20Auffach%206%2C%206313%20Wildsch%C3%B6nau%20%28Auffach%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Auf der Karte</a></li>\n<li><strong>Telefon:</strong> <a href=\"tel:+43533921703\">+43 5339 21703</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.ski-auffach.at\" rel=\"nofollow noopener\" target=\"_blank\">eigene Website</a></li>\n<li><strong>Öffnungszeiten:</strong> Nur Winterbetrieb; Zeiten auf Anfrage</li>\n<li><strong>Preise:</strong> auf Anfrage</li>\n</ul>\n</article>\n<article class=\"card\" id=\"thaler\">\n<h3>Skisport Thaler</h3>\n<p>Familienbetrieb mit mehr als dreißig Jahren Erfahrung: Sportartikel, im Winter auch Skibekleidung und Verleih.</p>\n<ul class=\"links-plain\">\n<li><strong>Adresse:</strong> Dorf 156, 6313 Wildschönau (Auffach) · <a href=\"https://www.google.com/maps/search/?api=1&amp;query=Dorf%20156%2C%206313%20Wildsch%C3%B6nau%20%28Auffach%29%2C%20Austria\" rel=\"nofollow noopener\" target=\"_blank\">Auf der Karte</a></li>\n<li><strong>Telefon:</strong> <a href=\"tel:+4353398843\">+43 5339 8843</a></li>\n<li><strong>Website:</strong> <a href=\"https://www.thaler-sport.at\" rel=\"nofollow noopener\" target=\"_blank\">eigene Website</a></li>\n<li><strong>Öffnungszeiten:</strong> Mo–Sa 8.30–12.00 Uhr; Winterzeiten auf Anfrage</li>\n<li><strong>Preise:</strong> auf Anfrage</li>\n</ul>\n</article>\n</div>\n"
+   }
+  },
+  {
+   "html": {
+    "nl": "\n<h2 id=\"h-thierbach\">Thierbach en Mühltal</h2>\n<p>Voor zover bekend hebben Thierbach en Mühltal geen eigen skiverhuur. Verblijf je daar, dan huur je in Auffach of Niederau en neem je de skibus. Plan op de eerste ochtend een halfuur extra in: schoenen passen en afstellen kost meer tijd dan mensen verwachten.</p>\n",
+    "en": "\n<h2 id=\"h-thierbach\">Thierbach and Mühltal</h2>\n<p>As far as is known, neither Thierbach nor Mühltal has its own ski rental. If you are staying there, hire in Auffach or Niederau and take the ski bus. Allow an extra half hour on the first morning: fitting and adjusting boots takes longer than people expect.</p>\n",
+    "de": "\n<h2 id=\"h-thierbach\">Thierbach und Mühltal</h2>\n<p>Nach derzeitigem Wissen gibt es in Thierbach und Mühltal keinen eigenen Skiverleih. Bei Unterkunft dort leiht man in Auffach oder Niederau und nimmt den Skibus. Planen Sie am ersten Morgen eine halbe Stunde zusätzlich ein: Schuhe anpassen und einstellen dauert länger als erwartet.</p>\n"
+   }
+  },
+  {
+   "html": {
+    "nl": "\n<h2 id=\"h-prijs\">Wat kost skiverhuur?</h2>\n<p>De tarieven staan hier bewust niet: ze veranderen per seizoen en per verhuurder, en een verouderd bedrag op een website is erger dan geen bedrag. De prijzen zijn op aanvraag bij de verhuurder. Wat de prijs bepaalt, is wel te benoemen:</p>\n<ul class=\"check\">\n<li><strong>Materiaalklasse.</strong> Vrijwel elke verhuurder werkt met twee of drie niveaus: basis, gevorderd en premium. Het verschil zit in de leeftijd van de ski en in hoe fijn hij op de kant loopt.</li>\n<li><strong>Huurduur.</strong> Vanaf ongeveer vier dagen is een weekpakket meestal gunstiger dan losse dagen. Vraag altijd beide tarieven.</li>\n<li><strong>Schoenen en helm.</strong> Vaak los geprijsd. In Tirol bestaat voor zover bekend geen wettelijke helmplicht, ook niet voor kinderen, terwijl die in de meeste andere Oostenrijkse deelstaten wel geldt. Huur er dus zelf een bij, zeker voor kinderen.</li>\n<li><strong>Schadeafkoop.</strong> Een kleine opslag per dag die breuk en diefstal afdekt. Check eerst of je reis- of aansprakelijkheidsverzekering dit al dekt.</li>\n<li><strong>Kortingen.</strong> Bij Blachfelder geldt met de Wildschönau Card zeven dagen huren voor de prijs van zes. Margreiter, Thaler en Ski Auffach noemen dezelfde 7-voor-6-regel voor huurmateriaal, en rodelverhuur is bij meerdere verhuurders met korting. Met de Wildschönau Card Winter is bij Margreiter en Thaler één dag sneeuwschoenverhuur inbegrepen.</li>\n</ul>\n<p class=\"note\">Tarieven en voorwaarden zijn die van de verhuurders zelf. Deze site verkoopt geen huurmateriaal en bemiddelt niet; aan de informatie hierboven kunnen geen rechten worden ontleend.</p>\n",
+    "en": "\n<h2 id=\"h-price\">What does it cost?</h2>\n<p>Rates are deliberately not listed here: they change every season and differ per shop, and an out-of-date figure on a website is worse than none. Prices are on request from the shop. What drives the price can be set out, though:</p>\n<ul class=\"check\">\n<li><strong>Equipment class.</strong> Almost every shop works with two or three levels: basic, advanced and premium. The difference lies in the age of the ski and how precisely it holds an edge.</li>\n<li><strong>Rental period.</strong> From about four days on, a week package usually beats separate days. Ask for both rates.</li>\n<li><strong>Boots and helmet.</strong> Often priced separately. As far as is known, Tyrol has no legal helmet requirement, not even for children, whereas most other Austrian federal states do. Hire one anyway, certainly for children.</li>\n<li><strong>Damage cover.</strong> A small daily surcharge covering breakage and theft. Check first whether your travel or liability insurance already covers it.</li>\n<li><strong>Discounts.</strong> At Blachfelder the Wildschönau Card gives seven days of rental for the price of six. Margreiter, Thaler and Ski Auffach state the same 7-for-6 rule for rental equipment, and sledge rental is discounted at several shops. With the Wildschönau Card Winter, one day of snowshoe rental is included at Margreiter and Thaler.</li>\n</ul>\n<p class=\"note\">Rates and conditions are those of the shops themselves. This site does not sell or broker rental equipment, and no rights can be derived from the information above.</p>\n",
+    "de": "\n<h2 id=\"h-preis\">Was kostet das?</h2>\n<p>Die Tarife stehen hier bewusst nicht: Sie ändern sich pro Saison und pro Verleiher, und ein veralteter Betrag auf einer Website ist schlechter als keiner. Die Preise sind beim Verleiher auf Anfrage. Was den Preis bestimmt, lässt sich aber benennen:</p>\n<ul class=\"check\">\n<li><strong>Materialklasse.</strong> Fast jeder Verleiher arbeitet mit zwei oder drei Stufen: Basis, Fortgeschritten und Premium. Der Unterschied liegt im Alter des Skis und darin, wie präzise er den Kantengriff hält.</li>\n<li><strong>Mietdauer.</strong> Ab etwa vier Tagen ist ein Wochenpaket meist günstiger als Einzeltage. Fragen Sie nach beiden Tarifen.</li>\n<li><strong>Schuhe und Helm.</strong> Oft separat bepreist. In Tirol gibt es nach derzeitigem Wissen keine gesetzliche Helmpflicht, auch nicht für Kinder, in den meisten anderen Bundesländern aber schon. Mieten Sie trotzdem einen, gerade für Kinder.</li>\n<li><strong>Schadensabdeckung.</strong> Ein kleiner Tagesaufschlag für Bruch und Diebstahl. Prüfen Sie zuerst, ob Ihre Reise- oder Haftpflichtversicherung das schon abdeckt.</li>\n<li><strong>Rabatte.</strong> Bei Blachfelder gilt mit der Wildschönau Card sieben Tage mieten zum Preis von sechs. Margreiter, Thaler und Ski Auffach nennen dieselbe 7-für-6-Regel für Leihmaterial, und der Rodelverleih ist bei mehreren Verleihern vergünstigt. Mit der Wildschönau Card Winter ist bei Margreiter und Thaler ein Tag Schneeschuhverleih inbegriffen.</li>\n</ul>\n<p class=\"note\">Tarife und Bedingungen sind die der Verleiher selbst. Diese Website verkauft und vermittelt kein Leihmaterial; aus den Angaben oben können keine Rechte abgeleitet werden.</p>\n"
+   }
+  },
+  {
+   "html": {
+    "nl": "\n<h2 id=\"h-tips\">Zo haal je er het meeste uit</h2>\n<div class=\"grid grid-two\">\n<article class=\"card\">\n<h3>Ga op een rustig moment</h3>\n<p>Zaterdagmiddag en zondagochtend zijn de drukste momenten, omdat dan de wissel van vakantiegasten valt. Kom je op zaterdag aan, haal je materiaal dan in de late namiddag op in plaats van direct na aankomst.</p>\n</article>\n<article class=\"card\">\n<h3>Neem je eigen sokken en steunzolen mee</h3>\n<p>Eén paar dunne skisokken is beter dan twee dikke paren. Heb je eigen inlegzolen, neem die mee naar de fitting: schoenen voelen anders met de zool die je gewend bent.</p>\n</article>\n<article class=\"card\">\n<h3>Noem je gewicht en niveau eerlijk</h3>\n<p>De bindingsinstelling wordt berekend uit lengte, gewicht, schoenmaat en niveau. Een te hoge instelling laat de ski niet los bij een val, een te lage laat hem juist los op de piste.</p>\n</article>\n\n</div>\n",
+    "en": "\n<h2 id=\"h-tips\">Getting the most out of it</h2>\n<div class=\"grid grid-two\">\n<article class=\"card\"><h3>Go at a quiet moment</h3><p>Saturday afternoon and Sunday morning are the busiest, because that is when holiday guests change over. If you arrive on a Saturday, pick up your gear in the late afternoon rather than straight after arrival.</p></article>\n<article class=\"card\"><h3>Bring your own socks and insoles</h3><p>One pair of thin ski socks beats two thick pairs. If you use your own insoles, bring them to the fitting: boots feel different with the footbed you are used to.</p></article>\n<article class=\"card\"><h3>Be honest about weight and ability</h3><p>The binding setting is calculated from height, weight, boot size and ability. Set too high, the ski will not release in a fall; set too low, it releases on the piste.</p></article>\n\n</div>\n",
+    "de": "\n<h2 id=\"h-tipps\">So holen Sie das Meiste heraus</h2>\n<div class=\"grid grid-two\">\n<article class=\"card\"><h3>Zu einer ruhigen Zeit kommen</h3><p>Samstagnachmittag und Sonntagvormittag sind am stärksten, weil dann der Gästewechsel stattfindet. Bei Anreise am Samstag holen Sie das Material besser am späten Nachmittag ab als direkt nach der Ankunft.</p></article>\n<article class=\"card\"><h3>Eigene Socken und Einlagen mitnehmen</h3><p>Ein Paar dünne Skisocken ist besser als zwei dicke. Wer eigene Einlagen nutzt, nimmt sie zur Anpassung mit: Schuhe fühlen sich mit dem gewohnten Fußbett anders an.</p></article>\n<article class=\"card\"><h3>Gewicht und Niveau ehrlich angeben</h3><p>Die Bindungseinstellung wird aus Größe, Gewicht, Schuhgröße und Fahrkönnen berechnet. Zu hoch eingestellt löst der Ski bei einem Sturz nicht aus, zu niedrig löst er auf der Piste aus.</p></article>\n\n</div>\n"
+   }
+  },
+  {
+   "html": {
+    "nl": "\n<h2 id=\"h-seizoen\">Wanneer heb je het materiaal nodig?</h2>\n<p>In het seizoen 2026/27 draait de Schatzbergbahn in Auffach van 4 december 2026 tot 4 april 2027. De Markbachjochbahn en de Lanerköpflbahn in Niederau draaien van 18 december 2026 tot 29 maart 2027, de oefenliften in Oberau en de Riedmannliften bij Roggenboden tot ongeveer half maart. In de eerste en laatste weken van het seizoen is het verstandig te bellen voordat je materiaal voor een week vastlegt.</p>\n<p>Bron: bedrijfstijden Ski Juwel Alpbachtal Wildschönau; wijzigingen voorbehouden. Hoeveel sneeuw je in welke maand kunt verwachten, staat op <a href=\"/weer-niederau/\">de weerpagina</a>.</p>\n",
+    "en": "\n<h2 id=\"h-season\">When will you need the equipment?</h2>\n<p>In the 2026/27 season the Schatzbergbahn in Auffach runs from 4 December 2026 to 4 April 2027. The Markbachjochbahn and Lanerköpflbahn in Niederau run from 18 December 2026 to 29 March 2027, and the Oberau training lifts and the Riedmann lifts at Roggenboden until roughly mid-March. In the first and last weeks of the season it is worth calling before committing to a week's hire.</p>\n<p>Source: Ski Juwel Alpbachtal Wildschönau operating times, subject to change. How much snow to expect in which month is on <a href=\"/en/weather-niederau/\">the weather page</a>.</p>\n",
+    "de": "\n<h2 id=\"h-saison\">Wann brauchen Sie das Material?</h2>\n<p>In der Saison 2026/27 fährt die Schatzbergbahn in Auffach vom 4. Dezember 2026 bis 4. April 2027. Die Markbachjochbahn und die Lanerköpflbahn in Niederau fahren vom 18. Dezember 2026 bis 29. März 2027, die Übungslifte in Oberau und die Riedmannlifte bei Roggenboden bis etwa Mitte März. In den ersten und letzten Saisonwochen lohnt ein Anruf, bevor Sie Material für eine Woche festlegen.</p>\n<p>Quelle: Betriebszeiten Ski Juwel Alpbachtal Wildschönau, Änderungen vorbehalten. Wie viel Schnee in welchem Monat zu erwarten ist, steht auf <a href=\"/de/wetter-niederau/\">der Wetterseite</a>.</p>\n"
+   }
+  },
+  {
+   "html": {
+    "nl": "\n<h2 id=\"h-meer\">Handige overzichten</h2>\n<ul class=\"links-plain\">\n<li><a href=\"/skigebied-niederau-kaart/\">Skigebied en pistekaart</a></li>\n<li><a href=\"/skischolen-niederau/\">Skischolen in Niederau en omgeving</a></li>\n<li><a href=\"/wat-kost-een-skipas-niederau/\">Wat kost een skipas?</a></li>\n<li><a href=\"/weer-niederau/\">Weer, klimaat en sneeuw per maand</a></li>\n<li><a href=\"/webcam/\">Webcam Niederau</a></li>\n<li><a href=\"/gids/skien-met-kinderen/\">Skiën met kinderen</a></li>\n</ul>\n",
+    "en": "\n<h2 id=\"h-more\">Useful overviews</h2>\n<ul class=\"links-plain\">\n<li><a href=\"/en/ski-area-niederau-map/\">Ski area and piste map</a></li>\n<li><a href=\"/en/ski-schools-niederau/\">Ski schools in and around Niederau</a></li>\n<li><a href=\"/en/weather-niederau/\">Weather, climate and snow month by month</a></li>\n<li><a href=\"/en/webcam/\">Webcam Niederau</a></li>\n</ul>\n",
+    "de": "\n<h2 id=\"h-mehr\">Praktische Übersichten</h2>\n<ul class=\"links-plain\">\n<li><a href=\"/de/skigebiet-niederau-karte/\">Skigebiet und Pistenplan</a></li>\n<li><a href=\"/de/skischulen-niederau/\">Skischulen in und um Niederau</a></li>\n<li><a href=\"/de/wetter-niederau/\">Wetter, Klima und Schnee pro Monat</a></li>\n<li><a href=\"/de/webcam/\">Webcam Niederau</a></li>\n</ul>\n"
    }
   }
  ],
  "faq": [
   {
    "q": {
-    "nl": "Waar kan ik in Niederau ski’s huren?",
-    "en": "Where can I rent skis in Niederau?",
-    "de": "Wo kann ich in Niederau Ski mieten?"
+    "nl": "Moet ik ski’s vooraf reserveren in Niederau?",
+    "en": "Do I need to book ski rental in Niederau in advance?",
+    "de": "Muss ich den Skiverleih in Niederau vorab reservieren?"
    },
    "a": {
-    "nl": "In het dorpscentrum bij Sport Blachfelder (in Hotel Austria) en bij het Markbachjoch bij Ski & Board Margreiter.",
-    "en": "In the village centre at Sport Blachfelder (in Hotel Austria) and at the Markbachjoch at Ski & Board Margreiter.",
-    "de": "Im Ortskern bei Sport Blachfelder (im Hotel Austria) und am Markbachjoch bei Ski & Board Margreiter."
+    "nl": "In de drukke weken, de Nederlandse en Duitse kerstvakantie en de krokusvakantie, is reserveren verstandig: dan zijn vooral de gangbare maten snel weg. Buiten die weken kun je meestal op de dag zelf terecht. Bel of mail de verhuurder om te vragen of reserveren mogelijk is.",
+    "en": "In the busy weeks, the Dutch and German Christmas holidays and the February half-term, booking ahead is wise: the common sizes go first. Outside those weeks you can usually walk in on the day. Call or e-mail the shop to ask whether reservation is possible.",
+    "de": "In den starken Wochen, den niederländischen und deutschen Weihnachtsferien sowie den Semesterferien, ist eine Reservierung sinnvoll: Die gängigen Größen sind dann schnell weg. Außerhalb dieser Wochen bekommt man meist am selben Tag Material. Fragen Sie telefonisch oder per E-Mail beim Verleiher nach, ob eine Reservierung möglich ist."
    }
   },
   {
    "q": {
-    "nl": "Kan ik in Oberau of Auffach ski’s huren?",
-    "en": "Can I rent skis in Oberau or Auffach?",
-    "de": "Kann ich in Oberau oder Auffach Ski mieten?"
+    "nl": "Wat kost skiverhuur in Niederau?",
+    "en": "What does ski rental in Niederau cost?",
+    "de": "Was kostet der Skiverleih in Niederau?"
    },
    "a": {
-    "nl": "Ja. In Oberau heeft Margreiter een vestiging. In Auffach zijn Margreiter bij het dalstation van de Schatzbergbahn, Ski Auffach en Skisport Thaler.",
-    "en": "Yes. In Oberau Margreiter has a branch. In Auffach there are Margreiter at the valley station of the Schatzbergbahn, Ski Auffach and Skisport Thaler.",
-    "de": "Ja. In Oberau hat Margreiter eine Filiale. In Auffach gibt es Margreiter an der Talstation der Schatzbergbahn, Ski Auffach und Skisport Thaler."
+    "nl": "De tarieven zijn op aanvraag bij de verhuurder. De prijs hangt af van de klasse van het materiaal, de huurduur, of je schoenen en helm meeneemt en of je een schadeafkoop neemt. Vergelijk altijd het dagtarief met het weektarief: bij de meeste verhuurders geldt zeven dagen huren voor de prijs van zes.",
+    "en": "Rates are on request from the shop. The price depends on the equipment class, the rental period, whether you add boots and a helmet, and whether you take damage cover. Always compare the daily rate with the weekly rate: most shops apply seven days for the price of six.",
+    "de": "Die Tarife sind beim Verleiher auf Anfrage. Der Preis hängt von der Materialklasse, der Mietdauer, von Schuhen und Helm sowie von einer möglichen Schadensabdeckung ab. Vergleichen Sie immer den Tages- mit dem Wochentarif: Bei den meisten Verleihern gilt sieben Tage mieten zum Preis von sechs."
    }
   },
   {
    "q": {
-    "nl": "Kan ik ook langlaufski’s of sneeuwschoenen huren?",
-    "en": "Can I also rent cross-country skis or snowshoes?",
-    "de": "Kann ich auch Langlaufski oder Schneeschuhe mieten?"
+    "nl": "Kun je met de Wildschönau Card korting krijgen op skiverhuur?",
+    "en": "Does the Wildschönau Card give a discount on ski rental?",
+    "de": "Gibt die Wildschönau Card Rabatt auf den Skiverleih?"
    },
    "a": {
-    "nl": "Volgens de bronnen verhuurt Margreiter langlaufski’s. Sneeuwschoenenverhuur wordt bij meerdere verhuurders genoemd; vraag het vooraf na.",
-    "en": "According to the sources Margreiter rents cross-country skis. Snowshoe rental is mentioned at several shops; ask beforehand.",
-    "de": "Laut den Quellen verleiht Margreiter Langlaufski. Schneeschuhverleih wird bei mehreren Verleihen genannt; frag vorab nach."
+    "nl": "Bij Sport Blachfelder geldt met de Wildschönau Card zeven dagen huren voor de prijs van zes. Met de Wildschönau Card Winter is bij Ski & Board Margreiter en Skisport Thaler één dag sneeuwschoenverhuur inbegrepen. Vraag de precieze voorwaarden na bij de verhuurder.",
+    "en": "At Sport Blachfelder the Wildschönau Card gives seven days of rental for the price of six. With the Wildschönau Card Winter, one day of snowshoe rental is included at Ski & Board Margreiter and Skisport Thaler. Check the exact conditions with the shop.",
+    "de": "Bei Sport Blachfelder gilt mit der Wildschönau Card sieben Tage mieten zum Preis von sechs. Mit der Wildschönau Card Winter ist bei Ski & Board Margreiter und Skisport Thaler ein Tag Schneeschuhverleih inbegriffen. Die genauen Bedingungen erfragen Sie beim Verleiher."
    }
   },
   {
    "q": {
-    "nl": "Is de skipas bij de verhuur inbegrepen?",
-    "en": "Is the ski pass included in the rental?",
-    "de": "Ist der Skipass im Verleih enthalten?"
+    "nl": "Is er skiverhuur in Thierbach of Mühltal?",
+    "en": "Is there ski rental in Thierbach or Mühltal?",
+    "de": "Gibt es Skiverleih in Thierbach oder Mühltal?"
    },
    "a": {
-    "nl": "Nee. Huur en skipas zijn aparte aankopen. Informeer bij Ski Juwel of je accommodatie naar de skipas.",
-    "en": "No. Rental and ski pass are separate purchases. Ask Ski Juwel or your accommodation about the ski pass.",
-    "de": "Nein. Verleih und Skipass sind getrennte Käufe. Frag beim Ski Juwel oder deiner Unterkunft nach dem Skipass."
+    "nl": "Voor zover bekend niet. Gasten die daar verblijven, nemen de skibus naar Auffach of Niederau en huren daar. Reken op wat extra tijd op de eerste ochtend.",
+    "en": "As far as is known, no. Guests staying there take the ski bus to Auffach or Niederau and hire there. Allow some extra time on the first morning.",
+    "de": "Nach derzeitigem Wissen nicht. Gäste nehmen den Skibus nach Auffach oder Niederau und leihen dort. Planen Sie am ersten Morgen etwas mehr Zeit ein."
+   }
+  },
+  {
+   "q": {
+    "nl": "Kan ik ook rodels, langlaufski’s of sneeuwschoenen huren?",
+    "en": "Can I also hire sledges, cross-country skis or snowshoes?",
+    "de": "Kann man auch Rodeln, Langlaufski oder Schneeschuhe leihen?"
+   },
+   "a": {
+    "nl": "Ja. Rodels zijn onder andere te huur bij Sport Blachfelder, Ski & Board Margreiter en Skisport Thaler. Langlaufski’s verhuurt Ski & Board Margreiter. Sneeuwschoenverhuur is bij Margreiter en Thaler met de Wildschönau Card Winter één dag inbegrepen.",
+    "en": "Yes. Sledges can be hired at Sport Blachfelder, Ski & Board Margreiter and Skisport Thaler, among others. Ski & Board Margreiter rents cross-country skis. With the Wildschönau Card Winter, one day of snowshoe rental is included at Margreiter and Thaler.",
+    "de": "Ja. Rodeln gibt es unter anderem bei Sport Blachfelder, Ski & Board Margreiter und Skisport Thaler. Langlaufski verleiht Ski & Board Margreiter. Mit der Wildschönau Card Winter ist bei Margreiter und Thaler ein Tag Schneeschuhverleih inbegriffen."
    }
   }
  ],
- "related": [
+ "shops": [
   {
-   "type": "page",
-   "path": {
-    "nl": "skigebied-niederau-kaart/",
-    "en": "ski-area-niederau-map/",
-    "de": "skigebiet-niederau-karte/"
-   },
-   "label": {
-    "nl": "Skigebied Niederau: pistekaart en overzicht",
-    "en": "Niederau ski area: piste map and overview",
-    "de": "Skigebiet Niederau: Pistenplan und Überblick"
-   }
+   "name": "Sport Blachfelder",
+   "street": "Dorfstraße 123",
+   "zip": "6314",
+   "loc": "Wildschönau (Niederau)",
+   "tel": "+435339818858",
+   "url": "https://www.sportblachfelder.at"
   },
   {
-   "type": "guide",
-   "id": "skien-met-kinderen"
+   "name": "Ski & Board Margreiter Niederau",
+   "street": "Niederau 102",
+   "zip": "6314",
+   "loc": "Wildschönau (Niederau)",
+   "tel": "+4353392324",
+   "url": "https://www.ski-margreiter.at"
   },
   {
-   "type": "guide",
-   "id": "wildschoenau-card"
+   "name": "Ski & Board Margreiter Oberau",
+   "street": "Oberau 174",
+   "zip": "6311",
+   "loc": "Wildschönau (Oberau)",
+   "tel": "+436765405060",
+   "url": "https://www.ski-margreiter.at"
   },
   {
-   "type": "guide",
-   "id": "ski-juwel"
+   "name": "Ski & Board Margreiter Auffach",
+   "street": "Auffach-Dorf",
+   "zip": "6313",
+   "loc": "Wildschönau (Auffach)",
+   "tel": "+4353392426",
+   "url": "https://www.ski-margreiter.at"
+  },
+  {
+   "name": "Ski Auffach",
+   "street": "Dorf, Auffach 6",
+   "zip": "6313",
+   "loc": "Wildschönau (Auffach)",
+   "tel": "+43533921703",
+   "url": "https://www.ski-auffach.at"
+  },
+  {
+   "name": "Skisport Thaler",
+   "street": "Dorf 156",
+   "zip": "6313",
+   "loc": "Wildschönau (Auffach)",
+   "tel": "+4353398843",
+   "url": "https://www.thaler-sport.at"
   }
- ]
+ ],
+ "shops_name": {
+  "nl": "Skiverhuur in de Wildschönau",
+  "en": "Ski rental in the Wildschönau",
+  "de": "Skiverleih in der Wildschönau"
+ },
+ "checked": "2026-10"
 }
