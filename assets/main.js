@@ -80,3 +80,15 @@
     });
   }
 })();
+
+// Externe beelden (webcam, weerkaart) pas laden na een klik, zodat er vooraf geen bezoekersgegevens naar derden gaan
+document.addEventListener("click", function (ev) {
+  var b = ev.target.closest && ev.target.closest(".embed-load");
+  if (!b) return;
+  var f = document.createElement("iframe");
+  f.src = b.getAttribute("data-src"); f.title = b.getAttribute("data-title") || "";
+  f.width = "100%"; f.height = b.getAttribute("data-h") || "450"; f.loading = "lazy";
+  f.setAttribute("allowfullscreen", ""); f.setAttribute("referrerpolicy", "strict-origin-when-cross-origin");
+  f.style.border = "0"; f.style.width = "100%";
+  var box = b.parentNode; box.innerHTML = ""; box.style.minHeight = "0"; box.appendChild(f);
+});

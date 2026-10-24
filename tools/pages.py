@@ -1048,6 +1048,31 @@ SKI_LABELS = {"kaart": {"nl": "Skigebied Niederau: pistekaart en overzicht", "en
 def guide_li(gid, lang):
     g = next(x for x in GUIDES if x["id"] == gid)
     return f'<li><a href="{u_guide(g, lang)}">{e(L(g["title"], lang))}</a></li>'
+EMBEDS = [  # (titel, src, hoogte, aanbieder, link-label, link)
+    ({"nl": "Webcams Wildschönau via Bergfex", "en": "Wildschönau webcams via Bergfex", "de": "Webcams Wildschönau über Bergfex"},
+     "https://nl.bergfex.com/wildschoenau/webcams/c5213/", 600, "Bergfex", "https://nl.bergfex.com/wildschoenau/webcams/c5213/"),
+    ({"nl": "Weerkaart Niederau via Windy", "en": "Weather map Niederau via Windy", "de": "Wetterkarte Niederau über Windy"},
+     "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=%C2%B0C&metricWind=km/h&zoom=9&lat=47.4446&lon=12.0789&detail=true&detailLat=47.4446&detailLon=12.0789&marker=true&message=true",
+     450, "Windy", "https://www.windy.com/47.445/12.079?47.445,12.079,10"),
+]
+EMBED_UI = {
+    "h": {"nl": "Live kijken", "en": "Watch live", "de": "Live ansehen"},
+    "p": {"nl": "Deze beelden laad je pas na een klik. Dan maakt je browser verbinding met de aanbieder (Bergfex of Windy), die je IP-adres ontvangt en cookies kan plaatsen. Zolang je niet klikt, wordt er niets gedeeld. Zie onze privacyverklaring.",
+          "en": "These views only load after you click. Your browser then connects to the provider (Bergfex or Windy), which receives your IP address and may set cookies. Nothing is shared as long as you do not click. See our privacy policy.",
+          "de": "Diese Ansichten werden erst nach einem Klick geladen. Dann verbindet sich dein Browser mit dem Anbieter (Bergfex oder Windy), der deine IP-Adresse erhält und Cookies setzen kann. Solange du nicht klickst, wird nichts weitergegeben. Siehe unsere Datenschutzerklärung."},
+    "btn": {"nl": "Toon live beeld", "en": "Show live view", "de": "Live-Bild anzeigen"},
+    "open": {"nl": "Opent het beeld niet? Open het bij", "en": "Does it not open? Open it at", "de": "Öffnet sich das Bild nicht? Öffne es bei"},
+}
+def embeds_html(lang):
+    k = lambda key: EMBED_UI[key][lang if lang in EMBED_UI[key] else "nl"]
+    cards = ""
+    for title, src, h, prov, link in EMBEDS:
+        t = title.get(lang) or title["nl"]
+        cards += (f'<article class="card embed-card"><h3>{e(t)}</h3><div class="embed-box" style="min-height:{min(h, 240)}px">'
+                  f'<button class="btn embed-load" type="button" data-src="{html.escape(src, quote=True)}" data-title="{e(t)}" data-h="{h}">{e(k("btn"))}</button></div>'
+                  f'<p class="note">{e(k("open"))} <a href="{link}" rel="noopener" target="_blank">{prov}</a>.</p></article>')
+    return f'<section aria-labelledby="h-live"><div class="wrap"><h2 id="h-live">{e(k("h"))}</h2><p>{e(k("p"))}</p><div class="grid" style="grid-template-columns:1fr">{cards}</div></div></section>\n'
+
 def build_webcam():
     urls = {l: u_webcam(l) for l in LANGS}
     for lang in LANGS:
@@ -1062,7 +1087,7 @@ def build_webcam():
         faq_s, faq_ld = faq_html(faq, lang)
         rel = f'<li><a href="/{PREFIX[lang]}markbachjoch/">{ui("n_mb", lang)}</a></li>{guide_li("ski-juwel", lang)}<li><a href="/{PREFIX[lang]}{SKI_SLUGS["kaart"][lang]}/">{e(SKI_LABELS["kaart"][lang])}</a></li><li><a href="/{PREFIX[lang]}{SKI_SLUGS["verhuur"][lang]}/">{e(SKI_LABELS["verhuur"][lang])}</a></li>{guide_li("veilig-in-de-bergen", lang)}<li><a href="{u_events(lang)}">{ui("n_events", lang)}</a></li>'
         body = f'''<section aria-labelledby="h-top"><div class="wrap">{cr}<h1 id="h-top">{e(name)}</h1><p class="lead">{e(WEBCAM["tagline"][i])}</p><p>{e(WEBCAM["intro"][i])}</p>{gen_one("niederau-skien-markbachjoch", lang, ' data-only="winter"')}{gen_one("niederau-markbachjochbahn-gondel", lang, ' data-only="summer"')}</div></section>
-<section class="alt"><div class="wrap"><h2>{e(WEBCAM["cams_h"][i])}</h2><div class="grid grid-two">{cards}</div></div></section>
+{embeds_html(lang)}<section class="alt"><div class="wrap"><h2>{e(WEBCAM["cams_h"][i])}</h2><div class="grid grid-two">{cards}</div></div></section>
 <section><div class="wrap"><h2>{e(WEBCAM["see_h"][i])}</h2><p>{e(WEBCAM["see_p"][i])}</p><h2>{e(WEBCAM["before_h"][i])}</h2><p>{e(WEBCAM["before_p"][i])}</p><ul class="check">{before}</ul><p>{e(WEBCAM["season_p"][i])}</p></div></section>
 {faq_s}
 <section class="alt"><div class="wrap"><h2>{e(WEBCAM["related_h"][i])}</h2><ul class="check">{rel}</ul></div></section>'''

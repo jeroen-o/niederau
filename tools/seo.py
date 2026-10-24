@@ -72,8 +72,9 @@ def build(lang, cfg, page):
          "image": [f"{BASE}/assets/img/niederau-winter-bauernhuis-hero-2048.webp", f"{BASE}/assets/img/markbachjoch-bergmeer-zomer-hero-2048.webp", OG_IMAGE],
          "address": {"@type": "PostalAddress", "addressLocality": "Wildschönau", "postalCode": "6314",
                      "addressRegion": "Tirol", "addressCountry": "AT"},
-         "containedInPlace": {"@type": "AdministrativeArea", "name": "Wildschönau",
+         "containedInPlace": {"@type": "AdministrativeArea", "name": "Wildschönau", "sameAs": ["https://www.wikidata.org/wiki/Q606713", "https://en.wikipedia.org/wiki/Wildsch%C3%B6nau"],
                               "containedInPlace": {"@type": "AdministrativeArea", "name": "Tirol"}},
+         "sameAs": ["https://www.wikidata.org/wiki/Q125821759"],
          "touristType": ["Wintersport", "Hiking", "Families"],
          "includesAttraction": [dict({"@type": "TouristAttraction", "name": n}, **({"url": cfg["url"] + _u} if (_u := {"Markbachjoch": "markbachjoch/", "Lanerköpfl": "lanerkoepfl-niederau/"}.get(n)) else {}))
                                 for n in ("Markbachjoch", "Lanerköpfl", "Ski Juwel Alpbachtal Wildschönau", "Kundler Klamm", "Rodelbahn Lanerköpfl", "Drachental", "Bergbauernmuseum z'Bach")]},

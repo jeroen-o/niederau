@@ -36,6 +36,27 @@ def human(d, lang):
     if lang == "de": return f"{d.day}. {MONTHS['de'][d.month - 1]} {d.year}"
     return f"{d.day} {MONTHS['nl'][d.month - 1]} {d.year}"
 
+AUTHOR = {"@type": "Person", "@id": "https://niederau.nl/#author", "name": "Jeroen Oversteegen", "url": "https://niederau.nl/over/",
+          "description": "Komt al meer dan vijftig jaar in Niederau en schrijft deze onafhankelijke gids.",
+          "knowsAbout": ["Niederau", "Wildschönau", "Tirol", "Ski Juwel Alpbachtal Wildschönau"], "knowsLanguage": ["nl", "en", "de"]}
+
+def add_author(t):
+    """Koppelt elke WebPage in de JSON-LD aan de auteur (Person, naam staat ook in het colofon/Impressum)."""
+    def fix(m):
+        try: j = json.loads(m.group(1))
+        except Exception: return m.group(0)
+        g = j.get("@graph")
+        if not g or any(n.get("@id") == AUTHOR["@id"] for n in g): return m.group(0)
+        hit = False
+        for n in g:
+            ty = n.get("@type"); ty = ty if isinstance(ty, list) else [ty]
+            if "WebPage" in ty and "author" not in n:
+                n["author"] = {"@id": AUTHOR["@id"]}; hit = True
+        if not hit: return m.group(0)
+        g.append(dict(AUTHOR))
+        return '<script type="application/ld+json">' + json.dumps(j, ensure_ascii=False, indent=1) + "</script>"
+    return re.sub(r'<script type="application/ld\+json">(.*?)</script>', fix, t, flags=re.S)
+
 dates = {}
 new_manifest = {}
 for f in sorted(ROOT.rglob("index.html")):
@@ -51,6 +72,7 @@ for f in sorted(ROOT.rglob("index.html")):
     lang = (re.search(r'<html lang="(\w+)"', t) or [None, "nl"])[1]
     d = datetime.date.fromisoformat(date)
     t = t.replace("@@LASTMOD_H@@", human(d, lang)).replace("@@LASTMOD@@", date)
+    t = add_author(t)  # na de hash: structured data wijzigt de lastmod-datum niet
     f.write_text(t, encoding="utf-8")
     dates["/" + rel[:-len("index.html")]] = date
 

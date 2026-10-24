@@ -92,6 +92,18 @@
     "en": "If the website changes, for example by adding a new service, I will update this statement. The date of the last change is at the bottom of the page.",
     "de": "Wenn sich die Website ändert, etwa durch einen neuen Dienst, passe ich diese Erklärung an. Das Datum der letzten Änderung steht am Seitenende."
    }
+  },
+  {
+   "h": {
+    "nl": "Ingesloten externe inhoud (webcam en weerkaart)",
+    "en": "Embedded external content (webcam and weather map)",
+    "de": "Eingebettete externe Inhalte (Webcam und Wetterkarte)"
+   },
+   "p": {
+    "nl": "Op de webcampagina kun je met een klik beelden van Bergfex en een weerkaart van Windy laden. Pas na je klik maakt je browser verbinding met die aanbieder. Die ontvangt dan je IP-adres en kan cookies plaatsen of gegevens verwerken volgens het eigen privacybeleid. Wij slaan hierover niets op. Klik je niet, dan wordt er niets gedeeld.",
+    "en": "On the webcam page you can load images from Bergfex and a weather map from Windy with a click. Only after your click does your browser connect to that provider. The provider then receives your IP address and may set cookies or process data under its own privacy policy. We store nothing about this. If you do not click, nothing is shared.",
+    "de": "Auf der Webcam-Seite kannst du per Klick Bilder von Bergfex und eine Wetterkarte von Windy laden. Erst nach deinem Klick verbindet sich dein Browser mit dem jeweiligen Anbieter. Dieser erhält dann deine IP-Adresse und kann Cookies setzen oder Daten nach seiner eigenen Datenschutzerklärung verarbeiten. Wir speichern dazu nichts. Wenn du nicht klickst, wird nichts weitergegeben."
+   }
   }
  ],
  "related": [
