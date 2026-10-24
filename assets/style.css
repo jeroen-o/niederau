@@ -363,3 +363,6 @@ html.js .search-btn { display: inline-flex; }
 .tbl tbody tr:last-child th, .tbl tbody tr:last-child td { border-bottom: 0; }
 
 .mt-note { margin: 0; padding: .55rem 1rem; background: var(--bg-alt); color: var(--ink-soft); font-size: .85rem; text-align: center; border-bottom: 1px solid var(--line); }
+
+.embed-box { display: flex; align-items: center; justify-content: center; background: var(--bg-alt); border: 1px solid var(--line); border-radius: var(--radius); margin: 10px 0; }
+.embed-box iframe { display: block; }
